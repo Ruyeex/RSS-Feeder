@@ -1,4 +1,12 @@
+"""
+Vintage Story Mod DB RSS Feed Generator
+
+Fetches the latest mods from the Vintage Story Mod DB API
+and generates an RSS feed for easy subscription to mod updates.
+"""
+
 import requests
+import sys
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from xml.sax.saxutils import escape
@@ -7,16 +15,25 @@ API_URL = "https://mods.vintagestory.at/api/mods"
 SITE_BASE = "https://mods.vintagestory.at/"
 FEED_FILE = "vsmoddb_updates.xml"
 NUM_ITEMS = 30
+REQUEST_TIMEOUT = 30
+
 
 def fetch_mods():
+    """Fetch latest mods from Vintage Story Mod DB API."""
     params = {"orderby": "lastreleased", "orderdirection": "desc"}
-    resp = requests.get(API_URL, params=params, timeout=30)
-    resp.raise_for_status()
-    data = resp.json()
-    mods = data.get("mods") or data.get("data") or []
-    return mods[:NUM_ITEMS]
+    try:
+        resp = requests.get(API_URL, params=params, timeout=REQUEST_TIMEOUT)
+        resp.raise_for_status()
+        data = resp.json()
+        mods = data.get("mods") or data.get("data") or []
+        return mods[:NUM_ITEMS]
+    except requests.RequestException as e:
+        print(f"Error fetching mods: {e}", file=sys.stderr)
+        return []
+
 
 def parse_date(value):
+    """Parse various date formats to RFC 2822 format."""
     if value is None:
         return datetime.now(timezone.utc)
     try:
@@ -26,11 +43,15 @@ def parse_date(value):
     except (ValueError, TypeError):
         return datetime.now(timezone.utc)
 
+
 def mod_link(mod):
+    """Generate mod link from mod data."""
     slug = mod.get("urlalias") or mod.get("modid") or mod.get("assetid")
     return f"{SITE_BASE}show/mod/{slug}" if slug else SITE_BASE
 
+
 def build_rss(mods):
+    """Build RSS feed from mod data."""
     items_xml = []
     for mod in mods:
         name = escape(str(mod.get("name", "Unknown mod")))
@@ -38,6 +59,7 @@ def build_rss(mods):
         link = escape(mod_link(mod))
         pub_date = format_datetime(parse_date(mod.get("lastreleased")))
         guid = escape(f"{link}#{mod.get('lastreleased', '')}")
+        
         items_xml.append(f"""  <item>
     <title>{name}</title>
     <link>{link}</link>
@@ -60,11 +82,27 @@ def build_rss(mods):
 """
     return rss
 
-mods = fetch_mods()
-if mods:
+
+def main():
+    """Main entry point."""
+    print("Fetching latest Vintage Story mods...")
+    mods = fetch_mods()
+    
+    if not mods:
+        print("No mods returned from API", file=sys.stderr)
+        sys.exit(1)
+    
+    print(f"Building RSS feed with {len(mods)} items...")
     rss = build_rss(mods)
-    with open(FEED_FILE, "w", encoding="utf-8") as f:
-        f.write(rss)
-    print(f"Wrote {len(mods)} items to {FEED_FILE}")
-else:
-    print("No mods returned")
+    
+    try:
+        with open(FEED_FILE, "w", encoding="utf-8") as f:
+            f.write(rss)
+        print(f"✓ Successfully wrote {len(mods)} items to {FEED_FILE}")
+    except IOError as e:
+        print(f"Error writing RSS feed: {e}", file=sys.stderr)
+        sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()
