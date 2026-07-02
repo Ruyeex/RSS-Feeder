@@ -7,6 +7,10 @@ on:
   # Allow manual trigger from GitHub UI
   workflow_dispatch:
 
+concurrency:
+  group: rss-feed-update
+  cancel-in-progress: false
+
 jobs:
   update-feed:
     runs-on: ubuntu-latest
@@ -27,25 +31,24 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Locate and run generator
-        run: |
-          echo "PWD: $(pwd)"
-          ls -la
-          if [ -f "./vsmoddb_rss.py" ]; then
-            python ./vsmoddb_rss.py
-          else
-            echo "Error: vsmoddb_rss.py not found in current directory"
-            find . -name 'vsmoddb_rss.py' -type f
-            exit 1
-          fi
+      - name: Run RSS generator
+        run: python ./vsmoddb_rss.py
+
       - name: Commit and push if changed
         run: |
-          git config user.name "Ruyeex"
-          git config user.email "ruyeex@gmail.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add vsmoddb_updates.xml
-          # Only commit if there are changes
-          if ! git diff --quiet || ! git diff --staged --quiet; then
-            git commit -m "Update VS Mod DB RSS feed"
-            git pull --rebase origin main
-            git push
+          
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
           fi
+          
+          git commit -m "chore: update VS Mod DB RSS feed"
+          
+          # Pull latest changes and rebase if needed
+          git pull --rebase origin main || git rebase --abort
+          
+          # Push with force-with-lease for safety
+          git push origin main
