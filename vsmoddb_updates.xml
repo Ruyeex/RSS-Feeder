@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 02 Jul 2026 18:26:45 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 02 Jul 2026 20:20:47 +0000</lastBuildDate>
+  <item>
+    <title>PlayerCollisions</title>
+    <link>https://mods.vintagestory.at/show/mod/8393</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8393#8393</guid>
+    <pubDate>Thu, 02 Jul 2026 20:20:35 -0000</pubDate>
+    <description>Adds player collision box repulsion.</description>
+  </item>
+  <item>
+    <title>Solid Long Tables</title>
+    <link>https://mods.vintagestory.at/show/mod/solidlongtables</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/solidlongtables#9994</guid>
+    <pubDate>Thu, 02 Jul 2026 20:13:11 -0000</pubDate>
+    <description>Makes certain 2x1 clutter tables solid multiblocks.</description>
+  </item>
+  <item>
+    <title>Vanilla+ classes</title>
+    <link>https://mods.vintagestory.at/show/mod/9924</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9924#9924</guid>
+    <pubDate>Thu, 02 Jul 2026 20:06:28 -0000</pubDate>
+    <description>A small mod, reshuffling class traits and roles, and equalising their usefulness for multiplayer.</description>
+  </item>
+  <item>
+    <title>Server Tweak</title>
+    <link>https://mods.vintagestory.at/show/mod/9993</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9993#9993</guid>
+    <pubDate>Thu, 02 Jul 2026 20:03:26 -0000</pubDate>
+    <description>Small tweak made for a closed server, DO NOT USE</description>
+  </item>
+  <item>
+    <title>CB Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
+    <pubDate>Thu, 02 Jul 2026 19:56:08 -0000</pubDate>
+    <description>JSON content patches for my small personal server</description>
+  </item>
+  <item>
+    <title>CB Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Thu, 02 Jul 2026 19:55:33 -0000</pubDate>
+    <description>Harmony patches for my personal server.</description>
+  </item>
+  <item>
+    <title>JSCM Frozen Struggles</title>
+    <link>https://mods.vintagestory.at/show/mod/jscmfs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jscmfs#9992</guid>
+    <pubDate>Thu, 02 Jul 2026 19:27:42 -0000</pubDate>
+    <description>A new modpack for my girlfriend and I. Focused around a Sub-Artic playthrough</description>
+  </item>
+  <item>
+    <title>Oils! Resoaped</title>
+    <link>https://mods.vintagestory.at/show/mod/oilsresoaped</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oilsresoaped#9991</guid>
+    <pubDate>Thu, 02 Jul 2026 19:15:43 -0000</pubDate>
+    <description>Oils! Resoaped. A content mod that adds plant oils &amp; their uses as well as some alternative recipes.</description>
+  </item>
+  <item>
+    <title>Navi</title>
+    <link>https://mods.vintagestory.at/show/mod/navi</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/navi#9028</guid>
+    <pubDate>Thu, 02 Jul 2026 19:15:00 -0000</pubDate>
+    <description>A glowing fairy who lives in your pendant: light source, enemy alert, nameable and recolorable.</description>
+  </item>
+  <item>
+    <title>Laboror's machete</title>
+    <link>https://mods.vintagestory.at/show/mod/9554</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9554#9554</guid>
+    <pubDate>Thu, 02 Jul 2026 19:14:03 -0000</pubDate>
+    <description>This mods add 2 machetes, a tool and a weapon (a machete and a broad machete)</description>
+  </item>
+  <item>
+    <title>Immersive Rainbow</title>
+    <link>https://mods.vintagestory.at/show/mod/immersiverainbow</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersiverainbow#9937</guid>
+    <pubDate>Thu, 02 Jul 2026 19:12:23 -0000</pubDate>
+    <description>Adds a simple physically accurate (as much as possible) rainbow</description>
+  </item>
+  <item>
+    <title>Rolling Saves</title>
+    <link>https://mods.vintagestory.at/show/mod/rollingsaves</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rollingsaves#9048</guid>
+    <pubDate>Thu, 02 Jul 2026 19:11:52 -0000</pubDate>
+    <description>Quietly keeps 3 cold copies of every world. Meta-mod — no in-game UI. Restore by  hand.</description>
+  </item>
   <item>
     <title>CollapseStory</title>
     <link>https://mods.vintagestory.at/show/mod/7776</link>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thismodsucks#9623</guid>
     <pubDate>Thu, 02 Jul 2026 13:19:52 -0000</pubDate>
     <description>Automatic drop pickup on a timer, fully adjustable config</description>
-  </item>
-  <item>
-    <title>Locust Harvest</title>
-    <link>https://mods.vintagestory.at/show/mod/9927</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9927#9927</guid>
-    <pubDate>Thu, 02 Jul 2026 12:42:13 -0000</pubDate>
-    <description>Killed locusts drop a Dead Locust item you smelt in a crucible to recover Bronze (5 per ingot).</description>
-  </item>
-  <item>
-    <title>Rustmatica EasyPlace</title>
-    <link>https://mods.vintagestory.at/show/mod/rustmaticaeasyplace</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustmaticaeasyplace#9981</guid>
-    <pubDate>Thu, 02 Jul 2026 12:37:35 -0000</pubDate>
-    <description>Addon to Rustmatica, streamlining the building process of schematics</description>
-  </item>
-  <item>
-    <title>Rustmatica</title>
-    <link>https://mods.vintagestory.at/show/mod/rustmatica</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustmatica#9980</guid>
-    <pubDate>Thu, 02 Jul 2026 12:14:06 -0000</pubDate>
-    <description>A building assistant mod that allows you to save, load and visualize block structures</description>
-  </item>
-  <item>
-    <title>Molds</title>
-    <link>https://mods.vintagestory.at/show/mod/molds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/molds#2356</guid>
-    <pubDate>Thu, 02 Jul 2026 12:08:57 -0000</pubDate>
-    <description>New molds for your survival.</description>
-  </item>
-  <item>
-    <title>Galeret</title>
-    <link>https://mods.vintagestory.at/show/mod/9970</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9970#9970</guid>
-    <pubDate>Thu, 02 Jul 2026 12:03:33 -0000</pubDate>
-    <description>A race of cat people based on kahjit</description>
-  </item>
-  <item>
-    <title>LSPatches</title>
-    <link>https://mods.vintagestory.at/show/mod/9969</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9969#9969</guid>
-    <pubDate>Thu, 02 Jul 2026 11:52:57 -0000</pubDate>
-    <description>To be used on a private server</description>
-  </item>
-  <item>
-    <title>Long term food</title>
-    <link>https://mods.vintagestory.at/show/mod/longtermfood</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/longtermfood#2374</guid>
-    <pubDate>Thu, 02 Jul 2026 11:28:28 -0000</pubDate>
-    <description>Adds food that does not spoil for a very long time.</description>
-  </item>
-  <item>
-    <title>Better Jungles (and survival modpack)</title>
-    <link>https://mods.vintagestory.at/show/mod/betterjungles</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterjungles#7602</guid>
-    <pubDate>Thu, 02 Jul 2026 11:27:05 -0000</pubDate>
-    <description>More realistic Jungles, some survival gameplay changes - ideally as part of the modpack listed below</description>
-  </item>
-  <item>
-    <title>Item Pickup Notifier</title>
-    <link>https://mods.vintagestory.at/show/mod/3947</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3947#3947</guid>
-    <pubDate>Thu, 02 Jul 2026 10:33:00 -0000</pubDate>
-    <description>Item Pickup Notifier shows a simple overlay that displays the information of items you pick up</description>
-  </item>
-  <item>
-    <title>More Dry Grass Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/9978</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9978#9978</guid>
-    <pubDate>Thu, 02 Jul 2026 08:49:53 -0000</pubDate>
-    <description>Makes More Dry Grass work again on current game versions</description>
-  </item>
-  <item>
-    <title>NDL ExpandedGrowth (Tree Growth Module)</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthtrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthtrees#5697</guid>
-    <pubDate>Thu, 02 Jul 2026 08:48:37 -0000</pubDate>
-    <description>Adds a method for growing larger variants of trees.</description>
-  </item>
-  <item>
-    <title>Saplings Grow Resin/Moss/Vines</title>
-    <link>https://mods.vintagestory.at/show/mod/9915</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9915#9915</guid>
-    <pubDate>Thu, 02 Jul 2026 07:32:58 -0000</pubDate>
-    <description>Saplings generate resin/moss/vines when they grow similar to probabilities during worldgen</description>
   </item>
 </channel>
 </rss>
