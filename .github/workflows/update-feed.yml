@@ -32,7 +32,7 @@ jobs:
           test -f vsmoddb_updates.xml || true
 
       - name: Run RSS generator
-        run: python scripts/vsmoddb_rss.py
+        run: python scripts
 
       - name: Commit and push if changed
         run: |
