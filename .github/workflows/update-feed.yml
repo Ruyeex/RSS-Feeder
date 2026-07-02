@@ -22,6 +22,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -42,8 +43,8 @@ jobs:
           
           # Check if there are changes to commit
           if ! git diff --quiet --cached; then
-            git commit -m "Update VS Mod DB RSS feed"
             git pull --rebase origin main
+            git commit -m "Update VS Mod DB RSS feed"
             git push origin main
           else
             echo "No changes to commit"
