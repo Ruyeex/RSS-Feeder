@@ -22,7 +22,10 @@ jobs:
 
       - name: Install dependencies
         run: pip install requests
-      
+
+      - name: Run RSS generator
+        run: python path/to/vsmoddb_rss.py
+  
       - name: Locate and run generator
         run: |
           echo "PWD: $(pwd)"
