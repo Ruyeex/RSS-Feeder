@@ -4,13 +4,41 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 02 Jul 2026 16:52:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 02 Jul 2026 18:26:45 +0000</lastBuildDate>
+  <item>
+    <title>CollapseStory</title>
+    <link>https://mods.vintagestory.at/show/mod/7776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
+    <pubDate>Thu, 02 Jul 2026 18:04:28 -0000</pubDate>
+    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
+  </item>
   <item>
     <title>KRPG Enchantment</title>
     <link>https://mods.vintagestory.at/show/mod/krpgenchantment</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krpgenchantment#2216</guid>
-    <pubDate>Thu, 02 Jul 2026 16:49:29 -0000</pubDate>
+    <pubDate>Thu, 02 Jul 2026 17:52:19 -0000</pubDate>
     <description>Adds MC-like enchantment system to VS.</description>
+  </item>
+  <item>
+    <title>Mod-Auto Installer</title>
+    <link>https://mods.vintagestory.at/show/mod/9943</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9943#9943</guid>
+    <pubDate>Thu, 02 Jul 2026 17:21:06 -0000</pubDate>
+    <description>An applicaiton that allows you to mass-install mods based on a logfile!</description>
+  </item>
+  <item>
+    <title>ReelMower</title>
+    <link>https://mods.vintagestory.at/show/mod/reelmower</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/reelmower#9653</guid>
+    <pubDate>Thu, 02 Jul 2026 17:03:50 -0000</pubDate>
+    <description>Push reel mower. Cut grass, Multiplayer in testing</description>
+  </item>
+  <item>
+    <title>Bed Regen Regenerated</title>
+    <link>https://mods.vintagestory.at/show/mod/bedregenregenerated</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bedregenregenerated#9986</guid>
+    <pubDate>Thu, 02 Jul 2026 17:00:22 -0000</pubDate>
+    <description>Regenerate health faster while lying in a bed (multiplayer friendly).</description>
   </item>
   <item>
     <title>Searchable</title>
@@ -104,13 +132,6 @@
     <description>Automatic drop pickup on a timer, fully adjustable config</description>
   </item>
   <item>
-    <title>CollapseStory</title>
-    <link>https://mods.vintagestory.at/show/mod/7776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
-    <pubDate>Thu, 02 Jul 2026 13:08:40 -0000</pubDate>
-    <description>Adds structural and material physics to structural blocks, and greatly expands beam functionality.</description>
-  </item>
-  <item>
     <title>Locust Harvest</title>
     <link>https://mods.vintagestory.at/show/mod/9927</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9927#9927</guid>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9915#9915</guid>
     <pubDate>Thu, 02 Jul 2026 07:32:58 -0000</pubDate>
     <description>Saplings generate resin/moss/vines when they grow similar to probabilities during worldgen</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Thu, 02 Jul 2026 06:57:17 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>C&amp;N Jewelry</title>
-    <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
-    <pubDate>Thu, 02 Jul 2026 06:53:18 -0000</pubDate>
-    <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Thu, 02 Jul 2026 05:47:13 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
   </item>
 </channel>
 </rss>
