@@ -23,9 +23,9 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Locate script and run it (absolute path)
+      - name: Locate and run generator
         run: |
-          python -c "import sys; print(sys.version)"
+          echo "PWD: $(pwd)"
           script="$(find . -maxdepth 6 -name 'vsmoddb_rss.py' -print -quit)"
           echo "Found script: $script"
           test -n "$script"
@@ -35,11 +35,9 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-
-          # stage only what the generator updates; change this if your output file differs
           git add -A
-
           git diff --cached --quiet && exit 0
           git commit -m "Update VS Mod DB RSS feed"
           git push
+
 
