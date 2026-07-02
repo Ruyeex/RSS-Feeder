@@ -12,6 +12,12 @@ jobs:
       contents: write
     
     steps:
+      - name: Locate script
+        run: |
+          pwd
+          ls -la
+          find . -maxdepth 4 -name 'vsmoddb_rss.py' -print
+          
       - name: Checkout repo
         uses: actions/checkout@v4
 
