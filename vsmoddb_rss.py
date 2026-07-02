@@ -1,10 +1,9 @@
-#!/usr/bin/env python3
 """
 Generates an RSS feed of the newest Vintage Story mod updates,
 using the official Mod DB API: https://github.com/anegostudios/vsmoddb
 
 Usage:
-    pip install requests --break-system-packages   # if not already installed
+    pip install requests
     python vsmoddb_rss.py
 
 Output:
