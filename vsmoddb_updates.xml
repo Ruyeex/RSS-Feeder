@@ -4,7 +4,21 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 02 Jul 2026 15:16:14 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 02 Jul 2026 15:28:22 +0000</lastBuildDate>
+  <item>
+    <title>Downed</title>
+    <link>https://mods.vintagestory.at/show/mod/downed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
+    <pubDate>Thu, 02 Jul 2026 15:25:36 -0000</pubDate>
+    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
+  </item>
+  <item>
+    <title>Stratum - High-performance server software.</title>
+    <link>https://mods.vintagestory.at/show/mod/stratum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stratum#9499</guid>
+    <pubDate>Thu, 02 Jul 2026 15:22:03 -0000</pubDate>
+    <description>Focused on smoother multiplayer servers, better performance under load and, practical tools.</description>
+  </item>
   <item>
     <title>Vanilla More Molds [Overhaul Update 2.0.1]</title>
     <link>https://mods.vintagestory.at/show/mod/vanillamoremolds</link>
@@ -18,13 +32,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4357#4357</guid>
     <pubDate>Thu, 02 Jul 2026 15:10:14 -0000</pubDate>
     <description>Adds a in-combat state during which healing is prohibited.</description>
-  </item>
-  <item>
-    <title>Downed</title>
-    <link>https://mods.vintagestory.at/show/mod/downed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
-    <pubDate>Thu, 02 Jul 2026 15:06:13 -0000</pubDate>
-    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
   </item>
   <item>
     <title>Carry On</title>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicab#9795</guid>
     <pubDate>Thu, 02 Jul 2026 05:40:42 -0000</pubDate>
     <description>Adds Bears as player choices</description>
-  </item>
-  <item>
-    <title>Animalica - Small &amp; Odd</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicaso</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaso#9796</guid>
-    <pubDate>Thu, 02 Jul 2026 05:40:28 -0000</pubDate>
-    <description>Adds the small goober animals like raccoons, chickens, and rabbits as players</description>
   </item>
 </channel>
 </rss>
