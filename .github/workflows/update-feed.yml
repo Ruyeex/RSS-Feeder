@@ -42,4 +42,8 @@ jobs:
           git config user.email "ruyeex@gmail.com"
           git add vsmoddb_updates.xml
           # Only commit if there are changes
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update VS Mod DB RSS feed" && git fetch origin && git rebase origin/main && git push)
+          if ! git diff --quiet && ! git diff --staged --quiet; then
+            git commit -m "Update VS Mod DB RSS feed"
+            git pull --rebase origin main
+            git push origin main
+          fi
