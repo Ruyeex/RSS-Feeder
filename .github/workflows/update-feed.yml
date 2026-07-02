@@ -2,7 +2,8 @@ name: Update VS Mod DB RSS Feed
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -18,17 +19,29 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
       - name: Install dependencies
         run: pip install requests
 
       - name: Locate and run generator
         run: |
-          echo "PWD: $(pwd)"
-          script="$(find . -maxdepth 6 -name 'vsmoddb_rss.py' -print -quit)"
+          echo "Working dir: $(pwd)"
+          python --version
+          echo "Top-level contents:"
+          ls -la
+
+          # Find the script (stop at first match)
+          script="$(find . -maxdepth 6 -type f -name 'vsmoddb_rss.py' -print -quit)"
           echo "Found script: $script"
-          test -n "$script"
+          if [ -z "$script" ]; then
+            echo "Error: vsmoddb_rss.py not found in repository (searched up to 6 levels)."
+            echo "Repository contents:"
+            find . -maxdepth 4 -type f -printf '%p\n' || true
+            exit 1
+          fi
+
+          # Run the script
           python "$script"
 
       - name: Commit and push if changed
@@ -36,6 +49,7 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add -A
-          git diff --cached --quiet && exit 0
+          # If no staged changes, exit successfully
+          git diff --cached --quiet && echo "No changes to commit." && exit 0
           git commit -m "Update VS Mod DB RSS feed"
           git push
