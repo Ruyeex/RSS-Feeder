@@ -9,7 +9,7 @@ on:
 
 concurrency:
   group: rss-feed-update
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   update-feed:
@@ -43,5 +43,5 @@ jobs:
           if ! git diff --quiet || ! git diff --staged --quiet; then
             git pull --rebase origin main
             git commit -m "Update VS Mod DB RSS feed"
-            git push --force-with-lease origin main
+            git push origin main
           fi
