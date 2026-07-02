@@ -26,7 +26,7 @@ jobs:
       - name: Locate and run generator
         run: |
           echo "PWD: $(pwd)"
-          script="$(find . -maxdepth 6 -name 'vsmoddb_rss.py' -print -quit)"
+          script="$(find . -maxdepth 6 'vsmoddb_rss.py' -print -quit)"
           echo "Found script: $script"
           test -n "$script"
           python "$script"
