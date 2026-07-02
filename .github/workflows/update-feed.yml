@@ -36,11 +36,10 @@ jobs:
             find . -name 'vsmoddb_rss.py' -type f
             exit 1
           fi
-
       - name: Commit and push if changed
         run: |
           git config user.name "Ruyeex"
           git config user.email "ruyeex@gmail.com"
           git add vsmoddb_updates.xml
           # Only commit if there are changes
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update VS Mod DB RSS feed" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update VS Mod DB RSS feed" && git fetch origin && git rebase origin/main && git push)
