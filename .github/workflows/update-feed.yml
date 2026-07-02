@@ -1,12 +1,10 @@
 name: Update VS Mod DB RSS Feed
- 
+
 on:
   schedule:
-    # Run every 6 hours
-    - cron: '0 */6 * * *'
-  # Allow manual trigger from GitHub UI
+    - cron: '0 * * * *'
   workflow_dispatch:
- 
+
 jobs:
   update-feed:
     runs-on: ubuntu-latest
@@ -16,22 +14,21 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
- 
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
- 
+
       - name: Install dependencies
         run: pip install requests
- 
+
       - name: Run RSS generator
         run: python vsmoddb_rss.py
- 
+
       - name: Commit and push if changed
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add vsmoddb_updates.xml
-          # Only commit if there are changes
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update VS Mod DB RSS feed" && git push)
