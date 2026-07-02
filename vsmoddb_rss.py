@@ -13,7 +13,7 @@ import requests
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from xml.sax.saxutils import escape
-import html
+import os
 
 API_URL = "https://mods.vintagestory.at/api/mods"
 SITE_BASE = "https://mods.vintagestory.at/"
@@ -95,7 +95,15 @@ def main():
     if not mods:
         print("No mods returned - check the API response structure (data.get('mods')).")
         return
+    
+    # Delete old file if it exists
+    if os.path.exists(FEED_FILE):
+        os.remove(FEED_FILE)
+        print(f"Deleted old {FEED_FILE}")
+    
     rss = build_rss(mods)
+    
+    # Write new file
     with open(FEED_FILE, "w", encoding="utf-8") as f:
         f.write(rss)
     print(f"Wrote {len(mods)} items to {FEED_FILE}")
