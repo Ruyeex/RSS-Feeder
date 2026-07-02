@@ -23,9 +23,6 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run RSS generator
-        run: python path/to/vsmoddb_rss.py
-  
       - name: Locate and run generator
         run: |
           echo "PWD: $(pwd)"
@@ -42,5 +39,3 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -m "Update VS Mod DB RSS feed"
           git push
-
-
