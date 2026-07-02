@@ -4,13 +4,97 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 02 Jul 2026 20:20:47 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 02 Jul 2026 22:10:09 +0000</lastBuildDate>
+  <item>
+    <title>WOO³</title>
+    <link>https://mods.vintagestory.at/show/mod/8477</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8477#8477</guid>
+    <pubDate>Thu, 02 Jul 2026 21:38:35 -0000</pubDate>
+    <description>A modpack that contains custom content and server tweaks for the Whispers of Oldwood season 3.</description>
+  </item>
+  <item>
+    <title>Downed</title>
+    <link>https://mods.vintagestory.at/show/mod/downed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
+    <pubDate>Thu, 02 Jul 2026 21:26:31 -0000</pubDate>
+    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
+  </item>
   <item>
     <title>PlayerCollisions</title>
     <link>https://mods.vintagestory.at/show/mod/8393</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8393#8393</guid>
-    <pubDate>Thu, 02 Jul 2026 20:20:35 -0000</pubDate>
+    <pubDate>Thu, 02 Jul 2026 21:22:46 -0000</pubDate>
     <description>Adds player collision box repulsion.</description>
+  </item>
+  <item>
+    <title>Seraphs Ledger</title>
+    <link>https://mods.vintagestory.at/show/mod/9783</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9783#9783</guid>
+    <pubDate>Thu, 02 Jul 2026 21:18:54 -0000</pubDate>
+    <description>A personal bundle of small quality-of-life tweaks for Vintage Story.</description>
+  </item>
+  <item>
+    <title>Caeloria: Content</title>
+    <link>https://mods.vintagestory.at/show/mod/caeloriacontent</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caeloriacontent#9063</guid>
+    <pubDate>Thu, 02 Jul 2026 21:17:30 -0000</pubDate>
+    <description>Content pack for Caeloria: Reborn. Doesn't include any code mods, those are different mods.</description>
+  </item>
+  <item>
+    <title>Vanilla+ classes</title>
+    <link>https://mods.vintagestory.at/show/mod/9924</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9924#9924</guid>
+    <pubDate>Thu, 02 Jul 2026 21:12:14 -0000</pubDate>
+    <description>A small mod, reshuffling class traits and roles, and equalising their usefulness for multiplayer.</description>
+  </item>
+  <item>
+    <title>WOO Presents: Fantasy Crops</title>
+    <link>https://mods.vintagestory.at/show/mod/9100</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9100#9100</guid>
+    <pubDate>Thu, 02 Jul 2026 20:59:02 -0000</pubDate>
+    <description>Fantasy Crops catered to play on the Whispers of Oldwood, available for all.</description>
+  </item>
+  <item>
+    <title>Vintage Kinematics</title>
+    <link>https://mods.vintagestory.at/show/mod/8639</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8639#8639</guid>
+    <pubDate>Thu, 02 Jul 2026 20:53:24 -0000</pubDate>
+    <description>Rotation networks, belts, crushers, and automation for Vintage Story</description>
+  </item>
+  <item>
+    <title>Player Model lib</title>
+    <link>https://mods.vintagestory.at/show/mod/playermodellib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
+    <pubDate>Thu, 02 Jul 2026 20:50:11 -0000</pubDate>
+    <description>Library for adding new player races</description>
+  </item>
+  <item>
+    <title>Salty´s Clear View</title>
+    <link>https://mods.vintagestory.at/show/mod/clearview</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clearview#9996</guid>
+    <pubDate>Thu, 02 Jul 2026 20:49:28 -0000</pubDate>
+    <description>Fades blocks blocking the third person camera!</description>
+  </item>
+  <item>
+    <title>Entity Resync Fix Resynced</title>
+    <link>https://mods.vintagestory.at/show/mod/entityresyncfixresynced</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/entityresyncfixresynced#9995</guid>
+    <pubDate>Thu, 02 Jul 2026 20:33:52 -0000</pubDate>
+    <description>Mitigates client-side entity desync: frozen mobs, floating drops and duplicate ghost players.</description>
+  </item>
+  <item>
+    <title>LowHealthSlowdown</title>
+    <link>https://mods.vintagestory.at/show/mod/4989</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4989#4989</guid>
+    <pubDate>Thu, 02 Jul 2026 20:29:26 -0000</pubDate>
+    <description>Slows the player down up to 30% when under 30% HP</description>
+  </item>
+  <item>
+    <title>Riley's Classes [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Thu, 02 Jul 2026 20:26:41 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
   </item>
   <item>
     <title>Solid Long Tables</title>
@@ -18,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/solidlongtables#9994</guid>
     <pubDate>Thu, 02 Jul 2026 20:13:11 -0000</pubDate>
     <description>Makes certain 2x1 clutter tables solid multiblocks.</description>
-  </item>
-  <item>
-    <title>Vanilla+ classes</title>
-    <link>https://mods.vintagestory.at/show/mod/9924</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9924#9924</guid>
-    <pubDate>Thu, 02 Jul 2026 20:06:28 -0000</pubDate>
-    <description>A small mod, reshuffling class traits and roles, and equalising their usefulness for multiplayer.</description>
   </item>
   <item>
     <title>Server Tweak</title>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/storagelectern#9534</guid>
     <pubDate>Thu, 02 Jul 2026 16:38:11 -0000</pubDate>
     <description>A tiered storage lectern that links multiple inventories</description>
-  </item>
-  <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Thu, 02 Jul 2026 16:08:41 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
-  </item>
-  <item>
-    <title>One Claim</title>
-    <link>https://mods.vintagestory.at/show/mod/claims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claims#8452</guid>
-    <pubDate>Thu, 02 Jul 2026 15:39:35 -0000</pubDate>
-    <description>Adding GUI to make claims works on server side as well</description>
-  </item>
-  <item>
-    <title>Downed</title>
-    <link>https://mods.vintagestory.at/show/mod/downed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
-    <pubDate>Thu, 02 Jul 2026 15:33:18 -0000</pubDate>
-    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
-  </item>
-  <item>
-    <title>Stratum - High-performance server software.</title>
-    <link>https://mods.vintagestory.at/show/mod/stratum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stratum#9499</guid>
-    <pubDate>Thu, 02 Jul 2026 15:22:03 -0000</pubDate>
-    <description>Focused on smoother multiplayer servers, better performance under load and, practical tools.</description>
-  </item>
-  <item>
-    <title>Vanilla More Molds [CONFIG FIX : Overhaul Update 2.0.1]</title>
-    <link>https://mods.vintagestory.at/show/mod/vanillamoremolds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillamoremolds#2948</guid>
-    <pubDate>Thu, 02 Jul 2026 15:12:59 -0000</pubDate>
-    <description>Adds new molds while staying true to the spirit and mechanics of the base game!</description>
-  </item>
-  <item>
-    <title>NoInCombatHealing</title>
-    <link>https://mods.vintagestory.at/show/mod/4357</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4357#4357</guid>
-    <pubDate>Thu, 02 Jul 2026 15:10:14 -0000</pubDate>
-    <description>Adds a in-combat state during which healing is prohibited.</description>
-  </item>
-  <item>
-    <title>Carry On</title>
-    <link>https://mods.vintagestory.at/show/mod/carryon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carryon#890</guid>
-    <pubDate>Thu, 02 Jul 2026 15:00:37 -0000</pubDate>
-    <description>Adds the capability to carry various things. Replaces CarryCapacity.</description>
-  </item>
-  <item>
-    <title>Sythet Terratag</title>
-    <link>https://mods.vintagestory.at/show/mod/9475</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9475#9475</guid>
-    <pubDate>Thu, 02 Jul 2026 13:37:59 -0000</pubDate>
-    <description>Terratag sound for the Sythet server</description>
-  </item>
-  <item>
-    <title>Table Expansion</title>
-    <link>https://mods.vintagestory.at/show/mod/tableexpansion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tableexpansion#9837</guid>
-    <pubDate>Thu, 02 Jul 2026 13:28:50 -0000</pubDate>
-    <description>Allows combining several identical tables in the crafting grid to build larger ones.</description>
-  </item>
-  <item>
-    <title>Mobility</title>
-    <link>https://mods.vintagestory.at/show/mod/mobility</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mobility#8768</guid>
-    <pubDate>Thu, 02 Jul 2026 13:24:18 -0000</pubDate>
-    <description>Step Up / Climb / Grab / Auto Walk / Auto Run</description>
-  </item>
-  <item>
-    <title>This Mod Sucks</title>
-    <link>https://mods.vintagestory.at/show/mod/thismodsucks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thismodsucks#9623</guid>
-    <pubDate>Thu, 02 Jul 2026 13:19:52 -0000</pubDate>
-    <description>Automatic drop pickup on a timer, fully adjustable config</description>
   </item>
 </channel>
 </rss>
