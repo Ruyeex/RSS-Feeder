@@ -9,7 +9,7 @@ on:
 
 concurrency:
   group: rss-feed-update
-  cancel-in-progress: false
+  cancel-in-progress: true  # Changed from false
 
 jobs:
   update-feed:
@@ -34,7 +34,7 @@ jobs:
 
       - name: Run RSS generator
         run: python ./vsmoddb_rss.py
-
+        
       - name: Commit and push if changed
         run: |
           git config user.name "Ruyeex"
