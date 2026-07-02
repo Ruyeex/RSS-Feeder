@@ -2,7 +2,7 @@ name: Update VS Mod DB RSS Feed
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,24 +10,26 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
-      - name: Locate script
-        run: |
-          pwd
-          ls -la
-          find . -maxdepth 4 -name 'vsmoddb_rss.py' -print
-          
       - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
         run: pip install requests
+
+      - name: Locate script + ensure target output exists
+        run: |
+          echo "PWD: $(pwd)"
+          ls -la
+          find . -maxdepth 6 -name 'vsmoddb_rss.py' -print
+          # If your generator outputs to a different path/name, update this.
+          test -f vsmoddb_updates.xml || true
 
       - name: Run RSS generator
         run: python scripts/vsmoddb_rss.py
@@ -36,5 +38,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add vsmoddb_updates.xml
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update VS Mod DB RSS feed" && git push)
+          git add -A
+          git diff --cached --quiet && git diff --quiet && exit 0
+          git commit -m "Update VS Mod DB RSS feed"
+          git push
