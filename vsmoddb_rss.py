@@ -1,70 +1,38 @@
-import requests
-from datetime import datetime, timezone
-from email.utils import format_datetime
-from xml.sax.saxutils import escape
-
-API_URL = "https://mods.vintagestory.at/api/mods"
-SITE_BASE = "https://mods.vintagestory.at/"
-FEED_FILE = "vsmoddb_updates.xml"
-NUM_ITEMS = 30
-
-def fetch_mods():
-    params = {"orderby": "lastreleased", "orderdirection": "desc"}
-    resp = requests.get(API_URL, params=params, timeout=30)
-    resp.raise_for_status()
-    data = resp.json()
-    mods = data.get("mods") or data.get("data") or []
-    return mods[:NUM_ITEMS]
-
-def parse_date(value):
-    if value is None:
-        return datetime.now(timezone.utc)
-    try:
-        if isinstance(value, (int, float)) or str(value).isdigit():
-            return datetime.fromtimestamp(int(value), tz=timezone.utc)
-        return datetime.fromisoformat(str(value).replace("Z", "+00:00"))
-    except (ValueError, TypeError):
-        return datetime.now(timezone.utc)
-
-def mod_link(mod):
-    slug = mod.get("urlalias") or mod.get("modid") or mod.get("assetid")
-    return f"{SITE_BASE}show/mod/{slug}" if slug else SITE_BASE
-
-def build_rss(mods):
-    items_xml = []
-    for mod in mods:
-        name = escape(str(mod.get("name", "Unknown mod")))
-        summary = escape(str(mod.get("summary") or mod.get("text") or ""))
-        link = escape(mod_link(mod))
-        pub_date = format_datetime(parse_date(mod.get("lastreleased")))
-        guid = escape(f"{link}#{mod.get('lastreleased', '')}")
-        items_xml.append(f"""  <item>
-    <title>{name}</title>
-    <link>{link}</link>
-    <guid isPermaLink="false">{guid}</guid>
-    <pubDate>{pub_date}</pubDate>
-    <description>{summary}</description>
-  </item>""")
-    
-    now = format_datetime(datetime.now(timezone.utc))
-    rss = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
-  <title>Vintage Story Mod DB - Latest Updates</title>
-  <link>{SITE_BASE}</link>
-  <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>{now}</lastBuildDate>
-{chr(10).join(items_xml)}
-</channel>
-</rss>
+#!/usr/bin/env python3
 """
-    return rss
+VS Mod DB RSS Feed Generator
+"""
 
-mods = fetch_mods()
-if mods:
-    rss = build_rss(mods)
-    with open(FEED_FILE, "w", encoding="utf-8") as f:
-        f.write(rss)
-    print(f"Wrote {len(mods)} items to {FEED_FILE}")
-else:
-    print("No mods returned")
+import requests
+from datetime import datetime
+from xml.etree.ElementTree import Element, SubElement, ElementTree
+
+def generate_rss_feed():
+    """Generate RSS feed from VS Mod DB"""
+    
+    # TODO: Implement your RSS feed generation logic here
+    # This should:
+    # 1. Fetch data from the VS Mod DB
+    # 2. Create RSS XML structure
+    # 3. Write to vsmoddb_updates.xml
+    
+    # Example structure:
+    rss = Element('rss', version='2.0')
+    channel = SubElement(rss, 'channel')
+    
+    title = SubElement(channel, 'title')
+    title.text = 'VS Mod DB Updates'
+    
+    link = SubElement(channel, 'link')
+    link.text = 'https://github.com/Ruyeex/RSS-Feeder'
+    
+    description = SubElement(channel, 'description')
+    description.text = 'Latest updates from VS Mod DB'
+    
+    # Write to file
+    tree = ElementTree(rss)
+    tree.write('vsmoddb_updates.xml', encoding='utf-8', xml_declaration=True)
+    print("RSS feed generated: vsmoddb_updates.xml")
+
+if __name__ == '__main__':
+    generate_rss_feed()
