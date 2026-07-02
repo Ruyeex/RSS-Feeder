@@ -1,60 +1,70 @@
-#!/usr/bin/env python3
-"""
-VS Mod DB RSS Feed Generator
-Fetches the latest mod updates and generates an RSS feed
-"""
-
 import requests
-import xml.etree.ElementTree as ET
-from xml.dom import minidom
-from datetime import datetime
-import os
+from datetime import datetime, timezone
+from email.utils import format_datetime
+from xml.sax.saxutils import escape
 
+API_URL = "https://mods.vintagestory.at/api/mods"
+SITE_BASE = "https://mods.vintagestory.at/"
+FEED_FILE = "vsmoddb_updates.xml"
+NUM_ITEMS = 30
 
-def generate_rss_feed():
-    """Generate RSS feed for VS Mod DB updates"""
-    
-    # Create root RSS element
-    rss = ET.Element('rss', version='2.0')
-    channel = ET.SubElement(rss, 'channel')
-    
-    # Add channel metadata
-    ET.SubElement(channel, 'title').text = 'VS Mod DB Updates'
-    ET.SubElement(channel, 'link').text = 'https://mods.vintagestory.at/'
-    ET.SubElement(channel, 'description').text = 'Latest updates from VS Mod Database'
-    ET.SubElement(channel, 'lastBuildDate').text = datetime.now().strftime('%a, %d %b %Y %H:%M:%S +0000')
-    
-    # Try to fetch mods data (add your actual API endpoint)
+def fetch_mods():
+    params = {"orderby": "lastreleased", "orderdirection": "desc"}
+    resp = requests.get(API_URL, params=params, timeout=30)
+    resp.raise_for_status()
+    data = resp.json()
+    mods = data.get("mods") or data.get("data") or []
+    return mods[:NUM_ITEMS]
+
+def parse_date(value):
+    if value is None:
+        return datetime.now(timezone.utc)
     try:
-        # Example: fetch from VS Mod DB API
-        response = requests.get('https://mods.vintagestory.at/api/mods', timeout=10)
-        response.raise_for_status()
-        mods = response.json()
-        
-        # Add items for each mod
-        if isinstance(mods, list):
-            for mod in mods[:20]:  # Limit to latest 20
-                item = ET.SubElement(channel, 'item')
-                ET.SubElement(item, 'title').text = mod.get('name', 'Unknown Mod')
-                ET.SubElement(item, 'link').text = f"https://mods.vintagestory.at/show/mod/{mod.get('id', '')}"
-                ET.SubElement(item, 'description').text = mod.get('description', '')
-                ET.SubElement(item, 'pubDate').text = mod.get('updated', datetime.now().strftime('%a, %d %b %Y %H:%M:%S +0000'))
-    
-    except requests.exceptions.RequestException as e:
-        print(f"Warning: Could not fetch mod data: {e}")
-        # Continue with empty feed rather than failing completely
-    
-    # Pretty print and save
-    xml_str = minidom.parseString(ET.tostring(rss)).toprettyxml(indent='  ')
-    # Remove extra blank lines
-    xml_str = '\n'.join([line for line in xml_str.split('\n') if line.strip()])
-    
-    output_file = 'vsmoddb_updates.xml'
-    with open(output_file, 'w', encoding='utf-8') as f:
-        f.write(xml_str)
-    
-    print(f"RSS feed generated: {output_file}")
+        if isinstance(value, (int, float)) or str(value).isdigit():
+            return datetime.fromtimestamp(int(value), tz=timezone.utc)
+        return datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+    except (ValueError, TypeError):
+        return datetime.now(timezone.utc)
 
+def mod_link(mod):
+    slug = mod.get("urlalias") or mod.get("modid") or mod.get("assetid")
+    return f"{SITE_BASE}show/mod/{slug}" if slug else SITE_BASE
 
-if __name__ == '__main__':
-    generate_rss_feed()
+def build_rss(mods):
+    items_xml = []
+    for mod in mods:
+        name = escape(str(mod.get("name", "Unknown mod")))
+        summary = escape(str(mod.get("summary") or mod.get("text") or ""))
+        link = escape(mod_link(mod))
+        pub_date = format_datetime(parse_date(mod.get("lastreleased")))
+        guid = escape(f"{link}#{mod.get('lastreleased', '')}")
+        items_xml.append(f"""  <item>
+    <title>{name}</title>
+    <link>{link}</link>
+    <guid isPermaLink="false">{guid}</guid>
+    <pubDate>{pub_date}</pubDate>
+    <description>{summary}</description>
+  </item>""")
+    
+    now = format_datetime(datetime.now(timezone.utc))
+    rss = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Vintage Story Mod DB - Latest Updates</title>
+  <link>{SITE_BASE}</link>
+  <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
+  <lastBuildDate>{now}</lastBuildDate>
+{chr(10).join(items_xml)}
+</channel>
+</rss>
+"""
+    return rss
+
+mods = fetch_mods()
+if mods:
+    rss = build_rss(mods)
+    with open(FEED_FILE, "w", encoding="utf-8") as f:
+        f.write(rss)
+    print(f"Wrote {len(mods)} items to {FEED_FILE}")
+else:
+    print("No mods returned")
