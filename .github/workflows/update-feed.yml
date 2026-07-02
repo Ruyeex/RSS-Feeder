@@ -43,5 +43,5 @@ jobs:
           if ! git diff --quiet || ! git diff --staged --quiet; then
             git commit -m "Update VS Mod DB RSS feed"
             git pull --rebase origin main
-            git push
+            git push origin main
           fi
