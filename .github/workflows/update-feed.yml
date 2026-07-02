@@ -40,17 +40,10 @@ jobs:
           git config user.email "ruyeex@gmail.com"
           git add vsmoddb_updates.xml
           
-          # Only commit and push if there are changes
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update VS Mod DB RSS feed" && git pull && git push)
-            
-             # Pull latest changes with rebase
-             git pull --rebase origin main || {
-               echo "Pull/rebase failed - aborting"
-               git rebase --abort
-               exit 1
-             }
-            
-            # Now push
+          # Check if there are changes to commit
+          if ! git diff --quiet --cached; then
+            git commit -m "Update VS Mod DB RSS feed"
+            git pull --rebase origin main
             git push origin main
           else
             echo "No changes to commit"
