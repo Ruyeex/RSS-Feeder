@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -42,8 +44,8 @@ jobs:
           git config user.email "ruyeex@gmail.com"
           git add vsmoddb_updates.xml
           # Only commit if there are changes
-          if ! git diff --quiet && ! git diff --staged --quiet; then
+          if ! git diff --quiet || ! git diff --staged --quiet; then
             git commit -m "Update VS Mod DB RSS feed"
             git pull --rebase origin main
-            git push origin main
+            git push
           fi
