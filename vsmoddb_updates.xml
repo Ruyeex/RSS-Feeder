@@ -4,12 +4,47 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 02 Jul 2026 15:28:22 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 02 Jul 2026 16:52:19 +0000</lastBuildDate>
+  <item>
+    <title>KRPG Enchantment</title>
+    <link>https://mods.vintagestory.at/show/mod/krpgenchantment</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krpgenchantment#2216</guid>
+    <pubDate>Thu, 02 Jul 2026 16:49:29 -0000</pubDate>
+    <description>Adds MC-like enchantment system to VS.</description>
+  </item>
+  <item>
+    <title>Searchable</title>
+    <link>https://mods.vintagestory.at/show/mod/searchable</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/searchable#4446</guid>
+    <pubDate>Thu, 02 Jul 2026 16:43:44 -0000</pubDate>
+    <description>Adds a command that allows you to look through other players' inventories (with consent) </description>
+  </item>
+  <item>
+    <title>Storage Lectern</title>
+    <link>https://mods.vintagestory.at/show/mod/storagelectern</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/storagelectern#9534</guid>
+    <pubDate>Thu, 02 Jul 2026 16:38:11 -0000</pubDate>
+    <description>A tiered storage lectern that links multiple inventories</description>
+  </item>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Thu, 02 Jul 2026 16:08:41 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
+  <item>
+    <title>One Claim</title>
+    <link>https://mods.vintagestory.at/show/mod/claims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claims#8452</guid>
+    <pubDate>Thu, 02 Jul 2026 15:39:35 -0000</pubDate>
+    <description>Adding GUI to make claims works on server side as well</description>
+  </item>
   <item>
     <title>Downed</title>
     <link>https://mods.vintagestory.at/show/mod/downed</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
-    <pubDate>Thu, 02 Jul 2026 15:25:36 -0000</pubDate>
+    <pubDate>Thu, 02 Jul 2026 15:33:18 -0000</pubDate>
     <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
   </item>
   <item>
@@ -20,7 +55,7 @@
     <description>Focused on smoother multiplayer servers, better performance under load and, practical tools.</description>
   </item>
   <item>
-    <title>Vanilla More Molds [Overhaul Update 2.0.1]</title>
+    <title>Vanilla More Molds [CONFIG FIX : Overhaul Update 2.0.1]</title>
     <link>https://mods.vintagestory.at/show/mod/vanillamoremolds</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillamoremolds#2948</guid>
     <pubDate>Thu, 02 Jul 2026 15:12:59 -0000</pubDate>
@@ -39,13 +74,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carryon#890</guid>
     <pubDate>Thu, 02 Jul 2026 15:00:37 -0000</pubDate>
     <description>Adds the capability to carry various things. Replaces CarryCapacity.</description>
-  </item>
-  <item>
-    <title>KRPG Enchantment</title>
-    <link>https://mods.vintagestory.at/show/mod/krpgenchantment</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krpgenchantment#2216</guid>
-    <pubDate>Thu, 02 Jul 2026 14:37:54 -0000</pubDate>
-    <description>Adds MC-like enchantment system to VS.</description>
   </item>
   <item>
     <title>Sythet Terratag</title>
@@ -95,13 +123,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustmaticaeasyplace#9981</guid>
     <pubDate>Thu, 02 Jul 2026 12:37:35 -0000</pubDate>
     <description>Addon to Rustmatica, streamlining the building process of schematics</description>
-  </item>
-  <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Thu, 02 Jul 2026 12:28:21 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
   </item>
   <item>
     <title>Rustmatica</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
     <pubDate>Thu, 02 Jul 2026 05:47:13 -0000</pubDate>
     <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Animalica Core</title>
-    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
-    <pubDate>Thu, 02 Jul 2026 05:43:05 -0000</pubDate>
-    <description>Core mod for playable animals. Does nothing on it's own</description>
-  </item>
-  <item>
-    <title>Animalica - Foxes, Wolves &amp; Hyenas</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicafwh</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicafwh#9794</guid>
-    <pubDate>Thu, 02 Jul 2026 05:40:54 -0000</pubDate>
-    <description>Adds Foxes, Wolves, and Hyenas as player choices!</description>
-  </item>
-  <item>
-    <title>Animalica - Bears</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicab</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicab#9795</guid>
-    <pubDate>Thu, 02 Jul 2026 05:40:42 -0000</pubDate>
-    <description>Adds Bears as player choices</description>
   </item>
 </channel>
 </rss>
