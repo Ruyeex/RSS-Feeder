@@ -44,15 +44,12 @@ jobs:
           if ! git diff --quiet || ! git diff --staged --quiet; then
             git commit -m "Update VS Mod DB RSS feed"
             
-            # Fetch latest changes first
-            git fetch origin main
-            
-            # Rebase on latest main to avoid conflicts
-            git rebase origin/main || {
-              echo "Rebase failed - aborting"
-              git rebase --abort
-              exit 1
-            }
+             # Pull latest changes with rebase
+             git pull --rebase origin main || {
+               echo "Pull/rebase failed - aborting"
+               git rebase --abort
+               exit 1
+             }
             
             # Now push
             git push origin main
