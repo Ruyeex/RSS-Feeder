@@ -1,28 +1,21 @@
-name: Update VS Mod DB RSS Feed
+name: Update Vintage Story Mod RSS Feed
 
 on:
   schedule:
-    # Run every 6 hours
-    - cron: '0 */6 * * *'
-  # Allow manual trigger from GitHub UI
+    # Run every hour at the top of the hour
+    - cron: '0 * * * *'
+  # Allow manual trigger from Actions tab
   workflow_dispatch:
-
-concurrency:
-  group: rss-feed-update
-  cancel-in-progress: false
 
 jobs:
   update-feed:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -32,16 +25,12 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run RSS generator
-        run: python ./vsmoddb_rss.py
-        
-      - name: Commit and push if changed
+      - name: Run RSS feed generator
+        run: python vsmoddb_rss.py
+
+      - name: Commit and push changes
         run: |
-          git config user.name "Ruyeex"
-          git config user.email "ruyeex@gmail.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add vsmoddb_updates.xml
-          if ! git diff --quiet || ! git diff --staged --quiet; then
-            git pull --rebase origin main
-            git commit -m "Update VS Mod DB RSS feed"
-            git push origin main
-          fi
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update: Vintage Story mod RSS feed" && git push)
