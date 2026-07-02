@@ -23,22 +23,23 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Locate script + ensure target output exists
+      - name: Locate script and run it (absolute path)
         run: |
-          echo "PWD: $(pwd)"
-          ls -la
-          find . -maxdepth 6 -name 'vsmoddb_rss.py' -print
-          # If your generator outputs to a different path/name, update this.
-          test -f vsmoddb_updates.xml || true
-
-      - name: Run RSS generator
-        run: python scripts
+          python -c "import sys; print(sys.version)"
+          script="$(find . -maxdepth 6 -name 'vsmoddb_rss.py' -print -quit)"
+          echo "Found script: $script"
+          test -n "$script"
+          python "$script"
 
       - name: Commit and push if changed
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
+
+          # stage only what the generator updates; change this if your output file differs
           git add -A
-          git diff --cached --quiet && git diff --quiet && exit 0
+
+          git diff --cached --quiet && exit 0
           git commit -m "Update VS Mod DB RSS feed"
           git push
+
