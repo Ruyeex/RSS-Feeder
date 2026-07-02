@@ -28,10 +28,14 @@ jobs:
       - name: Locate and run generator
         run: |
           echo "PWD: $(pwd)"
-          script="$(find . -maxdepth 6 -name 'vsmoddb_rss.py' -print -quit)"
-          echo "Found script: $script"
-          test -n "$script"
-          python "$script"
+          ls -la
+          if [ -f "./vsmoddb_rss.py" ]; then
+            python ./vsmoddb_rss.py
+          else
+            echo "Error: vsmoddb_rss.py not found in current directory"
+            find . -name 'vsmoddb_rss.py' -type f
+            exit 1
+          fi
 
       - name: Commit and push if changed
         run: |
