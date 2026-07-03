@@ -4,20 +4,111 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 03 Jul 2026 00:09:12 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Jul 2026 04:44:22 +0000</lastBuildDate>
+  <item>
+    <title>Resonator Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10007</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10007#10007</guid>
+    <pubDate>Fri, 03 Jul 2026 04:41:19 -0000</pubDate>
+    <description>Simple mod to play the resonator as a sound effect. Will play with music off .</description>
+  </item>
+  <item>
+    <title>Resonator Overhaul </title>
+    <link>https://mods.vintagestory.at/show/mod/10009</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10009#10009</guid>
+    <pubDate>Fri, 03 Jul 2026 04:39:27 -0000</pubDate>
+    <description>Per-resonator volume, falloff radius and looping — saved to the world, synced to all players, and au</description>
+  </item>
+  <item>
+    <title>ReelMower</title>
+    <link>https://mods.vintagestory.at/show/mod/reelmower</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/reelmower#9653</guid>
+    <pubDate>Fri, 03 Jul 2026 04:34:35 -0000</pubDate>
+    <description>Push reel mower. Cut grass, Multiplayer in testing</description>
+  </item>
+  <item>
+    <title>KRPG Enchantment</title>
+    <link>https://mods.vintagestory.at/show/mod/krpgenchantment</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krpgenchantment#2216</guid>
+    <pubDate>Fri, 03 Jul 2026 04:32:46 -0000</pubDate>
+    <description>Adds MC-like enchantment system to VS.</description>
+  </item>
+  <item>
+    <title>Riley's Classes [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Fri, 03 Jul 2026 04:31:21 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+  </item>
+  <item>
+    <title>VS TrueScale 128 HD</title>
+    <link>https://mods.vintagestory.at/show/mod/vstruescalehd</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vstruescalehd#6443</guid>
+    <pubDate>Fri, 03 Jul 2026 04:23:12 -0000</pubDate>
+    <description>Hand-tuned 128px Custom SR + selective Krita HD redraws.</description>
+  </item>
+  <item>
+    <title>Beams Go In Mining Bag</title>
+    <link>https://mods.vintagestory.at/show/mod/beamsgoinminingbag</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/beamsgoinminingbag#10008</guid>
+    <pubDate>Fri, 03 Jul 2026 04:15:01 -0000</pubDate>
+    <description>Adds the ability to put support beams (and crowbars!) in mining bags. Cave-Ins players rejoice!</description>
+  </item>
+  <item>
+    <title>String Editor</title>
+    <link>https://mods.vintagestory.at/show/mod/locdesigner</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/locdesigner#9985</guid>
+    <pubDate>Fri, 03 Jul 2026 03:26:00 -0000</pubDate>
+    <description>The Transform Designer of Localization authoring. Word processing, it's simple.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Fri, 03 Jul 2026 02:45:46 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Traders Buy Iron Tools</title>
+    <link>https://mods.vintagestory.at/show/mod/tradersbuyirontools</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tradersbuyirontools#10006</guid>
+    <pubDate>Fri, 03 Jul 2026 02:32:18 -0000</pubDate>
+    <description>Adds the ability for traders of all sorts to buy iron tools and more!</description>
+  </item>
+  <item>
+    <title>Sounds of Nature</title>
+    <link>https://mods.vintagestory.at/show/mod/8818</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8818#8818</guid>
+    <pubDate>Fri, 03 Jul 2026 01:25:22 -0000</pubDate>
+    <description>Brings the world to life with realistic ambient wildlife audio that reacts to where you are.</description>
+  </item>
+  <item>
+    <title>Echoes of the Drift</title>
+    <link>https://mods.vintagestory.at/show/mod/10002</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10002#10002</guid>
+    <pubDate>Fri, 03 Jul 2026 00:56:38 -0000</pubDate>
+    <description>Work-in-progress quest campaign - wake the Resonant Atlas and hunt echoes by compass.</description>
+  </item>
+  <item>
+    <title>Optimum</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Fri, 03 Jul 2026 00:56:10 -0000</pubDate>
+    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
+  </item>
+  <item>
+    <title>Mad Hoarding</title>
+    <link>https://mods.vintagestory.at/show/mod/madhoarding</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/madhoarding#10000</guid>
+    <pubDate>Fri, 03 Jul 2026 00:42:34 -0000</pubDate>
+    <description>An extension to Food Shelves and Purposeful Storage to increase capacity of some containers and alte</description>
+  </item>
   <item>
     <title>In Dappled Groves Firewood Buff Continued</title>
     <link>https://mods.vintagestory.at/show/mod/10001</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10001#10001</guid>
     <pubDate>Thu, 02 Jul 2026 23:54:30 -0000</pubDate>
     <description>Adjusts some of In Dappled Groves' recipes</description>
-  </item>
-  <item>
-    <title>Riley's Classes [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Thu, 02 Jul 2026 23:42:05 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
   </item>
   <item>
     <title>Elk Adornments</title>
@@ -123,97 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
     <pubDate>Thu, 02 Jul 2026 20:50:11 -0000</pubDate>
     <description>Library for adding new player races</description>
-  </item>
-  <item>
-    <title>Salty´s Clear View</title>
-    <link>https://mods.vintagestory.at/show/mod/clearview</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clearview#9996</guid>
-    <pubDate>Thu, 02 Jul 2026 20:49:28 -0000</pubDate>
-    <description>Fades blocks blocking the third person camera!</description>
-  </item>
-  <item>
-    <title>Entity Resync Fix Resynced</title>
-    <link>https://mods.vintagestory.at/show/mod/entityresyncfixresynced</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/entityresyncfixresynced#9995</guid>
-    <pubDate>Thu, 02 Jul 2026 20:33:52 -0000</pubDate>
-    <description>Mitigates client-side entity desync: frozen mobs, floating drops and duplicate ghost players.</description>
-  </item>
-  <item>
-    <title>LowHealthSlowdown</title>
-    <link>https://mods.vintagestory.at/show/mod/4989</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4989#4989</guid>
-    <pubDate>Thu, 02 Jul 2026 20:29:26 -0000</pubDate>
-    <description>Slows the player down up to 30% when under 30% HP</description>
-  </item>
-  <item>
-    <title>Solid Long Tables</title>
-    <link>https://mods.vintagestory.at/show/mod/solidlongtables</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/solidlongtables#9994</guid>
-    <pubDate>Thu, 02 Jul 2026 20:13:11 -0000</pubDate>
-    <description>Makes certain 2x1 clutter tables solid multiblocks.</description>
-  </item>
-  <item>
-    <title>Server Tweak</title>
-    <link>https://mods.vintagestory.at/show/mod/9993</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9993#9993</guid>
-    <pubDate>Thu, 02 Jul 2026 20:03:26 -0000</pubDate>
-    <description>Small tweak made for a closed server, DO NOT USE</description>
-  </item>
-  <item>
-    <title>CB Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Thu, 02 Jul 2026 19:56:08 -0000</pubDate>
-    <description>JSON content patches for my small personal server</description>
-  </item>
-  <item>
-    <title>JSCM Frozen Struggles</title>
-    <link>https://mods.vintagestory.at/show/mod/jscmfs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jscmfs#9992</guid>
-    <pubDate>Thu, 02 Jul 2026 19:27:42 -0000</pubDate>
-    <description>A new modpack for my girlfriend and I. Focused around a Sub-Artic playthrough</description>
-  </item>
-  <item>
-    <title>Oils! Resoaped</title>
-    <link>https://mods.vintagestory.at/show/mod/oilsresoaped</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oilsresoaped#9991</guid>
-    <pubDate>Thu, 02 Jul 2026 19:15:43 -0000</pubDate>
-    <description>Oils! Resoaped. A content mod that adds plant oils &amp; their uses as well as some alternative recipes.</description>
-  </item>
-  <item>
-    <title>Navi</title>
-    <link>https://mods.vintagestory.at/show/mod/navi</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/navi#9028</guid>
-    <pubDate>Thu, 02 Jul 2026 19:15:00 -0000</pubDate>
-    <description>A glowing fairy who lives in your pendant: light source, enemy alert, nameable and recolorable.</description>
-  </item>
-  <item>
-    <title>Laboror's machete</title>
-    <link>https://mods.vintagestory.at/show/mod/9554</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9554#9554</guid>
-    <pubDate>Thu, 02 Jul 2026 19:14:03 -0000</pubDate>
-    <description>This mods add 2 machetes, a tool and a weapon (a machete and a broad machete)</description>
-  </item>
-  <item>
-    <title>Immersive Rainbow</title>
-    <link>https://mods.vintagestory.at/show/mod/immersiverainbow</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersiverainbow#9937</guid>
-    <pubDate>Thu, 02 Jul 2026 19:12:23 -0000</pubDate>
-    <description>Adds a simple physically accurate (as much as possible) rainbow</description>
-  </item>
-  <item>
-    <title>Rolling Saves</title>
-    <link>https://mods.vintagestory.at/show/mod/rollingsaves</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rollingsaves#9048</guid>
-    <pubDate>Thu, 02 Jul 2026 19:11:52 -0000</pubDate>
-    <description>Quietly keeps 3 cold copies of every world. Meta-mod — no in-game UI. Restore by  hand.</description>
-  </item>
-  <item>
-    <title>CollapseStory</title>
-    <link>https://mods.vintagestory.at/show/mod/7776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
-    <pubDate>Thu, 02 Jul 2026 18:04:28 -0000</pubDate>
-    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
   </item>
 </channel>
 </rss>
