@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 03 Jul 2026 06:46:20 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Jul 2026 08:12:03 +0000</lastBuildDate>
+  <item>
+    <title>Fast Mushroom Harvesting</title>
+    <link>https://mods.vintagestory.at/show/mod/9974</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9974#9974</guid>
+    <pubDate>Fri, 03 Jul 2026 07:43:51 -0000</pubDate>
+    <description>You don't need tools to pick mushrooms, it's easy and quick to pick them by hand.</description>
+  </item>
+  <item>
+    <title>Humans-Nudity Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/nudehumans</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nudehumans#6399</guid>
+    <pubDate>Fri, 03 Jul 2026 07:36:52 -0000</pubDate>
+    <description>Adds nude option to races from Humans</description>
+  </item>
+  <item>
+    <title>Temporal Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/9869</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9869#9869</guid>
+    <pubDate>Fri, 03 Jul 2026 07:26:04 -0000</pubDate>
+    <description>A simple Storage Solution using the power of Temporal Entanglement! (Now with Crafting!~)</description>
+  </item>
+  <item>
+    <title>Kaschperle Class Mix </title>
+    <link>https://mods.vintagestory.at/show/mod/8517</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8517#8517</guid>
+    <pubDate>Fri, 03 Jul 2026 07:05:37 -0000</pubDate>
+    <description>A revision mix from the popular class mod Aldi classes and Agi's Classes</description>
+  </item>
   <item>
     <title>Arrows and Slings</title>
     <link>https://mods.vintagestory.at/show/mod/arrowsnslings</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8477#8477</guid>
     <pubDate>Thu, 02 Jul 2026 21:38:35 -0000</pubDate>
     <description>A modpack that contains custom content and server tweaks for the Whispers of Oldwood season 3.</description>
-  </item>
-  <item>
-    <title>Downed</title>
-    <link>https://mods.vintagestory.at/show/mod/downed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
-    <pubDate>Thu, 02 Jul 2026 21:26:31 -0000</pubDate>
-    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
-  </item>
-  <item>
-    <title>PlayerCollisions</title>
-    <link>https://mods.vintagestory.at/show/mod/8393</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8393#8393</guid>
-    <pubDate>Thu, 02 Jul 2026 21:22:46 -0000</pubDate>
-    <description>Adds player collision box repulsion.</description>
-  </item>
-  <item>
-    <title>Seraphs Ledger</title>
-    <link>https://mods.vintagestory.at/show/mod/9783</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9783#9783</guid>
-    <pubDate>Thu, 02 Jul 2026 21:18:54 -0000</pubDate>
-    <description>A personal bundle of small quality-of-life tweaks for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Caeloria: Content</title>
-    <link>https://mods.vintagestory.at/show/mod/caeloriacontent</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caeloriacontent#9063</guid>
-    <pubDate>Thu, 02 Jul 2026 21:17:30 -0000</pubDate>
-    <description>Content pack for Caeloria: Reborn. Doesn't include any code mods, those are different mods.</description>
   </item>
 </channel>
 </rss>
