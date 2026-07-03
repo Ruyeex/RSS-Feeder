@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 02 Jul 2026 22:10:09 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Jul 2026 00:09:12 +0000</lastBuildDate>
+  <item>
+    <title>In Dappled Groves Firewood Buff Continued</title>
+    <link>https://mods.vintagestory.at/show/mod/10001</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10001#10001</guid>
+    <pubDate>Thu, 02 Jul 2026 23:54:30 -0000</pubDate>
+    <description>Adjusts some of In Dappled Groves' recipes</description>
+  </item>
+  <item>
+    <title>Riley's Classes [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Thu, 02 Jul 2026 23:42:05 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+  </item>
+  <item>
+    <title>Elk Adornments</title>
+    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
+    <pubDate>Thu, 02 Jul 2026 23:30:07 -0000</pubDate>
+    <description>Masks for you and your elk with Modular Elk Armor!</description>
+  </item>
+  <item>
+    <title>CB Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Thu, 02 Jul 2026 23:22:36 -0000</pubDate>
+    <description>Harmony patches for my personal server.</description>
+  </item>
+  <item>
+    <title>Alternative armor designs</title>
+    <link>https://mods.vintagestory.at/show/mod/5597</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5597#5597</guid>
+    <pubDate>Thu, 02 Jul 2026 23:14:23 -0000</pubDate>
+    <description>With this mod, you can make use of all game armor designs for each equivalent armor type.</description>
+  </item>
+  <item>
+    <title>WOO Fantasy Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
+    <pubDate>Thu, 02 Jul 2026 23:11:46 -0000</pubDate>
+    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Thu, 02 Jul 2026 22:57:39 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>The Monsterpack</title>
+    <link>https://mods.vintagestory.at/show/mod/9530</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9530#9530</guid>
+    <pubDate>Thu, 02 Jul 2026 22:54:38 -0000</pubDate>
+    <description>This pack adds a handful of monster to the game</description>
+  </item>
   <item>
     <title>WOO³</title>
     <link>https://mods.vintagestory.at/show/mod/8477</link>
@@ -90,13 +146,6 @@
     <description>Slows the player down up to 30% when under 30% HP</description>
   </item>
   <item>
-    <title>Riley's Classes [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Thu, 02 Jul 2026 20:26:41 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
     <title>Solid Long Tables</title>
     <link>https://mods.vintagestory.at/show/mod/solidlongtables</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/solidlongtables#9994</guid>
@@ -116,13 +165,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
     <pubDate>Thu, 02 Jul 2026 19:56:08 -0000</pubDate>
     <description>JSON content patches for my small personal server</description>
-  </item>
-  <item>
-    <title>CB Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Thu, 02 Jul 2026 19:55:33 -0000</pubDate>
-    <description>Harmony patches for my personal server.</description>
   </item>
   <item>
     <title>JSCM Frozen Struggles</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
     <pubDate>Thu, 02 Jul 2026 18:04:28 -0000</pubDate>
     <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
-  </item>
-  <item>
-    <title>KRPG Enchantment</title>
-    <link>https://mods.vintagestory.at/show/mod/krpgenchantment</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krpgenchantment#2216</guid>
-    <pubDate>Thu, 02 Jul 2026 17:52:19 -0000</pubDate>
-    <description>Adds MC-like enchantment system to VS.</description>
-  </item>
-  <item>
-    <title>Mod-Auto Installer</title>
-    <link>https://mods.vintagestory.at/show/mod/9943</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9943#9943</guid>
-    <pubDate>Thu, 02 Jul 2026 17:21:06 -0000</pubDate>
-    <description>An applicaiton that allows you to mass-install mods based on a logfile!</description>
-  </item>
-  <item>
-    <title>ReelMower</title>
-    <link>https://mods.vintagestory.at/show/mod/reelmower</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/reelmower#9653</guid>
-    <pubDate>Thu, 02 Jul 2026 17:03:50 -0000</pubDate>
-    <description>Push reel mower. Cut grass, Multiplayer in testing</description>
-  </item>
-  <item>
-    <title>Bed Regen Regenerated</title>
-    <link>https://mods.vintagestory.at/show/mod/bedregenregenerated</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bedregenregenerated#9986</guid>
-    <pubDate>Thu, 02 Jul 2026 17:00:22 -0000</pubDate>
-    <description>Regenerate health faster while lying in a bed (multiplayer friendly).</description>
-  </item>
-  <item>
-    <title>Searchable</title>
-    <link>https://mods.vintagestory.at/show/mod/searchable</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/searchable#4446</guid>
-    <pubDate>Thu, 02 Jul 2026 16:43:44 -0000</pubDate>
-    <description>Adds a command that allows you to look through other players' inventories (with consent) </description>
-  </item>
-  <item>
-    <title>Storage Lectern</title>
-    <link>https://mods.vintagestory.at/show/mod/storagelectern</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/storagelectern#9534</guid>
-    <pubDate>Thu, 02 Jul 2026 16:38:11 -0000</pubDate>
-    <description>A tiered storage lectern that links multiple inventories</description>
   </item>
 </channel>
 </rss>
