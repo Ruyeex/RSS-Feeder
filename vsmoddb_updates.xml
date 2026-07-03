@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 03 Jul 2026 08:12:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Jul 2026 11:35:07 +0000</lastBuildDate>
+  <item>
+    <title>Stoneworks</title>
+    <link>https://mods.vintagestory.at/show/mod/stoneworks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stoneworks#8224</guid>
+    <pubDate>Fri, 03 Jul 2026 11:08:52 -0000</pubDate>
+    <description>Adds concrete, crushed stone aggregate, metal bricks, and more.</description>
+  </item>
+  <item>
+    <title>HUD Clock</title>
+    <link>https://mods.vintagestory.at/show/mod/hudclock</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hudclock#2788</guid>
+    <pubDate>Fri, 03 Jul 2026 10:47:40 -0000</pubDate>
+    <description>A compact, configurable heads-up display for Vintage Story.</description>
+  </item>
+  <item>
+    <title>Vanilla Varnished Planks</title>
+    <link>https://mods.vintagestory.at/show/mod/5687</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5687#5687</guid>
+    <pubDate>Fri, 03 Jul 2026 10:44:43 -0000</pubDate>
+    <description>Adds ten types of treated wood, based on the uncraftable wood on fine furniture and missing colours</description>
+  </item>
+  <item>
+    <title>Specialized Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/spbackpacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spbackpacks#9047</guid>
+    <pubDate>Fri, 03 Jul 2026 10:12:13 -0000</pubDate>
+    <description>A few backpacks that provide buffs to the wearer, and of course more inventory space.</description>
+  </item>
+  <item>
+    <title> Immersive Rope Crafting FORK</title>
+    <link>https://mods.vintagestory.at/show/mod/9355</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9355#9355</guid>
+    <pubDate>Fri, 03 Jul 2026 10:05:03 -0000</pubDate>
+    <description>Allows you to braid rope in world for cheaper and with more options for ingridients</description>
+  </item>
+  <item>
+    <title>Sound Of Confession</title>
+    <link>https://mods.vintagestory.at/show/mod/soundofconfession</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/soundofconfession#2340</guid>
+    <pubDate>Fri, 03 Jul 2026 08:19:29 -0000</pubDate>
+    <description>Adds church bells.</description>
+  </item>
   <item>
     <title>Fast Mushroom Harvesting</title>
     <link>https://mods.vintagestory.at/show/mod/9974</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
     <pubDate>Thu, 02 Jul 2026 23:30:07 -0000</pubDate>
     <description>Masks for you and your elk with Modular Elk Armor!</description>
-  </item>
-  <item>
-    <title>CB Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Thu, 02 Jul 2026 23:22:36 -0000</pubDate>
-    <description>Harmony patches for my personal server.</description>
-  </item>
-  <item>
-    <title>Alternative armor designs</title>
-    <link>https://mods.vintagestory.at/show/mod/5597</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5597#5597</guid>
-    <pubDate>Thu, 02 Jul 2026 23:14:23 -0000</pubDate>
-    <description>With this mod, you can make use of all game armor designs for each equivalent armor type.</description>
-  </item>
-  <item>
-    <title>WOO Fantasy Additions</title>
-    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
-    <pubDate>Thu, 02 Jul 2026 23:11:46 -0000</pubDate>
-    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Thu, 02 Jul 2026 22:57:39 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>The Monsterpack</title>
-    <link>https://mods.vintagestory.at/show/mod/9530</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9530#9530</guid>
-    <pubDate>Thu, 02 Jul 2026 22:54:38 -0000</pubDate>
-    <description>This pack adds a handful of monster to the game</description>
-  </item>
-  <item>
-    <title>WOO³</title>
-    <link>https://mods.vintagestory.at/show/mod/8477</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8477#8477</guid>
-    <pubDate>Thu, 02 Jul 2026 21:38:35 -0000</pubDate>
-    <description>A modpack that contains custom content and server tweaks for the Whispers of Oldwood season 3.</description>
   </item>
 </channel>
 </rss>
