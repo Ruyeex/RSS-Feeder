@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 03 Jul 2026 16:27:30 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Jul 2026 18:14:33 +0000</lastBuildDate>
+  <item>
+    <title>String Editor</title>
+    <link>https://mods.vintagestory.at/show/mod/locdesigner</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/locdesigner#9985</guid>
+    <pubDate>Fri, 03 Jul 2026 18:04:43 -0000</pubDate>
+    <description>The Transform Designer of Localization authoring. Word processing, it's simple.</description>
+  </item>
+  <item>
+    <title>Firearms Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10015</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10015#10015</guid>
+    <pubDate>Fri, 03 Jul 2026 18:01:42 -0000</pubDate>
+    <description>Changes the musket to deal equivalent damage to the Windlass with steel bolts.</description>
+  </item>
+  <item>
+    <title>Salty´s Immersive: Lanterns</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivelanterns</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivelanterns#5052</guid>
+    <pubDate>Fri, 03 Jul 2026 17:55:25 -0000</pubDate>
+    <description>Lanterns that flicker, react to movement and wind, swinging and make noise.</description>
+  </item>
+  <item>
+    <title>All The Stats</title>
+    <link>https://mods.vintagestory.at/show/mod/allthestats</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/allthestats#8757</guid>
+    <pubDate>Fri, 03 Jul 2026 17:49:00 -0000</pubDate>
+    <description>A dual-purpose library for players and mod creators interested in new stats for traits and recipes.</description>
+  </item>
+  <item>
+    <title>Player Model lib</title>
+    <link>https://mods.vintagestory.at/show/mod/playermodellib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
+    <pubDate>Fri, 03 Jul 2026 17:41:57 -0000</pubDate>
+    <description>Library for adding new player races</description>
+  </item>
+  <item>
+    <title>ToE Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/svanaxtoe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/svanaxtoe#5352</guid>
+    <pubDate>Fri, 03 Jul 2026 17:27:04 -0000</pubDate>
+    <description>A collection of all patches for the ToE Server</description>
+  </item>
+  <item>
+    <title>Dragonia Server Mod Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/dragoniapatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dragoniapatch#5896</guid>
+    <pubDate>Fri, 03 Jul 2026 17:01:57 -0000</pubDate>
+    <description>Меняет генерацию железа и добавляет новый крафт льняного шпагата</description>
+  </item>
+  <item>
+    <title>Vintage Stuff Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/9741</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9741#9741</guid>
+    <pubDate>Fri, 03 Jul 2026 16:53:19 -0000</pubDate>
+    <description>A mod for our server that combines different class mods to kitbash our own personal classes</description>
+  </item>
+  <item>
+    <title>Alternative armor designs</title>
+    <link>https://mods.vintagestory.at/show/mod/5597</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5597#5597</guid>
+    <pubDate>Fri, 03 Jul 2026 16:47:00 -0000</pubDate>
+    <description>With this mod, you can make use of all game armor designs for each equivalent armor type.</description>
+  </item>
+  <item>
+    <title>Dragonia Translations</title>
+    <link>https://mods.vintagestory.at/show/mod/10016</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10016#10016</guid>
+    <pubDate>Fri, 03 Jul 2026 16:42:38 -0000</pubDate>
+    <description>Переводы и отредактированные переводы под стиль сервера. </description>
+  </item>
   <item>
     <title>Wind Vanes &amp; Randomized Winds</title>
     <link>https://mods.vintagestory.at/show/mod/windvanes</link>
@@ -60,13 +130,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tetrominestweaks#9553</guid>
     <pubDate>Fri, 03 Jul 2026 14:17:15 -0000</pubDate>
     <description>An assortments of tweaks to vanilla content as well as tweaks to existing mods for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Alternative armor designs</title>
-    <link>https://mods.vintagestory.at/show/mod/5597</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5597#5597</guid>
-    <pubDate>Fri, 03 Jul 2026 13:56:19 -0000</pubDate>
-    <description>With this mod, you can make use of all game armor designs for each equivalent armor type.</description>
   </item>
   <item>
     <title>Immersive Machina</title>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spbackpacks#9047</guid>
     <pubDate>Fri, 03 Jul 2026 10:12:13 -0000</pubDate>
     <description>A few backpacks that provide buffs to the wearer, and of course more inventory space.</description>
-  </item>
-  <item>
-    <title> Immersive Rope Crafting FORK</title>
-    <link>https://mods.vintagestory.at/show/mod/9355</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9355#9355</guid>
-    <pubDate>Fri, 03 Jul 2026 10:05:03 -0000</pubDate>
-    <description>Allows you to braid rope in world for cheaper and with more options for ingridients</description>
-  </item>
-  <item>
-    <title>Sound Of Confession</title>
-    <link>https://mods.vintagestory.at/show/mod/soundofconfession</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/soundofconfession#2340</guid>
-    <pubDate>Fri, 03 Jul 2026 08:19:29 -0000</pubDate>
-    <description>Adds church bells.</description>
-  </item>
-  <item>
-    <title>Humans-Nudity Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/nudehumans</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nudehumans#6399</guid>
-    <pubDate>Fri, 03 Jul 2026 07:36:52 -0000</pubDate>
-    <description>Adds nude option to races from Humans</description>
-  </item>
-  <item>
-    <title>Temporal Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/9869</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9869#9869</guid>
-    <pubDate>Fri, 03 Jul 2026 07:26:04 -0000</pubDate>
-    <description>A simple Storage Solution using the power of Temporal Entanglement! (Now with Crafting!~)</description>
-  </item>
-  <item>
-    <title>Kaschperle Class Mix </title>
-    <link>https://mods.vintagestory.at/show/mod/8517</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8517#8517</guid>
-    <pubDate>Fri, 03 Jul 2026 07:05:37 -0000</pubDate>
-    <description>A revision mix from the popular class mod Aldi classes and Agi's Classes</description>
-  </item>
-  <item>
-    <title>Arrows and Slings</title>
-    <link>https://mods.vintagestory.at/show/mod/arrowsnslings</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arrowsnslings#9546</guid>
-    <pubDate>Fri, 03 Jul 2026 06:36:30 -0000</pubDate>
-    <description>Buff arrows and adds sling progression</description>
-  </item>
-  <item>
-    <title>Auto Walk Extended</title>
-    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
-    <pubDate>Fri, 03 Jul 2026 06:20:54 -0000</pubDate>
-    <description>Allows toggling walk (autowalk) and sneak (autosneak). Also supports walking uphill (stepup).</description>
-  </item>
-  <item>
-    <title>Simple Rock Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/simplerockcrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplerockcrafting#6744</guid>
-    <pubDate>Fri, 03 Jul 2026 05:28:19 -0000</pubDate>
-    <description>A simple mod that allows you to craft rock blocks out of 8 stones and a hammer.</description>
-  </item>
-  <item>
-    <title>Mad Hoarding</title>
-    <link>https://mods.vintagestory.at/show/mod/madhoarding</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/madhoarding#10000</guid>
-    <pubDate>Fri, 03 Jul 2026 04:51:47 -0000</pubDate>
-    <description>An extension to Food Shelves and Purposeful Storage to increase capacity of some containers and alte</description>
   </item>
 </channel>
 </rss>
