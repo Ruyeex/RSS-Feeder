@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 03 Jul 2026 14:12:08 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Jul 2026 16:27:30 +0000</lastBuildDate>
+  <item>
+    <title>Wind Vanes &amp; Randomized Winds</title>
+    <link>https://mods.vintagestory.at/show/mod/windvanes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windvanes#9414</guid>
+    <pubDate>Fri, 03 Jul 2026 15:42:15 -0000</pubDate>
+    <description>Wind vanes that rotate to face the wind direction and spins its rotator based on wind speed.</description>
+  </item>
+  <item>
+    <title>Storage Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/storagetweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/storagetweaks#7807</guid>
+    <pubDate>Fri, 03 Jul 2026 15:34:27 -0000</pubDate>
+    <description>Adds compact/sort and quick-unload buttons to chests and inventory.</description>
+  </item>
+  <item>
+    <title>Wild Farming Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/10010</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10010#10010</guid>
+    <pubDate>Fri, 03 Jul 2026 15:30:30 -0000</pubDate>
+    <description>Cultivate flowers, herbs, mushrooms, trees, and shrubs. And much more.</description>
+  </item>
+  <item>
+    <title>Bark Canoe</title>
+    <link>https://mods.vintagestory.at/show/mod/5976</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5976#5976</guid>
+    <pubDate>Fri, 03 Jul 2026 14:51:15 -0000</pubDate>
+    <description>Bark Canoe - Fork of iuno Orignal Canoe Mod</description>
+  </item>
+  <item>
+    <title>Fast Mushroom Harvesting</title>
+    <link>https://mods.vintagestory.at/show/mod/fastmushroomharvesting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fastmushroomharvesting#9974</guid>
+    <pubDate>Fri, 03 Jul 2026 14:43:46 -0000</pubDate>
+    <description>You don't need tools to pick mushrooms, it's easy and quick to pick them by hand.</description>
+  </item>
+  <item>
+    <title>Ithania Expanded Fishing</title>
+    <link>https://mods.vintagestory.at/show/mod/ithaniaexpandedfishing</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ithaniaexpandedfishing#9883</guid>
+    <pubDate>Fri, 03 Jul 2026 14:24:45 -0000</pubDate>
+    <description>Raise your own worms, craft custom baits, and trap live fish. Fishing, fully expanded.</description>
+  </item>
+  <item>
+    <title>Wall calendar</title>
+    <link>https://mods.vintagestory.at/show/mod/wallcalendar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wallcalendar#10013</guid>
+    <pubDate>Fri, 03 Jul 2026 14:21:46 -0000</pubDate>
+    <description>A parchment calendar hung by twine, each day tracked by hand in chalk</description>
+  </item>
+  <item>
+    <title>Tetromine's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tetrominestweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tetrominestweaks#9553</guid>
+    <pubDate>Fri, 03 Jul 2026 14:17:15 -0000</pubDate>
+    <description>An assortments of tweaks to vanilla content as well as tweaks to existing mods for Vintage Story.</description>
+  </item>
   <item>
     <title>Alternative armor designs</title>
     <link>https://mods.vintagestory.at/show/mod/5597</link>
@@ -53,13 +109,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
     <pubDate>Fri, 03 Jul 2026 11:43:02 -0000</pubDate>
     <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
-  </item>
-  <item>
-    <title>Stratum - High-performance server software.</title>
-    <link>https://mods.vintagestory.at/show/mod/stratum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stratum#9499</guid>
-    <pubDate>Fri, 03 Jul 2026 11:42:06 -0000</pubDate>
-    <description>Focused on smoother multiplayer servers, better performance under load and, practical tools.</description>
   </item>
   <item>
     <title>Fluffy Dreg</title>
@@ -118,13 +167,6 @@
     <description>Adds church bells.</description>
   </item>
   <item>
-    <title>Fast Mushroom Harvesting</title>
-    <link>https://mods.vintagestory.at/show/mod/9974</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9974#9974</guid>
-    <pubDate>Fri, 03 Jul 2026 07:43:51 -0000</pubDate>
-    <description>You don't need tools to pick mushrooms, it's easy and quick to pick them by hand.</description>
-  </item>
-  <item>
     <title>Humans-Nudity Patch</title>
     <link>https://mods.vintagestory.at/show/mod/nudehumans</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nudehumans#6399</guid>
@@ -160,13 +202,6 @@
     <description>Allows toggling walk (autowalk) and sneak (autosneak). Also supports walking uphill (stepup).</description>
   </item>
   <item>
-    <title>Wild Farming Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/10010</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10010#10010</guid>
-    <pubDate>Fri, 03 Jul 2026 06:14:49 -0000</pubDate>
-    <description>Cultivate flowers, herbs, mushrooms, trees, and shrubs. And much more.</description>
-  </item>
-  <item>
     <title>Simple Rock Crafting</title>
     <link>https://mods.vintagestory.at/show/mod/simplerockcrafting</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplerockcrafting#6744</guid>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/madhoarding#10000</guid>
     <pubDate>Fri, 03 Jul 2026 04:51:47 -0000</pubDate>
     <description>An extension to Food Shelves and Purposeful Storage to increase capacity of some containers and alte</description>
-  </item>
-  <item>
-    <title>Resonator Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10007</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10007#10007</guid>
-    <pubDate>Fri, 03 Jul 2026 04:41:19 -0000</pubDate>
-    <description>Simple mod to play the resonator as a sound effect. Will play with music off .</description>
-  </item>
-  <item>
-    <title>Resonator Overhaul </title>
-    <link>https://mods.vintagestory.at/show/mod/10009</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10009#10009</guid>
-    <pubDate>Fri, 03 Jul 2026 04:39:27 -0000</pubDate>
-    <description>Per-resonator volume, falloff and looping — saved to the world and audible with Music off.</description>
-  </item>
-  <item>
-    <title>ReelMower</title>
-    <link>https://mods.vintagestory.at/show/mod/reelmower</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/reelmower#9653</guid>
-    <pubDate>Fri, 03 Jul 2026 04:34:35 -0000</pubDate>
-    <description>Push reel mower. Cut grass, Multiplayer in testing</description>
-  </item>
-  <item>
-    <title>KRPG Enchantment</title>
-    <link>https://mods.vintagestory.at/show/mod/krpgenchantment</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krpgenchantment#2216</guid>
-    <pubDate>Fri, 03 Jul 2026 04:32:46 -0000</pubDate>
-    <description>Adds MC-like enchantment system to VS.</description>
-  </item>
-  <item>
-    <title>Riley's Classes [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Fri, 03 Jul 2026 04:31:21 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
   </item>
 </channel>
 </rss>
