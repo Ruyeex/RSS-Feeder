@@ -14,12 +14,10 @@ from datetime import datetime, timezone
 from email.utils import format_datetime
 from xml.sax.saxutils import escape
 import os
-
 API_URL = "https://mods.vintagestory.at/api/mods"
 SITE_BASE = "https://mods.vintagestory.at/"
 FEED_FILE = "vsmoddb_updates.xml"
 NUM_ITEMS = 30  # how many of the most recently updated mods to include
-
 def fetch_mods():
     params = {
         "orderby": "lastreleased",
@@ -31,7 +29,6 @@ def fetch_mods():
     # The API wraps results in a "mods" list alongside a statuscode field
     mods = data.get("mods") or data.get("data") or []
     return mods[:NUM_ITEMS]
-
 def parse_date(value):
     """The API's lastreleased field has shown up as either an ISO string
     or a unix timestamp depending on version, so handle both."""
@@ -43,18 +40,15 @@ def parse_date(value):
         return datetime.fromisoformat(str(value).replace("Z", "+00:00"))
     except (ValueError, TypeError):
         return datetime.now(timezone.utc)
-
 def mod_link(mod):
     slug = mod.get("urlalias") or mod.get("modid") or mod.get("assetid")
     return f"{SITE_BASE}show/mod/{slug}" if slug else SITE_BASE
-
 def safe_escape(text):
     """Safely escape text for XML, handling special characters"""
     if text is None:
         return ""
     # Convert to string and escape XML special characters
     return escape(str(text))
-
 def build_rss(mods):
     items_xml = []
     for mod in mods:
@@ -89,24 +83,17 @@ def build_rss(mods):
 </rss>
 """
     return rss
-
 def main():
     mods = fetch_mods()
     if not mods:
         print("No mods returned - check the API response structure (data.get('mods')).")
         return
     
-    # Delete old file if it exists
-    if os.path.exists(FEED_FILE):
-        os.remove(FEED_FILE)
-        print(f"Deleted old {FEED_FILE}")
-    
     rss = build_rss(mods)
     
-    # Write new file
+    # Write new file (overwrites existing file automatically)
     with open(FEED_FILE, "w", encoding="utf-8") as f:
         f.write(rss)
     print(f"Wrote {len(mods)} items to {FEED_FILE}")
-
 if __name__ == "__main__":
     main()
