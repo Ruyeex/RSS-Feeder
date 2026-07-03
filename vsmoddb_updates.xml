@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 03 Jul 2026 11:35:07 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Jul 2026 14:12:08 +0000</lastBuildDate>
+  <item>
+    <title>Alternative armor designs</title>
+    <link>https://mods.vintagestory.at/show/mod/5597</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5597#5597</guid>
+    <pubDate>Fri, 03 Jul 2026 13:56:19 -0000</pubDate>
+    <description>With this mod, you can make use of all game armor designs for each equivalent armor type.</description>
+  </item>
+  <item>
+    <title>Immersive Machina</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivemachina</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivemachina#10012</guid>
+    <pubDate>Fri, 03 Jul 2026 13:46:35 -0000</pubDate>
+    <description>A compatibility bridge between Immersive Mining and Eco Machina!</description>
+  </item>
+  <item>
+    <title>Struggle To Sleep</title>
+    <link>https://mods.vintagestory.at/show/mod/struggletosleep</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/struggletosleep#9105</guid>
+    <pubDate>Fri, 03 Jul 2026 12:29:21 -0000</pubDate>
+    <description>Not snuggle, STRUGGLE! You can only sleep if certain conditions are met.</description>
+  </item>
+  <item>
+    <title>Salty´s Clear View</title>
+    <link>https://mods.vintagestory.at/show/mod/clearview</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clearview#9996</guid>
+    <pubDate>Fri, 03 Jul 2026 12:07:05 -0000</pubDate>
+    <description>Fades blocks blocking the third person camera!</description>
+  </item>
+  <item>
+    <title>CollapseStory</title>
+    <link>https://mods.vintagestory.at/show/mod/7776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
+    <pubDate>Fri, 03 Jul 2026 11:46:20 -0000</pubDate>
+    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
+  </item>
+  <item>
+    <title>Deciduous Trees</title>
+    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
+    <pubDate>Fri, 03 Jul 2026 11:43:44 -0000</pubDate>
+    <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
+  </item>
+  <item>
+    <title>Leaf Litter</title>
+    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
+    <pubDate>Fri, 03 Jul 2026 11:43:02 -0000</pubDate>
+    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
+  </item>
+  <item>
+    <title>Stratum - High-performance server software.</title>
+    <link>https://mods.vintagestory.at/show/mod/stratum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stratum#9499</guid>
+    <pubDate>Fri, 03 Jul 2026 11:42:06 -0000</pubDate>
+    <description>Focused on smoother multiplayer servers, better performance under load and, practical tools.</description>
+  </item>
+  <item>
+    <title>Fluffy Dreg</title>
+    <link>https://mods.vintagestory.at/show/mod/fluffydreg</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fluffydreg#5557</guid>
+    <pubDate>Fri, 03 Jul 2026 11:38:31 -0000</pubDate>
+    <description>Adds a Fluffy Dragon/Kobold player model/race using Player Model Lib.</description>
+  </item>
+  <item>
+    <title>Vintage Rift - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
+    <pubDate>Fri, 03 Jul 2026 11:35:47 -0000</pubDate>
+    <description>Client only code for the Vintage Rift server</description>
+  </item>
   <item>
     <title>Stoneworks</title>
     <link>https://mods.vintagestory.at/show/mod/stoneworks</link>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
     <pubDate>Fri, 03 Jul 2026 04:31:21 -0000</pubDate>
     <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
-    <title>VS TrueScale 128 HD</title>
-    <link>https://mods.vintagestory.at/show/mod/vstruescalehd</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vstruescalehd#6443</guid>
-    <pubDate>Fri, 03 Jul 2026 04:23:12 -0000</pubDate>
-    <description>Hand-tuned 128px Custom SR + selective Krita HD redraws.</description>
-  </item>
-  <item>
-    <title>Beams Go In Mining Bag</title>
-    <link>https://mods.vintagestory.at/show/mod/beamsgoinminingbag</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/beamsgoinminingbag#10008</guid>
-    <pubDate>Fri, 03 Jul 2026 04:15:01 -0000</pubDate>
-    <description>Adds the ability to put support beams (and crowbars!) in mining bags. Cave-Ins players rejoice!</description>
-  </item>
-  <item>
-    <title>String Editor</title>
-    <link>https://mods.vintagestory.at/show/mod/locdesigner</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/locdesigner#9985</guid>
-    <pubDate>Fri, 03 Jul 2026 03:26:00 -0000</pubDate>
-    <description>The Transform Designer of Localization authoring. Word processing, it's simple.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Fri, 03 Jul 2026 02:45:46 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>Traders Buy Iron Tools</title>
-    <link>https://mods.vintagestory.at/show/mod/tradersbuyirontools</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tradersbuyirontools#10006</guid>
-    <pubDate>Fri, 03 Jul 2026 02:32:18 -0000</pubDate>
-    <description>Adds the ability for traders of all sorts to buy iron tools and more!</description>
-  </item>
-  <item>
-    <title>Sounds of Nature</title>
-    <link>https://mods.vintagestory.at/show/mod/8818</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8818#8818</guid>
-    <pubDate>Fri, 03 Jul 2026 01:25:22 -0000</pubDate>
-    <description>Brings the world to life with realistic ambient wildlife audio that reacts to where you are.</description>
-  </item>
-  <item>
-    <title>Echoes of the Drift</title>
-    <link>https://mods.vintagestory.at/show/mod/10002</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10002#10002</guid>
-    <pubDate>Fri, 03 Jul 2026 00:56:38 -0000</pubDate>
-    <description>Work-in-progress quest campaign - wake the Resonant Atlas and hunt echoes by compass.</description>
-  </item>
-  <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Fri, 03 Jul 2026 00:56:10 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
-    <title>In Dappled Groves Firewood Buff Continued</title>
-    <link>https://mods.vintagestory.at/show/mod/10001</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10001#10001</guid>
-    <pubDate>Thu, 02 Jul 2026 23:54:30 -0000</pubDate>
-    <description>Adjusts some of In Dappled Groves' recipes</description>
-  </item>
-  <item>
-    <title>Elk Adornments</title>
-    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
-    <pubDate>Thu, 02 Jul 2026 23:30:07 -0000</pubDate>
-    <description>Masks for you and your elk with Modular Elk Armor!</description>
   </item>
 </channel>
 </rss>
