@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 03 Jul 2026 18:14:33 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Jul 2026 20:16:57 +0000</lastBuildDate>
+  <item>
+    <title>Zenith System:Paragon of Seraphs</title>
+    <link>https://mods.vintagestory.at/show/mod/7485</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7485#7485</guid>
+    <pubDate>Fri, 03 Jul 2026 19:39:37 -0000</pubDate>
+    <description>Forge your path to Apotheosis -- A Mahoraga inspired mod</description>
+  </item>
+  <item>
+    <title>More Nails</title>
+    <link>https://mods.vintagestory.at/show/mod/10017</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10017#10017</guid>
+    <pubDate>Fri, 03 Jul 2026 19:05:00 -0000</pubDate>
+    <description>Higher-tier metal ingots yield more nails when forged.</description>
+  </item>
+  <item>
+    <title>Ghaelen's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9740</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
+    <pubDate>Fri, 03 Jul 2026 18:59:50 -0000</pubDate>
+    <description>My personal tweaks I like to play with.</description>
+  </item>
+  <item>
+    <title>Free The Horse</title>
+    <link>https://mods.vintagestory.at/show/mod/freethehorse</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/freethehorse#10018</guid>
+    <pubDate>Fri, 03 Jul 2026 18:51:41 -0000</pubDate>
+    <description>Big buff medieval semi-truck spawning wild in your area.</description>
+  </item>
+  <item>
+    <title>Sound Of Confession</title>
+    <link>https://mods.vintagestory.at/show/mod/soundofconfession</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/soundofconfession#2340</guid>
+    <pubDate>Fri, 03 Jul 2026 18:31:04 -0000</pubDate>
+    <description>Adds church bells.</description>
+  </item>
+  <item>
+    <title>WOO³</title>
+    <link>https://mods.vintagestory.at/show/mod/8477</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8477#8477</guid>
+    <pubDate>Fri, 03 Jul 2026 18:15:16 -0000</pubDate>
+    <description>A modpack that contains custom content and server tweaks for the Whispers of Oldwood season 3.</description>
+  </item>
   <item>
     <title>String Editor</title>
     <link>https://mods.vintagestory.at/show/mod/locdesigner</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
     <pubDate>Fri, 03 Jul 2026 11:43:02 -0000</pubDate>
     <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
-  </item>
-  <item>
-    <title>Fluffy Dreg</title>
-    <link>https://mods.vintagestory.at/show/mod/fluffydreg</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fluffydreg#5557</guid>
-    <pubDate>Fri, 03 Jul 2026 11:38:31 -0000</pubDate>
-    <description>Adds a Fluffy Dragon/Kobold player model/race using Player Model Lib.</description>
-  </item>
-  <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Fri, 03 Jul 2026 11:35:47 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
-    <title>Stoneworks</title>
-    <link>https://mods.vintagestory.at/show/mod/stoneworks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stoneworks#8224</guid>
-    <pubDate>Fri, 03 Jul 2026 11:08:52 -0000</pubDate>
-    <description>Adds concrete, crushed stone aggregate, metal bricks, and more.</description>
-  </item>
-  <item>
-    <title>HUD Clock</title>
-    <link>https://mods.vintagestory.at/show/mod/hudclock</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hudclock#2788</guid>
-    <pubDate>Fri, 03 Jul 2026 10:47:40 -0000</pubDate>
-    <description>A compact, configurable heads-up display for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Vanilla Varnished Planks</title>
-    <link>https://mods.vintagestory.at/show/mod/5687</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5687#5687</guid>
-    <pubDate>Fri, 03 Jul 2026 10:44:43 -0000</pubDate>
-    <description>Adds ten types of treated wood, based on the uncraftable wood on fine furniture and missing colours</description>
-  </item>
-  <item>
-    <title>Specialized Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/spbackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spbackpacks#9047</guid>
-    <pubDate>Fri, 03 Jul 2026 10:12:13 -0000</pubDate>
-    <description>A few backpacks that provide buffs to the wearer, and of course more inventory space.</description>
   </item>
 </channel>
 </rss>
