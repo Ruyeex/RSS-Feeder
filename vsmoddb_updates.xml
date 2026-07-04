@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 04 Jul 2026 18:04:27 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 20:11:08 +0000</lastBuildDate>
+  <item>
+    <title>Alternative armor designs</title>
+    <link>https://mods.vintagestory.at/show/mod/5597</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5597#5597</guid>
+    <pubDate>Sat, 04 Jul 2026 19:57:15 -0000</pubDate>
+    <description>With this mod, you can make use of all game armor designs for each equivalent armor type.</description>
+  </item>
+  <item>
+    <title>Better Bread Satiety</title>
+    <link>https://mods.vintagestory.at/show/mod/betterbreadsatiety</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterbreadsatiety#5085</guid>
+    <pubDate>Sat, 04 Jul 2026 19:51:33 -0000</pubDate>
+    <description>Increases the satiety of bread to make it more competitive with other grain options</description>
+  </item>
+  <item>
+    <title>Elk Adornments</title>
+    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
+    <pubDate>Sat, 04 Jul 2026 19:49:45 -0000</pubDate>
+    <description>Masks for you and your elk with Modular Elk Armor!</description>
+  </item>
+  <item>
+    <title>Specialized Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/spbackpacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spbackpacks#9047</guid>
+    <pubDate>Sat, 04 Jul 2026 19:15:44 -0000</pubDate>
+    <description>A few backpacks that provide buffs to the wearer, and of course more inventory space.</description>
+  </item>
+  <item>
+    <title>Struggle To Sleep</title>
+    <link>https://mods.vintagestory.at/show/mod/struggletosleep</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/struggletosleep#9105</guid>
+    <pubDate>Sat, 04 Jul 2026 19:09:03 -0000</pubDate>
+    <description>Not snuggle, STRUGGLE! You can only sleep if certain conditions are met.</description>
+  </item>
+  <item>
+    <title>Sleeping Bag</title>
+    <link>https://mods.vintagestory.at/show/mod/sleepingbagmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sleepingbagmod#10041</guid>
+    <pubDate>Sat, 04 Jul 2026 19:06:06 -0000</pubDate>
+    <description>A sleeping bag that can be worn in the waist slot. Sneak + R-click to pickup and auto-equip.</description>
+  </item>
+  <item>
+    <title>Oils! Resoaped Standalone</title>
+    <link>https://mods.vintagestory.at/show/mod/oilsresoapedsa</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oilsresoapedsa#10040</guid>
+    <pubDate>Sat, 04 Jul 2026 18:59:52 -0000</pubDate>
+    <description>Oils! Resoaped. A content mod that adds plant oils &amp; their uses as well as some alternative recipes.</description>
+  </item>
+  <item>
+    <title>Claim Activity Permissions</title>
+    <link>https://mods.vintagestory.at/show/mod/9821</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9821#9821</guid>
+    <pubDate>Sat, 04 Jul 2026 18:59:28 -0000</pubDate>
+    <description>Opens specific Vintage Story claim actions without granting general build or break access.</description>
+  </item>
+  <item>
+    <title>Oils! Resoaped</title>
+    <link>https://mods.vintagestory.at/show/mod/oilsresoaped</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oilsresoaped#9991</guid>
+    <pubDate>Sat, 04 Jul 2026 18:54:11 -0000</pubDate>
+    <description>Oils! Resoaped. A content mod that adds plant oils &amp; their uses as well as some alternative recipes.</description>
+  </item>
+  <item>
+    <title>rawNature</title>
+    <link>https://mods.vintagestory.at/show/mod/raw</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/raw#5940</guid>
+    <pubDate>Sat, 04 Jul 2026 18:49:33 -0000</pubDate>
+    <description>Adds materials, recipes, items, and a new balance of things to the game</description>
+  </item>
   <item>
     <title>Glassmaking</title>
     <link>https://mods.vintagestory.at/show/mod/glassmaking</link>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
     <pubDate>Sat, 04 Jul 2026 13:18:35 -0000</pubDate>
     <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
-    <title>One With The Thread Only</title>
-    <link>https://mods.vintagestory.at/show/mod/onewiththethreadonly</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/onewiththethreadonly#10038</guid>
-    <pubDate>Sat, 04 Jul 2026 12:51:38 -0000</pubDate>
-    <description>Adds cheaper flax crafting recipes to the tailor. </description>
-  </item>
-  <item>
-    <title>Secret Foxfire 1.22 Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10037</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10037#10037</guid>
-    <pubDate>Sat, 04 Jul 2026 12:40:58 -0000</pubDate>
-    <description>Tweaks for my community 1.22 server.</description>
-  </item>
-  <item>
-    <title>Vintage Canvas</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagecanvas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagecanvas#9406</guid>
-    <pubDate>Sat, 04 Jul 2026 12:38:50 -0000</pubDate>
-    <description>Craft canvases, mix paint, and use brushes to decorate your world!</description>
-  </item>
-  <item>
-    <title>CollapseStory</title>
-    <link>https://mods.vintagestory.at/show/mod/7776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
-    <pubDate>Sat, 04 Jul 2026 12:33:15 -0000</pubDate>
-    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
-  </item>
-  <item>
-    <title>LogicalNerfsDirection</title>
-    <link>https://mods.vintagestory.at/show/mod/9983</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9983#9983</guid>
-    <pubDate>Sat, 04 Jul 2026 12:32:40 -0000</pubDate>
-    <description>Removes compass-like tells from placement of the roller, knapping surfaces and clay forms.</description>
-  </item>
-  <item>
-    <title>LogicalNerfsChisel</title>
-    <link>https://mods.vintagestory.at/show/mod/9776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9776#9776</guid>
-    <pubDate>Sat, 04 Jul 2026 12:32:31 -0000</pubDate>
-    <description>Removes 4³ and 8³ chisel brush sizes and makes rock(not stone) chiseled blocks 8x slower to break.</description>
-  </item>
-  <item>
-    <title>Medic Tailor Improvements</title>
-    <link>https://mods.vintagestory.at/show/mod/medictailorimprovements</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/medictailorimprovements#10036</guid>
-    <pubDate>Sat, 04 Jul 2026 12:19:47 -0000</pubDate>
-    <description>A simple mod to give the tailor class some more functionality beyond drip. </description>
-  </item>
-  <item>
-    <title>Leaf Litter</title>
-    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
-    <pubDate>Sat, 04 Jul 2026 11:20:27 -0000</pubDate>
-    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
-  </item>
-  <item>
-    <title>ModsUpdater For Linux</title>
-    <link>https://mods.vintagestory.at/show/mod/modsupdaterforlinux</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modsupdaterforlinux#1525</guid>
-    <pubDate>Sat, 04 Jul 2026 11:14:44 -0000</pubDate>
-    <description>Your go-to buddy for always-up-to-date Vintage Story mods - Not a mod, but a program -</description>
-  </item>
-  <item>
-    <title>ModsUpdater For macOS</title>
-    <link>https://mods.vintagestory.at/show/mod/modsupdaterformacos</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modsupdaterformacos#5583</guid>
-    <pubDate>Sat, 04 Jul 2026 11:14:23 -0000</pubDate>
-    <description>Your go-to buddy for always-up-to-date Vintage Story mods - Not a mod, but a program -</description>
   </item>
 </channel>
 </rss>
