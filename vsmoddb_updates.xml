@@ -4,12 +4,89 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 03 Jul 2026 22:06:45 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 00:07:39 +0000</lastBuildDate>
+  <item>
+    <title>Stratum - High-performance server software.</title>
+    <link>https://mods.vintagestory.at/show/mod/stratum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stratum#9499</guid>
+    <pubDate>Fri, 03 Jul 2026 23:40:37 -0000</pubDate>
+    <description>Focused on smoother multiplayer servers, better performance under load and, practical tools.</description>
+  </item>
+  <item>
+    <title>Hook Molds</title>
+    <link>https://mods.vintagestory.at/show/mod/9960</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9960#9960</guid>
+    <pubDate>Fri, 03 Jul 2026 23:40:31 -0000</pubDate>
+    <description>This mod adds two molds for hooks for the Butchering Mod</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Chests</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalschests</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalschests#8152</guid>
+    <pubDate>Fri, 03 Jul 2026 23:39:13 -0000</pubDate>
+    <description>These chests were created for the [UA] Eternal Seraph server</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Fri, 03 Jul 2026 23:25:38 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
+  <item>
+    <title>In Dappled Groves Firewood Buff Continued</title>
+    <link>https://mods.vintagestory.at/show/mod/10001</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10001#10001</guid>
+    <pubDate>Fri, 03 Jul 2026 23:17:06 -0000</pubDate>
+    <description>Adjusts some of In Dappled Groves' recipes</description>
+  </item>
+  <item>
+    <title>Atlas</title>
+    <link>https://mods.vintagestory.at/show/mod/atlas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
+    <pubDate>Fri, 03 Jul 2026 23:12:56 -0000</pubDate>
+    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
+  </item>
+  <item>
+    <title>Alternative armor designs</title>
+    <link>https://mods.vintagestory.at/show/mod/5597</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5597#5597</guid>
+    <pubDate>Fri, 03 Jul 2026 23:12:13 -0000</pubDate>
+    <description>With this mod, you can make use of all game armor designs for each equivalent armor type.</description>
+  </item>
+  <item>
+    <title>Craft-a-Bell</title>
+    <link>https://mods.vintagestory.at/show/mod/craftabell</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/craftabell#8673</guid>
+    <pubDate>Fri, 03 Jul 2026 23:08:26 -0000</pubDate>
+    <description>Craftable Fren that can alert you to nearby enemies, times of day, and hold messages.</description>
+  </item>
+  <item>
+    <title>Traveling Bells</title>
+    <link>https://mods.vintagestory.at/show/mod/9882</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9882#9882</guid>
+    <pubDate>Fri, 03 Jul 2026 22:53:08 -0000</pubDate>
+    <description>Teleport Between Linked Bells. Strike With Mallet To Set Arrival Point and Teleport. (Comes at Cost)</description>
+  </item>
+  <item>
+    <title>Age of Seraphs Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
+    <pubDate>Fri, 03 Jul 2026 22:46:34 -0000</pubDate>
+    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
+  </item>
+  <item>
+    <title>Rabbit Taming</title>
+    <link>https://mods.vintagestory.at/show/mod/bunnypet</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bunnypet#10022</guid>
+    <pubDate>Fri, 03 Jul 2026 22:13:39 -0000</pubDate>
+    <description>Have your fluffy friends as pets. Hares are now tamable and become Bunnies. Requires Pet Ai.</description>
+  </item>
   <item>
     <title>SheyderMod</title>
     <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
-    <pubDate>Fri, 03 Jul 2026 22:05:56 -0000</pubDate>
+    <pubDate>Fri, 03 Jul 2026 22:09:32 -0000</pubDate>
     <description>A simple SheyderMod that supports the original artstyle of the game.</description>
   </item>
   <item>
@@ -67,6 +144,13 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
     <pubDate>Fri, 03 Jul 2026 20:26:42 -0000</pubDate>
     <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+  </item>
+  <item>
+    <title>Meliora Meadows Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
+    <pubDate>Fri, 03 Jul 2026 19:55:52 -0000</pubDate>
+    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
   </item>
   <item>
     <title>Zenith System:Paragon of Seraphs</title>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivelanterns#5052</guid>
     <pubDate>Fri, 03 Jul 2026 17:55:25 -0000</pubDate>
     <description>Lanterns that flicker, react to movement and wind, swinging and make noise.</description>
-  </item>
-  <item>
-    <title>All The Stats</title>
-    <link>https://mods.vintagestory.at/show/mod/allthestats</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/allthestats#8757</guid>
-    <pubDate>Fri, 03 Jul 2026 17:49:00 -0000</pubDate>
-    <description>A dual-purpose library for players and mod creators interested in new stats for traits and recipes.</description>
-  </item>
-  <item>
-    <title>Player Model lib</title>
-    <link>https://mods.vintagestory.at/show/mod/playermodellib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
-    <pubDate>Fri, 03 Jul 2026 17:41:57 -0000</pubDate>
-    <description>Library for adding new player races</description>
-  </item>
-  <item>
-    <title>ToE Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/svanaxtoe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/svanaxtoe#5352</guid>
-    <pubDate>Fri, 03 Jul 2026 17:27:04 -0000</pubDate>
-    <description>A collection of all patches for the ToE Server</description>
-  </item>
-  <item>
-    <title>Dragonia Server Mod Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/dragoniapatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dragoniapatch#5896</guid>
-    <pubDate>Fri, 03 Jul 2026 17:01:57 -0000</pubDate>
-    <description>Меняет генерацию железа и добавляет новый крафт льняного шпагата</description>
-  </item>
-  <item>
-    <title>Vintage Stuff Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/9741</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9741#9741</guid>
-    <pubDate>Fri, 03 Jul 2026 16:53:19 -0000</pubDate>
-    <description>A mod for our server that combines different class mods to kitbash our own personal classes</description>
-  </item>
-  <item>
-    <title>Alternative armor designs</title>
-    <link>https://mods.vintagestory.at/show/mod/5597</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5597#5597</guid>
-    <pubDate>Fri, 03 Jul 2026 16:47:00 -0000</pubDate>
-    <description>With this mod, you can make use of all game armor designs for each equivalent armor type.</description>
-  </item>
-  <item>
-    <title>Dragonia Translations</title>
-    <link>https://mods.vintagestory.at/show/mod/10016</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10016#10016</guid>
-    <pubDate>Fri, 03 Jul 2026 16:42:38 -0000</pubDate>
-    <description>Переводы и отредактированные переводы под стиль сервера. </description>
-  </item>
-  <item>
-    <title>Wind Vanes &amp; Randomized Winds</title>
-    <link>https://mods.vintagestory.at/show/mod/windvanes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windvanes#9414</guid>
-    <pubDate>Fri, 03 Jul 2026 15:42:15 -0000</pubDate>
-    <description>Wind vanes that rotate to face the wind direction and spins its rotator based on wind speed.</description>
-  </item>
-  <item>
-    <title>Storage Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/storagetweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/storagetweaks#7807</guid>
-    <pubDate>Fri, 03 Jul 2026 15:34:27 -0000</pubDate>
-    <description>Adds compact/sort and quick-unload buttons to chests and inventory.</description>
-  </item>
-  <item>
-    <title>Wild Farming Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/10010</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10010#10010</guid>
-    <pubDate>Fri, 03 Jul 2026 15:30:30 -0000</pubDate>
-    <description>Cultivate flowers, herbs, mushrooms, trees, and shrubs. And much more.</description>
-  </item>
-  <item>
-    <title>Bark Canoe</title>
-    <link>https://mods.vintagestory.at/show/mod/5976</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5976#5976</guid>
-    <pubDate>Fri, 03 Jul 2026 14:51:15 -0000</pubDate>
-    <description>Bark Canoe - Fork of iuno Orignal Canoe Mod</description>
-  </item>
-  <item>
-    <title>Fast Mushroom Harvesting</title>
-    <link>https://mods.vintagestory.at/show/mod/fastmushroomharvesting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fastmushroomharvesting#9974</guid>
-    <pubDate>Fri, 03 Jul 2026 14:43:46 -0000</pubDate>
-    <description>You don't need tools to pick mushrooms, it's easy and quick to pick them by hand.</description>
   </item>
 </channel>
 </rss>
