@@ -4,7 +4,105 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 04 Jul 2026 00:07:39 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 04:37:33 +0000</lastBuildDate>
+  <item>
+    <title>Bushmeat In Stew</title>
+    <link>https://mods.vintagestory.at/show/mod/bushmeatstew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bushmeatstew#5210</guid>
+    <pubDate>Sat, 04 Jul 2026 03:08:24 -0000</pubDate>
+    <description>Simple mod that allows you to put bushmeats in stews and soups</description>
+  </item>
+  <item>
+    <title>Warm Gambeson</title>
+    <link>https://mods.vintagestory.at/show/mod/warmgambeson</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/warmgambeson#5325</guid>
+    <pubDate>Sat, 04 Jul 2026 03:08:05 -0000</pubDate>
+    <description>Adds warmth to gambeson armor so you can wear it in winter and benefit from it</description>
+  </item>
+  <item>
+    <title>Bone Broth</title>
+    <link>https://mods.vintagestory.at/show/mod/bonebroth</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bonebroth#5084</guid>
+    <pubDate>Sat, 04 Jul 2026 03:06:38 -0000</pubDate>
+    <description>Adds broths that can be added to soups for extra satiety</description>
+  </item>
+  <item>
+    <title>Ghaelen's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9740</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
+    <pubDate>Sat, 04 Jul 2026 03:03:05 -0000</pubDate>
+    <description>My personal tweaks I like to play with.</description>
+  </item>
+  <item>
+    <title>Butchering Tables Consume Tool Durability</title>
+    <link>https://mods.vintagestory.at/show/mod/butcheringtooldurability</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butcheringtooldurability#10029</guid>
+    <pubDate>Sat, 04 Jul 2026 02:43:55 -0000</pubDate>
+    <description>A Butchering patch where the table recipes only consume tool durability instead of the entire tool.</description>
+  </item>
+  <item>
+    <title>AUMT Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9763</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9763#9763</guid>
+    <pubDate>Sat, 04 Jul 2026 02:35:31 -0000</pubDate>
+    <description>Various tweaks to mod for small AU server</description>
+  </item>
+  <item>
+    <title>Movable Rapid Water</title>
+    <link>https://mods.vintagestory.at/show/mod/10028</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10028#10028</guid>
+    <pubDate>Sat, 04 Jul 2026 02:32:39 -0000</pubDate>
+    <description>Allows you to pick up rapid water source blocks with a bucket.</description>
+  </item>
+  <item>
+    <title>Alternative armor designs</title>
+    <link>https://mods.vintagestory.at/show/mod/5597</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5597#5597</guid>
+    <pubDate>Sat, 04 Jul 2026 02:04:55 -0000</pubDate>
+    <description>With this mod, you can make use of all game armor designs for each equivalent armor type.</description>
+  </item>
+  <item>
+    <title>Temporal Convergence</title>
+    <link>https://mods.vintagestory.at/show/mod/9887</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9887#9887</guid>
+    <pubDate>Sat, 04 Jul 2026 01:52:03 -0000</pubDate>
+    <description>Expands the creatures emerging from temporal rifts with new eldritch entities, afflicted automatons,</description>
+  </item>
+  <item>
+    <title>Ozzie's Clothing</title>
+    <link>https://mods.vintagestory.at/show/mod/ozziesclothing</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ozziesclothing#10026</guid>
+    <pubDate>Sat, 04 Jul 2026 01:15:36 -0000</pubDate>
+    <description>A simple clothing mod, this is my first attempt at modding so don't expect it to be that good.</description>
+  </item>
+  <item>
+    <title>Traveling Bells</title>
+    <link>https://mods.vintagestory.at/show/mod/9882</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9882#9882</guid>
+    <pubDate>Sat, 04 Jul 2026 01:14:03 -0000</pubDate>
+    <description>Teleport Between Linked Bells. Strike With Mallet To Set Arrival Point and Teleport. (Comes at Cost)</description>
+  </item>
+  <item>
+    <title>CompostTweak</title>
+    <link>https://mods.vintagestory.at/show/mod/3682</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3682#3682</guid>
+    <pubDate>Sat, 04 Jul 2026 00:23:58 -0000</pubDate>
+    <description>Makes composting alot more interactive and adds more things to compost.</description>
+  </item>
+  <item>
+    <title>Frontier Trapper</title>
+    <link>https://mods.vintagestory.at/show/mod/10024</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10024#10024</guid>
+    <pubDate>Fri, 03 Jul 2026 23:44:27 -0000</pubDate>
+    <description>Custom adli's class draft</description>
+  </item>
+  <item>
+    <title>Runic Armory</title>
+    <link>https://mods.vintagestory.at/show/mod/runicarmory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/runicarmory#10025</guid>
+    <pubDate>Fri, 03 Jul 2026 23:43:16 -0000</pubDate>
+    <description>Adds runic textures to combat overhauls Armory mod!</description>
+  </item>
   <item>
     <title>Stratum - High-performance server software.</title>
     <link>https://mods.vintagestory.at/show/mod/stratum</link>
@@ -48,25 +146,11 @@
     <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
   </item>
   <item>
-    <title>Alternative armor designs</title>
-    <link>https://mods.vintagestory.at/show/mod/5597</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5597#5597</guid>
-    <pubDate>Fri, 03 Jul 2026 23:12:13 -0000</pubDate>
-    <description>With this mod, you can make use of all game armor designs for each equivalent armor type.</description>
-  </item>
-  <item>
     <title>Craft-a-Bell</title>
     <link>https://mods.vintagestory.at/show/mod/craftabell</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/craftabell#8673</guid>
     <pubDate>Fri, 03 Jul 2026 23:08:26 -0000</pubDate>
     <description>Craftable Fren that can alert you to nearby enemies, times of day, and hold messages.</description>
-  </item>
-  <item>
-    <title>Traveling Bells</title>
-    <link>https://mods.vintagestory.at/show/mod/9882</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9882#9882</guid>
-    <pubDate>Fri, 03 Jul 2026 22:53:08 -0000</pubDate>
-    <description>Teleport Between Linked Bells. Strike With Mallet To Set Arrival Point and Teleport. (Comes at Cost)</description>
   </item>
   <item>
     <title>Age of Seraphs Tweaks</title>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9933#9933</guid>
     <pubDate>Fri, 03 Jul 2026 20:46:46 -0000</pubDate>
     <description>Restricts inventory to 4 hotbar and 2 backpack slots.</description>
-  </item>
-  <item>
-    <title>Leaf Litter</title>
-    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
-    <pubDate>Fri, 03 Jul 2026 20:39:14 -0000</pubDate>
-    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
-  </item>
-  <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Fri, 03 Jul 2026 20:26:42 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
-    <title>Meliora Meadows Adjustments</title>
-    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
-    <pubDate>Fri, 03 Jul 2026 19:55:52 -0000</pubDate>
-    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
-  </item>
-  <item>
-    <title>Zenith System:Paragon of Seraphs</title>
-    <link>https://mods.vintagestory.at/show/mod/7485</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7485#7485</guid>
-    <pubDate>Fri, 03 Jul 2026 19:39:37 -0000</pubDate>
-    <description>Forge your path to Apotheosis -- A Mahoraga inspired mod</description>
-  </item>
-  <item>
-    <title>More Nails</title>
-    <link>https://mods.vintagestory.at/show/mod/10017</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10017#10017</guid>
-    <pubDate>Fri, 03 Jul 2026 19:05:00 -0000</pubDate>
-    <description>Higher-tier metal ingots yield more nails when forged.</description>
-  </item>
-  <item>
-    <title>Ghaelen's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9740</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
-    <pubDate>Fri, 03 Jul 2026 18:59:50 -0000</pubDate>
-    <description>My personal tweaks I like to play with.</description>
-  </item>
-  <item>
-    <title>Free The Horse</title>
-    <link>https://mods.vintagestory.at/show/mod/freethehorse</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/freethehorse#10018</guid>
-    <pubDate>Fri, 03 Jul 2026 18:51:41 -0000</pubDate>
-    <description>Big buff medieval semi-truck spawning wild in your area.</description>
-  </item>
-  <item>
-    <title>Sound Of Confession</title>
-    <link>https://mods.vintagestory.at/show/mod/soundofconfession</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/soundofconfession#2340</guid>
-    <pubDate>Fri, 03 Jul 2026 18:31:04 -0000</pubDate>
-    <description>Adds church bells.</description>
-  </item>
-  <item>
-    <title>WOO³</title>
-    <link>https://mods.vintagestory.at/show/mod/8477</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8477#8477</guid>
-    <pubDate>Fri, 03 Jul 2026 18:15:16 -0000</pubDate>
-    <description>A modpack that contains custom content and server tweaks for the Whispers of Oldwood season 3.</description>
-  </item>
-  <item>
-    <title>String Editor</title>
-    <link>https://mods.vintagestory.at/show/mod/locdesigner</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/locdesigner#9985</guid>
-    <pubDate>Fri, 03 Jul 2026 18:04:43 -0000</pubDate>
-    <description>The Transform Designer of Localization authoring. Word processing, it's simple.</description>
-  </item>
-  <item>
-    <title>Firearms Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10015</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10015#10015</guid>
-    <pubDate>Fri, 03 Jul 2026 18:01:42 -0000</pubDate>
-    <description>Changes the musket to deal equivalent damage to the Windlass with steel bolts.</description>
-  </item>
-  <item>
-    <title>Salty´s Immersive: Lanterns</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivelanterns</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivelanterns#5052</guid>
-    <pubDate>Fri, 03 Jul 2026 17:55:25 -0000</pubDate>
-    <description>Lanterns that flicker, react to movement and wind, swinging and make noise.</description>
   </item>
 </channel>
 </rss>
