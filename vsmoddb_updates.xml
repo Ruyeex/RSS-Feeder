@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 04 Jul 2026 16:05:34 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 18:04:27 +0000</lastBuildDate>
+  <item>
+    <title>Glassmaking</title>
+    <link>https://mods.vintagestory.at/show/mod/glassmaking</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glassmaking#535</guid>
+    <pubDate>Sat, 04 Jul 2026 17:51:45 -0000</pubDate>
+    <description>A set of mechanics for creating glass-related recipes</description>
+  </item>
+  <item>
+    <title>Extra Overlays-1.22+</title>
+    <link>https://mods.vintagestory.at/show/mod/8381</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8381#8381</guid>
+    <pubDate>Sat, 04 Jul 2026 17:44:45 -0000</pubDate>
+    <description>same as https://mods.vintagestory.at/extraoverlays working on vesion 1.22.0+</description>
+  </item>
+  <item>
+    <title>Chunk Loader</title>
+    <link>https://mods.vintagestory.at/show/mod/10039</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10039#10039</guid>
+    <pubDate>Sat, 04 Jul 2026 17:34:19 -0000</pubDate>
+    <description>Allows players to keep chunks active when far away via customizable chat commands.</description>
+  </item>
+  <item>
+    <title>SoldierSpy - Brassworks</title>
+    <link>https://mods.vintagestory.at/show/mod/9681</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9681#9681</guid>
+    <pubDate>Sat, 04 Jul 2026 17:15:52 -0000</pubDate>
+    <description>An expansion upon what can be done with brass. Made with love &amp; pain. No AI.</description>
+  </item>
+  <item>
+    <title>Ozzie's Clothing</title>
+    <link>https://mods.vintagestory.at/show/mod/ozziesclothing</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ozziesclothing#10026</guid>
+    <pubDate>Sat, 04 Jul 2026 16:57:52 -0000</pubDate>
+    <description>A simple clothing mod, this is my first attempt at modding so don't expect it to be that good.</description>
+  </item>
+  <item>
+    <title>Simulated Water Runoff</title>
+    <link>https://mods.vintagestory.at/show/mod/simulatedwaterrunoff</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simulatedwaterrunoff#6405</guid>
+    <pubDate>Sat, 04 Jul 2026 16:40:45 -0000</pubDate>
+    <description>While raining, drips will spawn on overhanging block faces and drip down realistically</description>
+  </item>
+  <item>
+    <title>Echoes of the Drift</title>
+    <link>https://mods.vintagestory.at/show/mod/10002</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10002#10002</guid>
+    <pubDate>Sat, 04 Jul 2026 16:34:45 -0000</pubDate>
+    <description>Work-in-progress quest campaign - wake the Resonant Atlas and hunt echoes by compass.</description>
+  </item>
+  <item>
+    <title>Fixes for Salvation Engine Server</title>
+    <link>https://mods.vintagestory.at/show/mod/9903</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9903#9903</guid>
+    <pubDate>Sat, 04 Jul 2026 16:32:21 -0000</pubDate>
+    <description>Fixes for Salvation Engine Server </description>
+  </item>
+  <item>
+    <title>Dar's Server Utilities</title>
+    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
+    <pubDate>Sat, 04 Jul 2026 16:25:04 -0000</pubDate>
+    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
+  </item>
+  <item>
+    <title>CaveContent fork</title>
+    <link>https://mods.vintagestory.at/show/mod/cavecontentfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cavecontentfork#8828</guid>
+    <pubDate>Sat, 04 Jul 2026 16:22:16 -0000</pubDate>
+    <description>A fork of CaveContent to make it work with 1.22</description>
+  </item>
+  <item>
+    <title>Aldi's Classes [Homesteader PATCH]</title>
+    <link>https://mods.vintagestory.at/show/mod/aldihomesteader</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aldihomesteader#9834</guid>
+    <pubDate>Sat, 04 Jul 2026 16:07:57 -0000</pubDate>
+    <description>Homesteader made just for Aldi's Classes. Mostly balanced, always fun</description>
+  </item>
   <item>
     <title>Atlas</title>
     <link>https://mods.vintagestory.at/show/mod/atlas</link>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modsupdaterformacos#5583</guid>
     <pubDate>Sat, 04 Jul 2026 11:14:23 -0000</pubDate>
     <description>Your go-to buddy for always-up-to-date Vintage Story mods - Not a mod, but a program -</description>
-  </item>
-  <item>
-    <title>ModsUpdater</title>
-    <link>https://mods.vintagestory.at/show/mod/modsupdater</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modsupdater#1403</guid>
-    <pubDate>Sat, 04 Jul 2026 11:13:53 -0000</pubDate>
-    <description>Your go-to buddy for always-up-to-date Vintage Story mods - Not a mod, but a program -</description>
-  </item>
-  <item>
-    <title>Oils! Resoaped</title>
-    <link>https://mods.vintagestory.at/show/mod/oilsresoaped</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oilsresoaped#9991</guid>
-    <pubDate>Sat, 04 Jul 2026 11:08:59 -0000</pubDate>
-    <description>Oils! Resoaped. A content mod that adds plant oils &amp; their uses as well as some alternative recipes.</description>
-  </item>
-  <item>
-    <title>Lone Wolf Class</title>
-    <link>https://mods.vintagestory.at/show/mod/lonewolfclass</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lonewolfclass#10034</guid>
-    <pubDate>Sat, 04 Jul 2026 09:47:14 -0000</pubDate>
-    <description>Adds a new class with halved versions of most positive traits, intented for singleplayer use.</description>
-  </item>
-  <item>
-    <title>Wild Farming Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/10010</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10010#10010</guid>
-    <pubDate>Sat, 04 Jul 2026 09:06:54 -0000</pubDate>
-    <description>Cultivate flowers, herbs, mushrooms, trees, and shrubs. And much more.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sat, 04 Jul 2026 09:05:32 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>SheyderMod</title>
-    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
-    <pubDate>Sat, 04 Jul 2026 08:00:40 -0000</pubDate>
-    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
-  </item>
-  <item>
-    <title>Fahlore (Pale ore)</title>
-    <link>https://mods.vintagestory.at/show/mod/fahlores</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fahlores#500</guid>
-    <pubDate>Sat, 04 Jul 2026 07:54:07 -0000</pubDate>
-    <description>New ore</description>
-  </item>
-  <item>
-    <title>Carry On</title>
-    <link>https://mods.vintagestory.at/show/mod/carryon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carryon#890</guid>
-    <pubDate>Sat, 04 Jul 2026 07:45:20 -0000</pubDate>
-    <description>Adds the capability to carry various things. Replaces CarryCapacity.</description>
-  </item>
-  <item>
-    <title>CarryOnLib</title>
-    <link>https://mods.vintagestory.at/show/mod/carryonlib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carryonlib#4687</guid>
-    <pubDate>Sat, 04 Jul 2026 07:42:11 -0000</pubDate>
-    <description>CarryOnLib allows mods to use CarryOn functionality</description>
-  </item>
-  <item>
-    <title>Player Model lib</title>
-    <link>https://mods.vintagestory.at/show/mod/playermodellib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
-    <pubDate>Sat, 04 Jul 2026 07:32:13 -0000</pubDate>
-    <description>Library for adding new player races</description>
-  </item>
-  <item>
-    <title>Meliora Meadows Adjustments</title>
-    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
-    <pubDate>Sat, 04 Jul 2026 06:58:04 -0000</pubDate>
-    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
   </item>
 </channel>
 </rss>
