@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 04 Jul 2026 10:13:23 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 12:08:59 +0000</lastBuildDate>
+  <item>
+    <title>Medic Tailor Improvements</title>
+    <link>https://mods.vintagestory.at/show/mod/medictailorimprovements</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/medictailorimprovements#10036</guid>
+    <pubDate>Sat, 04 Jul 2026 11:40:54 -0000</pubDate>
+    <description>A simple mod to give the tailor class some more functionality beyond drip. </description>
+  </item>
+  <item>
+    <title>Atlas</title>
+    <link>https://mods.vintagestory.at/show/mod/atlas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
+    <pubDate>Sat, 04 Jul 2026 11:27:52 -0000</pubDate>
+    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
+  </item>
+  <item>
+    <title>Leaf Litter</title>
+    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
+    <pubDate>Sat, 04 Jul 2026 11:20:27 -0000</pubDate>
+    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
+  </item>
+  <item>
+    <title>LogicalNerfsDirection</title>
+    <link>https://mods.vintagestory.at/show/mod/9983</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9983#9983</guid>
+    <pubDate>Sat, 04 Jul 2026 11:19:35 -0000</pubDate>
+    <description>Removes compass-like tells from placement of the roller, knapping surfaces and clay forms.</description>
+  </item>
+  <item>
+    <title>LogicalNerfsChisel</title>
+    <link>https://mods.vintagestory.at/show/mod/9776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9776#9776</guid>
+    <pubDate>Sat, 04 Jul 2026 11:19:32 -0000</pubDate>
+    <description>Removes 4³ and 8³ chisel brush sizes and makes rock(not stone) chiseled blocks 8x slower to break.</description>
+  </item>
+  <item>
+    <title>ModsUpdater For Linux</title>
+    <link>https://mods.vintagestory.at/show/mod/modsupdaterforlinux</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modsupdaterforlinux#1525</guid>
+    <pubDate>Sat, 04 Jul 2026 11:14:44 -0000</pubDate>
+    <description>Your go-to buddy for always-up-to-date Vintage Story mods - Not a mod, but a program -</description>
+  </item>
+  <item>
+    <title>ModsUpdater For macOS</title>
+    <link>https://mods.vintagestory.at/show/mod/modsupdaterformacos</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modsupdaterformacos#5583</guid>
+    <pubDate>Sat, 04 Jul 2026 11:14:23 -0000</pubDate>
+    <description>Your go-to buddy for always-up-to-date Vintage Story mods - Not a mod, but a program -</description>
+  </item>
+  <item>
+    <title>ModsUpdater</title>
+    <link>https://mods.vintagestory.at/show/mod/modsupdater</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modsupdater#1403</guid>
+    <pubDate>Sat, 04 Jul 2026 11:13:53 -0000</pubDate>
+    <description>Your go-to buddy for always-up-to-date Vintage Story mods - Not a mod, but a program -</description>
+  </item>
+  <item>
+    <title>Oils! Resoaped</title>
+    <link>https://mods.vintagestory.at/show/mod/oilsresoaped</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oilsresoaped#9991</guid>
+    <pubDate>Sat, 04 Jul 2026 11:08:59 -0000</pubDate>
+    <description>Oils! Resoaped. A content mod that adds plant oils &amp; their uses as well as some alternative recipes.</description>
+  </item>
   <item>
     <title>Lone Wolf Class</title>
     <link>https://mods.vintagestory.at/show/mod/lonewolfclass</link>
@@ -25,13 +88,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
     <pubDate>Sat, 04 Jul 2026 09:05:32 -0000</pubDate>
     <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>LogicalNerfsChisel</title>
-    <link>https://mods.vintagestory.at/show/mod/9776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9776#9776</guid>
-    <pubDate>Sat, 04 Jul 2026 09:03:43 -0000</pubDate>
-    <description>Removes 4³ and 8³ chisel brush sizes and makes rock(not stone) chiseled blocks 8x slower to break.</description>
   </item>
   <item>
     <title>SheyderMod</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9763#9763</guid>
     <pubDate>Sat, 04 Jul 2026 02:35:31 -0000</pubDate>
     <description>Various tweaks to mod for small AU server</description>
-  </item>
-  <item>
-    <title>Movable Rapid Water</title>
-    <link>https://mods.vintagestory.at/show/mod/10028</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10028#10028</guid>
-    <pubDate>Sat, 04 Jul 2026 02:32:39 -0000</pubDate>
-    <description>Allows you to pick up rapid water source blocks with a bucket.</description>
-  </item>
-  <item>
-    <title>Alternative armor designs</title>
-    <link>https://mods.vintagestory.at/show/mod/5597</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5597#5597</guid>
-    <pubDate>Sat, 04 Jul 2026 02:04:55 -0000</pubDate>
-    <description>With this mod, you can make use of all game armor designs for each equivalent armor type.</description>
-  </item>
-  <item>
-    <title>Temporal Convergence</title>
-    <link>https://mods.vintagestory.at/show/mod/9887</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9887#9887</guid>
-    <pubDate>Sat, 04 Jul 2026 01:52:03 -0000</pubDate>
-    <description>Expands the creatures emerging from temporal rifts with new eldritch entities, afflicted automatons,</description>
-  </item>
-  <item>
-    <title>Ozzie's Clothing</title>
-    <link>https://mods.vintagestory.at/show/mod/ozziesclothing</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ozziesclothing#10026</guid>
-    <pubDate>Sat, 04 Jul 2026 01:15:36 -0000</pubDate>
-    <description>A simple clothing mod, this is my first attempt at modding so don't expect it to be that good.</description>
-  </item>
-  <item>
-    <title>Traveling Bells</title>
-    <link>https://mods.vintagestory.at/show/mod/9882</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9882#9882</guid>
-    <pubDate>Sat, 04 Jul 2026 01:14:03 -0000</pubDate>
-    <description>Teleport Between Linked Bells. Strike With Mallet To Set Arrival Point and Teleport. (Comes at Cost)</description>
-  </item>
-  <item>
-    <title>CompostTweak</title>
-    <link>https://mods.vintagestory.at/show/mod/3682</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3682#3682</guid>
-    <pubDate>Sat, 04 Jul 2026 00:23:58 -0000</pubDate>
-    <description>Makes composting alot more interactive and adds more things to compost.</description>
-  </item>
-  <item>
-    <title>Frontier Trapper</title>
-    <link>https://mods.vintagestory.at/show/mod/10024</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10024#10024</guid>
-    <pubDate>Fri, 03 Jul 2026 23:44:27 -0000</pubDate>
-    <description>Custom adli's class draft</description>
-  </item>
-  <item>
-    <title>Runic Armory</title>
-    <link>https://mods.vintagestory.at/show/mod/runicarmory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/runicarmory#10025</guid>
-    <pubDate>Fri, 03 Jul 2026 23:43:16 -0000</pubDate>
-    <description>Adds runic textures to combat overhauls Armory mod!</description>
   </item>
 </channel>
 </rss>
