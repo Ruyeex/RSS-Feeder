@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 04 Jul 2026 04:37:33 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 07:48:51 +0000</lastBuildDate>
+  <item>
+    <title>Carry On</title>
+    <link>https://mods.vintagestory.at/show/mod/carryon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carryon#890</guid>
+    <pubDate>Sat, 04 Jul 2026 07:45:20 -0000</pubDate>
+    <description>Adds the capability to carry various things. Replaces CarryCapacity.</description>
+  </item>
+  <item>
+    <title>CarryOnLib</title>
+    <link>https://mods.vintagestory.at/show/mod/carryonlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carryonlib#4687</guid>
+    <pubDate>Sat, 04 Jul 2026 07:42:11 -0000</pubDate>
+    <description>CarryOnLib allows mods to use CarryOn functionality</description>
+  </item>
+  <item>
+    <title>Player Model lib</title>
+    <link>https://mods.vintagestory.at/show/mod/playermodellib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
+    <pubDate>Sat, 04 Jul 2026 07:32:13 -0000</pubDate>
+    <description>Library for adding new player races</description>
+  </item>
+  <item>
+    <title>Meliora Meadows Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
+    <pubDate>Sat, 04 Jul 2026 06:58:04 -0000</pubDate>
+    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
+  </item>
+  <item>
+    <title>Useful Licorice</title>
+    <link>https://mods.vintagestory.at/show/mod/9812</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9812#9812</guid>
+    <pubDate>Sat, 04 Jul 2026 06:23:22 -0000</pubDate>
+    <description>For all who yearn for the taste of the sweet root.</description>
+  </item>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Sat, 04 Jul 2026 06:16:21 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
+  <item>
+    <title>KCs Dragon Traits!</title>
+    <link>https://mods.vintagestory.at/show/mod/kcsdragontraits</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragontraits#8335</guid>
+    <pubDate>Sat, 04 Jul 2026 05:41:05 -0000</pubDate>
+    <description>Give the Draicor PlayerModels traits!</description>
+  </item>
+  <item>
+    <title>KCs Dragon Player!</title>
+    <link>https://mods.vintagestory.at/show/mod/kcsdragons</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragons#8146</guid>
+    <pubDate>Sat, 04 Jul 2026 05:16:11 -0000</pubDate>
+    <description>Adds an anthropomorphic dragon player model to the game!</description>
+  </item>
+  <item>
+    <title>ReelMower</title>
+    <link>https://mods.vintagestory.at/show/mod/reelmower</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/reelmower#9653</guid>
+    <pubDate>Sat, 04 Jul 2026 05:13:05 -0000</pubDate>
+    <description>Push reel mower. Cut grass, Multiplayer in testing</description>
+  </item>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Sat, 04 Jul 2026 04:49:06 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
   <item>
     <title>Bushmeat In Stew</title>
     <link>https://mods.vintagestory.at/show/mod/bushmeatstew</link>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
     <pubDate>Fri, 03 Jul 2026 23:12:56 -0000</pubDate>
     <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
-  </item>
-  <item>
-    <title>Craft-a-Bell</title>
-    <link>https://mods.vintagestory.at/show/mod/craftabell</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/craftabell#8673</guid>
-    <pubDate>Fri, 03 Jul 2026 23:08:26 -0000</pubDate>
-    <description>Craftable Fren that can alert you to nearby enemies, times of day, and hold messages.</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Fri, 03 Jul 2026 22:46:34 -0000</pubDate>
-    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
-  </item>
-  <item>
-    <title>Rabbit Taming</title>
-    <link>https://mods.vintagestory.at/show/mod/bunnypet</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bunnypet#10022</guid>
-    <pubDate>Fri, 03 Jul 2026 22:13:39 -0000</pubDate>
-    <description>Have your fluffy friends as pets. Hares are now tamable and become Bunnies. Requires Pet Ai.</description>
-  </item>
-  <item>
-    <title>SheyderMod</title>
-    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
-    <pubDate>Fri, 03 Jul 2026 22:09:32 -0000</pubDate>
-    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
-  </item>
-  <item>
-    <title>BotaniaStory</title>
-    <link>https://mods.vintagestory.at/show/mod/8113</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8113#8113</guid>
-    <pubDate>Fri, 03 Jul 2026 22:04:07 -0000</pubDate>
-    <description>BotaniaStory - nature magic, mana, and automation in Vintage Story!</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Fri, 03 Jul 2026 21:59:02 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Colored Lava</title>
-    <link>https://mods.vintagestory.at/show/mod/coloredlava</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/coloredlava#10020</guid>
-    <pubDate>Fri, 03 Jul 2026 21:33:43 -0000</pubDate>
-    <description>Adds configurable dark blue, black, white, red, and dark green lava with weighted collision outputs</description>
-  </item>
-  <item>
-    <title>Laboro's Multi-Tools</title>
-    <link>https://mods.vintagestory.at/show/mod/9999</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9999#9999</guid>
-    <pubDate>Fri, 03 Jul 2026 21:02:05 -0000</pubDate>
-    <description>2 Multitools and 2 craft tools for all your desires</description>
-  </item>
-  <item>
-    <title>Window Storage Lib</title>
-    <link>https://mods.vintagestory.at/show/mod/windowstoragelib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowstoragelib#7335</guid>
-    <pubDate>Fri, 03 Jul 2026 20:59:03 -0000</pubDate>
-    <description>Library used for my Window Storage and Vanilla Pane Storage mods aswell as modders</description>
-  </item>
-  <item>
-    <title>Hotbar Restrictor</title>
-    <link>https://mods.vintagestory.at/show/mod/9933</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9933#9933</guid>
-    <pubDate>Fri, 03 Jul 2026 20:46:46 -0000</pubDate>
-    <description>Restricts inventory to 4 hotbar and 2 backpack slots.</description>
   </item>
 </channel>
 </rss>
