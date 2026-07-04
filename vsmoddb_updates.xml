@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 04 Jul 2026 07:48:51 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 10:13:23 +0000</lastBuildDate>
+  <item>
+    <title>Lone Wolf Class</title>
+    <link>https://mods.vintagestory.at/show/mod/lonewolfclass</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lonewolfclass#10034</guid>
+    <pubDate>Sat, 04 Jul 2026 09:47:14 -0000</pubDate>
+    <description>Adds a new class with halved versions of most positive traits, intented for singleplayer use.</description>
+  </item>
+  <item>
+    <title>Wild Farming Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/10010</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10010#10010</guid>
+    <pubDate>Sat, 04 Jul 2026 09:06:54 -0000</pubDate>
+    <description>Cultivate flowers, herbs, mushrooms, trees, and shrubs. And much more.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Sat, 04 Jul 2026 09:05:32 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>LogicalNerfsChisel</title>
+    <link>https://mods.vintagestory.at/show/mod/9776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9776#9776</guid>
+    <pubDate>Sat, 04 Jul 2026 09:03:43 -0000</pubDate>
+    <description>Removes 4³ and 8³ chisel brush sizes and makes rock(not stone) chiseled blocks 8x slower to break.</description>
+  </item>
+  <item>
+    <title>SheyderMod</title>
+    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
+    <pubDate>Sat, 04 Jul 2026 08:00:40 -0000</pubDate>
+    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
+  </item>
+  <item>
+    <title>Fahlore (Pale ore)</title>
+    <link>https://mods.vintagestory.at/show/mod/fahlores</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fahlores#500</guid>
+    <pubDate>Sat, 04 Jul 2026 07:54:07 -0000</pubDate>
+    <description>New ore</description>
+  </item>
   <item>
     <title>Carry On</title>
     <link>https://mods.vintagestory.at/show/mod/carryon</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/runicarmory#10025</guid>
     <pubDate>Fri, 03 Jul 2026 23:43:16 -0000</pubDate>
     <description>Adds runic textures to combat overhauls Armory mod!</description>
-  </item>
-  <item>
-    <title>Stratum - High-performance server software.</title>
-    <link>https://mods.vintagestory.at/show/mod/stratum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stratum#9499</guid>
-    <pubDate>Fri, 03 Jul 2026 23:40:37 -0000</pubDate>
-    <description>Focused on smoother multiplayer servers, better performance under load and, practical tools.</description>
-  </item>
-  <item>
-    <title>Hook Molds</title>
-    <link>https://mods.vintagestory.at/show/mod/9960</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9960#9960</guid>
-    <pubDate>Fri, 03 Jul 2026 23:40:31 -0000</pubDate>
-    <description>This mod adds two molds for hooks for the Butchering Mod</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Chests</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalschests</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalschests#8152</guid>
-    <pubDate>Fri, 03 Jul 2026 23:39:13 -0000</pubDate>
-    <description>These chests were created for the [UA] Eternal Seraph server</description>
-  </item>
-  <item>
-    <title>topgsmod</title>
-    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Fri, 03 Jul 2026 23:25:38 -0000</pubDate>
-    <description>TopGs Community Mod</description>
-  </item>
-  <item>
-    <title>In Dappled Groves Firewood Buff Continued</title>
-    <link>https://mods.vintagestory.at/show/mod/10001</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10001#10001</guid>
-    <pubDate>Fri, 03 Jul 2026 23:17:06 -0000</pubDate>
-    <description>Adjusts some of In Dappled Groves' recipes</description>
-  </item>
-  <item>
-    <title>Atlas</title>
-    <link>https://mods.vintagestory.at/show/mod/atlas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
-    <pubDate>Fri, 03 Jul 2026 23:12:56 -0000</pubDate>
-    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
   </item>
 </channel>
 </rss>
