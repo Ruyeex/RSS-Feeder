@@ -4,20 +4,41 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 04 Jul 2026 14:39:59 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 16:05:34 +0000</lastBuildDate>
+  <item>
+    <title>Atlas</title>
+    <link>https://mods.vintagestory.at/show/mod/atlas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
+    <pubDate>Sat, 04 Jul 2026 16:01:05 -0000</pubDate>
+    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
+  </item>
+  <item>
+    <title>PinyinSearch</title>
+    <link>https://mods.vintagestory.at/show/mod/pinyinsearch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pinyinsearch#8888</guid>
+    <pubDate>Sat, 04 Jul 2026 15:37:52 -0000</pubDate>
+    <description>在复古物语中使用拼音搜索信息</description>
+  </item>
+  <item>
+    <title>Immersive Woodworking</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivewoodworking</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivewoodworking#9606</guid>
+    <pubDate>Sat, 04 Jul 2026 15:04:58 -0000</pubDate>
+    <description>Focused immersion mod that makes processing timber feel like work, not paperwork.</description>
+  </item>
+  <item>
+    <title>PicoStackables</title>
+    <link>https://mods.vintagestory.at/show/mod/9902</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9902#9902</guid>
+    <pubDate>Sat, 04 Jul 2026 14:46:44 -0000</pubDate>
+    <description>Multiply item &amp; block stack sizes, with per-item overrides and a live in-game config editor.</description>
+  </item>
   <item>
     <title>Ithania Expanded Fishing</title>
     <link>https://mods.vintagestory.at/show/mod/ithaniaexpandedfishing</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ithaniaexpandedfishing#9883</guid>
     <pubDate>Sat, 04 Jul 2026 14:36:32 -0000</pubDate>
     <description>Raise your own worms, craft custom baits, and trap live fish. Fishing, fully expanded.</description>
-  </item>
-  <item>
-    <title>Atlas</title>
-    <link>https://mods.vintagestory.at/show/mod/atlas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
-    <pubDate>Sat, 04 Jul 2026 14:26:57 -0000</pubDate>
-    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
   </item>
   <item>
     <title>VSA_API</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
     <pubDate>Sat, 04 Jul 2026 06:58:04 -0000</pubDate>
     <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
-  </item>
-  <item>
-    <title>Useful Licorice</title>
-    <link>https://mods.vintagestory.at/show/mod/9812</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9812#9812</guid>
-    <pubDate>Sat, 04 Jul 2026 06:23:22 -0000</pubDate>
-    <description>For all who yearn for the taste of the sweet root.</description>
-  </item>
-  <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Sat, 04 Jul 2026 06:16:21 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
-  </item>
-  <item>
-    <title>KCs Dragon Traits!</title>
-    <link>https://mods.vintagestory.at/show/mod/kcsdragontraits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragontraits#8335</guid>
-    <pubDate>Sat, 04 Jul 2026 05:41:05 -0000</pubDate>
-    <description>Give the Draicor PlayerModels traits!</description>
   </item>
 </channel>
 </rss>
