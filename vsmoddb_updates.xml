@@ -4,20 +4,97 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 04 Jul 2026 12:08:59 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 14:39:59 +0000</lastBuildDate>
   <item>
-    <title>Medic Tailor Improvements</title>
-    <link>https://mods.vintagestory.at/show/mod/medictailorimprovements</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/medictailorimprovements#10036</guid>
-    <pubDate>Sat, 04 Jul 2026 11:40:54 -0000</pubDate>
-    <description>A simple mod to give the tailor class some more functionality beyond drip. </description>
+    <title>Ithania Expanded Fishing</title>
+    <link>https://mods.vintagestory.at/show/mod/ithaniaexpandedfishing</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ithaniaexpandedfishing#9883</guid>
+    <pubDate>Sat, 04 Jul 2026 14:36:32 -0000</pubDate>
+    <description>Raise your own worms, craft custom baits, and trap live fish. Fishing, fully expanded.</description>
   </item>
   <item>
     <title>Atlas</title>
     <link>https://mods.vintagestory.at/show/mod/atlas</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
-    <pubDate>Sat, 04 Jul 2026 11:27:52 -0000</pubDate>
+    <pubDate>Sat, 04 Jul 2026 14:26:57 -0000</pubDate>
     <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
+  </item>
+  <item>
+    <title>VSA_API</title>
+    <link>https://mods.vintagestory.at/show/mod/9139</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9139#9139</guid>
+    <pubDate>Sat, 04 Jul 2026 14:21:31 -0000</pubDate>
+    <description>VSA API</description>
+  </item>
+  <item>
+    <title>VSA - Replica</title>
+    <link>https://mods.vintagestory.at/show/mod/9115</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
+    <pubDate>Sat, 04 Jul 2026 14:20:43 -0000</pubDate>
+    <description>Build block-made moving ships and structures</description>
+  </item>
+  <item>
+    <title>BetterEr Prospecting</title>
+    <link>https://mods.vintagestory.at/show/mod/bettererprospecting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettererprospecting#4916</guid>
+    <pubDate>Sat, 04 Jul 2026 14:05:51 -0000</pubDate>
+    <description>Altered prospecting experience with focus on reducing randomness</description>
+  </item>
+  <item>
+    <title>Optimum</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Sat, 04 Jul 2026 13:18:35 -0000</pubDate>
+    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
+  </item>
+  <item>
+    <title>One With The Thread Only</title>
+    <link>https://mods.vintagestory.at/show/mod/onewiththethreadonly</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/onewiththethreadonly#10038</guid>
+    <pubDate>Sat, 04 Jul 2026 12:51:38 -0000</pubDate>
+    <description>Adds cheaper flax crafting recipes to the tailor. </description>
+  </item>
+  <item>
+    <title>Secret Foxfire 1.22 Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10037</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10037#10037</guid>
+    <pubDate>Sat, 04 Jul 2026 12:40:58 -0000</pubDate>
+    <description>Tweaks for my community 1.22 server.</description>
+  </item>
+  <item>
+    <title>Vintage Canvas</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagecanvas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagecanvas#9406</guid>
+    <pubDate>Sat, 04 Jul 2026 12:38:50 -0000</pubDate>
+    <description>Craft canvases, mix paint, and use brushes to decorate your world!</description>
+  </item>
+  <item>
+    <title>CollapseStory</title>
+    <link>https://mods.vintagestory.at/show/mod/7776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
+    <pubDate>Sat, 04 Jul 2026 12:33:15 -0000</pubDate>
+    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
+  </item>
+  <item>
+    <title>LogicalNerfsDirection</title>
+    <link>https://mods.vintagestory.at/show/mod/9983</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9983#9983</guid>
+    <pubDate>Sat, 04 Jul 2026 12:32:40 -0000</pubDate>
+    <description>Removes compass-like tells from placement of the roller, knapping surfaces and clay forms.</description>
+  </item>
+  <item>
+    <title>LogicalNerfsChisel</title>
+    <link>https://mods.vintagestory.at/show/mod/9776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9776#9776</guid>
+    <pubDate>Sat, 04 Jul 2026 12:32:31 -0000</pubDate>
+    <description>Removes 4³ and 8³ chisel brush sizes and makes rock(not stone) chiseled blocks 8x slower to break.</description>
+  </item>
+  <item>
+    <title>Medic Tailor Improvements</title>
+    <link>https://mods.vintagestory.at/show/mod/medictailorimprovements</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/medictailorimprovements#10036</guid>
+    <pubDate>Sat, 04 Jul 2026 12:19:47 -0000</pubDate>
+    <description>A simple mod to give the tailor class some more functionality beyond drip. </description>
   </item>
   <item>
     <title>Leaf Litter</title>
@@ -25,20 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
     <pubDate>Sat, 04 Jul 2026 11:20:27 -0000</pubDate>
     <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
-  </item>
-  <item>
-    <title>LogicalNerfsDirection</title>
-    <link>https://mods.vintagestory.at/show/mod/9983</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9983#9983</guid>
-    <pubDate>Sat, 04 Jul 2026 11:19:35 -0000</pubDate>
-    <description>Removes compass-like tells from placement of the roller, knapping surfaces and clay forms.</description>
-  </item>
-  <item>
-    <title>LogicalNerfsChisel</title>
-    <link>https://mods.vintagestory.at/show/mod/9776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9776#9776</guid>
-    <pubDate>Sat, 04 Jul 2026 11:19:32 -0000</pubDate>
-    <description>Removes 4³ and 8³ chisel brush sizes and makes rock(not stone) chiseled blocks 8x slower to break.</description>
   </item>
   <item>
     <title>ModsUpdater For Linux</title>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragontraits#8335</guid>
     <pubDate>Sat, 04 Jul 2026 05:41:05 -0000</pubDate>
     <description>Give the Draicor PlayerModels traits!</description>
-  </item>
-  <item>
-    <title>KCs Dragon Player!</title>
-    <link>https://mods.vintagestory.at/show/mod/kcsdragons</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragons#8146</guid>
-    <pubDate>Sat, 04 Jul 2026 05:16:11 -0000</pubDate>
-    <description>Adds an anthropomorphic dragon player model to the game!</description>
-  </item>
-  <item>
-    <title>ReelMower</title>
-    <link>https://mods.vintagestory.at/show/mod/reelmower</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/reelmower#9653</guid>
-    <pubDate>Sat, 04 Jul 2026 05:13:05 -0000</pubDate>
-    <description>Push reel mower. Cut grass, Multiplayer in testing</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Sat, 04 Jul 2026 04:49:06 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
-    <title>Bushmeat In Stew</title>
-    <link>https://mods.vintagestory.at/show/mod/bushmeatstew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bushmeatstew#5210</guid>
-    <pubDate>Sat, 04 Jul 2026 03:08:24 -0000</pubDate>
-    <description>Simple mod that allows you to put bushmeats in stews and soups</description>
-  </item>
-  <item>
-    <title>Warm Gambeson</title>
-    <link>https://mods.vintagestory.at/show/mod/warmgambeson</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/warmgambeson#5325</guid>
-    <pubDate>Sat, 04 Jul 2026 03:08:05 -0000</pubDate>
-    <description>Adds warmth to gambeson armor so you can wear it in winter and benefit from it</description>
-  </item>
-  <item>
-    <title>Bone Broth</title>
-    <link>https://mods.vintagestory.at/show/mod/bonebroth</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bonebroth#5084</guid>
-    <pubDate>Sat, 04 Jul 2026 03:06:38 -0000</pubDate>
-    <description>Adds broths that can be added to soups for extra satiety</description>
-  </item>
-  <item>
-    <title>Ghaelen's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9740</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
-    <pubDate>Sat, 04 Jul 2026 03:03:05 -0000</pubDate>
-    <description>My personal tweaks I like to play with.</description>
-  </item>
-  <item>
-    <title>Butchering Tables Consume Tool Durability</title>
-    <link>https://mods.vintagestory.at/show/mod/butcheringtooldurability</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butcheringtooldurability#10029</guid>
-    <pubDate>Sat, 04 Jul 2026 02:43:55 -0000</pubDate>
-    <description>A Butchering patch where the table recipes only consume tool durability instead of the entire tool.</description>
-  </item>
-  <item>
-    <title>AUMT Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9763</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9763#9763</guid>
-    <pubDate>Sat, 04 Jul 2026 02:35:31 -0000</pubDate>
-    <description>Various tweaks to mod for small AU server</description>
   </item>
 </channel>
 </rss>
