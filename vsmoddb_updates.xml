@@ -4,20 +4,48 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 05 Jul 2026 13:45:45 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 05 Jul 2026 15:14:57 +0000</lastBuildDate>
+  <item>
+    <title>Wildcraft x Expanded Foods Compatability</title>
+    <link>https://mods.vintagestory.at/show/mod/9738</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9738#9738</guid>
+    <pubDate>Sun, 05 Jul 2026 15:12:55 -0000</pubDate>
+    <description>A work-in-progress mod that aims to act as a bridge between Wildcraft: F&amp;N + Expanded Foods</description>
+  </item>
+  <item>
+    <title>VintageRebornfix</title>
+    <link>https://mods.vintagestory.at/show/mod/10063</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10063#10063</guid>
+    <pubDate>Sun, 05 Jul 2026 14:47:07 -0000</pubDate>
+    <description>for Vintage Reborn server</description>
+  </item>
+  <item>
+    <title>Rock Trader</title>
+    <link>https://mods.vintagestory.at/show/mod/rocktrader</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rocktrader#10043</guid>
+    <pubDate>Sun, 05 Jul 2026 14:06:18 -0000</pubDate>
+    <description>Just a trader to sell stones and rocks</description>
+  </item>
+  <item>
+    <title>Double Beds</title>
+    <link>https://mods.vintagestory.at/show/mod/doublebeds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/doublebeds#9526</guid>
+    <pubDate>Sun, 05 Jul 2026 13:48:08 -0000</pubDate>
+    <description>Allows combining 2 beds of the same type in the crafting grid to obtain a double bed. </description>
+  </item>
+  <item>
+    <title>Quartermaster</title>
+    <link>https://mods.vintagestory.at/show/mod/9908</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9908#9908</guid>
+    <pubDate>Sun, 05 Jul 2026 13:46:05 -0000</pubDate>
+    <description>Craft a Quartermaster's Desk that acts as a remote terminal for every container around it.</description>
+  </item>
   <item>
     <title>sadChestLoot</title>
     <link>https://mods.vintagestory.at/show/mod/10060</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10060#10060</guid>
     <pubDate>Sun, 05 Jul 2026 13:42:19 -0000</pubDate>
     <description>Custom loot spawner mod that lets you place loot spawn points anywhere and fully customize loot</description>
-  </item>
-  <item>
-    <title>Rock Trader</title>
-    <link>https://mods.vintagestory.at/show/mod/rocktrader</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rocktrader#10043</guid>
-    <pubDate>Sun, 05 Jul 2026 13:18:02 -0000</pubDate>
-    <description>Just a trader to sell stones and rocks</description>
   </item>
   <item>
     <title>Jelly Bundle</title>
@@ -74,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7281#7281</guid>
     <pubDate>Sun, 05 Jul 2026 11:43:53 -0000</pubDate>
     <description>Adds nightmare sea monsters to Vintage Story (Sea Serpents, Kraken)</description>
-  </item>
-  <item>
-    <title>Wildcraft x Expanded Foods Compatability</title>
-    <link>https://mods.vintagestory.at/show/mod/9738</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9738#9738</guid>
-    <pubDate>Sun, 05 Jul 2026 11:06:50 -0000</pubDate>
-    <description>A work-in-progress mod that aims to act as a bridge between Wildcraft: F&amp;N + Expanded Foods</description>
   </item>
   <item>
     <title>Logging Expanded</title>
@@ -150,7 +171,7 @@
     <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
     <pubDate>Sun, 05 Jul 2026 08:20:53 -0000</pubDate>
-    <description>Allows toggling walk (autowalk) and sneak (autosneak). Also supports walking uphill (stepup).</description>
+    <description>Toggle walking/running and sneaking. Supports also automatic climbing (stepup).</description>
   </item>
   <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/reelmower#9653</guid>
     <pubDate>Sun, 05 Jul 2026 03:38:16 -0000</pubDate>
     <description>Push reel mower. Cut grass, Multiplayer in testing</description>
-  </item>
-  <item>
-    <title>Tiered Arrows - Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/tieredarrowsforked</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tieredarrowsforked#10052</guid>
-    <pubDate>Sun, 05 Jul 2026 03:23:59 -0000</pubDate>
-    <description>Tiered Arrows - Forked</description>
-  </item>
-  <item>
-    <title>Patches for the Forgotten Legends server</title>
-    <link>https://mods.vintagestory.at/show/mod/5991</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5991#5991</guid>
-    <pubDate>Sun, 05 Jul 2026 02:57:53 -0000</pubDate>
-    <description>A few changes for our server</description>
-  </item>
-  <item>
-    <title>Historical Armory: Core</title>
-    <link>https://mods.vintagestory.at/show/mod/hacore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hacore#9243</guid>
-    <pubDate>Sun, 05 Jul 2026 02:54:04 -0000</pubDate>
-    <description>A collection of items to be used in crafting recipes for Historical Weaponry mods.</description>
   </item>
 </channel>
 </rss>
