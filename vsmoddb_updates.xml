@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 04 Jul 2026 22:01:02 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 05 Jul 2026 00:03:45 +0000</lastBuildDate>
+  <item>
+    <title>Aldi's Classes Trapper's</title>
+    <link>https://mods.vintagestory.at/show/mod/10024</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10024#10024</guid>
+    <pubDate>Sat, 04 Jul 2026 23:21:11 -0000</pubDate>
+    <description>Custom adli's Trapper classes</description>
+  </item>
+  <item>
+    <title>SubZero Farming</title>
+    <link>https://mods.vintagestory.at/show/mod/subzerofarming</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/subzerofarming#10047</guid>
+    <pubDate>Sat, 04 Jul 2026 23:16:09 -0000</pubDate>
+    <description>Allow crops to grow even in sub freezing temperatures.</description>
+  </item>
+  <item>
+    <title>Mad Foundation</title>
+    <link>https://mods.vintagestory.at/show/mod/9861</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9861#9861</guid>
+    <pubDate>Sat, 04 Jul 2026 23:13:03 -0000</pubDate>
+    <description>Enhancements and bug fixes for vanilla useful for modding.</description>
+  </item>
+  <item>
+    <title>Metals of Myths [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/metalsofmyths</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalsofmyths#9911</guid>
+    <pubDate>Sat, 04 Jul 2026 23:03:11 -0000</pubDate>
+    <description>An addon for Improved Metallurgy that extends progression even further by adding fantasy metals.</description>
+  </item>
+  <item>
+    <title>Just Kobold Traits</title>
+    <link>https://mods.vintagestory.at/show/mod/justkt518</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justkt518#8735</guid>
+    <pubDate>Sat, 04 Jul 2026 22:50:46 -0000</pubDate>
+    <description>Adds just traits to Kobolds from Kobold Player Redux.</description>
+  </item>
+  <item>
+    <title>Real Smoke &amp; Ancient Tools Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/realsmokeancientfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmokeancientfork#10046</guid>
+    <pubDate>Sat, 04 Jul 2026 22:45:18 -0000</pubDate>
+    <description>Pitch torches are smoky now.</description>
+  </item>
+  <item>
+    <title>HybrasilRaces</title>
+    <link>https://mods.vintagestory.at/show/mod/9411</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9411#9411</guid>
+    <pubDate>Sat, 04 Jul 2026 22:20:52 -0000</pubDate>
+    <description>Races for Hybrasil server</description>
+  </item>
+  <item>
+    <title>FAclasses</title>
+    <link>https://mods.vintagestory.at/show/mod/9441</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9441#9441</guid>
+    <pubDate>Sat, 04 Jul 2026 22:20:36 -0000</pubDate>
+    <description>Faclasses</description>
+  </item>
   <item>
     <title>Prospector's Dispatch</title>
     <link>https://mods.vintagestory.at/show/mod/prospectorsdispatch</link>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simulatedwaterrunoff#6405</guid>
     <pubDate>Sat, 04 Jul 2026 16:40:45 -0000</pubDate>
     <description>While raining, drips will spawn on overhanging block faces and drip down realistically</description>
-  </item>
-  <item>
-    <title>Echoes of the Drift</title>
-    <link>https://mods.vintagestory.at/show/mod/10002</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10002#10002</guid>
-    <pubDate>Sat, 04 Jul 2026 16:34:45 -0000</pubDate>
-    <description>Work-in-progress quest campaign - wake the Resonant Atlas and hunt echoes by compass.</description>
-  </item>
-  <item>
-    <title>Fixes for Salvation Engine Server</title>
-    <link>https://mods.vintagestory.at/show/mod/9903</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9903#9903</guid>
-    <pubDate>Sat, 04 Jul 2026 16:32:21 -0000</pubDate>
-    <description>Fixes for Salvation Engine Server </description>
-  </item>
-  <item>
-    <title>Dar's Server Utilities</title>
-    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
-    <pubDate>Sat, 04 Jul 2026 16:25:04 -0000</pubDate>
-    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
-  </item>
-  <item>
-    <title>CaveContent fork</title>
-    <link>https://mods.vintagestory.at/show/mod/cavecontentfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cavecontentfork#8828</guid>
-    <pubDate>Sat, 04 Jul 2026 16:22:16 -0000</pubDate>
-    <description>A fork of CaveContent to make it work with 1.22</description>
-  </item>
-  <item>
-    <title>Aldi's Classes [Homesteader PATCH]</title>
-    <link>https://mods.vintagestory.at/show/mod/aldihomesteader</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aldihomesteader#9834</guid>
-    <pubDate>Sat, 04 Jul 2026 16:07:57 -0000</pubDate>
-    <description>Homesteader made just for Aldi's Classes. Mostly balanced, always fun</description>
-  </item>
-  <item>
-    <title>Atlas</title>
-    <link>https://mods.vintagestory.at/show/mod/atlas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
-    <pubDate>Sat, 04 Jul 2026 16:01:05 -0000</pubDate>
-    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
-  </item>
-  <item>
-    <title>PinyinSearch</title>
-    <link>https://mods.vintagestory.at/show/mod/pinyinsearch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pinyinsearch#8888</guid>
-    <pubDate>Sat, 04 Jul 2026 15:37:52 -0000</pubDate>
-    <description>在复古物语中使用拼音搜索信息</description>
-  </item>
-  <item>
-    <title>Immersive Woodworking</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivewoodworking</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivewoodworking#9606</guid>
-    <pubDate>Sat, 04 Jul 2026 15:04:58 -0000</pubDate>
-    <description>Focused immersion mod that makes processing timber feel like work, not paperwork.</description>
   </item>
 </channel>
 </rss>
