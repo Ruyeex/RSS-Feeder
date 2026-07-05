@@ -4,13 +4,90 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 05 Jul 2026 08:09:13 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 05 Jul 2026 11:06:29 +0000</lastBuildDate>
+  <item>
+    <title>Logging Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/9605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9605#9605</guid>
+    <pubDate>Sun, 05 Jul 2026 10:15:03 -0000</pubDate>
+    <description>An immersive mod that changes the Timber industry in Vintage Story!</description>
+  </item>
+  <item>
+    <title>Vanilla armory</title>
+    <link>https://mods.vintagestory.at/show/mod/3927</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3927#3927</guid>
+    <pubDate>Sun, 05 Jul 2026 10:12:54 -0000</pubDate>
+    <description>Implements unused vanilla weapons and some armor in vanilla style</description>
+  </item>
+  <item>
+    <title>Rock Trader</title>
+    <link>https://mods.vintagestory.at/show/mod/rocktrader</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rocktrader#10043</guid>
+    <pubDate>Sun, 05 Jul 2026 09:32:51 -0000</pubDate>
+    <description>Just a trader to sell stones and rocks</description>
+  </item>
+  <item>
+    <title>BetterEr Prospecting</title>
+    <link>https://mods.vintagestory.at/show/mod/bettererprospecting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettererprospecting#4916</guid>
+    <pubDate>Sun, 05 Jul 2026 09:09:15 -0000</pubDate>
+    <description>Altered prospecting experience with focus on reducing randomness</description>
+  </item>
+  <item>
+    <title>[Optimization Patch] Catch and Release: Butterflies </title>
+    <link>https://mods.vintagestory.at/show/mod/optimizedcrbutterflies</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimizedcrbutterflies#7414</guid>
+    <pubDate>Sun, 05 Jul 2026 09:07:07 -0000</pubDate>
+    <description>Optimization patch for specific Catch and Release: Butterflies mod</description>
+  </item>
   <item>
     <title>Temporal Stabilizer</title>
     <link>https://mods.vintagestory.at/show/mod/10053</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10053#10053</guid>
-    <pubDate>Sun, 05 Jul 2026 07:20:41 -0000</pubDate>
+    <pubDate>Sun, 05 Jul 2026 08:58:41 -0000</pubDate>
     <description>A craftable, placeable machine that makes an area genuinely immune to temporal-stability drain.</description>
+  </item>
+  <item>
+    <title>Catch and Release: Fish</title>
+    <link>https://mods.vintagestory.at/show/mod/crfish</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crfish#7410</guid>
+    <pubDate>Sun, 05 Jul 2026 08:57:43 -0000</pubDate>
+    <description>Catch fish live and place them in various sized aquariums.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Sun, 05 Jul 2026 08:42:44 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Catch and Release: Butterflies</title>
+    <link>https://mods.vintagestory.at/show/mod/crbutterflies</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crbutterflies#7409</guid>
+    <pubDate>Sun, 05 Jul 2026 08:32:19 -0000</pubDate>
+    <description>Catch butterflies live and set them free or place them in terrariums.</description>
+  </item>
+  <item>
+    <title>Catch and Release LIB</title>
+    <link>https://mods.vintagestory.at/show/mod/crlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crlib#7509</guid>
+    <pubDate>Sun, 05 Jul 2026 08:30:54 -0000</pubDate>
+    <description>Shared library for Catch and Release mods.</description>
+  </item>
+  <item>
+    <title>Auto Walk Extended</title>
+    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
+    <pubDate>Sun, 05 Jul 2026 08:20:53 -0000</pubDate>
+    <description>Allows toggling walk (autowalk) and sneak (autosneak). Also supports walking uphill (stepup).</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Sun, 05 Jul 2026 08:13:00 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
   </item>
   <item>
     <title>Metals of Myths [ALPHA]</title>
@@ -25,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
     <pubDate>Sun, 05 Jul 2026 06:30:06 -0000</pubDate>
     <description>Overhauls metalworking, chemistry, and glassworking. </description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sun, 05 Jul 2026 06:26:27 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
   </item>
   <item>
     <title>BetterHandbook</title>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmokeancientfork#10046</guid>
     <pubDate>Sat, 04 Jul 2026 22:45:18 -0000</pubDate>
     <description>Pitch torches are smoky now.</description>
-  </item>
-  <item>
-    <title>HybrasilRaces</title>
-    <link>https://mods.vintagestory.at/show/mod/9411</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9411#9411</guid>
-    <pubDate>Sat, 04 Jul 2026 22:20:52 -0000</pubDate>
-    <description>Races for Hybrasil server</description>
-  </item>
-  <item>
-    <title>FAclasses</title>
-    <link>https://mods.vintagestory.at/show/mod/9441</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9441#9441</guid>
-    <pubDate>Sat, 04 Jul 2026 22:20:36 -0000</pubDate>
-    <description>Faclasses</description>
-  </item>
-  <item>
-    <title>Prospector's Dispatch</title>
-    <link>https://mods.vintagestory.at/show/mod/prospectorsdispatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/prospectorsdispatch#9929</guid>
-    <pubDate>Sat, 04 Jul 2026 21:49:42 -0000</pubDate>
-    <description>Stop aimlessly wandering the wilderness searching for that resource you need.</description>
-  </item>
-  <item>
-    <title>CrimsonsSelfIgnitingForge Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/10045</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10045#10045</guid>
-    <pubDate>Sat, 04 Jul 2026 21:35:55 -0000</pubDate>
-    <description>Updated ForgeSelfIgnite for VS 1.22+. Automatically re-ignites forges when hot and fueled.</description>
-  </item>
-  <item>
-    <title>Rock Trader</title>
-    <link>https://mods.vintagestory.at/show/mod/rocktrader</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rocktrader#10043</guid>
-    <pubDate>Sat, 04 Jul 2026 20:52:34 -0000</pubDate>
-    <description>Just a trader to sell stones and rocks</description>
-  </item>
-  <item>
-    <title>Oils! Resoaped Standalone</title>
-    <link>https://mods.vintagestory.at/show/mod/oilsresoapedsa</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oilsresoapedsa#10040</guid>
-    <pubDate>Sat, 04 Jul 2026 20:24:41 -0000</pubDate>
-    <description>Oils! Resoaped. A content mod that adds plant oils &amp; their uses as well as some alternative recipes.</description>
-  </item>
-  <item>
-    <title>AutoСhisel</title>
-    <link>https://mods.vintagestory.at/show/mod/chisel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chisel#8185</guid>
-    <pubDate>Sat, 04 Jul 2026 20:20:59 -0000</pubDate>
-    <description>Automatic multi-color chiseling of .vox models and procedural shapes with live hologram preview</description>
-  </item>
-  <item>
-    <title>Chest Organizer Plus M4</title>
-    <link>https://mods.vintagestory.at/show/mod/8382</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8382#8382</guid>
-    <pubDate>Sat, 04 Jul 2026 20:13:55 -0000</pubDate>
-    <description>same as https://mods.vintagestory.at/chestorganizer working on game version 1.22.0 stable</description>
-  </item>
-  <item>
-    <title>Alternative armor designs</title>
-    <link>https://mods.vintagestory.at/show/mod/5597</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5597#5597</guid>
-    <pubDate>Sat, 04 Jul 2026 19:57:15 -0000</pubDate>
-    <description>With this mod, you can make use of all vanilla armor designs for each respective armor pieces.</description>
-  </item>
-  <item>
-    <title>Better Bread Satiety</title>
-    <link>https://mods.vintagestory.at/show/mod/betterbreadsatiety</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterbreadsatiety#5085</guid>
-    <pubDate>Sat, 04 Jul 2026 19:51:33 -0000</pubDate>
-    <description>Increases the satiety of bread to make it more competitive with other grain options</description>
   </item>
 </channel>
 </rss>
