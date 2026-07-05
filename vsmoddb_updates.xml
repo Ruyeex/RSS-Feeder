@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 05 Jul 2026 04:58:59 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 05 Jul 2026 08:09:13 +0000</lastBuildDate>
+  <item>
+    <title>Temporal Stabilizer</title>
+    <link>https://mods.vintagestory.at/show/mod/10053</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10053#10053</guid>
+    <pubDate>Sun, 05 Jul 2026 07:20:41 -0000</pubDate>
+    <description>A craftable, placeable machine that makes an area genuinely immune to temporal-stability drain.</description>
+  </item>
+  <item>
+    <title>Metals of Myths [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/metalsofmyths</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalsofmyths#9911</guid>
+    <pubDate>Sun, 05 Jul 2026 07:08:40 -0000</pubDate>
+    <description>An addon for Improved Metallurgy that extends progression even further by adding fantasy metals.</description>
+  </item>
+  <item>
+    <title>IndustrialStory</title>
+    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
+    <pubDate>Sun, 05 Jul 2026 06:30:06 -0000</pubDate>
+    <description>Overhauls metalworking, chemistry, and glassworking. </description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Sun, 05 Jul 2026 06:26:27 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>BetterHandbook</title>
+    <link>https://mods.vintagestory.at/show/mod/8762</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8762#8762</guid>
+    <pubDate>Sun, 05 Jul 2026 05:21:18 -0000</pubDate>
+    <description>A faster, smarter handbook with mod tabs, recipe lookups, and crafting auto fill.</description>
+  </item>
+  <item>
+    <title>Status Hud Continued</title>
+    <link>https://mods.vintagestory.at/show/mod/statushudcont</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/statushudcont#1841</guid>
+    <pubDate>Sun, 05 Jul 2026 05:09:34 -0000</pubDate>
+    <description>Displays status information on the HUD.</description>
+  </item>
   <item>
     <title>ReelMower</title>
     <link>https://mods.vintagestory.at/show/mod/reelmower</link>
@@ -13,11 +55,11 @@
     <description>Push reel mower. Cut grass, Multiplayer in testing</description>
   </item>
   <item>
-    <title>Metals of Myths [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/metalsofmyths</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalsofmyths#9911</guid>
-    <pubDate>Sun, 05 Jul 2026 03:19:01 -0000</pubDate>
-    <description>An addon for Improved Metallurgy that extends progression even further by adding fantasy metals.</description>
+    <title>Tiered Arrows - Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/tieredarrowsforked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tieredarrowsforked#10052</guid>
+    <pubDate>Sun, 05 Jul 2026 03:23:59 -0000</pubDate>
+    <description>Tiered Arrows - Forked</description>
   </item>
   <item>
     <title>Patches for the Forgotten Legends server</title>
@@ -67,13 +109,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/madfathersmatter#10049</guid>
     <pubDate>Sun, 05 Jul 2026 01:25:11 -0000</pubDate>
     <description>Children inherit the highest generation of either parent instead of just the mother.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sun, 05 Jul 2026 00:11:47 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
   </item>
   <item>
     <title>Aldi's Classes Trapper's</title>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterbreadsatiety#5085</guid>
     <pubDate>Sat, 04 Jul 2026 19:51:33 -0000</pubDate>
     <description>Increases the satiety of bread to make it more competitive with other grain options</description>
-  </item>
-  <item>
-    <title>Elk Adornments</title>
-    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
-    <pubDate>Sat, 04 Jul 2026 19:49:45 -0000</pubDate>
-    <description>Masks for you and your elk with Modular Elk Armor!</description>
-  </item>
-  <item>
-    <title>Specialized Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/spbackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spbackpacks#9047</guid>
-    <pubDate>Sat, 04 Jul 2026 19:15:44 -0000</pubDate>
-    <description>A few backpacks that provide buffs to the wearer, and of course more inventory space.</description>
-  </item>
-  <item>
-    <title>Struggle To Sleep</title>
-    <link>https://mods.vintagestory.at/show/mod/struggletosleep</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/struggletosleep#9105</guid>
-    <pubDate>Sat, 04 Jul 2026 19:09:03 -0000</pubDate>
-    <description>Not snuggle, STRUGGLE! You can only sleep if certain conditions are met.</description>
-  </item>
-  <item>
-    <title>Sleeping Bag</title>
-    <link>https://mods.vintagestory.at/show/mod/sleepingbagmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sleepingbagmod#10041</guid>
-    <pubDate>Sat, 04 Jul 2026 19:06:06 -0000</pubDate>
-    <description>A sleeping bag that can be worn in the waist slot. Sneak + R-click to pickup and auto-equip.</description>
-  </item>
-  <item>
-    <title>Claim Activity Permissions</title>
-    <link>https://mods.vintagestory.at/show/mod/9821</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9821#9821</guid>
-    <pubDate>Sat, 04 Jul 2026 18:59:28 -0000</pubDate>
-    <description>Opens specific Vintage Story claim actions without granting general build or break access.</description>
   </item>
 </channel>
 </rss>
