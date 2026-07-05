@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 05 Jul 2026 15:14:57 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 05 Jul 2026 17:14:49 +0000</lastBuildDate>
+  <item>
+    <title>World Border</title>
+    <link>https://mods.vintagestory.at/show/mod/worldborder</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/worldborder#1221</guid>
+    <pubDate>Sun, 05 Jul 2026 17:14:07 -0000</pubDate>
+    <description>Prevent players from going too far away</description>
+  </item>
+  <item>
+    <title>Elk Adornments</title>
+    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
+    <pubDate>Sun, 05 Jul 2026 17:11:52 -0000</pubDate>
+    <description>Masks for you and your elk with Modular Elk Armor!</description>
+  </item>
+  <item>
+    <title>Rookhaven Bloomery Iron Bloom Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/10066</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10066#10066</guid>
+    <pubDate>Sun, 05 Jul 2026 16:10:21 -0000</pubDate>
+    <description>Fix for Rookhaven Server for Bloomeries making instant ingots instead of Blooms</description>
+  </item>
+  <item>
+    <title>TraderShopFix</title>
+    <link>https://mods.vintagestory.at/show/mod/traderfix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traderfix#10061</guid>
+    <pubDate>Sun, 05 Jul 2026 15:59:57 -0000</pubDate>
+    <description>Fixes of few small things that really annoyed me inside a trader shop</description>
+  </item>
+  <item>
+    <title>Resonator Overhaul </title>
+    <link>https://mods.vintagestory.at/show/mod/10009</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10009#10009</guid>
+    <pubDate>Sun, 05 Jul 2026 15:55:26 -0000</pubDate>
+    <description>Per-resonator volume, falloff and looping — saved to the world and audible with Music off.</description>
+  </item>
+  <item>
+    <title>RentalPermission</title>
+    <link>https://mods.vintagestory.at/show/mod/9820</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9820#9820</guid>
+    <pubDate>Sun, 05 Jul 2026 15:42:15 -0000</pubDate>
+    <description>Server-side rentals for configured reinforced or locked blocks inside configured claims.</description>
+  </item>
+  <item>
+    <title>Fixes for Salvation Engine Server</title>
+    <link>https://mods.vintagestory.at/show/mod/9903</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9903#9903</guid>
+    <pubDate>Sun, 05 Jul 2026 15:33:52 -0000</pubDate>
+    <description>Fixes for Salvation Engine Server </description>
+  </item>
+  <item>
+    <title>Empty Village</title>
+    <link>https://mods.vintagestory.at/show/mod/10064</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10064#10064</guid>
+    <pubDate>Sun, 05 Jul 2026 15:30:19 -0000</pubDate>
+    <description>Adds empty villages to world generation</description>
+  </item>
+  <item>
+    <title>Mini's Assorted Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/9896</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9896#9896</guid>
+    <pubDate>Sun, 05 Jul 2026 15:16:17 -0000</pubDate>
+    <description>Buncha changes for a LAN</description>
+  </item>
   <item>
     <title>Wildcraft x Expanded Foods Compatability</title>
     <link>https://mods.vintagestory.at/show/mod/9738</link>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
     <pubDate>Sun, 05 Jul 2026 08:42:44 -0000</pubDate>
     <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>Catch and Release: Butterflies</title>
-    <link>https://mods.vintagestory.at/show/mod/crbutterflies</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crbutterflies#7409</guid>
-    <pubDate>Sun, 05 Jul 2026 08:32:19 -0000</pubDate>
-    <description>Catch butterflies live and set them free or place them in terrariums.</description>
-  </item>
-  <item>
-    <title>Catch and Release LIB</title>
-    <link>https://mods.vintagestory.at/show/mod/crlib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crlib#7509</guid>
-    <pubDate>Sun, 05 Jul 2026 08:30:54 -0000</pubDate>
-    <description>Shared library for Catch and Release mods.</description>
-  </item>
-  <item>
-    <title>Auto Walk Extended</title>
-    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
-    <pubDate>Sun, 05 Jul 2026 08:20:53 -0000</pubDate>
-    <description>Toggle walking/running and sneaking. Supports also automatic climbing (stepup).</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sun, 05 Jul 2026 08:13:00 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Metals of Myths [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/metalsofmyths</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalsofmyths#9911</guid>
-    <pubDate>Sun, 05 Jul 2026 07:08:40 -0000</pubDate>
-    <description>An addon for Improved Metallurgy that extends progression even further by adding fantasy metals.</description>
-  </item>
-  <item>
-    <title>IndustrialStory</title>
-    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
-    <pubDate>Sun, 05 Jul 2026 06:30:06 -0000</pubDate>
-    <description>Overhauls metalworking, chemistry, and glassworking. </description>
-  </item>
-  <item>
-    <title>BetterHandbook</title>
-    <link>https://mods.vintagestory.at/show/mod/8762</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8762#8762</guid>
-    <pubDate>Sun, 05 Jul 2026 05:21:18 -0000</pubDate>
-    <description>A faster, smarter handbook with mod tabs, recipe lookups, and crafting auto fill.</description>
-  </item>
-  <item>
-    <title>Status Hud Continued</title>
-    <link>https://mods.vintagestory.at/show/mod/statushudcont</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/statushudcont#1841</guid>
-    <pubDate>Sun, 05 Jul 2026 05:09:34 -0000</pubDate>
-    <description>Displays status information on the HUD.</description>
-  </item>
-  <item>
-    <title>ReelMower</title>
-    <link>https://mods.vintagestory.at/show/mod/reelmower</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/reelmower#9653</guid>
-    <pubDate>Sun, 05 Jul 2026 03:38:16 -0000</pubDate>
-    <description>Push reel mower. Cut grass, Multiplayer in testing</description>
   </item>
 </channel>
 </rss>
