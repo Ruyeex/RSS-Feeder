@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 05 Jul 2026 21:04:30 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 05 Jul 2026 23:03:54 +0000</lastBuildDate>
+  <item>
+    <title>Infinite Jump</title>
+    <link>https://mods.vintagestory.at/show/mod/10048</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10048#10048</guid>
+    <pubDate>Sun, 05 Jul 2026 23:01:18 -0000</pubDate>
+    <description>This mod lets you jump like Kirby in Super Smash Bros, but Infinitely! It is a cheat mod.</description>
+  </item>
+  <item>
+    <title>SheyderMod</title>
+    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
+    <pubDate>Sun, 05 Jul 2026 22:38:39 -0000</pubDate>
+    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
+  </item>
+  <item>
+    <title>Resonator Overhaul </title>
+    <link>https://mods.vintagestory.at/show/mod/10009</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10009#10009</guid>
+    <pubDate>Sun, 05 Jul 2026 21:49:02 -0000</pubDate>
+    <description>Per-resonator volume, falloff and looping — saved to the world and audible with Music off.</description>
+  </item>
+  <item>
+    <title>Rope Bridges Continued</title>
+    <link>https://mods.vintagestory.at/show/mod/ropebridges</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ropebridges#10071</guid>
+    <pubDate>Sun, 05 Jul 2026 21:15:49 -0000</pubDate>
+    <description>Adds beautiful Rope Bridges, Continued version, Improves upon the original mod</description>
+  </item>
+  <item>
+    <title>Equus: Medieval Horses</title>
+    <link>https://mods.vintagestory.at/show/mod/equusdestrier</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusdestrier#9959</guid>
+    <pubDate>Sun, 05 Jul 2026 21:09:04 -0000</pubDate>
+    <description>Adds a medieval warhorse to the game that can be purchased from a new horse trader</description>
+  </item>
   <item>
     <title>Sandy Plaster</title>
     <link>https://mods.vintagestory.at/show/mod/sandyplaster</link>
@@ -132,13 +167,6 @@
     <description>Fixes of few small things that really annoyed me inside a trader shop</description>
   </item>
   <item>
-    <title>Resonator Overhaul </title>
-    <link>https://mods.vintagestory.at/show/mod/10009</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10009#10009</guid>
-    <pubDate>Sun, 05 Jul 2026 15:55:26 -0000</pubDate>
-    <description>Per-resonator volume, falloff and looping — saved to the world and audible with Music off.</description>
-  </item>
-  <item>
     <title>RentalPermission</title>
     <link>https://mods.vintagestory.at/show/mod/9820</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9820#9820</guid>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rocktrader#10043</guid>
     <pubDate>Sun, 05 Jul 2026 14:06:18 -0000</pubDate>
     <description>Just a trader to sell stones and rocks</description>
-  </item>
-  <item>
-    <title>Double Beds</title>
-    <link>https://mods.vintagestory.at/show/mod/doublebeds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/doublebeds#9526</guid>
-    <pubDate>Sun, 05 Jul 2026 13:48:08 -0000</pubDate>
-    <description>Allows combining 2 beds of the same type in the crafting grid to obtain a double bed. </description>
-  </item>
-  <item>
-    <title>sadChestLoot</title>
-    <link>https://mods.vintagestory.at/show/mod/10060</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10060#10060</guid>
-    <pubDate>Sun, 05 Jul 2026 13:42:19 -0000</pubDate>
-    <description>Custom loot spawner mod that lets you place loot spawn points anywhere and fully customize loot</description>
-  </item>
-  <item>
-    <title>Jelly Bundle</title>
-    <link>https://mods.vintagestory.at/show/mod/10059</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10059#10059</guid>
-    <pubDate>Sun, 05 Jul 2026 13:13:37 -0000</pubDate>
-    <description>A compilation of tweaks for the Swamp Jelly server.</description>
-  </item>
-  <item>
-    <title>Waterfall: SomeLiquidSourceTransport</title>
-    <link>https://mods.vintagestory.at/show/mod/waterfall</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waterfall#3845</guid>
-    <pubDate>Sun, 05 Jul 2026 12:50:46 -0000</pubDate>
-    <description>Water must be manually spread from naturally generated liquid bodies.</description>
   </item>
 </channel>
 </rss>
