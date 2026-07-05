@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 05 Jul 2026 17:14:49 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 05 Jul 2026 19:21:59 +0000</lastBuildDate>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Sun, 05 Jul 2026 19:01:59 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Downed</title>
+    <link>https://mods.vintagestory.at/show/mod/downed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
+    <pubDate>Sun, 05 Jul 2026 18:24:48 -0000</pubDate>
+    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
+  </item>
+  <item>
+    <title>Pico TrashSlot</title>
+    <link>https://mods.vintagestory.at/show/mod/10067</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10067#10067</guid>
+    <pubDate>Sun, 05 Jul 2026 17:57:11 -0000</pubDate>
+    <description>A seamless trash slot that docks to your inventory for quickly deleting unwanted items.</description>
+  </item>
+  <item>
+    <title>Metals of Myths [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/metalsofmyths</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalsofmyths#9911</guid>
+    <pubDate>Sun, 05 Jul 2026 17:53:43 -0000</pubDate>
+    <description>An addon for Improved Metallurgy that extends progression even further by adding fantasy metals.</description>
+  </item>
+  <item>
+    <title>Shipwright</title>
+    <link>https://mods.vintagestory.at/show/mod/shipwright</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shipwright#8044</guid>
+    <pubDate>Sun, 05 Jul 2026 17:47:34 -0000</pubDate>
+    <description>Adds various sailed and rowed boats from all around the world.</description>
+  </item>
+  <item>
+    <title>Hook Molds</title>
+    <link>https://mods.vintagestory.at/show/mod/9960</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9960#9960</guid>
+    <pubDate>Sun, 05 Jul 2026 17:14:57 -0000</pubDate>
+    <description>This mod adds two molds for hooks for the Butchering Mod</description>
+  </item>
   <item>
     <title>World Border</title>
     <link>https://mods.vintagestory.at/show/mod/worldborder</link>
@@ -118,13 +160,6 @@
     <description>A compilation of tweaks for the Swamp Jelly server.</description>
   </item>
   <item>
-    <title>Downed</title>
-    <link>https://mods.vintagestory.at/show/mod/downed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
-    <pubDate>Sun, 05 Jul 2026 13:08:42 -0000</pubDate>
-    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
-  </item>
-  <item>
     <title>Waterfall: SomeLiquidSourceTransport</title>
     <link>https://mods.vintagestory.at/show/mod/waterfall</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waterfall#3845</guid>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3927#3927</guid>
     <pubDate>Sun, 05 Jul 2026 10:12:54 -0000</pubDate>
     <description>Implements unused vanilla weapons and some armor in vanilla style</description>
-  </item>
-  <item>
-    <title>BetterEr Prospecting</title>
-    <link>https://mods.vintagestory.at/show/mod/bettererprospecting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettererprospecting#4916</guid>
-    <pubDate>Sun, 05 Jul 2026 09:09:15 -0000</pubDate>
-    <description>Altered prospecting experience with focus on reducing randomness</description>
-  </item>
-  <item>
-    <title>[Optimization Patch] Catch and Release: Butterflies </title>
-    <link>https://mods.vintagestory.at/show/mod/optimizedcrbutterflies</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimizedcrbutterflies#7414</guid>
-    <pubDate>Sun, 05 Jul 2026 09:07:07 -0000</pubDate>
-    <description>Optimization patch for specific Catch and Release: Butterflies mod</description>
-  </item>
-  <item>
-    <title>Temporal Stabilizer</title>
-    <link>https://mods.vintagestory.at/show/mod/10053</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10053#10053</guid>
-    <pubDate>Sun, 05 Jul 2026 08:58:41 -0000</pubDate>
-    <description>A craftable, placeable machine that makes an area genuinely immune to temporal-stability drain.</description>
-  </item>
-  <item>
-    <title>Catch and Release: Fish</title>
-    <link>https://mods.vintagestory.at/show/mod/crfish</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crfish#7410</guid>
-    <pubDate>Sun, 05 Jul 2026 08:57:43 -0000</pubDate>
-    <description>Catch fish live and place them in various sized aquariums.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Sun, 05 Jul 2026 08:42:44 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
   </item>
 </channel>
 </rss>
