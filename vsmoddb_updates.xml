@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 05 Jul 2026 11:06:29 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 05 Jul 2026 13:45:45 +0000</lastBuildDate>
+  <item>
+    <title>sadChestLoot</title>
+    <link>https://mods.vintagestory.at/show/mod/10060</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10060#10060</guid>
+    <pubDate>Sun, 05 Jul 2026 13:42:19 -0000</pubDate>
+    <description>Custom loot spawner mod that lets you place loot spawn points anywhere and fully customize loot</description>
+  </item>
+  <item>
+    <title>Rock Trader</title>
+    <link>https://mods.vintagestory.at/show/mod/rocktrader</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rocktrader#10043</guid>
+    <pubDate>Sun, 05 Jul 2026 13:18:02 -0000</pubDate>
+    <description>Just a trader to sell stones and rocks</description>
+  </item>
+  <item>
+    <title>Jelly Bundle</title>
+    <link>https://mods.vintagestory.at/show/mod/10059</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10059#10059</guid>
+    <pubDate>Sun, 05 Jul 2026 13:13:37 -0000</pubDate>
+    <description>A compilation of tweaks for the Swamp Jelly server.</description>
+  </item>
+  <item>
+    <title>Downed</title>
+    <link>https://mods.vintagestory.at/show/mod/downed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
+    <pubDate>Sun, 05 Jul 2026 13:08:42 -0000</pubDate>
+    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
+  </item>
+  <item>
+    <title>Waterfall: SomeLiquidSourceTransport</title>
+    <link>https://mods.vintagestory.at/show/mod/waterfall</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waterfall#3845</guid>
+    <pubDate>Sun, 05 Jul 2026 12:50:46 -0000</pubDate>
+    <description>Water must be manually spread from naturally generated liquid bodies.</description>
+  </item>
+  <item>
+    <title>Easy Alcohol Distilling Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/easyalcoholfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/easyalcoholfork#10058</guid>
+    <pubDate>Sun, 05 Jul 2026 12:43:54 -0000</pubDate>
+    <description>Easy Alcohol Distilling</description>
+  </item>
+  <item>
+    <title>VSNH Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/vsnhtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsnhtweaks#8336</guid>
+    <pubDate>Sun, 05 Jul 2026 12:26:01 -0000</pubDate>
+    <description>Tweaks and modifications for the Vintage Story New Horizons server.</description>
+  </item>
+  <item>
+    <title>Backpack Vanilla Sizes Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10056</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10056#10056</guid>
+    <pubDate>Sun, 05 Jul 2026 12:25:31 -0000</pubDate>
+    <description>Patches Backpack mod for our server to be closer to vanilla.</description>
+  </item>
+  <item>
+    <title>Atlas</title>
+    <link>https://mods.vintagestory.at/show/mod/atlas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
+    <pubDate>Sun, 05 Jul 2026 11:53:12 -0000</pubDate>
+    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
+  </item>
+  <item>
+    <title>Underwater Horrors</title>
+    <link>https://mods.vintagestory.at/show/mod/7281</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7281#7281</guid>
+    <pubDate>Sun, 05 Jul 2026 11:43:53 -0000</pubDate>
+    <description>Adds nightmare sea monsters to Vintage Story (Sea Serpents, Kraken)</description>
+  </item>
+  <item>
+    <title>Wildcraft x Expanded Foods Compatability</title>
+    <link>https://mods.vintagestory.at/show/mod/9738</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9738#9738</guid>
+    <pubDate>Sun, 05 Jul 2026 11:06:50 -0000</pubDate>
+    <description>A work-in-progress mod that aims to act as a bridge between Wildcraft: F&amp;N + Expanded Foods</description>
+  </item>
   <item>
     <title>Logging Expanded</title>
     <link>https://mods.vintagestory.at/show/mod/9605</link>
@@ -18,13 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3927#3927</guid>
     <pubDate>Sun, 05 Jul 2026 10:12:54 -0000</pubDate>
     <description>Implements unused vanilla weapons and some armor in vanilla style</description>
-  </item>
-  <item>
-    <title>Rock Trader</title>
-    <link>https://mods.vintagestory.at/show/mod/rocktrader</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rocktrader#10043</guid>
-    <pubDate>Sun, 05 Jul 2026 09:32:51 -0000</pubDate>
-    <description>Just a trader to sell stones and rocks</description>
   </item>
   <item>
     <title>BetterEr Prospecting</title>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hacore#9243</guid>
     <pubDate>Sun, 05 Jul 2026 02:54:04 -0000</pubDate>
     <description>A collection of items to be used in crafting recipes for Historical Weaponry mods.</description>
-  </item>
-  <item>
-    <title>Historical Armory: Warlords and Warchiefs</title>
-    <link>https://mods.vintagestory.at/show/mod/hawarlords</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hawarlords#9245</guid>
-    <pubDate>Sun, 05 Jul 2026 02:45:25 -0000</pubDate>
-    <description>A collection of equipment from the North/South American and African continents.</description>
-  </item>
-  <item>
-    <title>WOO³</title>
-    <link>https://mods.vintagestory.at/show/mod/8477</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8477#8477</guid>
-    <pubDate>Sun, 05 Jul 2026 02:21:53 -0000</pubDate>
-    <description>A modpack that contains custom content and server tweaks for the Whispers of Oldwood season 3.</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Chests</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalschests</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalschests#8152</guid>
-    <pubDate>Sun, 05 Jul 2026 02:14:06 -0000</pubDate>
-    <description>These chests were created for the [UA] Eternal Seraph server</description>
-  </item>
-  <item>
-    <title>Player Model lib</title>
-    <link>https://mods.vintagestory.at/show/mod/playermodellib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
-    <pubDate>Sun, 05 Jul 2026 01:57:37 -0000</pubDate>
-    <description>Library for adding new player races</description>
-  </item>
-  <item>
-    <title>Mad Fathers Matter</title>
-    <link>https://mods.vintagestory.at/show/mod/madfathersmatter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/madfathersmatter#10049</guid>
-    <pubDate>Sun, 05 Jul 2026 01:25:11 -0000</pubDate>
-    <description>Children inherit the highest generation of either parent instead of just the mother.</description>
-  </item>
-  <item>
-    <title>Aldi's Classes Trapper's</title>
-    <link>https://mods.vintagestory.at/show/mod/10024</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10024#10024</guid>
-    <pubDate>Sat, 04 Jul 2026 23:21:11 -0000</pubDate>
-    <description>Custom adli's Trapper classes</description>
-  </item>
-  <item>
-    <title>SubZero Farming</title>
-    <link>https://mods.vintagestory.at/show/mod/subzerofarming</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/subzerofarming#10047</guid>
-    <pubDate>Sat, 04 Jul 2026 23:16:09 -0000</pubDate>
-    <description>Allow crops to grow even in sub freezing temperatures.</description>
-  </item>
-  <item>
-    <title>Mad Foundation</title>
-    <link>https://mods.vintagestory.at/show/mod/9861</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9861#9861</guid>
-    <pubDate>Sat, 04 Jul 2026 23:13:03 -0000</pubDate>
-    <description>Enhancements and bug fixes for vanilla useful for modding.</description>
-  </item>
-  <item>
-    <title>Just Kobold Traits</title>
-    <link>https://mods.vintagestory.at/show/mod/justkt518</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justkt518#8735</guid>
-    <pubDate>Sat, 04 Jul 2026 22:50:46 -0000</pubDate>
-    <description>Adds just traits to Kobolds from Kobold Player Redux.</description>
-  </item>
-  <item>
-    <title>Real Smoke &amp; Ancient Tools Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/realsmokeancientfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmokeancientfork#10046</guid>
-    <pubDate>Sat, 04 Jul 2026 22:45:18 -0000</pubDate>
-    <description>Pitch torches are smoky now.</description>
   </item>
 </channel>
 </rss>
