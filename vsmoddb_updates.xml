@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 05 Jul 2026 19:21:59 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 05 Jul 2026 21:04:30 +0000</lastBuildDate>
+  <item>
+    <title>Sandy Plaster</title>
+    <link>https://mods.vintagestory.at/show/mod/sandyplaster</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sandyplaster#9971</guid>
+    <pubDate>Sun, 05 Jul 2026 20:54:45 -0000</pubDate>
+    <description>Adds lath and plaster variants for each sand type</description>
+  </item>
+  <item>
+    <title>Hook Molds</title>
+    <link>https://mods.vintagestory.at/show/mod/9960</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9960#9960</guid>
+    <pubDate>Sun, 05 Jul 2026 20:54:22 -0000</pubDate>
+    <description>This mod adds two molds for hooks for the Butchering Mod</description>
+  </item>
+  <item>
+    <title>Temporal Stabilizer</title>
+    <link>https://mods.vintagestory.at/show/mod/10053</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10053#10053</guid>
+    <pubDate>Sun, 05 Jul 2026 20:47:18 -0000</pubDate>
+    <description>A craftable, placeable machine that makes an area genuinely immune to temporal-stability drain.</description>
+  </item>
+  <item>
+    <title>Firearms fork</title>
+    <link>https://mods.vintagestory.at/show/mod/firearmsfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/firearmsfork#8402</guid>
+    <pubDate>Sun, 05 Jul 2026 20:34:40 -0000</pubDate>
+    <description>1.22 Fork</description>
+  </item>
+  <item>
+    <title>Overhaul lib legacy compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/overhaulliblegacycompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/overhaulliblegacycompat#8401</guid>
+    <pubDate>Sun, 05 Jul 2026 20:31:32 -0000</pubDate>
+    <description>Compat for firearms, crossbows, combatoverhaul</description>
+  </item>
+  <item>
+    <title>Diamond Tools</title>
+    <link>https://mods.vintagestory.at/show/mod/diatools</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/diatools#2475</guid>
+    <pubDate>Sun, 05 Jul 2026 20:14:54 -0000</pubDate>
+    <description>Diamond tools and Item Magnet made for Skyblock Server</description>
+  </item>
+  <item>
+    <title>Quartermaster</title>
+    <link>https://mods.vintagestory.at/show/mod/9908</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9908#9908</guid>
+    <pubDate>Sun, 05 Jul 2026 19:57:30 -0000</pubDate>
+    <description>Craft a Quartermaster's Desk that acts as a remote terminal for every container around it.</description>
+  </item>
+  <item>
+    <title>Biodiversity: Crops</title>
+    <link>https://mods.vintagestory.at/show/mod/bdcrop</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bdcrop#7231</guid>
+    <pubDate>Sun, 05 Jul 2026 19:41:19 -0000</pubDate>
+    <description>Adds several new growable crops on farmland tiles. Part of the Biodiversity Suite</description>
+  </item>
+  <item>
+    <title>Wild West Climate</title>
+    <link>https://mods.vintagestory.at/show/mod/wildwestclimate</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wildwestclimate#10070</guid>
+    <pubDate>Sun, 05 Jul 2026 19:32:45 -0000</pubDate>
+    <description>Makes the west drier, hotter, and more desert-like as you travel across the world.</description>
+  </item>
   <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/9635</link>
@@ -39,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shipwright#8044</guid>
     <pubDate>Sun, 05 Jul 2026 17:47:34 -0000</pubDate>
     <description>Adds various sailed and rowed boats from all around the world.</description>
-  </item>
-  <item>
-    <title>Hook Molds</title>
-    <link>https://mods.vintagestory.at/show/mod/9960</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9960#9960</guid>
-    <pubDate>Sun, 05 Jul 2026 17:14:57 -0000</pubDate>
-    <description>This mod adds two molds for hooks for the Butchering Mod</description>
   </item>
   <item>
     <title>World Border</title>
@@ -139,13 +195,6 @@
     <description>Allows combining 2 beds of the same type in the crafting grid to obtain a double bed. </description>
   </item>
   <item>
-    <title>Quartermaster</title>
-    <link>https://mods.vintagestory.at/show/mod/9908</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9908#9908</guid>
-    <pubDate>Sun, 05 Jul 2026 13:46:05 -0000</pubDate>
-    <description>Craft a Quartermaster's Desk that acts as a remote terminal for every container around it.</description>
-  </item>
-  <item>
     <title>sadChestLoot</title>
     <link>https://mods.vintagestory.at/show/mod/10060</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10060#10060</guid>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waterfall#3845</guid>
     <pubDate>Sun, 05 Jul 2026 12:50:46 -0000</pubDate>
     <description>Water must be manually spread from naturally generated liquid bodies.</description>
-  </item>
-  <item>
-    <title>Easy Alcohol Distilling Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/easyalcoholfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/easyalcoholfork#10058</guid>
-    <pubDate>Sun, 05 Jul 2026 12:43:54 -0000</pubDate>
-    <description>Easy Alcohol Distilling</description>
-  </item>
-  <item>
-    <title>VSNH Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/vsnhtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsnhtweaks#8336</guid>
-    <pubDate>Sun, 05 Jul 2026 12:26:01 -0000</pubDate>
-    <description>Tweaks and modifications for the Vintage Story New Horizons server.</description>
-  </item>
-  <item>
-    <title>Backpack Vanilla Sizes Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10056</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10056#10056</guid>
-    <pubDate>Sun, 05 Jul 2026 12:25:31 -0000</pubDate>
-    <description>Patches Backpack mod for our server to be closer to vanilla.</description>
-  </item>
-  <item>
-    <title>Atlas</title>
-    <link>https://mods.vintagestory.at/show/mod/atlas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
-    <pubDate>Sun, 05 Jul 2026 11:53:12 -0000</pubDate>
-    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
-  </item>
-  <item>
-    <title>Underwater Horrors</title>
-    <link>https://mods.vintagestory.at/show/mod/7281</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7281#7281</guid>
-    <pubDate>Sun, 05 Jul 2026 11:43:53 -0000</pubDate>
-    <description>Adds nightmare sea monsters to Vintage Story (Sea Serpents, Kraken)</description>
-  </item>
-  <item>
-    <title>Logging Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/9605</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9605#9605</guid>
-    <pubDate>Sun, 05 Jul 2026 10:15:03 -0000</pubDate>
-    <description>An immersive mod that changes the Timber industry in Vintage Story!</description>
-  </item>
-  <item>
-    <title>Vanilla armory</title>
-    <link>https://mods.vintagestory.at/show/mod/3927</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3927#3927</guid>
-    <pubDate>Sun, 05 Jul 2026 10:12:54 -0000</pubDate>
-    <description>Implements unused vanilla weapons and some armor in vanilla style</description>
   </item>
 </channel>
 </rss>
