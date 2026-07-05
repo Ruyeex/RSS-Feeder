@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 05 Jul 2026 00:03:45 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 05 Jul 2026 04:58:59 +0000</lastBuildDate>
+  <item>
+    <title>ReelMower</title>
+    <link>https://mods.vintagestory.at/show/mod/reelmower</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/reelmower#9653</guid>
+    <pubDate>Sun, 05 Jul 2026 03:38:16 -0000</pubDate>
+    <description>Push reel mower. Cut grass, Multiplayer in testing</description>
+  </item>
+  <item>
+    <title>Metals of Myths [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/metalsofmyths</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalsofmyths#9911</guid>
+    <pubDate>Sun, 05 Jul 2026 03:19:01 -0000</pubDate>
+    <description>An addon for Improved Metallurgy that extends progression even further by adding fantasy metals.</description>
+  </item>
+  <item>
+    <title>Patches for the Forgotten Legends server</title>
+    <link>https://mods.vintagestory.at/show/mod/5991</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5991#5991</guid>
+    <pubDate>Sun, 05 Jul 2026 02:57:53 -0000</pubDate>
+    <description>A few changes for our server</description>
+  </item>
+  <item>
+    <title>Historical Armory: Core</title>
+    <link>https://mods.vintagestory.at/show/mod/hacore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hacore#9243</guid>
+    <pubDate>Sun, 05 Jul 2026 02:54:04 -0000</pubDate>
+    <description>A collection of items to be used in crafting recipes for Historical Weaponry mods.</description>
+  </item>
+  <item>
+    <title>Historical Armory: Warlords and Warchiefs</title>
+    <link>https://mods.vintagestory.at/show/mod/hawarlords</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hawarlords#9245</guid>
+    <pubDate>Sun, 05 Jul 2026 02:45:25 -0000</pubDate>
+    <description>A collection of equipment from the North/South American and African continents.</description>
+  </item>
+  <item>
+    <title>WOO³</title>
+    <link>https://mods.vintagestory.at/show/mod/8477</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8477#8477</guid>
+    <pubDate>Sun, 05 Jul 2026 02:21:53 -0000</pubDate>
+    <description>A modpack that contains custom content and server tweaks for the Whispers of Oldwood season 3.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Chests</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalschests</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalschests#8152</guid>
+    <pubDate>Sun, 05 Jul 2026 02:14:06 -0000</pubDate>
+    <description>These chests were created for the [UA] Eternal Seraph server</description>
+  </item>
+  <item>
+    <title>Player Model lib</title>
+    <link>https://mods.vintagestory.at/show/mod/playermodellib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
+    <pubDate>Sun, 05 Jul 2026 01:57:37 -0000</pubDate>
+    <description>Library for adding new player races</description>
+  </item>
+  <item>
+    <title>Mad Fathers Matter</title>
+    <link>https://mods.vintagestory.at/show/mod/madfathersmatter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/madfathersmatter#10049</guid>
+    <pubDate>Sun, 05 Jul 2026 01:25:11 -0000</pubDate>
+    <description>Children inherit the highest generation of either parent instead of just the mother.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Sun, 05 Jul 2026 00:11:47 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
   <item>
     <title>Aldi's Classes Trapper's</title>
     <link>https://mods.vintagestory.at/show/mod/10024</link>
@@ -25,13 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9861#9861</guid>
     <pubDate>Sat, 04 Jul 2026 23:13:03 -0000</pubDate>
     <description>Enhancements and bug fixes for vanilla useful for modding.</description>
-  </item>
-  <item>
-    <title>Metals of Myths [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/metalsofmyths</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalsofmyths#9911</guid>
-    <pubDate>Sat, 04 Jul 2026 23:03:11 -0000</pubDate>
-    <description>An addon for Improved Metallurgy that extends progression even further by adding fantasy metals.</description>
   </item>
   <item>
     <title>Just Kobold Traits</title>
@@ -74,13 +137,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10045#10045</guid>
     <pubDate>Sat, 04 Jul 2026 21:35:55 -0000</pubDate>
     <description>Updated ForgeSelfIgnite for VS 1.22+. Automatically re-ignites forges when hot and fueled.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sat, 04 Jul 2026 21:15:08 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
   </item>
   <item>
     <title>Rock Trader</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9821#9821</guid>
     <pubDate>Sat, 04 Jul 2026 18:59:28 -0000</pubDate>
     <description>Opens specific Vintage Story claim actions without granting general build or break access.</description>
-  </item>
-  <item>
-    <title>Oils! Resoaped</title>
-    <link>https://mods.vintagestory.at/show/mod/oilsresoaped</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oilsresoaped#9991</guid>
-    <pubDate>Sat, 04 Jul 2026 18:54:11 -0000</pubDate>
-    <description>Oils! Resoaped. A content mod that adds plant oils &amp; their uses as well as some alternative recipes.</description>
-  </item>
-  <item>
-    <title>rawNature</title>
-    <link>https://mods.vintagestory.at/show/mod/raw</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/raw#5940</guid>
-    <pubDate>Sat, 04 Jul 2026 18:49:33 -0000</pubDate>
-    <description>Adds materials, recipes, items, and a new balance of things to the game</description>
-  </item>
-  <item>
-    <title>Glassmaking</title>
-    <link>https://mods.vintagestory.at/show/mod/glassmaking</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glassmaking#535</guid>
-    <pubDate>Sat, 04 Jul 2026 17:51:45 -0000</pubDate>
-    <description>A set of mechanics for creating glass-related recipes</description>
-  </item>
-  <item>
-    <title>Extra Overlays-1.22+</title>
-    <link>https://mods.vintagestory.at/show/mod/8381</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8381#8381</guid>
-    <pubDate>Sat, 04 Jul 2026 17:44:45 -0000</pubDate>
-    <description>same as https://mods.vintagestory.at/extraoverlays working on vesion 1.22.0+</description>
-  </item>
-  <item>
-    <title>Chunk Loader</title>
-    <link>https://mods.vintagestory.at/show/mod/10039</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10039#10039</guid>
-    <pubDate>Sat, 04 Jul 2026 17:34:19 -0000</pubDate>
-    <description>Allows players to keep chunks active when far away via customizable chat commands.</description>
-  </item>
-  <item>
-    <title>SoldierSpy - Brassworks</title>
-    <link>https://mods.vintagestory.at/show/mod/9681</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9681#9681</guid>
-    <pubDate>Sat, 04 Jul 2026 17:15:52 -0000</pubDate>
-    <description>An expansion upon what can be done with brass. Made with love &amp; pain. No AI.</description>
-  </item>
-  <item>
-    <title>Ozzie's Clothing</title>
-    <link>https://mods.vintagestory.at/show/mod/ozziesclothing</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ozziesclothing#10026</guid>
-    <pubDate>Sat, 04 Jul 2026 16:57:52 -0000</pubDate>
-    <description>A simple clothing mod, this is my first attempt at modding so don't expect it to be that good.</description>
-  </item>
-  <item>
-    <title>Simulated Water Runoff</title>
-    <link>https://mods.vintagestory.at/show/mod/simulatedwaterrunoff</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simulatedwaterrunoff#6405</guid>
-    <pubDate>Sat, 04 Jul 2026 16:40:45 -0000</pubDate>
-    <description>While raining, drips will spawn on overhanging block faces and drip down realistically</description>
   </item>
 </channel>
 </rss>
