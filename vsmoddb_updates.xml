@@ -4,12 +4,75 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 06 Jul 2026 03:50:48 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 06 Jul 2026 08:24:08 +0000</lastBuildDate>
+  <item>
+    <title>Simple water tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/simplewatertweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplewatertweaks#9126</guid>
+    <pubDate>Mon, 06 Jul 2026 06:35:00 -0000</pubDate>
+    <description>This mod modifies the game's water by adding an alternative wave effect and a more vibrant color </description>
+  </item>
+  <item>
+    <title>Fast Mushroom Harvesting</title>
+    <link>https://mods.vintagestory.at/show/mod/fastmushroomharvesting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fastmushroomharvesting#9974</guid>
+    <pubDate>Mon, 06 Jul 2026 06:23:37 -0000</pubDate>
+    <description>You don't need tools to pick mushrooms, it's easy and quick to pick them by hand - now with sound!</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Mon, 06 Jul 2026 05:10:32 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Cannibalism</title>
+    <link>https://mods.vintagestory.at/show/mod/4528</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4528#4528</guid>
+    <pubDate>Mon, 06 Jul 2026 05:09:06 -0000</pubDate>
+    <description>Ever wanted to eat your friends? Now you can. Seraph spawn a corpse on death that can be harvested.</description>
+  </item>
+  <item>
+    <title>Rift Beasts Belong Underground FORKED</title>
+    <link>https://mods.vintagestory.at/show/mod/10080</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10080#10080</guid>
+    <pubDate>Mon, 06 Jul 2026 05:00:41 -0000</pubDate>
+    <description>Fork of riftbeastsbelongunderground.</description>
+  </item>
+  <item>
+    <title>Rendered Fat Candles</title>
+    <link>https://mods.vintagestory.at/show/mod/10079</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10079#10079</guid>
+    <pubDate>Mon, 06 Jul 2026 04:37:44 -0000</pubDate>
+    <description>Allows creation of candles from Resin/Beeswax, Peat, Rope, and Rendered Fat!</description>
+  </item>
+  <item>
+    <title>Pico TrashSlot</title>
+    <link>https://mods.vintagestory.at/show/mod/10067</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10067#10067</guid>
+    <pubDate>Mon, 06 Jul 2026 04:29:48 -0000</pubDate>
+    <description>A seamless trash slot that docks to your inventory for quickly deleting unwanted items.</description>
+  </item>
+  <item>
+    <title>VS Roofing Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/5036</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5036#5036</guid>
+    <pubDate>Mon, 06 Jul 2026 04:12:04 -0000</pubDate>
+    <description>Gridless roof crafting and build system.</description>
+  </item>
+  <item>
+    <title>Improved Quenching</title>
+    <link>https://mods.vintagestory.at/show/mod/improvedquenching</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/improvedquenching#9941</guid>
+    <pubDate>Mon, 06 Jul 2026 04:09:28 -0000</pubDate>
+    <description>Overhauls the quench and temper mechanics; bonuses based on skill and choice.</description>
+  </item>
   <item>
     <title>Julz Addons</title>
     <link>https://mods.vintagestory.at/show/mod/10078</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10078#10078</guid>
-    <pubDate>Mon, 06 Jul 2026 03:48:50 -0000</pubDate>
+    <pubDate>Mon, 06 Jul 2026 03:57:36 -0000</pubDate>
     <description>A smol mod made for my mates to have fun in VS</description>
   </item>
   <item>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9960#9960</guid>
     <pubDate>Sun, 05 Jul 2026 20:54:22 -0000</pubDate>
     <description>This mod adds two molds for hooks for the Butchering Mod</description>
-  </item>
-  <item>
-    <title>Temporal Stabilizer</title>
-    <link>https://mods.vintagestory.at/show/mod/10053</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10053#10053</guid>
-    <pubDate>Sun, 05 Jul 2026 20:47:18 -0000</pubDate>
-    <description>A craftable, placeable machine that makes an area genuinely immune to temporal-stability drain.</description>
-  </item>
-  <item>
-    <title>Firearms fork</title>
-    <link>https://mods.vintagestory.at/show/mod/firearmsfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/firearmsfork#8402</guid>
-    <pubDate>Sun, 05 Jul 2026 20:34:40 -0000</pubDate>
-    <description>1.22 Fork</description>
-  </item>
-  <item>
-    <title>Overhaul lib legacy compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/overhaulliblegacycompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/overhaulliblegacycompat#8401</guid>
-    <pubDate>Sun, 05 Jul 2026 20:31:32 -0000</pubDate>
-    <description>Compat for firearms, crossbows, combatoverhaul</description>
-  </item>
-  <item>
-    <title>Diamond Tools</title>
-    <link>https://mods.vintagestory.at/show/mod/diatools</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/diatools#2475</guid>
-    <pubDate>Sun, 05 Jul 2026 20:14:54 -0000</pubDate>
-    <description>Diamond tools and Item Magnet made for Skyblock Server</description>
-  </item>
-  <item>
-    <title>Quartermaster</title>
-    <link>https://mods.vintagestory.at/show/mod/9908</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9908#9908</guid>
-    <pubDate>Sun, 05 Jul 2026 19:57:30 -0000</pubDate>
-    <description>Craft a Quartermaster's Desk that acts as a remote terminal for every container around it.</description>
-  </item>
-  <item>
-    <title>Biodiversity: Crops</title>
-    <link>https://mods.vintagestory.at/show/mod/bdcrop</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bdcrop#7231</guid>
-    <pubDate>Sun, 05 Jul 2026 19:41:19 -0000</pubDate>
-    <description>Adds several new growable crops on farmland tiles. Part of the Biodiversity Suite</description>
-  </item>
-  <item>
-    <title>Wild West Climate</title>
-    <link>https://mods.vintagestory.at/show/mod/wildwestclimate</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wildwestclimate#10070</guid>
-    <pubDate>Sun, 05 Jul 2026 19:32:45 -0000</pubDate>
-    <description>Makes the west drier, hotter, and more desert-like as you travel across the world.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sun, 05 Jul 2026 19:01:59 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Downed</title>
-    <link>https://mods.vintagestory.at/show/mod/downed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
-    <pubDate>Sun, 05 Jul 2026 18:24:48 -0000</pubDate>
-    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
   </item>
 </channel>
 </rss>
