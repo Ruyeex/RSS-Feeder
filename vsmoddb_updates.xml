@@ -4,7 +4,98 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 06 Jul 2026 12:50:53 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 06 Jul 2026 16:23:07 +0000</lastBuildDate>
+  <item>
+    <title>tnd_patches</title>
+    <link>https://mods.vintagestory.at/show/mod/tndpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tndpatches#7869</guid>
+    <pubDate>Mon, 06 Jul 2026 16:05:34 -0000</pubDate>
+    <description>A set of patches for The New Dawn server</description>
+  </item>
+  <item>
+    <title>Universal barrel liquid fix</title>
+    <link>https://mods.vintagestory.at/show/mod/ublx</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ublx#9601</guid>
+    <pubDate>Mon, 06 Jul 2026 15:48:57 -0000</pubDate>
+    <description>Just dll for CZ4 Tabor server barrels</description>
+  </item>
+  <item>
+    <title>Optimum</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Mon, 06 Jul 2026 15:11:56 -0000</pubDate>
+    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
+  </item>
+  <item>
+    <title>Fast Mushroom Harvesting</title>
+    <link>https://mods.vintagestory.at/show/mod/fastmushroomharvesting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fastmushroomharvesting#9974</guid>
+    <pubDate>Mon, 06 Jul 2026 15:07:24 -0000</pubDate>
+    <description>You don't need tools to pick mushrooms, it's easy and quick to pick them by hand - now with sound!</description>
+  </item>
+  <item>
+    <title>Rudiments</title>
+    <link>https://mods.vintagestory.at/show/mod/9305</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
+    <pubDate>Mon, 06 Jul 2026 14:56:06 -0000</pubDate>
+    <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
+  </item>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Mon, 06 Jul 2026 14:55:20 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>Enter Notification Sound</title>
+    <link>https://mods.vintagestory.at/show/mod/8824</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8824#8824</guid>
+    <pubDate>Mon, 06 Jul 2026 14:41:57 -0000</pubDate>
+    <description>Just a notification sound when you join the world.</description>
+  </item>
+  <item>
+    <title>Easy Alcohol Distilling Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/easyalcoholfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/easyalcoholfork#10058</guid>
+    <pubDate>Mon, 06 Jul 2026 14:23:59 -0000</pubDate>
+    <description>Easy Alcohol Distilling</description>
+  </item>
+  <item>
+    <title>xSkills Gilded Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/5529</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5529#5529</guid>
+    <pubDate>Mon, 06 Jul 2026 13:44:17 -0000</pubDate>
+    <description>This mod adds a beautifully designed, immersive, and user-friendly interface for xSkills. </description>
+  </item>
+  <item>
+    <title>Vintage Reborn Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10085</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10085#10085</guid>
+    <pubDate>Mon, 06 Jul 2026 13:29:04 -0000</pubDate>
+    <description>i wouldnt use unless you are join Vintage Reborn!</description>
+  </item>
+  <item>
+    <title>Catch and Release: Fish</title>
+    <link>https://mods.vintagestory.at/show/mod/crfish</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crfish#7410</guid>
+    <pubDate>Mon, 06 Jul 2026 13:17:49 -0000</pubDate>
+    <description>Catch fish live and place them in various sized aquariums.</description>
+  </item>
+  <item>
+    <title>lhgui</title>
+    <link>https://mods.vintagestory.at/show/mod/lhgui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lhgui#4960</guid>
+    <pubDate>Mon, 06 Jul 2026 13:06:23 -0000</pubDate>
+    <description>GUI mod for lasthearth server</description>
+  </item>
+  <item>
+    <title>MagicServerTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/magicservertweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/magicservertweaks#9791</guid>
+    <pubDate>Mon, 06 Jul 2026 12:56:46 -0000</pubDate>
+    <description>Tweaks for my magic server</description>
+  </item>
   <item>
     <title>Slings Progression</title>
     <link>https://mods.vintagestory.at/show/mod/slings</link>
@@ -46,13 +137,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/effectshud#710</guid>
     <pubDate>Mon, 06 Jul 2026 11:27:37 -0000</pubDate>
     <description>Adds different potion effects and HUD for tracking their time and tier</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Mon, 06 Jul 2026 10:24:09 -0000</pubDate>
-    <description>Making flora living</description>
   </item>
   <item>
     <title>Instant Fruit Press</title>
@@ -97,13 +181,6 @@
     <description>This mod modifies the game's water by adding an alternative wave effect and a more vibrant color </description>
   </item>
   <item>
-    <title>Fast Mushroom Harvesting</title>
-    <link>https://mods.vintagestory.at/show/mod/fastmushroomharvesting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fastmushroomharvesting#9974</guid>
-    <pubDate>Mon, 06 Jul 2026 06:23:37 -0000</pubDate>
-    <description>You don't need tools to pick mushrooms, it's easy and quick to pick them by hand - now with sound!</description>
-  </item>
-  <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/9635</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10067#10067</guid>
     <pubDate>Mon, 06 Jul 2026 04:29:48 -0000</pubDate>
     <description>A seamless trash slot that docks to your inventory for quickly deleting unwanted items.</description>
-  </item>
-  <item>
-    <title>VS Roofing Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/5036</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5036#5036</guid>
-    <pubDate>Mon, 06 Jul 2026 04:12:04 -0000</pubDate>
-    <description>Gridless roof crafting and build system.</description>
-  </item>
-  <item>
-    <title>Improved Quenching</title>
-    <link>https://mods.vintagestory.at/show/mod/improvedquenching</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/improvedquenching#9941</guid>
-    <pubDate>Mon, 06 Jul 2026 04:09:28 -0000</pubDate>
-    <description>Overhauls the quench and temper mechanics; bonuses based on skill and choice.</description>
-  </item>
-  <item>
-    <title>Julz Addons</title>
-    <link>https://mods.vintagestory.at/show/mod/10078</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10078#10078</guid>
-    <pubDate>Mon, 06 Jul 2026 03:57:36 -0000</pubDate>
-    <description>A smol mod made for my mates to have fun in VS</description>
-  </item>
-  <item>
-    <title>Runescape Metals + Woods + Runecrafting</title>
-    <link>https://mods.vintagestory.at/show/mod/9566</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9566#9566</guid>
-    <pubDate>Mon, 06 Jul 2026 03:44:35 -0000</pubDate>
-    <description>RuneScape metals &amp; woods: mithril-runite-dragon smithing, fletching,    tiered bows, mega furnaces.</description>
-  </item>
-  <item>
-    <title>ReelMower</title>
-    <link>https://mods.vintagestory.at/show/mod/reelmower</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/reelmower#9653</guid>
-    <pubDate>Mon, 06 Jul 2026 03:35:13 -0000</pubDate>
-    <description>Push reel mower. Cut grass, Multiplayer in testing</description>
-  </item>
-  <item>
-    <title>PicoStackables</title>
-    <link>https://mods.vintagestory.at/show/mod/9902</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9902#9902</guid>
-    <pubDate>Mon, 06 Jul 2026 03:32:13 -0000</pubDate>
-    <description>Multiply item &amp; block stack sizes, with per-item overrides and a live in-game config editor.</description>
-  </item>
-  <item>
-    <title>Murlok Vintage Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/murlokvspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/murlokvspatch#5307</guid>
-    <pubDate>Mon, 06 Jul 2026 03:26:31 -0000</pubDate>
-    <description>Collection of tweaks for the Murlok server and playthrough.</description>
-  </item>
-  <item>
-    <title>Resonator Overhaul </title>
-    <link>https://mods.vintagestory.at/show/mod/10009</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10009#10009</guid>
-    <pubDate>Mon, 06 Jul 2026 02:45:52 -0000</pubDate>
-    <description>Per-resonator volume, falloff and looping — saved to the world and audible with Music off.</description>
-  </item>
-  <item>
-    <title>Rookhaven Bloomery Iron Bloom Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/10066</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10066#10066</guid>
-    <pubDate>Mon, 06 Jul 2026 02:08:57 -0000</pubDate>
-    <description>Fix for Rookhaven Server for Bloomeries making instant ingots instead of Blooms</description>
-  </item>
-  <item>
-    <title>Wildcraft x Expanded Foods Compatability</title>
-    <link>https://mods.vintagestory.at/show/mod/9738</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9738#9738</guid>
-    <pubDate>Mon, 06 Jul 2026 02:07:44 -0000</pubDate>
-    <description>A work-in-progress mod that aims to act as a bridge between Wildcraft: F&amp;N + Expanded Foods</description>
-  </item>
-  <item>
-    <title>Chonky Vessels</title>
-    <link>https://mods.vintagestory.at/show/mod/7686</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7686#7686</guid>
-    <pubDate>Mon, 06 Jul 2026 01:54:27 -0000</pubDate>
-    <description>Adds chonkier vessels &amp; more with better storage and spoilage properties.</description>
   </item>
 </channel>
 </rss>
