@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 06 Jul 2026 08:24:08 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 06 Jul 2026 12:50:53 +0000</lastBuildDate>
+  <item>
+    <title>Slings Progression</title>
+    <link>https://mods.vintagestory.at/show/mod/slings</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slings#5152</guid>
+    <pubDate>Mon, 06 Jul 2026 12:48:38 -0000</pubDate>
+    <description>Adds new slingshots that can be obtained by progressing through the game.</description>
+  </item>
+  <item>
+    <title>Vintage Story Chinese Language Pack</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
+    <pubDate>Mon, 06 Jul 2026 12:10:56 -0000</pubDate>
+    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
+  </item>
+  <item>
+    <title>Extinguish unequipped torches</title>
+    <link>https://mods.vintagestory.at/show/mod/4800</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4800#4800</guid>
+    <pubDate>Mon, 06 Jul 2026 11:43:04 -0000</pubDate>
+    <description>Extinguishes torches in your inventory that are not in your main or offhand</description>
+  </item>
+  <item>
+    <title>C&amp;N RPG Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/canrpgclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canrpgclasses#9965</guid>
+    <pubDate>Mon, 06 Jul 2026 11:33:27 -0000</pubDate>
+    <description>RPG classes for Vintage Story</description>
+  </item>
+  <item>
+    <title>Rental Permission</title>
+    <link>https://mods.vintagestory.at/show/mod/9820</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9820#9820</guid>
+    <pubDate>Mon, 06 Jul 2026 11:31:32 -0000</pubDate>
+    <description>Adds paid rentals for reinforced or locked blocks inside configured land claims.</description>
+  </item>
+  <item>
+    <title>C&amp;N Effects</title>
+    <link>https://mods.vintagestory.at/show/mod/effectshud</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/effectshud#710</guid>
+    <pubDate>Mon, 06 Jul 2026 11:27:37 -0000</pubDate>
+    <description>Adds different potion effects and HUD for tracking their time and tier</description>
+  </item>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Mon, 06 Jul 2026 10:24:09 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>Instant Fruit Press</title>
+    <link>https://mods.vintagestory.at/show/mod/10082</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10082#10082</guid>
+    <pubDate>Mon, 06 Jul 2026 09:51:49 -0000</pubDate>
+    <description>Instant juice extraction</description>
+  </item>
+  <item>
+    <title>Downed</title>
+    <link>https://mods.vintagestory.at/show/mod/downed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
+    <pubDate>Mon, 06 Jul 2026 09:30:48 -0000</pubDate>
+    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
+  </item>
+  <item>
+    <title>BetterEr Prospecting</title>
+    <link>https://mods.vintagestory.at/show/mod/bettererprospecting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettererprospecting#4916</guid>
+    <pubDate>Mon, 06 Jul 2026 09:30:15 -0000</pubDate>
+    <description>Altered prospecting experience with focus on reducing randomness</description>
+  </item>
+  <item>
+    <title>Secret Foxfire 1.22 Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10037</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10037#10037</guid>
+    <pubDate>Mon, 06 Jul 2026 09:19:42 -0000</pubDate>
+    <description>Tweaks for my community 1.22 server.</description>
+  </item>
+  <item>
+    <title>Mycenaean House (WorldEdit Schematic)</title>
+    <link>https://mods.vintagestory.at/show/mod/10077</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10077#10077</guid>
+    <pubDate>Mon, 06 Jul 2026 08:55:13 -0000</pubDate>
+    <description>A WorldEdit schematic of a Greek Bronze Age house.</description>
+  </item>
   <item>
     <title>Simple water tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/simplewatertweaks</link>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7686#7686</guid>
     <pubDate>Mon, 06 Jul 2026 01:54:27 -0000</pubDate>
     <description>Adds chonkier vessels &amp; more with better storage and spoilage properties.</description>
-  </item>
-  <item>
-    <title>Player Model lib</title>
-    <link>https://mods.vintagestory.at/show/mod/playermodellib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
-    <pubDate>Mon, 06 Jul 2026 01:44:51 -0000</pubDate>
-    <description>Library for adding new player races</description>
-  </item>
-  <item>
-    <title>Salty´s Immersive: Light</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivelight</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivelight#10075</guid>
-    <pubDate>Mon, 06 Jul 2026 00:34:34 -0000</pubDate>
-    <description>Makes block light respect walls and closed barriers.</description>
-  </item>
-  <item>
-    <title>IRDP's Wet Crops Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/9590</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9590#9590</guid>
-    <pubDate>Mon, 06 Jul 2026 00:15:57 -0000</pubDate>
-    <description>Adding a few new moisture-heavy crops to the game. Compat with Paddy Fields.</description>
-  </item>
-  <item>
-    <title>Super Firewood</title>
-    <link>https://mods.vintagestory.at/show/mod/10073</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10073#10073</guid>
-    <pubDate>Sun, 05 Jul 2026 23:59:11 -0000</pubDate>
-    <description>changes the burn temperature and duration of firewood</description>
-  </item>
-  <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Sun, 05 Jul 2026 23:54:36 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
-    <title>FertileDirtPlus</title>
-    <link>https://mods.vintagestory.at/show/mod/10072</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10072#10072</guid>
-    <pubDate>Sun, 05 Jul 2026 23:53:53 -0000</pubDate>
-    <description>lets you make higher quality dirt out of lower quality dirt, turn dirt into sand too</description>
-  </item>
-  <item>
-    <title>Infinite Jump</title>
-    <link>https://mods.vintagestory.at/show/mod/10048</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10048#10048</guid>
-    <pubDate>Sun, 05 Jul 2026 23:01:18 -0000</pubDate>
-    <description>This mod lets you jump like Kirby in Super Smash Bros, but Infinitely! It is a cheat mod.</description>
-  </item>
-  <item>
-    <title>SheyderMod</title>
-    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
-    <pubDate>Sun, 05 Jul 2026 22:38:39 -0000</pubDate>
-    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
-  </item>
-  <item>
-    <title>Rope Bridges Continued</title>
-    <link>https://mods.vintagestory.at/show/mod/ropebridges</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ropebridges#10071</guid>
-    <pubDate>Sun, 05 Jul 2026 21:15:49 -0000</pubDate>
-    <description>Adds beautiful Rope Bridges, Continued version, Improves upon the original mod</description>
-  </item>
-  <item>
-    <title>Equus: Medieval Horses</title>
-    <link>https://mods.vintagestory.at/show/mod/equusdestrier</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusdestrier#9959</guid>
-    <pubDate>Sun, 05 Jul 2026 21:09:04 -0000</pubDate>
-    <description>Adds a medieval warhorse to the game that can be purchased from a new horse trader</description>
-  </item>
-  <item>
-    <title>Sandy Plaster</title>
-    <link>https://mods.vintagestory.at/show/mod/sandyplaster</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sandyplaster#9971</guid>
-    <pubDate>Sun, 05 Jul 2026 20:54:45 -0000</pubDate>
-    <description>Adds lath and plaster variants for each sand type</description>
-  </item>
-  <item>
-    <title>Hook Molds</title>
-    <link>https://mods.vintagestory.at/show/mod/9960</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9960#9960</guid>
-    <pubDate>Sun, 05 Jul 2026 20:54:22 -0000</pubDate>
-    <description>This mod adds two molds for hooks for the Butchering Mod</description>
   </item>
 </channel>
 </rss>
