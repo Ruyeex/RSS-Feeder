@@ -4,7 +4,112 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 06 Jul 2026 18:57:20 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 06 Jul 2026 20:55:56 +0000</lastBuildDate>
+  <item>
+    <title>BetterEr Prospecting</title>
+    <link>https://mods.vintagestory.at/show/mod/bettererprospecting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettererprospecting#4916</guid>
+    <pubDate>Mon, 06 Jul 2026 20:55:34 -0000</pubDate>
+    <description>Altered prospecting experience with focus on reducing randomness</description>
+  </item>
+  <item>
+    <title>GlobalSRVCore</title>
+    <link>https://mods.vintagestory.at/show/mod/globalsrvcore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/globalsrvcore#6670</guid>
+    <pubDate>Mon, 06 Jul 2026 20:12:23 -0000</pubDate>
+    <description>A collection of modified and altered mods for the GlobalSRV project server.</description>
+  </item>
+  <item>
+    <title>RequiresTraitFix</title>
+    <link>https://mods.vintagestory.at/show/mod/10094</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10094#10094</guid>
+    <pubDate>Mon, 06 Jul 2026 20:04:18 -0000</pubDate>
+    <description>Fixes the requiresTrait recipe property never being synced for non-grid recipes</description>
+  </item>
+  <item>
+    <title>Eidolon Unchained</title>
+    <link>https://mods.vintagestory.at/show/mod/eidolon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eidolon#7329</guid>
+    <pubDate>Mon, 06 Jul 2026 20:03:30 -0000</pubDate>
+    <description>Adds a walking Eidolon with multiple devastating attacks.</description>
+  </item>
+  <item>
+    <title>Atlas</title>
+    <link>https://mods.vintagestory.at/show/mod/atlas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
+    <pubDate>Mon, 06 Jul 2026 19:55:56 -0000</pubDate>
+    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
+  </item>
+  <item>
+    <title>Downed</title>
+    <link>https://mods.vintagestory.at/show/mod/downed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
+    <pubDate>Mon, 06 Jul 2026 19:50:10 -0000</pubDate>
+    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
+  </item>
+  <item>
+    <title>AoS Steward addition (Faction armor)</title>
+    <link>https://mods.vintagestory.at/show/mod/stewardadditions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stewardadditions#9473</guid>
+    <pubDate>Mon, 06 Jul 2026 19:44:25 -0000</pubDate>
+    <description>A set of clothing and armor options made for the Steward faction on Age of Saraph</description>
+  </item>
+  <item>
+    <title>BLACK HORN</title>
+    <link>https://mods.vintagestory.at/show/mod/10092</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10092#10092</guid>
+    <pubDate>Mon, 06 Jul 2026 19:40:41 -0000</pubDate>
+    <description>Adds different color horns, charlotte made the original shapes, just color changed</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Capreolinae</title>
+    <link>https://mods.vintagestory.at/show/mod/capreolinae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/capreolinae#1254</guid>
+    <pubDate>Mon, 06 Jul 2026 19:22:26 -0000</pubDate>
+    <description>A collection of New World deer from the Holocene.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Pantherinae</title>
+    <link>https://mods.vintagestory.at/show/mod/pantherinae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pantherinae#1125</guid>
+    <pubDate>Mon, 06 Jul 2026 19:21:27 -0000</pubDate>
+    <description>A collection of big cats from human history.</description>
+  </item>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Mon, 06 Jul 2026 19:20:45 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>Easy Alcohol Distilling Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/easyalcoholfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/easyalcoholfork#10058</guid>
+    <pubDate>Mon, 06 Jul 2026 19:06:21 -0000</pubDate>
+    <description>Easy Alcohol Distilling</description>
+  </item>
+  <item>
+    <title>Compatibility Ecosystem Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemfloracompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemfloracompat#10091</guid>
+    <pubDate>Mon, 06 Jul 2026 19:05:49 -0000</pubDate>
+    <description>Supports for any participants in ecology patches</description>
+  </item>
+  <item>
+    <title>Handbook Turbo</title>
+    <link>https://mods.vintagestory.at/show/mod/10090</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10090#10090</guid>
+    <pubDate>Mon, 06 Jul 2026 19:03:31 -0000</pubDate>
+    <description>Speeds up my servers handbook! Should work with other servers</description>
+  </item>
+  <item>
+    <title>Icebox</title>
+    <link>https://mods.vintagestory.at/show/mod/cmicebox</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cmicebox#9170</guid>
+    <pubDate>Mon, 06 Jul 2026 19:01:42 -0000</pubDate>
+    <description>A vintage icebox, place a block of ice inside and it will keep your food fresh.</description>
+  </item>
   <item>
     <title>IRDP's Wet Crops Mod</title>
     <link>https://mods.vintagestory.at/show/mod/9590</link>
@@ -109,111 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tndpatches#7869</guid>
     <pubDate>Mon, 06 Jul 2026 16:05:34 -0000</pubDate>
     <description>A set of patches for The New Dawn server</description>
-  </item>
-  <item>
-    <title>Universal barrel liquid fix</title>
-    <link>https://mods.vintagestory.at/show/mod/ublx</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ublx#9601</guid>
-    <pubDate>Mon, 06 Jul 2026 15:48:57 -0000</pubDate>
-    <description>Just dll for CZ4 Tabor server barrels</description>
-  </item>
-  <item>
-    <title>Fast Mushroom Harvesting</title>
-    <link>https://mods.vintagestory.at/show/mod/fastmushroomharvesting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fastmushroomharvesting#9974</guid>
-    <pubDate>Mon, 06 Jul 2026 15:07:24 -0000</pubDate>
-    <description>You don't need tools to pick mushrooms, it's easy and quick to pick them by hand - now with sound!</description>
-  </item>
-  <item>
-    <title>Rudiments</title>
-    <link>https://mods.vintagestory.at/show/mod/9305</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
-    <pubDate>Mon, 06 Jul 2026 14:56:06 -0000</pubDate>
-    <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Mon, 06 Jul 2026 14:55:20 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
-    <title>Enter Notification Sound</title>
-    <link>https://mods.vintagestory.at/show/mod/8824</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8824#8824</guid>
-    <pubDate>Mon, 06 Jul 2026 14:41:57 -0000</pubDate>
-    <description>Just a notification sound when you join the world.</description>
-  </item>
-  <item>
-    <title>Easy Alcohol Distilling Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/easyalcoholfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/easyalcoholfork#10058</guid>
-    <pubDate>Mon, 06 Jul 2026 14:23:59 -0000</pubDate>
-    <description>Easy Alcohol Distilling</description>
-  </item>
-  <item>
-    <title>xSkills Gilded Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/5529</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5529#5529</guid>
-    <pubDate>Mon, 06 Jul 2026 13:44:17 -0000</pubDate>
-    <description>This mod adds a beautifully designed, immersive, and user-friendly interface for xSkills. </description>
-  </item>
-  <item>
-    <title>Vintage Reborn Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10085</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10085#10085</guid>
-    <pubDate>Mon, 06 Jul 2026 13:29:04 -0000</pubDate>
-    <description>i wouldnt use unless you are join Vintage Reborn!</description>
-  </item>
-  <item>
-    <title>Catch and Release: Fish</title>
-    <link>https://mods.vintagestory.at/show/mod/crfish</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crfish#7410</guid>
-    <pubDate>Mon, 06 Jul 2026 13:17:49 -0000</pubDate>
-    <description>Catch fish live and place them in various sized aquariums.</description>
-  </item>
-  <item>
-    <title>lhgui</title>
-    <link>https://mods.vintagestory.at/show/mod/lhgui</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lhgui#4960</guid>
-    <pubDate>Mon, 06 Jul 2026 13:06:23 -0000</pubDate>
-    <description>GUI mod for lasthearth server</description>
-  </item>
-  <item>
-    <title>MagicServerTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/magicservertweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/magicservertweaks#9791</guid>
-    <pubDate>Mon, 06 Jul 2026 12:56:46 -0000</pubDate>
-    <description>Tweaks for my magic server</description>
-  </item>
-  <item>
-    <title>Slings Progression</title>
-    <link>https://mods.vintagestory.at/show/mod/slings</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slings#5152</guid>
-    <pubDate>Mon, 06 Jul 2026 12:48:38 -0000</pubDate>
-    <description>Adds new slingshots that can be obtained by progressing through the game.</description>
-  </item>
-  <item>
-    <title>Vintage Story Chinese Language Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
-    <pubDate>Mon, 06 Jul 2026 12:10:56 -0000</pubDate>
-    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
-  </item>
-  <item>
-    <title>Extinguish unequipped torches</title>
-    <link>https://mods.vintagestory.at/show/mod/4800</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4800#4800</guid>
-    <pubDate>Mon, 06 Jul 2026 11:43:04 -0000</pubDate>
-    <description>Extinguishes torches in your inventory that are not in your main or offhand</description>
-  </item>
-  <item>
-    <title>C&amp;N RPG Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/canrpgclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canrpgclasses#9965</guid>
-    <pubDate>Mon, 06 Jul 2026 11:33:27 -0000</pubDate>
-    <description>RPG classes for Vintage Story</description>
   </item>
 </channel>
 </rss>
