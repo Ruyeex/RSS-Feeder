@@ -4,7 +4,105 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 06 Jul 2026 16:23:07 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 06 Jul 2026 18:57:20 +0000</lastBuildDate>
+  <item>
+    <title>IRDP's Wet Crops Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/9590</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9590#9590</guid>
+    <pubDate>Mon, 06 Jul 2026 18:36:59 -0000</pubDate>
+    <description>Adding a few new moisture-heavy crops to the game. Compat with Paddy Fields.</description>
+  </item>
+  <item>
+    <title>Obsidiancraft</title>
+    <link>https://mods.vintagestory.at/show/mod/obsidiancraft</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/obsidiancraft#4081</guid>
+    <pubDate>Mon, 06 Jul 2026 18:17:02 -0000</pubDate>
+    <description>Adds new obsidian items, including crude arrows, saws, scythes, macuahuitl and tepoztopilli</description>
+  </item>
+  <item>
+    <title>Смарагдове небо - Emerald sky</title>
+    <link>https://mods.vintagestory.at/show/mod/smarahdovenebo</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smarahdovenebo#10087</guid>
+    <pubDate>Mon, 06 Jul 2026 17:50:57 -0000</pubDate>
+    <description>A content mod for Vintage Story that adds one new craftable tuning cylinder with a ukrainian song.</description>
+  </item>
+  <item>
+    <title>Prospector's Dispatch</title>
+    <link>https://mods.vintagestory.at/show/mod/prospectorsdispatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/prospectorsdispatch#9929</guid>
+    <pubDate>Mon, 06 Jul 2026 17:33:07 -0000</pubDate>
+    <description>Stop aimlessly wandering the wilderness searching for that resource you need.</description>
+  </item>
+  <item>
+    <title>Optimum</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Mon, 06 Jul 2026 17:20:39 -0000</pubDate>
+    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
+  </item>
+  <item>
+    <title>WeatherStory</title>
+    <link>https://mods.vintagestory.at/show/mod/10083</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10083#10083</guid>
+    <pubDate>Mon, 06 Jul 2026 17:19:19 -0000</pubDate>
+    <description>static barometric orographic directional wind/precipitation/fire sim via bands, seasons, hemispheres</description>
+  </item>
+  <item>
+    <title>CollapseStory</title>
+    <link>https://mods.vintagestory.at/show/mod/7776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
+    <pubDate>Mon, 06 Jul 2026 17:18:58 -0000</pubDate>
+    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
+  </item>
+  <item>
+    <title>Mechanical Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/mechanicalfix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mechanicalfix#8303</guid>
+    <pubDate>Mon, 06 Jul 2026 17:14:57 -0000</pubDate>
+    <description>A server-side fix for mechanical networks that reduces the risk of freezes and errors.</description>
+  </item>
+  <item>
+    <title>Overlap Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/overlapclaims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/overlapclaims#8304</guid>
+    <pubDate>Mon, 06 Jul 2026 17:14:53 -0000</pubDate>
+    <description>A server-side mod that allows overlapping claims and makes nested claim management more flexible.</description>
+  </item>
+  <item>
+    <title>Forest Regeneration</title>
+    <link>https://mods.vintagestory.at/show/mod/forestregeneration</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/forestregeneration#8305</guid>
+    <pubDate>Mon, 06 Jul 2026 17:14:47 -0000</pubDate>
+    <description>A server-side mod that gradually restores cut-down forests within their original natural boundaries.</description>
+  </item>
+  <item>
+    <title>Wapiti Flute Extend</title>
+    <link>https://mods.vintagestory.at/show/mod/wapitifluteextend</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wapitifluteextend#8306</guid>
+    <pubDate>Mon, 06 Jul 2026 17:14:40 -0000</pubDate>
+    <description>A server-side flute extension for reliably recalling tamed wapiti even from unloaded chunks.</description>
+  </item>
+  <item>
+    <title>VS Exporter</title>
+    <link>https://mods.vintagestory.at/show/mod/vsexporter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsexporter#8652</guid>
+    <pubDate>Mon, 06 Jul 2026 17:14:31 -0000</pubDate>
+    <description>VS Exporter is a server-side Vintage Story mod that exposes server metrics over HTTP for Prometheus </description>
+  </item>
+  <item>
+    <title>Harvest &amp; Dye Glow Worms</title>
+    <link>https://mods.vintagestory.at/show/mod/glowwormsharvest</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glowwormsharvest#9303</guid>
+    <pubDate>Mon, 06 Jul 2026 17:03:19 -0000</pubDate>
+    <description>Harvest glow worms, convert between types, and dye them in 8 colors. Also glow light bottles!</description>
+  </item>
+  <item>
+    <title>SoldierSpy - Forgeworks</title>
+    <link>https://mods.vintagestory.at/show/mod/9946</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9946#9946</guid>
+    <pubDate>Mon, 06 Jul 2026 16:51:55 -0000</pubDate>
+    <description>Curated additions for your smithy. Made with love &amp; pain. No AI.</description>
+  </item>
   <item>
     <title>tnd_patches</title>
     <link>https://mods.vintagestory.at/show/mod/tndpatches</link>
@@ -18,13 +116,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ublx#9601</guid>
     <pubDate>Mon, 06 Jul 2026 15:48:57 -0000</pubDate>
     <description>Just dll for CZ4 Tabor server barrels</description>
-  </item>
-  <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Mon, 06 Jul 2026 15:11:56 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
   </item>
   <item>
     <title>Fast Mushroom Harvesting</title>
@@ -123,97 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canrpgclasses#9965</guid>
     <pubDate>Mon, 06 Jul 2026 11:33:27 -0000</pubDate>
     <description>RPG classes for Vintage Story</description>
-  </item>
-  <item>
-    <title>Rental Permission</title>
-    <link>https://mods.vintagestory.at/show/mod/9820</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9820#9820</guid>
-    <pubDate>Mon, 06 Jul 2026 11:31:32 -0000</pubDate>
-    <description>Adds paid rentals for reinforced or locked blocks inside configured land claims.</description>
-  </item>
-  <item>
-    <title>C&amp;N Effects</title>
-    <link>https://mods.vintagestory.at/show/mod/effectshud</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/effectshud#710</guid>
-    <pubDate>Mon, 06 Jul 2026 11:27:37 -0000</pubDate>
-    <description>Adds different potion effects and HUD for tracking their time and tier</description>
-  </item>
-  <item>
-    <title>Instant Fruit Press</title>
-    <link>https://mods.vintagestory.at/show/mod/10082</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10082#10082</guid>
-    <pubDate>Mon, 06 Jul 2026 09:51:49 -0000</pubDate>
-    <description>Instant juice extraction</description>
-  </item>
-  <item>
-    <title>Downed</title>
-    <link>https://mods.vintagestory.at/show/mod/downed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
-    <pubDate>Mon, 06 Jul 2026 09:30:48 -0000</pubDate>
-    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
-  </item>
-  <item>
-    <title>BetterEr Prospecting</title>
-    <link>https://mods.vintagestory.at/show/mod/bettererprospecting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettererprospecting#4916</guid>
-    <pubDate>Mon, 06 Jul 2026 09:30:15 -0000</pubDate>
-    <description>Altered prospecting experience with focus on reducing randomness</description>
-  </item>
-  <item>
-    <title>Secret Foxfire 1.22 Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10037</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10037#10037</guid>
-    <pubDate>Mon, 06 Jul 2026 09:19:42 -0000</pubDate>
-    <description>Tweaks for my community 1.22 server.</description>
-  </item>
-  <item>
-    <title>Mycenaean House (WorldEdit Schematic)</title>
-    <link>https://mods.vintagestory.at/show/mod/10077</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10077#10077</guid>
-    <pubDate>Mon, 06 Jul 2026 08:55:13 -0000</pubDate>
-    <description>A WorldEdit schematic of a Greek Bronze Age house.</description>
-  </item>
-  <item>
-    <title>Simple water tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/simplewatertweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplewatertweaks#9126</guid>
-    <pubDate>Mon, 06 Jul 2026 06:35:00 -0000</pubDate>
-    <description>This mod modifies the game's water by adding an alternative wave effect and a more vibrant color </description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Mon, 06 Jul 2026 05:10:32 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Cannibalism</title>
-    <link>https://mods.vintagestory.at/show/mod/4528</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4528#4528</guid>
-    <pubDate>Mon, 06 Jul 2026 05:09:06 -0000</pubDate>
-    <description>Ever wanted to eat your friends? Now you can. Seraph spawn a corpse on death that can be harvested.</description>
-  </item>
-  <item>
-    <title>Rift Beasts Belong Underground FORKED</title>
-    <link>https://mods.vintagestory.at/show/mod/10080</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10080#10080</guid>
-    <pubDate>Mon, 06 Jul 2026 05:00:41 -0000</pubDate>
-    <description>Fork of riftbeastsbelongunderground.</description>
-  </item>
-  <item>
-    <title>Rendered Fat Candles</title>
-    <link>https://mods.vintagestory.at/show/mod/10079</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10079#10079</guid>
-    <pubDate>Mon, 06 Jul 2026 04:37:44 -0000</pubDate>
-    <description>Allows creation of candles from Resin/Beeswax, Peat, Rope, and Rendered Fat!</description>
-  </item>
-  <item>
-    <title>Pico TrashSlot</title>
-    <link>https://mods.vintagestory.at/show/mod/10067</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10067#10067</guid>
-    <pubDate>Mon, 06 Jul 2026 04:29:48 -0000</pubDate>
-    <description>A seamless trash slot that docks to your inventory for quickly deleting unwanted items.</description>
   </item>
 </channel>
 </rss>
