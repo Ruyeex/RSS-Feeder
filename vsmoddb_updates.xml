@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 06 Jul 2026 20:55:56 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 06 Jul 2026 22:17:32 +0000</lastBuildDate>
+  <item>
+    <title>Archipelago Client</title>
+    <link>https://mods.vintagestory.at/show/mod/6277</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6277#6277</guid>
+    <pubDate>Mon, 06 Jul 2026 22:16:43 -0000</pubDate>
+    <description>A simple integration of Vintage Story with Archipelago Multiworld Randomizer.</description>
+  </item>
+  <item>
+    <title>Quivers and Sheaths Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/quiversfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/quiversfork#8410</guid>
+    <pubDate>Mon, 06 Jul 2026 22:05:49 -0000</pubDate>
+    <description>1.22 Fork</description>
+  </item>
+  <item>
+    <title>Overhaul lib legacy compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/overhaulliblegacycompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/overhaulliblegacycompat#8401</guid>
+    <pubDate>Mon, 06 Jul 2026 22:05:26 -0000</pubDate>
+    <description>Compat for firearms, crossbows, combatoverhaul</description>
+  </item>
   <item>
     <title>BetterEr Prospecting</title>
     <link>https://mods.vintagestory.at/show/mod/bettererprospecting</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsexporter#8652</guid>
     <pubDate>Mon, 06 Jul 2026 17:14:31 -0000</pubDate>
     <description>VS Exporter is a server-side Vintage Story mod that exposes server metrics over HTTP for Prometheus </description>
-  </item>
-  <item>
-    <title>Harvest &amp; Dye Glow Worms</title>
-    <link>https://mods.vintagestory.at/show/mod/glowwormsharvest</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glowwormsharvest#9303</guid>
-    <pubDate>Mon, 06 Jul 2026 17:03:19 -0000</pubDate>
-    <description>Harvest glow worms, convert between types, and dye them in 8 colors. Also glow light bottles!</description>
-  </item>
-  <item>
-    <title>SoldierSpy - Forgeworks</title>
-    <link>https://mods.vintagestory.at/show/mod/9946</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9946#9946</guid>
-    <pubDate>Mon, 06 Jul 2026 16:51:55 -0000</pubDate>
-    <description>Curated additions for your smithy. Made with love &amp; pain. No AI.</description>
-  </item>
-  <item>
-    <title>tnd_patches</title>
-    <link>https://mods.vintagestory.at/show/mod/tndpatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tndpatches#7869</guid>
-    <pubDate>Mon, 06 Jul 2026 16:05:34 -0000</pubDate>
-    <description>A set of patches for The New Dawn server</description>
   </item>
 </channel>
 </rss>
