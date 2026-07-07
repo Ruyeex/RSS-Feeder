@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 07 Jul 2026 19:59:05 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 07 Jul 2026 21:37:21 +0000</lastBuildDate>
+  <item>
+    <title>Murlok Vintage Server Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/murlokvspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/murlokvspatch#5307</guid>
+    <pubDate>Tue, 07 Jul 2026 21:29:02 -0000</pubDate>
+    <description>Collection of tweaks for the Murlok server and playthrough.</description>
+  </item>
+  <item>
+    <title>Vulkan's Combat Overhaul Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/vulkancopatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vulkancopatches#10105</guid>
+    <pubDate>Tue, 07 Jul 2026 21:25:11 -0000</pubDate>
+    <description>Tweaks and Patches for some less popular features of Combat Overhaul</description>
+  </item>
+  <item>
+    <title>Extreme Weathers [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/10098</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
+    <pubDate>Tue, 07 Jul 2026 21:12:55 -0000</pubDate>
+    <description>Greatly increases the threat the elements pose, blizzards, hurricanes, monsoons. Get ready!</description>
+  </item>
+  <item>
+    <title>Eriadorian Armory</title>
+    <link>https://mods.vintagestory.at/show/mod/eriadorianarmory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eriadorianarmory#9322</guid>
+    <pubDate>Tue, 07 Jul 2026 21:02:36 -0000</pubDate>
+    <description>A collection of custom weapons and armors for the Kingdom of Eriador Vintagestory server.</description>
+  </item>
+  <item>
+    <title>Archipelago Client</title>
+    <link>https://mods.vintagestory.at/show/mod/6277</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6277#6277</guid>
+    <pubDate>Tue, 07 Jul 2026 20:40:04 -0000</pubDate>
+    <description>A simple integration of Vintage Story with Archipelago Multiworld Randomizer.</description>
+  </item>
+  <item>
+    <title>MultiClass Reborn</title>
+    <link>https://mods.vintagestory.at/show/mod/multiclassreborn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/multiclassreborn#8801</guid>
+    <pubDate>Tue, 07 Jul 2026 20:19:42 -0000</pubDate>
+    <description>A replacement for Multiclass, fully backwards compatible allowing multiple classes</description>
+  </item>
   <item>
     <title>Rudiments</title>
     <link>https://mods.vintagestory.at/show/mod/9305</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dragoniapatch#5896</guid>
     <pubDate>Tue, 07 Jul 2026 15:28:06 -0000</pubDate>
     <description>Меняет генерацию железа и добавляет новый крафт льняного шпагата</description>
-  </item>
-  <item>
-    <title>Dragonia Translations</title>
-    <link>https://mods.vintagestory.at/show/mod/10016</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10016#10016</guid>
-    <pubDate>Tue, 07 Jul 2026 15:26:30 -0000</pubDate>
-    <description>Переводы и отредактированные переводы под стиль сервера. </description>
-  </item>
-  <item>
-    <title>socks_rmtweak</title>
-    <link>https://mods.vintagestory.at/show/mod/10111</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10111#10111</guid>
-    <pubDate>Tue, 07 Jul 2026 15:25:43 -0000</pubDate>
-    <description>tweak to rustmagic that simplifies crafting</description>
-  </item>
-  <item>
-    <title>Hardtack Bread</title>
-    <link>https://mods.vintagestory.at/show/mod/hardtackbread</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hardtackbread#10109</guid>
-    <pubDate>Tue, 07 Jul 2026 15:03:25 -0000</pubDate>
-    <description>Dry, salty, very long-lasting bread. Needs to be softened to eat. Includes two historical dishes.</description>
-  </item>
-  <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Tue, 07 Jul 2026 14:38:20 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
-  </item>
-  <item>
-    <title>Firearms Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10015</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10015#10015</guid>
-    <pubDate>Tue, 07 Jul 2026 14:17:18 -0000</pubDate>
-    <description>Changes the musket to deal equivalent damage to the Windlass with steel bolts.</description>
-  </item>
-  <item>
-    <title>IRDP's Wet Crops Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/9590</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9590#9590</guid>
-    <pubDate>Tue, 07 Jul 2026 13:49:04 -0000</pubDate>
-    <description>Adding a few new moisture-heavy crops to the game. Compat with Paddy Fields.</description>
   </item>
 </channel>
 </rss>
