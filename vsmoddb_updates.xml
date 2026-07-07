@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 07 Jul 2026 11:53:12 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 07 Jul 2026 14:42:11 +0000</lastBuildDate>
+  <item>
+    <title>SheyderMod</title>
+    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
+    <pubDate>Tue, 07 Jul 2026 14:38:36 -0000</pubDate>
+    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
+  </item>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Tue, 07 Jul 2026 14:38:20 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
+  <item>
+    <title>Firearms Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10015</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10015#10015</guid>
+    <pubDate>Tue, 07 Jul 2026 14:17:18 -0000</pubDate>
+    <description>Changes the musket to deal equivalent damage to the Windlass with steel bolts.</description>
+  </item>
+  <item>
+    <title>IRDP's Wet Crops Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/9590</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9590#9590</guid>
+    <pubDate>Tue, 07 Jul 2026 13:49:04 -0000</pubDate>
+    <description>Adding a few new moisture-heavy crops to the game. Compat with Paddy Fields.</description>
+  </item>
+  <item>
+    <title>Galeret</title>
+    <link>https://mods.vintagestory.at/show/mod/9970</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9970#9970</guid>
+    <pubDate>Tue, 07 Jul 2026 13:40:54 -0000</pubDate>
+    <description>A race of cat people based on kahjit</description>
+  </item>
+  <item>
+    <title>Optimum</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Tue, 07 Jul 2026 13:27:50 -0000</pubDate>
+    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
+  </item>
+  <item>
+    <title>Double Beds</title>
+    <link>https://mods.vintagestory.at/show/mod/doublebeds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/doublebeds#9526</guid>
+    <pubDate>Tue, 07 Jul 2026 12:47:52 -0000</pubDate>
+    <description>Allows combining 2 beds of the same type in the crafting grid to obtain a double bed. </description>
+  </item>
+  <item>
+    <title>Table Expansion</title>
+    <link>https://mods.vintagestory.at/show/mod/tableexpansion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tableexpansion#9837</guid>
+    <pubDate>Tue, 07 Jul 2026 12:46:36 -0000</pubDate>
+    <description>Allows combining several identical tables in the crafting grid to build larger ones.</description>
+  </item>
+  <item>
+    <title>VSCN Language Pack Updater</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnlangpackupdater</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpackupdater#10107</guid>
+    <pubDate>Tue, 07 Jul 2026 12:39:19 -0000</pubDate>
+    <description>VSCN Language Pack Updater（汉化模组的更新器）</description>
+  </item>
+  <item>
+    <title>Equus: Medieval Horses</title>
+    <link>https://mods.vintagestory.at/show/mod/equusdestrier</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusdestrier#9959</guid>
+    <pubDate>Tue, 07 Jul 2026 12:39:06 -0000</pubDate>
+    <description>Adds a medieval warhorse to the game that can be purchased from a new horse trader</description>
+  </item>
+  <item>
+    <title>All The Stats</title>
+    <link>https://mods.vintagestory.at/show/mod/allthestats</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/allthestats#8757</guid>
+    <pubDate>Tue, 07 Jul 2026 12:19:20 -0000</pubDate>
+    <description>A dual-purpose library for players and mod creators interested in new stats for traits and recipes.</description>
+  </item>
+  <item>
+    <title>Alternative armor designs</title>
+    <link>https://mods.vintagestory.at/show/mod/5597</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5597#5597</guid>
+    <pubDate>Tue, 07 Jul 2026 12:08:22 -0000</pubDate>
+    <description>With this mod, you can make use of all vanilla armor designs for each respective armor pieces.</description>
+  </item>
   <item>
     <title>The Art Hoard</title>
     <link>https://mods.vintagestory.at/show/mod/thearthoard</link>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8950#8950</guid>
     <pubDate>Tue, 07 Jul 2026 03:33:36 -0000</pubDate>
     <description>Gives the player a lot more options for hair colors, should work with modded races.</description>
-  </item>
-  <item>
-    <title>Murlok Vintage Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/murlokvspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/murlokvspatch#5307</guid>
-    <pubDate>Tue, 07 Jul 2026 03:17:41 -0000</pubDate>
-    <description>Collection of tweaks for the Murlok server and playthrough.</description>
-  </item>
-  <item>
-    <title>Animalica - Body Tools &amp; Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicabtc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicabtc#9867</guid>
-    <pubDate>Tue, 07 Jul 2026 01:52:32 -0000</pubDate>
-    <description>Adds wearable claws, fangs, body tools, and animal classes for Fox, Wolf, and Hyena for now</description>
-  </item>
-  <item>
-    <title>Animalica Core</title>
-    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
-    <pubDate>Tue, 07 Jul 2026 01:49:21 -0000</pubDate>
-    <description>Core mod for playable animals. Does nothing on it's own</description>
-  </item>
-  <item>
-    <title>Deep Storage Chest (Hot Guy Edition)</title>
-    <link>https://mods.vintagestory.at/show/mod/hotguyedition</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hotguyedition#4192</guid>
-    <pubDate>Tue, 07 Jul 2026 01:13:23 -0000</pubDate>
-    <description>Based off of Lancer827's Deep Storage Mod. Changes the crafting recipe.</description>
-  </item>
-  <item>
-    <title>Bixo</title>
-    <link>https://mods.vintagestory.at/show/mod/bixo</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bixo#8058</guid>
-    <pubDate>Tue, 07 Jul 2026 00:45:37 -0000</pubDate>
-    <description>Creatures for Maltiez's Player Model Lib!</description>
-  </item>
-  <item>
-    <title>Seasoned Firewood (Redux)</title>
-    <link>https://mods.vintagestory.at/show/mod/seasonedfirewoodredux</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seasonedfirewoodredux#8029</guid>
-    <pubDate>Tue, 07 Jul 2026 00:41:51 -0000</pubDate>
-    <description>A faithful continuation of the original mod by Fearadach.</description>
-  </item>
-  <item>
-    <title>Cozy Pierzynas</title>
-    <link>https://mods.vintagestory.at/show/mod/10099</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10099#10099</guid>
-    <pubDate>Tue, 07 Jul 2026 00:40:28 -0000</pubDate>
-    <description>Adds new uses for feathers. Pillows and duvets in many colors.</description>
-  </item>
-  <item>
-    <title>Movable Rapid Water</title>
-    <link>https://mods.vintagestory.at/show/mod/10028</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10028#10028</guid>
-    <pubDate>Tue, 07 Jul 2026 00:29:47 -0000</pubDate>
-    <description>Allows you to pick up rapid water source blocks with a bucket.</description>
-  </item>
-  <item>
-    <title>Archipelago Client</title>
-    <link>https://mods.vintagestory.at/show/mod/6277</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6277#6277</guid>
-    <pubDate>Mon, 06 Jul 2026 23:28:24 -0000</pubDate>
-    <description>A simple integration of Vintage Story with Archipelago Multiworld Randomizer.</description>
-  </item>
-  <item>
-    <title>WOO Presents: Fantasy Crops</title>
-    <link>https://mods.vintagestory.at/show/mod/9100</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9100#9100</guid>
-    <pubDate>Mon, 06 Jul 2026 22:50:16 -0000</pubDate>
-    <description>Fantasy Crops catered to play on the Whispers of Oldwood, available for all.</description>
-  </item>
-  <item>
-    <title>Crucible Unlock</title>
-    <link>https://mods.vintagestory.at/show/mod/10097</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10097#10097</guid>
-    <pubDate>Mon, 06 Jul 2026 22:49:48 -0000</pubDate>
-    <description>Very simple. Unlocks the slots in the crucible for any item.</description>
-  </item>
-  <item>
-    <title>DesertWearPatch</title>
-    <link>https://mods.vintagestory.at/show/mod/desertpatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/desertpatch#10096</guid>
-    <pubDate>Mon, 06 Jul 2026 22:47:51 -0000</pubDate>
-    <description>Patches in recipes for DesertWear.</description>
   </item>
 </channel>
 </rss>
