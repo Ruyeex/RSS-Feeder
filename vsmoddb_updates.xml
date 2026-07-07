@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 07 Jul 2026 04:54:40 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 07 Jul 2026 08:25:12 +0000</lastBuildDate>
+  <item>
+    <title>Player Model lib</title>
+    <link>https://mods.vintagestory.at/show/mod/playermodellib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
+    <pubDate>Tue, 07 Jul 2026 08:22:47 -0000</pubDate>
+    <description>Library for adding new player races</description>
+  </item>
+  <item>
+    <title>Vulkan's Combat Overhaul Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/vulkancopatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vulkancopatches#10105</guid>
+    <pubDate>Tue, 07 Jul 2026 08:16:08 -0000</pubDate>
+    <description>Tweaks and Patches for some less popular features of Combat Overhaul</description>
+  </item>
+  <item>
+    <title>Meliora Meadows Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
+    <pubDate>Tue, 07 Jul 2026 07:17:11 -0000</pubDate>
+    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
+  </item>
+  <item>
+    <title>ecomachina x wildcraft</title>
+    <link>https://mods.vintagestory.at/show/mod/10104</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10104#10104</guid>
+    <pubDate>Tue, 07 Jul 2026 07:15:33 -0000</pubDate>
+    <description>makes most trees from wildcrafttrees work with ecomachina </description>
+  </item>
+  <item>
+    <title>C&amp;N Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/canclaims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canclaims#589</guid>
+    <pubDate>Tue, 07 Jul 2026 05:39:30 -0000</pubDate>
+    <description>Land protection mod.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Tue, 07 Jul 2026 05:17:53 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
   <item>
     <title>Roleplay Character Creator</title>
     <link>https://mods.vintagestory.at/show/mod/rpcharcreator</link>
@@ -118,13 +160,6 @@
     <description>Greatly increases the threat the elements pose, blizzards, hurricanes, monsoons. Get ready!</description>
   </item>
   <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Mon, 06 Jul 2026 22:58:57 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
     <title>WOO Presents: Fantasy Crops</title>
     <link>https://mods.vintagestory.at/show/mod/9100</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9100#9100</guid>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/overhaulliblegacycompat#8401</guid>
     <pubDate>Mon, 06 Jul 2026 22:05:26 -0000</pubDate>
     <description>Compat for firearms, crossbows, combatoverhaul</description>
-  </item>
-  <item>
-    <title>BetterEr Prospecting</title>
-    <link>https://mods.vintagestory.at/show/mod/bettererprospecting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettererprospecting#4916</guid>
-    <pubDate>Mon, 06 Jul 2026 20:55:34 -0000</pubDate>
-    <description>Altered prospecting experience with focus on reducing randomness</description>
-  </item>
-  <item>
-    <title>GlobalSRVCore</title>
-    <link>https://mods.vintagestory.at/show/mod/globalsrvcore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/globalsrvcore#6670</guid>
-    <pubDate>Mon, 06 Jul 2026 20:12:23 -0000</pubDate>
-    <description>A collection of modified and altered mods for the GlobalSRV project server.</description>
-  </item>
-  <item>
-    <title>RequiresTraitFix</title>
-    <link>https://mods.vintagestory.at/show/mod/10094</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10094#10094</guid>
-    <pubDate>Mon, 06 Jul 2026 20:04:18 -0000</pubDate>
-    <description>Fixes the requiresTrait recipe property never being synced for non-grid recipes</description>
-  </item>
-  <item>
-    <title>Eidolon Unchained</title>
-    <link>https://mods.vintagestory.at/show/mod/eidolon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eidolon#7329</guid>
-    <pubDate>Mon, 06 Jul 2026 20:03:30 -0000</pubDate>
-    <description>Adds a walking Eidolon with multiple devastating attacks.</description>
-  </item>
-  <item>
-    <title>Atlas</title>
-    <link>https://mods.vintagestory.at/show/mod/atlas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
-    <pubDate>Mon, 06 Jul 2026 19:55:56 -0000</pubDate>
-    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
   </item>
 </channel>
 </rss>
