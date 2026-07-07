@@ -4,13 +4,69 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 06 Jul 2026 22:17:32 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 07 Jul 2026 00:10:58 +0000</lastBuildDate>
   <item>
     <title>Archipelago Client</title>
     <link>https://mods.vintagestory.at/show/mod/6277</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6277#6277</guid>
-    <pubDate>Mon, 06 Jul 2026 22:16:43 -0000</pubDate>
+    <pubDate>Mon, 06 Jul 2026 23:28:24 -0000</pubDate>
     <description>A simple integration of Vintage Story with Archipelago Multiworld Randomizer.</description>
+  </item>
+  <item>
+    <title>Extreme Weathers</title>
+    <link>https://mods.vintagestory.at/show/mod/10098</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
+    <pubDate>Mon, 06 Jul 2026 23:07:26 -0000</pubDate>
+    <description>Greatly increases the threat the elements pose, blizzards, hurricanes, monsoons. Get ready!</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Mon, 06 Jul 2026 22:58:57 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>WOO Presents: Fantasy Crops</title>
+    <link>https://mods.vintagestory.at/show/mod/9100</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9100#9100</guid>
+    <pubDate>Mon, 06 Jul 2026 22:50:16 -0000</pubDate>
+    <description>Fantasy Crops catered to play on the Whispers of Oldwood, available for all.</description>
+  </item>
+  <item>
+    <title>Crucible Unlock</title>
+    <link>https://mods.vintagestory.at/show/mod/10097</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10097#10097</guid>
+    <pubDate>Mon, 06 Jul 2026 22:49:48 -0000</pubDate>
+    <description>Very simple. Unlocks the slots in the crucible for any item.</description>
+  </item>
+  <item>
+    <title>DesertWearPatch</title>
+    <link>https://mods.vintagestory.at/show/mod/desertpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/desertpatch#10096</guid>
+    <pubDate>Mon, 06 Jul 2026 22:47:51 -0000</pubDate>
+    <description>Patches in recipes for DesertWear.</description>
+  </item>
+  <item>
+    <title>WOO³</title>
+    <link>https://mods.vintagestory.at/show/mod/8477</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8477#8477</guid>
+    <pubDate>Mon, 06 Jul 2026 22:44:59 -0000</pubDate>
+    <description>A modpack that contains custom content and server tweaks for the Whispers of Oldwood season 3.</description>
+  </item>
+  <item>
+    <title>WeatherStory</title>
+    <link>https://mods.vintagestory.at/show/mod/10083</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10083#10083</guid>
+    <pubDate>Mon, 06 Jul 2026 22:44:50 -0000</pubDate>
+    <description>static barometric orographic directional wind/precipitation/fire sim via bands, seasons, hemispheres</description>
+  </item>
+  <item>
+    <title>Chunk Loader</title>
+    <link>https://mods.vintagestory.at/show/mod/10039</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10039#10039</guid>
+    <pubDate>Mon, 06 Jul 2026 22:41:25 -0000</pubDate>
+    <description>Allows players to keep chunks active when far away via customizable chat commands.</description>
   </item>
   <item>
     <title>Quivers and Sheaths Fork</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/prospectorsdispatch#9929</guid>
     <pubDate>Mon, 06 Jul 2026 17:33:07 -0000</pubDate>
     <description>Stop aimlessly wandering the wilderness searching for that resource you need.</description>
-  </item>
-  <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Mon, 06 Jul 2026 17:20:39 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
-    <title>WeatherStory</title>
-    <link>https://mods.vintagestory.at/show/mod/10083</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10083#10083</guid>
-    <pubDate>Mon, 06 Jul 2026 17:19:19 -0000</pubDate>
-    <description>static barometric orographic directional wind/precipitation/fire sim via bands, seasons, hemispheres</description>
-  </item>
-  <item>
-    <title>CollapseStory</title>
-    <link>https://mods.vintagestory.at/show/mod/7776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
-    <pubDate>Mon, 06 Jul 2026 17:18:58 -0000</pubDate>
-    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
-  </item>
-  <item>
-    <title>Mechanical Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/mechanicalfix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mechanicalfix#8303</guid>
-    <pubDate>Mon, 06 Jul 2026 17:14:57 -0000</pubDate>
-    <description>A server-side fix for mechanical networks that reduces the risk of freezes and errors.</description>
-  </item>
-  <item>
-    <title>Overlap Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/overlapclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/overlapclaims#8304</guid>
-    <pubDate>Mon, 06 Jul 2026 17:14:53 -0000</pubDate>
-    <description>A server-side mod that allows overlapping claims and makes nested claim management more flexible.</description>
-  </item>
-  <item>
-    <title>Forest Regeneration</title>
-    <link>https://mods.vintagestory.at/show/mod/forestregeneration</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/forestregeneration#8305</guid>
-    <pubDate>Mon, 06 Jul 2026 17:14:47 -0000</pubDate>
-    <description>A server-side mod that gradually restores cut-down forests within their original natural boundaries.</description>
-  </item>
-  <item>
-    <title>Wapiti Flute Extend</title>
-    <link>https://mods.vintagestory.at/show/mod/wapitifluteextend</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wapitifluteextend#8306</guid>
-    <pubDate>Mon, 06 Jul 2026 17:14:40 -0000</pubDate>
-    <description>A server-side flute extension for reliably recalling tamed wapiti even from unloaded chunks.</description>
-  </item>
-  <item>
-    <title>VS Exporter</title>
-    <link>https://mods.vintagestory.at/show/mod/vsexporter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsexporter#8652</guid>
-    <pubDate>Mon, 06 Jul 2026 17:14:31 -0000</pubDate>
-    <description>VS Exporter is a server-side Vintage Story mod that exposes server metrics over HTTP for Prometheus </description>
   </item>
 </channel>
 </rss>
