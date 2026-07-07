@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 07 Jul 2026 08:25:12 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 07 Jul 2026 11:53:12 +0000</lastBuildDate>
+  <item>
+    <title>The Art Hoard</title>
+    <link>https://mods.vintagestory.at/show/mod/thearthoard</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thearthoard#4579</guid>
+    <pubDate>Tue, 07 Jul 2026 10:58:27 -0000</pubDate>
+    <description>Adds new paintigns to the game, some craftable, others sold by merchants.</description>
+  </item>
+  <item>
+    <title>Achievements</title>
+    <link>https://mods.vintagestory.at/show/mod/achievements</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/achievements#8202</guid>
+    <pubDate>Tue, 07 Jul 2026 10:43:21 -0000</pubDate>
+    <description>Adds vanilla, lore, AllClasses, Hod and Primitive Survival Achievements and random rewards</description>
+  </item>
+  <item>
+    <title>Extreme Weathers [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/10098</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
+    <pubDate>Tue, 07 Jul 2026 10:13:16 -0000</pubDate>
+    <description>Greatly increases the threat the elements pose, blizzards, hurricanes, monsoons. Get ready!</description>
+  </item>
+  <item>
+    <title>Downed</title>
+    <link>https://mods.vintagestory.at/show/mod/downed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
+    <pubDate>Tue, 07 Jul 2026 09:56:43 -0000</pubDate>
+    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
+  </item>
+  <item>
+    <title>ecomachina x wildcraft</title>
+    <link>https://mods.vintagestory.at/show/mod/10104</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10104#10104</guid>
+    <pubDate>Tue, 07 Jul 2026 09:45:15 -0000</pubDate>
+    <description>makes most trees from wildcrafttrees work with ecomachina </description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Tue, 07 Jul 2026 09:33:09 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Emotes</title>
+    <link>https://mods.vintagestory.at/show/mod/emotes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/emotes#8235</guid>
+    <pubDate>Tue, 07 Jul 2026 08:54:45 -0000</pubDate>
+    <description>Adds more custom emotes to the game.</description>
+  </item>
   <item>
     <title>Player Model lib</title>
     <link>https://mods.vintagestory.at/show/mod/playermodellib</link>
@@ -25,13 +74,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
     <pubDate>Tue, 07 Jul 2026 07:17:11 -0000</pubDate>
     <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
-  </item>
-  <item>
-    <title>ecomachina x wildcraft</title>
-    <link>https://mods.vintagestory.at/show/mod/10104</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10104#10104</guid>
-    <pubDate>Tue, 07 Jul 2026 07:15:33 -0000</pubDate>
-    <description>makes most trees from wildcrafttrees work with ecomachina </description>
   </item>
   <item>
     <title>C&amp;N Claims</title>
@@ -153,13 +195,6 @@
     <description>A simple integration of Vintage Story with Archipelago Multiworld Randomizer.</description>
   </item>
   <item>
-    <title>Extreme Weathers</title>
-    <link>https://mods.vintagestory.at/show/mod/10098</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
-    <pubDate>Mon, 06 Jul 2026 23:07:26 -0000</pubDate>
-    <description>Greatly increases the threat the elements pose, blizzards, hurricanes, monsoons. Get ready!</description>
-  </item>
-  <item>
     <title>WOO Presents: Fantasy Crops</title>
     <link>https://mods.vintagestory.at/show/mod/9100</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9100#9100</guid>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/desertpatch#10096</guid>
     <pubDate>Mon, 06 Jul 2026 22:47:51 -0000</pubDate>
     <description>Patches in recipes for DesertWear.</description>
-  </item>
-  <item>
-    <title>WOO³</title>
-    <link>https://mods.vintagestory.at/show/mod/8477</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8477#8477</guid>
-    <pubDate>Mon, 06 Jul 2026 22:44:59 -0000</pubDate>
-    <description>A modpack that contains custom content and server tweaks for the Whispers of Oldwood season 3.</description>
-  </item>
-  <item>
-    <title>WeatherStory</title>
-    <link>https://mods.vintagestory.at/show/mod/10083</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10083#10083</guid>
-    <pubDate>Mon, 06 Jul 2026 22:44:50 -0000</pubDate>
-    <description>static barometric orographic directional wind/precipitation/fire sim via bands, seasons, hemispheres</description>
-  </item>
-  <item>
-    <title>Chunk Loader</title>
-    <link>https://mods.vintagestory.at/show/mod/10039</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10039#10039</guid>
-    <pubDate>Mon, 06 Jul 2026 22:41:25 -0000</pubDate>
-    <description>Allows players to keep chunks active when far away via customizable chat commands.</description>
-  </item>
-  <item>
-    <title>Quivers and Sheaths Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/quiversfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/quiversfork#8410</guid>
-    <pubDate>Mon, 06 Jul 2026 22:05:49 -0000</pubDate>
-    <description>1.22 Fork</description>
-  </item>
-  <item>
-    <title>Overhaul lib legacy compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/overhaulliblegacycompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/overhaulliblegacycompat#8401</guid>
-    <pubDate>Mon, 06 Jul 2026 22:05:26 -0000</pubDate>
-    <description>Compat for firearms, crossbows, combatoverhaul</description>
   </item>
 </channel>
 </rss>
