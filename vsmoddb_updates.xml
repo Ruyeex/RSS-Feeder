@@ -4,7 +4,112 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 07 Jul 2026 17:18:52 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 07 Jul 2026 19:59:05 +0000</lastBuildDate>
+  <item>
+    <title>Rudiments</title>
+    <link>https://mods.vintagestory.at/show/mod/9305</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
+    <pubDate>Tue, 07 Jul 2026 19:34:28 -0000</pubDate>
+    <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
+  </item>
+  <item>
+    <title>Pico Recipes</title>
+    <link>https://mods.vintagestory.at/show/mod/10112</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10112#10112</guid>
+    <pubDate>Tue, 07 Jul 2026 19:23:06 -0000</pubDate>
+    <description>A QoL recipe mod (still in developement)</description>
+  </item>
+  <item>
+    <title>Atlas</title>
+    <link>https://mods.vintagestory.at/show/mod/atlas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
+    <pubDate>Tue, 07 Jul 2026 19:20:50 -0000</pubDate>
+    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
+  </item>
+  <item>
+    <title>Trait Acquirer Modded Class Support</title>
+    <link>https://mods.vintagestory.at/show/mod/6266</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6266#6266</guid>
+    <pubDate>Tue, 07 Jul 2026 18:56:37 -0000</pubDate>
+    <description>Rewritten Trait Acquirer to allow all modded classes</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Tue, 07 Jul 2026 18:45:44 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Craft-a-Bell</title>
+    <link>https://mods.vintagestory.at/show/mod/craftabell</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/craftabell#8673</guid>
+    <pubDate>Tue, 07 Jul 2026 18:32:06 -0000</pubDate>
+    <description>Craftable Fren that can alert you to nearby enemies, times of day, and hold messages.</description>
+  </item>
+  <item>
+    <title>More animations</title>
+    <link>https://mods.vintagestory.at/show/mod/mefimations</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mefimations#9963</guid>
+    <pubDate>Tue, 07 Jul 2026 18:17:57 -0000</pubDate>
+    <description>Better body and face animations</description>
+  </item>
+  <item>
+    <title>Mirrors</title>
+    <link>https://mods.vintagestory.at/show/mod/mirrors</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mirrors#10115</guid>
+    <pubDate>Tue, 07 Jul 2026 18:17:57 -0000</pubDate>
+    <description>Adds "simple" mirror blocks to the game</description>
+  </item>
+  <item>
+    <title>Vanilla More Molds 2.1.0</title>
+    <link>https://mods.vintagestory.at/show/mod/vanillamoremolds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillamoremolds#2948</guid>
+    <pubDate>Tue, 07 Jul 2026 18:16:52 -0000</pubDate>
+    <description>Adds new molds while staying true to the spirit and mechanics of the base game!</description>
+  </item>
+  <item>
+    <title>SheyderMod</title>
+    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
+    <pubDate>Tue, 07 Jul 2026 18:08:01 -0000</pubDate>
+    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
+  </item>
+  <item>
+    <title>Renderer Mangler</title>
+    <link>https://mods.vintagestory.at/show/mod/renderermangler</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/renderermangler#10114</guid>
+    <pubDate>Tue, 07 Jul 2026 18:06:12 -0000</pubDate>
+    <description>Custom cubemap renderer with different projections that allows up to 360 FOV</description>
+  </item>
+  <item>
+    <title>Quartermaster</title>
+    <link>https://mods.vintagestory.at/show/mod/9908</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9908#9908</guid>
+    <pubDate>Tue, 07 Jul 2026 18:02:34 -0000</pubDate>
+    <description>Craft a Quartermaster's Desk that acts as a remote terminal for every container around it.</description>
+  </item>
+  <item>
+    <title>Double Beds</title>
+    <link>https://mods.vintagestory.at/show/mod/doublebeds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/doublebeds#9526</guid>
+    <pubDate>Tue, 07 Jul 2026 17:34:51 -0000</pubDate>
+    <description>Allows combining 2 beds of the same type in the crafting grid to obtain a double bed. </description>
+  </item>
+  <item>
+    <title>Quick Find</title>
+    <link>https://mods.vintagestory.at/show/mod/8197</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8197#8197</guid>
+    <pubDate>Tue, 07 Jul 2026 17:32:31 -0000</pubDate>
+    <description>Allows you to search for items in open inventories.</description>
+  </item>
+  <item>
+    <title>Cozy Pierzynas</title>
+    <link>https://mods.vintagestory.at/show/mod/10099</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10099#10099</guid>
+    <pubDate>Tue, 07 Jul 2026 17:27:13 -0000</pubDate>
+    <description>Adds new uses for feathers. Pillows and duvets in many colors.</description>
+  </item>
   <item>
     <title>Crockwrights of Eriador</title>
     <link>https://mods.vintagestory.at/show/mod/crockwrights</link>
@@ -46,13 +151,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/limestonescanner#7742</guid>
     <pubDate>Tue, 07 Jul 2026 16:20:17 -0000</pubDate>
     <description>Scans for Stones that can be grinded into Lime within 100 Blocks radius</description>
-  </item>
-  <item>
-    <title>More animations</title>
-    <link>https://mods.vintagestory.at/show/mod/mefimations</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mefimations#9963</guid>
-    <pubDate>Tue, 07 Jul 2026 16:01:06 -0000</pubDate>
-    <description>Better body and face animations</description>
   </item>
   <item>
     <title>Vintage Story Chinese Language Pack</title>
@@ -97,13 +195,6 @@
     <description>Dry, salty, very long-lasting bread. Needs to be softened to eat. Includes two historical dishes.</description>
   </item>
   <item>
-    <title>SheyderMod</title>
-    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
-    <pubDate>Tue, 07 Jul 2026 14:38:36 -0000</pubDate>
-    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
-  </item>
-  <item>
     <title>Alchemy</title>
     <link>https://mods.vintagestory.at/show/mod/alchemy</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
@@ -123,97 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9590#9590</guid>
     <pubDate>Tue, 07 Jul 2026 13:49:04 -0000</pubDate>
     <description>Adding a few new moisture-heavy crops to the game. Compat with Paddy Fields.</description>
-  </item>
-  <item>
-    <title>Galeret</title>
-    <link>https://mods.vintagestory.at/show/mod/9970</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9970#9970</guid>
-    <pubDate>Tue, 07 Jul 2026 13:40:54 -0000</pubDate>
-    <description>A race of cat people based on kahjit</description>
-  </item>
-  <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Tue, 07 Jul 2026 13:27:50 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
-    <title>Double Beds</title>
-    <link>https://mods.vintagestory.at/show/mod/doublebeds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/doublebeds#9526</guid>
-    <pubDate>Tue, 07 Jul 2026 12:47:52 -0000</pubDate>
-    <description>Allows combining 2 beds of the same type in the crafting grid to obtain a double bed. </description>
-  </item>
-  <item>
-    <title>Table Expansion</title>
-    <link>https://mods.vintagestory.at/show/mod/tableexpansion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tableexpansion#9837</guid>
-    <pubDate>Tue, 07 Jul 2026 12:46:36 -0000</pubDate>
-    <description>Allows combining several identical tables in the crafting grid to build larger ones.</description>
-  </item>
-  <item>
-    <title>VSCN Language Pack Updater</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnlangpackupdater</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpackupdater#10107</guid>
-    <pubDate>Tue, 07 Jul 2026 12:39:19 -0000</pubDate>
-    <description>VSCN Language Pack Updater（汉化模组的更新器）</description>
-  </item>
-  <item>
-    <title>Equus: Medieval Horses</title>
-    <link>https://mods.vintagestory.at/show/mod/equusdestrier</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusdestrier#9959</guid>
-    <pubDate>Tue, 07 Jul 2026 12:39:06 -0000</pubDate>
-    <description>Adds a medieval warhorse to the game that can be purchased from a new horse trader</description>
-  </item>
-  <item>
-    <title>All The Stats</title>
-    <link>https://mods.vintagestory.at/show/mod/allthestats</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/allthestats#8757</guid>
-    <pubDate>Tue, 07 Jul 2026 12:19:20 -0000</pubDate>
-    <description>A dual-purpose library for players and mod creators interested in new stats for traits and recipes.</description>
-  </item>
-  <item>
-    <title>Alternative armor designs</title>
-    <link>https://mods.vintagestory.at/show/mod/5597</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5597#5597</guid>
-    <pubDate>Tue, 07 Jul 2026 12:08:22 -0000</pubDate>
-    <description>With this mod, you can make use of all vanilla armor designs for each respective armor pieces.</description>
-  </item>
-  <item>
-    <title>The Art Hoard</title>
-    <link>https://mods.vintagestory.at/show/mod/thearthoard</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thearthoard#4579</guid>
-    <pubDate>Tue, 07 Jul 2026 10:58:27 -0000</pubDate>
-    <description>Adds new paintigns to the game, some craftable, others sold by merchants.</description>
-  </item>
-  <item>
-    <title>Achievements</title>
-    <link>https://mods.vintagestory.at/show/mod/achievements</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/achievements#8202</guid>
-    <pubDate>Tue, 07 Jul 2026 10:43:21 -0000</pubDate>
-    <description>Adds vanilla, lore, AllClasses, Hod and Primitive Survival Achievements and random rewards</description>
-  </item>
-  <item>
-    <title>Extreme Weathers [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/10098</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
-    <pubDate>Tue, 07 Jul 2026 10:13:16 -0000</pubDate>
-    <description>Greatly increases the threat the elements pose, blizzards, hurricanes, monsoons. Get ready!</description>
-  </item>
-  <item>
-    <title>Downed</title>
-    <link>https://mods.vintagestory.at/show/mod/downed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
-    <pubDate>Tue, 07 Jul 2026 09:56:43 -0000</pubDate>
-    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
-  </item>
-  <item>
-    <title>ecomachina x wildcraft</title>
-    <link>https://mods.vintagestory.at/show/mod/10104</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10104#10104</guid>
-    <pubDate>Tue, 07 Jul 2026 09:45:15 -0000</pubDate>
-    <description>makes most trees from wildcrafttrees work with ecomachina </description>
   </item>
 </channel>
 </rss>
