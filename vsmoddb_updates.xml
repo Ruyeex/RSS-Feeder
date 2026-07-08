@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 08 Jul 2026 02:55:15 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 05:55:00 +0000</lastBuildDate>
+  <item>
+    <title>VintageReborn Server Tweak</title>
+    <link>https://mods.vintagestory.at/show/mod/10126</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10126#10126</guid>
+    <pubDate>Wed, 08 Jul 2026 05:47:07 -0000</pubDate>
+    <description>VSReborn use only</description>
+  </item>
+  <item>
+    <title>Mad Crow Glider</title>
+    <link>https://mods.vintagestory.at/show/mod/7449</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7449#7449</guid>
+    <pubDate>Wed, 08 Jul 2026 05:16:23 -0000</pubDate>
+    <description>A Gliders made to have the appearence of a Tobias's Mad Crow wings and Color Variants for Gliders</description>
+  </item>
+  <item>
+    <title>Rustwall</title>
+    <link>https://mods.vintagestory.at/show/mod/rustwall</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustwall#6183</guid>
+    <pubDate>Wed, 08 Jul 2026 05:15:57 -0000</pubDate>
+    <description>Overhaul mod intended for use in multiplayer servers.</description>
+  </item>
+  <item>
+    <title>ReelMower</title>
+    <link>https://mods.vintagestory.at/show/mod/reelmower</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/reelmower#9653</guid>
+    <pubDate>Wed, 08 Jul 2026 05:11:31 -0000</pubDate>
+    <description>Push reel mower. Cut grass, Multiplayer in testing</description>
+  </item>
+  <item>
+    <title>wildherbfix</title>
+    <link>https://mods.vintagestory.at/show/mod/10125</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10125#10125</guid>
+    <pubDate>Wed, 08 Jul 2026 05:00:27 -0000</pubDate>
+    <description>server side tweak</description>
+  </item>
+  <item>
+    <title>WOO Presents: Fantasy Crops</title>
+    <link>https://mods.vintagestory.at/show/mod/9100</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9100#9100</guid>
+    <pubDate>Wed, 08 Jul 2026 04:36:02 -0000</pubDate>
+    <description>Fantasy Crops catered to play on the Whispers of Oldwood, available for all.</description>
+  </item>
+  <item>
+    <title>Vintage Story Chinese Language Pack</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
+    <pubDate>Wed, 08 Jul 2026 03:56:22 -0000</pubDate>
+    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
+  </item>
   <item>
     <title>Pepper's Clutter and Decor</title>
     <link>https://mods.vintagestory.at/show/mod/9525</link>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6277#6277</guid>
     <pubDate>Tue, 07 Jul 2026 20:40:04 -0000</pubDate>
     <description>A simple integration of Vintage Story with Archipelago Multiworld Randomizer.</description>
-  </item>
-  <item>
-    <title>MultiClass Reborn</title>
-    <link>https://mods.vintagestory.at/show/mod/multiclassreborn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/multiclassreborn#8801</guid>
-    <pubDate>Tue, 07 Jul 2026 20:19:42 -0000</pubDate>
-    <description>A replacement for Multiclass, fully backwards compatible allowing multiple classes</description>
-  </item>
-  <item>
-    <title>Atlas</title>
-    <link>https://mods.vintagestory.at/show/mod/atlas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
-    <pubDate>Tue, 07 Jul 2026 19:20:50 -0000</pubDate>
-    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
-  </item>
-  <item>
-    <title>Trait Acquirer Modded Class Support</title>
-    <link>https://mods.vintagestory.at/show/mod/6266</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6266#6266</guid>
-    <pubDate>Tue, 07 Jul 2026 18:56:37 -0000</pubDate>
-    <description>Rewritten Trait Acquirer to allow all modded classes</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Tue, 07 Jul 2026 18:45:44 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>Craft-a-Bell</title>
-    <link>https://mods.vintagestory.at/show/mod/craftabell</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/craftabell#8673</guid>
-    <pubDate>Tue, 07 Jul 2026 18:32:06 -0000</pubDate>
-    <description>Craftable Fren that can alert you to nearby enemies, times of day, and hold messages.</description>
-  </item>
-  <item>
-    <title>More animations</title>
-    <link>https://mods.vintagestory.at/show/mod/mefimations</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mefimations#9963</guid>
-    <pubDate>Tue, 07 Jul 2026 18:17:57 -0000</pubDate>
-    <description>Better body and face animations</description>
-  </item>
-  <item>
-    <title>Mirrors</title>
-    <link>https://mods.vintagestory.at/show/mod/mirrors</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mirrors#10115</guid>
-    <pubDate>Tue, 07 Jul 2026 18:17:57 -0000</pubDate>
-    <description>Adds "simple" mirror blocks to the game</description>
   </item>
 </channel>
 </rss>
