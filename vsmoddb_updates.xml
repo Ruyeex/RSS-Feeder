@@ -4,13 +4,90 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 08 Jul 2026 18:20:19 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 20:22:56 +0000</lastBuildDate>
+  <item>
+    <title>Riley's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Wed, 08 Jul 2026 20:18:03 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+  </item>
+  <item>
+    <title>Deciduous Trees</title>
+    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
+    <pubDate>Wed, 08 Jul 2026 19:50:11 -0000</pubDate>
+    <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
+  </item>
+  <item>
+    <title>Leaf Litter</title>
+    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
+    <pubDate>Wed, 08 Jul 2026 19:47:53 -0000</pubDate>
+    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Wed, 08 Jul 2026 19:40:03 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Traveling Bells</title>
+    <link>https://mods.vintagestory.at/show/mod/9882</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9882#9882</guid>
+    <pubDate>Wed, 08 Jul 2026 19:28:18 -0000</pubDate>
+    <description>Teleport Between Linked Bells. Strike With Mallet To Set Arrival Point and Teleport. (Comes at Cost)</description>
+  </item>
+  <item>
+    <title>Advanced Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/advancedchat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedchat#10095</guid>
+    <pubDate>Wed, 08 Jul 2026 19:01:05 -0000</pubDate>
+    <description>A fully customizable, movable, resizable chat overlay for Vintage Story. Take control of your chat w</description>
+  </item>
+  <item>
+    <title>Laboror's Multi-Tools - Expanded Metals Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/10120</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10120#10120</guid>
+    <pubDate>Wed, 08 Jul 2026 18:54:01 -0000</pubDate>
+    <description>Adds metal variants to Laboror's Tools.</description>
+  </item>
+  <item>
+    <title>Spaturno and Trini's Secure Shelter</title>
+    <link>https://mods.vintagestory.at/show/mod/9692</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9692#9692</guid>
+    <pubDate>Wed, 08 Jul 2026 18:44:53 -0000</pubDate>
+    <description>Shared extradimensional cottage inspired from D&amp;D spell Leomund's Secure Shelter.</description>
+  </item>
+  <item>
+    <title>DesertWearPatch</title>
+    <link>https://mods.vintagestory.at/show/mod/desertpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/desertpatch#10096</guid>
+    <pubDate>Wed, 08 Jul 2026 18:36:36 -0000</pubDate>
+    <description>Patches in recipes for DesertWear.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Capreolinae</title>
+    <link>https://mods.vintagestory.at/show/mod/capreolinae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/capreolinae#1254</guid>
+    <pubDate>Wed, 08 Jul 2026 18:34:58 -0000</pubDate>
+    <description>A collection of New World deer from the Holocene.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Pantherinae</title>
+    <link>https://mods.vintagestory.at/show/mod/pantherinae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pantherinae#1125</guid>
+    <pubDate>Wed, 08 Jul 2026 18:33:58 -0000</pubDate>
+    <description>A collection of big cats from human history.</description>
+  </item>
   <item>
     <title>Earthfed - More Fertilizers</title>
     <link>https://mods.vintagestory.at/show/mod/earthfed</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/earthfed#9238</guid>
     <pubDate>Wed, 08 Jul 2026 18:04:20 -0000</pubDate>
-    <description>Realistic fertilizers made from feathers, seaweed, and blood</description>
+    <description>Realistic fertilizers made from feathers, seaweed, fish, and blood</description>
   </item>
   <item>
     <title>Rabbit Taming</title>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
     <pubDate>Wed, 08 Jul 2026 14:25:22 -0000</pubDate>
     <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
-    <title>Salty´s Immersive: Lanterns</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivelanterns</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivelanterns#5052</guid>
-    <pubDate>Wed, 08 Jul 2026 13:49:15 -0000</pubDate>
-    <description>Lanterns that flicker, react to movement and wind, swinging and make noise.</description>
-  </item>
-  <item>
-    <title>Downed</title>
-    <link>https://mods.vintagestory.at/show/mod/downed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
-    <pubDate>Wed, 08 Jul 2026 13:42:17 -0000</pubDate>
-    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
-  </item>
-  <item>
-    <title>Better Honey in Meals</title>
-    <link>https://mods.vintagestory.at/show/mod/betterhoneyinmeals</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhoneyinmeals#5475</guid>
-    <pubDate>Wed, 08 Jul 2026 13:39:04 -0000</pubDate>
-    <description>Makes honey give the same amount of satiety in a meal as most fruits, but not as much as breadfruit.</description>
-  </item>
-  <item>
-    <title>Murlok Vintage Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/murlokvspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/murlokvspatch#5307</guid>
-    <pubDate>Wed, 08 Jul 2026 13:27:04 -0000</pubDate>
-    <description>Collection of tweaks for the Murlok server and playthrough.</description>
-  </item>
-  <item>
-    <title>lhgui</title>
-    <link>https://mods.vintagestory.at/show/mod/lhgui</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lhgui#4960</guid>
-    <pubDate>Wed, 08 Jul 2026 13:15:31 -0000</pubDate>
-    <description>GUI mod for lasthearth server</description>
-  </item>
-  <item>
-    <title>Builder's Inventory</title>
-    <link>https://mods.vintagestory.at/show/mod/10130</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10130#10130</guid>
-    <pubDate>Wed, 08 Jul 2026 13:10:51 -0000</pubDate>
-    <description>A window with tabs that gives you access to chests you tag. </description>
-  </item>
-  <item>
-    <title>Charsel Item</title>
-    <link>https://mods.vintagestory.at/show/mod/charselitem</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/charselitem#3701</guid>
-    <pubDate>Wed, 08 Jul 2026 13:10:48 -0000</pubDate>
-    <description>Add item, that can't be crafted. Item allow player change class.</description>
-  </item>
-  <item>
-    <title>Human mod fork (For Lost land Server)</title>
-    <link>https://mods.vintagestory.at/show/mod/lostlandclassesss</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lostlandclassesss#8896</guid>
-    <pubDate>Wed, 08 Jul 2026 12:15:56 -0000</pubDate>
-    <description>Hi! This is a modification to the humans mod by Maltiez, for the Lost - Lands server</description>
-  </item>
-  <item>
-    <title>xSkills Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7605</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
-    <pubDate>Wed, 08 Jul 2026 11:18:47 -0000</pubDate>
-    <description>RPG-style skill system with abilities, perks, and progression.</description>
-  </item>
-  <item>
-    <title>Vanilla Fantasy Overhaul - Lore Mobs</title>
-    <link>https://mods.vintagestory.at/show/mod/vfolm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vfolm#8356</guid>
-    <pubDate>Wed, 08 Jul 2026 10:38:59 -0000</pubDate>
-    <description>A remodling of the Lore Mobs to make them fantastical. Not Finished.</description>
-  </item>
-  <item>
-    <title>Currency Exchange</title>
-    <link>https://mods.vintagestory.at/show/mod/9195</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9195#9195</guid>
-    <pubDate>Wed, 08 Jul 2026 10:01:22 -0000</pubDate>
-    <description>A light-weight currency exchange addon for the Coinage Mod</description>
   </item>
 </channel>
 </rss>
