@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 08 Jul 2026 08:33:49 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 11:07:43 +0000</lastBuildDate>
+  <item>
+    <title>Optimum</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Wed, 08 Jul 2026 10:57:21 -0000</pubDate>
+    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
+  </item>
+  <item>
+    <title>Vanilla Fantasy Overhaul - Lore Mobs</title>
+    <link>https://mods.vintagestory.at/show/mod/vfolm</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vfolm#8356</guid>
+    <pubDate>Wed, 08 Jul 2026 10:38:59 -0000</pubDate>
+    <description>A remodling of the Lore Mobs to make them fantastical. Not Finished.</description>
+  </item>
+  <item>
+    <title>Currency Exchange</title>
+    <link>https://mods.vintagestory.at/show/mod/9195</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9195#9195</guid>
+    <pubDate>Wed, 08 Jul 2026 10:01:22 -0000</pubDate>
+    <description>A light-weight currency exchange addon for the Coinage Mod</description>
+  </item>
+  <item>
+    <title>Underwater Horrors</title>
+    <link>https://mods.vintagestory.at/show/mod/7281</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7281#7281</guid>
+    <pubDate>Wed, 08 Jul 2026 09:42:46 -0000</pubDate>
+    <description>Adds nightmare sea monsters to Vintage Story (Sea Serpents, Kraken)</description>
+  </item>
+  <item>
+    <title>Extreme Weathers [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/10098</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
+    <pubDate>Wed, 08 Jul 2026 09:38:18 -0000</pubDate>
+    <description>Greatly increases the threat the elements pose, blizzards, hurricanes, monsoons. Get ready!</description>
+  </item>
+  <item>
+    <title>Food Preferences</title>
+    <link>https://mods.vintagestory.at/show/mod/8038</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8038#8038</guid>
+    <pubDate>Wed, 08 Jul 2026 09:31:53 -0000</pubDate>
+    <description>Adds a preference for foods that is personalized per world and per player</description>
+  </item>
+  <item>
+    <title>Alternative armor designs</title>
+    <link>https://mods.vintagestory.at/show/mod/5597</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5597#5597</guid>
+    <pubDate>Wed, 08 Jul 2026 09:10:12 -0000</pubDate>
+    <description>With this mod, you can make use of all vanilla armor designs for each respective armor pieces.</description>
+  </item>
+  <item>
+    <title>Unique Weapons</title>
+    <link>https://mods.vintagestory.at/show/mod/9746</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9746#9746</guid>
+    <pubDate>Wed, 08 Jul 2026 08:55:22 -0000</pubDate>
+    <description>Adds mostly Dark and Darker themed weapons to vintage story with custom models and textures</description>
+  </item>
+  <item>
+    <title>Tillerworks</title>
+    <link>https://mods.vintagestory.at/show/mod/10128</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10128#10128</guid>
+    <pubDate>Wed, 08 Jul 2026 08:42:40 -0000</pubDate>
+    <description>Drivable tractors and towable farming trailers with installable engines, wheels, and homemade fuel.</description>
+  </item>
   <item>
     <title>Greenscreen</title>
     <link>https://mods.vintagestory.at/show/mod/6632</link>
@@ -146,74 +209,11 @@
     <description>100% Certified Fresh Thunderlord walk animation</description>
   </item>
   <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Wed, 08 Jul 2026 01:25:55 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
     <title>Infinite Jump</title>
     <link>https://mods.vintagestory.at/show/mod/10048</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10048#10048</guid>
     <pubDate>Wed, 08 Jul 2026 01:07:01 -0000</pubDate>
     <description>This mod lets you jump like Kirby in Super Smash Bros, but Infinitely! It is a cheat mod.</description>
-  </item>
-  <item>
-    <title>Easy Fireclay</title>
-    <link>https://mods.vintagestory.at/show/mod/10121</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10121#10121</guid>
-    <pubDate>Wed, 08 Jul 2026 01:02:09 -0000</pubDate>
-    <description>Turn red or blue clay into a boat load of fireclay</description>
-  </item>
-  <item>
-    <title>Cozy Pierzynas</title>
-    <link>https://mods.vintagestory.at/show/mod/10099</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10099#10099</guid>
-    <pubDate>Wed, 08 Jul 2026 00:20:31 -0000</pubDate>
-    <description>Adds new uses for feathers. Pillows and duvets in many colors.</description>
-  </item>
-  <item>
-    <title>All The Stats</title>
-    <link>https://mods.vintagestory.at/show/mod/allthestats</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/allthestats#8757</guid>
-    <pubDate>Wed, 08 Jul 2026 00:16:37 -0000</pubDate>
-    <description>A dual-purpose library for players and mod creators interested in new stats for traits and recipes.</description>
-  </item>
-  <item>
-    <title>Pico Recipes</title>
-    <link>https://mods.vintagestory.at/show/mod/10112</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10112#10112</guid>
-    <pubDate>Wed, 08 Jul 2026 00:09:41 -0000</pubDate>
-    <description>A QoL recipe mod (still in developement)</description>
-  </item>
-  <item>
-    <title>JSCM Frozen Struggles</title>
-    <link>https://mods.vintagestory.at/show/mod/jscmfs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jscmfs#9992</guid>
-    <pubDate>Wed, 08 Jul 2026 00:05:56 -0000</pubDate>
-    <description>A new modpack for my girlfriend and I. Focused around a Sub-Artic playthrough</description>
-  </item>
-  <item>
-    <title>WOO Fantasy Additions</title>
-    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
-    <pubDate>Tue, 07 Jul 2026 23:43:03 -0000</pubDate>
-    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
-  </item>
-  <item>
-    <title>Rudiments</title>
-    <link>https://mods.vintagestory.at/show/mod/9305</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
-    <pubDate>Tue, 07 Jul 2026 23:23:43 -0000</pubDate>
-    <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
-  </item>
-  <item>
-    <title>Extreme Weathers [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/10098</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
-    <pubDate>Tue, 07 Jul 2026 22:35:32 -0000</pubDate>
-    <description>Greatly increases the threat the elements pose, blizzards, hurricanes, monsoons. Get ready!</description>
   </item>
 </channel>
 </rss>
