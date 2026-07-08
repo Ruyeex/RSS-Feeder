@@ -4,34 +4,76 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 08 Jul 2026 20:22:56 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 22:09:30 +0000</lastBuildDate>
   <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Wed, 08 Jul 2026 20:18:03 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+    <title>Roleplay Character Creator</title>
+    <link>https://mods.vintagestory.at/show/mod/rpcharcreator</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rpcharcreator#10074</guid>
+    <pubDate>Wed, 08 Jul 2026 21:37:49 -0000</pubDate>
+    <description>Classic choose-your-own-adventure style character creator for Vintage Story. Server authored!</description>
+  </item>
+  <item>
+    <title>Tillerworks</title>
+    <link>https://mods.vintagestory.at/show/mod/10128</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10128#10128</guid>
+    <pubDate>Wed, 08 Jul 2026 21:28:54 -0000</pubDate>
+    <description>Drivable tractors and towable farming trailers with installable engines, wheels, and homemade fuel.</description>
+  </item>
+  <item>
+    <title>Arcadia Monster Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/9626</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9626#9626</guid>
+    <pubDate>Wed, 08 Jul 2026 21:26:48 -0000</pubDate>
+    <description>Arcadia Monster Patch</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Wed, 08 Jul 2026 21:26:04 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>ArcadiaTraderPatch</title>
+    <link>https://mods.vintagestory.at/show/mod/9624</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9624#9624</guid>
+    <pubDate>Wed, 08 Jul 2026 21:24:05 -0000</pubDate>
+    <description>Trader patch</description>
+  </item>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Wed, 08 Jul 2026 20:58:59 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
+  <item>
+    <title>Aldi's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/aldiclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aldiclasses#5327</guid>
+    <pubDate>Wed, 08 Jul 2026 20:40:50 -0000</pubDate>
+    <description>An extremely stable, compatible and customizable classes mod!</description>
   </item>
   <item>
     <title>Deciduous Trees</title>
     <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Wed, 08 Jul 2026 19:50:11 -0000</pubDate>
+    <pubDate>Wed, 08 Jul 2026 20:33:50 -0000</pubDate>
     <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
   </item>
   <item>
     <title>Leaf Litter</title>
     <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
-    <pubDate>Wed, 08 Jul 2026 19:47:53 -0000</pubDate>
+    <pubDate>Wed, 08 Jul 2026 20:33:11 -0000</pubDate>
     <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
   </item>
   <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Wed, 08 Jul 2026 19:40:03 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+    <title>Riley's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Wed, 08 Jul 2026 20:18:03 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
   </item>
   <item>
     <title>Traveling Bells</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/terrainslabs#5751</guid>
     <pubDate>Wed, 08 Jul 2026 14:39:16 -0000</pubDate>
     <description>Don't jump. Just walk.</description>
-  </item>
-  <item>
-    <title>Ancestral Bliss Shaders</title>
-    <link>https://mods.vintagestory.at/show/mod/ancestralblissshaders</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancestralblissshaders#6110</guid>
-    <pubDate>Wed, 08 Jul 2026 14:38:54 -0000</pubDate>
-    <description>Shaders compatible with most GPUs</description>
-  </item>
-  <item>
-    <title>Place On Slabs</title>
-    <link>https://mods.vintagestory.at/show/mod/6459</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6459#6459</guid>
-    <pubDate>Wed, 08 Jul 2026 14:37:53 -0000</pubDate>
-    <description>Lets you place some stuff on slabs</description>
-  </item>
-  <item>
-    <title>Overhaul lib legacy compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/overhaulliblegacycompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/overhaulliblegacycompat#8401</guid>
-    <pubDate>Wed, 08 Jul 2026 14:34:05 -0000</pubDate>
-    <description>Compat for firearms, crossbows, combatoverhaul</description>
-  </item>
-  <item>
-    <title>Combat Overhaul Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/combatoverhaulforked</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/combatoverhaulforked#8415</guid>
-    <pubDate>Wed, 08 Jul 2026 14:33:44 -0000</pubDate>
-    <description>1.22 fork</description>
-  </item>
-  <item>
-    <title>JSCM Frozen Struggles</title>
-    <link>https://mods.vintagestory.at/show/mod/jscmfs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jscmfs#9992</guid>
-    <pubDate>Wed, 08 Jul 2026 14:29:24 -0000</pubDate>
-    <description>A new modpack for my girlfriend and I. Focused around a Sub-Artic playthrough</description>
-  </item>
-  <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Wed, 08 Jul 2026 14:25:22 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
   </item>
 </channel>
 </rss>
