@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 08 Jul 2026 11:07:43 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 14:20:09 +0000</lastBuildDate>
+  <item>
+    <title>Salty´s Immersive: Lanterns</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivelanterns</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivelanterns#5052</guid>
+    <pubDate>Wed, 08 Jul 2026 13:49:15 -0000</pubDate>
+    <description>Lanterns that flicker, react to movement and wind, swinging and make noise.</description>
+  </item>
+  <item>
+    <title>Downed</title>
+    <link>https://mods.vintagestory.at/show/mod/downed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
+    <pubDate>Wed, 08 Jul 2026 13:42:17 -0000</pubDate>
+    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
+  </item>
+  <item>
+    <title>Better Honey in Meals</title>
+    <link>https://mods.vintagestory.at/show/mod/betterhoneyinmeals</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhoneyinmeals#5475</guid>
+    <pubDate>Wed, 08 Jul 2026 13:39:04 -0000</pubDate>
+    <description>Makes honey give the same amount of satiety in a meal as most fruits, but not as much as breadfruit.</description>
+  </item>
+  <item>
+    <title>Murlok Vintage Server Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/murlokvspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/murlokvspatch#5307</guid>
+    <pubDate>Wed, 08 Jul 2026 13:27:04 -0000</pubDate>
+    <description>Collection of tweaks for the Murlok server and playthrough.</description>
+  </item>
+  <item>
+    <title>DonningTime</title>
+    <link>https://mods.vintagestory.at/show/mod/7472</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7472#7472</guid>
+    <pubDate>Wed, 08 Jul 2026 13:26:36 -0000</pubDate>
+    <description>Adds a configurable delay to the donning of armor (and optionally clothes)</description>
+  </item>
+  <item>
+    <title>lhgui</title>
+    <link>https://mods.vintagestory.at/show/mod/lhgui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lhgui#4960</guid>
+    <pubDate>Wed, 08 Jul 2026 13:15:31 -0000</pubDate>
+    <description>GUI mod for lasthearth server</description>
+  </item>
+  <item>
+    <title>Builder's Inventory</title>
+    <link>https://mods.vintagestory.at/show/mod/10130</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10130#10130</guid>
+    <pubDate>Wed, 08 Jul 2026 13:10:51 -0000</pubDate>
+    <description>A window with tabs that gives you access to chests you tag. </description>
+  </item>
+  <item>
+    <title>Charsel Item</title>
+    <link>https://mods.vintagestory.at/show/mod/charselitem</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/charselitem#3701</guid>
+    <pubDate>Wed, 08 Jul 2026 13:10:48 -0000</pubDate>
+    <description>Add item, that can't be crafted. Item allow player change class.</description>
+  </item>
+  <item>
+    <title>Human mod fork (For Lost land Server)</title>
+    <link>https://mods.vintagestory.at/show/mod/lostlandclassesss</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lostlandclassesss#8896</guid>
+    <pubDate>Wed, 08 Jul 2026 12:15:56 -0000</pubDate>
+    <description>Hi! This is a modification to the humans mod by Maltiez, for the Lost - Lands server</description>
+  </item>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Wed, 08 Jul 2026 11:18:47 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
   <item>
     <title>Optimum</title>
     <link>https://mods.vintagestory.at/show/mod/optimum</link>
@@ -76,13 +146,6 @@
     <description>Adds two backdrop blocks, made to help with thumbnail creation.</description>
   </item>
   <item>
-    <title>Better Honey in Meals</title>
-    <link>https://mods.vintagestory.at/show/mod/betterhoneyinmeals</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhoneyinmeals#5475</guid>
-    <pubDate>Wed, 08 Jul 2026 07:34:50 -0000</pubDate>
-    <description>Makes honey give the same amount of satiety in a meal as most fruits, but not as much as breadfruit.</description>
-  </item>
-  <item>
     <title>Use Beeswax instead of Fat</title>
     <link>https://mods.vintagestory.at/show/mod/usewaxinsteadoffat</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/usewaxinsteadoffat#5182</guid>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustwall#6183</guid>
     <pubDate>Wed, 08 Jul 2026 05:15:57 -0000</pubDate>
     <description>Overhaul mod intended for use in multiplayer servers.</description>
-  </item>
-  <item>
-    <title>wildherbfix</title>
-    <link>https://mods.vintagestory.at/show/mod/10125</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10125#10125</guid>
-    <pubDate>Wed, 08 Jul 2026 05:00:27 -0000</pubDate>
-    <description>server side tweak</description>
-  </item>
-  <item>
-    <title>WOO Presents: Fantasy Crops</title>
-    <link>https://mods.vintagestory.at/show/mod/9100</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9100#9100</guid>
-    <pubDate>Wed, 08 Jul 2026 04:36:02 -0000</pubDate>
-    <description>Fantasy Crops catered to play on the Whispers of Oldwood, available for all.</description>
-  </item>
-  <item>
-    <title>Vintage Story Chinese Language Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
-    <pubDate>Wed, 08 Jul 2026 03:56:22 -0000</pubDate>
-    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
-  </item>
-  <item>
-    <title>Pepper's Clutter and Decor</title>
-    <link>https://mods.vintagestory.at/show/mod/9525</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9525#9525</guid>
-    <pubDate>Wed, 08 Jul 2026 02:39:12 -0000</pubDate>
-    <description>A clutter mod adding decorations and plushies! Blocks like string lights, wallpapers, and more!</description>
-  </item>
-  <item>
-    <title>Portcullis, Drawbridges and stuff</title>
-    <link>https://mods.vintagestory.at/show/mod/7736</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7736#7736</guid>
-    <pubDate>Wed, 08 Jul 2026 02:28:44 -0000</pubDate>
-    <description>Adds Portcullis, Drawbridges, Brazier and a working lever to add some RP to your builds. </description>
-  </item>
-  <item>
-    <title>Advanced Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/advancedchat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedchat#10095</guid>
-    <pubDate>Wed, 08 Jul 2026 02:02:22 -0000</pubDate>
-    <description>A fully customizable, movable, resizable chat overlay for Vintage Story. Take control of your chat w</description>
-  </item>
-  <item>
-    <title>Laboror's Multi-Tools - Expanded Metals Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/10120</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10120#10120</guid>
-    <pubDate>Wed, 08 Jul 2026 01:49:41 -0000</pubDate>
-    <description>Adds metal variants to Laboror's Tools.</description>
-  </item>
-  <item>
-    <title>Thunderlord re-animated</title>
-    <link>https://mods.vintagestory.at/show/mod/kbthunderlordanim</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kbthunderlordanim#10122</guid>
-    <pubDate>Wed, 08 Jul 2026 01:38:23 -0000</pubDate>
-    <description>100% Certified Fresh Thunderlord walk animation</description>
-  </item>
-  <item>
-    <title>Infinite Jump</title>
-    <link>https://mods.vintagestory.at/show/mod/10048</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10048#10048</guid>
-    <pubDate>Wed, 08 Jul 2026 01:07:01 -0000</pubDate>
-    <description>This mod lets you jump like Kirby in Super Smash Bros, but Infinitely! It is a cheat mod.</description>
   </item>
 </channel>
 </rss>
