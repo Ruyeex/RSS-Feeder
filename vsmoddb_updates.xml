@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 08 Jul 2026 16:41:41 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 18:20:19 +0000</lastBuildDate>
+  <item>
+    <title>Earthfed - More Fertilizers</title>
+    <link>https://mods.vintagestory.at/show/mod/earthfed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/earthfed#9238</guid>
+    <pubDate>Wed, 08 Jul 2026 18:04:20 -0000</pubDate>
+    <description>Realistic fertilizers made from feathers, seaweed, and blood</description>
+  </item>
+  <item>
+    <title>Rabbit Taming</title>
+    <link>https://mods.vintagestory.at/show/mod/bunnypet</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bunnypet#10022</guid>
+    <pubDate>Wed, 08 Jul 2026 18:04:16 -0000</pubDate>
+    <description>Have your fluffy friends as pets. Hares are now tamable and become Bunnies. Requires Pet Ai.</description>
+  </item>
+  <item>
+    <title>Building Commands</title>
+    <link>https://mods.vintagestory.at/show/mod/10132</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10132#10132</guid>
+    <pubDate>Wed, 08 Jul 2026 17:41:57 -0000</pubDate>
+    <description>A mod that adds commands like /fill to enable large-scale structures created by commands</description>
+  </item>
+  <item>
+    <title>Extreme Weathers [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/10098</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
+    <pubDate>Wed, 08 Jul 2026 17:18:16 -0000</pubDate>
+    <description>Introduces new weather mechanics using the vanilla weather system.</description>
+  </item>
+  <item>
+    <title>Ancient Tools Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/ancienttoolsfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancienttoolsfork#9621</guid>
+    <pubDate>Wed, 08 Jul 2026 17:02:00 -0000</pubDate>
+    <description>1.22 Fork</description>
+  </item>
+  <item>
+    <title>Wild West Climate</title>
+    <link>https://mods.vintagestory.at/show/mod/wildwestclimate</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wildwestclimate#10070</guid>
+    <pubDate>Wed, 08 Jul 2026 16:56:29 -0000</pubDate>
+    <description>Makes the west drier, hotter, and more desert-like as you travel across the world.</description>
+  </item>
   <item>
     <title>Eternal Seraph Patch</title>
     <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
@@ -39,13 +81,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10116#10116</guid>
     <pubDate>Wed, 08 Jul 2026 15:38:42 -0000</pubDate>
     <description>BE the waifu!</description>
-  </item>
-  <item>
-    <title>Extreme Weathers [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/10098</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
-    <pubDate>Wed, 08 Jul 2026 15:35:09 -0000</pubDate>
-    <description>Greatly increases the threat the elements pose, blizzards, hurricanes, monsoons. Get ready!</description>
   </item>
   <item>
     <title>More animations</title>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9195#9195</guid>
     <pubDate>Wed, 08 Jul 2026 10:01:22 -0000</pubDate>
     <description>A light-weight currency exchange addon for the Coinage Mod</description>
-  </item>
-  <item>
-    <title>Underwater Horrors</title>
-    <link>https://mods.vintagestory.at/show/mod/7281</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7281#7281</guid>
-    <pubDate>Wed, 08 Jul 2026 09:42:46 -0000</pubDate>
-    <description>Adds nightmare sea monsters to Vintage Story (Sea Serpents, Kraken)</description>
-  </item>
-  <item>
-    <title>Food Preferences</title>
-    <link>https://mods.vintagestory.at/show/mod/8038</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8038#8038</guid>
-    <pubDate>Wed, 08 Jul 2026 09:31:53 -0000</pubDate>
-    <description>Adds a preference for foods that is personalized per world and per player</description>
-  </item>
-  <item>
-    <title>Alternative armor designs</title>
-    <link>https://mods.vintagestory.at/show/mod/5597</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5597#5597</guid>
-    <pubDate>Wed, 08 Jul 2026 09:10:12 -0000</pubDate>
-    <description>With this mod, you can make use of all vanilla armor designs for each respective armor pieces.</description>
-  </item>
-  <item>
-    <title>Unique Weapons</title>
-    <link>https://mods.vintagestory.at/show/mod/9746</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9746#9746</guid>
-    <pubDate>Wed, 08 Jul 2026 08:55:22 -0000</pubDate>
-    <description>Adds mostly Dark and Darker themed weapons to vintage story with custom models and textures</description>
-  </item>
-  <item>
-    <title>Tillerworks</title>
-    <link>https://mods.vintagestory.at/show/mod/10128</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10128#10128</guid>
-    <pubDate>Wed, 08 Jul 2026 08:42:40 -0000</pubDate>
-    <description>Drivable tractors and towable farming trailers with installable engines, wheels, and homemade fuel.</description>
   </item>
 </channel>
 </rss>
