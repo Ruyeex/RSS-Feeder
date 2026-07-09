@@ -4,27 +4,139 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 09 Jul 2026 12:17:14 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 09 Jul 2026 15:58:12 +0000</lastBuildDate>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Thu, 09 Jul 2026 15:51:16 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>Animalica - Small &amp; Odd</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicaso</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaso#9796</guid>
+    <pubDate>Thu, 09 Jul 2026 15:46:39 -0000</pubDate>
+    <description>Adds the small goober animals like raccoons, chickens, and rabbits as players</description>
+  </item>
+  <item>
+    <title>Animalica - Foxes, Wolves &amp; Hyenas</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicafwh</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicafwh#9794</guid>
+    <pubDate>Thu, 09 Jul 2026 15:44:54 -0000</pubDate>
+    <description>Adds Foxes, Wolves, and Hyenas as player choices!</description>
+  </item>
+  <item>
+    <title>VS Expanded modpack</title>
+    <link>https://mods.vintagestory.at/show/mod/vsexpanded</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsexpanded#8372</guid>
+    <pubDate>Thu, 09 Jul 2026 15:32:40 -0000</pubDate>
+    <description>A "hardcore" but fair modpack, aiming to expand the game a vanilla-ish way</description>
+  </item>
+  <item>
+    <title>Still Greenhouses</title>
+    <link>https://mods.vintagestory.at/show/mod/10044</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10044#10044</guid>
+    <pubDate>Thu, 09 Jul 2026 15:27:57 -0000</pubDate>
+    <description>Stops wind sway for greenhouse vegetation.</description>
+  </item>
+  <item>
+    <title>Place On Slabs</title>
+    <link>https://mods.vintagestory.at/show/mod/6459</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6459#6459</guid>
+    <pubDate>Thu, 09 Jul 2026 15:14:40 -0000</pubDate>
+    <description>Lets you place some stuff on slabs</description>
+  </item>
+  <item>
+    <title>Catch and Release: Fish</title>
+    <link>https://mods.vintagestory.at/show/mod/crfish</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crfish#7410</guid>
+    <pubDate>Thu, 09 Jul 2026 14:59:57 -0000</pubDate>
+    <description>Catch fish live and place them in various sized aquariums.</description>
+  </item>
+  <item>
+    <title>Catch and Release LIB</title>
+    <link>https://mods.vintagestory.at/show/mod/crlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crlib#7509</guid>
+    <pubDate>Thu, 09 Jul 2026 14:59:07 -0000</pubDate>
+    <description>Shared library for Catch and Release mods.</description>
+  </item>
+  <item>
+    <title>Compatibility Ecosystem Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemfloracompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemfloracompat#10091</guid>
+    <pubDate>Thu, 09 Jul 2026 14:56:53 -0000</pubDate>
+    <description>Supports for any participants in ecology patches</description>
+  </item>
+  <item>
+    <title>Overhaul lib legacy compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/overhaulliblegacycompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/overhaulliblegacycompat#8401</guid>
+    <pubDate>Thu, 09 Jul 2026 14:48:43 -0000</pubDate>
+    <description>Compat for firearms, crossbows, combatoverhaul</description>
+  </item>
+  <item>
+    <title>Combat Overhaul Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/combatoverhaulforked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/combatoverhaulforked#8415</guid>
+    <pubDate>Thu, 09 Jul 2026 14:48:33 -0000</pubDate>
+    <description>1.22 fork</description>
+  </item>
+  <item>
+    <title>Trait Acquirer Modded Class Support</title>
+    <link>https://mods.vintagestory.at/show/mod/6266</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6266#6266</guid>
+    <pubDate>Thu, 09 Jul 2026 13:45:58 -0000</pubDate>
+    <description>Rewritten Trait Acquirer to allow all modded classes</description>
+  </item>
+  <item>
+    <title>Meliora Meadows Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
+    <pubDate>Thu, 09 Jul 2026 13:43:52 -0000</pubDate>
+    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
+  </item>
+  <item>
+    <title>Wild West Climate</title>
+    <link>https://mods.vintagestory.at/show/mod/wildwestclimate</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wildwestclimate#10070</guid>
+    <pubDate>Thu, 09 Jul 2026 13:28:36 -0000</pubDate>
+    <description>Makes the west drier, hotter, and more desert-like as you travel across the world.</description>
+  </item>
+  <item>
+    <title>Kobold Player Model Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/koboldrdx</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/koboldrdx#4814</guid>
+    <pubDate>Thu, 09 Jul 2026 13:24:55 -0000</pubDate>
+    <description>A complete 1.21+ remake of Soi's Kobold player model, for PlayerModelLib by Maltiez!</description>
+  </item>
+  <item>
+    <title>Cave-Only Ore Spawns</title>
+    <link>https://mods.vintagestory.at/show/mod/8157</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8157#8157</guid>
+    <pubDate>Thu, 09 Jul 2026 13:14:54 -0000</pubDate>
+    <description>Ore spawns only in caves, on the cave walls, plus new modes for more efficent prospecting.</description>
+  </item>
+  <item>
+    <title>Dame Elswyth’s Summons</title>
+    <link>https://mods.vintagestory.at/show/mod/10139</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10139#10139</guid>
+    <pubDate>Thu, 09 Jul 2026 12:53:49 -0000</pubDate>
+    <description>Find and summon lost pets.  Fixes PetAI fire avoidance AI task for tamed pets.</description>
+  </item>
+  <item>
+    <title>Advanced Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/advancedchat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedchat#10095</guid>
+    <pubDate>Thu, 09 Jul 2026 12:32:17 -0000</pubDate>
+    <description>A fully customizable, movable, resizable chat overlay for Vintage Story. Take control of your chat w</description>
+  </item>
   <item>
     <title>xSkills Fork</title>
     <link>https://mods.vintagestory.at/show/mod/7605</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
     <pubDate>Thu, 09 Jul 2026 11:59:38 -0000</pubDate>
     <description>RPG-style skill system with abilities, perks, and progression.</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Thu, 09 Jul 2026 11:33:23 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
-    <title>Wild West Climate</title>
-    <link>https://mods.vintagestory.at/show/mod/wildwestclimate</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wildwestclimate#10070</guid>
-    <pubDate>Thu, 09 Jul 2026 11:23:23 -0000</pubDate>
-    <description>Makes the west drier, hotter, and more desert-like as you travel across the world.</description>
   </item>
   <item>
     <title>RespawnInfo</title>
@@ -102,118 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplewatertweaks#9126</guid>
     <pubDate>Thu, 09 Jul 2026 07:37:52 -0000</pubDate>
     <description>This mod modifies the game's water by adding an alternative wave effect and a more vibrant color </description>
-  </item>
-  <item>
-    <title>Wind Vanes &amp; Randomized Winds</title>
-    <link>https://mods.vintagestory.at/show/mod/windvanes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windvanes#9414</guid>
-    <pubDate>Thu, 09 Jul 2026 07:14:23 -0000</pubDate>
-    <description>Wind vanes that rotate to face the wind direction and spins its rotator based on wind speed.</description>
-  </item>
-  <item>
-    <title>WarpModFork</title>
-    <link>https://mods.vintagestory.at/show/mod/10142</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10142#10142</guid>
-    <pubDate>Thu, 09 Jul 2026 06:30:28 -0000</pubDate>
-    <description>WarpModFork of WarpMod, Allows players to set and teleport to warp points</description>
-  </item>
-  <item>
-    <title>Cloth Shelf</title>
-    <link>https://mods.vintagestory.at/show/mod/clothshelfmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clothshelfmod#2821</guid>
-    <pubDate>Thu, 09 Jul 2026 05:22:57 -0000</pubDate>
-    <description>A shelf for cloth based on Food Shelves by SONZ-INA</description>
-  </item>
-  <item>
-    <title>SkullTorchHolder</title>
-    <link>https://mods.vintagestory.at/show/mod/9810</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9810#9810</guid>
-    <pubDate>Thu, 09 Jul 2026 05:13:13 -0000</pubDate>
-    <description>A brass torchholder that looks like a skull</description>
-  </item>
-  <item>
-    <title>Armor Mannequin</title>
-    <link>https://mods.vintagestory.at/show/mod/9616</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9616#9616</guid>
-    <pubDate>Thu, 09 Jul 2026 05:12:36 -0000</pubDate>
-    <description>Uses a variation of the mannequin parts to display armor pieces</description>
-  </item>
-  <item>
-    <title>Rust Girls - Player Model</title>
-    <link>https://mods.vintagestory.at/show/mod/10116</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10116#10116</guid>
-    <pubDate>Thu, 09 Jul 2026 05:11:07 -0000</pubDate>
-    <description>BE the waifu!</description>
-  </item>
-  <item>
-    <title>Uppsalchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/10141</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10141#10141</guid>
-    <pubDate>Thu, 09 Jul 2026 05:02:04 -0000</pubDate>
-    <description>A multi-tier alchemy system that uses A Culinary Artillery bottles.</description>
-  </item>
-  <item>
-    <title>Wild Farming Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/10010</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10010#10010</guid>
-    <pubDate>Thu, 09 Jul 2026 04:50:40 -0000</pubDate>
-    <description>Cultivate flowers, herbs, mushrooms, trees, and shrubs. And much more.</description>
-  </item>
-  <item>
-    <title>Only Flower Seeds</title>
-    <link>https://mods.vintagestory.at/show/mod/9856</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9856#9856</guid>
-    <pubDate>Thu, 09 Jul 2026 03:56:39 -0000</pubDate>
-    <description>Cultivate vanilla flowers by extracting seeds from them.</description>
-  </item>
-  <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Thu, 09 Jul 2026 03:45:17 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
-    <title>MrLee's TV Mod </title>
-    <link>https://mods.vintagestory.at/show/mod/10140</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10140#10140</guid>
-    <pubDate>Thu, 09 Jul 2026 03:32:27 -0000</pubDate>
-    <description>Watch videos together, in-world</description>
-  </item>
-  <item>
-    <title>Dame Elswyth’s Summons</title>
-    <link>https://mods.vintagestory.at/show/mod/10139</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10139#10139</guid>
-    <pubDate>Thu, 09 Jul 2026 03:16:23 -0000</pubDate>
-    <description>Find and summon lost pets.  Fixes PetAI fire avoidance AI task for tamed pets.</description>
-  </item>
-  <item>
-    <title>VSCN Language Pack Updater</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnlangpackupdater</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpackupdater#10107</guid>
-    <pubDate>Thu, 09 Jul 2026 02:43:39 -0000</pubDate>
-    <description>汉化模组的更新器 VSCN Language Pack Updater</description>
-  </item>
-  <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Thu, 09 Jul 2026 02:19:32 -0000</pubDate>
-    <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
-  </item>
-  <item>
-    <title>Leaf Litter</title>
-    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
-    <pubDate>Thu, 09 Jul 2026 02:18:28 -0000</pubDate>
-    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
-  </item>
-  <item>
-    <title>Hardtack Bread</title>
-    <link>https://mods.vintagestory.at/show/mod/hardtackbread</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hardtackbread#10109</guid>
-    <pubDate>Thu, 09 Jul 2026 02:12:11 -0000</pubDate>
-    <description>Dry, salty, very long-lasting bread. Needs to be softened to eat. Includes two historical dishes.</description>
   </item>
 </channel>
 </rss>
