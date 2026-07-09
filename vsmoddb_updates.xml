@@ -4,13 +4,83 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 09 Jul 2026 15:58:12 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 09 Jul 2026 18:05:10 +0000</lastBuildDate>
+  <item>
+    <title>Riley's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Thu, 09 Jul 2026 18:00:55 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+  </item>
+  <item>
+    <title>Wilderlands Spawn Reducer </title>
+    <link>https://mods.vintagestory.at/show/mod/10147</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10147#10147</guid>
+    <pubDate>Thu, 09 Jul 2026 17:33:14 -0000</pubDate>
+    <description>cuts spawn rates in half</description>
+  </item>
   <item>
     <title>Ecosystem - Flora</title>
     <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Thu, 09 Jul 2026 15:51:16 -0000</pubDate>
+    <pubDate>Thu, 09 Jul 2026 17:27:05 -0000</pubDate>
     <description>Making flora living</description>
+  </item>
+  <item>
+    <title>More animations</title>
+    <link>https://mods.vintagestory.at/show/mod/mefimations</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mefimations#9963</guid>
+    <pubDate>Thu, 09 Jul 2026 16:52:10 -0000</pubDate>
+    <description>Better body and face animations</description>
+  </item>
+  <item>
+    <title>C&amp;N ServerList Connector</title>
+    <link>https://mods.vintagestory.at/show/mod/canvsserverlist</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canvsserverlist#7989</guid>
+    <pubDate>Thu, 09 Jul 2026 16:44:47 -0000</pubDate>
+    <description>Connects your VS server to a server listing and voting site</description>
+  </item>
+  <item>
+    <title>Deciduous Trees</title>
+    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
+    <pubDate>Thu, 09 Jul 2026 16:42:45 -0000</pubDate>
+    <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
+  </item>
+  <item>
+    <title>Leaf Litter</title>
+    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
+    <pubDate>Thu, 09 Jul 2026 16:42:33 -0000</pubDate>
+    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
+  </item>
+  <item>
+    <title>VSA_API</title>
+    <link>https://mods.vintagestory.at/show/mod/9139</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9139#9139</guid>
+    <pubDate>Thu, 09 Jul 2026 16:41:35 -0000</pubDate>
+    <description>VSA API</description>
+  </item>
+  <item>
+    <title>VSA - Replica</title>
+    <link>https://mods.vintagestory.at/show/mod/9115</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
+    <pubDate>Thu, 09 Jul 2026 16:39:43 -0000</pubDate>
+    <description>Build block-made moving ships and structures</description>
+  </item>
+  <item>
+    <title>C&amp;N Market</title>
+    <link>https://mods.vintagestory.at/show/mod/canmarket</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canmarket#950</guid>
+    <pubDate>Thu, 09 Jul 2026 16:28:54 -0000</pubDate>
+    <description>I just need a mod with currency, trade blocks and without d...</description>
+  </item>
+  <item>
+    <title>CAN Hide Players Pins</title>
+    <link>https://mods.vintagestory.at/show/mod/3789</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3789#3789</guid>
+    <pubDate>Thu, 09 Jul 2026 16:01:20 -0000</pubDate>
+    <description>Pins of players in distance are not shown on the map.</description>
   </item>
   <item>
     <title>Animalica - Small &amp; Odd</title>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/respawninfo#1369</guid>
     <pubDate>Thu, 09 Jul 2026 10:46:29 -0000</pubDate>
     <description>Adds a command and a small GUI to check your respawn count and coordinates.</description>
-  </item>
-  <item>
-    <title>LRCxRExxSkill</title>
-    <link>https://mods.vintagestory.at/show/mod/10143</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10143#10143</guid>
-    <pubDate>Thu, 09 Jul 2026 10:39:27 -0000</pubDate>
-    <description>aaa</description>
-  </item>
-  <item>
-    <title>Ice Cold Vessel</title>
-    <link>https://mods.vintagestory.at/show/mod/coldvessel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/coldvessel#9905</guid>
-    <pubDate>Thu, 09 Jul 2026 10:25:21 -0000</pubDate>
-    <description>Adds ice-powered cooling to storage vessels for food preservation.</description>
-  </item>
-  <item>
-    <title>Murlok Vintage Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/murlokvspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/murlokvspatch#5307</guid>
-    <pubDate>Thu, 09 Jul 2026 10:03:18 -0000</pubDate>
-    <description>Collection of tweaks for the Murlok server and playthrough.</description>
-  </item>
-  <item>
-    <title>Equus: Tack and Equipment</title>
-    <link>https://mods.vintagestory.at/show/mod/tackandequipment</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tackandequipment#5277</guid>
-    <pubDate>Thu, 09 Jul 2026 09:50:06 -0000</pubDate>
-    <description>Adds various saddles, bridles, and saddleblankets for Equus and Monoceros</description>
-  </item>
-  <item>
-    <title>Blacksmith Gloves V2</title>
-    <link>https://mods.vintagestory.at/show/mod/blacksmithglovesv2</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blacksmithglovesv2#9513</guid>
-    <pubDate>Thu, 09 Jul 2026 09:22:40 -0000</pubDate>
-    <description>Adds a pair of heavy leather blacksmith gloves for handling hot metal without needing tongs.</description>
-  </item>
-  <item>
-    <title>TinkerTailor - Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/9773</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9773#9773</guid>
-    <pubDate>Thu, 09 Jul 2026 08:16:54 -0000</pubDate>
-    <description>More backpacks &amp; pouches for the veteran seraph. Made with love &amp; pain, No AI.</description>
-  </item>
-  <item>
-    <title>Extreme Weathers [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/10098</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
-    <pubDate>Thu, 09 Jul 2026 08:15:21 -0000</pubDate>
-    <description>Introduces new weather mechanics using the vanilla weather system.</description>
-  </item>
-  <item>
-    <title>ReelMower</title>
-    <link>https://mods.vintagestory.at/show/mod/reelmower</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/reelmower#9653</guid>
-    <pubDate>Thu, 09 Jul 2026 08:10:25 -0000</pubDate>
-    <description>Push reel mower. Cut grass, Multiplayer in testing</description>
-  </item>
-  <item>
-    <title>Julz Addons</title>
-    <link>https://mods.vintagestory.at/show/mod/julzaddons</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/julzaddons#10078</guid>
-    <pubDate>Thu, 09 Jul 2026 07:59:42 -0000</pubDate>
-    <description>A smol mod made for my mates to have fun in VS</description>
-  </item>
-  <item>
-    <title>Simple water tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/simplewatertweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplewatertweaks#9126</guid>
-    <pubDate>Thu, 09 Jul 2026 07:37:52 -0000</pubDate>
-    <description>This mod modifies the game's water by adding an alternative wave effect and a more vibrant color </description>
   </item>
 </channel>
 </rss>
