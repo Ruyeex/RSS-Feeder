@@ -4,20 +4,69 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 10 Jul 2026 18:37:59 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Jul 2026 20:25:27 +0000</lastBuildDate>
+  <item>
+    <title>WeatherStory</title>
+    <link>https://mods.vintagestory.at/show/mod/10083</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10083#10083</guid>
+    <pubDate>Fri, 10 Jul 2026 20:20:37 -0000</pubDate>
+    <description>dynamic/stateful climate system based on chunk/region-derived wind, humidity, temperature, pressure</description>
+  </item>
+  <item>
+    <title>Shelf Obsessed</title>
+    <link>https://mods.vintagestory.at/show/mod/shelfobsessed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shelfobsessed#4313</guid>
+    <pubDate>Fri, 10 Jul 2026 19:56:04 -0000</pubDate>
+    <description>Put more things on bookshelves and more. When in doubt, put it on the shelf! </description>
+  </item>
+  <item>
+    <title>More animations</title>
+    <link>https://mods.vintagestory.at/show/mod/mefimations</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mefimations#9963</guid>
+    <pubDate>Fri, 10 Jul 2026 19:37:45 -0000</pubDate>
+    <description>Better body and face animations</description>
+  </item>
+  <item>
+    <title>Item Collect Mode Keybind</title>
+    <link>https://mods.vintagestory.at/show/mod/10188</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10188#10188</guid>
+    <pubDate>Fri, 10 Jul 2026 19:37:24 -0000</pubDate>
+    <description>Adds a keybind for quickly changing the item collect mode. </description>
+  </item>
+  <item>
+    <title>ReelMower</title>
+    <link>https://mods.vintagestory.at/show/mod/reelmower</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/reelmower#9653</guid>
+    <pubDate>Fri, 10 Jul 2026 19:27:56 -0000</pubDate>
+    <description>Push reel mower. Cut grass, Multiplayer in testing</description>
+  </item>
+  <item>
+    <title>Eternal Seraph Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
+    <pubDate>Fri, 10 Jul 2026 19:20:28 -0000</pubDate>
+    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
+  </item>
+  <item>
+    <title>Purposeful Storage Metalbits Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10187</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10187#10187</guid>
+    <pubDate>Fri, 10 Jul 2026 19:15:53 -0000</pubDate>
+    <description>Store metal bits in your Purposeful Storage bins!</description>
+  </item>
+  <item>
+    <title>rawNature</title>
+    <link>https://mods.vintagestory.at/show/mod/raw</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/raw#5940</guid>
+    <pubDate>Fri, 10 Jul 2026 18:50:52 -0000</pubDate>
+    <description>Adds materials, recipes, items, and a new balance of things to the game</description>
+  </item>
   <item>
     <title>Rustbound Magic</title>
     <link>https://mods.vintagestory.at/show/mod/rustboundmagic</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustboundmagic#1290</guid>
     <pubDate>Fri, 10 Jul 2026 18:32:26 -0000</pubDate>
     <description>Adds magic to Vintage Story.</description>
-  </item>
-  <item>
-    <title>WeatherStory</title>
-    <link>https://mods.vintagestory.at/show/mod/10083</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10083#10083</guid>
-    <pubDate>Fri, 10 Jul 2026 18:14:04 -0000</pubDate>
-    <description>dynamic/stateful climate system based on chunk/region-derived wind, humidity, temperature, pressure</description>
   </item>
   <item>
     <title>Builder's Cannon - WIP</title>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10180#10180</guid>
     <pubDate>Fri, 10 Jul 2026 12:13:57 -0000</pubDate>
     <description>Adds the family of pachycephalosaurians dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Fused Body — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10179</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10179#10179</guid>
-    <pubDate>Fri, 10 Jul 2026 12:12:29 -0000</pubDate>
-    <description>Adds the family of ankylosaurian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Horned Crown — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10178</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10178#10178</guid>
-    <pubDate>Fri, 10 Jul 2026 12:10:36 -0000</pubDate>
-    <description>Adds the family of ceratopsian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Horrible Hands — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10177</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10177#10177</guid>
-    <pubDate>Fri, 10 Jul 2026 12:04:17 -0000</pubDate>
-    <description>Adds the family of ornithomimosauria dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Fri, 10 Jul 2026 12:03:58 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Long Neck — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10176</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10176#10176</guid>
-    <pubDate>Fri, 10 Jul 2026 12:01:15 -0000</pubDate>
-    <description>Adds the family of Macronarians dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Ocean Tyrant — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10175</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10175#10175</guid>
-    <pubDate>Fri, 10 Jul 2026 11:59:31 -0000</pubDate>
-    <description>Adds severals Mosasaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Plated Back — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10174</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10174#10174</guid>
-    <pubDate>Fri, 10 Jul 2026 11:57:59 -0000</pubDate>
-    <description>Adds the family of stegosaurian dinosaurs to Vintage Story.</description>
   </item>
 </channel>
 </rss>
