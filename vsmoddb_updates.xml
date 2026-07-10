@@ -4,13 +4,125 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 10 Jul 2026 00:07:25 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Jul 2026 04:54:25 +0000</lastBuildDate>
+  <item>
+    <title>Server Watch</title>
+    <link>https://mods.vintagestory.at/show/mod/10161</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10161#10161</guid>
+    <pubDate>Fri, 10 Jul 2026 04:41:34 -0000</pubDate>
+    <description>Allows admins to do /observe to enter an invisible noclip mode</description>
+  </item>
+  <item>
+    <title>racialnpcs</title>
+    <link>https://mods.vintagestory.at/show/mod/10160</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10160#10160</guid>
+    <pubDate>Fri, 10 Jul 2026 04:40:09 -0000</pubDate>
+    <description>allows npcs of multiple races to be created</description>
+  </item>
+  <item>
+    <title>vinconbridge</title>
+    <link>https://mods.vintagestory.at/show/mod/10159</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10159#10159</guid>
+    <pubDate>Fri, 10 Jul 2026 04:38:14 -0000</pubDate>
+    <description>let npcs use vinconomy</description>
+  </item>
+  <item>
+    <title>race addition</title>
+    <link>https://mods.vintagestory.at/show/mod/10150</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10150#10150</guid>
+    <pubDate>Fri, 10 Jul 2026 03:40:06 -0000</pubDate>
+    <description>adds a race to my server</description>
+  </item>
+  <item>
+    <title>RP Deity Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/8170</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8170#8170</guid>
+    <pubDate>Fri, 10 Jul 2026 03:25:23 -0000</pubDate>
+    <description>A religion and RP progression mod for Vintage Story focused on holy sites, blessings, and pilgrimage</description>
+  </item>
+  <item>
+    <title>Plant-based Fat</title>
+    <link>https://mods.vintagestory.at/show/mod/plantbasedfat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plantbasedfat#5370</guid>
+    <pubDate>Fri, 10 Jul 2026 03:09:44 -0000</pubDate>
+    <description>Fat alternative for peaceful progress</description>
+  </item>
+  <item>
+    <title>Ghaelen's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9740</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
+    <pubDate>Fri, 10 Jul 2026 03:05:46 -0000</pubDate>
+    <description>My personal tweaks I like to play with.</description>
+  </item>
+  <item>
+    <title>Apotheosis Tweak - Fantasy Creature Balance</title>
+    <link>https://mods.vintagestory.at/show/mod/apofantasycreaturetweak</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/apofantasycreaturetweak#10156</guid>
+    <pubDate>Fri, 10 Jul 2026 02:50:38 -0000</pubDate>
+    <description>Balance tweaks to Fantasy Creatures Reborn</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Casuariidae Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/casuariidae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/casuariidae#2066</guid>
+    <pubDate>Fri, 10 Jul 2026 02:27:54 -0000</pubDate>
+    <description>A collection of Cassowary, Emu and flightless Australian birds from human history.</description>
+  </item>
+  <item>
+    <title>Metals of Myths [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/metalsofmyths</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalsofmyths#9911</guid>
+    <pubDate>Fri, 10 Jul 2026 02:09:49 -0000</pubDate>
+    <description>An addon for Improved Metallurgy that extends progression even further by adding fantasy metals.</description>
+  </item>
+  <item>
+    <title>Riley's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Fri, 10 Jul 2026 02:00:55 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+  </item>
+  <item>
+    <title>IRDP's Wet Crops Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/9590</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9590#9590</guid>
+    <pubDate>Fri, 10 Jul 2026 01:53:47 -0000</pubDate>
+    <description>Adding a few new moisture-heavy crops to the game. Compat with Paddy Fields.</description>
+  </item>
+  <item>
+    <title>Stamina Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/staminamod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/staminamod#10151</guid>
+    <pubDate>Fri, 10 Jul 2026 01:32:28 -0000</pubDate>
+    <description>Adds stamina to animals. Exhaustion slows them. Tired predators give up the chase.</description>
+  </item>
   <item>
     <title>Stratum - High-performance server software.</title>
     <link>https://mods.vintagestory.at/show/mod/stratum</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stratum#9499</guid>
-    <pubDate>Fri, 10 Jul 2026 00:01:19 -0000</pubDate>
+    <pubDate>Fri, 10 Jul 2026 01:07:12 -0000</pubDate>
     <description>Focused on smoother multiplayer servers, better performance under load and, practical tools.</description>
+  </item>
+  <item>
+    <title>Seraph Leveling</title>
+    <link>https://mods.vintagestory.at/show/mod/6523</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6523#6523</guid>
+    <pubDate>Fri, 10 Jul 2026 00:42:47 -0000</pubDate>
+    <description>Level-up and gain traits in a vanilla friendly way</description>
+  </item>
+  <item>
+    <title>Runescape Metals + Woods + Runecrafting</title>
+    <link>https://mods.vintagestory.at/show/mod/9566</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9566#9566</guid>
+    <pubDate>Fri, 10 Jul 2026 00:27:22 -0000</pubDate>
+    <description>RuneScape metals &amp; woods: mithril-runite-dragon smithing, fletching,    tiered bows, mega furnaces.</description>
+  </item>
+  <item>
+    <title>TDR Temporal Stability Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tdrstab</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tdrstab#10155</guid>
+    <pubDate>Fri, 10 Jul 2026 00:08:52 -0000</pubDate>
+    <description>Tweaks to temporal stability mechanic for the TDR server, allow building anywhere</description>
   </item>
   <item>
     <title>Ritual Apotheosis</title>
@@ -69,13 +181,6 @@
     <description>Adds nightmare sea monsters to Vintage Story (Sea Serpents, Kraken)</description>
   </item>
   <item>
-    <title>race addition</title>
-    <link>https://mods.vintagestory.at/show/mod/10150</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10150#10150</guid>
-    <pubDate>Thu, 09 Jul 2026 22:08:38 -0000</pubDate>
-    <description>adds a race to my server</description>
-  </item>
-  <item>
     <title>Craftable Floral Zones Plants</title>
     <link>https://mods.vintagestory.at/show/mod/craftablefloralzonesplants</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/craftablefloralzonesplants#10152</guid>
@@ -97,13 +202,6 @@
     <description>This mod adds a beautifully designed, immersive, and user-friendly interface for xSkills. </description>
   </item>
   <item>
-    <title>Stamina Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/staminamod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/staminamod#10151</guid>
-    <pubDate>Thu, 09 Jul 2026 21:02:09 -0000</pubDate>
-    <description>Adds stamina to animals. Exhaustion slows them. Tired predators give up the chase.</description>
-  </item>
-  <item>
     <title>Better Jungles (and survival modpack)</title>
     <link>https://mods.vintagestory.at/show/mod/betterjungles</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterjungles#7602</guid>
@@ -116,104 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9773#9773</guid>
     <pubDate>Thu, 09 Jul 2026 20:41:13 -0000</pubDate>
     <description>More backpacks &amp; pouches for the veteran seraph. Made with love &amp; pain, No AI.</description>
-  </item>
-  <item>
-    <title>xSkills Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7605</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
-    <pubDate>Thu, 09 Jul 2026 20:00:45 -0000</pubDate>
-    <description>RPG-style skill system with abilities, perks, and progression.</description>
-  </item>
-  <item>
-    <title>Joy of Painting (Optimized)</title>
-    <link>https://mods.vintagestory.at/show/mod/6967</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6967#6967</guid>
-    <pubDate>Thu, 09 Jul 2026 19:51:49 -0000</pubDate>
-    <description>An optimized version of Joy of Painting </description>
-  </item>
-  <item>
-    <title>Itemizer</title>
-    <link>https://mods.vintagestory.at/show/mod/itemizer</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/itemizer#1260</guid>
-    <pubDate>Thu, 09 Jul 2026 19:35:27 -0000</pubDate>
-    <description>A crude port of the Minecraft plugin. Allows to change item names and add descriptions to them.</description>
-  </item>
-  <item>
-    <title>C&amp;N Jewelry</title>
-    <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
-    <pubDate>Thu, 09 Jul 2026 19:19:44 -0000</pubDate>
-    <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
-  </item>
-  <item>
-    <title>Smart Firepit</title>
-    <link>https://mods.vintagestory.at/show/mod/smartfirepit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smartfirepit#10146</guid>
-    <pubDate>Thu, 09 Jul 2026 19:19:00 -0000</pubDate>
-    <description>A mod that makes cooking, smithing, and flint firing easier.</description>
-  </item>
-  <item>
-    <title>Regenerating Ores</title>
-    <link>https://mods.vintagestory.at/show/mod/regenores</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/regenores#6036</guid>
-    <pubDate>Thu, 09 Jul 2026 18:54:58 -0000</pubDate>
-    <description>Config'd blocks regenerate over a config'd amount of time. Default config is for ore!</description>
-  </item>
-  <item>
-    <title>Vintage Story Chinese Language Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
-    <pubDate>Thu, 09 Jul 2026 18:52:09 -0000</pubDate>
-    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
-  </item>
-  <item>
-    <title>C&amp;N Metals</title>
-    <link>https://mods.vintagestory.at/show/mod/canadditionalmetals</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canadditionalmetals#4945</guid>
-    <pubDate>Thu, 09 Jul 2026 18:16:49 -0000</pubDate>
-    <description>Adds new alloys</description>
-  </item>
-  <item>
-    <title>Rustbound Magic</title>
-    <link>https://mods.vintagestory.at/show/mod/rustboundmagic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustboundmagic#1290</guid>
-    <pubDate>Thu, 09 Jul 2026 18:10:59 -0000</pubDate>
-    <description>Adds magic to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Thu, 09 Jul 2026 18:00:55 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
-    <title>Wilderlands Spawn Reducer </title>
-    <link>https://mods.vintagestory.at/show/mod/10147</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10147#10147</guid>
-    <pubDate>Thu, 09 Jul 2026 17:33:14 -0000</pubDate>
-    <description>cuts spawn rates in half</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Thu, 09 Jul 2026 17:27:05 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
-    <title>More animations</title>
-    <link>https://mods.vintagestory.at/show/mod/mefimations</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mefimations#9963</guid>
-    <pubDate>Thu, 09 Jul 2026 16:52:10 -0000</pubDate>
-    <description>Better body and face animations</description>
-  </item>
-  <item>
-    <title>C&amp;N ServerList Connector</title>
-    <link>https://mods.vintagestory.at/show/mod/canvsserverlist</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canvsserverlist#7989</guid>
-    <pubDate>Thu, 09 Jul 2026 16:44:47 -0000</pubDate>
-    <description>Connects your VS server to a server listing and voting site</description>
   </item>
 </channel>
 </rss>
