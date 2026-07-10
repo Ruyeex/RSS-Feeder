@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 09 Jul 2026 22:24:42 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Jul 2026 00:07:25 +0000</lastBuildDate>
+  <item>
+    <title>Stratum - High-performance server software.</title>
+    <link>https://mods.vintagestory.at/show/mod/stratum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stratum#9499</guid>
+    <pubDate>Fri, 10 Jul 2026 00:01:19 -0000</pubDate>
+    <description>Focused on smoother multiplayer servers, better performance under load and, practical tools.</description>
+  </item>
+  <item>
+    <title>Ritual Apotheosis</title>
+    <link>https://mods.vintagestory.at/show/mod/8215</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8215#8215</guid>
+    <pubDate>Thu, 09 Jul 2026 23:55:40 -0000</pubDate>
+    <description>Build ancient rites from fragments. The world is your altar. Dig deep. Seek truth. Light the fires.</description>
+  </item>
+  <item>
+    <title>Rift Beasts Belong Underground FORKED</title>
+    <link>https://mods.vintagestory.at/show/mod/10080</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10080#10080</guid>
+    <pubDate>Thu, 09 Jul 2026 23:54:09 -0000</pubDate>
+    <description>Fork of riftbeastsbelongunderground.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Thu, 09 Jul 2026 23:14:54 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Recycle Armors</title>
+    <link>https://mods.vintagestory.at/show/mod/recyclearmors</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/recyclearmors#10153</guid>
+    <pubDate>Thu, 09 Jul 2026 22:55:21 -0000</pubDate>
+    <description>Recycle metal armors back to thier base components.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Thu, 09 Jul 2026 22:51:34 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>TerraFirmaStory</title>
+    <link>https://mods.vintagestory.at/show/mod/terrafirmastory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/terrafirmastory#9951</guid>
+    <pubDate>Thu, 09 Jul 2026 22:48:30 -0000</pubDate>
+    <description>Ports TerraFirmaCraft 1.21 world generation to Vintage Story</description>
+  </item>
+  <item>
+    <title>Advanced Geology</title>
+    <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedgeology#7167</guid>
+    <pubDate>Thu, 09 Jul 2026 22:43:23 -0000</pubDate>
+    <description>Adds new, realistic ores and stones with heavy IOG compatibility</description>
+  </item>
   <item>
     <title>Underwater Horrors</title>
     <link>https://mods.vintagestory.at/show/mod/7281</link>
@@ -97,13 +153,6 @@
     <description>A mod that makes cooking, smithing, and flint firing easier.</description>
   </item>
   <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Thu, 09 Jul 2026 19:10:15 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
     <title>Regenerating Ores</title>
     <link>https://mods.vintagestory.at/show/mod/regenores</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/regenores#6036</guid>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canvsserverlist#7989</guid>
     <pubDate>Thu, 09 Jul 2026 16:44:47 -0000</pubDate>
     <description>Connects your VS server to a server listing and voting site</description>
-  </item>
-  <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Thu, 09 Jul 2026 16:42:45 -0000</pubDate>
-    <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
-  </item>
-  <item>
-    <title>Leaf Litter</title>
-    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
-    <pubDate>Thu, 09 Jul 2026 16:42:33 -0000</pubDate>
-    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
-  </item>
-  <item>
-    <title>VSA_API</title>
-    <link>https://mods.vintagestory.at/show/mod/9139</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9139#9139</guid>
-    <pubDate>Thu, 09 Jul 2026 16:41:35 -0000</pubDate>
-    <description>VSA API</description>
-  </item>
-  <item>
-    <title>VSA - Replica</title>
-    <link>https://mods.vintagestory.at/show/mod/9115</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
-    <pubDate>Thu, 09 Jul 2026 16:39:43 -0000</pubDate>
-    <description>Build block-made moving ships and structures</description>
-  </item>
-  <item>
-    <title>C&amp;N Market</title>
-    <link>https://mods.vintagestory.at/show/mod/canmarket</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canmarket#950</guid>
-    <pubDate>Thu, 09 Jul 2026 16:28:54 -0000</pubDate>
-    <description>I just need a mod with currency, trade blocks and without d...</description>
-  </item>
-  <item>
-    <title>CAN Hide Players Pins</title>
-    <link>https://mods.vintagestory.at/show/mod/3789</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3789#3789</guid>
-    <pubDate>Thu, 09 Jul 2026 16:01:20 -0000</pubDate>
-    <description>Pins of players in distance are not shown on the map.</description>
-  </item>
-  <item>
-    <title>Animalica - Small &amp; Odd</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicaso</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaso#9796</guid>
-    <pubDate>Thu, 09 Jul 2026 15:46:39 -0000</pubDate>
-    <description>Adds the small goober animals like raccoons, chickens, and rabbits as players</description>
   </item>
 </channel>
 </rss>
