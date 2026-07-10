@@ -4,7 +4,154 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 10 Jul 2026 04:54:25 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Jul 2026 08:25:16 +0000</lastBuildDate>
+  <item>
+    <title>Distance Displayer</title>
+    <link>https://mods.vintagestory.at/show/mod/distancedisplayer</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/distancedisplayer#6519</guid>
+    <pubDate>Fri, 10 Jul 2026 08:20:51 -0000</pubDate>
+    <description>Displays the straight-line distance to a world position</description>
+  </item>
+  <item>
+    <title>AmbienTextures</title>
+    <link>https://mods.vintagestory.at/show/mod/10166</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10166#10166</guid>
+    <pubDate>Fri, 10 Jul 2026 08:20:08 -0000</pubDate>
+    <description>Adds flooring</description>
+  </item>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Fri, 10 Jul 2026 08:13:48 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Fri, 10 Jul 2026 08:13:19 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
+  <item>
+    <title>Russification For Mods</title>
+    <link>https://mods.vintagestory.at/show/mod/5312</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5312#5312</guid>
+    <pubDate>Fri, 10 Jul 2026 08:13:11 -0000</pubDate>
+    <description>Russian Translation Pack — a collection of Russian localizations for various Vintage Story mods.</description>
+  </item>
+  <item>
+    <title>KodasPatchForked</title>
+    <link>https://mods.vintagestory.at/show/mod/10164</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10164#10164</guid>
+    <pubDate>Fri, 10 Jul 2026 08:13:01 -0000</pubDate>
+    <description>Adds different colors</description>
+  </item>
+  <item>
+    <title>KodasRevisedDoubleFork</title>
+    <link>https://mods.vintagestory.at/show/mod/10163</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10163#10163</guid>
+    <pubDate>Fri, 10 Jul 2026 08:12:26 -0000</pubDate>
+    <description>changes pine color!</description>
+  </item>
+  <item>
+    <title>Spaturno and Trini's Secure Shelter</title>
+    <link>https://mods.vintagestory.at/show/mod/9692</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9692#9692</guid>
+    <pubDate>Fri, 10 Jul 2026 08:08:01 -0000</pubDate>
+    <description>Shared extradimensional cottage inspired from D&amp;D spell Leomund's Secure Shelter.</description>
+  </item>
+  <item>
+    <title>TempConverg</title>
+    <link>https://mods.vintagestory.at/show/mod/10165</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10165#10165</guid>
+    <pubDate>Fri, 10 Jul 2026 08:05:10 -0000</pubDate>
+    <description>Mod tweak for server</description>
+  </item>
+  <item>
+    <title>RP Deity Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/8170</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8170#8170</guid>
+    <pubDate>Fri, 10 Jul 2026 07:57:50 -0000</pubDate>
+    <description>A religion and RP progression mod for Vintage Story focused on holy sites, blessings, and pilgrimage</description>
+  </item>
+  <item>
+    <title>Animalica - Hooved Animals</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicah</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicah#9797</guid>
+    <pubDate>Fri, 10 Jul 2026 07:54:45 -0000</pubDate>
+    <description>Adds all the hooved animals as playable models!</description>
+  </item>
+  <item>
+    <title>race addition</title>
+    <link>https://mods.vintagestory.at/show/mod/10150</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10150#10150</guid>
+    <pubDate>Fri, 10 Jul 2026 07:44:05 -0000</pubDate>
+    <description>adds a race to my server</description>
+  </item>
+  <item>
+    <title>Animalica - Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicac</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicac#9798</guid>
+    <pubDate>Fri, 10 Jul 2026 07:20:39 -0000</pubDate>
+    <description>Adds a small list of modded animals as players!</description>
+  </item>
+  <item>
+    <title>Animalica - Small &amp; Odd</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicaso</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaso#9796</guid>
+    <pubDate>Fri, 10 Jul 2026 07:20:07 -0000</pubDate>
+    <description>Adds the small goober animals like raccoons, chickens, and rabbits as players</description>
+  </item>
+  <item>
+    <title>Animalica - Bears</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicab</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicab#9795</guid>
+    <pubDate>Fri, 10 Jul 2026 07:19:50 -0000</pubDate>
+    <description>Adds Bears as player choices</description>
+  </item>
+  <item>
+    <title>Animalica - Foxes, Wolves &amp; Hyenas</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicafwh</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicafwh#9794</guid>
+    <pubDate>Fri, 10 Jul 2026 07:19:08 -0000</pubDate>
+    <description>Adds Foxes, Wolves, and Hyenas as player choices!</description>
+  </item>
+  <item>
+    <title>Animalica Core</title>
+    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
+    <pubDate>Fri, 10 Jul 2026 07:18:36 -0000</pubDate>
+    <description>Core mod for playable animals. Does nothing on it's own</description>
+  </item>
+  <item>
+    <title>Riley's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Fri, 10 Jul 2026 07:05:06 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+  </item>
+  <item>
+    <title>Arrows and Slings</title>
+    <link>https://mods.vintagestory.at/show/mod/arrowsnslings</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arrowsnslings#9546</guid>
+    <pubDate>Fri, 10 Jul 2026 06:23:24 -0000</pubDate>
+    <description>Buff arrows and adds sling progression</description>
+  </item>
+  <item>
+    <title>Uppsalchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/10141</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10141#10141</guid>
+    <pubDate>Fri, 10 Jul 2026 06:08:40 -0000</pubDate>
+    <description>A multi-tier alchemy system that uses A Culinary Artillery bottles.</description>
+  </item>
+  <item>
+    <title>Schlombo Mod Pack</title>
+    <link>https://mods.vintagestory.at/show/mod/10149</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10149#10149</guid>
+    <pubDate>Fri, 10 Jul 2026 05:27:43 -0000</pubDate>
+    <description>Armor Pack for private server</description>
+  </item>
   <item>
     <title>Server Watch</title>
     <link>https://mods.vintagestory.at/show/mod/10161</link>
@@ -25,20 +172,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10159#10159</guid>
     <pubDate>Fri, 10 Jul 2026 04:38:14 -0000</pubDate>
     <description>let npcs use vinconomy</description>
-  </item>
-  <item>
-    <title>race addition</title>
-    <link>https://mods.vintagestory.at/show/mod/10150</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10150#10150</guid>
-    <pubDate>Fri, 10 Jul 2026 03:40:06 -0000</pubDate>
-    <description>adds a race to my server</description>
-  </item>
-  <item>
-    <title>RP Deity Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/8170</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8170#8170</guid>
-    <pubDate>Fri, 10 Jul 2026 03:25:23 -0000</pubDate>
-    <description>A religion and RP progression mod for Vintage Story focused on holy sites, blessings, and pilgrimage</description>
   </item>
   <item>
     <title>Plant-based Fat</title>
@@ -76,144 +209,11 @@
     <description>An addon for Improved Metallurgy that extends progression even further by adding fantasy metals.</description>
   </item>
   <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Fri, 10 Jul 2026 02:00:55 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
     <title>IRDP's Wet Crops Mod</title>
     <link>https://mods.vintagestory.at/show/mod/9590</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9590#9590</guid>
     <pubDate>Fri, 10 Jul 2026 01:53:47 -0000</pubDate>
     <description>Adding a few new moisture-heavy crops to the game. Compat with Paddy Fields.</description>
-  </item>
-  <item>
-    <title>Stamina Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/staminamod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/staminamod#10151</guid>
-    <pubDate>Fri, 10 Jul 2026 01:32:28 -0000</pubDate>
-    <description>Adds stamina to animals. Exhaustion slows them. Tired predators give up the chase.</description>
-  </item>
-  <item>
-    <title>Stratum - High-performance server software.</title>
-    <link>https://mods.vintagestory.at/show/mod/stratum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stratum#9499</guid>
-    <pubDate>Fri, 10 Jul 2026 01:07:12 -0000</pubDate>
-    <description>Focused on smoother multiplayer servers, better performance under load and, practical tools.</description>
-  </item>
-  <item>
-    <title>Seraph Leveling</title>
-    <link>https://mods.vintagestory.at/show/mod/6523</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6523#6523</guid>
-    <pubDate>Fri, 10 Jul 2026 00:42:47 -0000</pubDate>
-    <description>Level-up and gain traits in a vanilla friendly way</description>
-  </item>
-  <item>
-    <title>Runescape Metals + Woods + Runecrafting</title>
-    <link>https://mods.vintagestory.at/show/mod/9566</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9566#9566</guid>
-    <pubDate>Fri, 10 Jul 2026 00:27:22 -0000</pubDate>
-    <description>RuneScape metals &amp; woods: mithril-runite-dragon smithing, fletching,    tiered bows, mega furnaces.</description>
-  </item>
-  <item>
-    <title>TDR Temporal Stability Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tdrstab</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tdrstab#10155</guid>
-    <pubDate>Fri, 10 Jul 2026 00:08:52 -0000</pubDate>
-    <description>Tweaks to temporal stability mechanic for the TDR server, allow building anywhere</description>
-  </item>
-  <item>
-    <title>Ritual Apotheosis</title>
-    <link>https://mods.vintagestory.at/show/mod/8215</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8215#8215</guid>
-    <pubDate>Thu, 09 Jul 2026 23:55:40 -0000</pubDate>
-    <description>Build ancient rites from fragments. The world is your altar. Dig deep. Seek truth. Light the fires.</description>
-  </item>
-  <item>
-    <title>Rift Beasts Belong Underground FORKED</title>
-    <link>https://mods.vintagestory.at/show/mod/10080</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10080#10080</guid>
-    <pubDate>Thu, 09 Jul 2026 23:54:09 -0000</pubDate>
-    <description>Fork of riftbeastsbelongunderground.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Thu, 09 Jul 2026 23:14:54 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>Recycle Armors</title>
-    <link>https://mods.vintagestory.at/show/mod/recyclearmors</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/recyclearmors#10153</guid>
-    <pubDate>Thu, 09 Jul 2026 22:55:21 -0000</pubDate>
-    <description>Recycle metal armors back to thier base components.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Thu, 09 Jul 2026 22:51:34 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>TerraFirmaStory</title>
-    <link>https://mods.vintagestory.at/show/mod/terrafirmastory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/terrafirmastory#9951</guid>
-    <pubDate>Thu, 09 Jul 2026 22:48:30 -0000</pubDate>
-    <description>Ports TerraFirmaCraft 1.21 world generation to Vintage Story</description>
-  </item>
-  <item>
-    <title>Advanced Geology</title>
-    <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedgeology#7167</guid>
-    <pubDate>Thu, 09 Jul 2026 22:43:23 -0000</pubDate>
-    <description>Adds new, realistic ores and stones with heavy IOG compatibility</description>
-  </item>
-  <item>
-    <title>Underwater Horrors</title>
-    <link>https://mods.vintagestory.at/show/mod/7281</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7281#7281</guid>
-    <pubDate>Thu, 09 Jul 2026 22:17:07 -0000</pubDate>
-    <description>Adds nightmare sea monsters to Vintage Story (Sea Serpents, Kraken)</description>
-  </item>
-  <item>
-    <title>Craftable Floral Zones Plants</title>
-    <link>https://mods.vintagestory.at/show/mod/craftablefloralzonesplants</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/craftablefloralzonesplants#10152</guid>
-    <pubDate>Thu, 09 Jul 2026 21:42:17 -0000</pubDate>
-    <description>Makes Floral Zones plants craftable!</description>
-  </item>
-  <item>
-    <title>cheglink</title>
-    <link>https://mods.vintagestory.at/show/mod/cheglink</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cheglink#10148</guid>
-    <pubDate>Thu, 09 Jul 2026 21:22:15 -0000</pubDate>
-    <description>Cheglink Mod to sync vintage story chat and a discord channel through ChegBot</description>
-  </item>
-  <item>
-    <title>xSkills Gilded Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/5529</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5529#5529</guid>
-    <pubDate>Thu, 09 Jul 2026 21:15:31 -0000</pubDate>
-    <description>This mod adds a beautifully designed, immersive, and user-friendly interface for xSkills. </description>
-  </item>
-  <item>
-    <title>Better Jungles (and survival modpack)</title>
-    <link>https://mods.vintagestory.at/show/mod/betterjungles</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterjungles#7602</guid>
-    <pubDate>Thu, 09 Jul 2026 20:57:09 -0000</pubDate>
-    <description>More realistic Jungles, some survival gameplay changes - ideally as part of the modpack listed below</description>
-  </item>
-  <item>
-    <title>TinkerTailor - Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/9773</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9773#9773</guid>
-    <pubDate>Thu, 09 Jul 2026 20:41:13 -0000</pubDate>
-    <description>More backpacks &amp; pouches for the veteran seraph. Made with love &amp; pain, No AI.</description>
   </item>
 </channel>
 </rss>
