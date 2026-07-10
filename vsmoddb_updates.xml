@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 10 Jul 2026 16:58:07 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Jul 2026 18:37:59 +0000</lastBuildDate>
+  <item>
+    <title>Rustbound Magic</title>
+    <link>https://mods.vintagestory.at/show/mod/rustboundmagic</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustboundmagic#1290</guid>
+    <pubDate>Fri, 10 Jul 2026 18:32:26 -0000</pubDate>
+    <description>Adds magic to Vintage Story.</description>
+  </item>
+  <item>
+    <title>WeatherStory</title>
+    <link>https://mods.vintagestory.at/show/mod/10083</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10083#10083</guid>
+    <pubDate>Fri, 10 Jul 2026 18:14:04 -0000</pubDate>
+    <description>dynamic/stateful climate system based on chunk/region-derived wind, humidity, temperature, pressure</description>
+  </item>
+  <item>
+    <title>Builder's Cannon - WIP</title>
+    <link>https://mods.vintagestory.at/show/mod/10158</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10158#10158</guid>
+    <pubDate>Fri, 10 Jul 2026 18:12:33 -0000</pubDate>
+    <description>Capture structures as schematics and rebuild/share them online</description>
+  </item>
+  <item>
+    <title>Smart Firepit</title>
+    <link>https://mods.vintagestory.at/show/mod/smartfirepit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smartfirepit#10146</guid>
+    <pubDate>Fri, 10 Jul 2026 18:03:10 -0000</pubDate>
+    <description>A mod that makes cooking, smithing, and flint firing easier.</description>
+  </item>
+  <item>
+    <title>Advanced Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/advancedchat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedchat#10095</guid>
+    <pubDate>Fri, 10 Jul 2026 17:52:51 -0000</pubDate>
+    <description>A fully customizable, movable, resizable chat overlay for Vintage Story. Take control of your chat w</description>
+  </item>
+  <item>
+    <title>Sacred Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/sacredlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sacredlib#9165</guid>
+    <pubDate>Fri, 10 Jul 2026 17:42:34 -0000</pubDate>
+    <description>A collection of new and improved classes for multiplayer</description>
+  </item>
+  <item>
+    <title>TinkerTailor - Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/9773</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9773#9773</guid>
+    <pubDate>Fri, 10 Jul 2026 17:38:28 -0000</pubDate>
+    <description>More backpacks &amp; pouches for the veteran seraph. Made with love &amp; pain, No AI.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Fri, 10 Jul 2026 17:36:59 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
   <item>
     <title>Recycle Armors</title>
     <link>https://mods.vintagestory.at/show/mod/recyclearmors</link>
@@ -83,13 +139,6 @@
     <description>A mod that adds a plethora of custom classes for Thrones of Emberfall</description>
   </item>
   <item>
-    <title>TinkerTailor - Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/9773</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9773#9773</guid>
-    <pubDate>Fri, 10 Jul 2026 14:21:57 -0000</pubDate>
-    <description>More backpacks &amp; pouches for the veteran seraph. Made with love &amp; pain, No AI.</description>
-  </item>
-  <item>
     <title>Loot Goblins BIG Chests</title>
     <link>https://mods.vintagestory.at/show/mod/lootgoblinsbigchests</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lootgoblinsbigchests#10183</guid>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10174#10174</guid>
     <pubDate>Fri, 10 Jul 2026 11:57:59 -0000</pubDate>
     <description>Adds the family of stegosaurian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Smart Firepit</title>
-    <link>https://mods.vintagestory.at/show/mod/smartfirepit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smartfirepit#10146</guid>
-    <pubDate>Fri, 10 Jul 2026 11:57:19 -0000</pubDate>
-    <description>A mod that makes cooking, smithing, and flint firing easier.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Sailed Spine — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10173</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10173#10173</guid>
-    <pubDate>Fri, 10 Jul 2026 11:56:07 -0000</pubDate>
-    <description>Adds severals spinosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Weaker Oil Lamps</title>
-    <link>https://mods.vintagestory.at/show/mod/10167</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10167#10167</guid>
-    <pubDate>Fri, 10 Jul 2026 11:54:38 -0000</pubDate>
-    <description>Makes oil lamps less bright and less white.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Scythe Claws — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10172</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10172#10172</guid>
-    <pubDate>Fri, 10 Jul 2026 11:53:13 -0000</pubDate>
-    <description>Adds the family of therizinosaurids dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Sharp Tooth — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10170</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10170#10170</guid>
-    <pubDate>Fri, 10 Jul 2026 11:51:23 -0000</pubDate>
-    <description>Adds severals carcharodontosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Shovel Mouth — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10169</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10169#10169</guid>
-    <pubDate>Fri, 10 Jul 2026 11:47:56 -0000</pubDate>
-    <description>Adds the family of hadrosauroids dinosaurs to Vintage Story. Unofficial compatibility port for Vinta</description>
-  </item>
-  <item>
-    <title>Blacksmith Gloves V2</title>
-    <link>https://mods.vintagestory.at/show/mod/blacksmithglovesv2</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blacksmithglovesv2#9513</guid>
-    <pubDate>Fri, 10 Jul 2026 11:35:59 -0000</pubDate>
-    <description>Adds a pair of heavy leather blacksmith gloves for handling hot metal without needing tongs.</description>
   </item>
 </channel>
 </rss>
