@@ -4,34 +4,69 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 10 Jul 2026 08:25:16 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Jul 2026 11:54:37 +0000</lastBuildDate>
+  <item>
+    <title>Weaker Oil Lamps</title>
+    <link>https://mods.vintagestory.at/show/mod/10167</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10167#10167</guid>
+    <pubDate>Fri, 10 Jul 2026 11:40:18 -0000</pubDate>
+    <description>Makes oil lamps less bright and less white.</description>
+  </item>
+  <item>
+    <title>Blacksmith Gloves V2</title>
+    <link>https://mods.vintagestory.at/show/mod/blacksmithglovesv2</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blacksmithglovesv2#9513</guid>
+    <pubDate>Fri, 10 Jul 2026 11:35:59 -0000</pubDate>
+    <description>Adds a pair of heavy leather blacksmith gloves for handling hot metal without needing tongs.</description>
+  </item>
+  <item>
+    <title>VSA - Replica</title>
+    <link>https://mods.vintagestory.at/show/mod/9115</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
+    <pubDate>Fri, 10 Jul 2026 10:28:58 -0000</pubDate>
+    <description>Build block-made moving ships and structures</description>
+  </item>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Fri, 10 Jul 2026 09:49:30 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>RP Deity Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/8170</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8170#8170</guid>
+    <pubDate>Fri, 10 Jul 2026 09:24:59 -0000</pubDate>
+    <description>A religion and RP progression mod for Vintage Story focused on holy sites, blessings, and pilgrimage</description>
+  </item>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Fri, 10 Jul 2026 09:02:57 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
+  <item>
+    <title>Pyrogenesis continued</title>
+    <link>https://mods.vintagestory.at/show/mod/pyrogenesiscontinued</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pyrogenesiscontinued#9934</guid>
+    <pubDate>Fri, 10 Jul 2026 08:33:22 -0000</pubDate>
+    <description>Adaptation</description>
+  </item>
+  <item>
+    <title>AmbienTextures</title>
+    <link>https://mods.vintagestory.at/show/mod/10166</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10166#10166</guid>
+    <pubDate>Fri, 10 Jul 2026 08:28:31 -0000</pubDate>
+    <description>Adds flooring</description>
+  </item>
   <item>
     <title>Distance Displayer</title>
     <link>https://mods.vintagestory.at/show/mod/distancedisplayer</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/distancedisplayer#6519</guid>
     <pubDate>Fri, 10 Jul 2026 08:20:51 -0000</pubDate>
     <description>Displays the straight-line distance to a world position</description>
-  </item>
-  <item>
-    <title>AmbienTextures</title>
-    <link>https://mods.vintagestory.at/show/mod/10166</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10166#10166</guid>
-    <pubDate>Fri, 10 Jul 2026 08:20:08 -0000</pubDate>
-    <description>Adds flooring</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Fri, 10 Jul 2026 08:13:48 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Fri, 10 Jul 2026 08:13:19 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
   </item>
   <item>
     <title>Russification For Mods</title>
@@ -67,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10165#10165</guid>
     <pubDate>Fri, 10 Jul 2026 08:05:10 -0000</pubDate>
     <description>Mod tweak for server</description>
-  </item>
-  <item>
-    <title>RP Deity Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/8170</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8170#8170</guid>
-    <pubDate>Fri, 10 Jul 2026 07:57:50 -0000</pubDate>
-    <description>A religion and RP progression mod for Vintage Story focused on holy sites, blessings, and pilgrimage</description>
   </item>
   <item>
     <title>Animalica - Hooved Animals</title>
@@ -146,20 +174,6 @@
     <description>A multi-tier alchemy system that uses A Culinary Artillery bottles.</description>
   </item>
   <item>
-    <title>Schlombo Mod Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/10149</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10149#10149</guid>
-    <pubDate>Fri, 10 Jul 2026 05:27:43 -0000</pubDate>
-    <description>Armor Pack for private server</description>
-  </item>
-  <item>
-    <title>Server Watch</title>
-    <link>https://mods.vintagestory.at/show/mod/10161</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10161#10161</guid>
-    <pubDate>Fri, 10 Jul 2026 04:41:34 -0000</pubDate>
-    <description>Allows admins to do /observe to enter an invisible noclip mode</description>
-  </item>
-  <item>
     <title>racialnpcs</title>
     <link>https://mods.vintagestory.at/show/mod/10160</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10160#10160</guid>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/casuariidae#2066</guid>
     <pubDate>Fri, 10 Jul 2026 02:27:54 -0000</pubDate>
     <description>A collection of Cassowary, Emu and flightless Australian birds from human history.</description>
-  </item>
-  <item>
-    <title>Metals of Myths [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/metalsofmyths</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalsofmyths#9911</guid>
-    <pubDate>Fri, 10 Jul 2026 02:09:49 -0000</pubDate>
-    <description>An addon for Improved Metallurgy that extends progression even further by adding fantasy metals.</description>
-  </item>
-  <item>
-    <title>IRDP's Wet Crops Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/9590</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9590#9590</guid>
-    <pubDate>Fri, 10 Jul 2026 01:53:47 -0000</pubDate>
-    <description>Adding a few new moisture-heavy crops to the game. Compat with Paddy Fields.</description>
   </item>
 </channel>
 </rss>
