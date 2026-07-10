@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 10 Jul 2026 14:33:10 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Jul 2026 16:58:07 +0000</lastBuildDate>
+  <item>
+    <title>Recycle Armors</title>
+    <link>https://mods.vintagestory.at/show/mod/recyclearmors</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/recyclearmors#10153</guid>
+    <pubDate>Fri, 10 Jul 2026 16:55:20 -0000</pubDate>
+    <description>Recycle metal armors back to thier base components.</description>
+  </item>
+  <item>
+    <title>Vintage Story Chinese Language Pack</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
+    <pubDate>Fri, 10 Jul 2026 16:42:33 -0000</pubDate>
+    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
+  </item>
+  <item>
+    <title>Frontier's Map</title>
+    <link>https://mods.vintagestory.at/show/mod/9227</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9227#9227</guid>
+    <pubDate>Fri, 10 Jul 2026 16:29:17 -0000</pubDate>
+    <description>Adds a physical map with built-in map maker system, drawing tools and over 130 hand drawn stamps</description>
+  </item>
+  <item>
+    <title>Enhanced Thunder Sounds</title>
+    <link>https://mods.vintagestory.at/show/mod/10185</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10185#10185</guid>
+    <pubDate>Fri, 10 Jul 2026 16:12:51 -0000</pubDate>
+    <description>Adds random sound variety to thunder — no more hearing the same 4 claps on repeat.</description>
+  </item>
+  <item>
+    <title>Wanderer's Sketchbook - Drawing Tablet Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/9642</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9642#9642</guid>
+    <pubDate>Fri, 10 Jul 2026 16:11:12 -0000</pubDate>
+    <description>Adds better drawing tablet integration and pressure sensitivity to Wanderer's Sketchbook mod</description>
+  </item>
+  <item>
+    <title>ToE Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/svanaxtoe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/svanaxtoe#5352</guid>
+    <pubDate>Fri, 10 Jul 2026 15:32:50 -0000</pubDate>
+    <description>A collection of all patches for the ToE Server</description>
+  </item>
+  <item>
+    <title>Paddy Fields</title>
+    <link>https://mods.vintagestory.at/show/mod/9282</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9282#9282</guid>
+    <pubDate>Fri, 10 Jul 2026 15:25:58 -0000</pubDate>
+    <description>Adds the Ta-kuwa hoe and Paddy Fields for more accurate rice farming.</description>
+  </item>
+  <item>
+    <title>Still Greenhouses</title>
+    <link>https://mods.vintagestory.at/show/mod/10044</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10044#10044</guid>
+    <pubDate>Fri, 10 Jul 2026 15:23:46 -0000</pubDate>
+    <description>Stops wind sway for greenhouse vegetation.</description>
+  </item>
+  <item>
+    <title>Player Model lib</title>
+    <link>https://mods.vintagestory.at/show/mod/playermodellib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
+    <pubDate>Fri, 10 Jul 2026 15:21:38 -0000</pubDate>
+    <description>Library for adding new player races</description>
+  </item>
+  <item>
+    <title>X-Skills Tailoring (Testing Version)</title>
+    <link>https://mods.vintagestory.at/show/mod/7664</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7664#7664</guid>
+    <pubDate>Fri, 10 Jul 2026 14:48:22 -0000</pubDate>
+    <description>Adds a Tailoring skill tree to XSkills. Core support for Tailor's Delight with other compatibility </description>
+  </item>
   <item>
     <title>Thrones of Emberfall - Classes</title>
     <link>https://mods.vintagestory.at/show/mod/toeclasses</link>
@@ -18,13 +88,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9773#9773</guid>
     <pubDate>Fri, 10 Jul 2026 14:21:57 -0000</pubDate>
     <description>More backpacks &amp; pouches for the veteran seraph. Made with love &amp; pain, No AI.</description>
-  </item>
-  <item>
-    <title>Still Greenhouses</title>
-    <link>https://mods.vintagestory.at/show/mod/10044</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10044#10044</guid>
-    <pubDate>Fri, 10 Jul 2026 14:04:00 -0000</pubDate>
-    <description>Stops wind sway for greenhouse vegetation.</description>
   </item>
   <item>
     <title>Loot Goblins BIG Chests</title>
@@ -111,13 +174,6 @@
     <description>A mod that makes cooking, smithing, and flint firing easier.</description>
   </item>
   <item>
-    <title>Player Model lib</title>
-    <link>https://mods.vintagestory.at/show/mod/playermodellib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
-    <pubDate>Fri, 10 Jul 2026 11:56:35 -0000</pubDate>
-    <description>Library for adding new player races</description>
-  </item>
-  <item>
     <title>Legacy of the Phanerozoic: Sailed Spine — Unofficial</title>
     <link>https://mods.vintagestory.at/show/mod/10173</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10173#10173</guid>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blacksmithglovesv2#9513</guid>
     <pubDate>Fri, 10 Jul 2026 11:35:59 -0000</pubDate>
     <description>Adds a pair of heavy leather blacksmith gloves for handling hot metal without needing tongs.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Tyrant King — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10168</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10168#10168</guid>
-    <pubDate>Fri, 10 Jul 2026 11:30:49 -0000</pubDate>
-    <description>Adds severals tyrannosaurids to Vintage Story. Unofficial compatibility port for 1.22.3</description>
-  </item>
-  <item>
-    <title>VSA - Replica</title>
-    <link>https://mods.vintagestory.at/show/mod/9115</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
-    <pubDate>Fri, 10 Jul 2026 10:28:58 -0000</pubDate>
-    <description>Build block-made moving ships and structures</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Fri, 10 Jul 2026 09:49:30 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
-    <title>RP Deity Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/8170</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8170#8170</guid>
-    <pubDate>Fri, 10 Jul 2026 09:24:59 -0000</pubDate>
-    <description>A religion and RP progression mod for Vintage Story focused on holy sites, blessings, and pilgrimage</description>
-  </item>
-  <item>
-    <title>Pyrogenesis continued</title>
-    <link>https://mods.vintagestory.at/show/mod/pyrogenesiscontinued</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pyrogenesiscontinued#9934</guid>
-    <pubDate>Fri, 10 Jul 2026 08:33:22 -0000</pubDate>
-    <description>Adaptation</description>
-  </item>
-  <item>
-    <title>AmbienTextures</title>
-    <link>https://mods.vintagestory.at/show/mod/10166</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10166#10166</guid>
-    <pubDate>Fri, 10 Jul 2026 08:28:31 -0000</pubDate>
-    <description>Adds flooring</description>
-  </item>
-  <item>
-    <title>Distance Displayer</title>
-    <link>https://mods.vintagestory.at/show/mod/distancedisplayer</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/distancedisplayer#6519</guid>
-    <pubDate>Fri, 10 Jul 2026 08:20:51 -0000</pubDate>
-    <description>Displays the straight-line distance to a world position</description>
-  </item>
-  <item>
-    <title>Russification For Mods</title>
-    <link>https://mods.vintagestory.at/show/mod/5312</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5312#5312</guid>
-    <pubDate>Fri, 10 Jul 2026 08:13:11 -0000</pubDate>
-    <description>Russian Translation Pack — a collection of Russian localizations for various Vintage Story mods.</description>
   </item>
 </channel>
 </rss>
