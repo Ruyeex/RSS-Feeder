@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 10 Jul 2026 20:25:27 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Jul 2026 22:06:52 +0000</lastBuildDate>
+  <item>
+    <title>The Critters Pack 1.22</title>
+    <link>https://mods.vintagestory.at/show/mod/8428</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8428#8428</guid>
+    <pubDate>Fri, 10 Jul 2026 21:59:16 -0000</pubDate>
+    <description>Updated fork of the critters pack with chiappo's approval.</description>
+  </item>
+  <item>
+    <title>Collodion -- Classic Photography</title>
+    <link>https://mods.vintagestory.at/show/mod/collodion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/collodion#6881</guid>
+    <pubDate>Fri, 10 Jul 2026 21:49:32 -0000</pubDate>
+    <description>Save scenes from your world onto wet plates and develop them into photos to decorate your home with!</description>
+  </item>
+  <item>
+    <title>Freshness Overlay</title>
+    <link>https://mods.vintagestory.at/show/mod/10190</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10190#10190</guid>
+    <pubDate>Fri, 10 Jul 2026 21:30:46 -0000</pubDate>
+    <description>Shows freshness of food and hides.</description>
+  </item>
+  <item>
+    <title>Butterfly Cases - Reborn</title>
+    <link>https://mods.vintagestory.at/show/mod/butterflycasesreborn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butterflycasesreborn#10189</guid>
+    <pubDate>Fri, 10 Jul 2026 20:46:37 -0000</pubDate>
+    <description>Adds display cases for displaying butterflies!</description>
+  </item>
+  <item>
+    <title>Modular Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/modularbackpacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacks#10127</guid>
+    <pubDate>Fri, 10 Jul 2026 20:41:43 -0000</pubDate>
+    <description>Makes vanilla backpacks modular, allowing you to attach addons to extend storage slots.</description>
+  </item>
+  <item>
+    <title>Extreme Weathers [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/10098</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
+    <pubDate>Fri, 10 Jul 2026 20:36:52 -0000</pubDate>
+    <description>Introduces new weather mechanics using the vanilla weather system.</description>
+  </item>
   <item>
     <title>WeatherStory</title>
     <link>https://mods.vintagestory.at/show/mod/10083</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
     <pubDate>Fri, 10 Jul 2026 15:21:38 -0000</pubDate>
     <description>Library for adding new player races</description>
-  </item>
-  <item>
-    <title>X-Skills Tailoring (Testing Version)</title>
-    <link>https://mods.vintagestory.at/show/mod/7664</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7664#7664</guid>
-    <pubDate>Fri, 10 Jul 2026 14:48:22 -0000</pubDate>
-    <description>Adds a Tailoring skill tree to XSkills. Core support for Tailor's Delight with other compatibility </description>
-  </item>
-  <item>
-    <title>Thrones of Emberfall - Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/toeclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/toeclasses#8983</guid>
-    <pubDate>Fri, 10 Jul 2026 14:31:26 -0000</pubDate>
-    <description>A mod that adds a plethora of custom classes for Thrones of Emberfall</description>
-  </item>
-  <item>
-    <title>Loot Goblins BIG Chests</title>
-    <link>https://mods.vintagestory.at/show/mod/lootgoblinsbigchests</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lootgoblinsbigchests#10183</guid>
-    <pubDate>Fri, 10 Jul 2026 13:59:13 -0000</pubDate>
-    <description>Increases storage container slots by a bit, not double, just a few extra rows.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Birds of Prey — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10182</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10182#10182</guid>
-    <pubDate>Fri, 10 Jul 2026 12:16:32 -0000</pubDate>
-    <description>Adds severals dromaeosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Carnivorous Bull — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10181</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10181#10181</guid>
-    <pubDate>Fri, 10 Jul 2026 12:15:10 -0000</pubDate>
-    <description>Adds severals abelisaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Domed Head — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10180</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10180#10180</guid>
-    <pubDate>Fri, 10 Jul 2026 12:13:57 -0000</pubDate>
-    <description>Adds the family of pachycephalosaurians dinosaurs to Vintage Story.</description>
   </item>
 </channel>
 </rss>
