@@ -4,20 +4,55 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 11 Jul 2026 19:10:13 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 20:52:36 +0000</lastBuildDate>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/10162</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10162#10162</guid>
+    <pubDate>Sat, 11 Jul 2026 20:47:24 -0000</pubDate>
+    <description>Generic gridless crafting system that completely replaces all UI grid recipes</description>
+  </item>
+  <item>
+    <title>Extreme Weathers [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/10098</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
+    <pubDate>Sat, 11 Jul 2026 20:35:07 -0000</pubDate>
+    <description>Introduces new weather mechanics using the vanilla weather system.</description>
+  </item>
+  <item>
+    <title>WeatherStory</title>
+    <link>https://mods.vintagestory.at/show/mod/10083</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10083#10083</guid>
+    <pubDate>Sat, 11 Jul 2026 19:51:57 -0000</pubDate>
+    <description>dynamic/stateful climate system based on chunk/region-derived wind, humidity, temperature, pressure</description>
+  </item>
+  <item>
+    <title>race addition</title>
+    <link>https://mods.vintagestory.at/show/mod/10150</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10150#10150</guid>
+    <pubDate>Sat, 11 Jul 2026 19:35:30 -0000</pubDate>
+    <description>adds a race to my server</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Chinese Dynasties</title>
+    <link>https://mods.vintagestory.at/show/mod/5062</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5062#5062</guid>
+    <pubDate>Sat, 11 Jul 2026 19:32:44 -0000</pubDate>
+    <description>Mod adding multiple iron+ Scale armor variations in the style of Chinese Dynasties</description>
+  </item>
+  <item>
+    <title>Bear's Shifty Earth</title>
+    <link>https://mods.vintagestory.at/show/mod/bearsshiftyearth</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bearsshiftyearth#9688</guid>
+    <pubDate>Sat, 11 Jul 2026 19:17:50 -0000</pubDate>
+    <description>Overhauls soil instability to make it more engaging, sensible, and configurable.</description>
+  </item>
   <item>
     <title>Sundered Isles Custom Models</title>
     <link>https://mods.vintagestory.at/show/mod/9583</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9583#9583</guid>
     <pubDate>Sat, 11 Jul 2026 18:51:21 -0000</pubDate>
     <description>Custom blocks and items made for the Sundered Isles Server. </description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/10162</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10162#10162</guid>
-    <pubDate>Sat, 11 Jul 2026 18:50:51 -0000</pubDate>
-    <description>Generic gridless crafting system that completely replaces all UI grid recipes</description>
   </item>
   <item>
     <title>Meliora Meadows Adjustments</title>
@@ -39,13 +74,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10195#10195</guid>
     <pubDate>Sat, 11 Jul 2026 18:14:42 -0000</pubDate>
     <description>Basic electrical devices... but without the Generators.</description>
-  </item>
-  <item>
-    <title>Extreme Weathers [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/10098</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
-    <pubDate>Sat, 11 Jul 2026 18:14:37 -0000</pubDate>
-    <description>Introduces new weather mechanics using the vanilla weather system.</description>
   </item>
   <item>
     <title>C4B Traducciones-ES ► MODS</title>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10168#10168</guid>
     <pubDate>Sat, 11 Jul 2026 17:30:25 -0000</pubDate>
     <description>Adds severals tyrannosaurids to Vintage Story. Unofficial compatibility port for 1.22.3</description>
-  </item>
-  <item>
-    <title>VS Expanded modpack</title>
-    <link>https://mods.vintagestory.at/show/mod/vsexpanded</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsexpanded#8372</guid>
-    <pubDate>Sat, 11 Jul 2026 17:21:59 -0000</pubDate>
-    <description>A "hardcore" but fair modpack, aiming to expand the game a vanilla-ish way</description>
-  </item>
-  <item>
-    <title>Temporal Resonance</title>
-    <link>https://mods.vintagestory.at/show/mod/10202</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10202#10202</guid>
-    <pubDate>Sat, 11 Jul 2026 16:54:37 -0000</pubDate>
-    <description>Simple compatibility layer for haptic feedback devices connected through Intiface Central.</description>
-  </item>
-  <item>
-    <title>Barnacle Raft (meditation edition)</title>
-    <link>https://mods.vintagestory.at/show/mod/barnacleraft</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/barnacleraft#10201</guid>
-    <pubDate>Sat, 11 Jul 2026 16:19:45 -0000</pubDate>
-    <description>Your raft is now 80% as fast and 400% more contemplative. Barnacles included spiritually.</description>
-  </item>
-  <item>
-    <title>Roleplay Character Creator</title>
-    <link>https://mods.vintagestory.at/show/mod/rpcharcreator</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rpcharcreator#10074</guid>
-    <pubDate>Sat, 11 Jul 2026 15:55:13 -0000</pubDate>
-    <description>Classic choose-your-own-adventure style character creator for Vintage Story. Server authored!</description>
   </item>
 </channel>
 </rss>
