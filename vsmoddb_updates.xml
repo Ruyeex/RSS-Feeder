@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 11 Jul 2026 07:12:14 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 09:40:08 +0000</lastBuildDate>
+  <item>
+    <title>Boat Speed Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/boatspeedtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/boatspeedtweaks#9766</guid>
+    <pubDate>Sat, 11 Jul 2026 09:35:23 -0000</pubDate>
+    <description>Multiply all Sailboats speed by the configured factor (default=2.0)</description>
+  </item>
+  <item>
+    <title>Murlok Vintage Server Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/murlokvspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/murlokvspatch#5307</guid>
+    <pubDate>Sat, 11 Jul 2026 09:29:29 -0000</pubDate>
+    <description>Collection of tweaks for the Murlok server and playthrough.</description>
+  </item>
+  <item>
+    <title>Animalica - Body Tools &amp; Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicabtc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicabtc#9867</guid>
+    <pubDate>Sat, 11 Jul 2026 09:19:11 -0000</pubDate>
+    <description>Adds wearable claws, fangs, body tools, and animal classes for Fox, Wolf, and Hyena for now</description>
+  </item>
+  <item>
+    <title>RP Voice Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/rpvoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rpvoicechat#1371</guid>
+    <pubDate>Sat, 11 Jul 2026 09:13:12 -0000</pubDate>
+    <description>A mod for proximity VoIP. Shout at your friends!</description>
+  </item>
+  <item>
+    <title>ChunkLOD</title>
+    <link>https://mods.vintagestory.at/show/mod/chunklod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chunklod#7929</guid>
+    <pubDate>Sat, 11 Jul 2026 09:10:00 -0000</pubDate>
+    <description>A Heavily Modified Fork of Farseer, representing terrain, rock type, forestation, and water as LOD's</description>
+  </item>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/10162</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10162#10162</guid>
+    <pubDate>Sat, 11 Jul 2026 08:57:07 -0000</pubDate>
+    <description>Generic gridless crafting system that completely replaces all UI grid recipes</description>
+  </item>
+  <item>
+    <title>Logging Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/9605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9605#9605</guid>
+    <pubDate>Sat, 11 Jul 2026 08:49:15 -0000</pubDate>
+    <description>An immersive mod that changes the Timber industry in Vintage Story!</description>
+  </item>
+  <item>
+    <title>Extreme Weathers [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/10098</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
+    <pubDate>Sat, 11 Jul 2026 08:49:05 -0000</pubDate>
+    <description>Introduces new weather mechanics using the vanilla weather system.</description>
+  </item>
+  <item>
+    <title>Still Greenhouses</title>
+    <link>https://mods.vintagestory.at/show/mod/10044</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10044#10044</guid>
+    <pubDate>Sat, 11 Jul 2026 08:00:51 -0000</pubDate>
+    <description>Stops wind sway for greenhouse vegetation.</description>
+  </item>
+  <item>
+    <title>TerraFirmaStory</title>
+    <link>https://mods.vintagestory.at/show/mod/terrafirmastory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/terrafirmastory#9951</guid>
+    <pubDate>Sat, 11 Jul 2026 07:56:36 -0000</pubDate>
+    <description>Ports TerraFirmaCraft 1.21 world generation to Vintage Story</description>
+  </item>
+  <item>
+    <title>PaintedCanvas</title>
+    <link>https://mods.vintagestory.at/show/mod/9527</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9527#9527</guid>
+    <pubDate>Sat, 11 Jul 2026 07:50:30 -0000</pubDate>
+    <description>PaintedCanvas is an in-game pixel-art painting mod for Vintage Story.</description>
+  </item>
+  <item>
+    <title>ToE Unconscious 0 Health Respawn Hotfix</title>
+    <link>https://mods.vintagestory.at/show/mod/9384</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9384#9384</guid>
+    <pubDate>Sat, 11 Jul 2026 07:33:47 -0000</pubDate>
+    <description>Hotfix for players reviving with 0 health for the Unconscious mod. Made for Thrones of Emberfall.</description>
+  </item>
   <item>
     <title>Aldi's Classes</title>
     <link>https://mods.vintagestory.at/show/mod/aldiclasses</link>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/capreolinae#1254</guid>
     <pubDate>Fri, 10 Jul 2026 23:40:29 -0000</pubDate>
     <description>A collection of New World deer from the Holocene.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Pantherinae</title>
-    <link>https://mods.vintagestory.at/show/mod/pantherinae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pantherinae#1125</guid>
-    <pubDate>Fri, 10 Jul 2026 23:39:29 -0000</pubDate>
-    <description>A collection of big cats from human history.</description>
-  </item>
-  <item>
-    <title>Immersive Inventory Spoilage</title>
-    <link>https://mods.vintagestory.at/show/mod/immersiveinventoryspoilage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersiveinventoryspoilage#2652</guid>
-    <pubDate>Fri, 10 Jul 2026 23:13:15 -0000</pubDate>
-    <description>Tweaks to inventory spoilage, to make it feel more realistic and consistent</description>
-  </item>
-  <item>
-    <title>Sacred Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/sacredlib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sacredlib#9165</guid>
-    <pubDate>Fri, 10 Jul 2026 23:07:12 -0000</pubDate>
-    <description>A collection of new and improved classes for multiplayer</description>
-  </item>
-  <item>
-    <title>Sundered Isles Custom Models</title>
-    <link>https://mods.vintagestory.at/show/mod/9583</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9583#9583</guid>
-    <pubDate>Fri, 10 Jul 2026 23:07:08 -0000</pubDate>
-    <description>Custom blocks and items made for the Sundered Isles Server. </description>
-  </item>
-  <item>
-    <title>XSkills Catchable Dinos Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/5571</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5571#5571</guid>
-    <pubDate>Fri, 10 Jul 2026 22:45:01 -0000</pubDate>
-    <description>Allows you to catch Baby Dinos from Legacy of the Phanerozoic in xskills cages</description>
-  </item>
-  <item>
-    <title>XSkills Catchable FotSA Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/5787</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5787#5787</guid>
-    <pubDate>Fri, 10 Jul 2026 22:43:12 -0000</pubDate>
-    <description>Allows you to catch Baby animals from Fauna of the Stone Age in xskills cages</description>
-  </item>
-  <item>
-    <title>HandbookCrashGuard</title>
-    <link>https://mods.vintagestory.at/show/mod/handbookcrashguard</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/handbookcrashguard#10191</guid>
-    <pubDate>Fri, 10 Jul 2026 22:41:26 -0000</pubDate>
-    <description>Small mod that fixes crashes caused by the test version of A Culinary Artillery and some other mods</description>
-  </item>
-  <item>
-    <title>Collodion -- Classic Photography</title>
-    <link>https://mods.vintagestory.at/show/mod/collodion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/collodion#6881</guid>
-    <pubDate>Fri, 10 Jul 2026 22:24:53 -0000</pubDate>
-    <description>Save scenes from your world onto wet plates and develop them into photos to decorate your home with!</description>
-  </item>
-  <item>
-    <title>The Critters Pack 1.22</title>
-    <link>https://mods.vintagestory.at/show/mod/8428</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8428#8428</guid>
-    <pubDate>Fri, 10 Jul 2026 21:59:16 -0000</pubDate>
-    <description>Updated fork of the critters pack with chiappo's approval.</description>
-  </item>
-  <item>
-    <title>Freshness Overlay</title>
-    <link>https://mods.vintagestory.at/show/mod/10190</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10190#10190</guid>
-    <pubDate>Fri, 10 Jul 2026 21:30:46 -0000</pubDate>
-    <description>Shows freshness of food and hides.</description>
-  </item>
-  <item>
-    <title>Butterfly Cases - Reborn</title>
-    <link>https://mods.vintagestory.at/show/mod/butterflycasesreborn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butterflycasesreborn#10189</guid>
-    <pubDate>Fri, 10 Jul 2026 20:46:37 -0000</pubDate>
-    <description>Adds display cases for displaying butterflies!</description>
-  </item>
-  <item>
-    <title>Modular Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/modularbackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacks#10127</guid>
-    <pubDate>Fri, 10 Jul 2026 20:41:43 -0000</pubDate>
-    <description>Makes vanilla backpacks modular, allowing you to attach addons to extend storage slots.</description>
   </item>
 </channel>
 </rss>
