@@ -4,7 +4,21 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 11 Jul 2026 20:52:36 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 21:52:40 +0000</lastBuildDate>
+  <item>
+    <title>FasterSteel</title>
+    <link>https://mods.vintagestory.at/show/mod/6741</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6741#6741</guid>
+    <pubDate>Sat, 11 Jul 2026 21:26:32 -0000</pubDate>
+    <description>Makes blister steel production faster by reducing the heat hours needed. Configurable.</description>
+  </item>
+  <item>
+    <title>Dumbwaiter</title>
+    <link>https://mods.vintagestory.at/show/mod/9778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9778#9778</guid>
+    <pubDate>Sat, 11 Jul 2026 21:19:56 -0000</pubDate>
+    <description>A medieval-style lift for moving between vertically-separated floors. Now with labels.</description>
+  </item>
   <item>
     <title>RKN Generic Crafting</title>
     <link>https://mods.vintagestory.at/show/mod/10162</link>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10181#10181</guid>
     <pubDate>Sat, 11 Jul 2026 17:32:12 -0000</pubDate>
     <description>Adds severals abelisaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Birds of Prey — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10182</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10182#10182</guid>
-    <pubDate>Sat, 11 Jul 2026 17:31:13 -0000</pubDate>
-    <description>Adds severals dromaeosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Tyrant King — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10168</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10168#10168</guid>
-    <pubDate>Sat, 11 Jul 2026 17:30:25 -0000</pubDate>
-    <description>Adds severals tyrannosaurids to Vintage Story. Unofficial compatibility port for 1.22.3</description>
   </item>
 </channel>
 </rss>
