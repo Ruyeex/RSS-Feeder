@@ -4,20 +4,83 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 10 Jul 2026 22:06:52 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 00:00:33 +0000</lastBuildDate>
+  <item>
+    <title>Fauna of the Stone Age: Casuariidae Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/casuariidae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/casuariidae#2066</guid>
+    <pubDate>Fri, 10 Jul 2026 23:41:19 -0000</pubDate>
+    <description>A collection of Cassowary, Emu and flightless Australian birds from human history.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Capreolinae</title>
+    <link>https://mods.vintagestory.at/show/mod/capreolinae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/capreolinae#1254</guid>
+    <pubDate>Fri, 10 Jul 2026 23:40:29 -0000</pubDate>
+    <description>A collection of New World deer from the Holocene.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Pantherinae</title>
+    <link>https://mods.vintagestory.at/show/mod/pantherinae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pantherinae#1125</guid>
+    <pubDate>Fri, 10 Jul 2026 23:39:29 -0000</pubDate>
+    <description>A collection of big cats from human history.</description>
+  </item>
+  <item>
+    <title>Immersive Inventory Spoilage</title>
+    <link>https://mods.vintagestory.at/show/mod/immersiveinventoryspoilage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersiveinventoryspoilage#2652</guid>
+    <pubDate>Fri, 10 Jul 2026 23:13:15 -0000</pubDate>
+    <description>Tweaks to inventory spoilage, to make it feel more realistic and consistent</description>
+  </item>
+  <item>
+    <title>Sacred Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/sacredlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sacredlib#9165</guid>
+    <pubDate>Fri, 10 Jul 2026 23:07:12 -0000</pubDate>
+    <description>A collection of new and improved classes for multiplayer</description>
+  </item>
+  <item>
+    <title>Sundered Isles Custom Models</title>
+    <link>https://mods.vintagestory.at/show/mod/9583</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9583#9583</guid>
+    <pubDate>Fri, 10 Jul 2026 23:07:08 -0000</pubDate>
+    <description>Custom blocks and items made for the Sundered Isles Server. </description>
+  </item>
+  <item>
+    <title>XSkills Catchable Dinos Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/5571</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5571#5571</guid>
+    <pubDate>Fri, 10 Jul 2026 22:45:01 -0000</pubDate>
+    <description>Allows you to catch Baby Dinos from Legacy of the Phanerozoic in xskills cages</description>
+  </item>
+  <item>
+    <title>XSkills Catchable FotSA Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/5787</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5787#5787</guid>
+    <pubDate>Fri, 10 Jul 2026 22:43:12 -0000</pubDate>
+    <description>Allows you to catch Baby animals from Fauna of the Stone Age in xskills cages</description>
+  </item>
+  <item>
+    <title>HandbookCrashGuard</title>
+    <link>https://mods.vintagestory.at/show/mod/handbookcrashguard</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/handbookcrashguard#10191</guid>
+    <pubDate>Fri, 10 Jul 2026 22:41:26 -0000</pubDate>
+    <description>Small mod that fixes crashes caused by the test version of A Culinary Artillery and some other mods</description>
+  </item>
+  <item>
+    <title>Collodion -- Classic Photography</title>
+    <link>https://mods.vintagestory.at/show/mod/collodion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/collodion#6881</guid>
+    <pubDate>Fri, 10 Jul 2026 22:24:53 -0000</pubDate>
+    <description>Save scenes from your world onto wet plates and develop them into photos to decorate your home with!</description>
+  </item>
   <item>
     <title>The Critters Pack 1.22</title>
     <link>https://mods.vintagestory.at/show/mod/8428</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8428#8428</guid>
     <pubDate>Fri, 10 Jul 2026 21:59:16 -0000</pubDate>
     <description>Updated fork of the critters pack with chiappo's approval.</description>
-  </item>
-  <item>
-    <title>Collodion -- Classic Photography</title>
-    <link>https://mods.vintagestory.at/show/mod/collodion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/collodion#6881</guid>
-    <pubDate>Fri, 10 Jul 2026 21:49:32 -0000</pubDate>
-    <description>Save scenes from your world onto wet plates and develop them into photos to decorate your home with!</description>
   </item>
   <item>
     <title>Freshness Overlay</title>
@@ -132,13 +195,6 @@
     <description>A fully customizable, movable, resizable chat overlay for Vintage Story. Take control of your chat w</description>
   </item>
   <item>
-    <title>Sacred Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/sacredlib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sacredlib#9165</guid>
-    <pubDate>Fri, 10 Jul 2026 17:42:34 -0000</pubDate>
-    <description>A collection of new and improved classes for multiplayer</description>
-  </item>
-  <item>
     <title>TinkerTailor - Backpacks</title>
     <link>https://mods.vintagestory.at/show/mod/9773</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9773#9773</guid>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/recyclearmors#10153</guid>
     <pubDate>Fri, 10 Jul 2026 16:55:20 -0000</pubDate>
     <description>Recycle metal armors back to thier base components.</description>
-  </item>
-  <item>
-    <title>Vintage Story Chinese Language Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
-    <pubDate>Fri, 10 Jul 2026 16:42:33 -0000</pubDate>
-    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
-  </item>
-  <item>
-    <title>Frontier's Map</title>
-    <link>https://mods.vintagestory.at/show/mod/9227</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9227#9227</guid>
-    <pubDate>Fri, 10 Jul 2026 16:29:17 -0000</pubDate>
-    <description>Adds a physical map with built-in map maker system, drawing tools and over 130 hand drawn stamps</description>
-  </item>
-  <item>
-    <title>Enhanced Thunder Sounds</title>
-    <link>https://mods.vintagestory.at/show/mod/10185</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10185#10185</guid>
-    <pubDate>Fri, 10 Jul 2026 16:12:51 -0000</pubDate>
-    <description>Adds random sound variety to thunder — no more hearing the same 4 claps on repeat.</description>
-  </item>
-  <item>
-    <title>Wanderer's Sketchbook - Drawing Tablet Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/9642</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9642#9642</guid>
-    <pubDate>Fri, 10 Jul 2026 16:11:12 -0000</pubDate>
-    <description>Adds better drawing tablet integration and pressure sensitivity to Wanderer's Sketchbook mod</description>
-  </item>
-  <item>
-    <title>ToE Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/svanaxtoe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/svanaxtoe#5352</guid>
-    <pubDate>Fri, 10 Jul 2026 15:32:50 -0000</pubDate>
-    <description>A collection of all patches for the ToE Server</description>
-  </item>
-  <item>
-    <title>Paddy Fields</title>
-    <link>https://mods.vintagestory.at/show/mod/9282</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9282#9282</guid>
-    <pubDate>Fri, 10 Jul 2026 15:25:58 -0000</pubDate>
-    <description>Adds the Ta-kuwa hoe and Paddy Fields for more accurate rice farming.</description>
-  </item>
-  <item>
-    <title>Still Greenhouses</title>
-    <link>https://mods.vintagestory.at/show/mod/10044</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10044#10044</guid>
-    <pubDate>Fri, 10 Jul 2026 15:23:46 -0000</pubDate>
-    <description>Stops wind sway for greenhouse vegetation.</description>
-  </item>
-  <item>
-    <title>Player Model lib</title>
-    <link>https://mods.vintagestory.at/show/mod/playermodellib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
-    <pubDate>Fri, 10 Jul 2026 15:21:38 -0000</pubDate>
-    <description>Library for adding new player races</description>
   </item>
 </channel>
 </rss>
