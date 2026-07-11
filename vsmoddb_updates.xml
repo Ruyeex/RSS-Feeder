@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 11 Jul 2026 14:56:46 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 16:00:47 +0000</lastBuildDate>
+  <item>
+    <title>Roleplay Character Creator</title>
+    <link>https://mods.vintagestory.at/show/mod/rpcharcreator</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rpcharcreator#10074</guid>
+    <pubDate>Sat, 11 Jul 2026 15:55:13 -0000</pubDate>
+    <description>Classic choose-your-own-adventure style character creator for Vintage Story. Server authored!</description>
+  </item>
+  <item>
+    <title>Immersive Body Temperature</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivebodytemperature</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebodytemperature#7966</guid>
+    <pubDate>Sat, 11 Jul 2026 15:47:03 -0000</pubDate>
+    <description>Prepare for summer! Makes hot climates as challenging as cold ones.</description>
+  </item>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/10162</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10162#10162</guid>
+    <pubDate>Sat, 11 Jul 2026 15:27:01 -0000</pubDate>
+    <description>Generic gridless crafting system that completely replaces all UI grid recipes</description>
+  </item>
+  <item>
+    <title>Recycle Armors</title>
+    <link>https://mods.vintagestory.at/show/mod/recyclearmors</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/recyclearmors#10153</guid>
+    <pubDate>Sat, 11 Jul 2026 15:10:12 -0000</pubDate>
+    <description>Recycle metal armors back to thier base components.</description>
+  </item>
+  <item>
+    <title>Secret Foxfire 1.22 Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10037</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10037#10037</guid>
+    <pubDate>Sat, 11 Jul 2026 15:03:02 -0000</pubDate>
+    <description>Tweaks for my community 1.22 server.</description>
+  </item>
   <item>
     <title>Long Clay Bricks</title>
     <link>https://mods.vintagestory.at/show/mod/longclaybricks</link>
@@ -74,13 +109,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canrpgclasses#9965</guid>
     <pubDate>Sat, 11 Jul 2026 12:38:20 -0000</pubDate>
     <description>RPG classes for Vintage Story</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/10162</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10162#10162</guid>
-    <pubDate>Sat, 11 Jul 2026 12:22:38 -0000</pubDate>
-    <description>Generic gridless crafting system that completely replaces all UI grid recipes</description>
   </item>
   <item>
     <title>Jaunt Speed Patch</title>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8170#8170</guid>
     <pubDate>Sat, 11 Jul 2026 06:58:44 -0000</pubDate>
     <description>A religion and RP progression mod for Vintage Story focused on holy sites, blessings, and pilgrimage</description>
-  </item>
-  <item>
-    <title>Immersive Body Temperature</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivebodytemperature</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebodytemperature#7966</guid>
-    <pubDate>Sat, 11 Jul 2026 06:39:58 -0000</pubDate>
-    <description>Prepare for summer! Makes hot climates as challenging as cold ones.</description>
-  </item>
-  <item>
-    <title>Electrical Progressive: Basics No Gen</title>
-    <link>https://mods.vintagestory.at/show/mod/10195</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10195#10195</guid>
-    <pubDate>Sat, 11 Jul 2026 06:10:05 -0000</pubDate>
-    <description>Basic electrical devices... but without the Generators.</description>
-  </item>
-  <item>
-    <title>Weaker Oil Lamps</title>
-    <link>https://mods.vintagestory.at/show/mod/10167</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10167#10167</guid>
-    <pubDate>Sat, 11 Jul 2026 06:06:56 -0000</pubDate>
-    <description>Makes oil lamps less bright and less white.</description>
-  </item>
-  <item>
-    <title>The Remnants Reborn</title>
-    <link>https://mods.vintagestory.at/show/mod/theremnantsreborn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/theremnantsreborn#6243</guid>
-    <pubDate>Sat, 11 Jul 2026 05:47:36 -0000</pubDate>
-    <description>Adds a series of custom flavor classes heavily inspired by the Vintage Story lore. 1.22 update.</description>
   </item>
 </channel>
 </rss>
