@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 11 Jul 2026 21:52:40 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 22:52:49 +0000</lastBuildDate>
+  <item>
+    <title>Falx to Sword</title>
+    <link>https://mods.vintagestory.at/show/mod/10207</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10207#10207</guid>
+    <pubDate>Sat, 11 Jul 2026 22:42:34 -0000</pubDate>
+    <description>The barbaric Falx not your liking? Take this Arming Sword instead.</description>
+  </item>
+  <item>
+    <title>Falx To Warhammer</title>
+    <link>https://mods.vintagestory.at/show/mod/falxtowarhammer</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/falxtowarhammer#10200</guid>
+    <pubDate>Sat, 11 Jul 2026 22:29:55 -0000</pubDate>
+    <description>Turns your trusty Falx into an even trustier Warhammer. Smash your enemies rusty bones!</description>
+  </item>
+  <item>
+    <title>JSCM Frozen Struggles</title>
+    <link>https://mods.vintagestory.at/show/mod/jscmfs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jscmfs#9992</guid>
+    <pubDate>Sat, 11 Jul 2026 22:25:06 -0000</pubDate>
+    <description>A new modpack for my girlfriend and I. Focused around a Sub-Artic playthrough</description>
+  </item>
+  <item>
+    <title>Cozy Pierzynas</title>
+    <link>https://mods.vintagestory.at/show/mod/10099</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10099#10099</guid>
+    <pubDate>Sat, 11 Jul 2026 22:06:04 -0000</pubDate>
+    <description>Adds new uses for feathers. Pillows and duvets in many colors.</description>
+  </item>
   <item>
     <title>FasterSteel</title>
     <link>https://mods.vintagestory.at/show/mod/6741</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10177#10177</guid>
     <pubDate>Sat, 11 Jul 2026 17:34:45 -0000</pubDate>
     <description>Adds the family of ornithomimosauria dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Horned Crown — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10178</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10178#10178</guid>
-    <pubDate>Sat, 11 Jul 2026 17:34:07 -0000</pubDate>
-    <description>Adds the family of ceratopsian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Fused Body — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10179</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10179#10179</guid>
-    <pubDate>Sat, 11 Jul 2026 17:33:30 -0000</pubDate>
-    <description>Adds the family of ankylosaurian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Domed Head — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10180</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10180#10180</guid>
-    <pubDate>Sat, 11 Jul 2026 17:32:46 -0000</pubDate>
-    <description>Adds the family of pachycephalosaurians dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Carnivorous Bull — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10181</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10181#10181</guid>
-    <pubDate>Sat, 11 Jul 2026 17:32:12 -0000</pubDate>
-    <description>Adds severals abelisaurids to Vintage Story.</description>
   </item>
 </channel>
 </rss>
