@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 11 Jul 2026 17:55:45 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 19:10:13 +0000</lastBuildDate>
+  <item>
+    <title>Sundered Isles Custom Models</title>
+    <link>https://mods.vintagestory.at/show/mod/9583</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9583#9583</guid>
+    <pubDate>Sat, 11 Jul 2026 18:51:21 -0000</pubDate>
+    <description>Custom blocks and items made for the Sundered Isles Server. </description>
+  </item>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/10162</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10162#10162</guid>
+    <pubDate>Sat, 11 Jul 2026 18:50:51 -0000</pubDate>
+    <description>Generic gridless crafting system that completely replaces all UI grid recipes</description>
+  </item>
+  <item>
+    <title>Meliora Meadows Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
+    <pubDate>Sat, 11 Jul 2026 18:47:40 -0000</pubDate>
+    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
+  </item>
+  <item>
+    <title>Rot from containers</title>
+    <link>https://mods.vintagestory.at/show/mod/10203</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10203#10203</guid>
+    <pubDate>Sat, 11 Jul 2026 18:21:48 -0000</pubDate>
+    <description>Allows rot to be extracted from containers through a crafting grid.</description>
+  </item>
+  <item>
+    <title>Electrical Progressive: Basics No Gen</title>
+    <link>https://mods.vintagestory.at/show/mod/10195</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10195#10195</guid>
+    <pubDate>Sat, 11 Jul 2026 18:14:42 -0000</pubDate>
+    <description>Basic electrical devices... but without the Generators.</description>
+  </item>
+  <item>
+    <title>Extreme Weathers [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/10098</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
+    <pubDate>Sat, 11 Jul 2026 18:14:37 -0000</pubDate>
+    <description>Introduces new weather mechanics using the vanilla weather system.</description>
+  </item>
+  <item>
+    <title>C4B Traducciones-ES ► MODS</title>
+    <link>https://mods.vintagestory.at/show/mod/cabtraduccionesmods</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cabtraduccionesmods#2720</guid>
+    <pubDate>Sat, 11 Jul 2026 18:12:38 -0000</pubDate>
+    <description>Paquete de Traducciones de Mods en Español-ES</description>
+  </item>
+  <item>
+    <title>Freshness Overlay</title>
+    <link>https://mods.vintagestory.at/show/mod/10190</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10190#10190</guid>
+    <pubDate>Sat, 11 Jul 2026 18:04:34 -0000</pubDate>
+    <description>Shows freshness of food and hides.</description>
+  </item>
+  <item>
+    <title>Safe Fluid Cooking</title>
+    <link>https://mods.vintagestory.at/show/mod/safefluidcooking</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/safefluidcooking#9942</guid>
+    <pubDate>Sat, 11 Jul 2026 18:01:35 -0000</pubDate>
+    <description>No more lost liquids while cooking. You'll get burnt if you try.</description>
+  </item>
   <item>
     <title>Alegacy Quest Framework</title>
     <link>https://mods.vintagestory.at/show/mod/6609</link>
@@ -139,13 +202,6 @@
     <description>Simple compatibility layer for haptic feedback devices connected through Intiface Central.</description>
   </item>
   <item>
-    <title>Freshness Overlay</title>
-    <link>https://mods.vintagestory.at/show/mod/10190</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10190#10190</guid>
-    <pubDate>Sat, 11 Jul 2026 16:54:32 -0000</pubDate>
-    <description>Shows freshness of food and hides.</description>
-  </item>
-  <item>
     <title>Barnacle Raft (meditation edition)</title>
     <link>https://mods.vintagestory.at/show/mod/barnacleraft</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/barnacleraft#10201</guid>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rpcharcreator#10074</guid>
     <pubDate>Sat, 11 Jul 2026 15:55:13 -0000</pubDate>
     <description>Classic choose-your-own-adventure style character creator for Vintage Story. Server authored!</description>
-  </item>
-  <item>
-    <title>Immersive Body Temperature</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivebodytemperature</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebodytemperature#7966</guid>
-    <pubDate>Sat, 11 Jul 2026 15:47:03 -0000</pubDate>
-    <description>Prepare for summer! Makes hot climates as challenging as cold ones.</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/10162</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10162#10162</guid>
-    <pubDate>Sat, 11 Jul 2026 15:27:01 -0000</pubDate>
-    <description>Generic gridless crafting system that completely replaces all UI grid recipes</description>
-  </item>
-  <item>
-    <title>Recycle Armors</title>
-    <link>https://mods.vintagestory.at/show/mod/recyclearmors</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/recyclearmors#10153</guid>
-    <pubDate>Sat, 11 Jul 2026 15:10:12 -0000</pubDate>
-    <description>Recycle metal armors back to thier base components.</description>
-  </item>
-  <item>
-    <title>Secret Foxfire 1.22 Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10037</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10037#10037</guid>
-    <pubDate>Sat, 11 Jul 2026 15:03:02 -0000</pubDate>
-    <description>Tweaks for my community 1.22 server.</description>
-  </item>
-  <item>
-    <title>Long Clay Bricks</title>
-    <link>https://mods.vintagestory.at/show/mod/longclaybricks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/longclaybricks#7675</guid>
-    <pubDate>Sat, 11 Jul 2026 14:53:50 -0000</pubDate>
-    <description>Adds a new long variant of the clay bricks.</description>
-  </item>
-  <item>
-    <title>Alegacy patches</title>
-    <link>https://mods.vintagestory.at/show/mod/6997</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6997#6997</guid>
-    <pubDate>Sat, 11 Jul 2026 14:44:29 -0000</pubDate>
-    <description>targeted patches for the Alegacy server setup</description>
-  </item>
-  <item>
-    <title>Alegacy Quest 2</title>
-    <link>https://mods.vintagestory.at/show/mod/6694</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6694#6694</guid>
-    <pubDate>Sat, 11 Jul 2026 14:44:07 -0000</pubDate>
-    <description>Quests made for alegacy server</description>
-  </item>
-  <item>
-    <title>Falx To Warhammer</title>
-    <link>https://mods.vintagestory.at/show/mod/falxtowarhammer</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/falxtowarhammer#10200</guid>
-    <pubDate>Sat, 11 Jul 2026 14:32:46 -0000</pubDate>
-    <description>Turns your trusty Falx into an even trustier Warhammer. Smash your enemies rusty bones!</description>
   </item>
 </channel>
 </rss>
