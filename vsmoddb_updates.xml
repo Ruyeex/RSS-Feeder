@@ -4,27 +4,41 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 11 Jul 2026 11:07:46 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 13:25:21 +0000</lastBuildDate>
+  <item>
+    <title>C&amp;N RPG Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/canrpgclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canrpgclasses#9965</guid>
+    <pubDate>Sat, 11 Jul 2026 12:38:20 -0000</pubDate>
+    <description>RPG classes for Vintage Story</description>
+  </item>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/10162</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10162#10162</guid>
+    <pubDate>Sat, 11 Jul 2026 12:22:38 -0000</pubDate>
+    <description>Generic gridless crafting system that completely replaces all UI grid recipes</description>
+  </item>
   <item>
     <title>BeeBoyPatch</title>
-    <link>https://mods.vintagestory.at/show/mod/10196</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10196#10196</guid>
-    <pubDate>Sat, 11 Jul 2026 10:38:11 -0000</pubDate>
-    <description>test</description>
+    <link>https://mods.vintagestory.at/show/mod/bbpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bbpatch#10196</guid>
+    <pubDate>Sat, 11 Jul 2026 11:17:37 -0000</pubDate>
+    <description> patch for private server</description>
   </item>
   <item>
     <title>BeeBoy Server Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/10197</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10197#10197</guid>
+    <link>https://mods.vintagestory.at/show/mod/bbsf</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bbsf#10197</guid>
     <pubDate>Sat, 11 Jul 2026 10:37:43 -0000</pubDate>
-    <description>test</description>
+    <description> patch for private server</description>
   </item>
   <item>
     <title>BeeBoyOptimize</title>
-    <link>https://mods.vintagestory.at/show/mod/10198</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10198#10198</guid>
+    <link>https://mods.vintagestory.at/show/mod/bbo</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bbo#10198</guid>
     <pubDate>Sat, 11 Jul 2026 10:36:49 -0000</pubDate>
-    <description>test</description>
+    <description>optimize patch for private server</description>
   </item>
   <item>
     <title>Jaunt Speed Patch</title>
@@ -74,13 +88,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chunklod#7929</guid>
     <pubDate>Sat, 11 Jul 2026 09:10:00 -0000</pubDate>
     <description>A Heavily Modified Fork of Farseer, representing terrain, rock type, forestation, and water as LOD's</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/10162</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10162#10162</guid>
-    <pubDate>Sat, 11 Jul 2026 08:57:07 -0000</pubDate>
-    <description>Generic gridless crafting system that completely replaces all UI grid recipes</description>
   </item>
   <item>
     <title>Logging Expanded</title>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10083#10083</guid>
     <pubDate>Sat, 11 Jul 2026 03:04:51 -0000</pubDate>
     <description>dynamic/stateful climate system based on chunk/region-derived wind, humidity, temperature, pressure</description>
-  </item>
-  <item>
-    <title>Dame Elswyth’s Summons</title>
-    <link>https://mods.vintagestory.at/show/mod/10139</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10139#10139</guid>
-    <pubDate>Sat, 11 Jul 2026 02:25:36 -0000</pubDate>
-    <description>Find and summon lost pets.  Fixes PetAI fire avoidance AI task for tamed pets.</description>
   </item>
 </channel>
 </rss>
