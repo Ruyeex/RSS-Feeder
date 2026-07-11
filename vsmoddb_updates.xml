@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 11 Jul 2026 13:25:21 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 14:56:46 +0000</lastBuildDate>
+  <item>
+    <title>Long Clay Bricks</title>
+    <link>https://mods.vintagestory.at/show/mod/longclaybricks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/longclaybricks#7675</guid>
+    <pubDate>Sat, 11 Jul 2026 14:53:50 -0000</pubDate>
+    <description>Adds a new long variant of the clay bricks.</description>
+  </item>
+  <item>
+    <title>Alegacy patches</title>
+    <link>https://mods.vintagestory.at/show/mod/6997</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6997#6997</guid>
+    <pubDate>Sat, 11 Jul 2026 14:44:29 -0000</pubDate>
+    <description>targeted patches for the Alegacy server setup</description>
+  </item>
+  <item>
+    <title>Alegacy Quest 2</title>
+    <link>https://mods.vintagestory.at/show/mod/6694</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6694#6694</guid>
+    <pubDate>Sat, 11 Jul 2026 14:44:07 -0000</pubDate>
+    <description>Quests made for alegacy server</description>
+  </item>
+  <item>
+    <title>Alegacy Quest Framework</title>
+    <link>https://mods.vintagestory.at/show/mod/6609</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6609#6609</guid>
+    <pubDate>Sat, 11 Jul 2026 14:40:59 -0000</pubDate>
+    <description>Alegacy Quest Framework is a full-featured quest and boss combat engine for Vintage Story.</description>
+  </item>
+  <item>
+    <title>Falx To Warhammer</title>
+    <link>https://mods.vintagestory.at/show/mod/falxtowarhammer</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/falxtowarhammer#10200</guid>
+    <pubDate>Sat, 11 Jul 2026 14:32:46 -0000</pubDate>
+    <description>Turns your trusty Falx into an even trustier Warhammer. Smash your enemies rusty bones!</description>
+  </item>
+  <item>
+    <title>Immersive Inventory Slots </title>
+    <link>https://mods.vintagestory.at/show/mod/10199</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10199#10199</guid>
+    <pubDate>Sat, 11 Jul 2026 14:00:47 -0000</pubDate>
+    <description>Removes inventory slots, leaving only the crafting grid</description>
+  </item>
+  <item>
+    <title>Rock Attac - Armor Protec</title>
+    <link>https://mods.vintagestory.at/show/mod/caveinarmor</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caveinarmor#9035</guid>
+    <pubDate>Sat, 11 Jul 2026 14:00:24 -0000</pubDate>
+    <description>Enables vanilla armor to natively mitigate crushing damage from falling blocks.</description>
+  </item>
+  <item>
+    <title>Bear's Shifty Earth</title>
+    <link>https://mods.vintagestory.at/show/mod/bearsshiftyearth</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bearsshiftyearth#9688</guid>
+    <pubDate>Sat, 11 Jul 2026 13:52:47 -0000</pubDate>
+    <description>Overhauls soil instability to make it more engaging, sensible, and configurable.</description>
+  </item>
+  <item>
+    <title>C&amp;N Trader</title>
+    <link>https://mods.vintagestory.at/show/mod/cantrader</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cantrader#669</guid>
+    <pubDate>Sat, 11 Jul 2026 13:52:25 -0000</pubDate>
+    <description>Custom trader for server</description>
+  </item>
   <item>
     <title>C&amp;N RPG Classes</title>
     <link>https://mods.vintagestory.at/show/mod/canrpgclasses</link>
@@ -18,27 +81,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10162#10162</guid>
     <pubDate>Sat, 11 Jul 2026 12:22:38 -0000</pubDate>
     <description>Generic gridless crafting system that completely replaces all UI grid recipes</description>
-  </item>
-  <item>
-    <title>BeeBoyPatch</title>
-    <link>https://mods.vintagestory.at/show/mod/bbpatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bbpatch#10196</guid>
-    <pubDate>Sat, 11 Jul 2026 11:17:37 -0000</pubDate>
-    <description> patch for private server</description>
-  </item>
-  <item>
-    <title>BeeBoy Server Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/bbsf</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bbsf#10197</guid>
-    <pubDate>Sat, 11 Jul 2026 10:37:43 -0000</pubDate>
-    <description> patch for private server</description>
-  </item>
-  <item>
-    <title>BeeBoyOptimize</title>
-    <link>https://mods.vintagestory.at/show/mod/bbo</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bbo#10198</guid>
-    <pubDate>Sat, 11 Jul 2026 10:36:49 -0000</pubDate>
-    <description>optimize patch for private server</description>
   </item>
   <item>
     <title>Jaunt Speed Patch</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/theremnantsreborn#6243</guid>
     <pubDate>Sat, 11 Jul 2026 05:47:36 -0000</pubDate>
     <description>Adds a series of custom flavor classes heavily inspired by the Vintage Story lore. 1.22 update.</description>
-  </item>
-  <item>
-    <title>Locust Drider Race (Drocust)</title>
-    <link>https://mods.vintagestory.at/show/mod/drocust</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drocust#7918</guid>
-    <pubDate>Sat, 11 Jul 2026 05:29:32 -0000</pubDate>
-    <description>D&amp;D drider, but turned into locust instead of spider</description>
-  </item>
-  <item>
-    <title>Better Honey in Meals</title>
-    <link>https://mods.vintagestory.at/show/mod/betterhoneyinmeals</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhoneyinmeals#5475</guid>
-    <pubDate>Sat, 11 Jul 2026 05:17:31 -0000</pubDate>
-    <description>Makes honey give the same amount of satiety in a meal as most fruits, but not as much as breadfruit.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sat, 11 Jul 2026 04:51:07 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Vintage Story Chinese Language Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
-    <pubDate>Sat, 11 Jul 2026 04:50:40 -0000</pubDate>
-    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
-  </item>
-  <item>
-    <title>Only Flower Seeds</title>
-    <link>https://mods.vintagestory.at/show/mod/9856</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9856#9856</guid>
-    <pubDate>Sat, 11 Jul 2026 04:20:18 -0000</pubDate>
-    <description>Cultivate vanilla flowers by extracting seeds from them.</description>
-  </item>
-  <item>
-    <title>WeatherStory</title>
-    <link>https://mods.vintagestory.at/show/mod/10083</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10083#10083</guid>
-    <pubDate>Sat, 11 Jul 2026 03:04:51 -0000</pubDate>
-    <description>dynamic/stateful climate system based on chunk/region-derived wind, humidity, temperature, pressure</description>
   </item>
 </channel>
 </rss>
