@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 11 Jul 2026 09:40:08 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 11:07:46 +0000</lastBuildDate>
+  <item>
+    <title>BeeBoyPatch</title>
+    <link>https://mods.vintagestory.at/show/mod/10196</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10196#10196</guid>
+    <pubDate>Sat, 11 Jul 2026 10:38:11 -0000</pubDate>
+    <description>test</description>
+  </item>
+  <item>
+    <title>BeeBoy Server Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/10197</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10197#10197</guid>
+    <pubDate>Sat, 11 Jul 2026 10:37:43 -0000</pubDate>
+    <description>test</description>
+  </item>
+  <item>
+    <title>BeeBoyOptimize</title>
+    <link>https://mods.vintagestory.at/show/mod/10198</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10198#10198</guid>
+    <pubDate>Sat, 11 Jul 2026 10:36:49 -0000</pubDate>
+    <description>test</description>
+  </item>
+  <item>
+    <title>Jaunt Speed Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/jauntspeedpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jauntspeedpatch#9764</guid>
+    <pubDate>Sat, 11 Jul 2026 10:29:46 -0000</pubDate>
+    <description>Server-side speed patch for Jaunt mounts.</description>
+  </item>
+  <item>
+    <title>Animalica - Body Tools &amp; Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicabtc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicabtc#9867</guid>
+    <pubDate>Sat, 11 Jul 2026 10:00:05 -0000</pubDate>
+    <description>Adds wearable claws, fangs, body tools, and animal classes for Fox, Wolf, and Hyena for now</description>
+  </item>
+  <item>
+    <title>rawNature</title>
+    <link>https://mods.vintagestory.at/show/mod/raw</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/raw#5940</guid>
+    <pubDate>Sat, 11 Jul 2026 09:42:23 -0000</pubDate>
+    <description>Adds materials, recipes, items, and a new balance of things to the game</description>
+  </item>
   <item>
     <title>Boat Speed Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/boatspeedtweaks</link>
@@ -18,13 +60,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/murlokvspatch#5307</guid>
     <pubDate>Sat, 11 Jul 2026 09:29:29 -0000</pubDate>
     <description>Collection of tweaks for the Murlok server and playthrough.</description>
-  </item>
-  <item>
-    <title>Animalica - Body Tools &amp; Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicabtc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicabtc#9867</guid>
-    <pubDate>Sat, 11 Jul 2026 09:19:11 -0000</pubDate>
-    <description>Adds wearable claws, fangs, body tools, and animal classes for Fox, Wolf, and Hyena for now</description>
   </item>
   <item>
     <title>RP Voice Chat</title>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10139#10139</guid>
     <pubDate>Sat, 11 Jul 2026 02:25:36 -0000</pubDate>
     <description>Find and summon lost pets.  Fixes PetAI fire avoidance AI task for tamed pets.</description>
-  </item>
-  <item>
-    <title>Ancestral Bliss Shaders</title>
-    <link>https://mods.vintagestory.at/show/mod/ancestralblissshaders</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancestralblissshaders#6110</guid>
-    <pubDate>Sat, 11 Jul 2026 02:22:22 -0000</pubDate>
-    <description>Shaders compatible with most GPUs</description>
-  </item>
-  <item>
-    <title>Prospector's Instinct</title>
-    <link>https://mods.vintagestory.at/show/mod/prospectorsinstinct</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/prospectorsinstinct#10192</guid>
-    <pubDate>Sat, 11 Jul 2026 01:57:22 -0000</pubDate>
-    <description>Subtle particle guidance that helps locate nearby ore while preserving the spirit of prospecting.</description>
-  </item>
-  <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Sat, 11 Jul 2026 00:19:06 -0000</pubDate>
-    <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Casuariidae Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/casuariidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/casuariidae#2066</guid>
-    <pubDate>Fri, 10 Jul 2026 23:41:19 -0000</pubDate>
-    <description>A collection of Cassowary, Emu and flightless Australian birds from human history.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Capreolinae</title>
-    <link>https://mods.vintagestory.at/show/mod/capreolinae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/capreolinae#1254</guid>
-    <pubDate>Fri, 10 Jul 2026 23:40:29 -0000</pubDate>
-    <description>A collection of New World deer from the Holocene.</description>
   </item>
 </channel>
 </rss>
