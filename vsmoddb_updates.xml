@@ -4,7 +4,21 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 11 Jul 2026 22:52:49 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 23:57:51 +0000</lastBuildDate>
+  <item>
+    <title>Liquid Containers (Unofficial)</title>
+    <link>https://mods.vintagestory.at/show/mod/10208</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10208#10208</guid>
+    <pubDate>Sat, 11 Jul 2026 23:30:54 -0000</pubDate>
+    <description>Update of Liquid Containers to 1.22.</description>
+  </item>
+  <item>
+    <title>Seasonal Flowers</title>
+    <link>https://mods.vintagestory.at/show/mod/9785</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9785#9785</guid>
+    <pubDate>Sat, 11 Jul 2026 23:08:25 -0000</pubDate>
+    <description>Flowers now sprout, bloom, die back, and go dormant. (The mod that hides flowers in the winter)</description>
+  </item>
   <item>
     <title>Falx to Sword</title>
     <link>https://mods.vintagestory.at/show/mod/10207</link>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10175#10175</guid>
     <pubDate>Sat, 11 Jul 2026 17:36:03 -0000</pubDate>
     <description>Adds severals Mosasaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Long Neck — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10176</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10176#10176</guid>
-    <pubDate>Sat, 11 Jul 2026 17:35:26 -0000</pubDate>
-    <description>Adds the family of Macronarians dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Horrible Hands — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10177</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10177#10177</guid>
-    <pubDate>Sat, 11 Jul 2026 17:34:45 -0000</pubDate>
-    <description>Adds the family of ornithomimosauria dinosaurs to Vintage Story.</description>
   </item>
 </channel>
 </rss>
