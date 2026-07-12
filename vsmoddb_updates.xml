@@ -4,13 +4,62 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 12 Jul 2026 03:44:32 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 06:35:43 +0000</lastBuildDate>
+  <item>
+    <title>Metal Ladders</title>
+    <link>https://mods.vintagestory.at/show/mod/10212</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10212#10212</guid>
+    <pubDate>Sun, 12 Jul 2026 06:20:47 -0000</pubDate>
+    <description>Adds metal ladders</description>
+  </item>
   <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/9635</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sun, 12 Jul 2026 03:32:08 -0000</pubDate>
+    <pubDate>Sun, 12 Jul 2026 06:10:09 -0000</pubDate>
     <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Automated Server Messages</title>
+    <link>https://mods.vintagestory.at/show/mod/automatedservermessages</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/automatedservermessages#4720</guid>
+    <pubDate>Sun, 12 Jul 2026 05:57:16 -0000</pubDate>
+    <description>Admins can set recurring server-wide messages everybody can see.</description>
+  </item>
+  <item>
+    <title>Use Beeswax instead of Fat</title>
+    <link>https://mods.vintagestory.at/show/mod/usewaxinsteadoffat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/usewaxinsteadoffat#5182</guid>
+    <pubDate>Sun, 12 Jul 2026 05:42:02 -0000</pubDate>
+    <description>I couldn't find the motivation for animal husbandry, but I do have many many bees.</description>
+  </item>
+  <item>
+    <title>Modular Backpacks Lights Out</title>
+    <link>https://mods.vintagestory.at/show/mod/modularbackpackslightsout</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpackslightsout#10211</guid>
+    <pubDate>Sun, 12 Jul 2026 05:39:45 -0000</pubDate>
+    <description>Simple change to Modular Backpacks to remove lantern attachment.</description>
+  </item>
+  <item>
+    <title>Uppsalchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/10141</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10141#10141</guid>
+    <pubDate>Sun, 12 Jul 2026 05:29:34 -0000</pubDate>
+    <description>A multi-tier alchemy system that uses A Culinary Artillery bottles.</description>
+  </item>
+  <item>
+    <title>More Roads and Paths 2.0.0</title>
+    <link>https://mods.vintagestory.at/show/mod/moreroadsandpaths</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreroadsandpaths#15</guid>
+    <pubDate>Sun, 12 Jul 2026 04:46:29 -0000</pubDate>
+    <description>What do you THINK this adds?</description>
+  </item>
+  <item>
+    <title>Immersive Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivebackpacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpacks#9787</guid>
+    <pubDate>Sun, 12 Jul 2026 03:46:52 -0000</pubDate>
+    <description>Makes backpacks visible on the player and redesigns the mechanic with immersion and realism in mind.</description>
   </item>
   <item>
     <title>Pencil</title>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10203#10203</guid>
     <pubDate>Sat, 11 Jul 2026 18:21:48 -0000</pubDate>
     <description>Allows rot to be extracted from containers through a crafting grid.</description>
-  </item>
-  <item>
-    <title>Electrical Progressive: Basics No Gen</title>
-    <link>https://mods.vintagestory.at/show/mod/10195</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10195#10195</guid>
-    <pubDate>Sat, 11 Jul 2026 18:14:42 -0000</pubDate>
-    <description>Basic electrical devices... but without the Generators.</description>
-  </item>
-  <item>
-    <title>C4B Traducciones-ES ► MODS</title>
-    <link>https://mods.vintagestory.at/show/mod/cabtraduccionesmods</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cabtraduccionesmods#2720</guid>
-    <pubDate>Sat, 11 Jul 2026 18:12:38 -0000</pubDate>
-    <description>Paquete de Traducciones de Mods en Español-ES</description>
-  </item>
-  <item>
-    <title>Freshness Overlay</title>
-    <link>https://mods.vintagestory.at/show/mod/10190</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10190#10190</guid>
-    <pubDate>Sat, 11 Jul 2026 18:04:34 -0000</pubDate>
-    <description>Shows freshness of food and hides.</description>
-  </item>
-  <item>
-    <title>Safe Fluid Cooking</title>
-    <link>https://mods.vintagestory.at/show/mod/safefluidcooking</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/safefluidcooking#9942</guid>
-    <pubDate>Sat, 11 Jul 2026 18:01:35 -0000</pubDate>
-    <description>No more lost liquids while cooking. You'll get burnt if you try.</description>
-  </item>
-  <item>
-    <title>Alegacy Quest Framework</title>
-    <link>https://mods.vintagestory.at/show/mod/6609</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6609#6609</guid>
-    <pubDate>Sat, 11 Jul 2026 17:53:09 -0000</pubDate>
-    <description>Alegacy Quest Framework is a full-featured quest and boss combat engine for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Coinage</title>
-    <link>https://mods.vintagestory.at/show/mod/coinage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/coinage#641</guid>
-    <pubDate>Sat, 11 Jul 2026 17:43:16 -0000</pubDate>
-    <description>Design and mint your own custom coins to trade with.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Shovel Mouth — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10169</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10169#10169</guid>
-    <pubDate>Sat, 11 Jul 2026 17:39:43 -0000</pubDate>
-    <description>Adds the family of hadrosauroids dinosaurs to Vintage Story. Unofficial compatibility port for Vinta</description>
   </item>
 </channel>
 </rss>
