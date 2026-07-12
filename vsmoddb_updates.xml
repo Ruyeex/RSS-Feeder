@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 12 Jul 2026 13:25:39 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 14:59:19 +0000</lastBuildDate>
+  <item>
+    <title>In Dappled Groves Firewood Buff Continued</title>
+    <link>https://mods.vintagestory.at/show/mod/10001</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10001#10001</guid>
+    <pubDate>Sun, 12 Jul 2026 14:50:15 -0000</pubDate>
+    <description>Adjusts some of In Dappled Groves' recipes</description>
+  </item>
+  <item>
+    <title>Kobold Player Model Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/koboldrdx</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/koboldrdx#4814</guid>
+    <pubDate>Sun, 12 Jul 2026 14:23:46 -0000</pubDate>
+    <description>A complete 1.21+ remake of Soi's Kobold player model, for PlayerModelLib by Maltiez!</description>
+  </item>
+  <item>
+    <title>Daubweave</title>
+    <link>https://mods.vintagestory.at/show/mod/daubweave</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/daubweave#10217</guid>
+    <pubDate>Sun, 12 Jul 2026 14:19:32 -0000</pubDate>
+    <description>A simple patch to buff daub output, and adds an alternative to craft daub blocks!</description>
+  </item>
+  <item>
+    <title>fish(wastaken) Classes Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10213</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10213#10213</guid>
+    <pubDate>Sun, 12 Jul 2026 14:03:44 -0000</pubDate>
+    <description>small personal patch for GlooMeClasses. Requires Rustbound Magic as well</description>
+  </item>
+  <item>
+    <title>Charlotte &amp; Tassa's clothes</title>
+    <link>https://mods.vintagestory.at/show/mod/charlottesclothes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/charlottesclothes#4479</guid>
+    <pubDate>Sun, 12 Jul 2026 13:52:27 -0000</pubDate>
+    <description>This mod add clothes in the game.</description>
+  </item>
   <item>
     <title>Ecosystem - Flora</title>
     <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
@@ -21,8 +56,8 @@
   </item>
   <item>
     <title>Secure Cooking Pots</title>
-    <link>https://mods.vintagestory.at/show/mod/safefluidcooking</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/safefluidcooking#9942</guid>
+    <link>https://mods.vintagestory.at/show/mod/securecookingpots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/securecookingpots#9942</guid>
     <pubDate>Sun, 12 Jul 2026 13:01:30 -0000</pubDate>
     <description>No more lost liquids while cooking. You'll get burnt if you try.</description>
   </item>
@@ -118,13 +153,6 @@
     <description>Patches mods to to make them look better in mods that use Window Storage Lib slots</description>
   </item>
   <item>
-    <title>fish(wastaken) Classes Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10213</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10213#10213</guid>
-    <pubDate>Sun, 12 Jul 2026 07:31:39 -0000</pubDate>
-    <description>small personal patch for GlooMeClasses. Requires Rustbound Magic as well</description>
-  </item>
-  <item>
     <title>Freshness Overlay</title>
     <link>https://mods.vintagestory.at/show/mod/10190</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10190#10190</guid>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreroadsandpaths#15</guid>
     <pubDate>Sun, 12 Jul 2026 04:46:29 -0000</pubDate>
     <description>What do you THINK this adds?</description>
-  </item>
-  <item>
-    <title>Immersive Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivebackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpacks#9787</guid>
-    <pubDate>Sun, 12 Jul 2026 03:46:52 -0000</pubDate>
-    <description>Makes backpacks visible on the player and redesigns the mechanic with immersion and realism in mind.</description>
-  </item>
-  <item>
-    <title>Pencil</title>
-    <link>https://mods.vintagestory.at/show/mod/5427</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5427#5427</guid>
-    <pubDate>Sun, 12 Jul 2026 03:30:40 -0000</pubDate>
-    <description>Adds a pencil that can be used to write on signs and in books</description>
-  </item>
-  <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Sun, 12 Jul 2026 03:24:55 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
-  </item>
-  <item>
-    <title>GamepadCompanionVS</title>
-    <link>https://mods.vintagestory.at/show/mod/8669</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8669#8669</guid>
-    <pubDate>Sun, 12 Jul 2026 01:40:10 -0000</pubDate>
-    <description>Native gamepad support for Vintage Story 1.22+ — 12-slot radial menu, virtual cursor for GUI, etc. </description>
   </item>
 </channel>
 </rss>
