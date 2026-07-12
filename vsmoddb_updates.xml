@@ -4,12 +4,47 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 12 Jul 2026 11:13:49 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 13:25:39 +0000</lastBuildDate>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Sun, 12 Jul 2026 13:17:07 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>Dame Elswyth’s Summons</title>
+    <link>https://mods.vintagestory.at/show/mod/10139</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10139#10139</guid>
+    <pubDate>Sun, 12 Jul 2026 13:13:46 -0000</pubDate>
+    <description>Find and summon lost pets.  Fixes PetAI fire avoidance AI task for tamed pets.</description>
+  </item>
+  <item>
+    <title>Secure Cooking Pots</title>
+    <link>https://mods.vintagestory.at/show/mod/safefluidcooking</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/safefluidcooking#9942</guid>
+    <pubDate>Sun, 12 Jul 2026 13:01:30 -0000</pubDate>
+    <description>No more lost liquids while cooking. You'll get burnt if you try.</description>
+  </item>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/10162</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10162#10162</guid>
+    <pubDate>Sun, 12 Jul 2026 12:19:25 -0000</pubDate>
+    <description>Generic gridless crafting system that completely replaces all UI grid recipes</description>
+  </item>
+  <item>
+    <title>Murlok Vintage Server Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/murlokvspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/murlokvspatch#5307</guid>
+    <pubDate>Sun, 12 Jul 2026 12:14:29 -0000</pubDate>
+    <description>Collection of tweaks for the Murlok server and playthrough.</description>
+  </item>
   <item>
     <title>lhgui</title>
     <link>https://mods.vintagestory.at/show/mod/lhgui</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lhgui#4960</guid>
-    <pubDate>Sun, 12 Jul 2026 11:01:48 -0000</pubDate>
+    <pubDate>Sun, 12 Jul 2026 11:38:40 -0000</pubDate>
     <description>GUI mod for lasthearth server</description>
   </item>
   <item>
@@ -46,13 +81,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
     <pubDate>Sun, 12 Jul 2026 09:55:49 -0000</pubDate>
     <description>Introduces new weather mechanics using the vanilla weather system.</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/10162</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10162#10162</guid>
-    <pubDate>Sun, 12 Jul 2026 09:55:21 -0000</pubDate>
-    <description>Generic gridless crafting system that completely replaces all UI grid recipes</description>
   </item>
   <item>
     <title>Julz Addons</title>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8669#8669</guid>
     <pubDate>Sun, 12 Jul 2026 01:40:10 -0000</pubDate>
     <description>Native gamepad support for Vintage Story 1.22+ — 12-slot radial menu, virtual cursor for GUI, etc. </description>
-  </item>
-  <item>
-    <title>Leaf Litter</title>
-    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
-    <pubDate>Sun, 12 Jul 2026 00:32:43 -0000</pubDate>
-    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
-  </item>
-  <item>
-    <title>Liquid Containers (Unofficial)</title>
-    <link>https://mods.vintagestory.at/show/mod/10208</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10208#10208</guid>
-    <pubDate>Sat, 11 Jul 2026 23:30:54 -0000</pubDate>
-    <description>Update of Liquid Containers to 1.22.</description>
-  </item>
-  <item>
-    <title>Seasonal Flowers</title>
-    <link>https://mods.vintagestory.at/show/mod/9785</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9785#9785</guid>
-    <pubDate>Sat, 11 Jul 2026 23:08:25 -0000</pubDate>
-    <description>Flowers now sprout, bloom, die back, and go dormant. (The mod that hides flowers in the winter)</description>
-  </item>
-  <item>
-    <title>Falx to Sword</title>
-    <link>https://mods.vintagestory.at/show/mod/10207</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10207#10207</guid>
-    <pubDate>Sat, 11 Jul 2026 22:42:34 -0000</pubDate>
-    <description>The barbaric Falx not your liking? Take this Arming Sword instead.</description>
   </item>
 </channel>
 </rss>
