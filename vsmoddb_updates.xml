@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 12 Jul 2026 16:05:58 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 18:00:37 +0000</lastBuildDate>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Sun, 12 Jul 2026 17:48:57 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>Contribution Box</title>
+    <link>https://mods.vintagestory.at/show/mod/10225</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10225#10225</guid>
+    <pubDate>Sun, 12 Jul 2026 17:18:25 -0000</pubDate>
+    <description>ContributionBox turns vanilla crates into public contribution boxes</description>
+  </item>
+  <item>
+    <title>Underwater Horrors</title>
+    <link>https://mods.vintagestory.at/show/mod/7281</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7281#7281</guid>
+    <pubDate>Sun, 12 Jul 2026 16:52:55 -0000</pubDate>
+    <description>Adds nightmare sea monsters to Vintage Story (Sea Serpents, Kraken)</description>
+  </item>
+  <item>
+    <title>Limited PvP</title>
+    <link>https://mods.vintagestory.at/show/mod/9979</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9979#9979</guid>
+    <pubDate>Sun, 12 Jul 2026 16:38:41 -0000</pubDate>
+    <description>A server-side mod that allows you to create PvP zones.</description>
+  </item>
+  <item>
+    <title>Better Coke</title>
+    <link>https://mods.vintagestory.at/show/mod/10224</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10224#10224</guid>
+    <pubDate>Sun, 12 Jul 2026 16:34:49 -0000</pubDate>
+    <description>Makes coke burn longer and hotter.</description>
+  </item>
+  <item>
+    <title>Teleportation Runes - Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/10223</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10223#10223</guid>
+    <pubDate>Sun, 12 Jul 2026 16:12:36 -0000</pubDate>
+    <description>a fork of teleportation runes that greatly buff their durability</description>
+  </item>
   <item>
     <title>steamworks</title>
     <link>https://mods.vintagestory.at/show/mod/9040</link>
@@ -27,11 +69,11 @@
     <description>Balance tweaks to Fantasy Creatures Reborn</description>
   </item>
   <item>
-    <title>Clothes have Pockets</title>
+    <title>Clothes Have Pockets</title>
     <link>https://mods.vintagestory.at/show/mod/clotheshavepockets</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clotheshavepockets#10218</guid>
     <pubDate>Sun, 12 Jul 2026 15:02:40 -0000</pubDate>
-    <description>Adds inventory slots when wearing certain clothing</description>
+    <description>Adds pockets (inventory slots) to various clothing items</description>
   </item>
   <item>
     <title>In Dappled Groves Firewood Buff Continued</title>
@@ -67,13 +109,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/charlottesclothes#4479</guid>
     <pubDate>Sun, 12 Jul 2026 13:52:27 -0000</pubDate>
     <description>This mod add clothes in the game.</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Sun, 12 Jul 2026 13:17:07 -0000</pubDate>
-    <description>Making flora living</description>
   </item>
   <item>
     <title>Dame Elswyth’s Summons</title>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wsltransformpatches#10214</guid>
     <pubDate>Sun, 12 Jul 2026 08:10:59 -0000</pubDate>
     <description>Patches mods to to make them look better in mods that use Window Storage Lib slots</description>
-  </item>
-  <item>
-    <title>Freshness Overlay</title>
-    <link>https://mods.vintagestory.at/show/mod/10190</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10190#10190</guid>
-    <pubDate>Sun, 12 Jul 2026 07:18:25 -0000</pubDate>
-    <description>Shows freshness of food and hides.</description>
-  </item>
-  <item>
-    <title>DWC Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/dwcclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dwcclasses#5708</guid>
-    <pubDate>Sun, 12 Jul 2026 07:10:58 -0000</pubDate>
-    <description>Custom classes for DWC's private server.</description>
-  </item>
-  <item>
-    <title>Vintage Story Chinese Language Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
-    <pubDate>Sun, 12 Jul 2026 06:50:54 -0000</pubDate>
-    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
-  </item>
-  <item>
-    <title>Metal Ladders</title>
-    <link>https://mods.vintagestory.at/show/mod/10212</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10212#10212</guid>
-    <pubDate>Sun, 12 Jul 2026 06:20:47 -0000</pubDate>
-    <description>Adds metal ladders</description>
-  </item>
-  <item>
-    <title>Automated Server Messages</title>
-    <link>https://mods.vintagestory.at/show/mod/automatedservermessages</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/automatedservermessages#4720</guid>
-    <pubDate>Sun, 12 Jul 2026 05:57:16 -0000</pubDate>
-    <description>Admins can set recurring server-wide messages everybody can see.</description>
   </item>
 </channel>
 </rss>
