@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 12 Jul 2026 06:35:43 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 09:04:19 +0000</lastBuildDate>
+  <item>
+    <title>Speed Sleep</title>
+    <link>https://mods.vintagestory.at/show/mod/10215</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10215#10215</guid>
+    <pubDate>Sun, 12 Jul 2026 09:00:08 -0000</pubDate>
+    <description>The more players that are sleeping, the faster time passes. 100% of players asleep = vanilla</description>
+  </item>
+  <item>
+    <title>Extreme Weathers [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/10098</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
+    <pubDate>Sun, 12 Jul 2026 08:55:58 -0000</pubDate>
+    <description>Introduces new weather mechanics using the vanilla weather system.</description>
+  </item>
+  <item>
+    <title>C&amp;N Jewelry</title>
+    <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
+    <pubDate>Sun, 12 Jul 2026 08:11:02 -0000</pubDate>
+    <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
+  </item>
+  <item>
+    <title>Window Storage Lib - Transform Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/wsltransformpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wsltransformpatches#10214</guid>
+    <pubDate>Sun, 12 Jul 2026 08:10:59 -0000</pubDate>
+    <description>Patches mods to to make them look better in mods that use Window Storage Lib slots</description>
+  </item>
+  <item>
+    <title>fish(wastaken) Classes Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10213</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10213#10213</guid>
+    <pubDate>Sun, 12 Jul 2026 07:31:39 -0000</pubDate>
+    <description>small personal patch for GlooMeClasses. Requires Rustbound Magic as well</description>
+  </item>
+  <item>
+    <title>Freshness Overlay</title>
+    <link>https://mods.vintagestory.at/show/mod/10190</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10190#10190</guid>
+    <pubDate>Sun, 12 Jul 2026 07:18:25 -0000</pubDate>
+    <description>Shows freshness of food and hides.</description>
+  </item>
+  <item>
+    <title>DWC Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/dwcclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dwcclasses#5708</guid>
+    <pubDate>Sun, 12 Jul 2026 07:10:58 -0000</pubDate>
+    <description>Custom classes for DWC's private server.</description>
+  </item>
+  <item>
+    <title>Vintage Story Chinese Language Pack</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
+    <pubDate>Sun, 12 Jul 2026 06:50:54 -0000</pubDate>
+    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
+  </item>
   <item>
     <title>Metal Ladders</title>
     <link>https://mods.vintagestory.at/show/mod/10212</link>
@@ -153,67 +209,11 @@
     <description>Generic gridless crafting system that completely replaces all UI grid recipes</description>
   </item>
   <item>
-    <title>Extreme Weathers [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/10098</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
-    <pubDate>Sat, 11 Jul 2026 20:35:07 -0000</pubDate>
-    <description>Introduces new weather mechanics using the vanilla weather system.</description>
-  </item>
-  <item>
     <title>Medieval Expansion Patch No Waterwheel</title>
     <link>https://mods.vintagestory.at/show/mod/10205</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10205#10205</guid>
     <pubDate>Sat, 11 Jul 2026 19:52:31 -0000</pubDate>
     <description>A fork of the fork of Medieval Expansion to disable Waterwheels</description>
-  </item>
-  <item>
-    <title>WeatherStory</title>
-    <link>https://mods.vintagestory.at/show/mod/10083</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10083#10083</guid>
-    <pubDate>Sat, 11 Jul 2026 19:51:57 -0000</pubDate>
-    <description>dynamic/stateful climate system based on chunk/region-derived wind, humidity, temperature, pressure</description>
-  </item>
-  <item>
-    <title>race addition</title>
-    <link>https://mods.vintagestory.at/show/mod/10150</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10150#10150</guid>
-    <pubDate>Sat, 11 Jul 2026 19:35:30 -0000</pubDate>
-    <description>adds a race to my server</description>
-  </item>
-  <item>
-    <title>Forgotten Armory: Chinese Dynasties</title>
-    <link>https://mods.vintagestory.at/show/mod/5062</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5062#5062</guid>
-    <pubDate>Sat, 11 Jul 2026 19:32:44 -0000</pubDate>
-    <description>Mod adding multiple iron+ Scale armor variations in the style of Chinese Dynasties</description>
-  </item>
-  <item>
-    <title>Bear's Shifty Earth</title>
-    <link>https://mods.vintagestory.at/show/mod/bearsshiftyearth</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bearsshiftyearth#9688</guid>
-    <pubDate>Sat, 11 Jul 2026 19:17:50 -0000</pubDate>
-    <description>Overhauls soil instability to make it more engaging, sensible, and configurable.</description>
-  </item>
-  <item>
-    <title>Sundered Isles Custom Models</title>
-    <link>https://mods.vintagestory.at/show/mod/9583</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9583#9583</guid>
-    <pubDate>Sat, 11 Jul 2026 18:51:21 -0000</pubDate>
-    <description>Custom blocks and items made for the Sundered Isles Server. </description>
-  </item>
-  <item>
-    <title>Meliora Meadows Adjustments</title>
-    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
-    <pubDate>Sat, 11 Jul 2026 18:47:40 -0000</pubDate>
-    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
-  </item>
-  <item>
-    <title>Rot from containers</title>
-    <link>https://mods.vintagestory.at/show/mod/10203</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10203#10203</guid>
-    <pubDate>Sat, 11 Jul 2026 18:21:48 -0000</pubDate>
-    <description>Allows rot to be extracted from containers through a crafting grid.</description>
   </item>
 </channel>
 </rss>
