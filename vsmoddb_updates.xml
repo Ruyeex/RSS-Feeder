@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 12 Jul 2026 14:59:19 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 16:05:58 +0000</lastBuildDate>
+  <item>
+    <title>steamworks</title>
+    <link>https://mods.vintagestory.at/show/mod/9040</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9040#9040</guid>
+    <pubDate>Sun, 12 Jul 2026 15:37:31 -0000</pubDate>
+    <description>Steamworks adds late‑game steam power: boilers, engines, pumps, pipes, and a powered sawmill.</description>
+  </item>
+  <item>
+    <title>Falx To War Axe</title>
+    <link>https://mods.vintagestory.at/show/mod/10219</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10219#10219</guid>
+    <pubDate>Sun, 12 Jul 2026 15:20:46 -0000</pubDate>
+    <description>Falx not cutting hard enough, try a hefty War Axe instead.</description>
+  </item>
+  <item>
+    <title>Apotheosis Tweak - Fantasy Creature Balance</title>
+    <link>https://mods.vintagestory.at/show/mod/apofantasycreaturetweak</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/apofantasycreaturetweak#10156</guid>
+    <pubDate>Sun, 12 Jul 2026 15:03:17 -0000</pubDate>
+    <description>Balance tweaks to Fantasy Creatures Reborn</description>
+  </item>
+  <item>
+    <title>Clothes have Pockets</title>
+    <link>https://mods.vintagestory.at/show/mod/clotheshavepockets</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clotheshavepockets#10218</guid>
+    <pubDate>Sun, 12 Jul 2026 15:02:40 -0000</pubDate>
+    <description>Adds inventory slots when wearing certain clothing</description>
+  </item>
   <item>
     <title>In Dappled Groves Firewood Buff Continued</title>
     <link>https://mods.vintagestory.at/show/mod/10001</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/automatedservermessages#4720</guid>
     <pubDate>Sun, 12 Jul 2026 05:57:16 -0000</pubDate>
     <description>Admins can set recurring server-wide messages everybody can see.</description>
-  </item>
-  <item>
-    <title>Use Beeswax instead of Fat</title>
-    <link>https://mods.vintagestory.at/show/mod/usewaxinsteadoffat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/usewaxinsteadoffat#5182</guid>
-    <pubDate>Sun, 12 Jul 2026 05:42:02 -0000</pubDate>
-    <description>I couldn't find the motivation for animal husbandry, but I do have many many bees.</description>
-  </item>
-  <item>
-    <title>Modular Backpacks Lights Out</title>
-    <link>https://mods.vintagestory.at/show/mod/modularbackpackslightsout</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpackslightsout#10211</guid>
-    <pubDate>Sun, 12 Jul 2026 05:39:45 -0000</pubDate>
-    <description>Simple change to Modular Backpacks to remove lantern attachment.</description>
-  </item>
-  <item>
-    <title>Uppsalchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/10141</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10141#10141</guid>
-    <pubDate>Sun, 12 Jul 2026 05:29:34 -0000</pubDate>
-    <description>A multi-tier alchemy system that uses A Culinary Artillery bottles.</description>
-  </item>
-  <item>
-    <title>More Roads and Paths 2.0.0</title>
-    <link>https://mods.vintagestory.at/show/mod/moreroadsandpaths</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreroadsandpaths#15</guid>
-    <pubDate>Sun, 12 Jul 2026 04:46:29 -0000</pubDate>
-    <description>What do you THINK this adds?</description>
   </item>
 </channel>
 </rss>
