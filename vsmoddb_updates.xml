@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 11 Jul 2026 23:57:51 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 03:44:32 +0000</lastBuildDate>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Sun, 12 Jul 2026 03:32:08 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Pencil</title>
+    <link>https://mods.vintagestory.at/show/mod/5427</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5427#5427</guid>
+    <pubDate>Sun, 12 Jul 2026 03:30:40 -0000</pubDate>
+    <description>Adds a pencil that can be used to write on signs and in books</description>
+  </item>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Sun, 12 Jul 2026 03:24:55 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
+  <item>
+    <title>GamepadCompanionVS</title>
+    <link>https://mods.vintagestory.at/show/mod/8669</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8669#8669</guid>
+    <pubDate>Sun, 12 Jul 2026 01:40:10 -0000</pubDate>
+    <description>Native gamepad support for Vintage Story 1.22+ — 12-slot radial menu, virtual cursor for GUI, etc. </description>
+  </item>
+  <item>
+    <title>Leaf Litter</title>
+    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
+    <pubDate>Sun, 12 Jul 2026 00:32:43 -0000</pubDate>
+    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
+  </item>
   <item>
     <title>Liquid Containers (Unofficial)</title>
     <link>https://mods.vintagestory.at/show/mod/10208</link>
@@ -74,6 +109,13 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
     <pubDate>Sat, 11 Jul 2026 20:35:07 -0000</pubDate>
     <description>Introduces new weather mechanics using the vanilla weather system.</description>
+  </item>
+  <item>
+    <title>Medieval Expansion Patch No Waterwheel</title>
+    <link>https://mods.vintagestory.at/show/mod/10205</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10205#10205</guid>
+    <pubDate>Sat, 11 Jul 2026 19:52:31 -0000</pubDate>
+    <description>A fork of the fork of Medieval Expansion to disable Waterwheels</description>
   </item>
   <item>
     <title>WeatherStory</title>
@@ -160,13 +202,6 @@
     <description>Alegacy Quest Framework is a full-featured quest and boss combat engine for Vintage Story.</description>
   </item>
   <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Sat, 11 Jul 2026 17:43:23 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
-  </item>
-  <item>
     <title>Coinage</title>
     <link>https://mods.vintagestory.at/show/mod/coinage</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/coinage#641</guid>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10169#10169</guid>
     <pubDate>Sat, 11 Jul 2026 17:39:43 -0000</pubDate>
     <description>Adds the family of hadrosauroids dinosaurs to Vintage Story. Unofficial compatibility port for Vinta</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Sharp Tooth — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10170</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10170#10170</guid>
-    <pubDate>Sat, 11 Jul 2026 17:39:00 -0000</pubDate>
-    <description>Adds severals carcharodontosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Scythe Claws — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10172</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10172#10172</guid>
-    <pubDate>Sat, 11 Jul 2026 17:38:12 -0000</pubDate>
-    <description>Adds the family of therizinosaurids dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Sailed Spine — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10173</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10173#10173</guid>
-    <pubDate>Sat, 11 Jul 2026 17:37:35 -0000</pubDate>
-    <description>Adds severals spinosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Plated Back — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10174</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10174#10174</guid>
-    <pubDate>Sat, 11 Jul 2026 17:36:53 -0000</pubDate>
-    <description>Adds the family of stegosaurian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Ocean Tyrant — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10175</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10175#10175</guid>
-    <pubDate>Sat, 11 Jul 2026 17:36:03 -0000</pubDate>
-    <description>Adds severals Mosasaurids to Vintage Story.</description>
   </item>
 </channel>
 </rss>
