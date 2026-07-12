@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 12 Jul 2026 21:54:31 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 22:52:49 +0000</lastBuildDate>
+  <item>
+    <title>Meliora Meadows Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
+    <pubDate>Sun, 12 Jul 2026 22:49:24 -0000</pubDate>
+    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
+  </item>
+  <item>
+    <title>Floral Zones: Cape Region</title>
+    <link>https://mods.vintagestory.at/show/mod/floralzonescaperegion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescaperegion#1570</guid>
+    <pubDate>Sun, 12 Jul 2026 22:26:12 -0000</pubDate>
+    <description>Adds plants from the Cape Region to the game.</description>
+  </item>
+  <item>
+    <title>HoR xSkills Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/horxskillscompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/horxskillscompat#7587</guid>
+    <pubDate>Sun, 12 Jul 2026 22:21:32 -0000</pubDate>
+    <description>HoR patch for XSkills.</description>
+  </item>
+  <item>
+    <title>HoR xSkills Addon</title>
+    <link>https://mods.vintagestory.at/show/mod/horxskillsaddon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/horxskillsaddon#7585</guid>
+    <pubDate>Sun, 12 Jul 2026 22:19:33 -0000</pubDate>
+    <description>195+ abilities across 17 skills extending XSkills with Navigation, Building, Alchemy, and more.</description>
+  </item>
+  <item>
+    <title>HoR Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/horpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/horpatches#6953</guid>
+    <pubDate>Sun, 12 Jul 2026 22:16:13 -0000</pubDate>
+    <description>Balance fixes, xSkills integration, FotSA animal tuning, ore rebalancing and much more.</description>
+  </item>
+  <item>
+    <title>Animalica Core</title>
+    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
+    <pubDate>Sun, 12 Jul 2026 22:12:08 -0000</pubDate>
+    <description>Core mod for playable animals. Does nothing on it's own</description>
+  </item>
+  <item>
+    <title>Animalica - Foxes, Wolves &amp; Hyenas</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicafwh</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicafwh#9794</guid>
+    <pubDate>Sun, 12 Jul 2026 22:11:28 -0000</pubDate>
+    <description>Adds Foxes, Wolves, and Hyenas as player choices!</description>
+  </item>
+  <item>
+    <title>Rust Girls - Player Model</title>
+    <link>https://mods.vintagestory.at/show/mod/10116</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10116#10116</guid>
+    <pubDate>Sun, 12 Jul 2026 22:07:38 -0000</pubDate>
+    <description>BE the waifu!</description>
+  </item>
   <item>
     <title>rawNature</title>
     <link>https://mods.vintagestory.at/show/mod/raw</link>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/levelup#2089</guid>
     <pubDate>Sun, 12 Jul 2026 19:51:44 -0000</pubDate>
     <description>Add new levels systems to your character</description>
-  </item>
-  <item>
-    <title>Modular Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/modularbackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacks#10127</guid>
-    <pubDate>Sun, 12 Jul 2026 19:28:13 -0000</pubDate>
-    <description>Makes vanilla backpacks modular, allowing you to attach addons to extend storage slots.</description>
-  </item>
-  <item>
-    <title>Equus: Tack and Equipment</title>
-    <link>https://mods.vintagestory.at/show/mod/tackandequipment</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tackandequipment#5277</guid>
-    <pubDate>Sun, 12 Jul 2026 19:27:46 -0000</pubDate>
-    <description>Adds various saddles, bridles, and saddleblankets for Equus and Monoceros</description>
-  </item>
-  <item>
-    <title>spawn tweak</title>
-    <link>https://mods.vintagestory.at/show/mod/10230</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10230#10230</guid>
-    <pubDate>Sun, 12 Jul 2026 19:12:39 -0000</pubDate>
-    <description>a</description>
-  </item>
-  <item>
-    <title>Fast Packed Dirt Paths</title>
-    <link>https://mods.vintagestory.at/show/mod/fastpackeddirtpaths</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fastpackeddirtpaths#6807</guid>
-    <pubDate>Sun, 12 Jul 2026 19:12:21 -0000</pubDate>
-    <description>Increases player speed when walking on packed dirt</description>
-  </item>
-  <item>
-    <title>server tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10229</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10229#10229</guid>
-    <pubDate>Sun, 12 Jul 2026 19:09:59 -0000</pubDate>
-    <description>for vintagereborn</description>
-  </item>
-  <item>
-    <title>Extra clayforming tool modes</title>
-    <link>https://mods.vintagestory.at/show/mod/10221</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10221#10221</guid>
-    <pubDate>Sun, 12 Jul 2026 19:09:06 -0000</pubDate>
-    <description>Adds a 1x3 and 3x1 tool mode while clayforming</description>
-  </item>
-  <item>
-    <title>Better Pyrolysis</title>
-    <link>https://mods.vintagestory.at/show/mod/10228</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10228#10228</guid>
-    <pubDate>Sun, 12 Jul 2026 19:04:29 -0000</pubDate>
-    <description>Adds several new features regarding pyrolyzing different fuels. </description>
-  </item>
-  <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Sun, 12 Jul 2026 19:03:46 -0000</pubDate>
-    <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
   </item>
 </channel>
 </rss>
