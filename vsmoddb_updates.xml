@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 13 Jul 2026 16:36:47 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 18:45:22 +0000</lastBuildDate>
+  <item>
+    <title>Better Hoe</title>
+    <link>https://mods.vintagestory.at/show/mod/betterhoe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhoe#1594</guid>
+    <pubDate>Mon, 13 Jul 2026 18:34:22 -0000</pubDate>
+    <description>Adds function to create paths with the hoe.</description>
+  </item>
+  <item>
+    <title>Falx To Mace</title>
+    <link>https://mods.vintagestory.at/show/mod/10234</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10234#10234</guid>
+    <pubDate>Mon, 13 Jul 2026 18:15:07 -0000</pubDate>
+    <description>Sometimes simplicity is best, throw your Falx down and take up the Mace!</description>
+  </item>
+  <item>
+    <title>Battle Towers</title>
+    <link>https://mods.vintagestory.at/show/mod/battletowers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/battletowers#2262</guid>
+    <pubDate>Mon, 13 Jul 2026 18:10:27 -0000</pubDate>
+    <description>Add Towers with dangerous creatures to fight and explore in your world</description>
+  </item>
+  <item>
+    <title>Hobo's Flower Circlets</title>
+    <link>https://mods.vintagestory.at/show/mod/hobosflowercirclets</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hobosflowercirclets#5865</guid>
+    <pubDate>Mon, 13 Jul 2026 17:45:24 -0000</pubDate>
+    <description>Cheap, craft-able, flower circlets. (Or flower crowns, but it really isn't a crown)</description>
+  </item>
+  <item>
+    <title>Wilderlands Onus Moderatus</title>
+    <link>https://mods.vintagestory.at/show/mod/8790</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8790#8790</guid>
+    <pubDate>Mon, 13 Jul 2026 17:39:09 -0000</pubDate>
+    <description>- Using One Hand as a dependancy, creates three inventory bar slots with one backpack slot open.</description>
+  </item>
+  <item>
+    <title>Falx To War Axe</title>
+    <link>https://mods.vintagestory.at/show/mod/10219</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10219#10219</guid>
+    <pubDate>Mon, 13 Jul 2026 17:36:09 -0000</pubDate>
+    <description>Falx not cutting hard enough, try a hefty War Axe instead.</description>
+  </item>
+  <item>
+    <title>Atlas</title>
+    <link>https://mods.vintagestory.at/show/mod/atlas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
+    <pubDate>Mon, 13 Jul 2026 17:33:54 -0000</pubDate>
+    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
+  </item>
+  <item>
+    <title>Falx to Sword</title>
+    <link>https://mods.vintagestory.at/show/mod/10207</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10207#10207</guid>
+    <pubDate>Mon, 13 Jul 2026 17:25:59 -0000</pubDate>
+    <description>The barbaric Falx not to your liking? Take this Arming Sword for a spin.</description>
+  </item>
+  <item>
+    <title>Auto Walk Extended</title>
+    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
+    <pubDate>Mon, 13 Jul 2026 17:14:50 -0000</pubDate>
+    <description>Toggle walking/running and sneaking. Supports also automatic climbing (stepup).</description>
+  </item>
+  <item>
+    <title>Player Model lib</title>
+    <link>https://mods.vintagestory.at/show/mod/playermodellib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
+    <pubDate>Mon, 13 Jul 2026 17:14:32 -0000</pubDate>
+    <description>Library for adding new player races</description>
+  </item>
+  <item>
+    <title>NDL ExpandedGrowth (Mushroom Growth Module)</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthmushrooms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthmushrooms#5922</guid>
+    <pubDate>Mon, 13 Jul 2026 16:40:47 -0000</pubDate>
+    <description>Adds a method for growing mushrooms!</description>
+  </item>
+  <item>
+    <title>Murlok Vintage Server Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/murlokvspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/murlokvspatch#5307</guid>
+    <pubDate>Mon, 13 Jul 2026 16:40:25 -0000</pubDate>
+    <description>Collection of tweaks for the Murlok server and playthrough.</description>
+  </item>
   <item>
     <title>Floral Zones: Cape Region</title>
     <link>https://mods.vintagestory.at/show/mod/floralzonescaperegion</link>
@@ -69,18 +153,11 @@
     <description>Makes rapids and waterwheels work more realistically. Official addon for Realistic Water</description>
   </item>
   <item>
-    <title>Realistic water</title>
+    <title>Realistic Water</title>
     <link>https://mods.vintagestory.at/show/mod/realisticwater</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticwater#8297</guid>
     <pubDate>Mon, 13 Jul 2026 14:55:28 -0000</pubDate>
     <description>Makes water spread and flow more realistically, so that you can build aqueducts, dams, canals etc</description>
-  </item>
-  <item>
-    <title>Falx to Sword</title>
-    <link>https://mods.vintagestory.at/show/mod/10207</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10207#10207</guid>
-    <pubDate>Mon, 13 Jul 2026 14:41:36 -0000</pubDate>
-    <description>The barbaric Falx not to your liking? Take this Arming Sword for a spin.</description>
   </item>
   <item>
     <title>KRPG Enchantment</title>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/falxtowarhammer#10200</guid>
     <pubDate>Mon, 13 Jul 2026 12:17:38 -0000</pubDate>
     <description>Turns your trusty Falx into an even trustier Warhammer. Smash your enemies rusty bones!</description>
-  </item>
-  <item>
-    <title>LSPatches</title>
-    <link>https://mods.vintagestory.at/show/mod/9969</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9969#9969</guid>
-    <pubDate>Mon, 13 Jul 2026 12:01:06 -0000</pubDate>
-    <description>To be used on a private server</description>
-  </item>
-  <item>
-    <title>Boat Speed Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/boatspeedtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/boatspeedtweaks#9766</guid>
-    <pubDate>Mon, 13 Jul 2026 12:00:00 -0000</pubDate>
-    <description>Multiply all Sailboats speed by the configured factor (default=2.0)</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Mon, 13 Jul 2026 11:54:27 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Advanced Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/advancedchat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedchat#10095</guid>
-    <pubDate>Mon, 13 Jul 2026 11:22:31 -0000</pubDate>
-    <description>A fully customizable, movable, resizable chat overlay for Vintage Story. Take control of your chat w</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Tyrant King — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10168</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10168#10168</guid>
-    <pubDate>Mon, 13 Jul 2026 10:29:06 -0000</pubDate>
-    <description>Adds severals tyrannosaurids to Vintage Story. Unofficial compatibility port for 1.22.3</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Shovel Mouth — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10169</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10169#10169</guid>
-    <pubDate>Mon, 13 Jul 2026 10:28:52 -0000</pubDate>
-    <description>Adds the family of hadrosauroids dinosaurs to Vintage Story. Unofficial compatibility port for Vinta</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Sharp Tooth — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10170</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10170#10170</guid>
-    <pubDate>Mon, 13 Jul 2026 10:28:36 -0000</pubDate>
-    <description>Adds severals carcharodontosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Scythe Claws — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10172</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10172#10172</guid>
-    <pubDate>Mon, 13 Jul 2026 10:28:22 -0000</pubDate>
-    <description>Adds the family of therizinosaurids dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Sailed Spine — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10173</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10173#10173</guid>
-    <pubDate>Mon, 13 Jul 2026 10:28:07 -0000</pubDate>
-    <description>Adds severals spinosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Plated Back — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10174</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10174#10174</guid>
-    <pubDate>Mon, 13 Jul 2026 10:27:53 -0000</pubDate>
-    <description>Adds the family of stegosaurian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Ocean Tyrant — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10175</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10175#10175</guid>
-    <pubDate>Mon, 13 Jul 2026 10:27:40 -0000</pubDate>
-    <description>Adds severals Mosasaurids to Vintage Story.</description>
   </item>
 </channel>
 </rss>
