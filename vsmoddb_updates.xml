@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 13 Jul 2026 18:45:22 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 20:17:52 +0000</lastBuildDate>
+  <item>
+    <title>More Fat From Animals</title>
+    <link>https://mods.vintagestory.at/show/mod/6778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6778#6778</guid>
+    <pubDate>Mon, 13 Jul 2026 20:12:08 -0000</pubDate>
+    <description>Increases the ammount of fat received when harvesting animals</description>
+  </item>
+  <item>
+    <title>Immersive Debuffs</title>
+    <link>https://mods.vintagestory.at/show/mod/8608</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8608#8608</guid>
+    <pubDate>Mon, 13 Jul 2026 19:59:45 -0000</pubDate>
+    <description>Disables sprinting when health or food bars are low.</description>
+  </item>
+  <item>
+    <title>Lanterns At Home</title>
+    <link>https://mods.vintagestory.at/show/mod/lanternsathome</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lanternsathome#9425</guid>
+    <pubDate>Mon, 13 Jul 2026 19:42:25 -0000</pubDate>
+    <description>Lanterns offset themselves against their attached block - slabs, chiselled, etc</description>
+  </item>
+  <item>
+    <title>Geo Arch Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/10255</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10255#10255</guid>
+    <pubDate>Mon, 13 Jul 2026 19:13:37 -0000</pubDate>
+    <description>makes rocks from material needs work with items from medieval arch</description>
+  </item>
+  <item>
+    <title>BLACK HORN</title>
+    <link>https://mods.vintagestory.at/show/mod/10092</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10092#10092</guid>
+    <pubDate>Mon, 13 Jul 2026 19:12:40 -0000</pubDate>
+    <description>Adds different color horns, charlotte made the original shapes, just color changed</description>
+  </item>
+  <item>
+    <title>Ambien's Racial Traits</title>
+    <link>https://mods.vintagestory.at/show/mod/9622</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9622#9622</guid>
+    <pubDate>Mon, 13 Jul 2026 19:12:11 -0000</pubDate>
+    <description>Ambien's Racial Traits adds racial bonus to characters added from racial equality, skeletons, others</description>
+  </item>
+  <item>
+    <title>Projectile Flee</title>
+    <link>https://mods.vintagestory.at/show/mod/projectileflee</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/projectileflee#9577</guid>
+    <pubDate>Mon, 13 Jul 2026 19:03:10 -0000</pubDate>
+    <description>Causes animals to react when a projectile hits the ground nearby</description>
+  </item>
+  <item>
+    <title>Falx To Katana</title>
+    <link>https://mods.vintagestory.at/show/mod/10236</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10236#10236</guid>
+    <pubDate>Mon, 13 Jul 2026 18:50:04 -0000</pubDate>
+    <description>Killing with a Falx has no honour in it, but this does.</description>
+  </item>
   <item>
     <title>Better Hoe</title>
     <link>https://mods.vintagestory.at/show/mod/betterhoe</link>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticwater#8297</guid>
     <pubDate>Mon, 13 Jul 2026 14:55:28 -0000</pubDate>
     <description>Makes water spread and flow more realistically, so that you can build aqueducts, dams, canals etc</description>
-  </item>
-  <item>
-    <title>KRPG Enchantment</title>
-    <link>https://mods.vintagestory.at/show/mod/krpgenchantment</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krpgenchantment#2216</guid>
-    <pubDate>Mon, 13 Jul 2026 14:30:14 -0000</pubDate>
-    <description>Adds MC-like enchantment system to VS.</description>
-  </item>
-  <item>
-    <title>octatonic</title>
-    <link>https://mods.vintagestory.at/show/mod/octatonic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/octatonic#3472</guid>
-    <pubDate>Mon, 13 Jul 2026 14:04:59 -0000</pubDate>
-    <description>Mod manager via command line interface</description>
-  </item>
-  <item>
-    <title>Blood Trail</title>
-    <link>https://mods.vintagestory.at/show/mod/bloodtrail</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bloodtrail#5069</guid>
-    <pubDate>Mon, 13 Jul 2026 13:57:29 -0000</pubDate>
-    <description>Animals leave blood trails when wounded by a player.</description>
-  </item>
-  <item>
-    <title>Footprints</title>
-    <link>https://mods.vintagestory.at/show/mod/footprints</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/footprints#5625</guid>
-    <pubDate>Mon, 13 Jul 2026 13:56:19 -0000</pubDate>
-    <description>Animals and Players leave footprints when moving.</description>
-  </item>
-  <item>
-    <title>Cuniculture</title>
-    <link>https://mods.vintagestory.at/show/mod/3779</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3779#3779</guid>
-    <pubDate>Mon, 13 Jul 2026 12:24:07 -0000</pubDate>
-    <description>Makes hare farming viable. Allows them to be fed from small troughs and adds foods to their diet.</description>
-  </item>
-  <item>
-    <title>IRDP's Wet Crops Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/9590</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9590#9590</guid>
-    <pubDate>Mon, 13 Jul 2026 12:20:16 -0000</pubDate>
-    <description>Adding a few new moisture-heavy crops to the game. Compat with Paddy Fields.</description>
-  </item>
-  <item>
-    <title>Galeret</title>
-    <link>https://mods.vintagestory.at/show/mod/9970</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9970#9970</guid>
-    <pubDate>Mon, 13 Jul 2026 12:18:04 -0000</pubDate>
-    <description>A race of cat people based on kahjit</description>
-  </item>
-  <item>
-    <title>Falx To Warhammer</title>
-    <link>https://mods.vintagestory.at/show/mod/falxtowarhammer</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/falxtowarhammer#10200</guid>
-    <pubDate>Mon, 13 Jul 2026 12:17:38 -0000</pubDate>
-    <description>Turns your trusty Falx into an even trustier Warhammer. Smash your enemies rusty bones!</description>
   </item>
 </channel>
 </rss>
