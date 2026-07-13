@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 13 Jul 2026 21:59:16 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 23:05:03 +0000</lastBuildDate>
+  <item>
+    <title>Cuniculture</title>
+    <link>https://mods.vintagestory.at/show/mod/3779</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3779#3779</guid>
+    <pubDate>Mon, 13 Jul 2026 22:47:37 -0000</pubDate>
+    <description>Makes hare farming viable. Allows them to be fed from small troughs and adds foods to their diet.</description>
+  </item>
+  <item>
+    <title>(Not) Just Tofu</title>
+    <link>https://mods.vintagestory.at/show/mod/justtofu</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justtofu#9542</guid>
+    <pubDate>Mon, 13 Jul 2026 22:25:56 -0000</pubDate>
+    <description>Simple, realistic tofu &amp; miso making process for better vegan protein &amp; dairy food and meal options.</description>
+  </item>
+  <item>
+    <title>Dense Ground Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
+    <pubDate>Mon, 13 Jul 2026 22:15:39 -0000</pubDate>
+    <description>Place down more items per block and on chiseled blocks</description>
+  </item>
   <item>
     <title>Eternal Seraph Patch</title>
     <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autoattack#10248</guid>
     <pubDate>Mon, 13 Jul 2026 16:05:52 -0000</pubDate>
     <description>Client-side auto-attack for hostile creatures</description>
-  </item>
-  <item>
-    <title>HandbookCrashGuard</title>
-    <link>https://mods.vintagestory.at/show/mod/handbookcrashguard</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/handbookcrashguard#10191</guid>
-    <pubDate>Mon, 13 Jul 2026 15:37:18 -0000</pubDate>
-    <description>Small mod that fixes crashes caused by the test version of A Culinary Artillery and some other mods</description>
-  </item>
-  <item>
-    <title>Salty´s Cameraman</title>
-    <link>https://mods.vintagestory.at/show/mod/cameraman</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cameraman#7284</guid>
-    <pubDate>Mon, 13 Jul 2026 15:31:43 -0000</pubDate>
-    <description>Lock the camera position and angle while player movement is free, for solo recording.</description>
-  </item>
-  <item>
-    <title>Kaschperle Class Mix </title>
-    <link>https://mods.vintagestory.at/show/mod/8517</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8517#8517</guid>
-    <pubDate>Mon, 13 Jul 2026 15:29:01 -0000</pubDate>
-    <description>A revision mix from the popular class mod Aldi classes and Agi's Classes</description>
   </item>
 </channel>
 </rss>
