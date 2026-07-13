@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 13 Jul 2026 03:46:51 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 06:56:24 +0000</lastBuildDate>
+  <item>
+    <title>Desert Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9931</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9931#9931</guid>
+    <pubDate>Mon, 13 Jul 2026 06:16:09 -0000</pubDate>
+    <description>small set of tweaks for a desert survival server</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Mon, 13 Jul 2026 04:46:59 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Simple Water Tweaks VSR patch</title>
+    <link>https://mods.vintagestory.at/show/mod/swtvsr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swtvsr#9211</guid>
+    <pubDate>Mon, 13 Jul 2026 04:44:12 -0000</pubDate>
+    <description>Adds compatibility between Simple Water Tweaks and various shader mods</description>
+  </item>
+  <item>
+    <title>Hide UI Temporal Gear </title>
+    <link>https://mods.vintagestory.at/show/mod/6103</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6103#6103</guid>
+    <pubDate>Mon, 13 Jul 2026 04:15:50 -0000</pubDate>
+    <description>Hides the default UI gear indicator for temporal stability</description>
+  </item>
+  <item>
+    <title>StabilityLock</title>
+    <link>https://mods.vintagestory.at/show/mod/stabilitylock</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stabilitylock#6102</guid>
+    <pubDate>Mon, 13 Jul 2026 04:12:33 -0000</pubDate>
+    <description>Locks player stability at maximum value. Works to reset stability if activated then deactivated.</description>
+  </item>
+  <item>
+    <title>Fast Travel NPC</title>
+    <link>https://mods.vintagestory.at/show/mod/fasttravelnpc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fasttravelnpc#9686</guid>
+    <pubDate>Mon, 13 Jul 2026 04:03:17 -0000</pubDate>
+    <description>Allows players to fast travel in the world by paying rusty gears.</description>
+  </item>
+  <item>
+    <title>No Indoor Fog Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/noindoorfog</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noindoorfog#6064</guid>
+    <pubDate>Mon, 13 Jul 2026 03:57:44 -0000</pubDate>
+    <description>Get rid of fog in your home! Increases fog distance from your camera when you are "indoors"</description>
+  </item>
+  <item>
+    <title>Transform Designer | Improved TFEdit</title>
+    <link>https://mods.vintagestory.at/show/mod/vsmctfdesigner</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsmctfdesigner#9066</guid>
+    <pubDate>Mon, 13 Jul 2026 03:50:57 -0000</pubDate>
+    <description>3D Gizmos for TFEditing. No more computer numerical control era UI tools!</description>
+  </item>
+  <item>
+    <title>Better Pyrolysis</title>
+    <link>https://mods.vintagestory.at/show/mod/10228</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10228#10228</guid>
+    <pubDate>Mon, 13 Jul 2026 03:49:45 -0000</pubDate>
+    <description>Adds several new features regarding pyrolyzing different fuels. </description>
+  </item>
   <item>
     <title>Riley's Classes</title>
     <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
@@ -32,13 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/merezha#10240</guid>
     <pubDate>Mon, 13 Jul 2026 02:18:30 -0000</pubDate>
     <description>Early client support for an upcoming Vintage Story multiplayer games network.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Mon, 13 Jul 2026 02:13:50 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
   </item>
   <item>
     <title>Dense Ground Storage</title>
@@ -87,7 +143,7 @@
     <link>https://mods.vintagestory.at/show/mod/10237</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10237#10237</guid>
     <pubDate>Mon, 13 Jul 2026 00:49:38 -0000</pubDate>
-    <description>Removes negative traits from Riley's Classes</description>
+    <description>Removes negative traits from Aldi's/Riley's Classes </description>
   </item>
   <item>
     <title>AFK Module</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9590#9590</guid>
     <pubDate>Sun, 12 Jul 2026 23:17:24 -0000</pubDate>
     <description>Adding a few new moisture-heavy crops to the game. Compat with Paddy Fields.</description>
-  </item>
-  <item>
-    <title>RebornClassTweak</title>
-    <link>https://mods.vintagestory.at/show/mod/10235</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10235#10235</guid>
-    <pubDate>Sun, 12 Jul 2026 23:11:08 -0000</pubDate>
-    <description>class fix</description>
-  </item>
-  <item>
-    <title>Falx To Mace</title>
-    <link>https://mods.vintagestory.at/show/mod/10234</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10234#10234</guid>
-    <pubDate>Sun, 12 Jul 2026 23:04:08 -0000</pubDate>
-    <description>Sometimes simplicity is best, throw your Falx down and take up the Mace!</description>
-  </item>
-  <item>
-    <title>fish(wastaken) Classes Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10213</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10213#10213</guid>
-    <pubDate>Sun, 12 Jul 2026 23:02:22 -0000</pubDate>
-    <description>small personal patch for GlooMeClasses.</description>
-  </item>
-  <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Sun, 12 Jul 2026 23:01:04 -0000</pubDate>
-    <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
-  </item>
-  <item>
-    <title>Meliora Meadows Adjustments</title>
-    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
-    <pubDate>Sun, 12 Jul 2026 22:49:24 -0000</pubDate>
-    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
-  </item>
-  <item>
-    <title>Floral Zones: Cape Region</title>
-    <link>https://mods.vintagestory.at/show/mod/floralzonescaperegion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescaperegion#1570</guid>
-    <pubDate>Sun, 12 Jul 2026 22:26:12 -0000</pubDate>
-    <description>Adds plants from the Cape Region to the game.</description>
-  </item>
-  <item>
-    <title>HoR xSkills Compat</title>
-    <link>https://mods.vintagestory.at/show/mod/horxskillscompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/horxskillscompat#7587</guid>
-    <pubDate>Sun, 12 Jul 2026 22:21:32 -0000</pubDate>
-    <description>HoR patch for XSkills.</description>
-  </item>
-  <item>
-    <title>HoR xSkills Addon</title>
-    <link>https://mods.vintagestory.at/show/mod/horxskillsaddon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/horxskillsaddon#7585</guid>
-    <pubDate>Sun, 12 Jul 2026 22:19:33 -0000</pubDate>
-    <description>195+ abilities across 17 skills extending XSkills with Navigation, Building, Alchemy, and more.</description>
   </item>
 </channel>
 </rss>
