@@ -4,13 +4,139 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 12 Jul 2026 23:57:37 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 03:46:51 +0000</lastBuildDate>
+  <item>
+    <title>Riley's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Mon, 13 Jul 2026 03:24:22 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+  </item>
+  <item>
+    <title>More Fat From Animals</title>
+    <link>https://mods.vintagestory.at/show/mod/6778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6778#6778</guid>
+    <pubDate>Mon, 13 Jul 2026 02:54:28 -0000</pubDate>
+    <description>Increases the ammount of fat received when harvesting animals</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Mon, 13 Jul 2026 02:44:57 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Project Merezha - Client Preview</title>
+    <link>https://mods.vintagestory.at/show/mod/merezha</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/merezha#10240</guid>
+    <pubDate>Mon, 13 Jul 2026 02:18:30 -0000</pubDate>
+    <description>Early client support for an upcoming Vintage Story multiplayer games network.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Mon, 13 Jul 2026 02:13:50 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
   <item>
     <title>Dense Ground Storage</title>
     <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
-    <pubDate>Sun, 12 Jul 2026 23:57:20 -0000</pubDate>
+    <pubDate>Mon, 13 Jul 2026 02:11:54 -0000</pubDate>
     <description>Place down more items per block and on chiseled blocks</description>
+  </item>
+  <item>
+    <title>KRPG Enchantment</title>
+    <link>https://mods.vintagestory.at/show/mod/krpgenchantment</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krpgenchantment#2216</guid>
+    <pubDate>Mon, 13 Jul 2026 02:08:48 -0000</pubDate>
+    <description>Adds MC-like enchantment system to VS.</description>
+  </item>
+  <item>
+    <title>Atlas</title>
+    <link>https://mods.vintagestory.at/show/mod/atlas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
+    <pubDate>Mon, 13 Jul 2026 02:02:10 -0000</pubDate>
+    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
+  </item>
+  <item>
+    <title>server tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10229</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10229#10229</guid>
+    <pubDate>Mon, 13 Jul 2026 01:53:26 -0000</pubDate>
+    <description>for vintagereborn</description>
+  </item>
+  <item>
+    <title>Riley's Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/rileyspatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileyspatches#10238</guid>
+    <pubDate>Mon, 13 Jul 2026 01:36:57 -0000</pubDate>
+    <description>Riley's Patches</description>
+  </item>
+  <item>
+    <title>Animalica - Foxes, Wolves &amp; Hyenas</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicafwh</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicafwh#9794</guid>
+    <pubDate>Mon, 13 Jul 2026 01:07:42 -0000</pubDate>
+    <description>Adds Foxes, Wolves, and Hyenas as player choices!</description>
+  </item>
+  <item>
+    <title>Riley's Classes No Negatives</title>
+    <link>https://mods.vintagestory.at/show/mod/10237</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10237#10237</guid>
+    <pubDate>Mon, 13 Jul 2026 00:49:38 -0000</pubDate>
+    <description>Removes negative traits from Riley's Classes</description>
+  </item>
+  <item>
+    <title>AFK Module</title>
+    <link>https://mods.vintagestory.at/show/mod/afkmodule</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/afkmodule#3311</guid>
+    <pubDate>Mon, 13 Jul 2026 00:42:47 -0000</pubDate>
+    <description>Kick players who is afk for too long</description>
+  </item>
+  <item>
+    <title>Ghaelen's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9740</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
+    <pubDate>Mon, 13 Jul 2026 00:30:10 -0000</pubDate>
+    <description>My personal tweaks I like to play with.</description>
+  </item>
+  <item>
+    <title>Dar's Server Utilities</title>
+    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
+    <pubDate>Mon, 13 Jul 2026 00:16:19 -0000</pubDate>
+    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
+  </item>
+  <item>
+    <title>Runic Armory</title>
+    <link>https://mods.vintagestory.at/show/mod/runicarmory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/runicarmory#10025</guid>
+    <pubDate>Mon, 13 Jul 2026 00:13:13 -0000</pubDate>
+    <description>Adds runic textures to combat overhauls Armory mod!</description>
+  </item>
+  <item>
+    <title>Immersive Third Person Camera</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivetpscamera</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivetpscamera#2099</guid>
+    <pubDate>Mon, 13 Jul 2026 00:08:00 -0000</pubDate>
+    <description>Smoothly changes third-person camera positions, improving player immersion in the world</description>
+  </item>
+  <item>
+    <title>Falx To Katana</title>
+    <link>https://mods.vintagestory.at/show/mod/10236</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10236#10236</guid>
+    <pubDate>Mon, 13 Jul 2026 00:06:32 -0000</pubDate>
+    <description>Killing with a Falx has no honour in it, but this does.</description>
+  </item>
+  <item>
+    <title>(Not) Just Tofu</title>
+    <link>https://mods.vintagestory.at/show/mod/justtofu</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justtofu#9542</guid>
+    <pubDate>Mon, 13 Jul 2026 00:05:13 -0000</pubDate>
+    <description>Simple, realistic tofu &amp; miso making process for better vegan protein &amp; dairy food and meal options.</description>
   </item>
   <item>
     <title>Projectile Tracker</title>
@@ -88,132 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/horxskillsaddon#7585</guid>
     <pubDate>Sun, 12 Jul 2026 22:19:33 -0000</pubDate>
     <description>195+ abilities across 17 skills extending XSkills with Navigation, Building, Alchemy, and more.</description>
-  </item>
-  <item>
-    <title>HoR Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/horpatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/horpatches#6953</guid>
-    <pubDate>Sun, 12 Jul 2026 22:16:13 -0000</pubDate>
-    <description>Balance fixes, xSkills integration, FotSA animal tuning, ore rebalancing and much more.</description>
-  </item>
-  <item>
-    <title>Animalica Core</title>
-    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
-    <pubDate>Sun, 12 Jul 2026 22:12:08 -0000</pubDate>
-    <description>Core mod for playable animals. Does nothing on it's own</description>
-  </item>
-  <item>
-    <title>Animalica - Foxes, Wolves &amp; Hyenas</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicafwh</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicafwh#9794</guid>
-    <pubDate>Sun, 12 Jul 2026 22:11:28 -0000</pubDate>
-    <description>Adds Foxes, Wolves, and Hyenas as player choices!</description>
-  </item>
-  <item>
-    <title>Rust Girls - Player Model</title>
-    <link>https://mods.vintagestory.at/show/mod/10116</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10116#10116</guid>
-    <pubDate>Sun, 12 Jul 2026 22:07:38 -0000</pubDate>
-    <description>BE the waifu!</description>
-  </item>
-  <item>
-    <title>rawNature</title>
-    <link>https://mods.vintagestory.at/show/mod/raw</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/raw#5940</guid>
-    <pubDate>Sun, 12 Jul 2026 21:47:59 -0000</pubDate>
-    <description>Adds materials, recipes, items, and a new balance of things to the game</description>
-  </item>
-  <item>
-    <title>RPG Overlay</title>
-    <link>https://mods.vintagestory.at/show/mod/rpgoverlay</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rpgoverlay#2945</guid>
-    <pubDate>Sun, 12 Jul 2026 21:40:57 -0000</pubDate>
-    <description>Add levels and health tier for entity info</description>
-  </item>
-  <item>
-    <title>In Dappled Groves Firewood Buff Continued</title>
-    <link>https://mods.vintagestory.at/show/mod/10001</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10001#10001</guid>
-    <pubDate>Sun, 12 Jul 2026 21:35:25 -0000</pubDate>
-    <description>Adjusts some of In Dappled Groves' recipes</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sun, 12 Jul 2026 21:30:56 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Server Essentials</title>
-    <link>https://mods.vintagestory.at/show/mod/serveressentials</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/serveressentials#3358</guid>
-    <pubDate>Sun, 12 Jul 2026 21:14:56 -0000</pubDate>
-    <description>Utility commands and functions</description>
-  </item>
-  <item>
-    <title>Rustique: Vintage Story Mod Manager - Linux</title>
-    <link>https://mods.vintagestory.at/show/mod/rustique</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustique#3972</guid>
-    <pubDate>Sun, 12 Jul 2026 21:03:26 -0000</pubDate>
-    <description>A fast AF mod manager &amp; updater that handles dependencies and has modpack support!</description>
-  </item>
-  <item>
-    <title>Rustique: Vintage Story Mod Manager - Windows</title>
-    <link>https://mods.vintagestory.at/show/mod/rustiquewindows</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustiquewindows#4019</guid>
-    <pubDate>Sun, 12 Jul 2026 21:02:36 -0000</pubDate>
-    <description>A fast AF mod manager &amp; updater that handles dependencies and has modpack support!</description>
-  </item>
-  <item>
-    <title>Pyrogenesis continued</title>
-    <link>https://mods.vintagestory.at/show/mod/pyrogenesiscontinued</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pyrogenesiscontinued#9934</guid>
-    <pubDate>Sun, 12 Jul 2026 20:57:24 -0000</pubDate>
-    <description>Adaptation</description>
-  </item>
-  <item>
-    <title>Immersive Inventory Slots </title>
-    <link>https://mods.vintagestory.at/show/mod/10199</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10199#10199</guid>
-    <pubDate>Sun, 12 Jul 2026 20:56:48 -0000</pubDate>
-    <description>Removes inventory slots, leaving only the crafting grid</description>
-  </item>
-  <item>
-    <title>Server Authentication</title>
-    <link>https://mods.vintagestory.at/show/mod/serverauth</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/serverauth#2079</guid>
-    <pubDate>Sun, 12 Jul 2026 20:54:12 -0000</pubDate>
-    <description>Increase the security for your server by adding a new account register and login</description>
-  </item>
-  <item>
-    <title>Planar</title>
-    <link>https://mods.vintagestory.at/show/mod/10233</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10233#10233</guid>
-    <pubDate>Sun, 12 Jul 2026 20:49:05 -0000</pubDate>
-    <description>Turn one server into many worlds. Real generated terrain, walk forever, travel by World Gate.</description>
-  </item>
-  <item>
-    <title>Spawners API</title>
-    <link>https://mods.vintagestory.at/show/mod/spawnersapi</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spawnersapi#2255</guid>
-    <pubDate>Sun, 12 Jul 2026 20:23:56 -0000</pubDate>
-    <description>Add custom spawners</description>
-  </item>
-  <item>
-    <title>Clothes Have Pockets</title>
-    <link>https://mods.vintagestory.at/show/mod/clotheshavepockets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clotheshavepockets#10218</guid>
-    <pubDate>Sun, 12 Jul 2026 20:23:40 -0000</pubDate>
-    <description>Adds pockets (inventory slots) to various clothing items</description>
-  </item>
-  <item>
-    <title>SkyTp</title>
-    <link>https://mods.vintagestory.at/show/mod/skytp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skytp#10232</guid>
-    <pubDate>Sun, 12 Jul 2026 20:22:56 -0000</pubDate>
-    <description>Teleport Gui for Skyblock server</description>
   </item>
 </channel>
 </rss>
