@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 14 Jul 2026 14:54:25 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 16:17:54 +0000</lastBuildDate>
+  <item>
+    <title>octatonic</title>
+    <link>https://mods.vintagestory.at/show/mod/octatonic</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/octatonic#3472</guid>
+    <pubDate>Tue, 14 Jul 2026 16:14:01 -0000</pubDate>
+    <description>Mod manager via command line interface</description>
+  </item>
+  <item>
+    <title>Easy Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/easycrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/easycrafting#10275</guid>
+    <pubDate>Tue, 14 Jul 2026 16:13:42 -0000</pubDate>
+    <description>Recettes craftables à côté de la grille ; clic = place, Shift+clic = max.</description>
+  </item>
+  <item>
+    <title>aitranslator</title>
+    <link>https://mods.vintagestory.at/show/mod/aitranslator</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aitranslator#10279</guid>
+    <pubDate>Tue, 14 Jul 2026 15:50:34 -0000</pubDate>
+    <description>A mod that translate every other mod into your selected language.</description>
+  </item>
+  <item>
+    <title>Rustbound Magic Easy Mode</title>
+    <link>https://mods.vintagestory.at/show/mod/3633</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3633#3633</guid>
+    <pubDate>Tue, 14 Jul 2026 15:50:10 -0000</pubDate>
+    <description>Make Rustbound Magic mobs easier to handle</description>
+  </item>
+  <item>
+    <title>Fitting Room</title>
+    <link>https://mods.vintagestory.at/show/mod/fittingroom</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fittingroom#10266</guid>
+    <pubDate>Tue, 14 Jul 2026 15:27:37 -0000</pubDate>
+    <description>Hover over an item of clothing and press a key to preview your character wearing it.</description>
+  </item>
+  <item>
+    <title>Better Hoe</title>
+    <link>https://mods.vintagestory.at/show/mod/betterhoe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhoe#1594</guid>
+    <pubDate>Tue, 14 Jul 2026 15:04:31 -0000</pubDate>
+    <description>Adds function to create paths with the hoe.</description>
+  </item>
+  <item>
+    <title>Optimum</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Tue, 14 Jul 2026 15:02:34 -0000</pubDate>
+    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
+  </item>
+  <item>
+    <title>Salty´s Immersive: Light</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivelight</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivelight#10075</guid>
+    <pubDate>Tue, 14 Jul 2026 14:56:05 -0000</pubDate>
+    <description>Makes block light respect walls and closed barriers.</description>
+  </item>
+  <item>
+    <title>TLH Tweaks (Client)</title>
+    <link>https://mods.vintagestory.at/show/mod/tlhtweaksclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tlhtweaksclient#10278</guid>
+    <pubDate>Tue, 14 Jul 2026 14:55:49 -0000</pubDate>
+    <description>Clientside tweaks for my server. Nothing interesting.</description>
+  </item>
   <item>
     <title>ClimateScalePatch</title>
     <link>https://mods.vintagestory.at/show/mod/10277</link>
@@ -53,13 +116,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivechests#5331</guid>
     <pubDate>Tue, 14 Jul 2026 13:15:23 -0000</pubDate>
     <description>Immersive manual chest storage using the cabinet system.</description>
-  </item>
-  <item>
-    <title>Easy Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/easycrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/easycrafting#10275</guid>
-    <pubDate>Tue, 14 Jul 2026 13:01:55 -0000</pubDate>
-    <description>Recettes craftables à côté de la grille ; clic = place, Shift+clic = max.</description>
   </item>
   <item>
     <title>ALDI's classes SAM FORK</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7450#7450</guid>
     <pubDate>Tue, 14 Jul 2026 07:26:16 -0000</pubDate>
     <description>Adds a machine that sells and redeems scratch-off lottery tickets.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Tue, 14 Jul 2026 06:57:05 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>SkyTp</title>
-    <link>https://mods.vintagestory.at/show/mod/skytp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skytp#10232</guid>
-    <pubDate>Tue, 14 Jul 2026 05:41:05 -0000</pubDate>
-    <description>Teleport Gui for Skyblock server</description>
-  </item>
-  <item>
-    <title>Wildcraft x Expanded Foods Compatability</title>
-    <link>https://mods.vintagestory.at/show/mod/9738</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9738#9738</guid>
-    <pubDate>Tue, 14 Jul 2026 05:21:25 -0000</pubDate>
-    <description>A work-in-progress mod that aims to act as a bridge between Wildcraft: F&amp;N + Expanded Foods</description>
-  </item>
-  <item>
-    <title>BagsPlus</title>
-    <link>https://mods.vintagestory.at/show/mod/10268</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10268#10268</guid>
-    <pubDate>Tue, 14 Jul 2026 05:12:35 -0000</pubDate>
-    <description>This a fork of  SpecializedBags Revived with a few things from BackPackPlus for my personal server.</description>
-  </item>
-  <item>
-    <title>Animalica - Hooved Animals</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicah</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicah#9797</guid>
-    <pubDate>Tue, 14 Jul 2026 04:45:08 -0000</pubDate>
-    <description>Adds all the hooved animals as playable models!</description>
-  </item>
-  <item>
-    <title>Animalica - Small &amp; Odd</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicaso</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaso#9796</guid>
-    <pubDate>Tue, 14 Jul 2026 04:44:50 -0000</pubDate>
-    <description>Adds the small goober animals like raccoons, chickens, and rabbits as players</description>
-  </item>
-  <item>
-    <title>Animalica - Bears</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicab</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicab#9795</guid>
-    <pubDate>Tue, 14 Jul 2026 04:44:31 -0000</pubDate>
-    <description>Adds Bears as player choices</description>
-  </item>
-  <item>
-    <title>Animalica Core</title>
-    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
-    <pubDate>Tue, 14 Jul 2026 04:43:58 -0000</pubDate>
-    <description>Core mod for playable animals. Does nothing on it's own</description>
   </item>
 </channel>
 </rss>
