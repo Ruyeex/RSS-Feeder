@@ -4,20 +4,83 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 14 Jul 2026 16:17:54 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 18:06:06 +0000</lastBuildDate>
+  <item>
+    <title>Easy Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/easycrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/easycrafting#10275</guid>
+    <pubDate>Tue, 14 Jul 2026 17:50:35 -0000</pubDate>
+    <description>Recettes craftables à côté de la grille ; clic = place, Shift+clic = max.</description>
+  </item>
+  <item>
+    <title>Compost-this</title>
+    <link>https://mods.vintagestory.at/show/mod/compostthis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/compostthis#10244</guid>
+    <pubDate>Tue, 14 Jul 2026 17:32:26 -0000</pubDate>
+    <description>Compost This to accelerate your rot production</description>
+  </item>
+  <item>
+    <title>Ancestral Bliss Shaders</title>
+    <link>https://mods.vintagestory.at/show/mod/ancestralblissshaders</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancestralblissshaders#6110</guid>
+    <pubDate>Tue, 14 Jul 2026 17:31:06 -0000</pubDate>
+    <description>Shaders compatible with most GPUs</description>
+  </item>
+  <item>
+    <title>SoldierSpy - Boneworks</title>
+    <link>https://mods.vintagestory.at/show/mod/8962</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8962#8962</guid>
+    <pubDate>Tue, 14 Jul 2026 17:27:31 -0000</pubDate>
+    <description>Something to do with all those bones, made with love &amp; pain, no AI</description>
+  </item>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/10162</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10162#10162</guid>
+    <pubDate>Tue, 14 Jul 2026 17:27:26 -0000</pubDate>
+    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
+  </item>
+  <item>
+    <title>Murlok Vintage Server Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/murlokvspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/murlokvspatch#5307</guid>
+    <pubDate>Tue, 14 Jul 2026 17:23:03 -0000</pubDate>
+    <description>Collection of tweaks for the Murlok server and playthrough.</description>
+  </item>
+  <item>
+    <title>Immersive Inventory Slots </title>
+    <link>https://mods.vintagestory.at/show/mod/10199</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10199#10199</guid>
+    <pubDate>Tue, 14 Jul 2026 17:08:38 -0000</pubDate>
+    <description>Removes inventory slots, leaving only the crafting grid</description>
+  </item>
+  <item>
+    <title>Death Exile</title>
+    <link>https://mods.vintagestory.at/show/mod/10274</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10274#10274</guid>
+    <pubDate>Tue, 14 Jul 2026 16:52:50 -0000</pubDate>
+    <description>Value your life - death has consequences. Die and face a ban, ghost mode, or 24h exile.</description>
+  </item>
+  <item>
+    <title>Seraph Girls</title>
+    <link>https://mods.vintagestory.at/show/mod/seraphgirls</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphgirls#10276</guid>
+    <pubDate>Tue, 14 Jul 2026 16:42:26 -0000</pubDate>
+    <description>Look cute while you do pottery, starve, and get hunted by horrors beyond comprehension!</description>
+  </item>
+  <item>
+    <title>VftRW - Default Voice Pack</title>
+    <link>https://mods.vintagestory.at/show/mod/9593</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9593#9593</guid>
+    <pubDate>Tue, 14 Jul 2026 16:27:51 -0000</pubDate>
+    <description>A default voice pack for Voices from the Rust World</description>
+  </item>
   <item>
     <title>octatonic</title>
     <link>https://mods.vintagestory.at/show/mod/octatonic</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/octatonic#3472</guid>
     <pubDate>Tue, 14 Jul 2026 16:14:01 -0000</pubDate>
     <description>Mod manager via command line interface</description>
-  </item>
-  <item>
-    <title>Easy Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/easycrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/easycrafting#10275</guid>
-    <pubDate>Tue, 14 Jul 2026 16:13:42 -0000</pubDate>
-    <description>Recettes craftables à côté de la grille ; clic = place, Shift+clic = max.</description>
   </item>
   <item>
     <title>aitranslator</title>
@@ -74,20 +137,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10277#10277</guid>
     <pubDate>Tue, 14 Jul 2026 14:30:24 -0000</pubDate>
     <description>ClimateScalePatch increases generated climate channel scale with per-channel vanilla-scaled or soft </description>
-  </item>
-  <item>
-    <title>Seraph Girls</title>
-    <link>https://mods.vintagestory.at/show/mod/seraphgirls</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphgirls#10276</guid>
-    <pubDate>Tue, 14 Jul 2026 14:27:33 -0000</pubDate>
-    <description>Look cute while you do pottery, starve, and get hunted by horrors beyond comprehension!</description>
-  </item>
-  <item>
-    <title>VftRW - Default Voice Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/9593</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9593#9593</guid>
-    <pubDate>Tue, 14 Jul 2026 14:18:10 -0000</pubDate>
-    <description>A default voice pack for Voices from the Rust World</description>
   </item>
   <item>
     <title>Exotic Milk</title>
@@ -153,13 +202,6 @@
     <description>Adds materials, recipes, items, and a new balance of things to the game</description>
   </item>
   <item>
-    <title>Death Exile</title>
-    <link>https://mods.vintagestory.at/show/mod/10274</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10274#10274</guid>
-    <pubDate>Tue, 14 Jul 2026 11:06:25 -0000</pubDate>
-    <description>Value your life - death has consequences. Die and face a ban, ghost mode, or 24h exile.</description>
-  </item>
-  <item>
     <title>Akira's Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/akiratweaks</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/akiratweaks#10138</guid>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10272#10272</guid>
     <pubDate>Tue, 14 Jul 2026 09:53:50 -0000</pubDate>
     <description>Adds Chonky Vessels to Useful Traders.</description>
-  </item>
-  <item>
-    <title>Woodsman</title>
-    <link>https://mods.vintagestory.at/show/mod/10273</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10273#10273</guid>
-    <pubDate>Tue, 14 Jul 2026 09:37:47 -0000</pubDate>
-    <description>Realistic tree felling — whole trees topple over, then the stumps grow back.</description>
-  </item>
-  <item>
-    <title>Modular Backpacks: Equus Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/modularbackpacksequus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacksequus#10250</guid>
-    <pubDate>Tue, 14 Jul 2026 08:49:08 -0000</pubDate>
-    <description>Compatibility patch for Modular Backpacks and Equus</description>
-  </item>
-  <item>
-    <title>Modular Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/modularbackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacks#10127</guid>
-    <pubDate>Tue, 14 Jul 2026 08:45:41 -0000</pubDate>
-    <description>Makes vanilla backpacks modular, allowing you to attach addons to extend storage slots.</description>
-  </item>
-  <item>
-    <title>Enhanced Lightning Visuals</title>
-    <link>https://mods.vintagestory.at/show/mod/10271</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10271#10271</guid>
-    <pubDate>Tue, 14 Jul 2026 08:44:46 -0000</pubDate>
-    <description>Reshapes lightning into varied bolt types — jagged, smooth arched, forked, crawler, and upward</description>
-  </item>
-  <item>
-    <title>BetterChinese</title>
-    <link>https://mods.vintagestory.at/show/mod/betterchinese</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterchinese#2568</guid>
-    <pubDate>Tue, 14 Jul 2026 07:30:31 -0000</pubDate>
-    <description>更好的汉化</description>
-  </item>
-  <item>
-    <title>Lottery Tickets</title>
-    <link>https://mods.vintagestory.at/show/mod/7450</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7450#7450</guid>
-    <pubDate>Tue, 14 Jul 2026 07:26:16 -0000</pubDate>
-    <description>Adds a machine that sells and redeems scratch-off lottery tickets.</description>
   </item>
 </channel>
 </rss>
