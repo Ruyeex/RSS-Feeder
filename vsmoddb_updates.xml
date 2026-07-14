@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 14 Jul 2026 22:00:15 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 23:54:47 +0000</lastBuildDate>
+  <item>
+    <title>Water Wheel works with The Rivers Mod Mod Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/10293</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10293#10293</guid>
+    <pubDate>Tue, 14 Jul 2026 23:34:07 -0000</pubDate>
+    <description>Fixes the 'Water Wheel works with The Rivers Mod' mod by tweaking the way it calculates torque.</description>
+  </item>
+  <item>
+    <title>Dense Ground Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
+    <pubDate>Tue, 14 Jul 2026 23:11:43 -0000</pubDate>
+    <description>Place down more items per block and on chiseled blocks</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Tue, 14 Jul 2026 23:05:50 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Waypoint Teleport Button</title>
+    <link>https://mods.vintagestory.at/show/mod/10292</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10292#10292</guid>
+    <pubDate>Tue, 14 Jul 2026 22:43:14 -0000</pubDate>
+    <description>Adds a Teleport button to the Edit Waypoint dialog.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
+    <pubDate>Tue, 14 Jul 2026 22:35:46 -0000</pubDate>
+    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
+  </item>
+  <item>
+    <title>Aethernis Towns</title>
+    <link>https://mods.vintagestory.at/show/mod/aethernistowns</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aethernistowns#10290</guid>
+    <pubDate>Tue, 14 Jul 2026 22:18:49 -0000</pubDate>
+    <description>Automatic towns from nearby claims with seasons, territory, and Discord governance.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Chisel32</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalschisel32</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalschisel32#8883</guid>
+    <pubDate>Tue, 14 Jul 2026 22:05:16 -0000</pubDate>
+    <description>Chisel32 adds high-detail 32x32x32 chiseling with a dedicated Fine Chisel tool</description>
+  </item>
   <item>
     <title>Milkable Players!</title>
     <link>https://mods.vintagestory.at/show/mod/godisdead</link>
@@ -46,13 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
     <pubDate>Tue, 14 Jul 2026 21:18:53 -0000</pubDate>
     <description>A director camera mod for video production workflows.（导演模式模组）</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Tue, 14 Jul 2026 21:09:06 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
   </item>
   <item>
     <title>RTP - Random Teleport</title>
@@ -125,13 +167,6 @@
     <description>Custom models for the falx, without the jagged blade and wooden spine.</description>
   </item>
   <item>
-    <title>Easy Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/easycrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/easycrafting#10275</guid>
-    <pubDate>Tue, 14 Jul 2026 17:50:35 -0000</pubDate>
-    <description>Recettes craftables à côté de la grille ; clic = place, Shift+clic = max.</description>
-  </item>
-  <item>
     <title>Compost-this</title>
     <link>https://mods.vintagestory.at/show/mod/compostthis</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/compostthis#10244</guid>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10274#10274</guid>
     <pubDate>Tue, 14 Jul 2026 16:52:50 -0000</pubDate>
     <description>Value your life - death has consequences. Die and face a ban, ghost mode, or 24h exile.</description>
-  </item>
-  <item>
-    <title>Seraph Girls</title>
-    <link>https://mods.vintagestory.at/show/mod/seraphgirls</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphgirls#10276</guid>
-    <pubDate>Tue, 14 Jul 2026 16:42:26 -0000</pubDate>
-    <description>Look cute while you do pottery, starve, and get hunted by horrors beyond comprehension!</description>
-  </item>
-  <item>
-    <title>VftRW - Default Voice Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/9593</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9593#9593</guid>
-    <pubDate>Tue, 14 Jul 2026 16:27:51 -0000</pubDate>
-    <description>A default voice pack for Voices from the Rust World</description>
-  </item>
-  <item>
-    <title>octatonic</title>
-    <link>https://mods.vintagestory.at/show/mod/octatonic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/octatonic#3472</guid>
-    <pubDate>Tue, 14 Jul 2026 16:14:01 -0000</pubDate>
-    <description>Mod manager via command line interface</description>
-  </item>
-  <item>
-    <title>aitranslator</title>
-    <link>https://mods.vintagestory.at/show/mod/aitranslator</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aitranslator#10279</guid>
-    <pubDate>Tue, 14 Jul 2026 15:50:34 -0000</pubDate>
-    <description>A mod that translate every other mod into your selected language.</description>
-  </item>
-  <item>
-    <title>Rustbound Magic Easy Mode</title>
-    <link>https://mods.vintagestory.at/show/mod/3633</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3633#3633</guid>
-    <pubDate>Tue, 14 Jul 2026 15:50:10 -0000</pubDate>
-    <description>Make Rustbound Magic mobs easier to handle</description>
   </item>
 </channel>
 </rss>
