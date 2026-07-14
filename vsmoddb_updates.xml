@@ -4,13 +4,76 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 14 Jul 2026 12:16:17 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 14:54:25 +0000</lastBuildDate>
+  <item>
+    <title>ClimateScalePatch</title>
+    <link>https://mods.vintagestory.at/show/mod/10277</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10277#10277</guid>
+    <pubDate>Tue, 14 Jul 2026 14:30:24 -0000</pubDate>
+    <description>ClimateScalePatch increases generated climate channel scale with per-channel vanilla-scaled or soft </description>
+  </item>
+  <item>
+    <title>Seraph Girls</title>
+    <link>https://mods.vintagestory.at/show/mod/seraphgirls</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphgirls#10276</guid>
+    <pubDate>Tue, 14 Jul 2026 14:27:33 -0000</pubDate>
+    <description>Look cute while you do pottery, starve, and get hunted by horrors beyond comprehension!</description>
+  </item>
+  <item>
+    <title>VftRW - Default Voice Pack</title>
+    <link>https://mods.vintagestory.at/show/mod/9593</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9593#9593</guid>
+    <pubDate>Tue, 14 Jul 2026 14:18:10 -0000</pubDate>
+    <description>A default voice pack for Voices from the Rust World</description>
+  </item>
   <item>
     <title>Exotic Milk</title>
     <link>https://mods.vintagestory.at/show/mod/9541</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9541#9541</guid>
-    <pubDate>Tue, 14 Jul 2026 12:06:30 -0000</pubDate>
+    <pubDate>Tue, 14 Jul 2026 14:15:41 -0000</pubDate>
     <description>Have you ever wanted milk from an entity that doesnt normally produce milk? Now's your chance!</description>
+  </item>
+  <item>
+    <title>Voices from the Rust World</title>
+    <link>https://mods.vintagestory.at/show/mod/9509</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9509#9509</guid>
+    <pubDate>Tue, 14 Jul 2026 14:11:21 -0000</pubDate>
+    <description>Human voice narration for Vintage Story lore books, scrolls, and tales from the Rust World in-game.</description>
+  </item>
+  <item>
+    <title>CB Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Tue, 14 Jul 2026 13:38:57 -0000</pubDate>
+    <description>Harmony patches for my personal server.</description>
+  </item>
+  <item>
+    <title>Salty´s Immersive: Chests</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivechests</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivechests#5331</guid>
+    <pubDate>Tue, 14 Jul 2026 13:15:23 -0000</pubDate>
+    <description>Immersive manual chest storage using the cabinet system.</description>
+  </item>
+  <item>
+    <title>Easy Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/easycrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/easycrafting#10275</guid>
+    <pubDate>Tue, 14 Jul 2026 13:01:55 -0000</pubDate>
+    <description>Recettes craftables à côté de la grille ; clic = place, Shift+clic = max.</description>
+  </item>
+  <item>
+    <title>ALDI's classes SAM FORK</title>
+    <link>https://mods.vintagestory.at/show/mod/7856</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7856#7856</guid>
+    <pubDate>Tue, 14 Jul 2026 12:47:51 -0000</pubDate>
+    <description>Completely rebalanced fork for the Steam and Mud server. Code by FiveCubeI3CTA</description>
+  </item>
+  <item>
+    <title>Forgiving Quench</title>
+    <link>https://mods.vintagestory.at/show/mod/forgivingquench</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/forgivingquench#10270</guid>
+    <pubDate>Tue, 14 Jul 2026 12:21:49 -0000</pubDate>
+    <description>Failing a quench reduces its durability instead of instantly destroying the tool.</description>
   </item>
   <item>
     <title>Advanced Chat</title>
@@ -90,13 +153,6 @@
     <description>更好的汉化</description>
   </item>
   <item>
-    <title>Forgiving Quench</title>
-    <link>https://mods.vintagestory.at/show/mod/forgivingquench</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/forgivingquench#10270</guid>
-    <pubDate>Tue, 14 Jul 2026 07:26:48 -0000</pubDate>
-    <description>Failing a quench reduces its durability instead of instantly destroying the tool.</description>
-  </item>
-  <item>
     <title>Lottery Tickets</title>
     <link>https://mods.vintagestory.at/show/mod/7450</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7450#7450</guid>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
     <pubDate>Tue, 14 Jul 2026 04:43:58 -0000</pubDate>
     <description>Core mod for playable animals. Does nothing on it's own</description>
-  </item>
-  <item>
-    <title>Uppsalchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/10141</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10141#10141</guid>
-    <pubDate>Tue, 14 Jul 2026 04:24:58 -0000</pubDate>
-    <description>A multi-tier alchemy system that uses A Culinary Artillery bottles.</description>
-  </item>
-  <item>
-    <title>Northern Ores</title>
-    <link>https://mods.vintagestory.at/show/mod/northernores</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/northernores#10267</guid>
-    <pubDate>Tue, 14 Jul 2026 04:17:17 -0000</pubDate>
-    <description>Gradually increases metal ore generation as players travel farther north.</description>
-  </item>
-  <item>
-    <title>Achievements</title>
-    <link>https://mods.vintagestory.at/show/mod/achievements</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/achievements#8202</guid>
-    <pubDate>Tue, 14 Jul 2026 04:05:37 -0000</pubDate>
-    <description>Adds vanilla, lore, AllClasses, Hod and Primitive Survival Achievements and random rewards</description>
-  </item>
-  <item>
-    <title>Vintage Story Chinese Language Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
-    <pubDate>Tue, 14 Jul 2026 04:02:33 -0000</pubDate>
-    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
-  </item>
-  <item>
-    <title>Fitting Room</title>
-    <link>https://mods.vintagestory.at/show/mod/fittingroom</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fittingroom#10266</guid>
-    <pubDate>Tue, 14 Jul 2026 03:55:26 -0000</pubDate>
-    <description>Hover over an item of clothing and press a key to preview your character wearing it.</description>
-  </item>
-  <item>
-    <title>Compost-this</title>
-    <link>https://mods.vintagestory.at/show/mod/compostthis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/compostthis#10244</guid>
-    <pubDate>Tue, 14 Jul 2026 03:51:46 -0000</pubDate>
-    <description>Compost This to accelerate your rot production</description>
-  </item>
-  <item>
-    <title>Butterfly Cases - Reborn</title>
-    <link>https://mods.vintagestory.at/show/mod/butterflycasesreborn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butterflycasesreborn#10189</guid>
-    <pubDate>Tue, 14 Jul 2026 03:38:15 -0000</pubDate>
-    <description>Adds more options for displaying your butterfly collection!</description>
-  </item>
-  <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Tue, 14 Jul 2026 02:21:22 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
   </item>
 </channel>
 </rss>
