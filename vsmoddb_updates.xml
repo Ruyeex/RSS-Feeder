@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 14 Jul 2026 05:33:54 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 08:11:20 +0000</lastBuildDate>
+  <item>
+    <title>BetterChinese</title>
+    <link>https://mods.vintagestory.at/show/mod/betterchinese</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterchinese#2568</guid>
+    <pubDate>Tue, 14 Jul 2026 07:30:31 -0000</pubDate>
+    <description>更好的汉化</description>
+  </item>
+  <item>
+    <title>Forgiving Quench</title>
+    <link>https://mods.vintagestory.at/show/mod/forgivingquench</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/forgivingquench#10270</guid>
+    <pubDate>Tue, 14 Jul 2026 07:26:48 -0000</pubDate>
+    <description>Failing a quench reduces its durability instead of instantly destroying the tool.</description>
+  </item>
+  <item>
+    <title>Lottery Tickets</title>
+    <link>https://mods.vintagestory.at/show/mod/7450</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7450#7450</guid>
+    <pubDate>Tue, 14 Jul 2026 07:26:16 -0000</pubDate>
+    <description>Adds a machine that sells and redeems scratch-off lottery tickets.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Tue, 14 Jul 2026 06:57:05 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>SkyTp</title>
+    <link>https://mods.vintagestory.at/show/mod/skytp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skytp#10232</guid>
+    <pubDate>Tue, 14 Jul 2026 05:41:05 -0000</pubDate>
+    <description>Teleport Gui for Skyblock server</description>
+  </item>
   <item>
     <title>Wildcraft x Expanded Foods Compatability</title>
     <link>https://mods.vintagestory.at/show/mod/9738</link>
@@ -97,13 +132,6 @@
     <description>Adds more options for displaying your butterfly collection!</description>
   </item>
   <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Tue, 14 Jul 2026 02:31:47 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
     <title>Riley's Classes</title>
     <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10259#10259</guid>
     <pubDate>Mon, 13 Jul 2026 23:49:49 -0000</pubDate>
     <description>Normal bows are out, asymmetrical bows are in!</description>
-  </item>
-  <item>
-    <title>Sleepers</title>
-    <link>https://mods.vintagestory.at/show/mod/10246</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10246#10246</guid>
-    <pubDate>Mon, 13 Jul 2026 23:44:00 -0000</pubDate>
-    <description>Log out and your body stays behind; a lootable, killable sleeper holding everything you carried.</description>
-  </item>
-  <item>
-    <title>Falx To Katana</title>
-    <link>https://mods.vintagestory.at/show/mod/10236</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10236#10236</guid>
-    <pubDate>Mon, 13 Jul 2026 23:43:33 -0000</pubDate>
-    <description>Killing with a Falx has no honour in it, but this does.</description>
-  </item>
-  <item>
-    <title>Falx To Mace</title>
-    <link>https://mods.vintagestory.at/show/mod/10234</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10234#10234</guid>
-    <pubDate>Mon, 13 Jul 2026 23:42:41 -0000</pubDate>
-    <description>Sometimes simplicity is best, throw your Falx down and take up the Mace!</description>
-  </item>
-  <item>
-    <title>Falx To War Axe</title>
-    <link>https://mods.vintagestory.at/show/mod/10219</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10219#10219</guid>
-    <pubDate>Mon, 13 Jul 2026 23:41:50 -0000</pubDate>
-    <description>Falx not cutting hard enough, try a hefty War Axe instead.</description>
   </item>
 </channel>
 </rss>
