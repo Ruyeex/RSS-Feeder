@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 14 Jul 2026 20:14:37 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 22:00:15 +0000</lastBuildDate>
+  <item>
+    <title>Milkable Players!</title>
+    <link>https://mods.vintagestory.at/show/mod/godisdead</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/godisdead#10260</guid>
+    <pubDate>Tue, 14 Jul 2026 21:48:04 -0000</pubDate>
+    <description>Makes players... 𝒎𝒊𝒍𝒌𝒂𝒃𝒍𝒆</description>
+  </item>
+  <item>
+    <title>VSReborn Server Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10289</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10289#10289</guid>
+    <pubDate>Tue, 14 Jul 2026 21:46:16 -0000</pubDate>
+    <description>mega patch</description>
+  </item>
+  <item>
+    <title>Salty´s Immersive: Light</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivelight</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivelight#10075</guid>
+    <pubDate>Tue, 14 Jul 2026 21:40:38 -0000</pubDate>
+    <description>Makes block light respect walls and closed barriers.</description>
+  </item>
+  <item>
+    <title>Salty´s Movement: Slow Walk</title>
+    <link>https://mods.vintagestory.at/show/mod/slowwalk</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slowwalk#2497</guid>
+    <pubDate>Tue, 14 Jul 2026 21:26:26 -0000</pubDate>
+    <description>Immersive walking speed in cycles.</description>
+  </item>
+  <item>
+    <title>Optimum</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Tue, 14 Jul 2026 21:23:54 -0000</pubDate>
+    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Tue, 14 Jul 2026 21:18:53 -0000</pubDate>
+    <description>A director camera mod for video production workflows.（导演模式模组）</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Tue, 14 Jul 2026 21:09:06 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>RTP - Random Teleport</title>
+    <link>https://mods.vintagestory.at/show/mod/10288</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10288#10288</guid>
+    <pubDate>Tue, 14 Jul 2026 20:55:11 -0000</pubDate>
+    <description>RTP - Random Teleport with your friends!</description>
+  </item>
+  <item>
+    <title>Floral Zones: Cape Region</title>
+    <link>https://mods.vintagestory.at/show/mod/floralzonescaperegion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescaperegion#1570</guid>
+    <pubDate>Tue, 14 Jul 2026 20:27:46 -0000</pubDate>
+    <description>Adds plants from the Cape Region to the game.</description>
+  </item>
   <item>
     <title>Skaven/Rat Player Model</title>
     <link>https://mods.vintagestory.at/show/mod/skavenratplayermodel</link>
@@ -53,13 +116,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10284#10284</guid>
     <pubDate>Tue, 14 Jul 2026 18:16:59 -0000</pubDate>
     <description>A mod that allows creating galcier ice using rustbound magic frost crystals</description>
-  </item>
-  <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Tue, 14 Jul 2026 18:14:06 -0000</pubDate>
-    <description>A director camera mod for video production workflows.（导演模式模组）</description>
   </item>
   <item>
     <title>Razor's smooth falx (textures from game folder)</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3633#3633</guid>
     <pubDate>Tue, 14 Jul 2026 15:50:10 -0000</pubDate>
     <description>Make Rustbound Magic mobs easier to handle</description>
-  </item>
-  <item>
-    <title>Fitting Room</title>
-    <link>https://mods.vintagestory.at/show/mod/fittingroom</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fittingroom#10266</guid>
-    <pubDate>Tue, 14 Jul 2026 15:27:37 -0000</pubDate>
-    <description>Hover over an item of clothing and press a key to preview your character wearing it.</description>
-  </item>
-  <item>
-    <title>Better Hoe</title>
-    <link>https://mods.vintagestory.at/show/mod/betterhoe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhoe#1594</guid>
-    <pubDate>Tue, 14 Jul 2026 15:04:31 -0000</pubDate>
-    <description>Adds function to create paths with the hoe.</description>
-  </item>
-  <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Tue, 14 Jul 2026 15:02:34 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
-    <title>Salty´s Immersive: Light</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivelight</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivelight#10075</guid>
-    <pubDate>Tue, 14 Jul 2026 14:56:05 -0000</pubDate>
-    <description>Makes block light respect walls and closed barriers.</description>
-  </item>
-  <item>
-    <title>TLH Tweaks (Client)</title>
-    <link>https://mods.vintagestory.at/show/mod/tlhtweaksclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tlhtweaksclient#10278</guid>
-    <pubDate>Tue, 14 Jul 2026 14:55:49 -0000</pubDate>
-    <description>Clientside tweaks for my server. Nothing interesting.</description>
-  </item>
-  <item>
-    <title>ClimateScalePatch</title>
-    <link>https://mods.vintagestory.at/show/mod/10277</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10277#10277</guid>
-    <pubDate>Tue, 14 Jul 2026 14:30:24 -0000</pubDate>
-    <description>ClimateScalePatch modifies climate map generation during worldgen.</description>
-  </item>
-  <item>
-    <title>Exotic Milk</title>
-    <link>https://mods.vintagestory.at/show/mod/9541</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9541#9541</guid>
-    <pubDate>Tue, 14 Jul 2026 14:15:41 -0000</pubDate>
-    <description>Have you ever wanted milk from an entity that doesnt normally produce milk? Now's your chance!</description>
-  </item>
-  <item>
-    <title>Voices from the Rust World</title>
-    <link>https://mods.vintagestory.at/show/mod/9509</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9509#9509</guid>
-    <pubDate>Tue, 14 Jul 2026 14:11:21 -0000</pubDate>
-    <description>Human voice narration for Vintage Story lore books, scrolls, and tales from the Rust World in-game.</description>
   </item>
 </channel>
 </rss>
