@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 14 Jul 2026 08:11:20 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 10:49:38 +0000</lastBuildDate>
+  <item>
+    <title>Useful Traders Chonky Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10272</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10272#10272</guid>
+    <pubDate>Tue, 14 Jul 2026 09:53:50 -0000</pubDate>
+    <description>Adds Chonky Vessels to Useful Traders.</description>
+  </item>
+  <item>
+    <title>Woodsman</title>
+    <link>https://mods.vintagestory.at/show/mod/10273</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10273#10273</guid>
+    <pubDate>Tue, 14 Jul 2026 09:37:47 -0000</pubDate>
+    <description>Realistic tree felling — whole trees topple over, then the stumps grow back.</description>
+  </item>
+  <item>
+    <title>Modular Backpacks: Equus Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/modularbackpacksequus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacksequus#10250</guid>
+    <pubDate>Tue, 14 Jul 2026 08:49:08 -0000</pubDate>
+    <description>Compatibility patch for Modular Backpacks and Equus</description>
+  </item>
+  <item>
+    <title>Modular Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/modularbackpacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacks#10127</guid>
+    <pubDate>Tue, 14 Jul 2026 08:45:41 -0000</pubDate>
+    <description>Makes vanilla backpacks modular, allowing you to attach addons to extend storage slots.</description>
+  </item>
+  <item>
+    <title>Enhanced Lightning Visuals</title>
+    <link>https://mods.vintagestory.at/show/mod/10271</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10271#10271</guid>
+    <pubDate>Tue, 14 Jul 2026 08:44:46 -0000</pubDate>
+    <description>Reshapes lightning into varied bolt types — jagged, smooth arched, forked, crawler, and upward</description>
+  </item>
   <item>
     <title>BetterChinese</title>
     <link>https://mods.vintagestory.at/show/mod/betterchinese</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/terrariabiomespread#10261</guid>
     <pubDate>Tue, 14 Jul 2026 01:14:02 -0000</pubDate>
     <description>Add some difficulty to your world with spreading evils with dangerous enemies and unique mechanics</description>
-  </item>
-  <item>
-    <title>Movable Rapid Water</title>
-    <link>https://mods.vintagestory.at/show/mod/10028</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10028#10028</guid>
-    <pubDate>Tue, 14 Jul 2026 00:58:28 -0000</pubDate>
-    <description>Allows you to pick up rapid water source blocks with a bucket.</description>
-  </item>
-  <item>
-    <title>Leaf Litter</title>
-    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
-    <pubDate>Tue, 14 Jul 2026 00:54:28 -0000</pubDate>
-    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
-  </item>
-  <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Tue, 14 Jul 2026 00:47:40 -0000</pubDate>
-    <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
-  </item>
-  <item>
-    <title>Project Merezha - Client Preview</title>
-    <link>https://mods.vintagestory.at/show/mod/merezha</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/merezha#10240</guid>
-    <pubDate>Mon, 13 Jul 2026 23:52:07 -0000</pubDate>
-    <description>Early client support for an upcoming Vintage Story multiplayer games network.</description>
-  </item>
-  <item>
-    <title>Longbow To Yumi</title>
-    <link>https://mods.vintagestory.at/show/mod/10259</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10259#10259</guid>
-    <pubDate>Mon, 13 Jul 2026 23:49:49 -0000</pubDate>
-    <description>Normal bows are out, asymmetrical bows are in!</description>
   </item>
 </channel>
 </rss>
