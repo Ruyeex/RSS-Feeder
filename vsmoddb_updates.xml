@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 14 Jul 2026 18:06:06 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 20:14:37 +0000</lastBuildDate>
+  <item>
+    <title>Skaven/Rat Player Model</title>
+    <link>https://mods.vintagestory.at/show/mod/skavenratplayermodel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skavenratplayermodel#5322</guid>
+    <pubDate>Tue, 14 Jul 2026 20:08:04 -0000</pubDate>
+    <description>Adds a Skaven/Rat player model to the game it uses Player Model Lib by Maltiez!</description>
+  </item>
+  <item>
+    <title>Level UP</title>
+    <link>https://mods.vintagestory.at/show/mod/levelup</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/levelup#2089</guid>
+    <pubDate>Tue, 14 Jul 2026 18:36:27 -0000</pubDate>
+    <description>Add new levels systems to your character</description>
+  </item>
+  <item>
+    <title>Aldi's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/aldiclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aldiclasses#5327</guid>
+    <pubDate>Tue, 14 Jul 2026 18:34:49 -0000</pubDate>
+    <description>An extremely stable, compatible and customizable classes mod!</description>
+  </item>
+  <item>
+    <title>Razor's smooth falx (textures in mod folder)</title>
+    <link>https://mods.vintagestory.at/show/mod/10286</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10286#10286</guid>
+    <pubDate>Tue, 14 Jul 2026 18:26:25 -0000</pubDate>
+    <description>Custom models for the falx, without the jagged blade and wooden spine.</description>
+  </item>
+  <item>
+    <title>ServerKits</title>
+    <link>https://mods.vintagestory.at/show/mod/serverkits</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/serverkits#10285</guid>
+    <pubDate>Tue, 14 Jul 2026 18:24:24 -0000</pubDate>
+    <description>Kits to claim on servers</description>
+  </item>
+  <item>
+    <title>SkyTp</title>
+    <link>https://mods.vintagestory.at/show/mod/skytp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skytp#10232</guid>
+    <pubDate>Tue, 14 Jul 2026 18:20:57 -0000</pubDate>
+    <description>Teleport Gui for Skyblock server</description>
+  </item>
+  <item>
+    <title>Rustbound Glacier Ice</title>
+    <link>https://mods.vintagestory.at/show/mod/10284</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10284#10284</guid>
+    <pubDate>Tue, 14 Jul 2026 18:16:59 -0000</pubDate>
+    <description>A mod that allows creating galcier ice using rustbound magic frost crystals</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Tue, 14 Jul 2026 18:14:06 -0000</pubDate>
+    <description>A director camera mod for video production workflows.（导演模式模组）</description>
+  </item>
+  <item>
+    <title>Razor's smooth falx (textures from game folder)</title>
+    <link>https://mods.vintagestory.at/show/mod/10282</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10282#10282</guid>
+    <pubDate>Tue, 14 Jul 2026 18:06:40 -0000</pubDate>
+    <description>Custom models for the falx, without the jagged blade and wooden spine.</description>
+  </item>
   <item>
     <title>Easy Crafting</title>
     <link>https://mods.vintagestory.at/show/mod/easycrafting</link>
@@ -136,7 +199,7 @@
     <link>https://mods.vintagestory.at/show/mod/10277</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10277#10277</guid>
     <pubDate>Tue, 14 Jul 2026 14:30:24 -0000</pubDate>
-    <description>ClimateScalePatch increases generated climate channel scale with per-channel vanilla-scaled or soft </description>
+    <description>ClimateScalePatch modifies climate map generation during worldgen.</description>
   </item>
   <item>
     <title>Exotic Milk</title>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9509#9509</guid>
     <pubDate>Tue, 14 Jul 2026 14:11:21 -0000</pubDate>
     <description>Human voice narration for Vintage Story lore books, scrolls, and tales from the Rust World in-game.</description>
-  </item>
-  <item>
-    <title>CB Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Tue, 14 Jul 2026 13:38:57 -0000</pubDate>
-    <description>Harmony patches for my personal server.</description>
-  </item>
-  <item>
-    <title>Salty´s Immersive: Chests</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivechests</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivechests#5331</guid>
-    <pubDate>Tue, 14 Jul 2026 13:15:23 -0000</pubDate>
-    <description>Immersive manual chest storage using the cabinet system.</description>
-  </item>
-  <item>
-    <title>ALDI's classes SAM FORK</title>
-    <link>https://mods.vintagestory.at/show/mod/7856</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7856#7856</guid>
-    <pubDate>Tue, 14 Jul 2026 12:47:51 -0000</pubDate>
-    <description>Completely rebalanced fork for the Steam and Mud server. Code by FiveCubeI3CTA</description>
-  </item>
-  <item>
-    <title>Forgiving Quench</title>
-    <link>https://mods.vintagestory.at/show/mod/forgivingquench</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/forgivingquench#10270</guid>
-    <pubDate>Tue, 14 Jul 2026 12:21:49 -0000</pubDate>
-    <description>Failing a quench reduces its durability instead of instantly destroying the tool.</description>
-  </item>
-  <item>
-    <title>Advanced Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/advancedchat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedchat#10095</guid>
-    <pubDate>Tue, 14 Jul 2026 12:05:03 -0000</pubDate>
-    <description>A fully customizable, movable, resizable chat overlay for Vintage Story. Take control of your chat w</description>
-  </item>
-  <item>
-    <title>Catch and Release: Fish</title>
-    <link>https://mods.vintagestory.at/show/mod/crfish</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crfish#7410</guid>
-    <pubDate>Tue, 14 Jul 2026 11:37:35 -0000</pubDate>
-    <description>Catch fish live and place them in various sized aquariums.</description>
-  </item>
-  <item>
-    <title>rawNature</title>
-    <link>https://mods.vintagestory.at/show/mod/raw</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/raw#5940</guid>
-    <pubDate>Tue, 14 Jul 2026 11:26:57 -0000</pubDate>
-    <description>Adds materials, recipes, items, and a new balance of things to the game</description>
-  </item>
-  <item>
-    <title>Akira's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/akiratweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/akiratweaks#10138</guid>
-    <pubDate>Tue, 14 Jul 2026 10:58:33 -0000</pubDate>
-    <description>Collection of patches for a personal server.</description>
-  </item>
-  <item>
-    <title>Useful Traders Chonky Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10272</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10272#10272</guid>
-    <pubDate>Tue, 14 Jul 2026 09:53:50 -0000</pubDate>
-    <description>Adds Chonky Vessels to Useful Traders.</description>
   </item>
 </channel>
 </rss>
