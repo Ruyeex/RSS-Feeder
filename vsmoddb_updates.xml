@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 15 Jul 2026 14:53:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 16:24:55 +0000</lastBuildDate>
+  <item>
+    <title>Exotic Milk</title>
+    <link>https://mods.vintagestory.at/show/mod/9541</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9541#9541</guid>
+    <pubDate>Wed, 15 Jul 2026 16:22:12 -0000</pubDate>
+    <description>Have you ever wanted milk from an entity that doesnt normally produce milk? Now's your chance!</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Wed, 15 Jul 2026 16:15:36 -0000</pubDate>
+    <description>A director camera mod for video production workflows.（导演模式模组）</description>
+  </item>
+  <item>
+    <title>octatonic</title>
+    <link>https://mods.vintagestory.at/show/mod/octatonic</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/octatonic#3472</guid>
+    <pubDate>Wed, 15 Jul 2026 15:40:15 -0000</pubDate>
+    <description>Mod manager via command line interface</description>
+  </item>
+  <item>
+    <title>Boat Autopilot</title>
+    <link>https://mods.vintagestory.at/show/mod/10304</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10304#10304</guid>
+    <pubDate>Wed, 15 Jul 2026 15:25:40 -0000</pubDate>
+    <description>Long boat trips in Vintage Story are beautiful… the first three times.</description>
+  </item>
+  <item>
+    <title>Timber!</title>
+    <link>https://mods.vintagestory.at/show/mod/10303</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10303#10303</guid>
+    <pubDate>Wed, 15 Jul 2026 15:01:03 -0000</pubDate>
+    <description>A mostly visual mod where trees fall over then drop their items.</description>
+  </item>
   <item>
     <title>Advanced Chat</title>
     <link>https://mods.vintagestory.at/show/mod/advancedchat</link>
@@ -118,13 +153,6 @@
     <description>Adds a gravestone which stores the players inventory upon death and can be retrieved by them later.</description>
   </item>
   <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Wed, 15 Jul 2026 07:52:09 -0000</pubDate>
-    <description>A director camera mod for video production workflows.（导演模式模组）</description>
-  </item>
-  <item>
     <title>Woodsman</title>
     <link>https://mods.vintagestory.at/show/mod/10273</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10273#10273</guid>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthflowers#5701</guid>
     <pubDate>Wed, 15 Jul 2026 04:23:34 -0000</pubDate>
     <description>Adds a method for growing/farming flowers!</description>
-  </item>
-  <item>
-    <title>Temporal Relics</title>
-    <link>https://mods.vintagestory.at/show/mod/9886</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9886#9886</guid>
-    <pubDate>Wed, 15 Jul 2026 04:22:53 -0000</pubDate>
-    <description>Adds randomized affixes to found equipment, introducing mundane, corrupted, and temporally enhanced </description>
-  </item>
-  <item>
-    <title>Animalica - Bears</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicab</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicab#9795</guid>
-    <pubDate>Wed, 15 Jul 2026 04:01:04 -0000</pubDate>
-    <description>Adds Bears as player choices</description>
-  </item>
-  <item>
-    <title>Combat Durability Multipliers</title>
-    <link>https://mods.vintagestory.at/show/mod/10299</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10299#10299</guid>
-    <pubDate>Wed, 15 Jul 2026 03:30:38 -0000</pubDate>
-    <description>Configurable durability multipliers for weapons and armors.</description>
-  </item>
-  <item>
-    <title>Leaf Litter</title>
-    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
-    <pubDate>Wed, 15 Jul 2026 03:17:45 -0000</pubDate>
-    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
   </item>
 </channel>
 </rss>
