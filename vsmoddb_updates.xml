@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 15 Jul 2026 12:17:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 14:53:34 +0000</lastBuildDate>
+  <item>
+    <title>Advanced Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/advancedchat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedchat#10095</guid>
+    <pubDate>Wed, 15 Jul 2026 14:43:51 -0000</pubDate>
+    <description>A fully customizable, movable, resizable chat overlay for Vintage Story. Take control of your chat w</description>
+  </item>
+  <item>
+    <title>Swixy Claim Chunk</title>
+    <link>https://mods.vintagestory.at/show/mod/swixyclaimchunk</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swixyclaimchunk#9913</guid>
+    <pubDate>Wed, 15 Jul 2026 14:28:59 -0000</pubDate>
+    <description>Claiming made easy. Press [P], click a chunk, and it's yours!</description>
+  </item>
+  <item>
+    <title>Kaschperle Class Mix </title>
+    <link>https://mods.vintagestory.at/show/mod/8517</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8517#8517</guid>
+    <pubDate>Wed, 15 Jul 2026 14:01:05 -0000</pubDate>
+    <description>A revision mix from the popular class mod Aldi classes and Agi's Classes</description>
+  </item>
+  <item>
+    <title>OptiTime</title>
+    <link>https://mods.vintagestory.at/show/mod/optitime</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optitime#5942</guid>
+    <pubDate>Wed, 15 Jul 2026 13:44:03 -0000</pubDate>
+    <description>Clientside performance optimizations, specially for modded gameplays</description>
+  </item>
+  <item>
+    <title>RTP - Random Teleport: Reborn</title>
+    <link>https://mods.vintagestory.at/show/mod/10288</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10288#10288</guid>
+    <pubDate>Wed, 15 Jul 2026 13:22:43 -0000</pubDate>
+    <description>Teleport to new place with your friends!</description>
+  </item>
+  <item>
+    <title>Aging Barrels Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/10302</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10302#10302</guid>
+    <pubDate>Wed, 15 Jul 2026 13:16:24 -0000</pubDate>
+    <description>Adds aging barrels to speed up Expanded Foods curing. Fixes CTD.</description>
+  </item>
+  <item>
+    <title>Tabletop Games</title>
+    <link>https://mods.vintagestory.at/show/mod/tabletopgames</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tabletopgames#876</guid>
+    <pubDate>Wed, 15 Jul 2026 12:32:52 -0000</pubDate>
+    <description>Play real-world tabletop games or create your own</description>
+  </item>
   <item>
     <title>Immersive Woodworking</title>
     <link>https://mods.vintagestory.at/show/mod/immersivewoodworking</link>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
     <pubDate>Wed, 15 Jul 2026 03:17:45 -0000</pubDate>
     <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Wed, 15 Jul 2026 03:00:59 -0000</pubDate>
-    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
-  </item>
-  <item>
-    <title>Bricked Up + Expanded Matter Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/bricksupcompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricksupcompat#10295</guid>
-    <pubDate>Wed, 15 Jul 2026 02:13:35 -0000</pubDate>
-    <description>Adds a recipe to convert Bricked Up powderized stones into Expanded Matter crushed stones</description>
-  </item>
-  <item>
-    <title> TLNetworks</title>
-    <link>https://mods.vintagestory.at/show/mod/tlnetworks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tlnetworks#9858</guid>
-    <pubDate>Wed, 15 Jul 2026 02:02:30 -0000</pubDate>
-    <description>Automatically records translocator connections and draws lines on the world map.</description>
-  </item>
-  <item>
-    <title>Renderer Mangler</title>
-    <link>https://mods.vintagestory.at/show/mod/renderermangler</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/renderermangler#10114</guid>
-    <pubDate>Wed, 15 Jul 2026 01:43:10 -0000</pubDate>
-    <description>Custom cubemap renderer with different projections that allows up to 360 FOV</description>
-  </item>
-  <item>
-    <title>Advanced Geology</title>
-    <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedgeology#7167</guid>
-    <pubDate>Wed, 15 Jul 2026 01:42:39 -0000</pubDate>
-    <description>Adds new, realistic ores and stones with heavy IOG compatibility</description>
-  </item>
-  <item>
-    <title>Aethernis Towns</title>
-    <link>https://mods.vintagestory.at/show/mod/aethernistowns</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aethernistowns#10290</guid>
-    <pubDate>Wed, 15 Jul 2026 01:23:12 -0000</pubDate>
-    <description>Automatic towns from nearby claims with seasons, territory, and Discord governance.</description>
-  </item>
-  <item>
-    <title>Block Overlay</title>
-    <link>https://mods.vintagestory.at/show/mod/xray</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xray#1186</guid>
-    <pubDate>Wed, 15 Jul 2026 00:54:46 -0000</pubDate>
-    <description>The best x-ray mod so far 🎉</description>
   </item>
 </channel>
 </rss>
