@@ -4,13 +4,62 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 15 Jul 2026 20:12:17 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 22:03:47 +0000</lastBuildDate>
   <item>
-    <title>SmithingPlus_1.9.0-rc1_hotfix</title>
+    <title>Meliora Meadows Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
+    <pubDate>Wed, 15 Jul 2026 21:59:16 -0000</pubDate>
+    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
+  </item>
+  <item>
+    <title>Fitting Room</title>
+    <link>https://mods.vintagestory.at/show/mod/fittingroom</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fittingroom#10266</guid>
+    <pubDate>Wed, 15 Jul 2026 21:56:00 -0000</pubDate>
+    <description>Hover over an item of clothing and press a key to preview your character wearing it.</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Wed, 15 Jul 2026 21:53:04 -0000</pubDate>
+    <description>A director camera mod for video production workflows.（导演模式模组）</description>
+  </item>
+  <item>
+    <title>Timber!</title>
+    <link>https://mods.vintagestory.at/show/mod/10303</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10303#10303</guid>
+    <pubDate>Wed, 15 Jul 2026 21:44:08 -0000</pubDate>
+    <description>A mostly visual mod where trees fall over then drop their items.</description>
+  </item>
+  <item>
+    <title>SheyderMod</title>
+    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
+    <pubDate>Wed, 15 Jul 2026 21:02:38 -0000</pubDate>
+    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
+  </item>
+  <item>
+    <title>fish(wastaken) Classes Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10213</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10213#10213</guid>
+    <pubDate>Wed, 15 Jul 2026 20:40:20 -0000</pubDate>
+    <description>small personal patch for GlooMeClasses.</description>
+  </item>
+  <item>
+    <title>Signals</title>
+    <link>https://mods.vintagestory.at/show/mod/signals</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/signals#804</guid>
+    <pubDate>Wed, 15 Jul 2026 20:29:35 -0000</pubDate>
+    <description>Signals is a WIP mod allowing player to design "pseudo analogic" circuits. It adds triodes, resis...</description>
+  </item>
+  <item>
+    <title>Smithing Plus_1.9.0-rc1_hotfix</title>
     <link>https://mods.vintagestory.at/show/mod/9598</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9598#9598</guid>
     <pubDate>Wed, 15 Jul 2026 20:09:39 -0000</pubDate>
-    <description>Hotfix that addresses lagspike when looking at forges containing iron blooms in SmithingPlus 1.9.0</description>
+    <description>Hotfix that addresses some lagspikes and crashing issues with SmithingPlus 1.9.0-rc1</description>
   </item>
   <item>
     <title>Vintage Rift - Client</title>
@@ -18,13 +67,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
     <pubDate>Wed, 15 Jul 2026 20:03:06 -0000</pubDate>
     <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Wed, 15 Jul 2026 19:51:34 -0000</pubDate>
-    <description>A director camera mod for video production workflows.（导演模式模组）</description>
   </item>
   <item>
     <title>VSReborn Server Patch</title>
@@ -132,13 +174,6 @@
     <description>My personal tweaks I like to play with.</description>
   </item>
   <item>
-    <title>Meliora Meadows Adjustments</title>
-    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
-    <pubDate>Wed, 15 Jul 2026 17:32:46 -0000</pubDate>
-    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
-  </item>
-  <item>
     <title>Player Model lib</title>
     <link>https://mods.vintagestory.at/show/mod/playermodellib</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
@@ -151,13 +186,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slowwalk#2497</guid>
     <pubDate>Wed, 15 Jul 2026 16:57:50 -0000</pubDate>
     <description>Immersive walking speed in cycles.</description>
-  </item>
-  <item>
-    <title>fish(wastaken) Classes Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10213</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10213#10213</guid>
-    <pubDate>Wed, 15 Jul 2026 16:54:37 -0000</pubDate>
-    <description>small personal patch for GlooMeClasses.</description>
   </item>
   <item>
     <title>Extra Shelves</title>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9541#9541</guid>
     <pubDate>Wed, 15 Jul 2026 16:22:12 -0000</pubDate>
     <description>Have you ever wanted milk from an entity that doesnt normally produce milk? Now's your chance!</description>
-  </item>
-  <item>
-    <title>octatonic</title>
-    <link>https://mods.vintagestory.at/show/mod/octatonic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/octatonic#3472</guid>
-    <pubDate>Wed, 15 Jul 2026 15:40:15 -0000</pubDate>
-    <description>Mod manager via command line interface</description>
-  </item>
-  <item>
-    <title>Timber!</title>
-    <link>https://mods.vintagestory.at/show/mod/10303</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10303#10303</guid>
-    <pubDate>Wed, 15 Jul 2026 15:01:03 -0000</pubDate>
-    <description>A mostly visual mod where trees fall over then drop their items.</description>
-  </item>
-  <item>
-    <title>Advanced Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/advancedchat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedchat#10095</guid>
-    <pubDate>Wed, 15 Jul 2026 14:43:51 -0000</pubDate>
-    <description>A fully customizable, movable, resizable chat overlay for Vintage Story. Take control of your chat w</description>
-  </item>
-  <item>
-    <title>Swixy Claim Chunk</title>
-    <link>https://mods.vintagestory.at/show/mod/swixyclaimchunk</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swixyclaimchunk#9913</guid>
-    <pubDate>Wed, 15 Jul 2026 14:28:59 -0000</pubDate>
-    <description>Claiming made easy. Press [P], click a chunk, and it's yours!</description>
   </item>
 </channel>
 </rss>
