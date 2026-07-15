@@ -4,13 +4,69 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 15 Jul 2026 05:34:55 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 08:17:51 +0000</lastBuildDate>
+  <item>
+    <title>The Gravestones Mod - 1.22.3</title>
+    <link>https://mods.vintagestory.at/show/mod/gravestones</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gravestones#10300</guid>
+    <pubDate>Wed, 15 Jul 2026 07:58:38 -0000</pubDate>
+    <description>Adds a gravestone which stores the players inventory upon death and can be retrieved by them later.</description>
+  </item>
   <item>
     <title>VS Director</title>
     <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Wed, 15 Jul 2026 05:00:13 -0000</pubDate>
+    <pubDate>Wed, 15 Jul 2026 07:52:09 -0000</pubDate>
     <description>A director camera mod for video production workflows.（导演模式模组）</description>
+  </item>
+  <item>
+    <title>Woodsman</title>
+    <link>https://mods.vintagestory.at/show/mod/10273</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10273#10273</guid>
+    <pubDate>Wed, 15 Jul 2026 07:11:19 -0000</pubDate>
+    <description>Realistic tree felling — whole trees topple over, then the stumps grow back.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Wed, 15 Jul 2026 07:02:29 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Vintage Story Chinese Language Pack</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
+    <pubDate>Wed, 15 Jul 2026 06:53:25 -0000</pubDate>
+    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
+  </item>
+  <item>
+    <title>More animations</title>
+    <link>https://mods.vintagestory.at/show/mod/mefimations</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mefimations#9963</guid>
+    <pubDate>Wed, 15 Jul 2026 06:52:32 -0000</pubDate>
+    <description>Better body and face animations</description>
+  </item>
+  <item>
+    <title>Animalica - Hooved Animals</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicah</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicah#9797</guid>
+    <pubDate>Wed, 15 Jul 2026 05:56:55 -0000</pubDate>
+    <description>Adds all the hooved animals as playable models!</description>
+  </item>
+  <item>
+    <title>IndustrialStory</title>
+    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
+    <pubDate>Wed, 15 Jul 2026 05:42:13 -0000</pubDate>
+    <description>Overhauls metalworking, chemistry, and glassworking. </description>
+  </item>
+  <item>
+    <title>Anthro Players</title>
+    <link>https://mods.vintagestory.at/show/mod/anthroplayers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/anthroplayers#7627</guid>
+    <pubDate>Wed, 15 Jul 2026 05:40:33 -0000</pubDate>
+    <description>Anthro animal models for the player</description>
   </item>
   <item>
     <title>Animalica - Small &amp; Odd</title>
@@ -39,13 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9886#9886</guid>
     <pubDate>Wed, 15 Jul 2026 04:22:53 -0000</pubDate>
     <description>Adds randomized affixes to found equipment, introducing mundane, corrupted, and temporally enhanced </description>
-  </item>
-  <item>
-    <title>The Gravestones Mod - 1.22.3</title>
-    <link>https://mods.vintagestory.at/show/mod/gravestones</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gravestones#10300</guid>
-    <pubDate>Wed, 15 Jul 2026 04:07:28 -0000</pubDate>
-    <description>Adds a gravestone which stores the players inventory upon death and can be retrieved by them later.</description>
   </item>
   <item>
     <title>Animalica - Bears</title>
@@ -132,13 +181,6 @@
     <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
   </item>
   <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Wed, 15 Jul 2026 00:17:40 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
     <title>Bixo</title>
     <link>https://mods.vintagestory.at/show/mod/bixo</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bixo#8058</guid>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10292#10292</guid>
     <pubDate>Tue, 14 Jul 2026 22:43:14 -0000</pubDate>
     <description>Adds a Teleport button to the Edit Waypoint dialog.</description>
-  </item>
-  <item>
-    <title>Eternal Seraph Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
-    <pubDate>Tue, 14 Jul 2026 22:35:46 -0000</pubDate>
-    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Chisel32</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalschisel32</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalschisel32#8883</guid>
-    <pubDate>Tue, 14 Jul 2026 22:05:16 -0000</pubDate>
-    <description>Chisel32 adds high-detail 32x32x32 chiseling with a dedicated Fine Chisel tool</description>
-  </item>
-  <item>
-    <title>Milkable Players!</title>
-    <link>https://mods.vintagestory.at/show/mod/godisdead</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/godisdead#10260</guid>
-    <pubDate>Tue, 14 Jul 2026 21:48:04 -0000</pubDate>
-    <description>Makes players... 𝒎𝒊𝒍𝒌𝒂𝒃𝒍𝒆</description>
-  </item>
-  <item>
-    <title>VSReborn Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10289</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10289#10289</guid>
-    <pubDate>Tue, 14 Jul 2026 21:46:16 -0000</pubDate>
-    <description>mega patch</description>
-  </item>
-  <item>
-    <title>Salty´s Immersive: Light</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivelight</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivelight#10075</guid>
-    <pubDate>Tue, 14 Jul 2026 21:40:38 -0000</pubDate>
-    <description>Makes block light respect walls and closed barriers.</description>
-  </item>
-  <item>
-    <title>Salty´s Movement: Slow Walk</title>
-    <link>https://mods.vintagestory.at/show/mod/slowwalk</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slowwalk#2497</guid>
-    <pubDate>Tue, 14 Jul 2026 21:26:26 -0000</pubDate>
-    <description>Immersive walking speed in cycles.</description>
   </item>
 </channel>
 </rss>
