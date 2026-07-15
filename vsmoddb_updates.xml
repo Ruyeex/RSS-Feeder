@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 14 Jul 2026 23:54:47 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 02:40:54 +0000</lastBuildDate>
+  <item>
+    <title>Bricked Up + Expanded Matter Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/bricksupcompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricksupcompat#10295</guid>
+    <pubDate>Wed, 15 Jul 2026 02:13:35 -0000</pubDate>
+    <description>Adds a recipe to convert Bricked Up powderized stones into Expanded Matter crushed stones</description>
+  </item>
+  <item>
+    <title> TLNetworks</title>
+    <link>https://mods.vintagestory.at/show/mod/tlnetworks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tlnetworks#9858</guid>
+    <pubDate>Wed, 15 Jul 2026 02:02:30 -0000</pubDate>
+    <description>Automatically records translocator connections and draws lines on the world map.</description>
+  </item>
+  <item>
+    <title>Renderer Mangler</title>
+    <link>https://mods.vintagestory.at/show/mod/renderermangler</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/renderermangler#10114</guid>
+    <pubDate>Wed, 15 Jul 2026 01:43:10 -0000</pubDate>
+    <description>Custom cubemap renderer with different projections that allows up to 360 FOV</description>
+  </item>
+  <item>
+    <title>Advanced Geology</title>
+    <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedgeology#7167</guid>
+    <pubDate>Wed, 15 Jul 2026 01:42:39 -0000</pubDate>
+    <description>Adds new, realistic ores and stones with heavy IOG compatibility</description>
+  </item>
+  <item>
+    <title>Aethernis Towns</title>
+    <link>https://mods.vintagestory.at/show/mod/aethernistowns</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aethernistowns#10290</guid>
+    <pubDate>Wed, 15 Jul 2026 01:23:12 -0000</pubDate>
+    <description>Automatic towns from nearby claims with seasons, territory, and Discord governance.</description>
+  </item>
+  <item>
+    <title>Optimum</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Wed, 15 Jul 2026 00:59:44 -0000</pubDate>
+    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
+  </item>
+  <item>
+    <title>Block Overlay</title>
+    <link>https://mods.vintagestory.at/show/mod/xray</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xray#1186</guid>
+    <pubDate>Wed, 15 Jul 2026 00:54:46 -0000</pubDate>
+    <description>The best x-ray mod so far 🎉</description>
+  </item>
+  <item>
+    <title>Deciduous Trees</title>
+    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
+    <pubDate>Wed, 15 Jul 2026 00:46:53 -0000</pubDate>
+    <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Wed, 15 Jul 2026 00:17:40 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Bixo</title>
+    <link>https://mods.vintagestory.at/show/mod/bixo</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bixo#8058</guid>
+    <pubDate>Wed, 15 Jul 2026 00:02:54 -0000</pubDate>
+    <description>Creatures for Maltiez's Player Model Lib!</description>
+  </item>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Wed, 15 Jul 2026 00:02:31 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
   <item>
     <title>Water Wheel works with The Rivers Mod Mod Fix</title>
     <link>https://mods.vintagestory.at/show/mod/10293</link>
@@ -20,13 +97,6 @@
     <description>Place down more items per block and on chiseled blocks</description>
   </item>
   <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Tue, 14 Jul 2026 23:05:50 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
     <title>Waypoint Teleport Button</title>
     <link>https://mods.vintagestory.at/show/mod/10292</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10292#10292</guid>
@@ -39,13 +109,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
     <pubDate>Tue, 14 Jul 2026 22:35:46 -0000</pubDate>
     <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
-  </item>
-  <item>
-    <title>Aethernis Towns</title>
-    <link>https://mods.vintagestory.at/show/mod/aethernistowns</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aethernistowns#10290</guid>
-    <pubDate>Tue, 14 Jul 2026 22:18:49 -0000</pubDate>
-    <description>Automatic towns from nearby claims with seasons, territory, and Discord governance.</description>
   </item>
   <item>
     <title>Eternal Seraph: Chisel32</title>
@@ -81,13 +144,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slowwalk#2497</guid>
     <pubDate>Tue, 14 Jul 2026 21:26:26 -0000</pubDate>
     <description>Immersive walking speed in cycles.</description>
-  </item>
-  <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Tue, 14 Jul 2026 21:23:54 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
   </item>
   <item>
     <title>VS Director</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10284#10284</guid>
     <pubDate>Tue, 14 Jul 2026 18:16:59 -0000</pubDate>
     <description>A mod that allows creating galcier ice using rustbound magic frost crystals</description>
-  </item>
-  <item>
-    <title>Razor's smooth falx (textures from game folder)</title>
-    <link>https://mods.vintagestory.at/show/mod/10282</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10282#10282</guid>
-    <pubDate>Tue, 14 Jul 2026 18:06:40 -0000</pubDate>
-    <description>Custom models for the falx, without the jagged blade and wooden spine.</description>
-  </item>
-  <item>
-    <title>Compost-this</title>
-    <link>https://mods.vintagestory.at/show/mod/compostthis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/compostthis#10244</guid>
-    <pubDate>Tue, 14 Jul 2026 17:32:26 -0000</pubDate>
-    <description>Compost This to accelerate your rot production</description>
-  </item>
-  <item>
-    <title>Ancestral Bliss Shaders</title>
-    <link>https://mods.vintagestory.at/show/mod/ancestralblissshaders</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancestralblissshaders#6110</guid>
-    <pubDate>Tue, 14 Jul 2026 17:31:06 -0000</pubDate>
-    <description>Shaders compatible with most GPUs</description>
-  </item>
-  <item>
-    <title>SoldierSpy - Boneworks</title>
-    <link>https://mods.vintagestory.at/show/mod/8962</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8962#8962</guid>
-    <pubDate>Tue, 14 Jul 2026 17:27:31 -0000</pubDate>
-    <description>Something to do with all those bones, made with love &amp; pain, no AI</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/10162</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10162#10162</guid>
-    <pubDate>Tue, 14 Jul 2026 17:27:26 -0000</pubDate>
-    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
-  </item>
-  <item>
-    <title>Murlok Vintage Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/murlokvspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/murlokvspatch#5307</guid>
-    <pubDate>Tue, 14 Jul 2026 17:23:03 -0000</pubDate>
-    <description>Collection of tweaks for the Murlok server and playthrough.</description>
-  </item>
-  <item>
-    <title>Immersive Inventory Slots </title>
-    <link>https://mods.vintagestory.at/show/mod/10199</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10199#10199</guid>
-    <pubDate>Tue, 14 Jul 2026 17:08:38 -0000</pubDate>
-    <description>Removes inventory slots, leaving only the crafting grid</description>
-  </item>
-  <item>
-    <title>Death Exile</title>
-    <link>https://mods.vintagestory.at/show/mod/10274</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10274#10274</guid>
-    <pubDate>Tue, 14 Jul 2026 16:52:50 -0000</pubDate>
-    <description>Value your life - death has consequences. Die and face a ban, ghost mode, or 24h exile.</description>
   </item>
 </channel>
 </rss>
