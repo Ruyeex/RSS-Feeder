@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 15 Jul 2026 08:17:51 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 10:53:06 +0000</lastBuildDate>
+  <item>
+    <title>Billposting</title>
+    <link>https://mods.vintagestory.at/show/mod/billposting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/billposting#4217</guid>
+    <pubDate>Wed, 15 Jul 2026 10:32:52 -0000</pubDate>
+    <description>Makes it possible to pin parchments to wall and display their contents in-world. Now with formatting</description>
+  </item>
+  <item>
+    <title>More animations</title>
+    <link>https://mods.vintagestory.at/show/mod/mefimations</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mefimations#9963</guid>
+    <pubDate>Wed, 15 Jul 2026 10:05:54 -0000</pubDate>
+    <description>Better body and face animations</description>
+  </item>
+  <item>
+    <title>Equus: Medieval Horses</title>
+    <link>https://mods.vintagestory.at/show/mod/equusdestrier</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusdestrier#9959</guid>
+    <pubDate>Wed, 15 Jul 2026 09:06:46 -0000</pubDate>
+    <description>Adds a medieval warhorse to the game that can be purchased from a new horse trader</description>
+  </item>
+  <item>
+    <title>Jaunt: Entity Movement System</title>
+    <link>https://mods.vintagestory.at/show/mod/jaunt</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jaunt#4254</guid>
+    <pubDate>Wed, 15 Jul 2026 09:05:53 -0000</pubDate>
+    <description>Library providing an extended entity riding system with additional control patterns and stamina</description>
+  </item>
+  <item>
+    <title>Extreme Weathers [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/10098</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
+    <pubDate>Wed, 15 Jul 2026 08:30:00 -0000</pubDate>
+    <description>Introduces new weather mechanics using the vanilla weather system.</description>
+  </item>
   <item>
     <title>The Gravestones Mod - 1.22.3</title>
     <link>https://mods.vintagestory.at/show/mod/gravestones</link>
@@ -39,13 +74,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
     <pubDate>Wed, 15 Jul 2026 06:53:25 -0000</pubDate>
     <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
-  </item>
-  <item>
-    <title>More animations</title>
-    <link>https://mods.vintagestory.at/show/mod/mefimations</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mefimations#9963</guid>
-    <pubDate>Wed, 15 Jul 2026 06:52:32 -0000</pubDate>
-    <description>Better body and face animations</description>
   </item>
   <item>
     <title>Animalica - Hooved Animals</title>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bixo#8058</guid>
     <pubDate>Wed, 15 Jul 2026 00:02:54 -0000</pubDate>
     <description>Creatures for Maltiez's Player Model Lib!</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Wed, 15 Jul 2026 00:02:31 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
-    <title>Water Wheel works with The Rivers Mod Mod Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/10293</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10293#10293</guid>
-    <pubDate>Tue, 14 Jul 2026 23:34:07 -0000</pubDate>
-    <description>Fixes the 'Water Wheel works with The Rivers Mod' mod by tweaking the way it calculates torque.</description>
-  </item>
-  <item>
-    <title>Dense Ground Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
-    <pubDate>Tue, 14 Jul 2026 23:11:43 -0000</pubDate>
-    <description>Place down more items per block and on chiseled blocks</description>
-  </item>
-  <item>
-    <title>Waypoint Teleport Button</title>
-    <link>https://mods.vintagestory.at/show/mod/10292</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10292#10292</guid>
-    <pubDate>Tue, 14 Jul 2026 22:43:14 -0000</pubDate>
-    <description>Adds a Teleport button to the Edit Waypoint dialog.</description>
   </item>
 </channel>
 </rss>
