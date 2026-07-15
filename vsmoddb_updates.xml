@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 15 Jul 2026 10:53:06 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 12:17:34 +0000</lastBuildDate>
+  <item>
+    <title>Immersive Woodworking</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivewoodworking</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivewoodworking#9606</guid>
+    <pubDate>Wed, 15 Jul 2026 11:57:10 -0000</pubDate>
+    <description>Focused immersion mod that makes processing timber feel like work, not paperwork. </description>
+  </item>
+  <item>
+    <title>Optimum</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Wed, 15 Jul 2026 11:48:16 -0000</pubDate>
+    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
+  </item>
+  <item>
+    <title>Wurm Online Soundtrack</title>
+    <link>https://mods.vintagestory.at/show/mod/10301</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10301#10301</guid>
+    <pubDate>Wed, 15 Jul 2026 11:31:09 -0000</pubDate>
+    <description>Adds the Wurm Online soundtrack to the game.</description>
+  </item>
   <item>
     <title>Billposting</title>
     <link>https://mods.vintagestory.at/show/mod/billposting</link>
@@ -188,32 +209,11 @@
     <description>Automatic towns from nearby claims with seasons, territory, and Discord governance.</description>
   </item>
   <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Wed, 15 Jul 2026 00:59:44 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
     <title>Block Overlay</title>
     <link>https://mods.vintagestory.at/show/mod/xray</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xray#1186</guid>
     <pubDate>Wed, 15 Jul 2026 00:54:46 -0000</pubDate>
     <description>The best x-ray mod so far 🎉</description>
-  </item>
-  <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Wed, 15 Jul 2026 00:46:53 -0000</pubDate>
-    <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
-  </item>
-  <item>
-    <title>Bixo</title>
-    <link>https://mods.vintagestory.at/show/mod/bixo</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bixo#8058</guid>
-    <pubDate>Wed, 15 Jul 2026 00:02:54 -0000</pubDate>
-    <description>Creatures for Maltiez's Player Model Lib!</description>
   </item>
 </channel>
 </rss>
