@@ -4,20 +4,90 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 15 Jul 2026 16:24:55 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 18:10:08 +0000</lastBuildDate>
+  <item>
+    <title>Infantry Dolabra</title>
+    <link>https://mods.vintagestory.at/show/mod/6739</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6739#6739</guid>
+    <pubDate>Wed, 15 Jul 2026 18:09:28 -0000</pubDate>
+    <description>Adds a versatile multitool with switchable tool modes for mining, digging, and woodcutting</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Wed, 15 Jul 2026 18:00:51 -0000</pubDate>
+    <description>A director camera mod for video production workflows.（导演模式模组）</description>
+  </item>
+  <item>
+    <title>Auto Walk Extended</title>
+    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
+    <pubDate>Wed, 15 Jul 2026 17:52:48 -0000</pubDate>
+    <description>Toggle automatic walking, sprinting and sneaking. Supports also automatic climbing.</description>
+  </item>
+  <item>
+    <title>Ghaelen's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9740</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
+    <pubDate>Wed, 15 Jul 2026 17:38:03 -0000</pubDate>
+    <description>My personal tweaks I like to play with.</description>
+  </item>
+  <item>
+    <title>Meliora Meadows Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
+    <pubDate>Wed, 15 Jul 2026 17:32:46 -0000</pubDate>
+    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
+  </item>
+  <item>
+    <title>Player Model lib</title>
+    <link>https://mods.vintagestory.at/show/mod/playermodellib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
+    <pubDate>Wed, 15 Jul 2026 17:13:17 -0000</pubDate>
+    <description>Library for adding new player races</description>
+  </item>
+  <item>
+    <title>Salty´s Movement: Slow Walk</title>
+    <link>https://mods.vintagestory.at/show/mod/slowwalk</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slowwalk#2497</guid>
+    <pubDate>Wed, 15 Jul 2026 16:57:50 -0000</pubDate>
+    <description>Immersive walking speed in cycles.</description>
+  </item>
+  <item>
+    <title>fish(wastaken) Classes Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10213</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10213#10213</guid>
+    <pubDate>Wed, 15 Jul 2026 16:54:37 -0000</pubDate>
+    <description>small personal patch for GlooMeClasses.</description>
+  </item>
+  <item>
+    <title>Extra Shelves</title>
+    <link>https://mods.vintagestory.at/show/mod/7546</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7546#7546</guid>
+    <pubDate>Wed, 15 Jul 2026 16:39:07 -0000</pubDate>
+    <description>Adds a few variant of shelves like the game's shelves.</description>
+  </item>
+  <item>
+    <title>Optimum</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Wed, 15 Jul 2026 16:38:48 -0000</pubDate>
+    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
+  </item>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Wed, 15 Jul 2026 16:33:00 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
   <item>
     <title>Exotic Milk</title>
     <link>https://mods.vintagestory.at/show/mod/9541</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9541#9541</guid>
     <pubDate>Wed, 15 Jul 2026 16:22:12 -0000</pubDate>
     <description>Have you ever wanted milk from an entity that doesnt normally produce milk? Now's your chance!</description>
-  </item>
-  <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Wed, 15 Jul 2026 16:15:36 -0000</pubDate>
-    <description>A director camera mod for video production workflows.（导演模式模组）</description>
   </item>
   <item>
     <title>octatonic</title>
@@ -97,13 +167,6 @@
     <description>Focused immersion mod that makes processing timber feel like work, not paperwork. </description>
   </item>
   <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Wed, 15 Jul 2026 11:48:16 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
     <title>Wurm Online Soundtrack</title>
     <link>https://mods.vintagestory.at/show/mod/10301</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10301#10301</guid>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gravestones#10300</guid>
     <pubDate>Wed, 15 Jul 2026 07:58:38 -0000</pubDate>
     <description>Adds a gravestone which stores the players inventory upon death and can be retrieved by them later.</description>
-  </item>
-  <item>
-    <title>Woodsman</title>
-    <link>https://mods.vintagestory.at/show/mod/10273</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10273#10273</guid>
-    <pubDate>Wed, 15 Jul 2026 07:11:19 -0000</pubDate>
-    <description>Realistic tree felling — whole trees topple over, then the stumps grow back.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Wed, 15 Jul 2026 07:02:29 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Vintage Story Chinese Language Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
-    <pubDate>Wed, 15 Jul 2026 06:53:25 -0000</pubDate>
-    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
-  </item>
-  <item>
-    <title>Animalica - Hooved Animals</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicah</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicah#9797</guid>
-    <pubDate>Wed, 15 Jul 2026 05:56:55 -0000</pubDate>
-    <description>Adds all the hooved animals as playable models!</description>
-  </item>
-  <item>
-    <title>IndustrialStory</title>
-    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
-    <pubDate>Wed, 15 Jul 2026 05:42:13 -0000</pubDate>
-    <description>Overhauls metalworking, chemistry, and glassworking. </description>
-  </item>
-  <item>
-    <title>Anthro Players</title>
-    <link>https://mods.vintagestory.at/show/mod/anthroplayers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/anthroplayers#7627</guid>
-    <pubDate>Wed, 15 Jul 2026 05:40:33 -0000</pubDate>
-    <description>Anthro animal models for the player</description>
-  </item>
-  <item>
-    <title>Animalica - Small &amp; Odd</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicaso</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaso#9796</guid>
-    <pubDate>Wed, 15 Jul 2026 04:44:18 -0000</pubDate>
-    <description>Adds the small goober animals like raccoons, chickens, and rabbits as players</description>
-  </item>
-  <item>
-    <title>Desert Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9931</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9931#9931</guid>
-    <pubDate>Wed, 15 Jul 2026 04:29:53 -0000</pubDate>
-    <description>small set of tweaks for a desert survival server</description>
-  </item>
-  <item>
-    <title>NDL ExpandedGrowth (Flower Growth Module)</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthflowers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthflowers#5701</guid>
-    <pubDate>Wed, 15 Jul 2026 04:23:34 -0000</pubDate>
-    <description>Adds a method for growing/farming flowers!</description>
   </item>
 </channel>
 </rss>
