@@ -4,7 +4,98 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 15 Jul 2026 22:03:47 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Jul 2026 00:00:49 +0000</lastBuildDate>
+  <item>
+    <title>Force Character Class Change</title>
+    <link>https://mods.vintagestory.at/show/mod/fccc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fccc#6356</guid>
+    <pubDate>Wed, 15 Jul 2026 23:35:57 -0000</pubDate>
+    <description>Forces all players to reselect their class.</description>
+  </item>
+  <item>
+    <title>Bayou Basics Roleplay</title>
+    <link>https://mods.vintagestory.at/show/mod/bbbasics</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bbbasics#8342</guid>
+    <pubDate>Wed, 15 Jul 2026 23:08:54 -0000</pubDate>
+    <description>Fork of "The Basics" with SS14 inspired RP changes</description>
+  </item>
+  <item>
+    <title>Seraph Girls</title>
+    <link>https://mods.vintagestory.at/show/mod/seraphgirls</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphgirls#10276</guid>
+    <pubDate>Wed, 15 Jul 2026 22:39:40 -0000</pubDate>
+    <description>Look cute while you do pottery, starve, and get hunted by horrors beyond comprehension!</description>
+  </item>
+  <item>
+    <title>lhgui</title>
+    <link>https://mods.vintagestory.at/show/mod/lhgui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lhgui#4960</guid>
+    <pubDate>Wed, 15 Jul 2026 22:35:55 -0000</pubDate>
+    <description>GUI mod for lasthearth server</description>
+  </item>
+  <item>
+    <title>More Creative Block Colors</title>
+    <link>https://mods.vintagestory.at/show/mod/6157</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6157#6157</guid>
+    <pubDate>Wed, 15 Jul 2026 22:30:52 -0000</pubDate>
+    <description>Adds more creative block colors</description>
+  </item>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Wed, 15 Jul 2026 22:29:55 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Wed, 15 Jul 2026 22:19:47 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>SheyderMod</title>
+    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
+    <pubDate>Wed, 15 Jul 2026 22:16:33 -0000</pubDate>
+    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
+  </item>
+  <item>
+    <title>Dense Ground Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
+    <pubDate>Wed, 15 Jul 2026 22:14:59 -0000</pubDate>
+    <description>Place down more items per block and on chiseled blocks</description>
+  </item>
+  <item>
+    <title>fish(wastaken) Classes Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10213</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10213#10213</guid>
+    <pubDate>Wed, 15 Jul 2026 22:10:54 -0000</pubDate>
+    <description>small personal patch for GlooMeClasses.</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Wed, 15 Jul 2026 22:10:49 -0000</pubDate>
+    <description>A director camera mod for video production workflows.（导演模式模组）</description>
+  </item>
+  <item>
+    <title>JSON Patches lib</title>
+    <link>https://mods.vintagestory.at/show/mod/jsonpatcheslib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jsonpatcheslib#7185</guid>
+    <pubDate>Wed, 15 Jul 2026 22:05:59 -0000</pubDate>
+    <description>Implements more convinient syntax and more functionality for patching JSON assets.</description>
+  </item>
+  <item>
+    <title>Wildcraft Fruits and Nuts compatibility patch</title>
+    <link>https://mods.vintagestory.at/show/mod/wildpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wildpatch#9602</guid>
+    <pubDate>Wed, 15 Jul 2026 22:04:06 -0000</pubDate>
+    <description>Adds conservative remaps for migrating vanilla 1.21 berry bush and saguaro</description>
+  </item>
   <item>
     <title>Meliora Meadows Adjustments</title>
     <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
@@ -20,32 +111,11 @@
     <description>Hover over an item of clothing and press a key to preview your character wearing it.</description>
   </item>
   <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Wed, 15 Jul 2026 21:53:04 -0000</pubDate>
-    <description>A director camera mod for video production workflows.（导演模式模组）</description>
-  </item>
-  <item>
     <title>Timber!</title>
     <link>https://mods.vintagestory.at/show/mod/10303</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10303#10303</guid>
     <pubDate>Wed, 15 Jul 2026 21:44:08 -0000</pubDate>
     <description>A mostly visual mod where trees fall over then drop their items.</description>
-  </item>
-  <item>
-    <title>SheyderMod</title>
-    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
-    <pubDate>Wed, 15 Jul 2026 21:02:38 -0000</pubDate>
-    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
-  </item>
-  <item>
-    <title>fish(wastaken) Classes Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10213</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10213#10213</guid>
-    <pubDate>Wed, 15 Jul 2026 20:40:20 -0000</pubDate>
-    <description>small personal patch for GlooMeClasses.</description>
   </item>
   <item>
     <title>Signals</title>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
     <pubDate>Wed, 15 Jul 2026 18:38:53 -0000</pubDate>
     <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
-    <title>Boat Autopilot</title>
-    <link>https://mods.vintagestory.at/show/mod/10304</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10304#10304</guid>
-    <pubDate>Wed, 15 Jul 2026 18:23:31 -0000</pubDate>
-    <description>Long boat trips in Vintage Story are beautiful… the first three times.</description>
-  </item>
-  <item>
-    <title>Infantry Dolabra</title>
-    <link>https://mods.vintagestory.at/show/mod/6739</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6739#6739</guid>
-    <pubDate>Wed, 15 Jul 2026 18:09:28 -0000</pubDate>
-    <description>Adds a versatile multitool with switchable tool modes for mining, digging, and woodcutting</description>
-  </item>
-  <item>
-    <title>Auto Walk Extended</title>
-    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
-    <pubDate>Wed, 15 Jul 2026 17:52:48 -0000</pubDate>
-    <description>Toggle automatic walking, sprinting and sneaking. Supports also automatic climbing.</description>
-  </item>
-  <item>
-    <title>Ghaelen's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9740</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
-    <pubDate>Wed, 15 Jul 2026 17:38:03 -0000</pubDate>
-    <description>My personal tweaks I like to play with.</description>
-  </item>
-  <item>
-    <title>Player Model lib</title>
-    <link>https://mods.vintagestory.at/show/mod/playermodellib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
-    <pubDate>Wed, 15 Jul 2026 17:13:17 -0000</pubDate>
-    <description>Library for adding new player races</description>
-  </item>
-  <item>
-    <title>Salty´s Movement: Slow Walk</title>
-    <link>https://mods.vintagestory.at/show/mod/slowwalk</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slowwalk#2497</guid>
-    <pubDate>Wed, 15 Jul 2026 16:57:50 -0000</pubDate>
-    <description>Immersive walking speed in cycles.</description>
-  </item>
-  <item>
-    <title>Extra Shelves</title>
-    <link>https://mods.vintagestory.at/show/mod/7546</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7546#7546</guid>
-    <pubDate>Wed, 15 Jul 2026 16:39:07 -0000</pubDate>
-    <description>Adds a few variant of shelves like the game's shelves.</description>
-  </item>
-  <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Wed, 15 Jul 2026 16:38:48 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
-    <title>xSkills Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7605</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
-    <pubDate>Wed, 15 Jul 2026 16:33:00 -0000</pubDate>
-    <description>RPG-style skill system with abilities, perks, and progression.</description>
-  </item>
-  <item>
-    <title>Exotic Milk</title>
-    <link>https://mods.vintagestory.at/show/mod/9541</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9541#9541</guid>
-    <pubDate>Wed, 15 Jul 2026 16:22:12 -0000</pubDate>
-    <description>Have you ever wanted milk from an entity that doesnt normally produce milk? Now's your chance!</description>
   </item>
 </channel>
 </rss>
