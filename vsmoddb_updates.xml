@@ -4,12 +4,26 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 16 Jul 2026 12:21:30 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Jul 2026 15:04:19 +0000</lastBuildDate>
+  <item>
+    <title>Seraph Atelier</title>
+    <link>https://mods.vintagestory.at/show/mod/seraphatelier</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphatelier#10276</guid>
+    <pubDate>Thu, 16 Jul 2026 14:09:25 -0000</pubDate>
+    <description>Look cute while you do pottery, starve, and get hunted by horrors beyond comprehension!</description>
+  </item>
+  <item>
+    <title>Holdfast</title>
+    <link>https://mods.vintagestory.at/show/mod/holdfast</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/holdfast#10247</guid>
+    <pubDate>Thu, 16 Jul 2026 13:39:28 -0000</pubDate>
+    <description>Found a town. Hire workers. Watch it grow one building at a time.</description>
+  </item>
   <item>
     <title>VS Director</title>
     <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Thu, 16 Jul 2026 11:39:58 -0000</pubDate>
+    <pubDate>Thu, 16 Jul 2026 13:37:07 -0000</pubDate>
     <description>A director camera mod for video production workflows.（导演模式模组）</description>
   </item>
   <item>
@@ -18,13 +32,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreinventorys#10306</guid>
     <pubDate>Thu, 16 Jul 2026 11:39:57 -0000</pubDate>
     <description>The mod adds new inventories for convenient and immersive storage: Shelves, crates, racks for weapon</description>
-  </item>
-  <item>
-    <title>Seraph Atelier</title>
-    <link>https://mods.vintagestory.at/show/mod/seraphatelier</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphatelier#10276</guid>
-    <pubDate>Thu, 16 Jul 2026 11:16:32 -0000</pubDate>
-    <description>Look cute while you do pottery, starve, and get hunted by horrors beyond comprehension!</description>
   </item>
   <item>
     <title>Catch and Release: Fish</title>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7123#7123</guid>
     <pubDate>Thu, 16 Jul 2026 01:13:50 -0000</pubDate>
     <description>In the deep caves of the Misty Mountains, cruelty is law.</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Mordor</title>
-    <link>https://mods.vintagestory.at/show/mod/6729</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6729#6729</guid>
-    <pubDate>Thu, 16 Jul 2026 01:13:24 -0000</pubDate>
-    <description>The legions of the Black Land are marching out once more.</description>
   </item>
 </channel>
 </rss>
