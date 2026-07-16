@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 16 Jul 2026 15:04:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Jul 2026 17:20:33 +0000</lastBuildDate>
+  <item>
+    <title>Ice Cold Vessel</title>
+    <link>https://mods.vintagestory.at/show/mod/coldvessel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/coldvessel#9905</guid>
+    <pubDate>Thu, 16 Jul 2026 17:20:03 -0000</pubDate>
+    <description>Adds ice-powered cooling to storage vessels for food preservation.</description>
+  </item>
+  <item>
+    <title>xLib Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7618</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7618#7618</guid>
+    <pubDate>Thu, 16 Jul 2026 17:12:45 -0000</pubDate>
+    <description>XLib provides an interface to add skills, abilities and effects to the game.</description>
+  </item>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Thu, 16 Jul 2026 17:12:13 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
+  <item>
+    <title>QP's Chisel Tools</title>
+    <link>https://mods.vintagestory.at/show/mod/chiseltools</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseltools#604</guid>
+    <pubDate>Thu, 16 Jul 2026 17:04:45 -0000</pubDate>
+    <description>Unleash your creativity while chiseling! Invaluable, survival friendly tool set for chiselers!</description>
+  </item>
+  <item>
+    <title>AoS | Armor Female Seraphs Compatability</title>
+    <link>https://mods.vintagestory.at/show/mod/8914</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8914#8914</guid>
+    <pubDate>Thu, 16 Jul 2026 16:57:51 -0000</pubDate>
+    <description>Provides armor compatibility between female seraphs and various armor mods.</description>
+  </item>
+  <item>
+    <title>Equus: Tack and Equipment</title>
+    <link>https://mods.vintagestory.at/show/mod/tackandequipment</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tackandequipment#5277</guid>
+    <pubDate>Thu, 16 Jul 2026 16:56:50 -0000</pubDate>
+    <description>Adds various saddles, bridles, and saddleblankets for Equus and Monoceros</description>
+  </item>
+  <item>
+    <title>Wildcraft Fruits and Nuts compatibility patch</title>
+    <link>https://mods.vintagestory.at/show/mod/wildpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wildpatch#9602</guid>
+    <pubDate>Thu, 16 Jul 2026 16:29:08 -0000</pubDate>
+    <description>Adds conservative remaps for migrating vanilla 1.21 berry bush and saguaro</description>
+  </item>
+  <item>
+    <title>The Gravestones Mod - 1.22.3</title>
+    <link>https://mods.vintagestory.at/show/mod/gravestones</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gravestones#10300</guid>
+    <pubDate>Thu, 16 Jul 2026 16:17:44 -0000</pubDate>
+    <description>Adds a gravestone which stores the players inventory upon death and can be retrieved by them later.</description>
+  </item>
+  <item>
+    <title>Boat Autopilot</title>
+    <link>https://mods.vintagestory.at/show/mod/10304</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10304#10304</guid>
+    <pubDate>Thu, 16 Jul 2026 15:21:24 -0000</pubDate>
+    <description>Long boat trips in Vintage Story are beautiful… the first three times.</description>
+  </item>
   <item>
     <title>Seraph Atelier</title>
     <link>https://mods.vintagestory.at/show/mod/seraphatelier</link>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10009#10009</guid>
     <pubDate>Thu, 16 Jul 2026 03:26:21 -0000</pubDate>
     <description>Per-resonator volume, falloff and looping — saved to the world and audible with Music off.</description>
-  </item>
-  <item>
-    <title>Tuning Cylinder Color Top &amp; Bottom</title>
-    <link>https://mods.vintagestory.at/show/mod/10307</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10307#10307</guid>
-    <pubDate>Thu, 16 Jul 2026 03:14:19 -0000</pubDate>
-    <description>Makes tuning cyliders show their color on the bottom as well as the top.</description>
-  </item>
-  <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Thu, 16 Jul 2026 01:30:52 -0000</pubDate>
-    <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Thu, 16 Jul 2026 01:19:50 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Dale and Dorwinion</title>
-    <link>https://mods.vintagestory.at/show/mod/8865</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8865#8865</guid>
-    <pubDate>Thu, 16 Jul 2026 01:15:22 -0000</pubDate>
-    <description>Defend the vast trade networks of the North</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Middle-Earth Characters</title>
-    <link>https://mods.vintagestory.at/show/mod/7492</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7492#7492</guid>
-    <pubDate>Thu, 16 Jul 2026 01:15:06 -0000</pubDate>
-    <description>Don armor by the warriors, kings, and dark lords whose deeds shaped the fate of Middle-earth.</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Dwarves</title>
-    <link>https://mods.vintagestory.at/show/mod/7283</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7283#7283</guid>
-    <pubDate>Thu, 16 Jul 2026 01:14:42 -0000</pubDate>
-    <description>By hammer and anvil, we shape the world.</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Woodland Realm</title>
-    <link>https://mods.vintagestory.at/show/mod/7125</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7125#7125</guid>
-    <pubDate>Thu, 16 Jul 2026 01:14:28 -0000</pubDate>
-    <description>Hidden in the Greenwood of Old, a kingdom still thrives.</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Rohan</title>
-    <link>https://mods.vintagestory.at/show/mod/7124</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7124#7124</guid>
-    <pubDate>Thu, 16 Jul 2026 01:14:09 -0000</pubDate>
-    <description>Ride for wrath! Ride for ruin!</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Misty Mountain Orcs</title>
-    <link>https://mods.vintagestory.at/show/mod/7123</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7123#7123</guid>
-    <pubDate>Thu, 16 Jul 2026 01:13:50 -0000</pubDate>
-    <description>In the deep caves of the Misty Mountains, cruelty is law.</description>
   </item>
 </channel>
 </rss>
