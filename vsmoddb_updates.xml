@@ -4,13 +4,27 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 16 Jul 2026 22:59:12 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 00:07:31 +0000</lastBuildDate>
   <item>
-    <title>gorniczadolina</title>
-    <link>https://mods.vintagestory.at/show/mod/gorniczadolina</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gorniczadolina#10311</guid>
-    <pubDate>Thu, 16 Jul 2026 22:51:54 -0000</pubDate>
-    <description>Gornicza dolina - questy</description>
+    <title>Dense Ground Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
+    <pubDate>Thu, 16 Jul 2026 23:55:42 -0000</pubDate>
+    <description>Place down more items per block and on chiseled blocks</description>
+  </item>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Thu, 16 Jul 2026 23:38:08 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
+  <item>
+    <title>Living Armor - Player Model Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/livingarmors</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/livingarmors#10014</guid>
+    <pubDate>Thu, 16 Jul 2026 23:02:20 -0000</pubDate>
+    <description>Combat oriented race for PlayerModelLib</description>
   </item>
   <item>
     <title>VS Roofing Mod</title>
@@ -81,13 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
     <pubDate>Thu, 16 Jul 2026 21:47:23 -0000</pubDate>
     <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
-  </item>
-  <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Thu, 16 Jul 2026 21:27:36 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
   </item>
   <item>
     <title> Still Useful Stuff (1.22 Fork)</title>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
     <pubDate>Thu, 16 Jul 2026 19:19:05 -0000</pubDate>
     <description>Adds animal tracking clues, bleeding, droppings, wounded movement, and carcass carrying.</description>
-  </item>
-  <item>
-    <title>Fishy Bucket</title>
-    <link>https://mods.vintagestory.at/show/mod/fishybucket</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fishybucket#9877</guid>
-    <pubDate>Thu, 16 Jul 2026 19:09:46 -0000</pubDate>
-    <description>Catch a fish with an empty wooden bucket, then release it alive at a different location.</description>
   </item>
 </channel>
 </rss>
