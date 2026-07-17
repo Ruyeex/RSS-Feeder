@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 17 Jul 2026 12:11:23 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 14:44:59 +0000</lastBuildDate>
+  <item>
+    <title>Spaturno and Trini's Secure Shelter</title>
+    <link>https://mods.vintagestory.at/show/mod/9692</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9692#9692</guid>
+    <pubDate>Fri, 17 Jul 2026 14:06:21 -0000</pubDate>
+    <description>Shared extradimensional cottage inspired from D&amp;D spell Leomund's Secure Shelter.</description>
+  </item>
+  <item>
+    <title>Better Hoe</title>
+    <link>https://mods.vintagestory.at/show/mod/betterhoe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhoe#1594</guid>
+    <pubDate>Fri, 17 Jul 2026 14:05:59 -0000</pubDate>
+    <description>Adds function to create paths with the hoe.</description>
+  </item>
+  <item>
+    <title>Astria Porta Sounds</title>
+    <link>https://mods.vintagestory.at/show/mod/10309</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10309#10309</guid>
+    <pubDate>Fri, 17 Jul 2026 12:26:55 -0000</pubDate>
+    <description>Adds Stargate sounds to Astria Porta's Stargates</description>
+  </item>
   <item>
     <title>TinkerTailor - Backpacks</title>
     <link>https://mods.vintagestory.at/show/mod/9773</link>
@@ -41,7 +62,7 @@
     <description>Fixes the 'Water Wheel works with The Rivers Mod' mod by tweaking the way it calculates torque.</description>
   </item>
   <item>
-    <title>Seraph Atelier</title>
+    <title>Seraph Atelier - Player Model Lib</title>
     <link>https://mods.vintagestory.at/show/mod/seraphatelier</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphatelier#10276</guid>
     <pubDate>Fri, 17 Jul 2026 10:37:45 -0000</pubDate>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tlnetworks#9858</guid>
     <pubDate>Fri, 17 Jul 2026 02:05:54 -0000</pubDate>
     <description>Automatically records translocator connections and draws lines on the world map.</description>
-  </item>
-  <item>
-    <title>Divine Ascension</title>
-    <link>https://mods.vintagestory.at/show/mod/6349</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6349#6349</guid>
-    <pubDate>Fri, 17 Jul 2026 01:01:32 -0000</pubDate>
-    <description>Religion mod: deities, favor, blessings, and multi-religion civilizations.</description>
-  </item>
-  <item>
-    <title>Vintage Felines</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagefeline</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagefeline#9291</guid>
-    <pubDate>Fri, 17 Jul 2026 00:59:35 -0000</pubDate>
-    <description>Adds a Feline playermodel to the game.</description>
-  </item>
-  <item>
-    <title>Tofu and Soymilk</title>
-    <link>https://mods.vintagestory.at/show/mod/10317</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10317#10317</guid>
-    <pubDate>Fri, 17 Jul 2026 00:50:49 -0000</pubDate>
-    <description>Adds soy processing: soymilk and tofu.</description>
   </item>
 </channel>
 </rss>
