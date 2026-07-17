@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 17 Jul 2026 22:53:42 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 23:54:55 +0000</lastBuildDate>
+  <item>
+    <title>Talonborne</title>
+    <link>https://mods.vintagestory.at/show/mod/10323</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10323#10323</guid>
+    <pubDate>Fri, 17 Jul 2026 23:31:56 -0000</pubDate>
+    <description>Rideable Flying Hippogryphs — Hatch wild nest eggs and raise your own sky mount.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Fri, 17 Jul 2026 23:17:29 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Compost This</title>
+    <link>https://mods.vintagestory.at/show/mod/compostthis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/compostthis#10244</guid>
+    <pubDate>Fri, 17 Jul 2026 23:15:39 -0000</pubDate>
+    <description>Compost This to accelerate your rot production</description>
+  </item>
   <item>
     <title>Open Claims</title>
     <link>https://mods.vintagestory.at/show/mod/openclaims</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gruntlauncher#10328</guid>
     <pubDate>Fri, 17 Jul 2026 17:48:44 -0000</pubDate>
     <description>Cross-platform launcher for managing multiple Vintage Story instances, versions, and mods. </description>
-  </item>
-  <item>
-    <title>Starter Chest</title>
-    <link>https://mods.vintagestory.at/show/mod/10329</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10329#10329</guid>
-    <pubDate>Fri, 17 Jul 2026 17:38:41 -0000</pubDate>
-    <description>Spawn a configurable starter chest for new players in singleplayer and multiplayer.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Tyrant King — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10168</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10168#10168</guid>
-    <pubDate>Fri, 17 Jul 2026 17:16:57 -0000</pubDate>
-    <description>Adds severals tyrannosaurids to Vintage Story. Unofficial compatibility port for 1.22.3</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Shovel Mouth — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10169</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10169#10169</guid>
-    <pubDate>Fri, 17 Jul 2026 17:16:28 -0000</pubDate>
-    <description>Adds the family of hadrosauroids dinosaurs to Vintage Story. Unofficial compatibility port for Vinta</description>
   </item>
 </channel>
 </rss>
