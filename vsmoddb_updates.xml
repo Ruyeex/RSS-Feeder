@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 17 Jul 2026 20:07:20 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 21:55:52 +0000</lastBuildDate>
+  <item>
+    <title>TFK Player Lib Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/8788</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8788#8788</guid>
+    <pubDate>Fri, 17 Jul 2026 21:50:14 -0000</pubDate>
+    <description>Patches PlayerModelLib color swatches into a wheel layout.</description>
+  </item>
+  <item>
+    <title>Exotic Milk</title>
+    <link>https://mods.vintagestory.at/show/mod/9541</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9541#9541</guid>
+    <pubDate>Fri, 17 Jul 2026 21:32:32 -0000</pubDate>
+    <description>Have you ever wanted milk from an entity that doesnt normally produce milk? Now's your chance!</description>
+  </item>
+  <item>
+    <title>Sacred Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/sacredlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sacredlib#9165</guid>
+    <pubDate>Fri, 17 Jul 2026 21:31:25 -0000</pubDate>
+    <description>A collection of new and improved classes for multiplayer</description>
+  </item>
+  <item>
+    <title>Galeret</title>
+    <link>https://mods.vintagestory.at/show/mod/9970</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9970#9970</guid>
+    <pubDate>Fri, 17 Jul 2026 21:14:41 -0000</pubDate>
+    <description>A race of cat people based on kahjit</description>
+  </item>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Fri, 17 Jul 2026 21:07:36 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>Boat Autopilot</title>
+    <link>https://mods.vintagestory.at/show/mod/10304</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10304#10304</guid>
+    <pubDate>Fri, 17 Jul 2026 20:41:59 -0000</pubDate>
+    <description>Long boat trips in Vintage Story are beautiful… the first three times.</description>
+  </item>
+  <item>
+    <title>Dar's Commands</title>
+    <link>https://mods.vintagestory.at/show/mod/darscommands</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darscommands#7005</guid>
+    <pubDate>Fri, 17 Jul 2026 20:15:43 -0000</pubDate>
+    <description>Some fun admin commands.</description>
+  </item>
+  <item>
+    <title>Collodion -- Classic Photography</title>
+    <link>https://mods.vintagestory.at/show/mod/collodion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/collodion#6881</guid>
+    <pubDate>Fri, 17 Jul 2026 20:15:33 -0000</pubDate>
+    <description>Save scenes from your world onto wet plates and develop them into photos to decorate your home with!</description>
+  </item>
   <item>
     <title>Kobold Player Model Redux</title>
     <link>https://mods.vintagestory.at/show/mod/koboldrdx</link>
@@ -24,7 +80,7 @@
     <link>https://mods.vintagestory.at/show/mod/10098</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
     <pubDate>Fri, 17 Jul 2026 19:39:49 -0000</pubDate>
-    <description>Introduces new weather mechanics using the vanilla weather system.</description>
+    <description>Introduces new extreme weather events. Blizzards, sandstorms, tornadoes, hurricanes and more!</description>
   </item>
   <item>
     <title>Atlas</title>
@@ -67,13 +123,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/silverlining#9618</guid>
     <pubDate>Fri, 17 Jul 2026 18:35:57 -0000</pubDate>
     <description>This mod aims to bring elegant and fancy feminine clothing to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Collodion -- Classic Photography</title>
-    <link>https://mods.vintagestory.at/show/mod/collodion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/collodion#6881</guid>
-    <pubDate>Fri, 17 Jul 2026 18:29:31 -0000</pubDate>
-    <description>Save scenes from your world onto wet plates and develop them into photos to decorate your home with!</description>
   </item>
   <item>
     <title>Eriadorian Armory</title>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10173#10173</guid>
     <pubDate>Fri, 17 Jul 2026 17:14:34 -0000</pubDate>
     <description>Adds severals spinosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Plated Back — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10174</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10174#10174</guid>
-    <pubDate>Fri, 17 Jul 2026 17:13:55 -0000</pubDate>
-    <description>Adds the family of stegosaurian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Ocean Tyrant — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10175</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10175#10175</guid>
-    <pubDate>Fri, 17 Jul 2026 17:13:25 -0000</pubDate>
-    <description>Adds severals Mosasaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Long Neck — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10176</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10176#10176</guid>
-    <pubDate>Fri, 17 Jul 2026 17:13:08 -0000</pubDate>
-    <description>Adds the family of Macronarians dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Horrible Hands — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10177</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10177#10177</guid>
-    <pubDate>Fri, 17 Jul 2026 17:12:20 -0000</pubDate>
-    <description>Adds the family of ornithomimosauria dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Horned Crown — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10178</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10178#10178</guid>
-    <pubDate>Fri, 17 Jul 2026 17:12:03 -0000</pubDate>
-    <description>Adds the family of ceratopsian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Fused Body — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10179</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10179#10179</guid>
-    <pubDate>Fri, 17 Jul 2026 17:11:20 -0000</pubDate>
-    <description>Adds the family of ankylosaurian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Domed Head — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10180</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10180#10180</guid>
-    <pubDate>Fri, 17 Jul 2026 17:10:38 -0000</pubDate>
-    <description>Adds the family of pachycephalosaurians dinosaurs to Vintage Story.</description>
   </item>
 </channel>
 </rss>
