@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 17 Jul 2026 21:55:52 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 22:53:42 +0000</lastBuildDate>
+  <item>
+    <title>Open Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/openclaims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/openclaims#10334</guid>
+    <pubDate>Fri, 17 Jul 2026 22:26:13 -0000</pubDate>
+    <description>GUI for claims and receive more blocks and areas to claim per hour</description>
+  </item>
+  <item>
+    <title>Arachnophobia Mode - Locust </title>
+    <link>https://mods.vintagestory.at/show/mod/10333</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10333#10333</guid>
+    <pubDate>Fri, 17 Jul 2026 22:11:07 -0000</pubDate>
+    <description>Arachnophobia mode that turns locusts into little bean bugs</description>
+  </item>
+  <item>
+    <title>Divine Ascension</title>
+    <link>https://mods.vintagestory.at/show/mod/6349</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6349#6349</guid>
+    <pubDate>Fri, 17 Jul 2026 22:10:34 -0000</pubDate>
+    <description>Religion mod: deities, favor, blessings, and multi-religion civilizations.</description>
+  </item>
+  <item>
+    <title>Still Useful Stuff</title>
+    <link>https://mods.vintagestory.at/show/mod/854</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/854#854</guid>
+    <pubDate>Fri, 17 Jul 2026 22:01:12 -0000</pubDate>
+    <description>Continuation of jakecool19's' Useful Stuff.</description>
+  </item>
   <item>
     <title>TFK Player Lib Patch</title>
     <link>https://mods.vintagestory.at/show/mod/8788</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10169#10169</guid>
     <pubDate>Fri, 17 Jul 2026 17:16:28 -0000</pubDate>
     <description>Adds the family of hadrosauroids dinosaurs to Vintage Story. Unofficial compatibility port for Vinta</description>
-  </item>
-  <item>
-    <title>Frontier's Map</title>
-    <link>https://mods.vintagestory.at/show/mod/9227</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9227#9227</guid>
-    <pubDate>Fri, 17 Jul 2026 17:16:22 -0000</pubDate>
-    <description>Adds a physical map with built-in map maker system, drawing tools and over 130 hand drawn stamps</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Sharp Tooth — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10170</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10170#10170</guid>
-    <pubDate>Fri, 17 Jul 2026 17:16:05 -0000</pubDate>
-    <description>Adds severals carcharodontosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Scythe Claws — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10172</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10172#10172</guid>
-    <pubDate>Fri, 17 Jul 2026 17:15:11 -0000</pubDate>
-    <description>Adds the family of therizinosaurids dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Sailed Spine — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10173</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10173#10173</guid>
-    <pubDate>Fri, 17 Jul 2026 17:14:34 -0000</pubDate>
-    <description>Adds severals spinosaurids to Vintage Story.</description>
   </item>
 </channel>
 </rss>
