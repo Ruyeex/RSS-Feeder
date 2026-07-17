@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 17 Jul 2026 04:09:10 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 07:19:18 +0000</lastBuildDate>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Fri, 17 Jul 2026 07:03:30 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Vintage Story Chinese Language Pack</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
+    <pubDate>Fri, 17 Jul 2026 06:58:28 -0000</pubDate>
+    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
+  </item>
+  <item>
+    <title>Akira's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/akiratweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/akiratweaks#10138</guid>
+    <pubDate>Fri, 17 Jul 2026 06:15:38 -0000</pubDate>
+    <description>Collection of patches for a personal server.</description>
+  </item>
+  <item>
+    <title>MoreInventorys</title>
+    <link>https://mods.vintagestory.at/show/mod/moreinventorys</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreinventorys#10306</guid>
+    <pubDate>Fri, 17 Jul 2026 05:53:38 -0000</pubDate>
+    <description>The mod adds new inventories for convenient and immersive storage: Shelves, crates, racks for weapon</description>
+  </item>
+  <item>
+    <title>TFK Player Lib Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/8788</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8788#8788</guid>
+    <pubDate>Fri, 17 Jul 2026 05:21:19 -0000</pubDate>
+    <description>Patches PlayerModelLib color swatches into a wheel layout.</description>
+  </item>
+  <item>
+    <title>Equus: Mustang Colors</title>
+    <link>https://mods.vintagestory.at/show/mod/10324</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10324#10324</guid>
+    <pubDate>Fri, 17 Jul 2026 05:11:18 -0000</pubDate>
+    <description>Makes equus ferus horses look more like mustangs</description>
+  </item>
+  <item>
+    <title>Fishy Bucket</title>
+    <link>https://mods.vintagestory.at/show/mod/fishybucket</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fishybucket#9877</guid>
+    <pubDate>Fri, 17 Jul 2026 05:10:45 -0000</pubDate>
+    <description>Catch a fish with an empty wooden bucket, then release it alive at a different location.</description>
+  </item>
+  <item>
+    <title>Talonborne</title>
+    <link>https://mods.vintagestory.at/show/mod/10323</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10323#10323</guid>
+    <pubDate>Fri, 17 Jul 2026 05:07:19 -0000</pubDate>
+    <description>Rideable Flying Hippogryphs — Hatch wild nest eggs and raise your own sky mount.</description>
+  </item>
+  <item>
+    <title>Metals of Myths [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/metalsofmyths</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalsofmyths#9911</guid>
+    <pubDate>Fri, 17 Jul 2026 05:00:03 -0000</pubDate>
+    <description>An addon for Improved Metallurgy that extends progression even further by adding fantasy metals.</description>
+  </item>
+  <item>
+    <title>CB Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Fri, 17 Jul 2026 04:30:19 -0000</pubDate>
+    <description>Harmony patches for my personal server.</description>
+  </item>
+  <item>
+    <title>Antique Harmony | Music Additions / Alternative Soundtrack</title>
+    <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiqueharmony#7141</guid>
+    <pubDate>Fri, 17 Jul 2026 04:15:58 -0000</pubDate>
+    <description>Adds to/replaces soundtrack with original orchestral one, written for the game.</description>
+  </item>
   <item>
     <title>IndustrialStory</title>
     <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspoklyk#9074</guid>
     <pubDate>Thu, 16 Jul 2026 22:04:30 -0000</pubDate>
     <description>Calling progression system where specializations emerge from player actions</description>
-  </item>
-  <item>
-    <title>Eternal Seraph Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
-    <pubDate>Thu, 16 Jul 2026 21:53:45 -0000</pubDate>
-    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
-  </item>
-  <item>
-    <title>Level UP</title>
-    <link>https://mods.vintagestory.at/show/mod/levelup</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/levelup#2089</guid>
-    <pubDate>Thu, 16 Jul 2026 21:53:39 -0000</pubDate>
-    <description>Add new levels systems to your character</description>
-  </item>
-  <item>
-    <title>Ben's Tuning Cylinders</title>
-    <link>https://mods.vintagestory.at/show/mod/10316</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10316#10316</guid>
-    <pubDate>Thu, 16 Jul 2026 21:52:19 -0000</pubDate>
-    <description>Adding some songs for a friend's server</description>
-  </item>
-  <item>
-    <title>Rudiments</title>
-    <link>https://mods.vintagestory.at/show/mod/9305</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
-    <pubDate>Thu, 16 Jul 2026 21:47:23 -0000</pubDate>
-    <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
-  </item>
-  <item>
-    <title>Meliora Meadows Adjustments</title>
-    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
-    <pubDate>Thu, 16 Jul 2026 21:09:31 -0000</pubDate>
-    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
-  </item>
-  <item>
-    <title>Uppsalchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/10141</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10141#10141</guid>
-    <pubDate>Thu, 16 Jul 2026 21:03:00 -0000</pubDate>
-    <description>A multi-tier alchemy system that uses A Culinary Artillery bottles.</description>
-  </item>
-  <item>
-    <title>Wooden Wrench</title>
-    <link>https://mods.vintagestory.at/show/mod/10314</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10314#10314</guid>
-    <pubDate>Thu, 16 Jul 2026 20:58:44 -0000</pubDate>
-    <description>Adds a wooden wrench</description>
-  </item>
-  <item>
-    <title>Wolp Story Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/wolpstorypatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wolpstorypatches#7915</guid>
-    <pubDate>Thu, 16 Jul 2026 20:50:25 -0000</pubDate>
-    <description>A collection of patches for the modpack &amp; server that we're running</description>
-  </item>
-  <item>
-    <title>VintageTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagetweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagetweaks#4441</guid>
-    <pubDate>Thu, 16 Jul 2026 20:37:31 -0000</pubDate>
-    <description>VintageTweaks! A collection of small quality of life tweaks I would like to see in Vintage Story.</description>
-  </item>
-  <item>
-    <title>Modular Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/modularbackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacks#10127</guid>
-    <pubDate>Thu, 16 Jul 2026 20:31:24 -0000</pubDate>
-    <description>Makes vanilla backpacks modular, allowing you to attach addons to extend storage slots.</description>
-  </item>
-  <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Thu, 16 Jul 2026 20:10:14 -0000</pubDate>
-    <description>A director camera mod for video production workflows.（导演模式模组）</description>
   </item>
 </channel>
 </rss>
