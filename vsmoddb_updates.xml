@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 17 Jul 2026 14:44:59 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 16:16:53 +0000</lastBuildDate>
+  <item>
+    <title>Better Nails</title>
+    <link>https://mods.vintagestory.at/show/mod/betternails</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betternails#5868</guid>
+    <pubDate>Fri, 17 Jul 2026 15:42:22 -0000</pubDate>
+    <description>Never thought of using higher quality metals for nails? Better metals now yields more nails.</description>
+  </item>
+  <item>
+    <title>TFK Player Lib Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/8788</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8788#8788</guid>
+    <pubDate>Fri, 17 Jul 2026 15:36:09 -0000</pubDate>
+    <description>Patches PlayerModelLib color swatches into a wheel layout.</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Fri, 17 Jul 2026 14:46:41 -0000</pubDate>
+    <description>A director camera mod for video production workflows.（导演模式模组）</description>
+  </item>
+  <item>
+    <title>Seraph Atelier - Player Model Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/seraphatelier</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphatelier#10276</guid>
+    <pubDate>Fri, 17 Jul 2026 14:45:57 -0000</pubDate>
+    <description>Look cute while you do pottery, starve, and get hunted by horrors beyond comprehension!</description>
+  </item>
   <item>
     <title>Spaturno and Trini's Secure Shelter</title>
     <link>https://mods.vintagestory.at/show/mod/9692</link>
@@ -62,13 +90,6 @@
     <description>Fixes the 'Water Wheel works with The Rivers Mod' mod by tweaking the way it calculates torque.</description>
   </item>
   <item>
-    <title>Seraph Atelier - Player Model Lib</title>
-    <link>https://mods.vintagestory.at/show/mod/seraphatelier</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphatelier#10276</guid>
-    <pubDate>Fri, 17 Jul 2026 10:37:45 -0000</pubDate>
-    <description>Look cute while you do pottery, starve, and get hunted by horrors beyond comprehension!</description>
-  </item>
-  <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/9635</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
@@ -104,13 +125,6 @@
     <description>All biomes/bioregions in one world</description>
   </item>
   <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Fri, 17 Jul 2026 07:24:31 -0000</pubDate>
-    <description>A director camera mod for video production workflows.（导演模式模组）</description>
-  </item>
-  <item>
     <title>Vintage Story Chinese Language Pack</title>
     <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
@@ -130,13 +144,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreinventorys#10306</guid>
     <pubDate>Fri, 17 Jul 2026 05:53:38 -0000</pubDate>
     <description>The mod adds new inventories for convenient and immersive storage: Shelves, crates, racks for weapon</description>
-  </item>
-  <item>
-    <title>TFK Player Lib Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/8788</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8788#8788</guid>
-    <pubDate>Fri, 17 Jul 2026 05:21:19 -0000</pubDate>
-    <description>Patches PlayerModelLib color swatches into a wheel layout.</description>
   </item>
   <item>
     <title>Equus: Mustang Colors</title>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stilluseful122#10315</guid>
     <pubDate>Fri, 17 Jul 2026 02:22:45 -0000</pubDate>
     <description>Continuation of Stahl's continuation of jakecool19's' Useful Stuff.</description>
-  </item>
-  <item>
-    <title> TLNetworks</title>
-    <link>https://mods.vintagestory.at/show/mod/tlnetworks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tlnetworks#9858</guid>
-    <pubDate>Fri, 17 Jul 2026 02:05:54 -0000</pubDate>
-    <description>Automatically records translocator connections and draws lines on the world map.</description>
   </item>
 </channel>
 </rss>
