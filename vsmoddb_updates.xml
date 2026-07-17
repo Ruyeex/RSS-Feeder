@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 17 Jul 2026 00:07:31 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 04:09:10 +0000</lastBuildDate>
+  <item>
+    <title>IndustrialStory</title>
+    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
+    <pubDate>Fri, 17 Jul 2026 03:55:01 -0000</pubDate>
+    <description>Overhauls metalworking, chemistry, and glassworking. </description>
+  </item>
+  <item>
+    <title>The Gravestones Mod - 1.22.3</title>
+    <link>https://mods.vintagestory.at/show/mod/gravestones</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gravestones#10300</guid>
+    <pubDate>Fri, 17 Jul 2026 03:51:46 -0000</pubDate>
+    <description>Adds a gravestone which stores the players inventory upon death and can be retrieved by them later.</description>
+  </item>
+  <item>
+    <title>SoldierSpy - Craftworks</title>
+    <link>https://mods.vintagestory.at/show/mod/8963</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8963#8963</guid>
+    <pubDate>Fri, 17 Jul 2026 02:54:08 -0000</pubDate>
+    <description>Simple equipment expansion, made with love &amp; pain, no AI</description>
+  </item>
+  <item>
+    <title>vanilla armory classic</title>
+    <link>https://mods.vintagestory.at/show/mod/vanillaarmoryclassic</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillaarmoryclassic#10322</guid>
+    <pubDate>Fri, 17 Jul 2026 02:30:48 -0000</pubDate>
+    <description>vanilla armory but restored to just being a cut content mod</description>
+  </item>
+  <item>
+    <title> Still Useful Stuff (1.22 Fork)</title>
+    <link>https://mods.vintagestory.at/show/mod/stilluseful122</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stilluseful122#10315</guid>
+    <pubDate>Fri, 17 Jul 2026 02:22:45 -0000</pubDate>
+    <description>Continuation of Stahl's continuation of jakecool19's' Useful Stuff.</description>
+  </item>
+  <item>
+    <title> TLNetworks</title>
+    <link>https://mods.vintagestory.at/show/mod/tlnetworks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tlnetworks#9858</guid>
+    <pubDate>Fri, 17 Jul 2026 02:05:54 -0000</pubDate>
+    <description>Automatically records translocator connections and draws lines on the world map.</description>
+  </item>
+  <item>
+    <title>Divine Ascension</title>
+    <link>https://mods.vintagestory.at/show/mod/6349</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6349#6349</guid>
+    <pubDate>Fri, 17 Jul 2026 01:01:32 -0000</pubDate>
+    <description>Religion mod: deities, favor, blessings, and multi-religion civilizations.</description>
+  </item>
+  <item>
+    <title>Vintage Felines</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagefeline</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagefeline#9291</guid>
+    <pubDate>Fri, 17 Jul 2026 00:59:35 -0000</pubDate>
+    <description>Adds a Feline playermodel to the game.</description>
+  </item>
+  <item>
+    <title>Tofu and Soymilk</title>
+    <link>https://mods.vintagestory.at/show/mod/10317</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10317#10317</guid>
+    <pubDate>Fri, 17 Jul 2026 00:50:49 -0000</pubDate>
+    <description>Adds soy processing: soymilk and tofu.</description>
+  </item>
+  <item>
+    <title>All The Stats</title>
+    <link>https://mods.vintagestory.at/show/mod/allthestats</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/allthestats#8757</guid>
+    <pubDate>Fri, 17 Jul 2026 00:12:19 -0000</pubDate>
+    <description>A dual-purpose library for players and mod creators interested in new stats for traits and recipes.</description>
+  </item>
   <item>
     <title>Dense Ground Storage</title>
     <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
@@ -87,7 +157,7 @@
     <link>https://mods.vintagestory.at/show/mod/10316</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10316#10316</guid>
     <pubDate>Thu, 16 Jul 2026 21:52:19 -0000</pubDate>
-    <description>Adding some songs for a freind's server</description>
+    <description>Adding some songs for a friend's server</description>
   </item>
   <item>
     <title>Rudiments</title>
@@ -95,13 +165,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
     <pubDate>Thu, 16 Jul 2026 21:47:23 -0000</pubDate>
     <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
-  </item>
-  <item>
-    <title> Still Useful Stuff (1.22 Fork)</title>
-    <link>https://mods.vintagestory.at/show/mod/stilluseful122</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stilluseful122#10315</guid>
-    <pubDate>Thu, 16 Jul 2026 21:23:29 -0000</pubDate>
-    <description>Continuation of Stahl's continuation of jakecool19's' Useful Stuff.</description>
   </item>
   <item>
     <title>Meliora Meadows Adjustments</title>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
     <pubDate>Thu, 16 Jul 2026 20:10:14 -0000</pubDate>
     <description>A director camera mod for video production workflows.（导演模式模组）</description>
-  </item>
-  <item>
-    <title>MoreInventorys</title>
-    <link>https://mods.vintagestory.at/show/mod/moreinventorys</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreinventorys#10306</guid>
-    <pubDate>Thu, 16 Jul 2026 20:09:52 -0000</pubDate>
-    <description>The mod adds new inventories for convenient and immersive storage: Shelves, crates, racks for weapon</description>
-  </item>
-  <item>
-    <title>Wild Farming Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/10010</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10010#10010</guid>
-    <pubDate>Thu, 16 Jul 2026 20:09:13 -0000</pubDate>
-    <description>Cultivate flowers, herbs, mushrooms, trees, and shrubs. And much more.</description>
-  </item>
-  <item>
-    <title>Racial Equality Traits</title>
-    <link>https://mods.vintagestory.at/show/mod/raeqtraits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/raeqtraits#9133</guid>
-    <pubDate>Thu, 16 Jul 2026 20:00:09 -0000</pubDate>
-    <description>Adds just traits to the races from Racial Equality.</description>
-  </item>
-  <item>
-    <title>C&amp;N RPG Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/canrpgclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canrpgclasses#9965</guid>
-    <pubDate>Thu, 16 Jul 2026 19:47:51 -0000</pubDate>
-    <description>RPG classes for Vintage Story</description>
-  </item>
-  <item>
-    <title>Dar's Commands</title>
-    <link>https://mods.vintagestory.at/show/mod/darscommands</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darscommands#7005</guid>
-    <pubDate>Thu, 16 Jul 2026 19:39:47 -0000</pubDate>
-    <description>Some fun admin commands.</description>
-  </item>
-  <item>
-    <title>Fog Off</title>
-    <link>https://mods.vintagestory.at/show/mod/fogoff</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fogoff#9428</guid>
-    <pubDate>Thu, 16 Jul 2026 19:31:59 -0000</pubDate>
-    <description>Removes Fog in select areas</description>
-  </item>
-  <item>
-    <title>Temporal Doctor</title>
-    <link>https://mods.vintagestory.at/show/mod/6385</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6385#6385</guid>
-    <pubDate>Thu, 16 Jul 2026 19:21:12 -0000</pubDate>
-    <description>Adds temporal doctor outfit, inspired by the plague doctor</description>
-  </item>
-  <item>
-    <title>Dar's Server Utilities</title>
-    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
-    <pubDate>Thu, 16 Jul 2026 19:20:43 -0000</pubDate>
-    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
-  </item>
-  <item>
-    <title>The Hunter</title>
-    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
-    <pubDate>Thu, 16 Jul 2026 19:19:05 -0000</pubDate>
-    <description>Adds animal tracking clues, bleeding, droppings, wounded movement, and carcass carrying.</description>
   </item>
 </channel>
 </rss>
