@@ -4,13 +4,55 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 17 Jul 2026 07:19:18 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 10:00:31 +0000</lastBuildDate>
+  <item>
+    <title>Water Wheel works with The Rivers Mod Mod Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/10293</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10293#10293</guid>
+    <pubDate>Fri, 17 Jul 2026 10:00:08 -0000</pubDate>
+    <description>Fixes the 'Water Wheel works with The Rivers Mod' mod by tweaking the way it calculates torque.</description>
+  </item>
   <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/9635</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Fri, 17 Jul 2026 07:03:30 -0000</pubDate>
+    <pubDate>Fri, 17 Jul 2026 09:29:48 -0000</pubDate>
     <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>ClimateScalePatch</title>
+    <link>https://mods.vintagestory.at/show/mod/10277</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10277#10277</guid>
+    <pubDate>Fri, 17 Jul 2026 09:24:07 -0000</pubDate>
+    <description>ClimateScalePatch modifies climate map generation during worldgen.</description>
+  </item>
+  <item>
+    <title>SoldierSpy - Craftworks</title>
+    <link>https://mods.vintagestory.at/show/mod/8963</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8963#8963</guid>
+    <pubDate>Fri, 17 Jul 2026 09:08:28 -0000</pubDate>
+    <description>Simple equipment expansion, made with love &amp; pain, no AI</description>
+  </item>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Fri, 17 Jul 2026 08:39:22 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
+  <item>
+    <title>Biomes</title>
+    <link>https://mods.vintagestory.at/show/mod/biomes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biomes#1654</guid>
+    <pubDate>Fri, 17 Jul 2026 08:17:24 -0000</pubDate>
+    <description>All biomes/bioregions in one world</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Fri, 17 Jul 2026 07:24:31 -0000</pubDate>
+    <description>A director camera mod for video production workflows.（导演模式模组）</description>
   </item>
   <item>
     <title>Vintage Story Chinese Language Pack</title>
@@ -97,13 +139,6 @@
     <description>Adds a gravestone which stores the players inventory upon death and can be retrieved by them later.</description>
   </item>
   <item>
-    <title>SoldierSpy - Craftworks</title>
-    <link>https://mods.vintagestory.at/show/mod/8963</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8963#8963</guid>
-    <pubDate>Fri, 17 Jul 2026 02:54:08 -0000</pubDate>
-    <description>Simple equipment expansion, made with love &amp; pain, no AI</description>
-  </item>
-  <item>
     <title>vanilla armory classic</title>
     <link>https://mods.vintagestory.at/show/mod/vanillaarmoryclassic</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillaarmoryclassic#10322</guid>
@@ -160,13 +195,6 @@
     <description>Place down more items per block and on chiseled blocks</description>
   </item>
   <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Thu, 16 Jul 2026 23:38:08 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
-  </item>
-  <item>
     <title>Living Armor - Player Model Lib</title>
     <link>https://mods.vintagestory.at/show/mod/livingarmors</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/livingarmors#10014</guid>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
     <pubDate>Thu, 16 Jul 2026 22:17:46 -0000</pubDate>
     <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
-    <title>xLib Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7618</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7618#7618</guid>
-    <pubDate>Thu, 16 Jul 2026 22:15:07 -0000</pubDate>
-    <description>XLib provides an interface to add skills, abilities and effects to the game.</description>
-  </item>
-  <item>
-    <title>xSkills Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7605</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
-    <pubDate>Thu, 16 Jul 2026 22:14:43 -0000</pubDate>
-    <description>RPG-style skill system with abilities, perks, and progression.</description>
-  </item>
-  <item>
-    <title>xSkills Gilded Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/5529</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5529#5529</guid>
-    <pubDate>Thu, 16 Jul 2026 22:11:02 -0000</pubDate>
-    <description>This mod adds a beautifully designed, immersive, and user-friendly interface for xSkills. </description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Poklyk</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspoklyk</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspoklyk#9074</guid>
-    <pubDate>Thu, 16 Jul 2026 22:04:30 -0000</pubDate>
-    <description>Calling progression system where specializations emerge from player actions</description>
   </item>
 </channel>
 </rss>
