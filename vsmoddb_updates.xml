@@ -4,7 +4,168 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 17 Jul 2026 16:16:53 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 18:07:24 +0000</lastBuildDate>
+  <item>
+    <title>Chronicles of Eriador</title>
+    <link>https://mods.vintagestory.at/show/mod/eriadorchronicles</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eriadorchronicles#9320</guid>
+    <pubDate>Fri, 17 Jul 2026 18:07:20 -0000</pubDate>
+    <description>A collection of custom items, recipes, and other patches for the Kingdom of Eriador VS server.</description>
+  </item>
+  <item>
+    <title>Edible Among Us Crewmate</title>
+    <link>https://mods.vintagestory.at/show/mod/amogusfood</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/amogusfood#1387</guid>
+    <pubDate>Fri, 17 Jul 2026 17:49:48 -0000</pubDate>
+    <description>Adds an edible among us crewmate.</description>
+  </item>
+  <item>
+    <title>GruntLauncher</title>
+    <link>https://mods.vintagestory.at/show/mod/gruntlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gruntlauncher#10328</guid>
+    <pubDate>Fri, 17 Jul 2026 17:48:44 -0000</pubDate>
+    <description>Cross-platform launcher for managing multiple Vintage Story instances, versions, and mods. </description>
+  </item>
+  <item>
+    <title>Starter Chest</title>
+    <link>https://mods.vintagestory.at/show/mod/10329</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10329#10329</guid>
+    <pubDate>Fri, 17 Jul 2026 17:38:41 -0000</pubDate>
+    <description>Spawn a configurable starter chest for new players in singleplayer and multiplayer.</description>
+  </item>
+  <item>
+    <title>Legacy of the Phanerozoic: Tyrant King — Unofficial</title>
+    <link>https://mods.vintagestory.at/show/mod/10168</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10168#10168</guid>
+    <pubDate>Fri, 17 Jul 2026 17:16:57 -0000</pubDate>
+    <description>Adds severals tyrannosaurids to Vintage Story. Unofficial compatibility port for 1.22.3</description>
+  </item>
+  <item>
+    <title>Legacy of the Phanerozoic: Shovel Mouth — Unofficial</title>
+    <link>https://mods.vintagestory.at/show/mod/10169</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10169#10169</guid>
+    <pubDate>Fri, 17 Jul 2026 17:16:28 -0000</pubDate>
+    <description>Adds the family of hadrosauroids dinosaurs to Vintage Story. Unofficial compatibility port for Vinta</description>
+  </item>
+  <item>
+    <title>Frontier's Map</title>
+    <link>https://mods.vintagestory.at/show/mod/9227</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9227#9227</guid>
+    <pubDate>Fri, 17 Jul 2026 17:16:22 -0000</pubDate>
+    <description>Adds a physical map with built-in map maker system, drawing tools and over 130 hand drawn stamps</description>
+  </item>
+  <item>
+    <title>Legacy of the Phanerozoic: Sharp Tooth — Unofficial</title>
+    <link>https://mods.vintagestory.at/show/mod/10170</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10170#10170</guid>
+    <pubDate>Fri, 17 Jul 2026 17:16:05 -0000</pubDate>
+    <description>Adds severals carcharodontosaurids to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Legacy of the Phanerozoic: Scythe Claws — Unofficial</title>
+    <link>https://mods.vintagestory.at/show/mod/10172</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10172#10172</guid>
+    <pubDate>Fri, 17 Jul 2026 17:15:11 -0000</pubDate>
+    <description>Adds the family of therizinosaurids dinosaurs to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Legacy of the Phanerozoic: Sailed Spine — Unofficial</title>
+    <link>https://mods.vintagestory.at/show/mod/10173</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10173#10173</guid>
+    <pubDate>Fri, 17 Jul 2026 17:14:34 -0000</pubDate>
+    <description>Adds severals spinosaurids to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Legacy of the Phanerozoic: Plated Back — Unofficial</title>
+    <link>https://mods.vintagestory.at/show/mod/10174</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10174#10174</guid>
+    <pubDate>Fri, 17 Jul 2026 17:13:55 -0000</pubDate>
+    <description>Adds the family of stegosaurian dinosaurs to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Legacy of the Phanerozoic: Ocean Tyrant — Unofficial</title>
+    <link>https://mods.vintagestory.at/show/mod/10175</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10175#10175</guid>
+    <pubDate>Fri, 17 Jul 2026 17:13:25 -0000</pubDate>
+    <description>Adds severals Mosasaurids to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Legacy of the Phanerozoic: Long Neck — Unofficial</title>
+    <link>https://mods.vintagestory.at/show/mod/10176</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10176#10176</guid>
+    <pubDate>Fri, 17 Jul 2026 17:13:08 -0000</pubDate>
+    <description>Adds the family of Macronarians dinosaurs to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Legacy of the Phanerozoic: Horrible Hands — Unofficial</title>
+    <link>https://mods.vintagestory.at/show/mod/10177</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10177#10177</guid>
+    <pubDate>Fri, 17 Jul 2026 17:12:20 -0000</pubDate>
+    <description>Adds the family of ornithomimosauria dinosaurs to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Legacy of the Phanerozoic: Horned Crown — Unofficial</title>
+    <link>https://mods.vintagestory.at/show/mod/10178</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10178#10178</guid>
+    <pubDate>Fri, 17 Jul 2026 17:12:03 -0000</pubDate>
+    <description>Adds the family of ceratopsian dinosaurs to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Legacy of the Phanerozoic: Fused Body — Unofficial</title>
+    <link>https://mods.vintagestory.at/show/mod/10179</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10179#10179</guid>
+    <pubDate>Fri, 17 Jul 2026 17:11:20 -0000</pubDate>
+    <description>Adds the family of ankylosaurian dinosaurs to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Legacy of the Phanerozoic: Domed Head — Unofficial</title>
+    <link>https://mods.vintagestory.at/show/mod/10180</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10180#10180</guid>
+    <pubDate>Fri, 17 Jul 2026 17:10:38 -0000</pubDate>
+    <description>Adds the family of pachycephalosaurians dinosaurs to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Legacy of the Phanerozoic: Carnivorous Bull — Unofficial</title>
+    <link>https://mods.vintagestory.at/show/mod/10181</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10181#10181</guid>
+    <pubDate>Fri, 17 Jul 2026 17:10:00 -0000</pubDate>
+    <description>Adds severals abelisaurids to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Legacy of the Phanerozoic: Birds of Prey — Unofficial</title>
+    <link>https://mods.vintagestory.at/show/mod/10182</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10182#10182</guid>
+    <pubDate>Fri, 17 Jul 2026 17:08:57 -0000</pubDate>
+    <description>Adds severals dromaeosaurids to Vintage Story.</description>
+  </item>
+  <item>
+    <title>LoP Dino Core</title>
+    <link>https://mods.vintagestory.at/show/mod/10327</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10327#10327</guid>
+    <pubDate>Fri, 17 Jul 2026 17:05:16 -0000</pubDate>
+    <description>Shared spawning, compatibility, deep-ocean spawning, and foliage-clearing services for the dino. WIP</description>
+  </item>
+  <item>
+    <title>MoreInventorys</title>
+    <link>https://mods.vintagestory.at/show/mod/moreinventorys</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreinventorys#10306</guid>
+    <pubDate>Fri, 17 Jul 2026 16:51:45 -0000</pubDate>
+    <description>The mod adds new inventories for convenient and immersive storage: Shelves, crates, racks for weapon</description>
+  </item>
+  <item>
+    <title>Secret Foxfire 1.22 Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10037</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10037#10037</guid>
+    <pubDate>Fri, 17 Jul 2026 16:43:47 -0000</pubDate>
+    <description>Tweaks for my community 1.22 server.</description>
+  </item>
+  <item>
+    <title>Vanilla More Molds 2.1.1</title>
+    <link>https://mods.vintagestory.at/show/mod/vanillamoremolds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillamoremolds#2948</guid>
+    <pubDate>Fri, 17 Jul 2026 16:18:07 -0000</pubDate>
+    <description>Adds new molds while staying true to the spirit and mechanics of the base game!</description>
+  </item>
   <item>
     <title>Better Nails</title>
     <link>https://mods.vintagestory.at/show/mod/betternails</link>
@@ -53,167 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10309#10309</guid>
     <pubDate>Fri, 17 Jul 2026 12:26:55 -0000</pubDate>
     <description>Adds Stargate sounds to Astria Porta's Stargates</description>
-  </item>
-  <item>
-    <title>TinkerTailor - Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/9773</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9773#9773</guid>
-    <pubDate>Fri, 17 Jul 2026 11:38:18 -0000</pubDate>
-    <description>More backpacks &amp; pouches for the veteran seraph. Made with love &amp; pain, No AI.</description>
-  </item>
-  <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Fri, 17 Jul 2026 11:30:08 -0000</pubDate>
-    <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
-  </item>
-  <item>
-    <title>Leaf Litter</title>
-    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
-    <pubDate>Fri, 17 Jul 2026 11:29:59 -0000</pubDate>
-    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
-  </item>
-  <item>
-    <title>Force Ground Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/forcegroundstorage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/forcegroundstorage#9817</guid>
-    <pubDate>Fri, 17 Jul 2026 11:29:16 -0000</pubDate>
-    <description>Almost any item that can be ground-stored cannot be stored in containers.</description>
-  </item>
-  <item>
-    <title>Water Wheel works with The Rivers Mod Mod Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/10293</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10293#10293</guid>
-    <pubDate>Fri, 17 Jul 2026 11:06:10 -0000</pubDate>
-    <description>Fixes the 'Water Wheel works with The Rivers Mod' mod by tweaking the way it calculates torque.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Fri, 17 Jul 2026 09:29:48 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>ClimateScalePatch</title>
-    <link>https://mods.vintagestory.at/show/mod/10277</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10277#10277</guid>
-    <pubDate>Fri, 17 Jul 2026 09:24:07 -0000</pubDate>
-    <description>ClimateScalePatch modifies climate map generation during worldgen.</description>
-  </item>
-  <item>
-    <title>SoldierSpy - Craftworks</title>
-    <link>https://mods.vintagestory.at/show/mod/8963</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8963#8963</guid>
-    <pubDate>Fri, 17 Jul 2026 09:08:28 -0000</pubDate>
-    <description>Simple equipment expansion, made with love &amp; pain, no AI</description>
-  </item>
-  <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Fri, 17 Jul 2026 08:39:22 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
-  </item>
-  <item>
-    <title>Biomes</title>
-    <link>https://mods.vintagestory.at/show/mod/biomes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biomes#1654</guid>
-    <pubDate>Fri, 17 Jul 2026 08:17:24 -0000</pubDate>
-    <description>All biomes/bioregions in one world</description>
-  </item>
-  <item>
-    <title>Vintage Story Chinese Language Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
-    <pubDate>Fri, 17 Jul 2026 06:58:28 -0000</pubDate>
-    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
-  </item>
-  <item>
-    <title>Akira's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/akiratweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/akiratweaks#10138</guid>
-    <pubDate>Fri, 17 Jul 2026 06:15:38 -0000</pubDate>
-    <description>Collection of patches for a personal server.</description>
-  </item>
-  <item>
-    <title>MoreInventorys</title>
-    <link>https://mods.vintagestory.at/show/mod/moreinventorys</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreinventorys#10306</guid>
-    <pubDate>Fri, 17 Jul 2026 05:53:38 -0000</pubDate>
-    <description>The mod adds new inventories for convenient and immersive storage: Shelves, crates, racks for weapon</description>
-  </item>
-  <item>
-    <title>Equus: Mustang Colors</title>
-    <link>https://mods.vintagestory.at/show/mod/10324</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10324#10324</guid>
-    <pubDate>Fri, 17 Jul 2026 05:11:18 -0000</pubDate>
-    <description>Makes equus ferus horses look more like mustangs</description>
-  </item>
-  <item>
-    <title>Fishy Bucket</title>
-    <link>https://mods.vintagestory.at/show/mod/fishybucket</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fishybucket#9877</guid>
-    <pubDate>Fri, 17 Jul 2026 05:10:45 -0000</pubDate>
-    <description>Catch a fish with an empty wooden bucket, then release it alive at a different location.</description>
-  </item>
-  <item>
-    <title>Talonborne</title>
-    <link>https://mods.vintagestory.at/show/mod/10323</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10323#10323</guid>
-    <pubDate>Fri, 17 Jul 2026 05:07:19 -0000</pubDate>
-    <description>Rideable Flying Hippogryphs — Hatch wild nest eggs and raise your own sky mount.</description>
-  </item>
-  <item>
-    <title>Metals of Myths [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/metalsofmyths</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalsofmyths#9911</guid>
-    <pubDate>Fri, 17 Jul 2026 05:00:03 -0000</pubDate>
-    <description>An addon for Improved Metallurgy that extends progression even further by adding fantasy metals.</description>
-  </item>
-  <item>
-    <title>CB Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Fri, 17 Jul 2026 04:30:19 -0000</pubDate>
-    <description>Harmony patches for my personal server.</description>
-  </item>
-  <item>
-    <title>Antique Harmony | Music Additions / Alternative Soundtrack</title>
-    <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiqueharmony#7141</guid>
-    <pubDate>Fri, 17 Jul 2026 04:15:58 -0000</pubDate>
-    <description>Adds to/replaces soundtrack with original orchestral one, written for the game.</description>
-  </item>
-  <item>
-    <title>IndustrialStory</title>
-    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
-    <pubDate>Fri, 17 Jul 2026 03:55:01 -0000</pubDate>
-    <description>Overhauls metalworking, chemistry, and glassworking. </description>
-  </item>
-  <item>
-    <title>The Gravestones Mod - 1.22.3</title>
-    <link>https://mods.vintagestory.at/show/mod/gravestones</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gravestones#10300</guid>
-    <pubDate>Fri, 17 Jul 2026 03:51:46 -0000</pubDate>
-    <description>Adds a gravestone which stores the players inventory upon death and can be retrieved by them later.</description>
-  </item>
-  <item>
-    <title>vanilla armory classic</title>
-    <link>https://mods.vintagestory.at/show/mod/vanillaarmoryclassic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillaarmoryclassic#10322</guid>
-    <pubDate>Fri, 17 Jul 2026 02:30:48 -0000</pubDate>
-    <description>vanilla armory but restored to just being a cut content mod</description>
-  </item>
-  <item>
-    <title> Still Useful Stuff (1.22 Fork)</title>
-    <link>https://mods.vintagestory.at/show/mod/stilluseful122</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stilluseful122#10315</guid>
-    <pubDate>Fri, 17 Jul 2026 02:22:45 -0000</pubDate>
-    <description>Continuation of Stahl's continuation of jakecool19's' Useful Stuff.</description>
   </item>
 </channel>
 </rss>
