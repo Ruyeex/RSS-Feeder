@@ -4,13 +4,48 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 17 Jul 2026 10:00:31 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 12:11:23 +0000</lastBuildDate>
+  <item>
+    <title>TinkerTailor - Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/9773</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9773#9773</guid>
+    <pubDate>Fri, 17 Jul 2026 11:38:18 -0000</pubDate>
+    <description>More backpacks &amp; pouches for the veteran seraph. Made with love &amp; pain, No AI.</description>
+  </item>
+  <item>
+    <title>Deciduous Trees</title>
+    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
+    <pubDate>Fri, 17 Jul 2026 11:30:08 -0000</pubDate>
+    <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
+  </item>
+  <item>
+    <title>Leaf Litter</title>
+    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
+    <pubDate>Fri, 17 Jul 2026 11:29:59 -0000</pubDate>
+    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
+  </item>
+  <item>
+    <title>Force Ground Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/forcegroundstorage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/forcegroundstorage#9817</guid>
+    <pubDate>Fri, 17 Jul 2026 11:29:16 -0000</pubDate>
+    <description>Almost any item that can be ground-stored cannot be stored in containers.</description>
+  </item>
   <item>
     <title>Water Wheel works with The Rivers Mod Mod Fix</title>
     <link>https://mods.vintagestory.at/show/mod/10293</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10293#10293</guid>
-    <pubDate>Fri, 17 Jul 2026 10:00:08 -0000</pubDate>
+    <pubDate>Fri, 17 Jul 2026 11:06:10 -0000</pubDate>
     <description>Fixes the 'Water Wheel works with The Rivers Mod' mod by tweaking the way it calculates torque.</description>
+  </item>
+  <item>
+    <title>Seraph Atelier</title>
+    <link>https://mods.vintagestory.at/show/mod/seraphatelier</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphatelier#10276</guid>
+    <pubDate>Fri, 17 Jul 2026 10:37:45 -0000</pubDate>
+    <description>Look cute while you do pottery, starve, and get hunted by horrors beyond comprehension!</description>
   </item>
   <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10317#10317</guid>
     <pubDate>Fri, 17 Jul 2026 00:50:49 -0000</pubDate>
     <description>Adds soy processing: soymilk and tofu.</description>
-  </item>
-  <item>
-    <title>All The Stats</title>
-    <link>https://mods.vintagestory.at/show/mod/allthestats</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/allthestats#8757</guid>
-    <pubDate>Fri, 17 Jul 2026 00:12:19 -0000</pubDate>
-    <description>A dual-purpose library for players and mod creators interested in new stats for traits and recipes.</description>
-  </item>
-  <item>
-    <title>Dense Ground Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
-    <pubDate>Thu, 16 Jul 2026 23:55:42 -0000</pubDate>
-    <description>Place down more items per block and on chiseled blocks</description>
-  </item>
-  <item>
-    <title>Living Armor - Player Model Lib</title>
-    <link>https://mods.vintagestory.at/show/mod/livingarmors</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/livingarmors#10014</guid>
-    <pubDate>Thu, 16 Jul 2026 23:02:20 -0000</pubDate>
-    <description>Combat oriented race for PlayerModelLib</description>
-  </item>
-  <item>
-    <title>VS Roofing Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/5036</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5036#5036</guid>
-    <pubDate>Thu, 16 Jul 2026 22:51:32 -0000</pubDate>
-    <description>Gridless roof crafting and build system.</description>
-  </item>
-  <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Thu, 16 Jul 2026 22:17:46 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
   </item>
 </channel>
 </rss>
