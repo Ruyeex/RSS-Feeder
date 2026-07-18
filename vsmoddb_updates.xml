@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 18 Jul 2026 16:01:36 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 17:56:51 +0000</lastBuildDate>
+  <item>
+    <title>MealRecipeLagFix</title>
+    <link>https://mods.vintagestory.at/show/mod/7486</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7486#7486</guid>
+    <pubDate>Sat, 18 Jul 2026 17:40:58 -0000</pubDate>
+    <description>Fixes handbook lag when browsing meal recipe pages.</description>
+  </item>
+  <item>
+    <title>Murlok Vintage Server Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/murlokvspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/murlokvspatch#5307</guid>
+    <pubDate>Sat, 18 Jul 2026 17:36:52 -0000</pubDate>
+    <description>Collection of tweaks for the Murlok server and playthrough.</description>
+  </item>
+  <item>
+    <title>Achievements</title>
+    <link>https://mods.vintagestory.at/show/mod/achievements</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/achievements#8202</guid>
+    <pubDate>Sat, 18 Jul 2026 17:32:37 -0000</pubDate>
+    <description>Adds vanilla, lore, AllClasses, Hod and Primitive Survival Achievements and random rewards</description>
+  </item>
+  <item>
+    <title>Arkhavia Class Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/arkhaviapatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arkhaviapatches#10355</guid>
+    <pubDate>Sat, 18 Jul 2026 17:00:14 -0000</pubDate>
+    <description>Class patches for Arkhavia.</description>
+  </item>
+  <item>
+    <title>Kaschperle Class Mix </title>
+    <link>https://mods.vintagestory.at/show/mod/8517</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8517#8517</guid>
+    <pubDate>Sat, 18 Jul 2026 16:49:12 -0000</pubDate>
+    <description>A revision mix from the popular class mod Aldi classes and Agi's Classes</description>
+  </item>
+  <item>
+    <title>Envelopes</title>
+    <link>https://mods.vintagestory.at/show/mod/envelopes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/envelopes#3369</guid>
+    <pubDate>Sat, 18 Jul 2026 16:45:52 -0000</pubDate>
+    <description>Adds wax-sealable envelopes to the game. Privacy-first.</description>
+  </item>
+  <item>
+    <title>Renderer Mangler</title>
+    <link>https://mods.vintagestory.at/show/mod/renderermangler</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/renderermangler#10114</guid>
+    <pubDate>Sat, 18 Jul 2026 16:36:15 -0000</pubDate>
+    <description>Custom cubemap renderer with different projections that allows up to 360 FOV</description>
+  </item>
+  <item>
+    <title>Gatbata's Sawians</title>
+    <link>https://mods.vintagestory.at/show/mod/customplayermodelsaw</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customplayermodelsaw#10351</guid>
+    <pubDate>Sat, 18 Jul 2026 16:36:04 -0000</pubDate>
+    <description>Adds some of the Sawians from Gunsaw and Casualties: Unknown (expies and the like)</description>
+  </item>
+  <item>
+    <title>TDR medieval expansion tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tdrmedieval</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tdrmedieval#10352</guid>
+    <pubDate>Sat, 18 Jul 2026 16:35:21 -0000</pubDate>
+    <description>just the decorative blocks, no aurochs/cellar ice/waterwheels etc.</description>
+  </item>
+  <item>
+    <title>The Ultimate Mod Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/10348</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10348#10348</guid>
+    <pubDate>Sat, 18 Jul 2026 16:08:30 -0000</pubDate>
+    <description>A in-game mod manager that's suitable even for remote servers without terminal/FTP access.</description>
+  </item>
   <item>
     <title>NDL ExpandedGrowth (Mushroom Growth Module)</title>
     <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthmushrooms</link>
@@ -104,13 +174,6 @@
     <description>Adds more custom emotes to the game.</description>
   </item>
   <item>
-    <title>The Ultimate Mod Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/10348</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10348#10348</guid>
-    <pubDate>Sat, 18 Jul 2026 12:17:04 -0000</pubDate>
-    <description>A in-game mod manager that's suitable even for remote servers without terminal/FTP access.</description>
-  </item>
-  <item>
     <title>Disable Random Idle Animations</title>
     <link>https://mods.vintagestory.at/show/mod/5886</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5886#5886</guid>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lhgui#4960</guid>
     <pubDate>Sat, 18 Jul 2026 11:35:47 -0000</pubDate>
     <description>GUI mod for lasthearth server</description>
-  </item>
-  <item>
-    <title>Snow Melts In Water</title>
-    <link>https://mods.vintagestory.at/show/mod/10346</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10346#10346</guid>
-    <pubDate>Sat, 18 Jul 2026 11:31:40 -0000</pubDate>
-    <description>Makes snow that falls into water melt. Adds '/snowmeltradius' command to melt any that already sunk.</description>
-  </item>
-  <item>
-    <title>Battle Towers Wilderlands Rustbound Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/3651</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3651#3651</guid>
-    <pubDate>Sat, 18 Jul 2026 11:25:31 -0000</pubDate>
-    <description>Change entities that will spawn in battle towers to Rustbound entities</description>
-  </item>
-  <item>
-    <title>RTP - Random Teleport: Reborn</title>
-    <link>https://mods.vintagestory.at/show/mod/10288</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10288#10288</guid>
-    <pubDate>Sat, 18 Jul 2026 11:25:03 -0000</pubDate>
-    <description>Teleport to new place with your friends!</description>
-  </item>
-  <item>
-    <title>Battle Towers &amp; Translocator Engineering Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/2712</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/2712#2712</guid>
-    <pubDate>Sat, 18 Jul 2026 11:24:32 -0000</pubDate>
-    <description>Add Translocators and Linkers to the battle towers loot table</description>
-  </item>
-  <item>
-    <title>Sleeping Bag</title>
-    <link>https://mods.vintagestory.at/show/mod/sleepingbagmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sleepingbagmod#10041</guid>
-    <pubDate>Sat, 18 Jul 2026 10:47:37 -0000</pubDate>
-    <description>A sleeping bag that can be worn in the waist slot. Sneak + R-click to pickup and auto-equip.</description>
-  </item>
-  <item>
-    <title>Boat Speed Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/boatspeedtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/boatspeedtweaks#9766</guid>
-    <pubDate>Sat, 18 Jul 2026 09:55:11 -0000</pubDate>
-    <description>Multiply Sailboats and Rafts speed by the configured factor, separately (default for both = 2.0)</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Specialized Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/aosspecializedclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aosspecializedclasses#8501</guid>
-    <pubDate>Sat, 18 Jul 2026 09:16:23 -0000</pubDate>
-    <description>Age of Seraphs Specialized Classes Fork</description>
-  </item>
-  <item>
-    <title>Greyhaven Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/10342</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10342#10342</guid>
-    <pubDate>Sat, 18 Jul 2026 09:07:48 -0000</pubDate>
-    <description>A companion mod built for the Greyhaven SMP, part of the Mossfall Network.</description>
-  </item>
-  <item>
-    <title>Healing Malk</title>
-    <link>https://mods.vintagestory.at/show/mod/healingmalk</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/healingmalk#10341</guid>
-    <pubDate>Sat, 18 Jul 2026 09:00:11 -0000</pubDate>
-    <description>milk know heals you for 1 hp ૮꒰ ˶• ༝ •˶꒱ა</description>
   </item>
 </channel>
 </rss>
