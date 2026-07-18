@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 18 Jul 2026 21:53:33 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 22:53:09 +0000</lastBuildDate>
+  <item>
+    <title>Server Essentials</title>
+    <link>https://mods.vintagestory.at/show/mod/serveressentials</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/serveressentials#3358</guid>
+    <pubDate>Sat, 18 Jul 2026 22:39:28 -0000</pubDate>
+    <description>Utility commands and functions</description>
+  </item>
+  <item>
+    <title>LoFS Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/lofsclass</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lofsclass#10241</guid>
+    <pubDate>Sat, 18 Jul 2026 22:37:29 -0000</pubDate>
+    <description>Working Classes reimagined for the Lands of the Fallen Stars RP Event! Image Unrelated</description>
+  </item>
+  <item>
+    <title>TinkerTailor - Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/9773</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9773#9773</guid>
+    <pubDate>Sat, 18 Jul 2026 22:18:59 -0000</pubDate>
+    <description>More backpacks &amp; pouches for the veteran seraph. Made with love &amp; pain, No AI.</description>
+  </item>
+  <item>
+    <title>Battle Towers</title>
+    <link>https://mods.vintagestory.at/show/mod/battletowers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/battletowers#2262</guid>
+    <pubDate>Sat, 18 Jul 2026 22:02:38 -0000</pubDate>
+    <description>Add Towers with dangerous creatures to fight and explore in your world</description>
+  </item>
   <item>
     <title>mecha seraph recolor pack</title>
     <link>https://mods.vintagestory.at/show/mod/10359</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customplayermodelsaw#10351</guid>
     <pubDate>Sat, 18 Jul 2026 16:36:04 -0000</pubDate>
     <description>Adds some of the Sawians from Gunsaw and Casualties: Unknown (expies and the like)</description>
-  </item>
-  <item>
-    <title>TDR medieval expansion tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tdrmedieval</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tdrmedieval#10352</guid>
-    <pubDate>Sat, 18 Jul 2026 16:35:21 -0000</pubDate>
-    <description>just the decorative blocks, no aurochs/cellar ice/waterwheels etc.</description>
-  </item>
-  <item>
-    <title>The Ultimate Mod Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/10348</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10348#10348</guid>
-    <pubDate>Sat, 18 Jul 2026 16:08:30 -0000</pubDate>
-    <description>A in-game mod manager that's suitable even for remote servers without terminal/FTP access.</description>
-  </item>
-  <item>
-    <title>NDL ExpandedGrowth (Mushroom Growth Module)</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthmushrooms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthmushrooms#5922</guid>
-    <pubDate>Sat, 18 Jul 2026 15:50:05 -0000</pubDate>
-    <description>Adds a method for growing mushrooms!</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Sat, 18 Jul 2026 15:18:58 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
   </item>
 </channel>
 </rss>
