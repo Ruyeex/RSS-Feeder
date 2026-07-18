@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 18 Jul 2026 17:56:51 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 19:14:29 +0000</lastBuildDate>
+  <item>
+    <title>Draconis</title>
+    <link>https://mods.vintagestory.at/show/mod/draconis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/draconis#4543</guid>
+    <pubDate>Sat, 18 Jul 2026 19:07:29 -0000</pubDate>
+    <description>This mod adds 4 rideable dragons that the player can hatch and raise from eggs found in the wild</description>
+  </item>
+  <item>
+    <title>Toolsmith &amp; Dolabra compatibilty</title>
+    <link>https://mods.vintagestory.at/show/mod/9058</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9058#9058</guid>
+    <pubDate>Sat, 18 Jul 2026 18:55:16 -0000</pubDate>
+    <description>simple patch for the dolabra mod so it can be used with toolsmith.</description>
+  </item>
+  <item>
+    <title>Dumbwaiter</title>
+    <link>https://mods.vintagestory.at/show/mod/9778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9778#9778</guid>
+    <pubDate>Sat, 18 Jul 2026 18:33:27 -0000</pubDate>
+    <description>A medieval-style lift for moving between vertically-separated floors and storage transport. </description>
+  </item>
   <item>
     <title>MealRecipeLagFix</title>
     <link>https://mods.vintagestory.at/show/mod/7486</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10343#10343</guid>
     <pubDate>Sat, 18 Jul 2026 11:49:02 -0000</pubDate>
     <description>Adds recipes for the metal blocks. 1 bit is 1 block for chiseling.</description>
-  </item>
-  <item>
-    <title>SheathsHandleTexture</title>
-    <link>https://mods.vintagestory.at/show/mod/10347</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10347#10347</guid>
-    <pubDate>Sat, 18 Jul 2026 11:45:46 -0000</pubDate>
-    <description>Fixes sheathed weapons defaulting to brown handle color</description>
-  </item>
-  <item>
-    <title>Stone Bake Oven</title>
-    <link>https://mods.vintagestory.at/show/mod/stonebakeoven</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stonebakeoven#1163</guid>
-    <pubDate>Sat, 18 Jul 2026 11:45:42 -0000</pubDate>
-    <description>You can create a Stone Bake Oven for all your large baking needs. Now with cooking pot spots!</description>
-  </item>
-  <item>
-    <title>lhgui</title>
-    <link>https://mods.vintagestory.at/show/mod/lhgui</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lhgui#4960</guid>
-    <pubDate>Sat, 18 Jul 2026 11:35:47 -0000</pubDate>
-    <description>GUI mod for lasthearth server</description>
   </item>
 </channel>
 </rss>
