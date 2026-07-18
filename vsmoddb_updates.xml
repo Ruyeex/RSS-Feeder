@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 18 Jul 2026 20:53:01 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 21:53:33 +0000</lastBuildDate>
+  <item>
+    <title>mecha seraph recolor pack</title>
+    <link>https://mods.vintagestory.at/show/mod/10359</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10359#10359</guid>
+    <pubDate>Sat, 18 Jul 2026 21:50:49 -0000</pubDate>
+    <description>adds a few little color changes for my server!</description>
+  </item>
+  <item>
+    <title>Vanilla armory</title>
+    <link>https://mods.vintagestory.at/show/mod/3927</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3927#3927</guid>
+    <pubDate>Sat, 18 Jul 2026 21:35:23 -0000</pubDate>
+    <description>Implements unused vanilla weapons and some armor in vanilla style</description>
+  </item>
+  <item>
+    <title>PNW Colors: Green Grass</title>
+    <link>https://mods.vintagestory.at/show/mod/10357</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10357#10357</guid>
+    <pubDate>Sat, 18 Jul 2026 21:19:28 -0000</pubDate>
+    <description>Same as my pnw colors mod except with no period of yellow/gold grass in the summer</description>
+  </item>
+  <item>
+    <title>GamepadCompanionVS</title>
+    <link>https://mods.vintagestory.at/show/mod/8669</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8669#8669</guid>
+    <pubDate>Sat, 18 Jul 2026 21:19:15 -0000</pubDate>
+    <description>Native gamepad support for Vintage Story 1.22+ — 12-slot radial menu, virtual cursor for GUI, etc. </description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Sat, 18 Jul 2026 21:14:30 -0000</pubDate>
+    <description>A director camera mod for video production workflows.（导演模式模组）</description>
+  </item>
+  <item>
+    <title>Pacific Northwest Seasons</title>
+    <link>https://mods.vintagestory.at/show/mod/9547</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9547#9547</guid>
+    <pubDate>Sat, 18 Jul 2026 21:13:46 -0000</pubDate>
+    <description>Greener vegetation year-round</description>
+  </item>
+  <item>
+    <title>MealRecipeLagFix</title>
+    <link>https://mods.vintagestory.at/show/mod/7486</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7486#7486</guid>
+    <pubDate>Sat, 18 Jul 2026 21:05:21 -0000</pubDate>
+    <description>Fixes handbook lag when browsing meal recipe pages.</description>
+  </item>
+  <item>
+    <title>Downed</title>
+    <link>https://mods.vintagestory.at/show/mod/downed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
+    <pubDate>Sat, 18 Jul 2026 20:57:28 -0000</pubDate>
+    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
+  </item>
   <item>
     <title>Animalica - Foxes, Wolves &amp; Hyenas</title>
     <link>https://mods.vintagestory.at/show/mod/animalicafwh</link>
@@ -83,13 +139,6 @@
     <description>A medieval-style lift for moving between vertically-separated floors and storage transport. </description>
   </item>
   <item>
-    <title>MealRecipeLagFix</title>
-    <link>https://mods.vintagestory.at/show/mod/7486</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7486#7486</guid>
-    <pubDate>Sat, 18 Jul 2026 17:40:58 -0000</pubDate>
-    <description>Fixes handbook lag when browsing meal recipe pages.</description>
-  </item>
-  <item>
     <title>Murlok Vintage Server Patch</title>
     <link>https://mods.vintagestory.at/show/mod/murlokvspatch</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/murlokvspatch#5307</guid>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
     <pubDate>Sat, 18 Jul 2026 15:18:58 -0000</pubDate>
     <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>TDR server immersive backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/tdrbackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tdrbackpacks#10350</guid>
-    <pubDate>Sat, 18 Jul 2026 15:06:52 -0000</pubDate>
-    <description>some changes to immersive backpacks for the tdr server</description>
-  </item>
-  <item>
-    <title>Leaf Litter</title>
-    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
-    <pubDate>Sat, 18 Jul 2026 15:03:24 -0000</pubDate>
-    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
-  </item>
-  <item>
-    <title>Launcher Mod Updater</title>
-    <link>https://mods.vintagestory.at/show/mod/launchermodupdater</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchermodupdater#10339</guid>
-    <pubDate>Sat, 18 Jul 2026 14:45:05 -0000</pubDate>
-    <description>When a world is loaded, it offers to download new updates for active mods.</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Sat, 18 Jul 2026 14:26:53 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
-    <title>AoS | Armor Female Seraphs Compatability</title>
-    <link>https://mods.vintagestory.at/show/mod/8914</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8914#8914</guid>
-    <pubDate>Sat, 18 Jul 2026 14:07:12 -0000</pubDate>
-    <description>Provides armor compatibility between female seraphs and various armor mods.</description>
-  </item>
-  <item>
-    <title>Oils! Resoaped Standalone</title>
-    <link>https://mods.vintagestory.at/show/mod/oilsresoapedsa</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oilsresoapedsa#10040</guid>
-    <pubDate>Sat, 18 Jul 2026 14:02:12 -0000</pubDate>
-    <description>A content mod that adds plant oils &amp; some alternative recipes, e.g. treating hides and quicklime. </description>
-  </item>
-  <item>
-    <title>Oils! Resoaped</title>
-    <link>https://mods.vintagestory.at/show/mod/oilsresoaped</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oilsresoaped#9991</guid>
-    <pubDate>Sat, 18 Jul 2026 14:01:43 -0000</pubDate>
-    <description>A content mod that adds plant oils &amp; some alternative recipes, e.g. treating hides and quicklime. </description>
   </item>
 </channel>
 </rss>
