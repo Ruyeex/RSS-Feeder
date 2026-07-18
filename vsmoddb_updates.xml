@@ -4,7 +4,112 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 18 Jul 2026 11:06:19 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 13:21:11 +0000</lastBuildDate>
+  <item>
+    <title>Launcher Mod Updater</title>
+    <link>https://mods.vintagestory.at/show/mod/launchermodupdater</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchermodupdater#10339</guid>
+    <pubDate>Sat, 18 Jul 2026 13:03:50 -0000</pubDate>
+    <description>When a world is loaded, it offers to download new updates for active mods.</description>
+  </item>
+  <item>
+    <title>Open Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/openclaims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/openclaims#10334</guid>
+    <pubDate>Sat, 18 Jul 2026 13:00:48 -0000</pubDate>
+    <description>GUI for claims and receive more blocks and areas to claim per hour</description>
+  </item>
+  <item>
+    <title>Still Useful Stuff</title>
+    <link>https://mods.vintagestory.at/show/mod/854</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/854#854</guid>
+    <pubDate>Sat, 18 Jul 2026 12:43:13 -0000</pubDate>
+    <description>Continuation of jakecool19's' Useful Stuff.</description>
+  </item>
+  <item>
+    <title>Emotes</title>
+    <link>https://mods.vintagestory.at/show/mod/emotes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/emotes#8235</guid>
+    <pubDate>Sat, 18 Jul 2026 12:31:18 -0000</pubDate>
+    <description>Adds more custom emotes to the game.</description>
+  </item>
+  <item>
+    <title>The Ultimate Mod Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/10348</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10348#10348</guid>
+    <pubDate>Sat, 18 Jul 2026 12:17:04 -0000</pubDate>
+    <description>A in-game mod manager that's suitable even for remote servers without terminal/FTP access.</description>
+  </item>
+  <item>
+    <title>Disable Random Idle Animations</title>
+    <link>https://mods.vintagestory.at/show/mod/5886</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5886#5886</guid>
+    <pubDate>Sat, 18 Jul 2026 12:00:06 -0000</pubDate>
+    <description>Stop your character from randomly ruining serious moments</description>
+  </item>
+  <item>
+    <title>Elk Variants</title>
+    <link>https://mods.vintagestory.at/show/mod/elkvariants</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkvariants#5967</guid>
+    <pubDate>Sat, 18 Jul 2026 11:56:31 -0000</pubDate>
+    <description>Adds more varieties of tamed elk</description>
+  </item>
+  <item>
+    <title>Cheap Metal Blocks</title>
+    <link>https://mods.vintagestory.at/show/mod/10343</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10343#10343</guid>
+    <pubDate>Sat, 18 Jul 2026 11:49:02 -0000</pubDate>
+    <description>Adds recipes for the metal blocks. 1 bit is 1 block for chiseling.</description>
+  </item>
+  <item>
+    <title>SheathsHandleTexture</title>
+    <link>https://mods.vintagestory.at/show/mod/10347</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10347#10347</guid>
+    <pubDate>Sat, 18 Jul 2026 11:45:46 -0000</pubDate>
+    <description>Fixes sheathed weapons defaulting to brown handle color</description>
+  </item>
+  <item>
+    <title>Stone Bake Oven</title>
+    <link>https://mods.vintagestory.at/show/mod/stonebakeoven</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stonebakeoven#1163</guid>
+    <pubDate>Sat, 18 Jul 2026 11:45:42 -0000</pubDate>
+    <description>You can create a Stone Bake Oven for all your large baking needs. Now with cooking pot spots!</description>
+  </item>
+  <item>
+    <title>lhgui</title>
+    <link>https://mods.vintagestory.at/show/mod/lhgui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lhgui#4960</guid>
+    <pubDate>Sat, 18 Jul 2026 11:35:47 -0000</pubDate>
+    <description>GUI mod for lasthearth server</description>
+  </item>
+  <item>
+    <title>Snow Melts In Water</title>
+    <link>https://mods.vintagestory.at/show/mod/10346</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10346#10346</guid>
+    <pubDate>Sat, 18 Jul 2026 11:31:40 -0000</pubDate>
+    <description>Makes snow that falls into water melt. Adds '/snowmeltradius' command to melt any that already sunk.</description>
+  </item>
+  <item>
+    <title>Battle Towers Wilderlands Rustbound Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/3651</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3651#3651</guid>
+    <pubDate>Sat, 18 Jul 2026 11:25:31 -0000</pubDate>
+    <description>Change entities that will spawn in battle towers to Rustbound entities</description>
+  </item>
+  <item>
+    <title>RTP - Random Teleport: Reborn</title>
+    <link>https://mods.vintagestory.at/show/mod/10288</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10288#10288</guid>
+    <pubDate>Sat, 18 Jul 2026 11:25:03 -0000</pubDate>
+    <description>Teleport to new place with your friends!</description>
+  </item>
+  <item>
+    <title>Battle Towers &amp; Translocator Engineering Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/2712</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/2712#2712</guid>
+    <pubDate>Sat, 18 Jul 2026 11:24:32 -0000</pubDate>
+    <description>Add Translocators and Linkers to the battle towers loot table</description>
+  </item>
   <item>
     <title>Sleeping Bag</title>
     <link>https://mods.vintagestory.at/show/mod/sleepingbagmod</link>
@@ -18,13 +123,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/boatspeedtweaks#9766</guid>
     <pubDate>Sat, 18 Jul 2026 09:55:11 -0000</pubDate>
     <description>Multiply Sailboats and Rafts speed by the configured factor, separately (default for both = 2.0)</description>
-  </item>
-  <item>
-    <title>Cheap Metal Blocks</title>
-    <link>https://mods.vintagestory.at/show/mod/10343</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10343#10343</guid>
-    <pubDate>Sat, 18 Jul 2026 09:50:08 -0000</pubDate>
-    <description>Adds recipes for the metal blocks. 1 bit is 1 block for chiseling.</description>
   </item>
   <item>
     <title>Age of Seraphs Specialized Classes</title>
@@ -97,13 +195,6 @@
     <description>Tweaks and modifications for the Vintage Story New Horizons server.</description>
   </item>
   <item>
-    <title>Launcher Mod Updater</title>
-    <link>https://mods.vintagestory.at/show/mod/launchermodupdater</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchermodupdater#10339</guid>
-    <pubDate>Sat, 18 Jul 2026 06:26:34 -0000</pubDate>
-    <description>When a world is loaded, it offers to download new updates for active mods.</description>
-  </item>
-  <item>
     <title>Akira's Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/akiratweaks</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/akiratweaks#10138</guid>
@@ -123,97 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
     <pubDate>Sat, 18 Jul 2026 04:03:32 -0000</pubDate>
     <description>Making flora living</description>
-  </item>
-  <item>
-    <title>Clay Press</title>
-    <link>https://mods.vintagestory.at/show/mod/claypress</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claypress#9456</guid>
-    <pubDate>Sat, 18 Jul 2026 04:01:00 -0000</pubDate>
-    <description>A simple patch to allow the pulverizer to "press" clay into tiles &amp; shingles (no more clayforming)!</description>
-  </item>
-  <item>
-    <title>ReModel</title>
-    <link>https://mods.vintagestory.at/show/mod/remodel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/remodel#10337</guid>
-    <pubDate>Sat, 18 Jul 2026 03:55:53 -0000</pubDate>
-    <description>Allows running .charsel to only swap the player model without changing class</description>
-  </item>
-  <item>
-    <title>CB Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Sat, 18 Jul 2026 03:07:54 -0000</pubDate>
-    <description>JSON content patches for my small personal server</description>
-  </item>
-  <item>
-    <title>Resonator Overhaul </title>
-    <link>https://mods.vintagestory.at/show/mod/10009</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10009#10009</guid>
-    <pubDate>Sat, 18 Jul 2026 02:51:26 -0000</pubDate>
-    <description>Per-resonator volume, falloff and looping — saved to the world and audible with Music off.</description>
-  </item>
-  <item>
-    <title>Apotheosis Tweak - Fantasy Creature Balance</title>
-    <link>https://mods.vintagestory.at/show/mod/apofantasycreaturetweak</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/apofantasycreaturetweak#10156</guid>
-    <pubDate>Sat, 18 Jul 2026 02:33:54 -0000</pubDate>
-    <description>Balance tweaks to Fantasy Creatures Reborn</description>
-  </item>
-  <item>
-    <title>Battle Towers No Tools No Armors Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10336</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10336#10336</guid>
-    <pubDate>Sat, 18 Jul 2026 02:16:09 -0000</pubDate>
-    <description>Remove all tools, weapons and armors from loot tables in underground and surface towers.</description>
-  </item>
-  <item>
-    <title>Battle Towers No Armors Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10335</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10335#10335</guid>
-    <pubDate>Sat, 18 Jul 2026 02:13:40 -0000</pubDate>
-    <description>Remove all armors from loot tables in underground and surface towers</description>
-  </item>
-  <item>
-    <title>Battle Towers No Tools Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/2724</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/2724#2724</guid>
-    <pubDate>Sat, 18 Jul 2026 02:09:46 -0000</pubDate>
-    <description>Remove all tools from battle towers loot table</description>
-  </item>
-  <item>
-    <title>Battle Towers</title>
-    <link>https://mods.vintagestory.at/show/mod/battletowers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/battletowers#2262</guid>
-    <pubDate>Sat, 18 Jul 2026 02:08:41 -0000</pubDate>
-    <description>Add Towers with dangerous creatures to fight and explore in your world</description>
-  </item>
-  <item>
-    <title>TinkerTailor - Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/9773</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9773#9773</guid>
-    <pubDate>Sat, 18 Jul 2026 02:04:04 -0000</pubDate>
-    <description>More backpacks &amp; pouches for the veteran seraph. Made with love &amp; pain, No AI.</description>
-  </item>
-  <item>
-    <title>Quartermaster</title>
-    <link>https://mods.vintagestory.at/show/mod/9908</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9908#9908</guid>
-    <pubDate>Sat, 18 Jul 2026 01:47:57 -0000</pubDate>
-    <description>Run your whole base from one desk.</description>
-  </item>
-  <item>
-    <title>Spawners API</title>
-    <link>https://mods.vintagestory.at/show/mod/spawnersapi</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spawnersapi#2255</guid>
-    <pubDate>Sat, 18 Jul 2026 01:45:32 -0000</pubDate>
-    <description>Add custom spawners</description>
-  </item>
-  <item>
-    <title>Elk Adornments</title>
-    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
-    <pubDate>Sat, 18 Jul 2026 01:09:55 -0000</pubDate>
-    <description>Masks for you and your elk with Modular Elk Armor!</description>
   </item>
 </channel>
 </rss>
