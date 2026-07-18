@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 18 Jul 2026 14:56:14 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 16:01:36 +0000</lastBuildDate>
+  <item>
+    <title>NDL ExpandedGrowth (Mushroom Growth Module)</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthmushrooms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthmushrooms#5922</guid>
+    <pubDate>Sat, 18 Jul 2026 15:50:05 -0000</pubDate>
+    <description>Adds a method for growing mushrooms!</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Sat, 18 Jul 2026 15:18:58 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>TDR server immersive backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/tdrbackpacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tdrbackpacks#10350</guid>
+    <pubDate>Sat, 18 Jul 2026 15:06:52 -0000</pubDate>
+    <description>some changes to immersive backpacks for the tdr server</description>
+  </item>
+  <item>
+    <title>Leaf Litter</title>
+    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
+    <pubDate>Sat, 18 Jul 2026 15:03:24 -0000</pubDate>
+    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
+  </item>
   <item>
     <title>Launcher Mod Updater</title>
     <link>https://mods.vintagestory.at/show/mod/launchermodupdater</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/healingmalk#10341</guid>
     <pubDate>Sat, 18 Jul 2026 09:00:11 -0000</pubDate>
     <description>milk know heals you for 1 hp ૮꒰ ˶• ༝ •˶꒱ა</description>
-  </item>
-  <item>
-    <title>Seraph Atelier - Player Model Lib</title>
-    <link>https://mods.vintagestory.at/show/mod/seraphatelier</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphatelier#10276</guid>
-    <pubDate>Sat, 18 Jul 2026 08:34:20 -0000</pubDate>
-    <description>Look cute while you do pottery, starve, and get hunted by horrors beyond comprehension!</description>
-  </item>
-  <item>
-    <title>Kaschperle Class Mix </title>
-    <link>https://mods.vintagestory.at/show/mod/8517</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8517#8517</guid>
-    <pubDate>Sat, 18 Jul 2026 08:04:19 -0000</pubDate>
-    <description>A revision mix from the popular class mod Aldi classes and Agi's Classes</description>
-  </item>
-  <item>
-    <title>MoreInventorys</title>
-    <link>https://mods.vintagestory.at/show/mod/moreinventorys</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreinventorys#10306</guid>
-    <pubDate>Sat, 18 Jul 2026 07:53:28 -0000</pubDate>
-    <description>The mod adds new inventories for convenient and immersive storage: Shelves, crates, racks for weapon</description>
-  </item>
-  <item>
-    <title>Equus: Mustang Colors</title>
-    <link>https://mods.vintagestory.at/show/mod/10324</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10324#10324</guid>
-    <pubDate>Sat, 18 Jul 2026 07:50:24 -0000</pubDate>
-    <description>Makes equus ferus horses look more like mustangs</description>
   </item>
 </channel>
 </rss>
