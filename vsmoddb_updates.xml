@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 18 Jul 2026 22:53:09 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 23:56:25 +0000</lastBuildDate>
+  <item>
+    <title>The Ultimate Mod Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/10348</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10348#10348</guid>
+    <pubDate>Sat, 18 Jul 2026 23:43:45 -0000</pubDate>
+    <description>A in-game mod manager that's suitable even for remote servers without terminal/FTP access.</description>
+  </item>
   <item>
     <title>Server Essentials</title>
     <link>https://mods.vintagestory.at/show/mod/serveressentials</link>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/renderermangler#10114</guid>
     <pubDate>Sat, 18 Jul 2026 16:36:15 -0000</pubDate>
     <description>Custom cubemap renderer with different projections that allows up to 360 FOV</description>
-  </item>
-  <item>
-    <title>Gatbata's Sawians</title>
-    <link>https://mods.vintagestory.at/show/mod/customplayermodelsaw</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customplayermodelsaw#10351</guid>
-    <pubDate>Sat, 18 Jul 2026 16:36:04 -0000</pubDate>
-    <description>Adds some of the Sawians from Gunsaw and Casualties: Unknown (expies and the like)</description>
   </item>
 </channel>
 </rss>
