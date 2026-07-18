@@ -4,13 +4,55 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 18 Jul 2026 13:21:11 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 14:56:14 +0000</lastBuildDate>
   <item>
     <title>Launcher Mod Updater</title>
     <link>https://mods.vintagestory.at/show/mod/launchermodupdater</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchermodupdater#10339</guid>
-    <pubDate>Sat, 18 Jul 2026 13:03:50 -0000</pubDate>
+    <pubDate>Sat, 18 Jul 2026 14:45:05 -0000</pubDate>
     <description>When a world is loaded, it offers to download new updates for active mods.</description>
+  </item>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Sat, 18 Jul 2026 14:26:53 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>AoS | Armor Female Seraphs Compatability</title>
+    <link>https://mods.vintagestory.at/show/mod/8914</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8914#8914</guid>
+    <pubDate>Sat, 18 Jul 2026 14:07:12 -0000</pubDate>
+    <description>Provides armor compatibility between female seraphs and various armor mods.</description>
+  </item>
+  <item>
+    <title>Oils! Resoaped Standalone</title>
+    <link>https://mods.vintagestory.at/show/mod/oilsresoapedsa</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oilsresoapedsa#10040</guid>
+    <pubDate>Sat, 18 Jul 2026 14:02:12 -0000</pubDate>
+    <description>A content mod that adds plant oils &amp; some alternative recipes, e.g. treating hides and quicklime. </description>
+  </item>
+  <item>
+    <title>Oils! Resoaped</title>
+    <link>https://mods.vintagestory.at/show/mod/oilsresoaped</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oilsresoaped#9991</guid>
+    <pubDate>Sat, 18 Jul 2026 14:01:43 -0000</pubDate>
+    <description>A content mod that adds plant oils &amp; some alternative recipes, e.g. treating hides and quicklime. </description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Sat, 18 Jul 2026 13:52:19 -0000</pubDate>
+    <description>A director camera mod for video production workflows.（导演模式模组）</description>
+  </item>
+  <item>
+    <title>C&amp;N Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/simplealchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplealchemy#733</guid>
+    <pubDate>Sat, 18 Jul 2026 13:37:50 -0000</pubDate>
+    <description>Adds potion brewing</description>
   </item>
   <item>
     <title>Open Claims</title>
@@ -146,13 +188,6 @@
     <description>milk know heals you for 1 hp ૮꒰ ˶• ༝ •˶꒱ა</description>
   </item>
   <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Sat, 18 Jul 2026 08:55:14 -0000</pubDate>
-    <description>A director camera mod for video production workflows.（导演模式模组）</description>
-  </item>
-  <item>
     <title>Seraph Atelier - Player Model Lib</title>
     <link>https://mods.vintagestory.at/show/mod/seraphatelier</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphatelier#10276</guid>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10324#10324</guid>
     <pubDate>Sat, 18 Jul 2026 07:50:24 -0000</pubDate>
     <description>Makes equus ferus horses look more like mustangs</description>
-  </item>
-  <item>
-    <title>Jelly Bundle</title>
-    <link>https://mods.vintagestory.at/show/mod/10059</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10059#10059</guid>
-    <pubDate>Sat, 18 Jul 2026 07:42:34 -0000</pubDate>
-    <description>A compilation of tweaks for the Swamp Jelly server.</description>
-  </item>
-  <item>
-    <title>VSNH Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/vsnhtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsnhtweaks#8336</guid>
-    <pubDate>Sat, 18 Jul 2026 06:35:09 -0000</pubDate>
-    <description>Tweaks and modifications for the Vintage Story New Horizons server.</description>
-  </item>
-  <item>
-    <title>Akira's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/akiratweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/akiratweaks#10138</guid>
-    <pubDate>Sat, 18 Jul 2026 05:59:03 -0000</pubDate>
-    <description>Collection of patches for a personal server.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sat, 18 Jul 2026 04:45:40 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Sat, 18 Jul 2026 04:03:32 -0000</pubDate>
-    <description>Making flora living</description>
   </item>
 </channel>
 </rss>
