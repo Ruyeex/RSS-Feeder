@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 18 Jul 2026 02:42:24 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 05:29:32 +0000</lastBuildDate>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Sat, 18 Jul 2026 04:45:40 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Sat, 18 Jul 2026 04:03:32 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>Clay Press</title>
+    <link>https://mods.vintagestory.at/show/mod/claypress</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claypress#9456</guid>
+    <pubDate>Sat, 18 Jul 2026 04:01:00 -0000</pubDate>
+    <description>A simple patch to allow the pulverizer to "press" clay into tiles &amp; shingles (no more clayforming)!</description>
+  </item>
+  <item>
+    <title>ReModel</title>
+    <link>https://mods.vintagestory.at/show/mod/remodel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/remodel#10337</guid>
+    <pubDate>Sat, 18 Jul 2026 03:55:53 -0000</pubDate>
+    <description>Allows running .charsel to only swap the player model without changing class</description>
+  </item>
+  <item>
+    <title>CB Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
+    <pubDate>Sat, 18 Jul 2026 03:07:54 -0000</pubDate>
+    <description>JSON content patches for my small personal server</description>
+  </item>
+  <item>
+    <title>Resonator Overhaul </title>
+    <link>https://mods.vintagestory.at/show/mod/10009</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10009#10009</guid>
+    <pubDate>Sat, 18 Jul 2026 02:51:26 -0000</pubDate>
+    <description>Per-resonator volume, falloff and looping — saved to the world and audible with Music off.</description>
+  </item>
+  <item>
+    <title>Greyhaven Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/greyhavencompanions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/greyhavencompanions#10338</guid>
+    <pubDate>Sat, 18 Jul 2026 02:46:56 -0000</pubDate>
+    <description>A companion mod built for the Greyhaven SMP, part of the Mossfall Network.</description>
+  </item>
   <item>
     <title>Apotheosis Tweak - Fantasy Creature Balance</title>
     <link>https://mods.vintagestory.at/show/mod/apofantasycreaturetweak</link>
@@ -160,60 +209,11 @@
     <description>A race of cat people based on kahjit</description>
   </item>
   <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Fri, 17 Jul 2026 21:07:36 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
     <title>Boat Autopilot</title>
     <link>https://mods.vintagestory.at/show/mod/10304</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10304#10304</guid>
     <pubDate>Fri, 17 Jul 2026 20:41:59 -0000</pubDate>
     <description>Long boat trips in Vintage Story are beautiful… the first three times.</description>
-  </item>
-  <item>
-    <title>Dar's Commands</title>
-    <link>https://mods.vintagestory.at/show/mod/darscommands</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darscommands#7005</guid>
-    <pubDate>Fri, 17 Jul 2026 20:15:43 -0000</pubDate>
-    <description>Some fun admin commands.</description>
-  </item>
-  <item>
-    <title>Collodion -- Classic Photography</title>
-    <link>https://mods.vintagestory.at/show/mod/collodion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/collodion#6881</guid>
-    <pubDate>Fri, 17 Jul 2026 20:15:33 -0000</pubDate>
-    <description>Save scenes from your world onto wet plates and develop them into photos to decorate your home with!</description>
-  </item>
-  <item>
-    <title>Kobold Player Model Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/koboldrdx</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/koboldrdx#4814</guid>
-    <pubDate>Fri, 17 Jul 2026 19:46:02 -0000</pubDate>
-    <description>A complete 1.21+ remake of Soi's Kobold player model, for PlayerModelLib by Maltiez!</description>
-  </item>
-  <item>
-    <title>Dense Ground Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
-    <pubDate>Fri, 17 Jul 2026 19:45:51 -0000</pubDate>
-    <description>Place down more items per block and on chiseled blocks</description>
-  </item>
-  <item>
-    <title>Extreme Weathers [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/10098</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
-    <pubDate>Fri, 17 Jul 2026 19:39:49 -0000</pubDate>
-    <description>Introduces new extreme weather events. Blizzards, sandstorms, tornadoes, hurricanes and more!</description>
-  </item>
-  <item>
-    <title>Atlas</title>
-    <link>https://mods.vintagestory.at/show/mod/atlas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
-    <pubDate>Fri, 17 Jul 2026 19:09:23 -0000</pubDate>
-    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
   </item>
 </channel>
 </rss>
