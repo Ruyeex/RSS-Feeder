@@ -4,13 +4,90 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 17 Jul 2026 23:54:55 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 02:42:24 +0000</lastBuildDate>
+  <item>
+    <title>Apotheosis Tweak - Fantasy Creature Balance</title>
+    <link>https://mods.vintagestory.at/show/mod/apofantasycreaturetweak</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/apofantasycreaturetweak#10156</guid>
+    <pubDate>Sat, 18 Jul 2026 02:33:54 -0000</pubDate>
+    <description>Balance tweaks to Fantasy Creatures Reborn</description>
+  </item>
+  <item>
+    <title>Battle Towers No Tools No Armors Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10336</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10336#10336</guid>
+    <pubDate>Sat, 18 Jul 2026 02:16:09 -0000</pubDate>
+    <description>Remove all tools, weapons and armors from loot tables in underground and surface towers.</description>
+  </item>
+  <item>
+    <title>Battle Towers No Armors Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10335</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10335#10335</guid>
+    <pubDate>Sat, 18 Jul 2026 02:13:40 -0000</pubDate>
+    <description>Remove all armors from loot tables in underground and surface towers</description>
+  </item>
+  <item>
+    <title>Battle Towers No Tools Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/2724</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/2724#2724</guid>
+    <pubDate>Sat, 18 Jul 2026 02:09:46 -0000</pubDate>
+    <description>Remove all tools from battle towers loot table</description>
+  </item>
+  <item>
+    <title>Battle Towers</title>
+    <link>https://mods.vintagestory.at/show/mod/battletowers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/battletowers#2262</guid>
+    <pubDate>Sat, 18 Jul 2026 02:08:41 -0000</pubDate>
+    <description>Add Towers with dangerous creatures to fight and explore in your world</description>
+  </item>
+  <item>
+    <title>TinkerTailor - Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/9773</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9773#9773</guid>
+    <pubDate>Sat, 18 Jul 2026 02:04:04 -0000</pubDate>
+    <description>More backpacks &amp; pouches for the veteran seraph. Made with love &amp; pain, No AI.</description>
+  </item>
+  <item>
+    <title>Quartermaster</title>
+    <link>https://mods.vintagestory.at/show/mod/9908</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9908#9908</guid>
+    <pubDate>Sat, 18 Jul 2026 01:47:57 -0000</pubDate>
+    <description>Run your whole base from one desk.</description>
+  </item>
+  <item>
+    <title>Spawners API</title>
+    <link>https://mods.vintagestory.at/show/mod/spawnersapi</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spawnersapi#2255</guid>
+    <pubDate>Sat, 18 Jul 2026 01:45:32 -0000</pubDate>
+    <description>Add custom spawners</description>
+  </item>
+  <item>
+    <title>Elk Adornments</title>
+    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
+    <pubDate>Sat, 18 Jul 2026 01:09:55 -0000</pubDate>
+    <description>Masks for you and your elk with Modular Elk Armor!</description>
+  </item>
   <item>
     <title>Talonborne</title>
     <link>https://mods.vintagestory.at/show/mod/10323</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10323#10323</guid>
-    <pubDate>Fri, 17 Jul 2026 23:31:56 -0000</pubDate>
+    <pubDate>Sat, 18 Jul 2026 00:38:45 -0000</pubDate>
     <description>Rideable Flying Hippogryphs — Hatch wild nest eggs and raise your own sky mount.</description>
+  </item>
+  <item>
+    <title>Empty Village</title>
+    <link>https://mods.vintagestory.at/show/mod/10064</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10064#10064</guid>
+    <pubDate>Sat, 18 Jul 2026 00:32:57 -0000</pubDate>
+    <description>Adds empty villages to world generation</description>
+  </item>
+  <item>
+    <title>octatonic</title>
+    <link>https://mods.vintagestory.at/show/mod/octatonic</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/octatonic#3472</guid>
+    <pubDate>Sat, 18 Jul 2026 00:31:23 -0000</pubDate>
+    <description>Mod manager via command line interface</description>
   </item>
   <item>
     <title>Boric Alchemy</title>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
     <pubDate>Fri, 17 Jul 2026 19:09:23 -0000</pubDate>
     <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
-  </item>
-  <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Fri, 17 Jul 2026 19:09:12 -0000</pubDate>
-    <description>A director camera mod for video production workflows.（导演模式模组）</description>
-  </item>
-  <item>
-    <title>Still Greenhouses</title>
-    <link>https://mods.vintagestory.at/show/mod/10044</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10044#10044</guid>
-    <pubDate>Fri, 17 Jul 2026 18:58:36 -0000</pubDate>
-    <description>Stops wind sway for greenhouse vegetation.</description>
-  </item>
-  <item>
-    <title>Alegacy Quest Framework</title>
-    <link>https://mods.vintagestory.at/show/mod/6609</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6609#6609</guid>
-    <pubDate>Fri, 17 Jul 2026 18:46:00 -0000</pubDate>
-    <description>Alegacy Quest Framework is a full-featured quest and boss combat engine for Vintage Story.</description>
-  </item>
-  <item>
-    <title>MagicServerTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/magicservertweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/magicservertweaks#9791</guid>
-    <pubDate>Fri, 17 Jul 2026 18:41:26 -0000</pubDate>
-    <description>Tweaks for my magic server</description>
-  </item>
-  <item>
-    <title>The Silver Lining</title>
-    <link>https://mods.vintagestory.at/show/mod/silverlining</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/silverlining#9618</guid>
-    <pubDate>Fri, 17 Jul 2026 18:35:57 -0000</pubDate>
-    <description>This mod aims to bring elegant and fancy feminine clothing to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Eriadorian Armory</title>
-    <link>https://mods.vintagestory.at/show/mod/eriadorianarmory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eriadorianarmory#9322</guid>
-    <pubDate>Fri, 17 Jul 2026 18:22:30 -0000</pubDate>
-    <description>A collection of custom weapons and armors for the Kingdom of Eriador Vintagestory server.</description>
-  </item>
-  <item>
-    <title>Akira's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/akiratweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/akiratweaks#10138</guid>
-    <pubDate>Fri, 17 Jul 2026 18:13:21 -0000</pubDate>
-    <description>Collection of patches for a personal server.</description>
-  </item>
-  <item>
-    <title>Alegacy Quest 2</title>
-    <link>https://mods.vintagestory.at/show/mod/6694</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6694#6694</guid>
-    <pubDate>Fri, 17 Jul 2026 18:10:28 -0000</pubDate>
-    <description>Quests made for alegacy server</description>
-  </item>
-  <item>
-    <title>Chronicles of Eriador</title>
-    <link>https://mods.vintagestory.at/show/mod/eriadorchronicles</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eriadorchronicles#9320</guid>
-    <pubDate>Fri, 17 Jul 2026 18:07:20 -0000</pubDate>
-    <description>A collection of custom items, recipes, and other patches for the Kingdom of Eriador VS server.</description>
-  </item>
-  <item>
-    <title>Edible Among Us Crewmate</title>
-    <link>https://mods.vintagestory.at/show/mod/amogusfood</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/amogusfood#1387</guid>
-    <pubDate>Fri, 17 Jul 2026 17:49:48 -0000</pubDate>
-    <description>Adds an edible among us crewmate.</description>
-  </item>
-  <item>
-    <title>GruntLauncher</title>
-    <link>https://mods.vintagestory.at/show/mod/gruntlauncher</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gruntlauncher#10328</guid>
-    <pubDate>Fri, 17 Jul 2026 17:48:44 -0000</pubDate>
-    <description>Cross-platform launcher for managing multiple Vintage Story instances, versions, and mods. </description>
   </item>
 </channel>
 </rss>
