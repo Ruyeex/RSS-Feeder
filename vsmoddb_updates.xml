@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 19 Jul 2026 13:22:27 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 19 Jul 2026 14:58:46 +0000</lastBuildDate>
+  <item>
+    <title>Vintage Rift - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
+    <pubDate>Sun, 19 Jul 2026 14:22:49 -0000</pubDate>
+    <description>Client only code for the Vintage Rift server</description>
+  </item>
+  <item>
+    <title>Dragonia Server Mod Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/dragoniapatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dragoniapatch#5896</guid>
+    <pubDate>Sun, 19 Jul 2026 14:16:11 -0000</pubDate>
+    <description>Меняет генерацию железа и добавляет новый крафт льняного шпагата</description>
+  </item>
+  <item>
+    <title>No Indoor Fog Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/noindoorfog</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noindoorfog#6064</guid>
+    <pubDate>Sun, 19 Jul 2026 14:07:38 -0000</pubDate>
+    <description>Get rid of fog in your home! Increases fog distance from your camera when you are "indoors"</description>
+  </item>
+  <item>
+    <title>Entity Nametags</title>
+    <link>https://mods.vintagestory.at/show/mod/entitynametags</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/entitynametags#4042</guid>
+    <pubDate>Sun, 19 Jul 2026 14:00:08 -0000</pubDate>
+    <description>Adds a nametag item that can be used to name entities (elks, boats, etc.). + boat ownership</description>
+  </item>
+  <item>
+    <title>Server Debugger</title>
+    <link>https://mods.vintagestory.at/show/mod/10354</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10354#10354</guid>
+    <pubDate>Sun, 19 Jul 2026 13:54:11 -0000</pubDate>
+    <description>Server-side diagnostics for main thread stalls, GC pauses, and managed memory leaks.</description>
+  </item>
+  <item>
+    <title>Elk Adornments</title>
+    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
+    <pubDate>Sun, 19 Jul 2026 13:50:28 -0000</pubDate>
+    <description>Masks for you and your elk with Modular Elk Armor!</description>
+  </item>
   <item>
     <title>Room HUD</title>
     <link>https://mods.vintagestory.at/show/mod/roomhud</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
     <pubDate>Sun, 19 Jul 2026 06:40:31 -0000</pubDate>
     <description>JSON content patches for my small personal server</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sun, 19 Jul 2026 06:12:56 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Elk Adornments</title>
-    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
-    <pubDate>Sun, 19 Jul 2026 05:53:55 -0000</pubDate>
-    <description>Masks for you and your elk with Modular Elk Armor!</description>
-  </item>
-  <item>
-    <title>Frontiers Lootboxes</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierslootboxes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierslootboxes#10369</guid>
-    <pubDate>Sun, 19 Jul 2026 05:00:39 -0000</pubDate>
-    <description>The weighted reward-roll item class other Frontier mods build on.</description>
-  </item>
-  <item>
-    <title>Frontiers RPG</title>
-    <link>https://mods.vintagestory.at/show/mod/10367</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10367#10367</guid>
-    <pubDate>Sun, 19 Jul 2026 05:00:20 -0000</pubDate>
-    <description>An ARPG system for Vintage Story</description>
-  </item>
-  <item>
-    <title>Frontiers Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/frontiersclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontiersclasses#10366</guid>
-    <pubDate>Sun, 19 Jul 2026 04:59:56 -0000</pubDate>
-    <description>Character class and progression system. </description>
-  </item>
-  <item>
-    <title>Tethys Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tethysservertweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tethysservertweaks#6101</guid>
-    <pubDate>Sun, 19 Jul 2026 04:58:59 -0000</pubDate>
-    <description>Tweaks for a personal private server.</description>
   </item>
 </channel>
 </rss>
