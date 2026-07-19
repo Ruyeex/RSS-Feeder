@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 19 Jul 2026 09:05:51 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 19 Jul 2026 11:10:12 +0000</lastBuildDate>
+  <item>
+    <title>Dishware</title>
+    <link>https://mods.vintagestory.at/show/mod/10372</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10372#10372</guid>
+    <pubDate>Sun, 19 Jul 2026 10:46:39 -0000</pubDate>
+    <description>Adds ceramic dishes such as plates and cups.</description>
+  </item>
+  <item>
+    <title>Extreme Weathers [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/10098</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
+    <pubDate>Sun, 19 Jul 2026 10:35:48 -0000</pubDate>
+    <description>Introduces new extreme weather events. Blizzards, sandstorms, tornadoes, hurricanes and more!</description>
+  </item>
+  <item>
+    <title>Spaturno and Trini's Secure Shelter</title>
+    <link>https://mods.vintagestory.at/show/mod/9692</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9692#9692</guid>
+    <pubDate>Sun, 19 Jul 2026 10:23:53 -0000</pubDate>
+    <description>Shared extradimensional cottage inspired from D&amp;D spell Leomund's Secure Shelter.</description>
+  </item>
+  <item>
+    <title>TinkerTailor - Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/9773</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9773#9773</guid>
+    <pubDate>Sun, 19 Jul 2026 10:04:06 -0000</pubDate>
+    <description>More backpacks &amp; pouches for the veteran seraph. Made with love &amp; pain, No AI.</description>
+  </item>
+  <item>
+    <title>Just Poop It</title>
+    <link>https://mods.vintagestory.at/show/mod/9846</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9846#9846</guid>
+    <pubDate>Sun, 19 Jul 2026 09:50:11 -0000</pubDate>
+    <description>Everything poops... now your character does too.</description>
+  </item>
+  <item>
+    <title>Discord Pigeon To Ingame</title>
+    <link>https://mods.vintagestory.at/show/mod/9042</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9042#9042</guid>
+    <pubDate>Sun, 19 Jul 2026 09:37:05 -0000</pubDate>
+    <description>Deliver Discord messages as signed parchments to players' inventories</description>
+  </item>
   <item>
     <title>Downed</title>
     <link>https://mods.vintagestory.at/show/mod/downed</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
     <pubDate>Sun, 19 Jul 2026 02:24:41 -0000</pubDate>
     <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
-    <title>Launcher Mod Updater</title>
-    <link>https://mods.vintagestory.at/show/mod/launchermodupdater</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchermodupdater#10339</guid>
-    <pubDate>Sun, 19 Jul 2026 02:21:24 -0000</pubDate>
-    <description>When a world is loaded, it offers to download new updates for active mods.</description>
-  </item>
-  <item>
-    <title>LoP Dino Core</title>
-    <link>https://mods.vintagestory.at/show/mod/10327</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10327#10327</guid>
-    <pubDate>Sun, 19 Jul 2026 02:18:40 -0000</pubDate>
-    <description>Shared spawning, compatibility, deep-ocean spawning, and foliage-clearing services for the dino. WIP</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Tyrant King — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10168</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10168#10168</guid>
-    <pubDate>Sun, 19 Jul 2026 02:15:15 -0000</pubDate>
-    <description>Adds severals tyrannosaurids to Vintage Story. Unofficial compatibility port for 1.22.3</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Shovel Mouth — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10169</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10169#10169</guid>
-    <pubDate>Sun, 19 Jul 2026 02:14:55 -0000</pubDate>
-    <description>Adds the family of hadrosauroids dinosaurs to Vintage Story. Unofficial compatibility port for Vinta</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Sharp Tooth — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10170</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10170#10170</guid>
-    <pubDate>Sun, 19 Jul 2026 02:14:41 -0000</pubDate>
-    <description>Adds severals carcharodontosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Scythe Claws — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10172</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10172#10172</guid>
-    <pubDate>Sun, 19 Jul 2026 02:14:18 -0000</pubDate>
-    <description>Adds the family of therizinosaurids dinosaurs to Vintage Story.</description>
   </item>
 </channel>
 </rss>
