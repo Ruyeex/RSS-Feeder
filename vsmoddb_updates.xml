@@ -4,20 +4,69 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 19 Jul 2026 16:03:32 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 19 Jul 2026 17:59:16 +0000</lastBuildDate>
+  <item>
+    <title>Still Useful Stuff</title>
+    <link>https://mods.vintagestory.at/show/mod/854</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/854#854</guid>
+    <pubDate>Sun, 19 Jul 2026 17:52:12 -0000</pubDate>
+    <description>Continuation of jakecool19's' Useful Stuff.</description>
+  </item>
+  <item>
+    <title>Sounds of Nature</title>
+    <link>https://mods.vintagestory.at/show/mod/8818</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8818#8818</guid>
+    <pubDate>Sun, 19 Jul 2026 17:50:48 -0000</pubDate>
+    <description>Brings the world to life with realistic ambient wildlife audio that reacts to where you are.</description>
+  </item>
+  <item>
+    <title>MC Water Propegation</title>
+    <link>https://mods.vintagestory.at/show/mod/mcwaterpropegation</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mcwaterpropegation#10379</guid>
+    <pubDate>Sun, 19 Jul 2026 17:50:28 -0000</pubDate>
+    <description>Makes it so that water propegates with only 2 source blocks (like in minecraft)</description>
+  </item>
+  <item>
+    <title>Custom Server Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10378</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
+    <pubDate>Sun, 19 Jul 2026 17:46:11 -0000</pubDate>
+    <description>A collection of tweaks for our private server.</description>
+  </item>
+  <item>
+    <title>tweaks for pell's server</title>
+    <link>https://mods.vintagestory.at/show/mod/8542</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8542#8542</guid>
+    <pubDate>Sun, 19 Jul 2026 17:02:36 -0000</pubDate>
+    <description>tweaks for pell's server</description>
+  </item>
+  <item>
+    <title>MoreInventorys</title>
+    <link>https://mods.vintagestory.at/show/mod/moreinventorys</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreinventorys#10306</guid>
+    <pubDate>Sun, 19 Jul 2026 16:08:56 -0000</pubDate>
+    <description>The mod adds new inventories for convenient and immersive storage: Shelves, crates, racks for weapon</description>
+  </item>
+  <item>
+    <title>Prospector's Instinct</title>
+    <link>https://mods.vintagestory.at/show/mod/prospectorsinstinct</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/prospectorsinstinct#10192</guid>
+    <pubDate>Sun, 19 Jul 2026 16:05:28 -0000</pubDate>
+    <description>Subtle particle guidance that helps locate nearby ore while preserving the spirit of prospecting.</description>
+  </item>
+  <item>
+    <title>WOO Fantasy Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
+    <pubDate>Sun, 19 Jul 2026 16:04:22 -0000</pubDate>
+    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
+  </item>
   <item>
     <title>Level UP</title>
     <link>https://mods.vintagestory.at/show/mod/levelup</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/levelup#2089</guid>
     <pubDate>Sun, 19 Jul 2026 16:00:47 -0000</pubDate>
     <description>Add new levels systems to your character</description>
-  </item>
-  <item>
-    <title>tweaks for pell's server</title>
-    <link>https://mods.vintagestory.at/show/mod/8542</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8542#8542</guid>
-    <pubDate>Sun, 19 Jul 2026 15:49:16 -0000</pubDate>
-    <description>tweaks for pell's server</description>
   </item>
   <item>
     <title>Bookkeeper</title>
@@ -39,13 +88,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9908#9908</guid>
     <pubDate>Sun, 19 Jul 2026 15:41:27 -0000</pubDate>
     <description>Run your whole base from one desk.</description>
-  </item>
-  <item>
-    <title>Sounds of Nature</title>
-    <link>https://mods.vintagestory.at/show/mod/8818</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8818#8818</guid>
-    <pubDate>Sun, 19 Jul 2026 15:39:23 -0000</pubDate>
-    <description>Brings the world to life with realistic ambient wildlife audio that reacts to where you are.</description>
   </item>
   <item>
     <title>Leaf Litter</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10348#10348</guid>
     <pubDate>Sun, 19 Jul 2026 12:23:11 -0000</pubDate>
     <description>An in-game mod manager that's suitable even for remote servers without terminal/FTP access.</description>
-  </item>
-  <item>
-    <title>Metal Recycling</title>
-    <link>https://mods.vintagestory.at/show/mod/metalrecycling</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalrecycling#2254</guid>
-    <pubDate>Sun, 19 Jul 2026 12:22:54 -0000</pubDate>
-    <description>Gain the ability to recycle those bits of metal you split off work items.</description>
-  </item>
-  <item>
-    <title>Axle in blocks</title>
-    <link>https://mods.vintagestory.at/show/mod/axleinblocks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/axleinblocks#441</guid>
-    <pubDate>Sun, 19 Jul 2026 11:32:38 -0000</pubDate>
-    <description>Allows hide axles, gears and transmission inside bricks, dry stone and wooden planks.</description>
-  </item>
-  <item>
-    <title>InventoryWheelFix</title>
-    <link>https://mods.vintagestory.at/show/mod/inventorywheelfix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/inventorywheelfix#10373</guid>
-    <pubDate>Sun, 19 Jul 2026 11:21:43 -0000</pubDate>
-    <description>Fixes the mouse wheel behavior in immersive mouse mode, when the player inventory is scrollable.</description>
-  </item>
-  <item>
-    <title>Dishware</title>
-    <link>https://mods.vintagestory.at/show/mod/10372</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10372#10372</guid>
-    <pubDate>Sun, 19 Jul 2026 10:46:39 -0000</pubDate>
-    <description>Adds ceramic dishes such as plates and cups.</description>
-  </item>
-  <item>
-    <title>Extreme Weathers [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/10098</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
-    <pubDate>Sun, 19 Jul 2026 10:35:48 -0000</pubDate>
-    <description>Introduces new extreme weather events. Blizzards, sandstorms, tornadoes, hurricanes and more!</description>
-  </item>
-  <item>
-    <title>Spaturno and Trini's Secure Shelter</title>
-    <link>https://mods.vintagestory.at/show/mod/9692</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9692#9692</guid>
-    <pubDate>Sun, 19 Jul 2026 10:23:53 -0000</pubDate>
-    <description>Shared extradimensional cottage inspired from D&amp;D spell Leomund's Secure Shelter.</description>
   </item>
 </channel>
 </rss>
