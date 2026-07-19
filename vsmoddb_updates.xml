@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 19 Jul 2026 03:28:53 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 19 Jul 2026 06:32:10 +0000</lastBuildDate>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Sun, 19 Jul 2026 06:12:56 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Elk Adornments</title>
+    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
+    <pubDate>Sun, 19 Jul 2026 05:53:55 -0000</pubDate>
+    <description>Masks for you and your elk with Modular Elk Armor!</description>
+  </item>
+  <item>
+    <title>Frontiers Lootboxes</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierslootboxes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierslootboxes#10369</guid>
+    <pubDate>Sun, 19 Jul 2026 05:00:39 -0000</pubDate>
+    <description>The weighted reward-roll item class other Frontier mods build on.</description>
+  </item>
+  <item>
+    <title>Frontiers RPG</title>
+    <link>https://mods.vintagestory.at/show/mod/10367</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10367#10367</guid>
+    <pubDate>Sun, 19 Jul 2026 05:00:20 -0000</pubDate>
+    <description>An ARPG system for Vintage Story</description>
+  </item>
+  <item>
+    <title>Frontiers Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/frontiersclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontiersclasses#10366</guid>
+    <pubDate>Sun, 19 Jul 2026 04:59:56 -0000</pubDate>
+    <description>Character class and progression system. </description>
+  </item>
+  <item>
+    <title>Tethys Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tethysservertweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tethysservertweaks#6101</guid>
+    <pubDate>Sun, 19 Jul 2026 04:58:59 -0000</pubDate>
+    <description>Tweaks for a personal private server.</description>
+  </item>
+  <item>
+    <title>Temporal Convergence</title>
+    <link>https://mods.vintagestory.at/show/mod/9887</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9887#9887</guid>
+    <pubDate>Sun, 19 Jul 2026 04:57:56 -0000</pubDate>
+    <description>Expands the creatures emerging from temporal rifts with new eldritch entities, afflicted automatons,</description>
+  </item>
+  <item>
+    <title>Frontiers Durability</title>
+    <link>https://mods.vintagestory.at/show/mod/frontiersdurability</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontiersdurability#10364</guid>
+    <pubDate>Sun, 19 Jul 2026 04:55:52 -0000</pubDate>
+    <description>A simple clothing degradation mod</description>
+  </item>
+  <item>
+    <title>Temporal Relics</title>
+    <link>https://mods.vintagestory.at/show/mod/9886</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9886#9886</guid>
+    <pubDate>Sun, 19 Jul 2026 04:54:51 -0000</pubDate>
+    <description>Adds randomized affixes to found equipment, introducing mundane, corrupted, and temporally enhanced </description>
+  </item>
+  <item>
+    <title>Gatbata's Sawians</title>
+    <link>https://mods.vintagestory.at/show/mod/customplayermodelsaw</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customplayermodelsaw#10351</guid>
+    <pubDate>Sun, 19 Jul 2026 04:08:04 -0000</pubDate>
+    <description>Adds some of the Sawians from Gunsaw and Casualties: Unknown (expies and the like)</description>
+  </item>
+  <item>
+    <title>Jelly Bundle</title>
+    <link>https://mods.vintagestory.at/show/mod/10059</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10059#10059</guid>
+    <pubDate>Sun, 19 Jul 2026 03:46:21 -0000</pubDate>
+    <description>A compilation of tweaks for the Swamp Jelly server.</description>
+  </item>
+  <item>
+    <title>fish(wastaken)'s GlooMe Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10213</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10213#10213</guid>
+    <pubDate>Sun, 19 Jul 2026 03:29:18 -0000</pubDate>
+    <description>small patch for GlooMeClasses to better suit my personal tastes.</description>
+  </item>
   <item>
     <title>Boric Alchemy</title>
     <link>https://mods.vintagestory.at/show/mod/5577</link>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10181#10181</guid>
     <pubDate>Sun, 19 Jul 2026 02:08:29 -0000</pubDate>
     <description>Adds severals abelisaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Birds of Prey — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10182</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10182#10182</guid>
-    <pubDate>Sun, 19 Jul 2026 02:08:12 -0000</pubDate>
-    <description>Adds severals dromaeosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Material Needs: Flowers</title>
-    <link>https://mods.vintagestory.at/show/mod/materialneedsflowers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/materialneedsflowers#6382</guid>
-    <pubDate>Sun, 19 Jul 2026 01:59:14 -0000</pubDate>
-    <description>Supplementary mod to Material Needs and Terra Prety, adding 28 new flower varieties.</description>
-  </item>
-  <item>
-    <title>Material Needs</title>
-    <link>https://mods.vintagestory.at/show/mod/materialneeds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/materialneeds#5455</guid>
-    <pubDate>Sun, 19 Jul 2026 01:58:56 -0000</pubDate>
-    <description>Expands building materials available in Survival with hundreds of new recipes blocks flowers &amp; more!</description>
-  </item>
-  <item>
-    <title>VS Roofing Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/5036</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5036#5036</guid>
-    <pubDate>Sun, 19 Jul 2026 01:37:07 -0000</pubDate>
-    <description>Gridless roof crafting and build system.</description>
-  </item>
-  <item>
-    <title>Updated Hieronymus's reptiles collection</title>
-    <link>https://mods.vintagestory.at/show/mod/hieronymusreptiles</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hieronymusreptiles#3503</guid>
-    <pubDate>Sun, 19 Jul 2026 01:34:58 -0000</pubDate>
-    <description>An unofficial update of Hieronymus's various mobs</description>
-  </item>
-  <item>
-    <title>VSReborn Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10289</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10289#10289</guid>
-    <pubDate>Sun, 19 Jul 2026 00:48:12 -0000</pubDate>
-    <description>mega patch</description>
-  </item>
-  <item>
-    <title>WOO Fantasy Additions</title>
-    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
-    <pubDate>Sun, 19 Jul 2026 00:47:33 -0000</pubDate>
-    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
-  </item>
-  <item>
-    <title>Rustwall</title>
-    <link>https://mods.vintagestory.at/show/mod/rustwall</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustwall#6183</guid>
-    <pubDate>Sun, 19 Jul 2026 00:39:20 -0000</pubDate>
-    <description>Overhaul mod intended for use in multiplayer servers.</description>
-  </item>
-  <item>
-    <title>Meliora Meadows Adjustments</title>
-    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
-    <pubDate>Sun, 19 Jul 2026 00:36:28 -0000</pubDate>
-    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
-  </item>
-  <item>
-    <title>Patient Forge</title>
-    <link>https://mods.vintagestory.at/show/mod/10363</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10363#10363</guid>
-    <pubDate>Sat, 18 Jul 2026 23:59:50 -0000</pubDate>
-    <description>Slow down workpiece cooling.</description>
-  </item>
-  <item>
-    <title>The Ultimate Mod Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/10348</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10348#10348</guid>
-    <pubDate>Sat, 18 Jul 2026 23:43:45 -0000</pubDate>
-    <description>A in-game mod manager that's suitable even for remote servers without terminal/FTP access.</description>
-  </item>
-  <item>
-    <title>Server Essentials</title>
-    <link>https://mods.vintagestory.at/show/mod/serveressentials</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/serveressentials#3358</guid>
-    <pubDate>Sat, 18 Jul 2026 22:39:28 -0000</pubDate>
-    <description>Utility commands and functions</description>
   </item>
 </channel>
 </rss>
