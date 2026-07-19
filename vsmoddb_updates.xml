@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 19 Jul 2026 11:10:12 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 19 Jul 2026 13:22:27 +0000</lastBuildDate>
+  <item>
+    <title>Room HUD</title>
+    <link>https://mods.vintagestory.at/show/mod/roomhud</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/roomhud#10370</guid>
+    <pubDate>Sun, 19 Jul 2026 13:14:20 -0000</pubDate>
+    <description>Adds a HUD indicator, showing room status and details.</description>
+  </item>
+  <item>
+    <title>Equus: Medieval Horses</title>
+    <link>https://mods.vintagestory.at/show/mod/equusdestrier</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusdestrier#9959</guid>
+    <pubDate>Sun, 19 Jul 2026 13:00:05 -0000</pubDate>
+    <description>Adds a medieval warhorse to the game that can be purchased from a new horse trader</description>
+  </item>
+  <item>
+    <title>Elk Variants</title>
+    <link>https://mods.vintagestory.at/show/mod/elkvariants</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkvariants#5967</guid>
+    <pubDate>Sun, 19 Jul 2026 12:42:52 -0000</pubDate>
+    <description>Adds more varieties of tamed elk</description>
+  </item>
+  <item>
+    <title>Mod Updater</title>
+    <link>https://mods.vintagestory.at/show/mod/modupdater</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modupdater#5060</guid>
+    <pubDate>Sun, 19 Jul 2026 12:35:56 -0000</pubDate>
+    <description>Simple program to update your mods for Windows, Linux and macOS.</description>
+  </item>
+  <item>
+    <title>The Ultimate Mod Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/10348</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10348#10348</guid>
+    <pubDate>Sun, 19 Jul 2026 12:23:11 -0000</pubDate>
+    <description>An in-game mod manager that's suitable even for remote servers without terminal/FTP access.</description>
+  </item>
+  <item>
+    <title>Metal Recycling</title>
+    <link>https://mods.vintagestory.at/show/mod/metalrecycling</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalrecycling#2254</guid>
+    <pubDate>Sun, 19 Jul 2026 12:22:54 -0000</pubDate>
+    <description>Gain the ability to recycle those bits of metal you split off work items.</description>
+  </item>
+  <item>
+    <title>Leaf Litter</title>
+    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
+    <pubDate>Sun, 19 Jul 2026 11:36:37 -0000</pubDate>
+    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
+  </item>
+  <item>
+    <title>Deciduous Trees</title>
+    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
+    <pubDate>Sun, 19 Jul 2026 11:35:59 -0000</pubDate>
+    <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
+  </item>
+  <item>
+    <title>Axle in blocks</title>
+    <link>https://mods.vintagestory.at/show/mod/axleinblocks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/axleinblocks#441</guid>
+    <pubDate>Sun, 19 Jul 2026 11:32:38 -0000</pubDate>
+    <description>Allows hide axles, gears and transmission inside bricks, dry stone and wooden planks.</description>
+  </item>
+  <item>
+    <title>InventoryWheelFix</title>
+    <link>https://mods.vintagestory.at/show/mod/inventorywheelfix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/inventorywheelfix#10373</guid>
+    <pubDate>Sun, 19 Jul 2026 11:21:43 -0000</pubDate>
+    <description>Fixes the mouse wheel behavior in immersive mouse mode, when the player inventory is scrollable.</description>
+  </item>
   <item>
     <title>Dishware</title>
     <link>https://mods.vintagestory.at/show/mod/10372</link>
@@ -53,13 +123,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
     <pubDate>Sun, 19 Jul 2026 09:01:49 -0000</pubDate>
     <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
-  </item>
-  <item>
-    <title>Elk Variants</title>
-    <link>https://mods.vintagestory.at/show/mod/elkvariants</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkvariants#5967</guid>
-    <pubDate>Sun, 19 Jul 2026 08:51:50 -0000</pubDate>
-    <description>Adds more varieties of tamed elk</description>
   </item>
   <item>
     <title>SoldierSpy - Brassworks</title>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tethysservertweaks#6101</guid>
     <pubDate>Sun, 19 Jul 2026 04:58:59 -0000</pubDate>
     <description>Tweaks for a personal private server.</description>
-  </item>
-  <item>
-    <title>Temporal Convergence</title>
-    <link>https://mods.vintagestory.at/show/mod/9887</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9887#9887</guid>
-    <pubDate>Sun, 19 Jul 2026 04:57:56 -0000</pubDate>
-    <description>Expands the creatures emerging from temporal rifts with new eldritch entities, afflicted automatons,</description>
-  </item>
-  <item>
-    <title>Frontiers Durability</title>
-    <link>https://mods.vintagestory.at/show/mod/frontiersdurability</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontiersdurability#10364</guid>
-    <pubDate>Sun, 19 Jul 2026 04:55:52 -0000</pubDate>
-    <description>A simple clothing degradation mod</description>
-  </item>
-  <item>
-    <title>Temporal Relics</title>
-    <link>https://mods.vintagestory.at/show/mod/9886</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9886#9886</guid>
-    <pubDate>Sun, 19 Jul 2026 04:54:51 -0000</pubDate>
-    <description>Adds randomized affixes to found equipment, introducing mundane, corrupted, and temporally enhanced </description>
-  </item>
-  <item>
-    <title>Gatbata's Sawians</title>
-    <link>https://mods.vintagestory.at/show/mod/customplayermodelsaw</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customplayermodelsaw#10351</guid>
-    <pubDate>Sun, 19 Jul 2026 04:08:04 -0000</pubDate>
-    <description>Adds some of the Sawians from Gunsaw and Casualties: Unknown (expies and the like)</description>
-  </item>
-  <item>
-    <title>Jelly Bundle</title>
-    <link>https://mods.vintagestory.at/show/mod/10059</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10059#10059</guid>
-    <pubDate>Sun, 19 Jul 2026 03:46:21 -0000</pubDate>
-    <description>A compilation of tweaks for the Swamp Jelly server.</description>
-  </item>
-  <item>
-    <title>fish(wastaken)'s GlooMe Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10213</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10213#10213</guid>
-    <pubDate>Sun, 19 Jul 2026 03:29:18 -0000</pubDate>
-    <description>small patch for GlooMeClasses to better suit my personal tastes.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Sun, 19 Jul 2026 02:47:21 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>Akira's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/akiratweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/akiratweaks#10138</guid>
-    <pubDate>Sun, 19 Jul 2026 02:39:18 -0000</pubDate>
-    <description>Collection of patches for a personal server.</description>
-  </item>
-  <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Sun, 19 Jul 2026 02:24:41 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
   </item>
 </channel>
 </rss>
