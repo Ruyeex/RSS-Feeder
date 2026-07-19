@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 19 Jul 2026 19:19:14 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 19 Jul 2026 20:53:42 +0000</lastBuildDate>
+  <item>
+    <title>Animalica - Body Tools &amp; Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicabtc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicabtc#9867</guid>
+    <pubDate>Sun, 19 Jul 2026 20:49:15 -0000</pubDate>
+    <description>Adds wearable claws, fangs, body tools, and animal classes for Fox, Wolf, and Hyena for now</description>
+  </item>
+  <item>
+    <title>Launcher Mod Updater</title>
+    <link>https://mods.vintagestory.at/show/mod/launchermodupdater</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchermodupdater#10339</guid>
+    <pubDate>Sun, 19 Jul 2026 20:41:59 -0000</pubDate>
+    <description>When a world is loaded, it offers to download new updates for active mods.</description>
+  </item>
+  <item>
+    <title>Frontiers Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/frontiersclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontiersclasses#10366</guid>
+    <pubDate>Sun, 19 Jul 2026 20:37:07 -0000</pubDate>
+    <description>Character class and progression system. </description>
+  </item>
+  <item>
+    <title>Frontiers RPG</title>
+    <link>https://mods.vintagestory.at/show/mod/10367</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10367#10367</guid>
+    <pubDate>Sun, 19 Jul 2026 20:36:12 -0000</pubDate>
+    <description>An ARPG system for Vintage Story</description>
+  </item>
+  <item>
+    <title>Portcullis, Drawbridges and stuff</title>
+    <link>https://mods.vintagestory.at/show/mod/7736</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7736#7736</guid>
+    <pubDate>Sun, 19 Jul 2026 20:27:01 -0000</pubDate>
+    <description>Adds Portcullis, Drawbridges, Brazier and a working lever to add some RP to your builds. </description>
+  </item>
+  <item>
+    <title>Fast Harvest</title>
+    <link>https://mods.vintagestory.at/show/mod/10385</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10385#10385</guid>
+    <pubDate>Sun, 19 Jul 2026 20:26:33 -0000</pubDate>
+    <description>Fast Harvest reduces the time required to harvest animal corpses and process fish placed in ground s</description>
+  </item>
+  <item>
+    <title>Orcafolk Tweak</title>
+    <link>https://mods.vintagestory.at/show/mod/10383</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10383#10383</guid>
+    <pubDate>Sun, 19 Jul 2026 20:00:13 -0000</pubDate>
+    <description>Tweak of the original mod Orcafolk</description>
+  </item>
+  <item>
+    <title>Keep Rapids</title>
+    <link>https://mods.vintagestory.at/show/mod/keeprapids</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/keeprapids#9904</guid>
+    <pubDate>Sun, 19 Jul 2026 19:55:16 -0000</pubDate>
+    <description>Allows placing multiple water wheels on a single rapid stream by keeping the water as rapids.</description>
+  </item>
+  <item>
+    <title>Peat for Charcoal</title>
+    <link>https://mods.vintagestory.at/show/mod/peatforcharcoal</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/peatforcharcoal#10384</guid>
+    <pubDate>Sun, 19 Jul 2026 19:53:28 -0000</pubDate>
+    <description>Allows using peat bricks as a substitute for firewood in the charcoal making process.</description>
+  </item>
+  <item>
+    <title>Pumpkin Rebalance</title>
+    <link>https://mods.vintagestory.at/show/mod/10382</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10382#10382</guid>
+    <pubDate>Sun, 19 Jul 2026 19:40:40 -0000</pubDate>
+    <description>A configurable pumpkin overhaul that improves vine growth, blooming, fruiting, and harvesting while </description>
+  </item>
+  <item>
+    <title>Seamarks -- Beacons &amp; Lighthouses</title>
+    <link>https://mods.vintagestory.at/show/mod/seamarks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seamarks#10124</guid>
+    <pubDate>Sun, 19 Jul 2026 19:34:53 -0000</pubDate>
+    <description>Build lighthouses and fire beacons to help navigate the world and its oceans.</description>
+  </item>
   <item>
     <title>Specialized Classes</title>
     <link>https://mods.vintagestory.at/show/mod/specializedclasses</link>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
     <pubDate>Sun, 19 Jul 2026 15:38:53 -0000</pubDate>
     <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
-  </item>
-  <item>
-    <title>Inventory Transfer</title>
-    <link>https://mods.vintagestory.at/show/mod/7383</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7383#7383</guid>
-    <pubDate>Sun, 19 Jul 2026 15:37:01 -0000</pubDate>
-    <description>Take your loot to a new world!</description>
-  </item>
-  <item>
-    <title>Dense Ground Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
-    <pubDate>Sun, 19 Jul 2026 15:36:39 -0000</pubDate>
-    <description>Place down more items per block and on chiseled blocks</description>
-  </item>
-  <item>
-    <title>Free The Horse</title>
-    <link>https://mods.vintagestory.at/show/mod/freethehorse</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/freethehorse#10018</guid>
-    <pubDate>Sun, 19 Jul 2026 15:26:13 -0000</pubDate>
-    <description>Big buff medieval semi-truck spawning wild in your area.</description>
-  </item>
-  <item>
-    <title>Elk Adornments</title>
-    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
-    <pubDate>Sun, 19 Jul 2026 15:26:06 -0000</pubDate>
-    <description>Masks for you and your elk with Modular Elk Armor!</description>
-  </item>
-  <item>
-    <title>Glowest Worms</title>
-    <link>https://mods.vintagestory.at/show/mod/glowestworms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glowestworms#9360</guid>
-    <pubDate>Sun, 19 Jul 2026 15:11:35 -0000</pubDate>
-    <description>Glowest Worms is an expansion of glow worms and many surrounding mechanics. </description>
-  </item>
-  <item>
-    <title>Hotbar Restrictor</title>
-    <link>https://mods.vintagestory.at/show/mod/9933</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9933#9933</guid>
-    <pubDate>Sun, 19 Jul 2026 15:10:51 -0000</pubDate>
-    <description>Restricts inventory to 4 hotbar and 2 backpack slots.</description>
-  </item>
-  <item>
-    <title>VSNH Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/vsnhtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsnhtweaks#8336</guid>
-    <pubDate>Sun, 19 Jul 2026 15:05:02 -0000</pubDate>
-    <description>Tweaks and modifications for the Vintage Story New Horizons server.</description>
-  </item>
-  <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Sun, 19 Jul 2026 14:22:49 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
-    <title>Dragonia Server Mod Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/dragoniapatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dragoniapatch#5896</guid>
-    <pubDate>Sun, 19 Jul 2026 14:16:11 -0000</pubDate>
-    <description>Меняет генерацию железа и добавляет новый крафт льняного шпагата</description>
-  </item>
-  <item>
-    <title>No Indoor Fog Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/noindoorfog</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noindoorfog#6064</guid>
-    <pubDate>Sun, 19 Jul 2026 14:07:38 -0000</pubDate>
-    <description>Get rid of fog in your home! Increases fog distance from your camera when you are "indoors"</description>
-  </item>
-  <item>
-    <title>Entity Nametags</title>
-    <link>https://mods.vintagestory.at/show/mod/entitynametags</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/entitynametags#4042</guid>
-    <pubDate>Sun, 19 Jul 2026 14:00:08 -0000</pubDate>
-    <description>Adds a nametag item that can be used to name entities (elks, boats, etc.). + boat ownership</description>
   </item>
 </channel>
 </rss>
