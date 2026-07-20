@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 20 Jul 2026 08:07:32 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 11:47:22 +0000</lastBuildDate>
+  <item>
+    <title>LoFS Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/lofsclass</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lofsclass#10241</guid>
+    <pubDate>Mon, 20 Jul 2026 11:26:52 -0000</pubDate>
+    <description>Working Classes reimagined for the Lands of the Fallen Stars RP Event! Image Unrelated</description>
+  </item>
+  <item>
+    <title>Specialized Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/specializedclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/specializedclasses#6998</guid>
+    <pubDate>Mon, 20 Jul 2026 10:50:16 -0000</pubDate>
+    <description>15 new classes that are the best in their fields by a large margin, with major but specific buffs</description>
+  </item>
+  <item>
+    <title>Julz Addons</title>
+    <link>https://mods.vintagestory.at/show/mod/julzaddons</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/julzaddons#10078</guid>
+    <pubDate>Mon, 20 Jul 2026 10:28:22 -0000</pubDate>
+    <description>A smol mod made for my mates to have fun in VS</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Mon, 20 Jul 2026 09:54:31 -0000</pubDate>
+    <description>A director camera mod for video production workflows.（导演模式模组）</description>
+  </item>
+  <item>
+    <title>Mosin's Rapiers Fixed</title>
+    <link>https://mods.vintagestory.at/show/mod/10396</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10396#10396</guid>
+    <pubDate>Mon, 20 Jul 2026 09:22:54 -0000</pubDate>
+    <description>Adds only the rapiers from mosin's armory, with integrated Quivers and Sheaths support</description>
+  </item>
   <item>
     <title>The Hunter</title>
     <link>https://mods.vintagestory.at/show/mod/thehunter</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/infinitumtradereditor#10392</guid>
     <pubDate>Mon, 20 Jul 2026 02:06:13 -0000</pubDate>
     <description>A graphical editor for individual vanilla traders. Customize each trader directly in-game.</description>
-  </item>
-  <item>
-    <title>Aged Wood Restore</title>
-    <link>https://mods.vintagestory.at/show/mod/10389</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10389#10389</guid>
-    <pubDate>Mon, 20 Jul 2026 01:45:56 -0000</pubDate>
-    <description>Aged Wood Restore Repairs worlds broken by the MaterialNeeds 1.x → 2.0.0 transition.</description>
-  </item>
-  <item>
-    <title>Temporal Convergence</title>
-    <link>https://mods.vintagestory.at/show/mod/9887</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9887#9887</guid>
-    <pubDate>Mon, 20 Jul 2026 01:22:30 -0000</pubDate>
-    <description>Expands the creatures emerging from temporal rifts with new eldritch entities, afflicted automatons,</description>
-  </item>
-  <item>
-    <title>Electric Shield Quiver Compat</title>
-    <link>https://mods.vintagestory.at/show/mod/10390</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10390#10390</guid>
-    <pubDate>Mon, 20 Jul 2026 01:21:05 -0000</pubDate>
-    <description>Add missing tag to electric shield for compatability</description>
-  </item>
-  <item>
-    <title>Server Debugger</title>
-    <link>https://mods.vintagestory.at/show/mod/10354</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10354#10354</guid>
-    <pubDate>Mon, 20 Jul 2026 00:27:12 -0000</pubDate>
-    <description>Server-side diagnostics for main thread stalls, GC pauses, and managed memory leaks.</description>
-  </item>
-  <item>
-    <title>WOO Fantasy Additions</title>
-    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
-    <pubDate>Mon, 20 Jul 2026 00:18:02 -0000</pubDate>
-    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
   </item>
 </channel>
 </rss>
