@@ -4,7 +4,133 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 20 Jul 2026 20:23:06 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 22:01:54 +0000</lastBuildDate>
+  <item>
+    <title>AmphoraeFix</title>
+    <link>https://mods.vintagestory.at/show/mod/10387</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10387#10387</guid>
+    <pubDate>Mon, 20 Jul 2026 21:59:34 -0000</pubDate>
+    <description>Texture fix for Amphorae mod. </description>
+  </item>
+  <item>
+    <title>Extended Eye Colors</title>
+    <link>https://mods.vintagestory.at/show/mod/10402</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10402#10402</guid>
+    <pubDate>Mon, 20 Jul 2026 21:59:33 -0000</pubDate>
+    <description>Adds a hex scroller for more customisation!</description>
+  </item>
+  <item>
+    <title>Swixy Claim Chunk</title>
+    <link>https://mods.vintagestory.at/show/mod/swixyclaimchunk</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swixyclaimchunk#9913</guid>
+    <pubDate>Mon, 20 Jul 2026 21:51:15 -0000</pubDate>
+    <description>Claiming made easy. Press [P], click a chunk, and it's yours!</description>
+  </item>
+  <item>
+    <title>Strata: Infinite diffusion worldgen</title>
+    <link>https://mods.vintagestory.at/show/mod/strata</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/strata#10398</guid>
+    <pubDate>Mon, 20 Jul 2026 21:35:06 -0000</pubDate>
+    <description>early preview: infinite diffusion terrain and climate.</description>
+  </item>
+  <item>
+    <title>Veneer</title>
+    <link>https://mods.vintagestory.at/show/mod/7774</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7774#7774</guid>
+    <pubDate>Mon, 20 Jul 2026 21:34:32 -0000</pubDate>
+    <description>Adds veneers for cheaper chiseling details.</description>
+  </item>
+  <item>
+    <title>Vintage Canvas</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagecanvas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagecanvas#9406</guid>
+    <pubDate>Mon, 20 Jul 2026 21:28:25 -0000</pubDate>
+    <description>Craft canvases, mix paint, and use brushes to decorate your world!</description>
+  </item>
+  <item>
+    <title>Frontiers Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/frontiersclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontiersclasses#10366</guid>
+    <pubDate>Mon, 20 Jul 2026 21:25:22 -0000</pubDate>
+    <description>Character class and progression system. </description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Mon, 20 Jul 2026 21:25:21 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Frontiers RPG</title>
+    <link>https://mods.vintagestory.at/show/mod/10367</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10367#10367</guid>
+    <pubDate>Mon, 20 Jul 2026 21:19:30 -0000</pubDate>
+    <description>An ARPG system for Vintage Story</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Mon, 20 Jul 2026 21:17:18 -0000</pubDate>
+    <description>A director camera mod for video production workflows.（导演模式模组）</description>
+  </item>
+  <item>
+    <title>Signals Link EP</title>
+    <link>https://mods.vintagestory.at/show/mod/signalslinkep</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/signalslinkep#5908</guid>
+    <pubDate>Mon, 20 Jul 2026 21:09:32 -0000</pubDate>
+    <description>Extends Signals mod with control elements for interacting with the Electrical Progressive mod.</description>
+  </item>
+  <item>
+    <title>Scraps Revived</title>
+    <link>https://mods.vintagestory.at/show/mod/5091</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5091#5091</guid>
+    <pubDate>Mon, 20 Jul 2026 21:04:34 -0000</pubDate>
+    <description>Restore and recycle the clutter from the ruins.</description>
+  </item>
+  <item>
+    <title>Signals Link</title>
+    <link>https://mods.vintagestory.at/show/mod/signalslink</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/signalslink#5907</guid>
+    <pubDate>Mon, 20 Jul 2026 21:04:03 -0000</pubDate>
+    <description>Extends Signals mod with sensors and control elements for interacting with other mods</description>
+  </item>
+  <item>
+    <title>Offline Item Cooler</title>
+    <link>https://mods.vintagestory.at/show/mod/10401</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10401#10401</guid>
+    <pubDate>Mon, 20 Jul 2026 20:59:11 -0000</pubDate>
+    <description>Adds a Multiplayer-Friendly vessel,Food inside stops spoiling whenever the player is logged out.</description>
+  </item>
+  <item>
+    <title>Ambien's Easy Chunk Claim</title>
+    <link>https://mods.vintagestory.at/show/mod/9368</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9368#9368</guid>
+    <pubDate>Mon, 20 Jul 2026 20:58:25 -0000</pubDate>
+    <description>Simple chunk claiming made for servers</description>
+  </item>
+  <item>
+    <title>FETweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/fetweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fetweaks#9257</guid>
+    <pubDate>Mon, 20 Jul 2026 20:51:38 -0000</pubDate>
+    <description>Mod tweaks for Frontier Esoterica Season 1.</description>
+  </item>
+  <item>
+    <title>InventoryWheelFix</title>
+    <link>https://mods.vintagestory.at/show/mod/inventorywheelfix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/inventorywheelfix#10373</guid>
+    <pubDate>Mon, 20 Jul 2026 20:26:15 -0000</pubDate>
+    <description>Fixes the mouse wheel behavior in immersive mouse mode, when the player inventory is scrollable.</description>
+  </item>
+  <item>
+    <title>Rudiments</title>
+    <link>https://mods.vintagestory.at/show/mod/9305</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
+    <pubDate>Mon, 20 Jul 2026 20:24:04 -0000</pubDate>
+    <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
+  </item>
   <item>
     <title>Body Fat by Tasshroom</title>
     <link>https://mods.vintagestory.at/show/mod/tasshroombodyfat</link>
@@ -32,13 +158,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragons#8146</guid>
     <pubDate>Mon, 20 Jul 2026 19:19:28 -0000</pubDate>
     <description>Adds an anthropomorphic dragon player model to the game</description>
-  </item>
-  <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Mon, 20 Jul 2026 19:07:09 -0000</pubDate>
-    <description>A director camera mod for video production workflows.（导演模式模组）</description>
   </item>
   <item>
     <title>Vampirism</title>
@@ -95,125 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
     <pubDate>Mon, 20 Jul 2026 17:45:42 -0000</pubDate>
     <description>A simple SheyderMod that supports the original artstyle of the game.</description>
-  </item>
-  <item>
-    <title>xSkills Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7605</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
-    <pubDate>Mon, 20 Jul 2026 17:31:34 -0000</pubDate>
-    <description>RPG-style skill system with abilities, perks, and progression.</description>
-  </item>
-  <item>
-    <title>CB Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Mon, 20 Jul 2026 17:26:47 -0000</pubDate>
-    <description>JSON content patches for my small personal server</description>
-  </item>
-  <item>
-    <title>CB Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Mon, 20 Jul 2026 17:25:12 -0000</pubDate>
-    <description>Harmony patches for my personal server.</description>
-  </item>
-  <item>
-    <title>FotSA Butchering Compat</title>
-    <link>https://mods.vintagestory.at/show/mod/fotsabutcheringcompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsabutcheringcompat#9501</guid>
-    <pubDate>Mon, 20 Jul 2026 17:18:04 -0000</pubDate>
-    <description>Butchering compatibility for FotSA mods</description>
-  </item>
-  <item>
-    <title>Starless Skies</title>
-    <link>https://mods.vintagestory.at/show/mod/starlessskies</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/starlessskies#5094</guid>
-    <pubDate>Mon, 20 Jul 2026 17:17:58 -0000</pubDate>
-    <description>Removes the sun, moon, and sky, and changes shaders to cause absolute darkness</description>
-  </item>
-  <item>
-    <title>Riftworks</title>
-    <link>https://mods.vintagestory.at/show/mod/riftworks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftworks#3614</guid>
-    <pubDate>Mon, 20 Jul 2026 17:17:52 -0000</pubDate>
-    <description>Interesting and useful lategame items and machines</description>
-  </item>
-  <item>
-    <title>Abyssal Depths</title>
-    <link>https://mods.vintagestory.at/show/mod/6290</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6290#6290</guid>
-    <pubDate>Mon, 20 Jul 2026 17:17:42 -0000</pubDate>
-    <description>Expansion of ocean exploration. Diving suits and depth mechanics.</description>
-  </item>
-  <item>
-    <title>UI-Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/uitweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/uitweaks#7926</guid>
-    <pubDate>Mon, 20 Jul 2026 17:09:48 -0000</pubDate>
-    <description>Zoom Button, configurable HUD, in-game calculator, and more...</description>
-  </item>
-  <item>
-    <title>Nickelback</title>
-    <link>https://mods.vintagestory.at/show/mod/nickelback</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nickelback#9223</guid>
-    <pubDate>Mon, 20 Jul 2026 17:09:26 -0000</pubDate>
-    <description>This mod gives you bits of metal back when a tool breaks during quenching</description>
-  </item>
-  <item>
-    <title>More animations</title>
-    <link>https://mods.vintagestory.at/show/mod/mefimations</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mefimations#9963</guid>
-    <pubDate>Mon, 20 Jul 2026 17:03:21 -0000</pubDate>
-    <description>Better body and face animations</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Mon, 20 Jul 2026 16:51:19 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Vintage Story Chinese Language Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
-    <pubDate>Mon, 20 Jul 2026 16:42:36 -0000</pubDate>
-    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
-  </item>
-  <item>
-    <title>BetterTraders</title>
-    <link>https://mods.vintagestory.at/show/mod/bettertraders</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettertraders#1183</guid>
-    <pubDate>Mon, 20 Jul 2026 16:38:33 -0000</pubDate>
-    <description>Replaces vanilla traders with new trader structures.</description>
-  </item>
-  <item>
-    <title>BetterRuins</title>
-    <link>https://mods.vintagestory.at/show/mod/betterruins</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterruins#792</guid>
-    <pubDate>Mon, 20 Jul 2026 16:34:03 -0000</pubDate>
-    <description>Adds many new ruins over and underground to your survival game world.</description>
-  </item>
-  <item>
-    <title>Bricks and Bloom Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks#10399</guid>
-    <pubDate>Mon, 20 Jul 2026 16:31:49 -0000</pubDate>
-    <description>Solves conflicts between various mods for the Bricks and Bloom server.</description>
-  </item>
-  <item>
-    <title>NDL ExpandedGrowth (Tree Growth Module)</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthtrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthtrees#5697</guid>
-    <pubDate>Mon, 20 Jul 2026 16:30:18 -0000</pubDate>
-    <description>Adds a method for growing larger variants of trees.</description>
-  </item>
-  <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Mon, 20 Jul 2026 16:27:38 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
   </item>
 </channel>
 </rss>
