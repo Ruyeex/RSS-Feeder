@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 20 Jul 2026 22:01:54 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 23:57:51 +0000</lastBuildDate>
+  <item>
+    <title>Remove Snow Collision</title>
+    <link>https://mods.vintagestory.at/show/mod/removesnowcollison</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/removesnowcollison#10404</guid>
+    <pubDate>Mon, 20 Jul 2026 23:44:31 -0000</pubDate>
+    <description>Removes layered snow collision boxes.</description>
+  </item>
+  <item>
+    <title>Real Smoke &amp; QP's Chisel Tools Compatibility Patch 1.22</title>
+    <link>https://mods.vintagestory.at/show/mod/realsmokeqp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmokeqp#8322</guid>
+    <pubDate>Mon, 20 Jul 2026 23:44:24 -0000</pubDate>
+    <description>Adds compatibility between Real Smoke and QP Chisel Tools decorative blocks.</description>
+  </item>
+  <item>
+    <title>More Lanterns</title>
+    <link>https://mods.vintagestory.at/show/mod/apelanterns</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/apelanterns#2488</guid>
+    <pubDate>Mon, 20 Jul 2026 23:41:05 -0000</pubDate>
+    <description>Adds a variety of decorative and useful lanterns</description>
+  </item>
+  <item>
+    <title>Gearlock Firearms</title>
+    <link>https://mods.vintagestory.at/show/mod/10375</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10375#10375</guid>
+    <pubDate>Mon, 20 Jul 2026 23:32:14 -0000</pubDate>
+    <description>Adds firearms powered by the gearlock mechanism</description>
+  </item>
+  <item>
+    <title>Unchisel Option</title>
+    <link>https://mods.vintagestory.at/show/mod/10403</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10403#10403</guid>
+    <pubDate>Mon, 20 Jul 2026 23:26:57 -0000</pubDate>
+    <description>Adds an Unchisel mode to the chisel</description>
+  </item>
+  <item>
+    <title>Better Nails</title>
+    <link>https://mods.vintagestory.at/show/mod/betternails</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betternails#5868</guid>
+    <pubDate>Mon, 20 Jul 2026 23:05:44 -0000</pubDate>
+    <description>Never thought of using higher quality metals for nails? Better metals now yields more nails.</description>
+  </item>
+  <item>
+    <title>VintageTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagetweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagetweaks#4441</guid>
+    <pubDate>Mon, 20 Jul 2026 23:05:24 -0000</pubDate>
+    <description>VintageTweaks! A collection of small quality of life tweaks I would like to see in Vintage Story.</description>
+  </item>
+  <item>
+    <title>Launcher Mod Updater</title>
+    <link>https://mods.vintagestory.at/show/mod/launchermodupdater</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchermodupdater#10339</guid>
+    <pubDate>Mon, 20 Jul 2026 22:59:22 -0000</pubDate>
+    <description>An in-game mod updater that allows to download new updates for active mods.</description>
+  </item>
+  <item>
+    <title>The Gravestones Mod - 1.22.3</title>
+    <link>https://mods.vintagestory.at/show/mod/gravestones</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gravestones#10300</guid>
+    <pubDate>Mon, 20 Jul 2026 22:23:57 -0000</pubDate>
+    <description>Adds a gravestone which stores the players inventory upon death and can be retrieved by them later.</description>
+  </item>
+  <item>
+    <title>Vampirism</title>
+    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
+    <pubDate>Mon, 20 Jul 2026 22:18:42 -0000</pubDate>
+    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
+  </item>
+  <item>
+    <title>Server Debugger</title>
+    <link>https://mods.vintagestory.at/show/mod/10354</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10354#10354</guid>
+    <pubDate>Mon, 20 Jul 2026 22:07:17 -0000</pubDate>
+    <description>Server-side diagnostics for main thread stalls, GC pauses, and managed memory leaks.</description>
+  </item>
   <item>
     <title>AmphoraeFix</title>
     <link>https://mods.vintagestory.at/show/mod/10387</link>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshroombodyfat#4475</guid>
     <pubDate>Mon, 20 Jul 2026 20:03:23 -0000</pubDate>
     <description>Body Fat - Stuff your face and save up those calories for the long journey ahead</description>
-  </item>
-  <item>
-    <title>GGBC's Repair</title>
-    <link>https://mods.vintagestory.at/show/mod/ggbcsrepair</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ggbcsrepair#6561</guid>
-    <pubDate>Mon, 20 Jul 2026 19:35:37 -0000</pubDate>
-    <description>A very lightweight mod for balanced item repair. Compatible with ItemRarity, xSkills, and others</description>
-  </item>
-  <item>
-    <title>Stamina Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/staminamod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/staminamod#10151</guid>
-    <pubDate>Mon, 20 Jul 2026 19:22:46 -0000</pubDate>
-    <description>Adds stamina to animals. Exhaustion slows them. Tired predators give up the chase.</description>
-  </item>
-  <item>
-    <title>KCs Dragon Player!</title>
-    <link>https://mods.vintagestory.at/show/mod/kcsdragons</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragons#8146</guid>
-    <pubDate>Mon, 20 Jul 2026 19:19:28 -0000</pubDate>
-    <description>Adds an anthropomorphic dragon player model to the game</description>
-  </item>
-  <item>
-    <title>Vampirism</title>
-    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
-    <pubDate>Mon, 20 Jul 2026 19:05:15 -0000</pubDate>
-    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
-  </item>
-  <item>
-    <title>VSNH Currency</title>
-    <link>https://mods.vintagestory.at/show/mod/vsnhcurrency</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsnhcurrency#8108</guid>
-    <pubDate>Mon, 20 Jul 2026 18:49:34 -0000</pubDate>
-    <description>Time Based Currency</description>
-  </item>
-  <item>
-    <title>VSNH Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/vsnhtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsnhtweaks#8336</guid>
-    <pubDate>Mon, 20 Jul 2026 18:49:12 -0000</pubDate>
-    <description>Tweaks and modifications for the Vintage Story New Horizons server.</description>
-  </item>
-  <item>
-    <title>Craft Everything</title>
-    <link>https://mods.vintagestory.at/show/mod/crafteverything</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crafteverything#6314</guid>
-    <pubDate>Mon, 20 Jul 2026 18:48:24 -0000</pubDate>
-    <description>Adds new crafting recipes for existing items in Vintage Story</description>
-  </item>
-  <item>
-    <title>ProjectL Interactables</title>
-    <link>https://mods.vintagestory.at/show/mod/projectlinteractables</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/projectlinteractables#9972</guid>
-    <pubDate>Mon, 20 Jul 2026 18:45:00 -0000</pubDate>
-    <description>Door, Keys, Trap everything to make a good labyrinth</description>
-  </item>
-  <item>
-    <title>Gearlock Firearms</title>
-    <link>https://mods.vintagestory.at/show/mod/10375</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10375#10375</guid>
-    <pubDate>Mon, 20 Jul 2026 18:03:24 -0000</pubDate>
-    <description>Adds firearms powered by the gearlock mechanism</description>
-  </item>
-  <item>
-    <title>CB Guilds</title>
-    <link>https://mods.vintagestory.at/show/mod/9586</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9586#9586</guid>
-    <pubDate>Mon, 20 Jul 2026 18:00:39 -0000</pubDate>
-    <description>Guild mod for my personal server</description>
-  </item>
-  <item>
-    <title>SheyderMod</title>
-    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
-    <pubDate>Mon, 20 Jul 2026 17:45:42 -0000</pubDate>
-    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
   </item>
 </channel>
 </rss>
