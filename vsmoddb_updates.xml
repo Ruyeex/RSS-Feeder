@@ -4,7 +4,175 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 20 Jul 2026 16:25:40 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 18:54:03 +0000</lastBuildDate>
+  <item>
+    <title>VSNH Currency</title>
+    <link>https://mods.vintagestory.at/show/mod/vsnhcurrency</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsnhcurrency#8108</guid>
+    <pubDate>Mon, 20 Jul 2026 18:49:34 -0000</pubDate>
+    <description>Time Based Currency</description>
+  </item>
+  <item>
+    <title>VSNH Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/vsnhtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsnhtweaks#8336</guid>
+    <pubDate>Mon, 20 Jul 2026 18:49:12 -0000</pubDate>
+    <description>Tweaks and modifications for the Vintage Story New Horizons server.</description>
+  </item>
+  <item>
+    <title>Craft Everything</title>
+    <link>https://mods.vintagestory.at/show/mod/crafteverything</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crafteverything#6314</guid>
+    <pubDate>Mon, 20 Jul 2026 18:48:24 -0000</pubDate>
+    <description>Adds new crafting recipes for existing items in Vintage Story</description>
+  </item>
+  <item>
+    <title>ProjectL Interactables</title>
+    <link>https://mods.vintagestory.at/show/mod/projectlinteractables</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/projectlinteractables#9972</guid>
+    <pubDate>Mon, 20 Jul 2026 18:45:00 -0000</pubDate>
+    <description>Door, Keys, Trap everything to make a good labyrinth</description>
+  </item>
+  <item>
+    <title>Gearlock Firearms</title>
+    <link>https://mods.vintagestory.at/show/mod/10375</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10375#10375</guid>
+    <pubDate>Mon, 20 Jul 2026 18:03:24 -0000</pubDate>
+    <description>Adds firearms powered by the gearlock mechanism</description>
+  </item>
+  <item>
+    <title>CB Guilds</title>
+    <link>https://mods.vintagestory.at/show/mod/9586</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9586#9586</guid>
+    <pubDate>Mon, 20 Jul 2026 18:00:39 -0000</pubDate>
+    <description>Guild mod for my personal server</description>
+  </item>
+  <item>
+    <title>SheyderMod</title>
+    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
+    <pubDate>Mon, 20 Jul 2026 17:45:42 -0000</pubDate>
+    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
+  </item>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Mon, 20 Jul 2026 17:31:34 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
+  <item>
+    <title>CB Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
+    <pubDate>Mon, 20 Jul 2026 17:26:47 -0000</pubDate>
+    <description>JSON content patches for my small personal server</description>
+  </item>
+  <item>
+    <title>CB Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Mon, 20 Jul 2026 17:25:12 -0000</pubDate>
+    <description>Harmony patches for my personal server.</description>
+  </item>
+  <item>
+    <title>FotSA Butchering Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/fotsabutcheringcompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsabutcheringcompat#9501</guid>
+    <pubDate>Mon, 20 Jul 2026 17:18:04 -0000</pubDate>
+    <description>Butchering compatibility for FotSA mods</description>
+  </item>
+  <item>
+    <title>Starless Skies</title>
+    <link>https://mods.vintagestory.at/show/mod/starlessskies</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/starlessskies#5094</guid>
+    <pubDate>Mon, 20 Jul 2026 17:17:58 -0000</pubDate>
+    <description>Removes the sun, moon, and sky, and changes shaders to cause absolute darkness</description>
+  </item>
+  <item>
+    <title>Riftworks</title>
+    <link>https://mods.vintagestory.at/show/mod/riftworks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftworks#3614</guid>
+    <pubDate>Mon, 20 Jul 2026 17:17:52 -0000</pubDate>
+    <description>Interesting and useful lategame items and machines</description>
+  </item>
+  <item>
+    <title>Abyssal Depths</title>
+    <link>https://mods.vintagestory.at/show/mod/6290</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6290#6290</guid>
+    <pubDate>Mon, 20 Jul 2026 17:17:42 -0000</pubDate>
+    <description>Expansion of ocean exploration. Diving suits and depth mechanics.</description>
+  </item>
+  <item>
+    <title>UI-Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/uitweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/uitweaks#7926</guid>
+    <pubDate>Mon, 20 Jul 2026 17:09:48 -0000</pubDate>
+    <description>Zoom Button, configurable HUD, in-game calculator, and more...</description>
+  </item>
+  <item>
+    <title>Nickelback</title>
+    <link>https://mods.vintagestory.at/show/mod/nickelback</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nickelback#9223</guid>
+    <pubDate>Mon, 20 Jul 2026 17:09:26 -0000</pubDate>
+    <description>This mod gives you bits of metal back when a tool breaks during quenching</description>
+  </item>
+  <item>
+    <title>More animations</title>
+    <link>https://mods.vintagestory.at/show/mod/mefimations</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mefimations#9963</guid>
+    <pubDate>Mon, 20 Jul 2026 17:03:21 -0000</pubDate>
+    <description>Better body and face animations</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Mon, 20 Jul 2026 16:51:19 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Vintage Story Chinese Language Pack</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
+    <pubDate>Mon, 20 Jul 2026 16:42:36 -0000</pubDate>
+    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
+  </item>
+  <item>
+    <title>BetterTraders</title>
+    <link>https://mods.vintagestory.at/show/mod/bettertraders</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettertraders#1183</guid>
+    <pubDate>Mon, 20 Jul 2026 16:38:33 -0000</pubDate>
+    <description>Replaces vanilla traders with new trader structures.</description>
+  </item>
+  <item>
+    <title>BetterRuins</title>
+    <link>https://mods.vintagestory.at/show/mod/betterruins</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterruins#792</guid>
+    <pubDate>Mon, 20 Jul 2026 16:34:03 -0000</pubDate>
+    <description>Adds many new ruins over and underground to your survival game world.</description>
+  </item>
+  <item>
+    <title>Bricks and Bloom Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks#10399</guid>
+    <pubDate>Mon, 20 Jul 2026 16:31:49 -0000</pubDate>
+    <description>Solves conflicts between various mods for the Bricks and Bloom server.</description>
+  </item>
+  <item>
+    <title>NDL ExpandedGrowth (Tree Growth Module)</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthtrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthtrees#5697</guid>
+    <pubDate>Mon, 20 Jul 2026 16:30:18 -0000</pubDate>
+    <description>Adds a method for growing larger variants of trees.</description>
+  </item>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Mon, 20 Jul 2026 16:27:38 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
   <item>
     <title>Vampirism</title>
     <link>https://mods.vintagestory.at/show/mod/vampirism</link>
@@ -18,13 +186,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
     <pubDate>Mon, 20 Jul 2026 16:12:46 -0000</pubDate>
     <description>Toggle automatic walking, sprinting and sneaking. Supports also automatic climbing.</description>
-  </item>
-  <item>
-    <title>Bricks and Bloom Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks#10399</guid>
-    <pubDate>Mon, 20 Jul 2026 16:11:45 -0000</pubDate>
-    <description>Solves conflicts between various mods for the Bricks and Bloom server.</description>
   </item>
   <item>
     <title>Open Claims</title>
@@ -53,167 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacks#10127</guid>
     <pubDate>Mon, 20 Jul 2026 14:21:19 -0000</pubDate>
     <description>Makes vanilla backpacks modular, allowing you to attach addons to extend storage slots.</description>
-  </item>
-  <item>
-    <title>Stone Age Drystone</title>
-    <link>https://mods.vintagestory.at/show/mod/stoneagedrystone</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stoneagedrystone#3728</guid>
-    <pubDate>Mon, 20 Jul 2026 14:09:02 -0000</pubDate>
-    <description>This mod returns drystone back to the stone age. No more metal tool gatekeeping, just use stones.</description>
-  </item>
-  <item>
-    <title>CB Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Mon, 20 Jul 2026 14:01:07 -0000</pubDate>
-    <description>Harmony patches for my personal server.</description>
-  </item>
-  <item>
-    <title>Seraph Atelier - Player Model Lib</title>
-    <link>https://mods.vintagestory.at/show/mod/seraphatelier</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphatelier#10276</guid>
-    <pubDate>Mon, 20 Jul 2026 12:52:39 -0000</pubDate>
-    <description>Look cute while you do pottery, starve, and get hunted by horrors beyond comprehension!</description>
-  </item>
-  <item>
-    <title>/N/TTS</title>
-    <link>https://mods.vintagestory.at/show/mod/ntts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ntts#10353</guid>
-    <pubDate>Mon, 20 Jul 2026 12:51:43 -0000</pubDate>
-    <description>Text To Speech Mod</description>
-  </item>
-  <item>
-    <title>Strata</title>
-    <link>https://mods.vintagestory.at/show/mod/strata</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/strata#10398</guid>
-    <pubDate>Mon, 20 Jul 2026 12:39:44 -0000</pubDate>
-    <description>early preview: infinite diffusion terrain and climate.</description>
-  </item>
-  <item>
-    <title>Quick Arrow Selection</title>
-    <link>https://mods.vintagestory.at/show/mod/quickarrowselection</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/quickarrowselection#10397</guid>
-    <pubDate>Mon, 20 Jul 2026 12:08:41 -0000</pubDate>
-    <description>Press the tool mode key while holding a bow to select the type of arrow you want to use.</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Mon, 20 Jul 2026 12:03:49 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
-    <title>Critcher's Map Notes</title>
-    <link>https://mods.vintagestory.at/show/mod/mapnotes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mapnotes#6283</guid>
-    <pubDate>Mon, 20 Jul 2026 11:57:22 -0000</pubDate>
-    <description>A mod that allows you to add detailed notes to your waypoints</description>
-  </item>
-  <item>
-    <title>LoFS Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/lofsclass</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lofsclass#10241</guid>
-    <pubDate>Mon, 20 Jul 2026 11:26:52 -0000</pubDate>
-    <description>Working Classes reimagined for the Lands of the Fallen Stars RP Event! Image Unrelated</description>
-  </item>
-  <item>
-    <title>Specialized Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/specializedclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/specializedclasses#6998</guid>
-    <pubDate>Mon, 20 Jul 2026 10:50:16 -0000</pubDate>
-    <description>15 new classes that are the best in their fields by a large margin, with major but specific buffs</description>
-  </item>
-  <item>
-    <title>Julz Addons</title>
-    <link>https://mods.vintagestory.at/show/mod/julzaddons</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/julzaddons#10078</guid>
-    <pubDate>Mon, 20 Jul 2026 10:28:22 -0000</pubDate>
-    <description>A smol mod made for my mates to have fun in VS</description>
-  </item>
-  <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Mon, 20 Jul 2026 09:54:31 -0000</pubDate>
-    <description>A director camera mod for video production workflows.（导演模式模组）</description>
-  </item>
-  <item>
-    <title>Mosin's Rapiers Fixed</title>
-    <link>https://mods.vintagestory.at/show/mod/10396</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10396#10396</guid>
-    <pubDate>Mon, 20 Jul 2026 09:22:54 -0000</pubDate>
-    <description>Adds only the rapiers from mosin's armory, with integrated Quivers and Sheaths support</description>
-  </item>
-  <item>
-    <title>The Hunter</title>
-    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
-    <pubDate>Mon, 20 Jul 2026 08:02:52 -0000</pubDate>
-    <description>Adds animal tracking clues, bleeding, droppings, wounded movement, and carcass carrying.</description>
-  </item>
-  <item>
-    <title>TentBag-Reworked</title>
-    <link>https://mods.vintagestory.at/show/mod/tentbagreworked</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tentbagreworked#3558</guid>
-    <pubDate>Mon, 20 Jul 2026 07:50:23 -0000</pubDate>
-    <description>Adds a tent bag for Vintage Story with scaling hunger cost based on tent complexity</description>
-  </item>
-  <item>
-    <title>Ambien's Easy Chunk Claim</title>
-    <link>https://mods.vintagestory.at/show/mod/9368</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9368#9368</guid>
-    <pubDate>Mon, 20 Jul 2026 07:37:01 -0000</pubDate>
-    <description>Simple chunk claiming made for servers</description>
-  </item>
-  <item>
-    <title>fish(wastaken)'s Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/10394</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10394#10394</guid>
-    <pubDate>Mon, 20 Jul 2026 07:15:22 -0000</pubDate>
-    <description>some classes I made, using features taken from GlooMeClasses and Rustbound Magic.</description>
-  </item>
-  <item>
-    <title>fish(wastaken)'s GlooMe Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10395</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10395#10395</guid>
-    <pubDate>Mon, 20 Jul 2026 06:37:05 -0000</pubDate>
-    <description>small patch for GlooMeClasses to make it better fit my personal tastes.</description>
-  </item>
-  <item>
-    <title>Akira's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/akiratweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/akiratweaks#10138</guid>
-    <pubDate>Mon, 20 Jul 2026 06:15:59 -0000</pubDate>
-    <description>Collection of patches for a personal server.</description>
-  </item>
-  <item>
-    <title>(Not) Just Tofu</title>
-    <link>https://mods.vintagestory.at/show/mod/justtofu</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justtofu#9542</guid>
-    <pubDate>Mon, 20 Jul 2026 06:01:11 -0000</pubDate>
-    <description>Simple, realistic tofu &amp; miso making process for better vegan protein &amp; dairy food and meal options.</description>
-  </item>
-  <item>
-    <title>Burdened</title>
-    <link>https://mods.vintagestory.at/show/mod/burdened</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/burdened#10391</guid>
-    <pubDate>Mon, 20 Jul 2026 05:51:31 -0000</pubDate>
-    <description>A weightier carrying experience: customizable slots, immersive carrying, server-enforced, and more.</description>
-  </item>
-  <item>
-    <title>Meliora Meadows Adjustments</title>
-    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
-    <pubDate>Mon, 20 Jul 2026 05:40:21 -0000</pubDate>
-    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
-  </item>
-  <item>
-    <title>Dishware</title>
-    <link>https://mods.vintagestory.at/show/mod/10372</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10372#10372</guid>
-    <pubDate>Mon, 20 Jul 2026 05:25:11 -0000</pubDate>
-    <description>Adds ceramic dishes such as plates and cups.</description>
   </item>
 </channel>
 </rss>
