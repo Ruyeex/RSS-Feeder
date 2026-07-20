@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 20 Jul 2026 18:54:03 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 20:23:06 +0000</lastBuildDate>
+  <item>
+    <title>Body Fat by Tasshroom</title>
+    <link>https://mods.vintagestory.at/show/mod/tasshroombodyfat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshroombodyfat#4475</guid>
+    <pubDate>Mon, 20 Jul 2026 20:03:23 -0000</pubDate>
+    <description>Body Fat - Stuff your face and save up those calories for the long journey ahead</description>
+  </item>
+  <item>
+    <title>GGBC's Repair</title>
+    <link>https://mods.vintagestory.at/show/mod/ggbcsrepair</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ggbcsrepair#6561</guid>
+    <pubDate>Mon, 20 Jul 2026 19:35:37 -0000</pubDate>
+    <description>A very lightweight mod for balanced item repair. Compatible with ItemRarity, xSkills, and others</description>
+  </item>
+  <item>
+    <title>Stamina Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/staminamod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/staminamod#10151</guid>
+    <pubDate>Mon, 20 Jul 2026 19:22:46 -0000</pubDate>
+    <description>Adds stamina to animals. Exhaustion slows them. Tired predators give up the chase.</description>
+  </item>
+  <item>
+    <title>KCs Dragon Player!</title>
+    <link>https://mods.vintagestory.at/show/mod/kcsdragons</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragons#8146</guid>
+    <pubDate>Mon, 20 Jul 2026 19:19:28 -0000</pubDate>
+    <description>Adds an anthropomorphic dragon player model to the game</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Mon, 20 Jul 2026 19:07:09 -0000</pubDate>
+    <description>A director camera mod for video production workflows.（导演模式模组）</description>
+  </item>
+  <item>
+    <title>Vampirism</title>
+    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
+    <pubDate>Mon, 20 Jul 2026 19:05:15 -0000</pubDate>
+    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
+  </item>
   <item>
     <title>VSNH Currency</title>
     <link>https://mods.vintagestory.at/show/mod/vsnhcurrency</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
     <pubDate>Mon, 20 Jul 2026 16:27:38 -0000</pubDate>
     <description>Potion mod that adds buffs to the player.</description>
-  </item>
-  <item>
-    <title>Vampirism</title>
-    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
-    <pubDate>Mon, 20 Jul 2026 16:13:08 -0000</pubDate>
-    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
-  </item>
-  <item>
-    <title>Auto Walk Extended</title>
-    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
-    <pubDate>Mon, 20 Jul 2026 16:12:46 -0000</pubDate>
-    <description>Toggle automatic walking, sprinting and sneaking. Supports also automatic climbing.</description>
-  </item>
-  <item>
-    <title>Open Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/openclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/openclaims#10334</guid>
-    <pubDate>Mon, 20 Jul 2026 16:04:32 -0000</pubDate>
-    <description>GUI for claims and receive more blocks and areas to claim per hour</description>
-  </item>
-  <item>
-    <title>Immersive Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivebackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpacks#9787</guid>
-    <pubDate>Mon, 20 Jul 2026 16:04:05 -0000</pubDate>
-    <description>Makes backpacks visible on the player and redesigns the mechanic with immersion and realism in mind.</description>
-  </item>
-  <item>
-    <title>MoreInventorys</title>
-    <link>https://mods.vintagestory.at/show/mod/moreinventorys</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreinventorys#10306</guid>
-    <pubDate>Mon, 20 Jul 2026 15:52:14 -0000</pubDate>
-    <description>The mod adds new inventories for convenient and immersive storage: Shelves, crates, racks for weapon</description>
-  </item>
-  <item>
-    <title>Modular Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/modularbackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacks#10127</guid>
-    <pubDate>Mon, 20 Jul 2026 14:21:19 -0000</pubDate>
-    <description>Makes vanilla backpacks modular, allowing you to attach addons to extend storage slots.</description>
   </item>
 </channel>
 </rss>
