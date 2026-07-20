@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 20 Jul 2026 11:47:22 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 14:11:09 +0000</lastBuildDate>
+  <item>
+    <title>Stone Age Drystone</title>
+    <link>https://mods.vintagestory.at/show/mod/stoneagedrystone</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stoneagedrystone#3728</guid>
+    <pubDate>Mon, 20 Jul 2026 14:09:02 -0000</pubDate>
+    <description>This mod returns drystone back to the stone age. No more metal tool gatekeeping, just use stones.</description>
+  </item>
+  <item>
+    <title>CB Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Mon, 20 Jul 2026 14:01:07 -0000</pubDate>
+    <description>Harmony patches for my personal server.</description>
+  </item>
+  <item>
+    <title>Seraph Atelier - Player Model Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/seraphatelier</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphatelier#10276</guid>
+    <pubDate>Mon, 20 Jul 2026 12:52:39 -0000</pubDate>
+    <description>Look cute while you do pottery, starve, and get hunted by horrors beyond comprehension!</description>
+  </item>
+  <item>
+    <title>/N/TTS</title>
+    <link>https://mods.vintagestory.at/show/mod/ntts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ntts#10353</guid>
+    <pubDate>Mon, 20 Jul 2026 12:51:43 -0000</pubDate>
+    <description>Text To Speech Mod</description>
+  </item>
+  <item>
+    <title>Strata</title>
+    <link>https://mods.vintagestory.at/show/mod/strata</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/strata#10398</guid>
+    <pubDate>Mon, 20 Jul 2026 12:39:44 -0000</pubDate>
+    <description>early preview: infinite diffusion terrain and climate.</description>
+  </item>
+  <item>
+    <title>Quick Arrow Selection</title>
+    <link>https://mods.vintagestory.at/show/mod/quickarrowselection</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/quickarrowselection#10397</guid>
+    <pubDate>Mon, 20 Jul 2026 12:08:41 -0000</pubDate>
+    <description>Press the tool mode key while holding a bow to select the type of arrow you want to use.</description>
+  </item>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Mon, 20 Jul 2026 12:03:49 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>Critcher's Map Notes</title>
+    <link>https://mods.vintagestory.at/show/mod/mapnotes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mapnotes#6283</guid>
+    <pubDate>Mon, 20 Jul 2026 11:57:22 -0000</pubDate>
+    <description>A mod that allows you to add detailed notes to your waypoints</description>
+  </item>
   <item>
     <title>LoFS Classes</title>
     <link>https://mods.vintagestory.at/show/mod/lofsclass</link>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7485#7485</guid>
     <pubDate>Mon, 20 Jul 2026 04:13:04 -0000</pubDate>
     <description>Forge your path to Apotheosis. Consume Creatures, take their traits and become the ultimate lifeform</description>
-  </item>
-  <item>
-    <title>Elk Adornments</title>
-    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
-    <pubDate>Mon, 20 Jul 2026 04:06:16 -0000</pubDate>
-    <description>Masks for you and your elk with Modular Elk Armor!</description>
-  </item>
-  <item>
-    <title>ClickLock (Accessibility Mod)</title>
-    <link>https://mods.vintagestory.at/show/mod/6311</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6311#6311</guid>
-    <pubDate>Mon, 20 Jul 2026 04:04:57 -0000</pubDate>
-    <description>Adds accessibility features to lock mouse clicks (Auto-Click/Hold) with customizable settings</description>
-  </item>
-  <item>
-    <title>Antique Harmony | Music Additions / Alternative Soundtrack</title>
-    <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiqueharmony#7141</guid>
-    <pubDate>Mon, 20 Jul 2026 04:00:15 -0000</pubDate>
-    <description>Adds to/replaces soundtrack with original orchestral one, written for the game.</description>
-  </item>
-  <item>
-    <title>Animalica - Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicac</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicac#9798</guid>
-    <pubDate>Mon, 20 Jul 2026 02:58:59 -0000</pubDate>
-    <description>Adds a small list of modded animals as players!</description>
-  </item>
-  <item>
-    <title>CompostTweak</title>
-    <link>https://mods.vintagestory.at/show/mod/3682</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3682#3682</guid>
-    <pubDate>Mon, 20 Jul 2026 02:36:25 -0000</pubDate>
-    <description>Makes composting alot more interactive and adds more things to compost.</description>
-  </item>
-  <item>
-    <title>Hydrate or Diedrate</title>
-    <link>https://mods.vintagestory.at/show/mod/hydrateordiedrate</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hydrateordiedrate#2282</guid>
-    <pubDate>Mon, 20 Jul 2026 02:32:20 -0000</pubDate>
-    <description>A mod that adds thirst and hydration mechanics as well as hot weather survival.</description>
-  </item>
-  <item>
-    <title>Cool Weapons Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/10376</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10376#10376</guid>
-    <pubDate>Mon, 20 Jul 2026 02:26:45 -0000</pubDate>
-    <description>A mod where I just add weapons I think are cool and friends have requested. It should be CO compat</description>
-  </item>
-  <item>
-    <title>[Infinitum] Trader Editor</title>
-    <link>https://mods.vintagestory.at/show/mod/infinitumtradereditor</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/infinitumtradereditor#10392</guid>
-    <pubDate>Mon, 20 Jul 2026 02:06:13 -0000</pubDate>
-    <description>A graphical editor for individual vanilla traders. Customize each trader directly in-game.</description>
   </item>
 </channel>
 </rss>
