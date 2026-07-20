@@ -4,7 +4,98 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 20 Jul 2026 04:36:55 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 08:07:32 +0000</lastBuildDate>
+  <item>
+    <title>The Hunter</title>
+    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
+    <pubDate>Mon, 20 Jul 2026 08:02:52 -0000</pubDate>
+    <description>Adds animal tracking clues, bleeding, droppings, wounded movement, and carcass carrying.</description>
+  </item>
+  <item>
+    <title>TentBag-Reworked</title>
+    <link>https://mods.vintagestory.at/show/mod/tentbagreworked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tentbagreworked#3558</guid>
+    <pubDate>Mon, 20 Jul 2026 07:50:23 -0000</pubDate>
+    <description>Adds a tent bag for Vintage Story with scaling hunger cost based on tent complexity</description>
+  </item>
+  <item>
+    <title>Ambien's Easy Chunk Claim</title>
+    <link>https://mods.vintagestory.at/show/mod/9368</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9368#9368</guid>
+    <pubDate>Mon, 20 Jul 2026 07:37:01 -0000</pubDate>
+    <description>Simple chunk claiming made for servers</description>
+  </item>
+  <item>
+    <title>fish(wastaken)'s Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/10394</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10394#10394</guid>
+    <pubDate>Mon, 20 Jul 2026 07:15:22 -0000</pubDate>
+    <description>some classes I made, using features taken from GlooMeClasses and Rustbound Magic.</description>
+  </item>
+  <item>
+    <title>fish(wastaken)'s GlooMe Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10395</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10395#10395</guid>
+    <pubDate>Mon, 20 Jul 2026 06:37:05 -0000</pubDate>
+    <description>small patch for GlooMeClasses to make it better fit my personal tastes.</description>
+  </item>
+  <item>
+    <title>Akira's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/akiratweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/akiratweaks#10138</guid>
+    <pubDate>Mon, 20 Jul 2026 06:15:59 -0000</pubDate>
+    <description>Collection of patches for a personal server.</description>
+  </item>
+  <item>
+    <title>(Not) Just Tofu</title>
+    <link>https://mods.vintagestory.at/show/mod/justtofu</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justtofu#9542</guid>
+    <pubDate>Mon, 20 Jul 2026 06:01:11 -0000</pubDate>
+    <description>Simple, realistic tofu &amp; miso making process for better vegan protein &amp; dairy food and meal options.</description>
+  </item>
+  <item>
+    <title>Burdened</title>
+    <link>https://mods.vintagestory.at/show/mod/burdened</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/burdened#10391</guid>
+    <pubDate>Mon, 20 Jul 2026 05:51:31 -0000</pubDate>
+    <description>A weightier carrying experience: customizable slots, immersive carrying, server-enforced, and more.</description>
+  </item>
+  <item>
+    <title>Meliora Meadows Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
+    <pubDate>Mon, 20 Jul 2026 05:40:21 -0000</pubDate>
+    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
+  </item>
+  <item>
+    <title>Vampirism</title>
+    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
+    <pubDate>Mon, 20 Jul 2026 05:39:20 -0000</pubDate>
+    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
+  </item>
+  <item>
+    <title>Dishware</title>
+    <link>https://mods.vintagestory.at/show/mod/10372</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10372#10372</guid>
+    <pubDate>Mon, 20 Jul 2026 05:25:11 -0000</pubDate>
+    <description>Adds ceramic dishes such as plates and cups.</description>
+  </item>
+  <item>
+    <title>Fast Travel NPC</title>
+    <link>https://mods.vintagestory.at/show/mod/fasttravelnpc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fasttravelnpc#9686</guid>
+    <pubDate>Mon, 20 Jul 2026 05:12:35 -0000</pubDate>
+    <description>Allows players to fast travel in the world by paying rusty gears.</description>
+  </item>
+  <item>
+    <title>Vintage Rift - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
+    <pubDate>Mon, 20 Jul 2026 04:50:12 -0000</pubDate>
+    <description>Client only code for the Vintage Rift server</description>
+  </item>
   <item>
     <title>Jelly Bundle</title>
     <link>https://mods.vintagestory.at/show/mod/10059</link>
@@ -55,13 +146,6 @@
     <description>Adds to/replaces soundtrack with original orchestral one, written for the game.</description>
   </item>
   <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Mon, 20 Jul 2026 03:37:53 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
     <title>Animalica - Compatibility</title>
     <link>https://mods.vintagestory.at/show/mod/animalicac</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicac#9798</guid>
@@ -97,13 +181,6 @@
     <description>A graphical editor for individual vanilla traders. Customize each trader directly in-game.</description>
   </item>
   <item>
-    <title>Burdened</title>
-    <link>https://mods.vintagestory.at/show/mod/burdened</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/burdened#10391</guid>
-    <pubDate>Mon, 20 Jul 2026 01:56:25 -0000</pubDate>
-    <description>A weightier carrying experience: customizable slots, immersive carrying, server-enforced, and more.</description>
-  </item>
-  <item>
     <title>Aged Wood Restore</title>
     <link>https://mods.vintagestory.at/show/mod/10389</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10389#10389</guid>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
     <pubDate>Mon, 20 Jul 2026 00:18:02 -0000</pubDate>
     <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Mon, 20 Jul 2026 00:10:29 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>Smithing Plus_1.9.0-rc1_hotfix</title>
-    <link>https://mods.vintagestory.at/show/mod/9598</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9598#9598</guid>
-    <pubDate>Sun, 19 Jul 2026 23:43:33 -0000</pubDate>
-    <description>General hotfix for 1.9.0-rc.1, addressing chisel delay, iron bloom stutters, and lag spikes/crashes</description>
-  </item>
-  <item>
-    <title>Astria Porta Sounds</title>
-    <link>https://mods.vintagestory.at/show/mod/10309</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10309#10309</guid>
-    <pubDate>Sun, 19 Jul 2026 23:31:26 -0000</pubDate>
-    <description>Adds Stargate sounds to Astria Porta's Stargates</description>
-  </item>
-  <item>
-    <title>RebornClassTweak</title>
-    <link>https://mods.vintagestory.at/show/mod/10235</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10235#10235</guid>
-    <pubDate>Sun, 19 Jul 2026 23:22:10 -0000</pubDate>
-    <description>class fix</description>
-  </item>
-  <item>
-    <title>More Lanterns</title>
-    <link>https://mods.vintagestory.at/show/mod/apelanterns</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/apelanterns#2488</guid>
-    <pubDate>Sun, 19 Jul 2026 23:07:05 -0000</pubDate>
-    <description>Adds a variety of decorative and useful lanterns</description>
-  </item>
-  <item>
-    <title>Animalica - Body Tools &amp; Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicabtc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicabtc#9867</guid>
-    <pubDate>Sun, 19 Jul 2026 22:43:26 -0000</pubDate>
-    <description>Adds wearable claws, fangs, body tools, and animal classes for Fox, Wolf, and Hyena for now</description>
-  </item>
-  <item>
-    <title>VSNH Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/vsnhtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsnhtweaks#8336</guid>
-    <pubDate>Sun, 19 Jul 2026 22:40:33 -0000</pubDate>
-    <description>Tweaks and modifications for the Vintage Story New Horizons server.</description>
-  </item>
-  <item>
-    <title>Animalica - Hooved Animals</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicah</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicah#9797</guid>
-    <pubDate>Sun, 19 Jul 2026 22:40:28 -0000</pubDate>
-    <description>Adds all the hooved animals as playable models!</description>
-  </item>
-  <item>
-    <title>Animalica - Bears</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicab</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicab#9795</guid>
-    <pubDate>Sun, 19 Jul 2026 22:39:51 -0000</pubDate>
-    <description>Adds Bears as player choices</description>
-  </item>
-  <item>
-    <title>Animalica - Foxes, Wolves &amp; Hyenas</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicafwh</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicafwh#9794</guid>
-    <pubDate>Sun, 19 Jul 2026 22:39:27 -0000</pubDate>
-    <description>Adds Foxes, Wolves, and Hyenas as player choices!</description>
-  </item>
-  <item>
-    <title>Animalica Core</title>
-    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
-    <pubDate>Sun, 19 Jul 2026 22:38:49 -0000</pubDate>
-    <description>Core mod for playable animals. Does nothing on it's own</description>
   </item>
 </channel>
 </rss>
