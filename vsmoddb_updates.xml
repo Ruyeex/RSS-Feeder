@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 20 Jul 2026 14:11:09 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 16:25:40 +0000</lastBuildDate>
+  <item>
+    <title>Vampirism</title>
+    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
+    <pubDate>Mon, 20 Jul 2026 16:13:08 -0000</pubDate>
+    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
+  </item>
+  <item>
+    <title>Auto Walk Extended</title>
+    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
+    <pubDate>Mon, 20 Jul 2026 16:12:46 -0000</pubDate>
+    <description>Toggle automatic walking, sprinting and sneaking. Supports also automatic climbing.</description>
+  </item>
+  <item>
+    <title>Bricks and Bloom Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks#10399</guid>
+    <pubDate>Mon, 20 Jul 2026 16:11:45 -0000</pubDate>
+    <description>Solves conflicts between various mods for the Bricks and Bloom server.</description>
+  </item>
+  <item>
+    <title>Open Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/openclaims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/openclaims#10334</guid>
+    <pubDate>Mon, 20 Jul 2026 16:04:32 -0000</pubDate>
+    <description>GUI for claims and receive more blocks and areas to claim per hour</description>
+  </item>
+  <item>
+    <title>Immersive Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivebackpacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpacks#9787</guid>
+    <pubDate>Mon, 20 Jul 2026 16:04:05 -0000</pubDate>
+    <description>Makes backpacks visible on the player and redesigns the mechanic with immersion and realism in mind.</description>
+  </item>
+  <item>
+    <title>MoreInventorys</title>
+    <link>https://mods.vintagestory.at/show/mod/moreinventorys</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreinventorys#10306</guid>
+    <pubDate>Mon, 20 Jul 2026 15:52:14 -0000</pubDate>
+    <description>The mod adds new inventories for convenient and immersive storage: Shelves, crates, racks for weapon</description>
+  </item>
+  <item>
+    <title>Modular Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/modularbackpacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacks#10127</guid>
+    <pubDate>Mon, 20 Jul 2026 14:21:19 -0000</pubDate>
+    <description>Makes vanilla backpacks modular, allowing you to attach addons to extend storage slots.</description>
+  </item>
   <item>
     <title>Stone Age Drystone</title>
     <link>https://mods.vintagestory.at/show/mod/stoneagedrystone</link>
@@ -160,60 +209,11 @@
     <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
   </item>
   <item>
-    <title>Vampirism</title>
-    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
-    <pubDate>Mon, 20 Jul 2026 05:39:20 -0000</pubDate>
-    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
-  </item>
-  <item>
     <title>Dishware</title>
     <link>https://mods.vintagestory.at/show/mod/10372</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10372#10372</guid>
     <pubDate>Mon, 20 Jul 2026 05:25:11 -0000</pubDate>
     <description>Adds ceramic dishes such as plates and cups.</description>
-  </item>
-  <item>
-    <title>Fast Travel NPC</title>
-    <link>https://mods.vintagestory.at/show/mod/fasttravelnpc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fasttravelnpc#9686</guid>
-    <pubDate>Mon, 20 Jul 2026 05:12:35 -0000</pubDate>
-    <description>Allows players to fast travel in the world by paying rusty gears.</description>
-  </item>
-  <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Mon, 20 Jul 2026 04:50:12 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
-    <title>Jelly Bundle</title>
-    <link>https://mods.vintagestory.at/show/mod/10059</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10059#10059</guid>
-    <pubDate>Mon, 20 Jul 2026 04:35:49 -0000</pubDate>
-    <description>A compilation of tweaks for the Swamp Jelly server.</description>
-  </item>
-  <item>
-    <title>Tethys Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tethysservertweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tethysservertweaks#6101</guid>
-    <pubDate>Mon, 20 Jul 2026 04:25:41 -0000</pubDate>
-    <description>Tweaks for a personal private server.</description>
-  </item>
-  <item>
-    <title>aged wood fix</title>
-    <link>https://mods.vintagestory.at/show/mod/10345</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10345#10345</guid>
-    <pubDate>Mon, 20 Jul 2026 04:24:13 -0000</pubDate>
-    <description>fixes aged wood textures path</description>
-  </item>
-  <item>
-    <title>Zenith: Assimilation</title>
-    <link>https://mods.vintagestory.at/show/mod/7485</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7485#7485</guid>
-    <pubDate>Mon, 20 Jul 2026 04:13:04 -0000</pubDate>
-    <description>Forge your path to Apotheosis. Consume Creatures, take their traits and become the ultimate lifeform</description>
   </item>
 </channel>
 </rss>
