@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 21 Jul 2026 21:12:53 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Jul 2026 22:59:50 +0000</lastBuildDate>
+  <item>
+    <title>Metal Leaf</title>
+    <link>https://mods.vintagestory.at/show/mod/4045</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4045#4045</guid>
+    <pubDate>Tue, 21 Jul 2026 22:50:48 -0000</pubDate>
+    <description>Smith metal into leaf to cheaply apply metallic textures to a chiseled block.</description>
+  </item>
+  <item>
+    <title>Rope And Spear</title>
+    <link>https://mods.vintagestory.at/show/mod/ropeandspear</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ropeandspear#8849</guid>
+    <pubDate>Tue, 21 Jul 2026 22:48:22 -0000</pubDate>
+    <description>Return your spears with ease! Use vanilla/modded spears! Configurable via json</description>
+  </item>
+  <item>
+    <title>Dense Ground Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
+    <pubDate>Tue, 21 Jul 2026 22:42:39 -0000</pubDate>
+    <description>Place down more items per block and on chiseled blocks</description>
+  </item>
+  <item>
+    <title>Astria Porta</title>
+    <link>https://mods.vintagestory.at/show/mod/astriaporta</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/astriaporta#3738</guid>
+    <pubDate>Tue, 21 Jul 2026 22:19:25 -0000</pubDate>
+    <description>Astria Porta brings SG-1's stargates to Vintage Story for you to explore the world</description>
+  </item>
+  <item>
+    <title>Fast Ground Placing</title>
+    <link>https://mods.vintagestory.at/show/mod/10420</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10420#10420</guid>
+    <pubDate>Tue, 21 Jul 2026 22:17:35 -0000</pubDate>
+    <description>Increases the bulk stack quantity on a few base game resources.</description>
+  </item>
+  <item>
+    <title>Dyed Wood</title>
+    <link>https://mods.vintagestory.at/show/mod/dyedwood</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dyedwood#10405</guid>
+    <pubDate>Tue, 21 Jul 2026 22:07:05 -0000</pubDate>
+    <description>Adds dyed planks, slabs, and stairs for every vanilla wood while preserving natural grain.</description>
+  </item>
+  <item>
+    <title>More animations</title>
+    <link>https://mods.vintagestory.at/show/mod/mefimations</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mefimations#9963</guid>
+    <pubDate>Tue, 21 Jul 2026 21:42:13 -0000</pubDate>
+    <description>Better body and face animations</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Tue, 21 Jul 2026 21:31:10 -0000</pubDate>
+    <description>A director camera mod for video production workflows.（导演模式模组）</description>
+  </item>
+  <item>
+    <title>Kiln Spreader</title>
+    <link>https://mods.vintagestory.at/show/mod/kilnspreader</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kilnspreader#949</guid>
+    <pubDate>Tue, 21 Jul 2026 21:28:28 -0000</pubDate>
+    <description>A mod to readd the chain-lighting of pit kilns like in Terrafirmacraft. </description>
+  </item>
+  <item>
+    <title>Body Fat by Tasshroom</title>
+    <link>https://mods.vintagestory.at/show/mod/tasshroombodyfat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshroombodyfat#4475</guid>
+    <pubDate>Tue, 21 Jul 2026 21:26:46 -0000</pubDate>
+    <description>Body Fat - Stuff your face and save up those calories for the long journey ahead</description>
+  </item>
+  <item>
+    <title>Riley's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Tue, 21 Jul 2026 21:18:43 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+  </item>
   <item>
     <title>Ecosystem - Flora</title>
     <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
@@ -39,13 +116,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fiddleheads#10421</guid>
     <pubDate>Tue, 21 Jul 2026 20:36:08 -0000</pubDate>
     <description>Fiddlehead Ferns - Harvest wild furled fronds and use them in meals as any other vegetable</description>
-  </item>
-  <item>
-    <title>Fast Ground Placing</title>
-    <link>https://mods.vintagestory.at/show/mod/10420</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10420#10420</guid>
-    <pubDate>Tue, 21 Jul 2026 20:35:20 -0000</pubDate>
-    <description>Increases the bulk stack quantity on a few base game resources.</description>
   </item>
   <item>
     <title>WOO Fantasy Additions</title>
@@ -111,13 +181,6 @@
     <description>Combat Impact overhauls the default thud sound produced when hitting an enemy with a weapon.</description>
   </item>
   <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Tue, 21 Jul 2026 19:20:24 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
     <title>Armor Durability X4</title>
     <link>https://mods.vintagestory.at/show/mod/armordurabilityx4</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/armordurabilityx4#9451</guid>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10418#10418</guid>
     <pubDate>Tue, 21 Jul 2026 18:14:42 -0000</pubDate>
     <description>Simple Rename for Chonky Vessels</description>
-  </item>
-  <item>
-    <title>Dishware</title>
-    <link>https://mods.vintagestory.at/show/mod/10372</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10372#10372</guid>
-    <pubDate>Tue, 21 Jul 2026 18:12:02 -0000</pubDate>
-    <description>Adds ceramic dishes such as plates and cups.</description>
-  </item>
-  <item>
-    <title>mapteleporter</title>
-    <link>https://mods.vintagestory.at/show/mod/8424</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8424#8424</guid>
-    <pubDate>Tue, 21 Jul 2026 17:47:42 -0000</pubDate>
-    <description>Map Teleporter</description>
-  </item>
-  <item>
-    <title>Auto Walk Extended</title>
-    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
-    <pubDate>Tue, 21 Jul 2026 17:24:43 -0000</pubDate>
-    <description>Toggle walking/sprinting. Options to toggle sneaking and automatic climbing.</description>
-  </item>
-  <item>
-    <title>Mastodon Trunk fix</title>
-    <link>https://mods.vintagestory.at/show/mod/9661</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9661#9661</guid>
-    <pubDate>Tue, 21 Jul 2026 17:12:56 -0000</pubDate>
-    <description>Mastodon Trunk fixed</description>
-  </item>
-  <item>
-    <title>Better Scrap fix</title>
-    <link>https://mods.vintagestory.at/show/mod/8320</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8320#8320</guid>
-    <pubDate>Tue, 21 Jul 2026 17:12:31 -0000</pubDate>
-    <description>Jonas's helmet fixed</description>
-  </item>
-  <item>
-    <title>Two Handed Sling</title>
-    <link>https://mods.vintagestory.at/show/mod/10417</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10417#10417</guid>
-    <pubDate>Tue, 21 Jul 2026 16:54:24 -0000</pubDate>
-    <description>Adds a Two-Handed Sling to Maltiez's quivers and sheathes mod.</description>
-  </item>
-  <item>
-    <title>Modular Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/modularbackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacks#10127</guid>
-    <pubDate>Tue, 21 Jul 2026 16:53:43 -0000</pubDate>
-    <description>Makes vanilla backpacks modular, allowing you to attach addons to extend storage slots.</description>
-  </item>
-  <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Tue, 21 Jul 2026 16:29:21 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
-    <title>Bushmeat Recipe</title>
-    <link>https://mods.vintagestory.at/show/mod/3736</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3736#3736</guid>
-    <pubDate>Tue, 21 Jul 2026 16:02:03 -0000</pubDate>
-    <description>Adds bushmeat (raw and salted) to meals.</description>
   </item>
 </channel>
 </rss>
