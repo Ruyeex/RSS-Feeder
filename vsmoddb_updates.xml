@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 21 Jul 2026 11:48:24 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Jul 2026 13:57:46 +0000</lastBuildDate>
+  <item>
+    <title>StirlingMotor</title>
+    <link>https://mods.vintagestory.at/show/mod/3832</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3832#3832</guid>
+    <pubDate>Tue, 21 Jul 2026 13:56:50 -0000</pubDate>
+    <description>Adds a Stirling engine (coal energy)</description>
+  </item>
+  <item>
+    <title>Launcher Mod Updater</title>
+    <link>https://mods.vintagestory.at/show/mod/launchermodupdater</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchermodupdater#10339</guid>
+    <pubDate>Tue, 21 Jul 2026 13:50:29 -0000</pubDate>
+    <description>An in-game mod updater that allows to download new updates for active mods.</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Tue, 21 Jul 2026 13:03:04 -0000</pubDate>
+    <description>A director camera mod for video production workflows.（导演模式模组）</description>
+  </item>
+  <item>
+    <title>Freshness Overlay</title>
+    <link>https://mods.vintagestory.at/show/mod/10190</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10190#10190</guid>
+    <pubDate>Tue, 21 Jul 2026 12:54:21 -0000</pubDate>
+    <description>Shows freshness of food and hides.</description>
+  </item>
+  <item>
+    <title>Mobility</title>
+    <link>https://mods.vintagestory.at/show/mod/mobility</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mobility#8768</guid>
+    <pubDate>Tue, 21 Jul 2026 12:05:07 -0000</pubDate>
+    <description>Step Up / Climb / Grab / Auto Walk / Auto Run</description>
+  </item>
   <item>
     <title>Leaf Litter</title>
     <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10409#10409</guid>
     <pubDate>Tue, 21 Jul 2026 06:21:12 -0000</pubDate>
     <description>Fixes long-term foods broken egg patches for expanded foods</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Tue, 21 Jul 2026 06:07:44 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Combat Impact</title>
-    <link>https://mods.vintagestory.at/show/mod/10408</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10408#10408</guid>
-    <pubDate>Tue, 21 Jul 2026 06:03:20 -0000</pubDate>
-    <description>Combat Impact overhauls the default thud sound produced when hitting an enemy with a weapon.</description>
-  </item>
-  <item>
-    <title>Jelly Bundle</title>
-    <link>https://mods.vintagestory.at/show/mod/10059</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10059#10059</guid>
-    <pubDate>Tue, 21 Jul 2026 05:47:36 -0000</pubDate>
-    <description>A compilation of tweaks for the Swamp Jelly server.</description>
-  </item>
-  <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Tue, 21 Jul 2026 05:44:45 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/10162</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10162#10162</guid>
-    <pubDate>Tue, 21 Jul 2026 05:00:48 -0000</pubDate>
-    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
   </item>
 </channel>
 </rss>
