@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 21 Jul 2026 15:48:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Jul 2026 17:23:30 +0000</lastBuildDate>
+  <item>
+    <title>Auto Walk Extended</title>
+    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
+    <pubDate>Tue, 21 Jul 2026 17:12:56 -0000</pubDate>
+    <description>Toggle walking/sprinting. Options to toggle sneaking and automatic climbing.</description>
+  </item>
+  <item>
+    <title>Mastodon Trunk fix</title>
+    <link>https://mods.vintagestory.at/show/mod/9661</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9661#9661</guid>
+    <pubDate>Tue, 21 Jul 2026 17:12:56 -0000</pubDate>
+    <description>Mastodon Trunk fixed</description>
+  </item>
+  <item>
+    <title>Better Scrap fix</title>
+    <link>https://mods.vintagestory.at/show/mod/8320</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8320#8320</guid>
+    <pubDate>Tue, 21 Jul 2026 17:12:31 -0000</pubDate>
+    <description>Jonas's helmet fixed</description>
+  </item>
+  <item>
+    <title>Two Handed Sling</title>
+    <link>https://mods.vintagestory.at/show/mod/10417</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10417#10417</guid>
+    <pubDate>Tue, 21 Jul 2026 16:54:24 -0000</pubDate>
+    <description>Adds a Two-Handed Sling to Maltiez's quivers and sheathes mod.</description>
+  </item>
+  <item>
+    <title>Modular Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/modularbackpacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacks#10127</guid>
+    <pubDate>Tue, 21 Jul 2026 16:53:43 -0000</pubDate>
+    <description>Makes vanilla backpacks modular, allowing you to attach addons to extend storage slots.</description>
+  </item>
+  <item>
+    <title>Vintage Rift - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
+    <pubDate>Tue, 21 Jul 2026 16:29:21 -0000</pubDate>
+    <description>Client only code for the Vintage Rift server</description>
+  </item>
+  <item>
+    <title>Bushmeat Recipe</title>
+    <link>https://mods.vintagestory.at/show/mod/3736</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3736#3736</guid>
+    <pubDate>Tue, 21 Jul 2026 16:02:03 -0000</pubDate>
+    <description>Adds bushmeat (raw and salted) to meals.</description>
+  </item>
+  <item>
+    <title>Creature Finder</title>
+    <link>https://mods.vintagestory.at/show/mod/mobfinder</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mobfinder#10415</guid>
+    <pubDate>Tue, 21 Jul 2026 15:58:24 -0000</pubDate>
+    <description>this mod is for finding mobs! "what it does?" it can show hitboxes and make a waypoint on the mob</description>
+  </item>
+  <item>
+    <title>Freedom Units [The Reupload]</title>
+    <link>https://mods.vintagestory.at/show/mod/6554</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6554#6554</guid>
+    <pubDate>Tue, 21 Jul 2026 15:49:59 -0000</pubDate>
+    <description>Freedom of temperature units is back on the menu...</description>
+  </item>
   <item>
     <title>TitaniumTools</title>
     <link>https://mods.vintagestory.at/show/mod/3829</link>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vssb#10412</guid>
     <pubDate>Tue, 21 Jul 2026 11:06:17 -0000</pubDate>
     <description>Small app for managing mods and configs on remote container servers via SSH with SFTP\CAT methods.</description>
-  </item>
-  <item>
-    <title>Chonky Kitchenware</title>
-    <link>https://mods.vintagestory.at/show/mod/9694</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9694#9694</guid>
-    <pubDate>Tue, 21 Jul 2026 10:16:51 -0000</pubDate>
-    <description>This mod aims to make your kitchen feel more cozy, giving it a personal touch!</description>
-  </item>
-  <item>
-    <title>Chonky Vessels</title>
-    <link>https://mods.vintagestory.at/show/mod/7686</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7686#7686</guid>
-    <pubDate>Tue, 21 Jul 2026 10:11:02 -0000</pubDate>
-    <description>Adds chonkier vessels &amp; more with better storage and spoilage properties.</description>
-  </item>
-  <item>
-    <title>Firearms Resound</title>
-    <link>https://mods.vintagestory.at/show/mod/firearmsresound</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/firearmsresound#10411</guid>
-    <pubDate>Tue, 21 Jul 2026 09:56:46 -0000</pubDate>
-    <description>Replaces and adds new sounds to Firearms, including Extra Firearms</description>
-  </item>
-  <item>
-    <title>Vanilla Fantasy Overhaul - Lore Mobs</title>
-    <link>https://mods.vintagestory.at/show/mod/vfolm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vfolm#8356</guid>
-    <pubDate>Tue, 21 Jul 2026 09:26:57 -0000</pubDate>
-    <description>A remodling of the Lore Mobs to make them fantastical. Not Finished.</description>
-  </item>
-  <item>
-    <title>Adventurer's Walking Stick</title>
-    <link>https://mods.vintagestory.at/show/mod/5845</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5845#5845</guid>
-    <pubDate>Tue, 21 Jul 2026 08:51:42 -0000</pubDate>
-    <description>Adds various walking sticks that provide benefits to walking speed and hunger rate</description>
-  </item>
-  <item>
-    <title>World Pregenerator</title>
-    <link>https://mods.vintagestory.at/show/mod/8513</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8513#8513</guid>
-    <pubDate>Tue, 21 Jul 2026 08:51:26 -0000</pubDate>
-    <description>A server‑side mod that pre‑generates the world in small sectors using a square spiral from the cente</description>
-  </item>
-  <item>
-    <title>ChunkMap Pregenerator</title>
-    <link>https://mods.vintagestory.at/show/mod/chunkmappregenerator</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chunkmappregenerator#5243</guid>
-    <pubDate>Tue, 21 Jul 2026 08:51:05 -0000</pubDate>
-    <description>Generates colored PNG land/sea maps with configurable scale.</description>
-  </item>
-  <item>
-    <title>IOG - Vanilla Cave-In Restore</title>
-    <link>https://mods.vintagestory.at/show/mod/8508</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8508#8508</guid>
-    <pubDate>Tue, 21 Jul 2026 08:50:31 -0000</pubDate>
-    <description>IOG - Vanilla Cave-In Restore. A small compatibility / restore mod for Interesting Ore Gen.</description>
-  </item>
-  <item>
-    <title>BR Extension Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/9562</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9562#9562</guid>
-    <pubDate>Tue, 21 Jul 2026 08:49:44 -0000</pubDate>
-    <description>Runtime enhancement addon for BetterRuins with configurable schematic durability and future gameplay</description>
   </item>
 </channel>
 </rss>
