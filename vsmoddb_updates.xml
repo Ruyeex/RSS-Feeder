@@ -4,12 +4,82 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 21 Jul 2026 13:57:46 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Jul 2026 15:48:01 +0000</lastBuildDate>
+  <item>
+    <title>TitaniumTools</title>
+    <link>https://mods.vintagestory.at/show/mod/3829</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3829#3829</guid>
+    <pubDate>Tue, 21 Jul 2026 15:45:20 -0000</pubDate>
+    <description>Adds titanium tools (pickaxe, axe, shovel, etc.)</description>
+  </item>
+  <item>
+    <title>Oils! Resoaped Standalone</title>
+    <link>https://mods.vintagestory.at/show/mod/oilsresoapedsa</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oilsresoapedsa#10040</guid>
+    <pubDate>Tue, 21 Jul 2026 15:02:11 -0000</pubDate>
+    <description>A content mod that adds plant oils &amp; some alternative recipes, e.g. treating hides and quicklime. </description>
+  </item>
+  <item>
+    <title>Oils! Resoaped</title>
+    <link>https://mods.vintagestory.at/show/mod/oilsresoaped</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oilsresoaped#9991</guid>
+    <pubDate>Tue, 21 Jul 2026 15:01:48 -0000</pubDate>
+    <description>A content mod that adds plant oils &amp; some alternative recipes, e.g. treating hides and quicklime. </description>
+  </item>
+  <item>
+    <title>Wild West Surface</title>
+    <link>https://mods.vintagestory.at/show/mod/wildwestsurface</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wildwestsurface#10414</guid>
+    <pubDate>Tue, 21 Jul 2026 14:36:40 -0000</pubDate>
+    <description>Addon for Wild West Climate that adds sandstone-style western desert geology</description>
+  </item>
+  <item>
+    <title>More Tools</title>
+    <link>https://mods.vintagestory.at/show/mod/moretools</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moretools#9754</guid>
+    <pubDate>Tue, 21 Jul 2026 14:19:26 -0000</pubDate>
+    <description>Adds stainless steel and titanium variants for vanilla tools to Vintage Story</description>
+  </item>
+  <item>
+    <title>Trader Phone (Beta)</title>
+    <link>https://mods.vintagestory.at/show/mod/remotetradercheckmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/remotetradercheckmod#3223</guid>
+    <pubDate>Tue, 21 Jul 2026 14:17:52 -0000</pubDate>
+    <description>Let's make a call to traders and check their stocks!</description>
+  </item>
+  <item>
+    <title>Scoop of Jam</title>
+    <link>https://mods.vintagestory.at/show/mod/scoopofjammod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scoopofjammod#6164</guid>
+    <pubDate>Tue, 21 Jul 2026 14:17:12 -0000</pubDate>
+    <description>Scoop jam with a spoon to make jam sandwiches and jam pies!</description>
+  </item>
+  <item>
+    <title>Self-Recording Thermometer</title>
+    <link>https://mods.vintagestory.at/show/mod/airthermomod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/airthermomod#2859</guid>
+    <pubDate>Tue, 21 Jul 2026 14:16:55 -0000</pubDate>
+    <description>Adds a self-recording thermometer</description>
+  </item>
+  <item>
+    <title>Thatch is Grass!</title>
+    <link>https://mods.vintagestory.at/show/mod/10413</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10413#10413</guid>
+    <pubDate>Tue, 21 Jul 2026 14:01:20 -0000</pubDate>
+    <description>A simple mod that lets you convert thatch into dried grass and back.</description>
+  </item>
+  <item>
+    <title>Wild West Climate</title>
+    <link>https://mods.vintagestory.at/show/mod/wildwestclimate</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wildwestclimate#10070</guid>
+    <pubDate>Tue, 21 Jul 2026 14:00:00 -0000</pubDate>
+    <description>Makes the west drier, hotter, and more desert-like as you travel across the world.</description>
+  </item>
   <item>
     <title>StirlingMotor</title>
     <link>https://mods.vintagestory.at/show/mod/3832</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3832#3832</guid>
-    <pubDate>Tue, 21 Jul 2026 13:56:50 -0000</pubDate>
+    <pubDate>Tue, 21 Jul 2026 13:58:33 -0000</pubDate>
     <description>Adds a Stirling engine (coal energy)</description>
   </item>
   <item>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9562#9562</guid>
     <pubDate>Tue, 21 Jul 2026 08:49:44 -0000</pubDate>
     <description>Runtime enhancement addon for BetterRuins with configurable schematic durability and future gameplay</description>
-  </item>
-  <item>
-    <title>ClimateScalePatch</title>
-    <link>https://mods.vintagestory.at/show/mod/10277</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10277#10277</guid>
-    <pubDate>Tue, 21 Jul 2026 08:46:04 -0000</pubDate>
-    <description>ClimateScalePatch modifies climate map generation during worldgen.</description>
-  </item>
-  <item>
-    <title>Packrat Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/packratfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/packratfork#8798</guid>
-    <pubDate>Tue, 21 Jul 2026 08:19:03 -0000</pubDate>
-    <description>Packrat adds a Storage Browser that lets you view and search the contents of all nearby containers.</description>
-  </item>
-  <item>
-    <title>Status Hud Continued</title>
-    <link>https://mods.vintagestory.at/show/mod/statushudcont</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/statushudcont#1841</guid>
-    <pubDate>Tue, 21 Jul 2026 08:11:58 -0000</pubDate>
-    <description>Displays status information on the HUD.</description>
-  </item>
-  <item>
-    <title>Weapon Pack Alpha - Rebalanced</title>
-    <link>https://mods.vintagestory.at/show/mod/3314</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
-    <pubDate>Tue, 21 Jul 2026 07:48:35 -0000</pubDate>
-    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Tue, 21 Jul 2026 07:48:06 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
-    <title>Saplings Grow Resin/Moss/Vines</title>
-    <link>https://mods.vintagestory.at/show/mod/9915</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9915#9915</guid>
-    <pubDate>Tue, 21 Jul 2026 07:18:13 -0000</pubDate>
-    <description>Saplings generate resin/moss/vines when they grow similar to probabilities during worldgen</description>
-  </item>
-  <item>
-    <title>Modular Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/modularbackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacks#10127</guid>
-    <pubDate>Tue, 21 Jul 2026 06:42:59 -0000</pubDate>
-    <description>Makes vanilla backpacks modular, allowing you to attach addons to extend storage slots.</description>
-  </item>
-  <item>
-    <title>Modular Backpacks: KCs DragonFolk Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/modularbackpacksdragons</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacksdragons#10410</guid>
-    <pubDate>Tue, 21 Jul 2026 06:42:38 -0000</pubDate>
-    <description>Compatibility patch for Modular Backpacks and KCs DragonFolk</description>
-  </item>
-  <item>
-    <title>Hydrate or Diedrate</title>
-    <link>https://mods.vintagestory.at/show/mod/hydrateordiedrate</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hydrateordiedrate#2282</guid>
-    <pubDate>Tue, 21 Jul 2026 06:35:54 -0000</pubDate>
-    <description>A mod that adds thirst and hydration mechanics as well as hot weather survival.</description>
-  </item>
-  <item>
-    <title>Long-term food x EF egg patch fix</title>
-    <link>https://mods.vintagestory.at/show/mod/10409</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10409#10409</guid>
-    <pubDate>Tue, 21 Jul 2026 06:21:12 -0000</pubDate>
-    <description>Fixes long-term foods broken egg patches for expanded foods</description>
   </item>
 </channel>
 </rss>
