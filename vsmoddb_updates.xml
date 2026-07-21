@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 21 Jul 2026 09:28:54 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Jul 2026 11:48:24 +0000</lastBuildDate>
+  <item>
+    <title>Leaf Litter</title>
+    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
+    <pubDate>Tue, 21 Jul 2026 11:43:52 -0000</pubDate>
+    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
+  </item>
+  <item>
+    <title>Deciduous Trees</title>
+    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
+    <pubDate>Tue, 21 Jul 2026 11:43:37 -0000</pubDate>
+    <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
+  </item>
+  <item>
+    <title>Seasonal Flowers</title>
+    <link>https://mods.vintagestory.at/show/mod/9785</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9785#9785</guid>
+    <pubDate>Tue, 21 Jul 2026 11:43:28 -0000</pubDate>
+    <description>Flowers now sprout, bloom, die back, and go dormant. (The mod that hides flowers in the winter)</description>
+  </item>
+  <item>
+    <title>Everything Black Raspberries</title>
+    <link>https://mods.vintagestory.at/show/mod/blackraspberry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blackraspberry#8736</guid>
+    <pubDate>Tue, 21 Jul 2026 11:43:04 -0000</pubDate>
+    <description>Adds black raspberry bushes and their respective products. Now with Expanded Foods compatibility!</description>
+  </item>
+  <item>
+    <title>Fast Packed Dirt Paths</title>
+    <link>https://mods.vintagestory.at/show/mod/fastpackeddirtpaths</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fastpackeddirtpaths#6807</guid>
+    <pubDate>Tue, 21 Jul 2026 11:41:28 -0000</pubDate>
+    <description>Increases player speed when walking on packed dirt</description>
+  </item>
+  <item>
+    <title>VSSB - Vintage Story Server Buddy</title>
+    <link>https://mods.vintagestory.at/show/mod/vssb</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vssb#10412</guid>
+    <pubDate>Tue, 21 Jul 2026 11:06:17 -0000</pubDate>
+    <description>Small app for managing mods and configs on remote container servers via SSH with SFTP\CAT methods.</description>
+  </item>
+  <item>
+    <title>Chonky Kitchenware</title>
+    <link>https://mods.vintagestory.at/show/mod/9694</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9694#9694</guid>
+    <pubDate>Tue, 21 Jul 2026 10:16:51 -0000</pubDate>
+    <description>This mod aims to make your kitchen feel more cozy, giving it a personal touch!</description>
+  </item>
+  <item>
+    <title>Chonky Vessels</title>
+    <link>https://mods.vintagestory.at/show/mod/7686</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7686#7686</guid>
+    <pubDate>Tue, 21 Jul 2026 10:11:02 -0000</pubDate>
+    <description>Adds chonkier vessels &amp; more with better storage and spoilage properties.</description>
+  </item>
+  <item>
+    <title>Firearms Resound</title>
+    <link>https://mods.vintagestory.at/show/mod/firearmsresound</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/firearmsresound#10411</guid>
+    <pubDate>Tue, 21 Jul 2026 09:56:46 -0000</pubDate>
+    <description>Replaces and adds new sounds to Firearms, including Extra Firearms</description>
+  </item>
   <item>
     <title>Vanilla Fantasy Overhaul - Lore Mobs</title>
     <link>https://mods.vintagestory.at/show/mod/vfolm</link>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10162#10162</guid>
     <pubDate>Tue, 21 Jul 2026 05:00:48 -0000</pubDate>
     <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
-  </item>
-  <item>
-    <title>Flower Seeds</title>
-    <link>https://mods.vintagestory.at/show/mod/10407</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10407#10407</guid>
-    <pubDate>Tue, 21 Jul 2026 04:33:50 -0000</pubDate>
-    <description>Use a knife to turn flowers into seeds!</description>
-  </item>
-  <item>
-    <title>Immersive Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivebackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpacks#9787</guid>
-    <pubDate>Tue, 21 Jul 2026 03:54:21 -0000</pubDate>
-    <description>A complete immersive overhaul of backpacks in Vintage Story.</description>
-  </item>
-  <item>
-    <title>tweaks for pell's server</title>
-    <link>https://mods.vintagestory.at/show/mod/8542</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8542#8542</guid>
-    <pubDate>Tue, 21 Jul 2026 03:48:54 -0000</pubDate>
-    <description>tweaks for pell's server</description>
-  </item>
-  <item>
-    <title>fish(wastaken)'s Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/10394</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10394#10394</guid>
-    <pubDate>Tue, 21 Jul 2026 03:47:53 -0000</pubDate>
-    <description>some classes I made, using features taken from GlooMeClasses and Rustbound Magic.</description>
-  </item>
-  <item>
-    <title>No Indoor Fog Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/noindoorfog</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noindoorfog#6064</guid>
-    <pubDate>Tue, 21 Jul 2026 03:47:48 -0000</pubDate>
-    <description>Get rid of fog in your home! Increases fog distance from your camera when you are "indoors"</description>
-  </item>
-  <item>
-    <title>Alternative armor designs</title>
-    <link>https://mods.vintagestory.at/show/mod/5597</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5597#5597</guid>
-    <pubDate>Tue, 21 Jul 2026 03:44:03 -0000</pubDate>
-    <description>With this mod, you can make use of all vanilla armor designs for each respective armor pieces.</description>
-  </item>
-  <item>
-    <title>TinkerTailor - Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/9773</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9773#9773</guid>
-    <pubDate>Tue, 21 Jul 2026 03:40:34 -0000</pubDate>
-    <description>More backpacks &amp; pouches for the veteran seraph. Made with love &amp; pain, No AI.</description>
-  </item>
-  <item>
-    <title>Dyed Armor</title>
-    <link>https://mods.vintagestory.at/show/mod/dyedarmor</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dyedarmor#2799</guid>
-    <pubDate>Tue, 21 Jul 2026 03:32:57 -0000</pubDate>
-    <description>Ever wanted a set of colorful armor without being a "Tailor"? now you can!</description>
-  </item>
-  <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Tue, 21 Jul 2026 03:27:47 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
   </item>
 </channel>
 </rss>
