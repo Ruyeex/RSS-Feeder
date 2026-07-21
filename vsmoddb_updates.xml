@@ -4,7 +4,112 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 21 Jul 2026 06:30:52 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Jul 2026 09:28:54 +0000</lastBuildDate>
+  <item>
+    <title>Vanilla Fantasy Overhaul - Lore Mobs</title>
+    <link>https://mods.vintagestory.at/show/mod/vfolm</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vfolm#8356</guid>
+    <pubDate>Tue, 21 Jul 2026 09:26:57 -0000</pubDate>
+    <description>A remodling of the Lore Mobs to make them fantastical. Not Finished.</description>
+  </item>
+  <item>
+    <title>Adventurer's Walking Stick</title>
+    <link>https://mods.vintagestory.at/show/mod/5845</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5845#5845</guid>
+    <pubDate>Tue, 21 Jul 2026 08:51:42 -0000</pubDate>
+    <description>Adds various walking sticks that provide benefits to walking speed and hunger rate</description>
+  </item>
+  <item>
+    <title>World Pregenerator</title>
+    <link>https://mods.vintagestory.at/show/mod/8513</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8513#8513</guid>
+    <pubDate>Tue, 21 Jul 2026 08:51:26 -0000</pubDate>
+    <description>A server‑side mod that pre‑generates the world in small sectors using a square spiral from the cente</description>
+  </item>
+  <item>
+    <title>ChunkMap Pregenerator</title>
+    <link>https://mods.vintagestory.at/show/mod/chunkmappregenerator</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chunkmappregenerator#5243</guid>
+    <pubDate>Tue, 21 Jul 2026 08:51:05 -0000</pubDate>
+    <description>Generates colored PNG land/sea maps with configurable scale.</description>
+  </item>
+  <item>
+    <title>IOG - Vanilla Cave-In Restore</title>
+    <link>https://mods.vintagestory.at/show/mod/8508</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8508#8508</guid>
+    <pubDate>Tue, 21 Jul 2026 08:50:31 -0000</pubDate>
+    <description>IOG - Vanilla Cave-In Restore. A small compatibility / restore mod for Interesting Ore Gen.</description>
+  </item>
+  <item>
+    <title>BR Extension Pack</title>
+    <link>https://mods.vintagestory.at/show/mod/9562</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9562#9562</guid>
+    <pubDate>Tue, 21 Jul 2026 08:49:44 -0000</pubDate>
+    <description>Runtime enhancement addon for BetterRuins with configurable schematic durability and future gameplay</description>
+  </item>
+  <item>
+    <title>ClimateScalePatch</title>
+    <link>https://mods.vintagestory.at/show/mod/10277</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10277#10277</guid>
+    <pubDate>Tue, 21 Jul 2026 08:46:04 -0000</pubDate>
+    <description>ClimateScalePatch modifies climate map generation during worldgen.</description>
+  </item>
+  <item>
+    <title>Packrat Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/packratfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/packratfork#8798</guid>
+    <pubDate>Tue, 21 Jul 2026 08:19:03 -0000</pubDate>
+    <description>Packrat adds a Storage Browser that lets you view and search the contents of all nearby containers.</description>
+  </item>
+  <item>
+    <title>Status Hud Continued</title>
+    <link>https://mods.vintagestory.at/show/mod/statushudcont</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/statushudcont#1841</guid>
+    <pubDate>Tue, 21 Jul 2026 08:11:58 -0000</pubDate>
+    <description>Displays status information on the HUD.</description>
+  </item>
+  <item>
+    <title>Weapon Pack Alpha - Rebalanced</title>
+    <link>https://mods.vintagestory.at/show/mod/3314</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
+    <pubDate>Tue, 21 Jul 2026 07:48:35 -0000</pubDate>
+    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
+  </item>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Tue, 21 Jul 2026 07:48:06 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>Saplings Grow Resin/Moss/Vines</title>
+    <link>https://mods.vintagestory.at/show/mod/9915</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9915#9915</guid>
+    <pubDate>Tue, 21 Jul 2026 07:18:13 -0000</pubDate>
+    <description>Saplings generate resin/moss/vines when they grow similar to probabilities during worldgen</description>
+  </item>
+  <item>
+    <title>Modular Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/modularbackpacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacks#10127</guid>
+    <pubDate>Tue, 21 Jul 2026 06:42:59 -0000</pubDate>
+    <description>Makes vanilla backpacks modular, allowing you to attach addons to extend storage slots.</description>
+  </item>
+  <item>
+    <title>Modular Backpacks: KCs DragonFolk Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/modularbackpacksdragons</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacksdragons#10410</guid>
+    <pubDate>Tue, 21 Jul 2026 06:42:38 -0000</pubDate>
+    <description>Compatibility patch for Modular Backpacks and KCs DragonFolk</description>
+  </item>
+  <item>
+    <title>Hydrate or Diedrate</title>
+    <link>https://mods.vintagestory.at/show/mod/hydrateordiedrate</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hydrateordiedrate#2282</guid>
+    <pubDate>Tue, 21 Jul 2026 06:35:54 -0000</pubDate>
+    <description>A mod that adds thirst and hydration mechanics as well as hot weather survival.</description>
+  </item>
   <item>
     <title>Long-term food x EF egg patch fix</title>
     <link>https://mods.vintagestory.at/show/mod/10409</link>
@@ -18,13 +123,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
     <pubDate>Tue, 21 Jul 2026 06:07:44 -0000</pubDate>
     <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Weapon Pack Alpha - Rebalanced</title>
-    <link>https://mods.vintagestory.at/show/mod/3314</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
-    <pubDate>Tue, 21 Jul 2026 06:05:32 -0000</pubDate>
-    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
   </item>
   <item>
     <title>Combat Impact</title>
@@ -116,104 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
     <pubDate>Tue, 21 Jul 2026 03:27:47 -0000</pubDate>
     <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
-    <title>Plant Fiber Hide</title>
-    <link>https://mods.vintagestory.at/show/mod/plantfiberhide</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plantfiberhide#10305</guid>
-    <pubDate>Tue, 21 Jul 2026 03:20:00 -0000</pubDate>
-    <description>A plant based alternative for animal hides</description>
-  </item>
-  <item>
-    <title>VS Roofing Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/5036</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5036#5036</guid>
-    <pubDate>Tue, 21 Jul 2026 03:10:30 -0000</pubDate>
-    <description>Gridless roof crafting and build system.</description>
-  </item>
-  <item>
-    <title>Vampirism</title>
-    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
-    <pubDate>Tue, 21 Jul 2026 02:50:07 -0000</pubDate>
-    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Tue, 21 Jul 2026 02:11:57 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>Animalica - Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicac</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicac#9798</guid>
-    <pubDate>Tue, 21 Jul 2026 01:33:22 -0000</pubDate>
-    <description>Adds a small list of modded animals as players!</description>
-  </item>
-  <item>
-    <title>Pyrogenesis continued</title>
-    <link>https://mods.vintagestory.at/show/mod/pyrogenesiscontinued</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pyrogenesiscontinued#9934</guid>
-    <pubDate>Tue, 21 Jul 2026 01:03:09 -0000</pubDate>
-    <description>Adaptation</description>
-  </item>
-  <item>
-    <title>Dyed Wood</title>
-    <link>https://mods.vintagestory.at/show/mod/dyedwood</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dyedwood#10405</guid>
-    <pubDate>Tue, 21 Jul 2026 00:59:20 -0000</pubDate>
-    <description>Adds stained variants of every vanilla wooden plank while preserving each wood's natural grain.</description>
-  </item>
-  <item>
-    <title>Frontiers RPG</title>
-    <link>https://mods.vintagestory.at/show/mod/10367</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10367#10367</guid>
-    <pubDate>Tue, 21 Jul 2026 00:57:28 -0000</pubDate>
-    <description>An ARPG system for Vintage Story</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Tue, 21 Jul 2026 00:47:26 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
-    <title>WOO³</title>
-    <link>https://mods.vintagestory.at/show/mod/8477</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8477#8477</guid>
-    <pubDate>Tue, 21 Jul 2026 00:14:35 -0000</pubDate>
-    <description>A modpack that contains custom content and server tweaks for the Whispers of Oldwood season 3.</description>
-  </item>
-  <item>
-    <title>Bacon Bacon Bacon</title>
-    <link>https://mods.vintagestory.at/show/mod/baconbaconbacon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/baconbaconbacon#6895</guid>
-    <pubDate>Tue, 21 Jul 2026 00:13:54 -0000</pubDate>
-    <description>The first and (so far) only entirely and ridiculously bacon-centric mod for Vintage Story</description>
-  </item>
-  <item>
-    <title>Re-Reforged Tools</title>
-    <link>https://mods.vintagestory.at/show/mod/8567</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8567#8567</guid>
-    <pubDate>Tue, 21 Jul 2026 00:13:18 -0000</pubDate>
-    <description>A fork of ODs's Reforged Tools updated for 1.22</description>
-  </item>
-  <item>
-    <title>Remove Snow Collision</title>
-    <link>https://mods.vintagestory.at/show/mod/removesnowcollison</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/removesnowcollison#10404</guid>
-    <pubDate>Mon, 20 Jul 2026 23:44:31 -0000</pubDate>
-    <description>Removes layered snow collision boxes.</description>
-  </item>
-  <item>
-    <title>Real Smoke &amp; QP's Chisel Tools Compatibility Patch 1.22</title>
-    <link>https://mods.vintagestory.at/show/mod/realsmokeqp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmokeqp#8322</guid>
-    <pubDate>Mon, 20 Jul 2026 23:44:24 -0000</pubDate>
-    <description>Adds compatibility between Real Smoke and QP Chisel Tools decorative blocks.</description>
   </item>
 </channel>
 </rss>
