@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 22 Jul 2026 21:11:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 23:06:58 +0000</lastBuildDate>
+  <item>
+    <title>Fancy Faces</title>
+    <link>https://mods.vintagestory.at/show/mod/fancyfaces</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fancyfaces#10362</guid>
+    <pubDate>Wed, 22 Jul 2026 23:04:38 -0000</pubDate>
+    <description>Adds new faces and the ability to select pieces of each face separately.</description>
+  </item>
+  <item>
+    <title>Fanloid Fantweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10433</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10433#10433</guid>
+    <pubDate>Wed, 22 Jul 2026 22:59:45 -0000</pubDate>
+    <description>Misc patches.</description>
+  </item>
+  <item>
+    <title>Updated Hieronymus's reptiles collection</title>
+    <link>https://mods.vintagestory.at/show/mod/hieronymusreptiles</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hieronymusreptiles#3503</guid>
+    <pubDate>Wed, 22 Jul 2026 22:45:59 -0000</pubDate>
+    <description>An unofficial update of Hieronymus's various mobs</description>
+  </item>
+  <item>
+    <title>Extended Skin Colors</title>
+    <link>https://mods.vintagestory.at/show/mod/10437</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10437#10437</guid>
+    <pubDate>Wed, 22 Jul 2026 22:41:22 -0000</pubDate>
+    <description>Adds a hex color scroller to most humanoid races!</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Wed, 22 Jul 2026 22:40:23 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Universal Sticks</title>
+    <link>https://mods.vintagestory.at/show/mod/10436</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10436#10436</guid>
+    <pubDate>Wed, 22 Jul 2026 22:33:03 -0000</pubDate>
+    <description>Adds grid recipes to turn firewood into sticks and back</description>
+  </item>
+  <item>
+    <title>Equus: Tack and Equipment</title>
+    <link>https://mods.vintagestory.at/show/mod/tackandequipment</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tackandequipment#5277</guid>
+    <pubDate>Wed, 22 Jul 2026 22:20:16 -0000</pubDate>
+    <description>Adds various saddles, bridles, and saddleblankets for Equus and Monoceros</description>
+  </item>
+  <item>
+    <title>Advanced Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/advancedchat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedchat#10095</guid>
+    <pubDate>Wed, 22 Jul 2026 22:13:05 -0000</pubDate>
+    <description>A fully customizable, movable, resizable chat overlay for Vintage Story. Take control of your chat w</description>
+  </item>
+  <item>
+    <title>Zomb's Purposeful Storage Weapon Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/6142</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6142#6142</guid>
+    <pubDate>Wed, 22 Jul 2026 21:43:12 -0000</pubDate>
+    <description>Unofficial patches to make several weapon mods work with Purposeful Storage.</description>
+  </item>
+  <item>
+    <title>VSDS · Vintage Story Dockerized Server</title>
+    <link>https://mods.vintagestory.at/show/mod/vsds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsds#4516</guid>
+    <pubDate>Wed, 22 Jul 2026 21:35:03 -0000</pubDate>
+    <description>Vintage Story Dockerized Server to easily deploy a Vintage Story Server anywhere!</description>
+  </item>
+  <item>
+    <title>aldiclasses Dragonia Tweak Server</title>
+    <link>https://mods.vintagestory.at/show/mod/8277</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8277#8277</guid>
+    <pubDate>Wed, 22 Jul 2026 21:22:51 -0000</pubDate>
+    <description>aldiclasses Dragonia Tweak Server</description>
+  </item>
   <item>
     <title>ME's Custom Mod Downloader</title>
     <link>https://mods.vintagestory.at/show/mod/10430</link>
@@ -32,13 +109,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspoklyk#9074</guid>
     <pubDate>Wed, 22 Jul 2026 19:40:58 -0000</pubDate>
     <description>Calling progression system where specializations emerge from player actions</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Wed, 22 Jul 2026 19:40:01 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
   </item>
   <item>
     <title>Eternal Seraph Patch</title>
@@ -139,81 +209,11 @@
     <description>Adds new molds while staying true to the spirit and mechanics of the base game!</description>
   </item>
   <item>
-    <title>Fanloid Fantweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10433</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10433#10433</guid>
-    <pubDate>Wed, 22 Jul 2026 17:24:49 -0000</pubDate>
-    <description>Misc patches.</description>
-  </item>
-  <item>
     <title>Roleplay Character Creator</title>
     <link>https://mods.vintagestory.at/show/mod/rpcharcreator</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rpcharcreator#10074</guid>
     <pubDate>Wed, 22 Jul 2026 17:13:10 -0000</pubDate>
     <description>Classic choose-your-own-adventure style character creator for Vintage Story. Server authored!</description>
-  </item>
-  <item>
-    <title>Skaven/Rat Player Model</title>
-    <link>https://mods.vintagestory.at/show/mod/skavenratplayermodel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skavenratplayermodel#5322</guid>
-    <pubDate>Wed, 22 Jul 2026 16:25:26 -0000</pubDate>
-    <description>Adds a Skaven/Rat player model to the game it uses Player Model Lib by Maltiez!</description>
-  </item>
-  <item>
-    <title>Regalia</title>
-    <link>https://mods.vintagestory.at/show/mod/regalia</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/regalia#5174</guid>
-    <pubDate>Wed, 22 Jul 2026 16:15:54 -0000</pubDate>
-    <description>Fancy clothing items for all seraphs, craftable by skilled tailors</description>
-  </item>
-  <item>
-    <title>Animalica - Body Tools &amp; Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicabtc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicabtc#9867</guid>
-    <pubDate>Wed, 22 Jul 2026 15:44:12 -0000</pubDate>
-    <description>Adds wearable claws, fangs, body tools, and animal classes for Fox, Wolf, and Hyena for now</description>
-  </item>
-  <item>
-    <title>Fast Travel NPC</title>
-    <link>https://mods.vintagestory.at/show/mod/fasttravelnpc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fasttravelnpc#9686</guid>
-    <pubDate>Wed, 22 Jul 2026 15:38:51 -0000</pubDate>
-    <description>Allows players to fast travel in the world by paying rusty gears.</description>
-  </item>
-  <item>
-    <title>Soup Man</title>
-    <link>https://mods.vintagestory.at/show/mod/10429</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10429#10429</guid>
-    <pubDate>Wed, 22 Jul 2026 15:10:10 -0000</pubDate>
-    <description>Summon Soup Man: keep a full pot nearby, or endure his desperate cries for soup.</description>
-  </item>
-  <item>
-    <title>FuelRework</title>
-    <link>https://mods.vintagestory.at/show/mod/10428</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10428#10428</guid>
-    <pubDate>Wed, 22 Jul 2026 14:53:47 -0000</pubDate>
-    <description>Increases the burn time of most fuels.</description>
-  </item>
-  <item>
-    <title>Easy Building</title>
-    <link>https://mods.vintagestory.at/show/mod/3290</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3290#3290</guid>
-    <pubDate>Wed, 22 Jul 2026 14:53:36 -0000</pubDate>
-    <description>A simple mod where you get a bit more blocks and items from crafting!</description>
-  </item>
-  <item>
-    <title>Olivine Fraud</title>
-    <link>https://mods.vintagestory.at/show/mod/9788</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9788#9788</guid>
-    <pubDate>Wed, 22 Jul 2026 14:51:45 -0000</pubDate>
-    <description>Get easy olivine with this one simple trick!</description>
-  </item>
-  <item>
-    <title>Footprints</title>
-    <link>https://mods.vintagestory.at/show/mod/footprints</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/footprints#5625</guid>
-    <pubDate>Wed, 22 Jul 2026 13:59:01 -0000</pubDate>
-    <description>Animals and Players leave footprints when moving.</description>
   </item>
 </channel>
 </rss>
