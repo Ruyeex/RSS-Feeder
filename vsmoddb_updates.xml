@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 22 Jul 2026 07:35:54 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 10:27:42 +0000</lastBuildDate>
+  <item>
+    <title>Stability Above</title>
+    <link>https://mods.vintagestory.at/show/mod/8629</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8629#8629</guid>
+    <pubDate>Wed, 22 Jul 2026 10:16:08 -0000</pubDate>
+    <description>Removes unstable areas above sea level.</description>
+  </item>
+  <item>
+    <title>Vanilla armory</title>
+    <link>https://mods.vintagestory.at/show/mod/3927</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3927#3927</guid>
+    <pubDate>Wed, 22 Jul 2026 10:13:42 -0000</pubDate>
+    <description>Implements unused vanilla weapons and some armor in vanilla style</description>
+  </item>
+  <item>
+    <title>Acorns for 1.22.5+</title>
+    <link>https://mods.vintagestory.at/show/mod/10427</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10427#10427</guid>
+    <pubDate>Wed, 22 Jul 2026 10:09:06 -0000</pubDate>
+    <description>Unofficial community update for 1.22.5+</description>
+  </item>
+  <item>
+    <title>StirlingMotor</title>
+    <link>https://mods.vintagestory.at/show/mod/3832</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3832#3832</guid>
+    <pubDate>Wed, 22 Jul 2026 09:55:54 -0000</pubDate>
+    <description>Adds a Stirling engine (coal energy)</description>
+  </item>
+  <item>
+    <title>Carry On</title>
+    <link>https://mods.vintagestory.at/show/mod/carryon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carryon#890</guid>
+    <pubDate>Wed, 22 Jul 2026 09:32:32 -0000</pubDate>
+    <description>Adds the capability to carry various things. Replaces CarryCapacity.</description>
+  </item>
+  <item>
+    <title>CarryOnLib</title>
+    <link>https://mods.vintagestory.at/show/mod/carryonlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carryonlib#4687</guid>
+    <pubDate>Wed, 22 Jul 2026 09:31:34 -0000</pubDate>
+    <description>CarryOnLib allows mods to use CarryOn functionality</description>
+  </item>
+  <item>
+    <title>PomeNoteCompat</title>
+    <link>https://mods.vintagestory.at/show/mod/pomenotecompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pomenotecompat#10426</guid>
+    <pubDate>Wed, 22 Jul 2026 09:28:50 -0000</pubDate>
+    <description>Compatibilities with other handbook mods</description>
+  </item>
+  <item>
+    <title>DRT AgX Kraken - Shader</title>
+    <link>https://mods.vintagestory.at/show/mod/drtagx</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drtagx#2913</guid>
+    <pubDate>Wed, 22 Jul 2026 08:54:52 -0000</pubDate>
+    <description>AgX Kraken ish display transform.</description>
+  </item>
   <item>
     <title>Rot from containers</title>
     <link>https://mods.vintagestory.at/show/mod/10203</link>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/partyhats#9645</guid>
     <pubDate>Wed, 22 Jul 2026 02:08:49 -0000</pubDate>
     <description>Party Hats!! Adds RS style party hats and a party hat cracker with confetti and random chances!</description>
-  </item>
-  <item>
-    <title>Birthdays</title>
-    <link>https://mods.vintagestory.at/show/mod/birthdays</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/birthdays#9697</guid>
-    <pubDate>Wed, 22 Jul 2026 02:08:36 -0000</pubDate>
-    <description>Gives your Seraph a birthday! Receive a random gift to celebrate!</description>
-  </item>
-  <item>
-    <title>VSReborn Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10289</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10289#10289</guid>
-    <pubDate>Wed, 22 Jul 2026 01:56:32 -0000</pubDate>
-    <description>mega patch</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Tyrant King — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10168</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10168#10168</guid>
-    <pubDate>Wed, 22 Jul 2026 01:55:39 -0000</pubDate>
-    <description>Adds severals tyrannosaurids to Vintage Story. Unofficial compatibility port for 1.22.3</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Shovel Mouth — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10169</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10169#10169</guid>
-    <pubDate>Wed, 22 Jul 2026 01:55:26 -0000</pubDate>
-    <description>Adds the family of hadrosauroids dinosaurs to Vintage Story. Unofficial compatibility port for Vinta</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Sharp Tooth — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10170</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10170#10170</guid>
-    <pubDate>Wed, 22 Jul 2026 01:55:11 -0000</pubDate>
-    <description>Adds severals carcharodontosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Scythe Claws — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10172</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10172#10172</guid>
-    <pubDate>Wed, 22 Jul 2026 01:54:57 -0000</pubDate>
-    <description>Adds the family of therizinosaurids dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Sailed Spine — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10173</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10173#10173</guid>
-    <pubDate>Wed, 22 Jul 2026 01:54:39 -0000</pubDate>
-    <description>Adds severals spinosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Plated Back — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10174</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10174#10174</guid>
-    <pubDate>Wed, 22 Jul 2026 01:54:21 -0000</pubDate>
-    <description>Adds the family of stegosaurian dinosaurs to Vintage Story.</description>
   </item>
 </channel>
 </rss>
