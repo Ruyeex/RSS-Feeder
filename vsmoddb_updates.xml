@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 21 Jul 2026 22:59:50 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 00:01:37 +0000</lastBuildDate>
+  <item>
+    <title>Eternal Seraph: Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalsbackpacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalsbackpacks#2160</guid>
+    <pubDate>Tue, 21 Jul 2026 23:47:11 -0000</pubDate>
+    <description>Yes. New backpacks again.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Tue, 21 Jul 2026 23:30:37 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Tethys Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tethysservertweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tethysservertweaks#6101</guid>
+    <pubDate>Tue, 21 Jul 2026 23:24:04 -0000</pubDate>
+    <description>Tweaks for a personal private server.</description>
+  </item>
+  <item>
+    <title>Darce's Drifters Redone</title>
+    <link>https://mods.vintagestory.at/show/mod/darcesdriftersredone</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darcesdriftersredone#4257</guid>
+    <pubDate>Tue, 21 Jul 2026 23:15:27 -0000</pubDate>
+    <description>Complete visual overhaul of the original Darce's Drifters.</description>
+  </item>
   <item>
     <title>Metal Leaf</title>
     <link>https://mods.vintagestory.at/show/mod/4045</link>
@@ -160,13 +188,6 @@
     <description>Build ancient rites from fragments. The world is your altar. Dig deep. Seek truth. Light the fires.</description>
   </item>
   <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Tue, 21 Jul 2026 19:37:03 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
     <title>StirlingMotor</title>
     <link>https://mods.vintagestory.at/show/mod/3832</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3832#3832</guid>
@@ -174,7 +195,7 @@
     <description>Adds a Stirling engine (coal energy)</description>
   </item>
   <item>
-    <title>Combat Impact</title>
+    <title>Combat Impact Sounds</title>
     <link>https://mods.vintagestory.at/show/mod/10408</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10408#10408</guid>
     <pubDate>Tue, 21 Jul 2026 19:20:29 -0000</pubDate>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10407#10407</guid>
     <pubDate>Tue, 21 Jul 2026 18:57:36 -0000</pubDate>
     <description>Use a knife to turn flowers into seeds!</description>
-  </item>
-  <item>
-    <title>Murlok Vintage Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/murlokvspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/murlokvspatch#5307</guid>
-    <pubDate>Tue, 21 Jul 2026 18:42:26 -0000</pubDate>
-    <description>Collection of tweaks for the Murlok server and playthrough.</description>
-  </item>
-  <item>
-    <title>Sundered Isles Custom Models</title>
-    <link>https://mods.vintagestory.at/show/mod/9583</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9583#9583</guid>
-    <pubDate>Tue, 21 Jul 2026 18:22:17 -0000</pubDate>
-    <description>Custom blocks and items made for the Sundered Isles Server. </description>
-  </item>
-  <item>
-    <title>Less Chonky Vessels</title>
-    <link>https://mods.vintagestory.at/show/mod/10418</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10418#10418</guid>
-    <pubDate>Tue, 21 Jul 2026 18:14:42 -0000</pubDate>
-    <description>Simple Rename for Chonky Vessels</description>
   </item>
 </channel>
 </rss>
