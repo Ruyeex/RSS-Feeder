@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 22 Jul 2026 10:27:42 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 12:26:40 +0000</lastBuildDate>
+  <item>
+    <title>Realistic Water</title>
+    <link>https://mods.vintagestory.at/show/mod/realisticwater</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticwater#8297</guid>
+    <pubDate>Wed, 22 Jul 2026 12:25:10 -0000</pubDate>
+    <description>Makes water spread and flow more realistically, so that you can build aqueducts, dams, canals etc</description>
+  </item>
+  <item>
+    <title>TitaniumTools</title>
+    <link>https://mods.vintagestory.at/show/mod/3829</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3829#3829</guid>
+    <pubDate>Wed, 22 Jul 2026 12:21:16 -0000</pubDate>
+    <description>Adds titanium tools (pickaxe, axe, shovel, etc.)</description>
+  </item>
+  <item>
+    <title>Russification For Mods</title>
+    <link>https://mods.vintagestory.at/show/mod/5312</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5312#5312</guid>
+    <pubDate>Wed, 22 Jul 2026 11:49:43 -0000</pubDate>
+    <description>Russian Translation Pack — a collection of Russian localizations for various Vintage Story mods.</description>
+  </item>
+  <item>
+    <title>Galeret</title>
+    <link>https://mods.vintagestory.at/show/mod/9970</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9970#9970</guid>
+    <pubDate>Wed, 22 Jul 2026 11:33:55 -0000</pubDate>
+    <description>A race of cat people based on kahjit</description>
+  </item>
+  <item>
+    <title>Deciduous Trees</title>
+    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
+    <pubDate>Wed, 22 Jul 2026 11:29:06 -0000</pubDate>
+    <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
+  </item>
+  <item>
+    <title>Oils! Resoaped Standalone</title>
+    <link>https://mods.vintagestory.at/show/mod/oilsresoapedsa</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oilsresoapedsa#10040</guid>
+    <pubDate>Wed, 22 Jul 2026 11:27:55 -0000</pubDate>
+    <description>A content mod that adds plant oils &amp; some alternative recipes, e.g. treating hides and quicklime. </description>
+  </item>
+  <item>
+    <title>StirlingMotor</title>
+    <link>https://mods.vintagestory.at/show/mod/3832</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3832#3832</guid>
+    <pubDate>Wed, 22 Jul 2026 11:25:08 -0000</pubDate>
+    <description>Adds a Stirling engine (coal energy)</description>
+  </item>
+  <item>
+    <title>The Hunter</title>
+    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
+    <pubDate>Wed, 22 Jul 2026 11:15:53 -0000</pubDate>
+    <description>Adds animal tracking clues, bleeding, droppings, wounded movement, and carcass carrying.</description>
+  </item>
+  <item>
+    <title>RackEmUp</title>
+    <link>https://mods.vintagestory.at/show/mod/rackemup</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rackemup#4686</guid>
+    <pubDate>Wed, 22 Jul 2026 10:36:10 -0000</pubDate>
+    <description>Blocks carried using the CarryOn Mod can be put into and taken out of the Mold Rack</description>
+  </item>
   <item>
     <title>Stability Above</title>
     <link>https://mods.vintagestory.at/show/mod/8629</link>
@@ -25,13 +88,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10427#10427</guid>
     <pubDate>Wed, 22 Jul 2026 10:09:06 -0000</pubDate>
     <description>Unofficial community update for 1.22.5+</description>
-  </item>
-  <item>
-    <title>StirlingMotor</title>
-    <link>https://mods.vintagestory.at/show/mod/3832</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3832#3832</guid>
-    <pubDate>Wed, 22 Jul 2026 09:55:54 -0000</pubDate>
-    <description>Adds a Stirling engine (coal energy)</description>
   </item>
   <item>
     <title>Carry On</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
     <pubDate>Wed, 22 Jul 2026 03:40:00 -0000</pubDate>
     <description>JSON content patches for my small personal server</description>
-  </item>
-  <item>
-    <title>Mycodiversity</title>
-    <link>https://mods.vintagestory.at/show/mod/mycodiversity</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mycodiversity#2116</guid>
-    <pubDate>Wed, 22 Jul 2026 03:27:14 -0000</pubDate>
-    <description>Adds 37 more mushrooms to the game.</description>
-  </item>
-  <item>
-    <title>Temporal Relics</title>
-    <link>https://mods.vintagestory.at/show/mod/9886</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9886#9886</guid>
-    <pubDate>Wed, 22 Jul 2026 03:24:06 -0000</pubDate>
-    <description>Adds randomized affixes to found equipment, introducing mundane, corrupted, and temporally enhanced </description>
-  </item>
-  <item>
-    <title>Burdened</title>
-    <link>https://mods.vintagestory.at/show/mod/burdened</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/burdened#10391</guid>
-    <pubDate>Wed, 22 Jul 2026 02:40:58 -0000</pubDate>
-    <description>A weightier carrying experience: customizable slots, immersive carrying, server-enforced, and more.</description>
-  </item>
-  <item>
-    <title>Compost This</title>
-    <link>https://mods.vintagestory.at/show/mod/compostthis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/compostthis#10244</guid>
-    <pubDate>Wed, 22 Jul 2026 02:28:35 -0000</pubDate>
-    <description>Compost This to accelerate your rot production</description>
-  </item>
-  <item>
-    <title>WOO Fantasy Additions</title>
-    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
-    <pubDate>Wed, 22 Jul 2026 02:19:52 -0000</pubDate>
-    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
-  </item>
-  <item>
-    <title>VS Roofing Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/5036</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5036#5036</guid>
-    <pubDate>Wed, 22 Jul 2026 02:11:21 -0000</pubDate>
-    <description>Gridless roof building system with vanilla roofs + extras.</description>
-  </item>
-  <item>
-    <title>Grassroots</title>
-    <link>https://mods.vintagestory.at/show/mod/grassroots</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
-    <pubDate>Wed, 22 Jul 2026 02:09:09 -0000</pubDate>
-    <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
-  </item>
-  <item>
-    <title>Party Hats</title>
-    <link>https://mods.vintagestory.at/show/mod/partyhats</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/partyhats#9645</guid>
-    <pubDate>Wed, 22 Jul 2026 02:08:49 -0000</pubDate>
-    <description>Party Hats!! Adds RS style party hats and a party hat cracker with confetti and random chances!</description>
   </item>
 </channel>
 </rss>
