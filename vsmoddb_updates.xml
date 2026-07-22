@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 22 Jul 2026 12:26:40 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 15:06:11 +0000</lastBuildDate>
+  <item>
+    <title>FuelRework</title>
+    <link>https://mods.vintagestory.at/show/mod/10428</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10428#10428</guid>
+    <pubDate>Wed, 22 Jul 2026 14:53:47 -0000</pubDate>
+    <description>Increases the burn time of most fuels.</description>
+  </item>
+  <item>
+    <title>Easy Building</title>
+    <link>https://mods.vintagestory.at/show/mod/3290</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3290#3290</guid>
+    <pubDate>Wed, 22 Jul 2026 14:53:36 -0000</pubDate>
+    <description>A simple mod where you get a bit more blocks and items from crafting!</description>
+  </item>
+  <item>
+    <title>Olivine Fraud</title>
+    <link>https://mods.vintagestory.at/show/mod/9788</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9788#9788</guid>
+    <pubDate>Wed, 22 Jul 2026 14:51:45 -0000</pubDate>
+    <description>Get easy olivine with this one simple trick!</description>
+  </item>
+  <item>
+    <title>Dead</title>
+    <link>https://mods.vintagestory.at/show/mod/dead</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
+    <pubDate>Wed, 22 Jul 2026 14:30:28 -0000</pubDate>
+    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
+  </item>
+  <item>
+    <title>Footprints</title>
+    <link>https://mods.vintagestory.at/show/mod/footprints</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/footprints#5625</guid>
+    <pubDate>Wed, 22 Jul 2026 13:59:01 -0000</pubDate>
+    <description>Animals and Players leave footprints when moving.</description>
+  </item>
+  <item>
+    <title>Blood Trail</title>
+    <link>https://mods.vintagestory.at/show/mod/bloodtrail</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bloodtrail#5069</guid>
+    <pubDate>Wed, 22 Jul 2026 13:58:43 -0000</pubDate>
+    <description>Animals leave blood trails when wounded by a player.</description>
+  </item>
+  <item>
+    <title>Logic Blocks</title>
+    <link>https://mods.vintagestory.at/show/mod/5827</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5827#5827</guid>
+    <pubDate>Wed, 22 Jul 2026 13:45:19 -0000</pubDate>
+    <description>This mod provides blocks for logic and interactions with gates.</description>
+  </item>
+  <item>
+    <title>Dame Elswyth’s Summons</title>
+    <link>https://mods.vintagestory.at/show/mod/10139</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10139#10139</guid>
+    <pubDate>Wed, 22 Jul 2026 13:38:35 -0000</pubDate>
+    <description>Find and summon lost pets.  Fixes PetAI fire avoidance AI task for tamed pets.</description>
+  </item>
+  <item>
+    <title>Holdfast</title>
+    <link>https://mods.vintagestory.at/show/mod/holdfast</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/holdfast#10247</guid>
+    <pubDate>Wed, 22 Jul 2026 13:22:30 -0000</pubDate>
+    <description>Found a town. Hire workers. Watch it grow one building at a time.</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Wed, 22 Jul 2026 12:39:30 -0000</pubDate>
+    <description>A director camera mod for video production workflows.（导演模式模组）</description>
+  </item>
   <item>
     <title>Realistic Water</title>
     <link>https://mods.vintagestory.at/show/mod/realisticwater</link>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hcwforked#8241</guid>
     <pubDate>Wed, 22 Jul 2026 06:15:14 -0000</pubDate>
     <description>Previously called Hardcore Water. Adds aqueducts and sluices for water transport and control.</description>
-  </item>
-  <item>
-    <title>Fields of Cranberries</title>
-    <link>https://mods.vintagestory.at/show/mod/fieldsofcranberries</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fieldsofcranberries#8578</guid>
-    <pubDate>Wed, 22 Jul 2026 06:14:55 -0000</pubDate>
-    <description>A simple mod allowing ripe cranberry bushes to drop their berries on coming into contact with water.</description>
-  </item>
-  <item>
-    <title>Fast Travel NPC</title>
-    <link>https://mods.vintagestory.at/show/mod/fasttravelnpc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fasttravelnpc#9686</guid>
-    <pubDate>Wed, 22 Jul 2026 05:03:51 -0000</pubDate>
-    <description>Allows players to fast travel in the world by paying rusty gears.</description>
-  </item>
-  <item>
-    <title>Resonator Overhaul </title>
-    <link>https://mods.vintagestory.at/show/mod/10009</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10009#10009</guid>
-    <pubDate>Wed, 22 Jul 2026 05:03:03 -0000</pubDate>
-    <description>Per-resonator volume, falloff and looping — saved to the world and audible with Music off.</description>
-  </item>
-  <item>
-    <title>Resonator Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10007</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10007#10007</guid>
-    <pubDate>Wed, 22 Jul 2026 04:52:20 -0000</pubDate>
-    <description>Simple mod to play the resonator as a sound effect. Will play with music off .</description>
-  </item>
-  <item>
-    <title>Terraria Biome Spread</title>
-    <link>https://mods.vintagestory.at/show/mod/terrariabiomespread</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/terrariabiomespread#10261</guid>
-    <pubDate>Wed, 22 Jul 2026 04:51:23 -0000</pubDate>
-    <description>Add some difficulty to your world with spreading evils with dangerous enemies and unique mechanics</description>
-  </item>
-  <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Wed, 22 Jul 2026 04:47:17 -0000</pubDate>
-    <description>A director camera mod for video production workflows.（导演模式模组）</description>
-  </item>
-  <item>
-    <title>Temporal Convergence</title>
-    <link>https://mods.vintagestory.at/show/mod/9887</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9887#9887</guid>
-    <pubDate>Wed, 22 Jul 2026 04:31:08 -0000</pubDate>
-    <description>Expands the creatures emerging from temporal rifts with new eldritch entities, afflicted automatons,</description>
-  </item>
-  <item>
-    <title>Messenger Pigeons</title>
-    <link>https://mods.vintagestory.at/show/mod/10423</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10423#10423</guid>
-    <pubDate>Wed, 22 Jul 2026 03:52:07 -0000</pubDate>
-    <description>Send mail across the world using distance based messenger pigeons with secure pigeon boxes.</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Wed, 22 Jul 2026 03:48:58 -0000</pubDate>
-    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
-  </item>
-  <item>
-    <title>CB Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Wed, 22 Jul 2026 03:40:00 -0000</pubDate>
-    <description>JSON content patches for my small personal server</description>
   </item>
 </channel>
 </rss>
