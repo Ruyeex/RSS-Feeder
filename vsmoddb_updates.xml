@@ -4,13 +4,83 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 22 Jul 2026 17:23:06 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 19:24:46 +0000</lastBuildDate>
+  <item>
+    <title>Vampirism</title>
+    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
+    <pubDate>Wed, 22 Jul 2026 19:08:35 -0000</pubDate>
+    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Wed, 22 Jul 2026 18:14:11 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Locusts for all</title>
+    <link>https://mods.vintagestory.at/show/mod/7730</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7730#7730</guid>
+    <pubDate>Wed, 22 Jul 2026 18:12:59 -0000</pubDate>
+    <description>Allows all classes to be able to use the tuning spear to tame multiple locusts and offer more tweaks</description>
+  </item>
+  <item>
+    <title>Mah Boi Hammering</title>
+    <link>https://mods.vintagestory.at/show/mod/7773</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7773#7773</guid>
+    <pubDate>Wed, 22 Jul 2026 18:12:30 -0000</pubDate>
+    <description>This mod simply replaces the infuriatingly annoying helve hammer and hammer sound with a much better</description>
+  </item>
+  <item>
+    <title>Dead</title>
+    <link>https://mods.vintagestory.at/show/mod/dead</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
+    <pubDate>Wed, 22 Jul 2026 18:11:00 -0000</pubDate>
+    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
+  </item>
+  <item>
+    <title>Respawn Black Screen Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/9500</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9500#9500</guid>
+    <pubDate>Wed, 22 Jul 2026 18:03:47 -0000</pubDate>
+    <description>Fixes the black screen issue after a player respawn</description>
+  </item>
   <item>
     <title>ME's Custom Mod Downloader</title>
     <link>https://mods.vintagestory.at/show/mod/10430</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10430#10430</guid>
-    <pubDate>Wed, 22 Jul 2026 17:22:10 -0000</pubDate>
+    <pubDate>Wed, 22 Jul 2026 18:02:44 -0000</pubDate>
     <description>Servers distribute their own custom mods straight to joining clients, consent-gated, hash-verified.</description>
+  </item>
+  <item>
+    <title>Freshness Overlay</title>
+    <link>https://mods.vintagestory.at/show/mod/10190</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10190#10190</guid>
+    <pubDate>Wed, 22 Jul 2026 17:53:08 -0000</pubDate>
+    <description>Shows freshness of food and hides.</description>
+  </item>
+  <item>
+    <title>Prospecting Scan</title>
+    <link>https://mods.vintagestory.at/show/mod/7592</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7592#7592</guid>
+    <pubDate>Wed, 22 Jul 2026 17:49:10 -0000</pubDate>
+    <description>Prospecting Scan is a lightweight quality-of-life mod for Vintage Story that helps you find ore fast</description>
+  </item>
+  <item>
+    <title>Vanilla More Molds 2.1.2</title>
+    <link>https://mods.vintagestory.at/show/mod/vanillamoremolds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillamoremolds#2948</guid>
+    <pubDate>Wed, 22 Jul 2026 17:25:29 -0000</pubDate>
+    <description>Adds new molds while staying true to the spirit and mechanics of the base game!</description>
+  </item>
+  <item>
+    <title>Fanloid Fantweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10433</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10433#10433</guid>
+    <pubDate>Wed, 22 Jul 2026 17:24:49 -0000</pubDate>
+    <description>Misc patches.</description>
   </item>
   <item>
     <title>Roleplay Character Creator</title>
@@ -18,13 +88,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rpcharcreator#10074</guid>
     <pubDate>Wed, 22 Jul 2026 17:13:10 -0000</pubDate>
     <description>Classic choose-your-own-adventure style character creator for Vintage Story. Server authored!</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Wed, 22 Jul 2026 17:00:24 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
   </item>
   <item>
     <title>Skaven/Rat Player Model</title>
@@ -83,13 +146,6 @@
     <description>Get easy olivine with this one simple trick!</description>
   </item>
   <item>
-    <title>Dead</title>
-    <link>https://mods.vintagestory.at/show/mod/dead</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
-    <pubDate>Wed, 22 Jul 2026 14:30:28 -0000</pubDate>
-    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
-  </item>
-  <item>
     <title>Footprints</title>
     <link>https://mods.vintagestory.at/show/mod/footprints</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/footprints#5625</guid>
@@ -128,7 +184,7 @@
     <title>VS Director</title>
     <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Wed, 22 Jul 2026 12:39:30 -0000</pubDate>
+    <pubDate>Wed, 22 Jul 2026 12:36:46 -0000</pubDate>
     <description>A director camera mod for video production workflows.（导演模式模组）</description>
   </item>
   <item>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9970#9970</guid>
     <pubDate>Wed, 22 Jul 2026 11:33:55 -0000</pubDate>
     <description>A race of cat people based on kahjit</description>
-  </item>
-  <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Wed, 22 Jul 2026 11:29:06 -0000</pubDate>
-    <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
-  </item>
-  <item>
-    <title>Oils! Resoaped Standalone</title>
-    <link>https://mods.vintagestory.at/show/mod/oilsresoapedsa</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oilsresoapedsa#10040</guid>
-    <pubDate>Wed, 22 Jul 2026 11:27:55 -0000</pubDate>
-    <description>A content mod that adds plant oils &amp; some alternative recipes, e.g. treating hides and quicklime. </description>
-  </item>
-  <item>
-    <title>StirlingMotor</title>
-    <link>https://mods.vintagestory.at/show/mod/3832</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3832#3832</guid>
-    <pubDate>Wed, 22 Jul 2026 11:25:08 -0000</pubDate>
-    <description>Adds a Stirling engine (coal energy)</description>
-  </item>
-  <item>
-    <title>The Hunter</title>
-    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
-    <pubDate>Wed, 22 Jul 2026 11:15:53 -0000</pubDate>
-    <description>Adds animal tracking clues, bleeding, droppings, wounded movement, and carcass carrying.</description>
-  </item>
-  <item>
-    <title>RackEmUp</title>
-    <link>https://mods.vintagestory.at/show/mod/rackemup</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rackemup#4686</guid>
-    <pubDate>Wed, 22 Jul 2026 10:36:10 -0000</pubDate>
-    <description>Blocks carried using the CarryOn Mod can be put into and taken out of the Mold Rack</description>
-  </item>
-  <item>
-    <title>Stability Above</title>
-    <link>https://mods.vintagestory.at/show/mod/8629</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8629#8629</guid>
-    <pubDate>Wed, 22 Jul 2026 10:16:08 -0000</pubDate>
-    <description>Removes unstable areas above sea level.</description>
-  </item>
-  <item>
-    <title>Vanilla armory</title>
-    <link>https://mods.vintagestory.at/show/mod/3927</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3927#3927</guid>
-    <pubDate>Wed, 22 Jul 2026 10:13:42 -0000</pubDate>
-    <description>Implements unused vanilla weapons and some armor in vanilla style</description>
-  </item>
-  <item>
-    <title>Acorns for 1.22.5+</title>
-    <link>https://mods.vintagestory.at/show/mod/10427</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10427#10427</guid>
-    <pubDate>Wed, 22 Jul 2026 10:09:06 -0000</pubDate>
-    <description>Unofficial community update for 1.22.5+</description>
   </item>
 </channel>
 </rss>
