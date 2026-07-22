@@ -4,12 +4,82 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 22 Jul 2026 04:18:29 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 07:35:54 +0000</lastBuildDate>
+  <item>
+    <title>Rot from containers</title>
+    <link>https://mods.vintagestory.at/show/mod/10203</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10203#10203</guid>
+    <pubDate>Wed, 22 Jul 2026 07:25:19 -0000</pubDate>
+    <description>Allows rot to be extracted from containers through a crafting grid.</description>
+  </item>
+  <item>
+    <title>Freshness Overlay</title>
+    <link>https://mods.vintagestory.at/show/mod/10190</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10190#10190</guid>
+    <pubDate>Wed, 22 Jul 2026 07:22:27 -0000</pubDate>
+    <description>Shows freshness of food and hides.</description>
+  </item>
+  <item>
+    <title>True Archimedes Screw</title>
+    <link>https://mods.vintagestory.at/show/mod/truearchimedesscrew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/truearchimedesscrew#8026</guid>
+    <pubDate>Wed, 22 Jul 2026 06:15:23 -0000</pubDate>
+    <description>Adds an archimedes screw to move water with mechanical power and optional primitive water physics.</description>
+  </item>
+  <item>
+    <title>Aqueducts and Sluices</title>
+    <link>https://mods.vintagestory.at/show/mod/hcwforked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hcwforked#8241</guid>
+    <pubDate>Wed, 22 Jul 2026 06:15:14 -0000</pubDate>
+    <description>Previously called Hardcore Water. Adds aqueducts and sluices for water transport and control.</description>
+  </item>
+  <item>
+    <title>Fields of Cranberries</title>
+    <link>https://mods.vintagestory.at/show/mod/fieldsofcranberries</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fieldsofcranberries#8578</guid>
+    <pubDate>Wed, 22 Jul 2026 06:14:55 -0000</pubDate>
+    <description>A simple mod allowing ripe cranberry bushes to drop their berries on coming into contact with water.</description>
+  </item>
+  <item>
+    <title>Fast Travel NPC</title>
+    <link>https://mods.vintagestory.at/show/mod/fasttravelnpc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fasttravelnpc#9686</guid>
+    <pubDate>Wed, 22 Jul 2026 05:03:51 -0000</pubDate>
+    <description>Allows players to fast travel in the world by paying rusty gears.</description>
+  </item>
+  <item>
+    <title>Resonator Overhaul </title>
+    <link>https://mods.vintagestory.at/show/mod/10009</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10009#10009</guid>
+    <pubDate>Wed, 22 Jul 2026 05:03:03 -0000</pubDate>
+    <description>Per-resonator volume, falloff and looping — saved to the world and audible with Music off.</description>
+  </item>
+  <item>
+    <title>Resonator Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10007</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10007#10007</guid>
+    <pubDate>Wed, 22 Jul 2026 04:52:20 -0000</pubDate>
+    <description>Simple mod to play the resonator as a sound effect. Will play with music off .</description>
+  </item>
+  <item>
+    <title>Terraria Biome Spread</title>
+    <link>https://mods.vintagestory.at/show/mod/terrariabiomespread</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/terrariabiomespread#10261</guid>
+    <pubDate>Wed, 22 Jul 2026 04:51:23 -0000</pubDate>
+    <description>Add some difficulty to your world with spreading evils with dangerous enemies and unique mechanics</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Wed, 22 Jul 2026 04:47:17 -0000</pubDate>
+    <description>A director camera mod for video production workflows.（导演模式模组）</description>
+  </item>
   <item>
     <title>Temporal Convergence</title>
     <link>https://mods.vintagestory.at/show/mod/9887</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9887#9887</guid>
-    <pubDate>Wed, 22 Jul 2026 04:12:09 -0000</pubDate>
+    <pubDate>Wed, 22 Jul 2026 04:31:08 -0000</pubDate>
     <description>Expands the creatures emerging from temporal rifts with new eldritch entities, afflicted automatons,</description>
   </item>
   <item>
@@ -17,7 +87,7 @@
     <link>https://mods.vintagestory.at/show/mod/10423</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10423#10423</guid>
     <pubDate>Wed, 22 Jul 2026 03:52:07 -0000</pubDate>
-    <description>Send mail across the server using distance based messenger pigeons with secure pigeon boxes.</description>
+    <description>Send mail across the world using distance based messenger pigeons with secure pigeon boxes.</description>
   </item>
   <item>
     <title>Age of Seraphs Tweaks</title>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10174#10174</guid>
     <pubDate>Wed, 22 Jul 2026 01:54:21 -0000</pubDate>
     <description>Adds the family of stegosaurian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Ocean Tyrant — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10175</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10175#10175</guid>
-    <pubDate>Wed, 22 Jul 2026 01:54:06 -0000</pubDate>
-    <description>Adds severals Mosasaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Long Neck — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10176</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10176#10176</guid>
-    <pubDate>Wed, 22 Jul 2026 01:53:40 -0000</pubDate>
-    <description>Adds the family of Macronarians dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Horrible Hands — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10177</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10177#10177</guid>
-    <pubDate>Wed, 22 Jul 2026 01:52:57 -0000</pubDate>
-    <description>Adds the family of ornithomimosauria dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Horned Crown — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10178</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10178#10178</guid>
-    <pubDate>Wed, 22 Jul 2026 01:52:41 -0000</pubDate>
-    <description>Adds the family of ceratopsian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Fused Body — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10179</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10179#10179</guid>
-    <pubDate>Wed, 22 Jul 2026 01:52:24 -0000</pubDate>
-    <description>Adds the family of ankylosaurian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Domed Head — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10180</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10180#10180</guid>
-    <pubDate>Wed, 22 Jul 2026 01:52:10 -0000</pubDate>
-    <description>Adds the family of pachycephalosaurians dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Carnivorous Bull — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10181</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10181#10181</guid>
-    <pubDate>Wed, 22 Jul 2026 01:51:48 -0000</pubDate>
-    <description>Adds severals abelisaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Birds of Prey — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10182</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10182#10182</guid>
-    <pubDate>Wed, 22 Jul 2026 01:51:33 -0000</pubDate>
-    <description>Adds severals dromaeosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>LoP Dino Core</title>
-    <link>https://mods.vintagestory.at/show/mod/10327</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10327#10327</guid>
-    <pubDate>Wed, 22 Jul 2026 01:51:15 -0000</pubDate>
-    <description>Shared spawning, compatibility, deep-ocean spawning, and foliage-clearing services for the dino. WIP</description>
-  </item>
-  <item>
-    <title>Seamarks -- Beacons &amp; Lighthouses</title>
-    <link>https://mods.vintagestory.at/show/mod/seamarks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seamarks#10124</guid>
-    <pubDate>Wed, 22 Jul 2026 01:49:08 -0000</pubDate>
-    <description>Build lighthouses and fire beacons to help navigate the world and its oceans.</description>
   </item>
 </channel>
 </rss>
