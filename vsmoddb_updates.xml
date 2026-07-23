@@ -4,12 +4,61 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 23 Jul 2026 16:37:50 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 18:14:35 +0000</lastBuildDate>
+  <item>
+    <title>Portcullis, Drawbridges and stuff</title>
+    <link>https://mods.vintagestory.at/show/mod/7736</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7736#7736</guid>
+    <pubDate>Thu, 23 Jul 2026 18:13:20 -0000</pubDate>
+    <description>Adds Portcullis, Drawbridges, Brazier and a working lever to add some RP to your builds. </description>
+  </item>
+  <item>
+    <title>Animalica - Body Tools &amp; Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicabtc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicabtc#9867</guid>
+    <pubDate>Thu, 23 Jul 2026 18:05:55 -0000</pubDate>
+    <description>Adds wearable claws, fangs, body tools, and animal classes for Fox, Wolf, and Hyena for now</description>
+  </item>
+  <item>
+    <title>Glowest Worms</title>
+    <link>https://mods.vintagestory.at/show/mod/glowestworms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glowestworms#9360</guid>
+    <pubDate>Thu, 23 Jul 2026 17:59:06 -0000</pubDate>
+    <description>Glowest Worms is an expansion of glow worms and many surrounding mechanics. </description>
+  </item>
+  <item>
+    <title>Ambien's Rust Teleporter</title>
+    <link>https://mods.vintagestory.at/show/mod/9233</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9233#9233</guid>
+    <pubDate>Thu, 23 Jul 2026 17:57:27 -0000</pubDate>
+    <description>Little teleporter mod i made for a server </description>
+  </item>
+  <item>
+    <title>Storage Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/storagetweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/storagetweaks#7807</guid>
+    <pubDate>Thu, 23 Jul 2026 17:38:53 -0000</pubDate>
+    <description>Adds compact/sort and quick-unload buttons to chests and inventory.</description>
+  </item>
+  <item>
+    <title>NDL Graves</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlgraves</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlgraves#9099</guid>
+    <pubDate>Thu, 23 Jul 2026 17:15:51 -0000</pubDate>
+    <description>Adds graves + caskets that you respawn at (also decorative ones), tombstones that appear on death</description>
+  </item>
+  <item>
+    <title>Stop Wolf Player Hunt</title>
+    <link>https://mods.vintagestory.at/show/mod/10446</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10446#10446</guid>
+    <pubDate>Thu, 23 Jul 2026 17:10:11 -0000</pubDate>
+    <description>Remove player from Wolf target list when hungry or during cold weather.</description>
+  </item>
   <item>
     <title>ParchmentToParchmentFullCopy</title>
     <link>https://mods.vintagestory.at/show/mod/10445</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10445#10445</guid>
-    <pubDate>Thu, 23 Jul 2026 16:37:12 -0000</pubDate>
+    <pubDate>Thu, 23 Jul 2026 16:43:23 -0000</pubDate>
     <description>Makes the Transcribe button copy all pages of a parchment instead of only the currently open page</description>
   </item>
   <item>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8215#8215</guid>
     <pubDate>Thu, 23 Jul 2026 13:36:16 -0000</pubDate>
     <description>Build ancient rites from fragments. The world is your altar. Dig deep. Seek truth. Light the fires.</description>
-  </item>
-  <item>
-    <title>Tetromine's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tetrominestweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tetrominestweaks#9553</guid>
-    <pubDate>Thu, 23 Jul 2026 13:03:27 -0000</pubDate>
-    <description>An assortments of tweaks to vanilla content as well as tweaks to existing mods for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Thu, 23 Jul 2026 13:01:53 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>xLib Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7618</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7618#7618</guid>
-    <pubDate>Thu, 23 Jul 2026 12:41:47 -0000</pubDate>
-    <description>XLib provides an interface to add skills, abilities and effects to the game.</description>
-  </item>
-  <item>
-    <title>xSkills Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7605</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
-    <pubDate>Thu, 23 Jul 2026 12:41:25 -0000</pubDate>
-    <description>RPG-style skill system with abilities, perks, and progression.</description>
-  </item>
-  <item>
-    <title>Fast Ground Placing</title>
-    <link>https://mods.vintagestory.at/show/mod/10420</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10420#10420</guid>
-    <pubDate>Thu, 23 Jul 2026 12:34:31 -0000</pubDate>
-    <description>Increases the bulk stack quantity on a few base game resources.</description>
-  </item>
-  <item>
-    <title>Tankards, Goblets and More!</title>
-    <link>https://mods.vintagestory.at/show/mod/tankardsandgoblets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tankardsandgoblets#3905</guid>
-    <pubDate>Thu, 23 Jul 2026 11:57:35 -0000</pubDate>
-    <description>Drink in style! Adds a variety of tankards and goblets into Vintage Story.  </description>
-  </item>
-  <item>
-    <title>GGBC's Model Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks#10440</guid>
-    <pubDate>Thu, 23 Jul 2026 11:52:34 -0000</pubDate>
-    <description>Optimizes Models without notable visual difference. Fixes Z-fighting.</description>
   </item>
 </channel>
 </rss>
