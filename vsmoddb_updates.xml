@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 23 Jul 2026 06:07:27 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 09:25:43 +0000</lastBuildDate>
+  <item>
+    <title>Humanoid's Voices</title>
+    <link>https://mods.vintagestory.at/show/mod/humanoidsvoices</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/humanoidsvoices#5831</guid>
+    <pubDate>Thu, 23 Jul 2026 08:57:23 -0000</pubDate>
+    <description>New player voices using various instruments and sounds.</description>
+  </item>
+  <item>
+    <title>Gatbata's Sawians</title>
+    <link>https://mods.vintagestory.at/show/mod/customplayermodelsaw</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customplayermodelsaw#10351</guid>
+    <pubDate>Thu, 23 Jul 2026 08:45:14 -0000</pubDate>
+    <description>Adds some of the Sawians from Gunsaw and Casualties: Unknown (expies and the like)</description>
+  </item>
+  <item>
+    <title>TassHunting</title>
+    <link>https://mods.vintagestory.at/show/mod/tasshunting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshunting#10438</guid>
+    <pubDate>Thu, 23 Jul 2026 07:43:46 -0000</pubDate>
+    <description>Arrows Stick - Blood - Smarter Animal AI - Aiming Tweaks - Health Based Animal Speed</description>
+  </item>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/10162</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10162#10162</guid>
+    <pubDate>Thu, 23 Jul 2026 07:25:47 -0000</pubDate>
+    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
+  </item>
+  <item>
+    <title>GGBC's Model Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks#10440</guid>
+    <pubDate>Thu, 23 Jul 2026 07:24:43 -0000</pubDate>
+    <description>Optimizes Vanilla &amp; Modded Block &amp; Item Models without notable visual difference, Fixes Z-fighting.</description>
+  </item>
+  <item>
+    <title>Vintage Story Chinese Language Pack</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
+    <pubDate>Thu, 23 Jul 2026 07:01:49 -0000</pubDate>
+    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Thu, 23 Jul 2026 06:37:35 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Vintage Rift - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
+    <pubDate>Thu, 23 Jul 2026 06:29:18 -0000</pubDate>
+    <description>Client only code for the Vintage Rift server</description>
+  </item>
   <item>
     <title>Legacy of the Phanerozoic: Tyrant King — Unofficial</title>
     <link>https://mods.vintagestory.at/show/mod/10168</link>
@@ -111,13 +167,6 @@
     <description>Shared spawning, compatibility, deep-ocean spawning, and foliage-clearing services for the dino. WIP</description>
   </item>
   <item>
-    <title>GGBC's Model Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks#10440</guid>
-    <pubDate>Thu, 23 Jul 2026 05:45:20 -0000</pubDate>
-    <description>Optimizes Vanilla &amp; Modded Block &amp; Item Models without notable difference, Fixes Z-fighting</description>
-  </item>
-  <item>
     <title>Zenith: Assimilation</title>
     <link>https://mods.vintagestory.at/show/mod/7485</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7485#7485</guid>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10389#10389</guid>
     <pubDate>Thu, 23 Jul 2026 03:22:12 -0000</pubDate>
     <description>Aged Wood Restore Repairs worlds broken by the MaterialNeeds 1.x → 2.0.0 transition.</description>
-  </item>
-  <item>
-    <title>WOO Fantasy Additions</title>
-    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
-    <pubDate>Thu, 23 Jul 2026 03:19:12 -0000</pubDate>
-    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
-  </item>
-  <item>
-    <title>Resonator Overhaul </title>
-    <link>https://mods.vintagestory.at/show/mod/10009</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10009#10009</guid>
-    <pubDate>Thu, 23 Jul 2026 02:04:52 -0000</pubDate>
-    <description>Per-resonator volume, falloff and looping — saved to the world and audible with Music off.</description>
-  </item>
-  <item>
-    <title>Loot Goblins Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/lootgoblinsbackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lootgoblinsbackpacks#7803</guid>
-    <pubDate>Thu, 23 Jul 2026 01:35:01 -0000</pubDate>
-    <description>This mod enhances Backpacks size in a reasonable amount to encourage using all types of Backpacks.</description>
-  </item>
-  <item>
-    <title>Loot Goblins BIG Chests</title>
-    <link>https://mods.vintagestory.at/show/mod/lootgoblinsbigchests</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lootgoblinsbigchests#10183</guid>
-    <pubDate>Thu, 23 Jul 2026 01:34:17 -0000</pubDate>
-    <description>Increases storage container slots by a bit, not double, just a few extra rows.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Thu, 23 Jul 2026 01:13:38 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>ReModel</title>
-    <link>https://mods.vintagestory.at/show/mod/remodel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/remodel#10337</guid>
-    <pubDate>Thu, 23 Jul 2026 00:36:44 -0000</pubDate>
-    <description>Allows running .charsel to only swap the player model without changing class</description>
-  </item>
-  <item>
-    <title>Tofu and Soymilk</title>
-    <link>https://mods.vintagestory.at/show/mod/10317</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10317#10317</guid>
-    <pubDate>Thu, 23 Jul 2026 00:14:32 -0000</pubDate>
-    <description>Adds soy processing: soymilk and tofu.</description>
   </item>
 </channel>
 </rss>
