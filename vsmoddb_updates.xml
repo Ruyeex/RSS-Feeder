@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 23 Jul 2026 09:25:43 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 11:51:58 +0000</lastBuildDate>
+  <item>
+    <title>Dame Elswyth’s Summons</title>
+    <link>https://mods.vintagestory.at/show/mod/10139</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10139#10139</guid>
+    <pubDate>Thu, 23 Jul 2026 11:25:14 -0000</pubDate>
+    <description>Find and summon lost pets.  Fixes PetAI fire avoidance AI task for tamed pets.</description>
+  </item>
+  <item>
+    <title>Dead</title>
+    <link>https://mods.vintagestory.at/show/mod/dead</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
+    <pubDate>Thu, 23 Jul 2026 11:23:37 -0000</pubDate>
+    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
+  </item>
+  <item>
+    <title>Deciduous Trees</title>
+    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
+    <pubDate>Thu, 23 Jul 2026 11:09:11 -0000</pubDate>
+    <description>Trees slowly shed their leaves based on temperature. Vanilla and Eco Machina compatible.</description>
+  </item>
+  <item>
+    <title>Immersive Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivebackpacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpacks#9787</guid>
+    <pubDate>Thu, 23 Jul 2026 10:10:21 -0000</pubDate>
+    <description>An overhaul of backpack behavior and rendering in Vintage Story.</description>
+  </item>
+  <item>
+    <title>Quarrier -&gt; Excavator traitswise Tweak</title>
+    <link>https://mods.vintagestory.at/show/mod/quarrytraitstoexcavator</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/quarrytraitstoexcavator#10442</guid>
+    <pubDate>Thu, 23 Jul 2026 09:29:47 -0000</pubDate>
+    <description>Gave some of the traits from Quarrier @Specialized Classes to Excavator @Insectoid Player Model</description>
+  </item>
   <item>
     <title>Humanoid's Voices</title>
     <link>https://mods.vintagestory.at/show/mod/humanoidsvoices</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
     <pubDate>Thu, 23 Jul 2026 05:38:11 -0000</pubDate>
     <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
-    <title>TLH Tweaks (Client)</title>
-    <link>https://mods.vintagestory.at/show/mod/tlhtweaksclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tlhtweaksclient#10278</guid>
-    <pubDate>Thu, 23 Jul 2026 05:10:44 -0000</pubDate>
-    <description>Clientside tweaks for my server. Nothing interesting.</description>
-  </item>
-  <item>
-    <title>Combat Impact Sounds</title>
-    <link>https://mods.vintagestory.at/show/mod/10408</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10408#10408</guid>
-    <pubDate>Thu, 23 Jul 2026 04:59:23 -0000</pubDate>
-    <description>Combat Impact overhauls the default thud sound produced when hitting an enemy with a weapon.</description>
-  </item>
-  <item>
-    <title>NDL Glowworms</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlglowworms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlglowworms#9845</guid>
-    <pubDate>Thu, 23 Jul 2026 04:52:26 -0000</pubDate>
-    <description>Provides a way to gather and grow glowworms</description>
-  </item>
-  <item>
-    <title>Temporal Convergence</title>
-    <link>https://mods.vintagestory.at/show/mod/9887</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9887#9887</guid>
-    <pubDate>Thu, 23 Jul 2026 03:23:31 -0000</pubDate>
-    <description>Expands the creatures emerging from temporal rifts with new eldritch entities, afflicted automatons,</description>
-  </item>
-  <item>
-    <title>Aged Wood Restore</title>
-    <link>https://mods.vintagestory.at/show/mod/10389</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10389#10389</guid>
-    <pubDate>Thu, 23 Jul 2026 03:22:12 -0000</pubDate>
-    <description>Aged Wood Restore Repairs worlds broken by the MaterialNeeds 1.x → 2.0.0 transition.</description>
   </item>
 </channel>
 </rss>
