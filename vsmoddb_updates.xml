@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 24 Jul 2026 07:33:30 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 24 Jul 2026 10:21:21 +0000</lastBuildDate>
+  <item>
+    <title>Aquila's Jukebox</title>
+    <link>https://mods.vintagestory.at/show/mod/aquilasjukebox</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aquilasjukebox#5598</guid>
+    <pubDate>Fri, 24 Jul 2026 09:30:06 -0000</pubDate>
+    <description>Jukebox mod, simple as.</description>
+  </item>
+  <item>
+    <title>Immersive Body Temperature</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivebodytemperature</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebodytemperature#7966</guid>
+    <pubDate>Fri, 24 Jul 2026 09:08:36 -0000</pubDate>
+    <description>Prepare for summer! Makes hot climates as challenging as cold ones.</description>
+  </item>
+  <item>
+    <title>Locust Drider Race (Drocust)</title>
+    <link>https://mods.vintagestory.at/show/mod/drocust</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drocust#7918</guid>
+    <pubDate>Fri, 24 Jul 2026 08:27:42 -0000</pubDate>
+    <description>D&amp;D drider, but turned into locust instead of spider</description>
+  </item>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
+    <pubDate>Fri, 24 Jul 2026 08:18:00 -0000</pubDate>
+    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
+  </item>
+  <item>
+    <title>ClimateScalePatch</title>
+    <link>https://mods.vintagestory.at/show/mod/10277</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10277#10277</guid>
+    <pubDate>Fri, 24 Jul 2026 08:11:32 -0000</pubDate>
+    <description>ClimateScalePatch modifies climate map generation during worldgen.</description>
+  </item>
+  <item>
+    <title>Equus: Wild Horses 2.0</title>
+    <link>https://mods.vintagestory.at/show/mod/equusferus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusferus#10434</guid>
+    <pubDate>Fri, 24 Jul 2026 07:37:59 -0000</pubDate>
+    <description>Adds tameable wild horses to the game, successor to Equus: Wild Horses</description>
+  </item>
+  <item>
+    <title>Glider Timer</title>
+    <link>https://mods.vintagestory.at/show/mod/glidertimer</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glidertimer#10461</guid>
+    <pubDate>Fri, 24 Jul 2026 07:36:38 -0000</pubDate>
+    <description>Allows you to set a configuration for a countdown in between glider uses, default is 5.</description>
+  </item>
   <item>
     <title>Launcher Mod Updater</title>
     <link>https://mods.vintagestory.at/show/mod/launchermodupdater</link>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7485#7485</guid>
     <pubDate>Thu, 23 Jul 2026 23:37:10 -0000</pubDate>
     <description>Forge your path to Apotheosis. Consume Creatures, take their traits and become the ultimate lifeform</description>
-  </item>
-  <item>
-    <title>De-Craftable Trunks</title>
-    <link>https://mods.vintagestory.at/show/mod/decraftabletrunks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/decraftabletrunks#4968</guid>
-    <pubDate>Thu, 23 Jul 2026 23:35:33 -0000</pubDate>
-    <description>Adds a recipe to craft two chests with one trunk.</description>
-  </item>
-  <item>
-    <title>Barbershop Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/10424</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10424#10424</guid>
-    <pubDate>Thu, 23 Jul 2026 23:24:38 -0000</pubDate>
-    <description>Re-implements Barbershop as a full-fledged profession.</description>
-  </item>
-  <item>
-    <title>Gearlock Firearms</title>
-    <link>https://mods.vintagestory.at/show/mod/10375</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10375#10375</guid>
-    <pubDate>Thu, 23 Jul 2026 22:56:47 -0000</pubDate>
-    <description>Adds firearms powered by the gearlock mechanism</description>
-  </item>
-  <item>
-    <title>Oversized Horrors</title>
-    <link>https://mods.vintagestory.at/show/mod/10371</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10371#10371</guid>
-    <pubDate>Thu, 23 Jul 2026 22:25:43 -0000</pubDate>
-    <description>Massive versions of normal VS enemies</description>
-  </item>
-  <item>
-    <title>Dar's Commands</title>
-    <link>https://mods.vintagestory.at/show/mod/darscommands</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darscommands#7005</guid>
-    <pubDate>Thu, 23 Jul 2026 22:25:22 -0000</pubDate>
-    <description>Some fun admin commands.</description>
-  </item>
-  <item>
-    <title>Smeltable Ingots - Continued</title>
-    <link>https://mods.vintagestory.at/show/mod/10456</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10456#10456</guid>
-    <pubDate>Thu, 23 Jul 2026 22:19:41 -0000</pubDate>
-    <description>Frustrated that you can't shove ingots in a crucible? This mod is for you :)</description>
-  </item>
-  <item>
-    <title>Variations on a Meal - Revaried</title>
-    <link>https://mods.vintagestory.at/show/mod/mealrevariation</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mealrevariation#8569</guid>
-    <pubDate>Thu, 23 Jul 2026 21:58:37 -0000</pubDate>
-    <description>Adds more ingredient options to cooking for vanilla meals and pies. Forked for 1.22.</description>
   </item>
 </channel>
 </rss>
