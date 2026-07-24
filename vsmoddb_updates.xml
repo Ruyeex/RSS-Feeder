@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 24 Jul 2026 14:57:44 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 24 Jul 2026 16:49:22 +0000</lastBuildDate>
+  <item>
+    <title>Gearlock Firearms</title>
+    <link>https://mods.vintagestory.at/show/mod/10375</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10375#10375</guid>
+    <pubDate>Fri, 24 Jul 2026 16:23:47 -0000</pubDate>
+    <description>Adds firearms powered by the gearlock mechanism</description>
+  </item>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Fri, 24 Jul 2026 16:22:09 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
+  <item>
+    <title>Dead</title>
+    <link>https://mods.vintagestory.at/show/mod/dead</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
+    <pubDate>Fri, 24 Jul 2026 16:10:11 -0000</pubDate>
+    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
+  </item>
+  <item>
+    <title>Antique Harmony | Music Additions / Alternative Soundtrack</title>
+    <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiqueharmony#7141</guid>
+    <pubDate>Fri, 24 Jul 2026 16:07:27 -0000</pubDate>
+    <description>Adds to/replaces soundtrack with original orchestral one, written for the game.</description>
+  </item>
+  <item>
+    <title>Layout</title>
+    <link>https://mods.vintagestory.at/show/mod/10287</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10287#10287</guid>
+    <pubDate>Fri, 24 Jul 2026 15:59:34 -0000</pubDate>
+    <description>Layout tool that produces inert, uninteractable 2D/3D voxel guidelines in various shapes.</description>
+  </item>
+  <item>
+    <title>GGBC's Model Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks#10440</guid>
+    <pubDate>Fri, 24 Jul 2026 15:36:41 -0000</pubDate>
+    <description>Optimizes Models without notable visual difference. Fixes Z-fighting.</description>
+  </item>
+  <item>
+    <title>TFK Flower Farming</title>
+    <link>https://mods.vintagestory.at/show/mod/10472</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10472#10472</guid>
+    <pubDate>Fri, 24 Jul 2026 15:15:38 -0000</pubDate>
+    <description>A compat patch to allow for crafting seeds from modded flowers.</description>
+  </item>
+  <item>
+    <title>Dar's Commands</title>
+    <link>https://mods.vintagestory.at/show/mod/darscommands</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darscommands#7005</guid>
+    <pubDate>Fri, 24 Jul 2026 15:04:12 -0000</pubDate>
+    <description>Some fun admin commands.</description>
+  </item>
   <item>
     <title>THUGCOOP - BB Patches</title>
     <link>https://mods.vintagestory.at/show/mod/7188</link>
@@ -18,13 +74,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
     <pubDate>Fri, 24 Jul 2026 14:19:10 -0000</pubDate>
     <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
-  </item>
-  <item>
-    <title>GGBC's Model Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks#10440</guid>
-    <pubDate>Fri, 24 Jul 2026 13:49:27 -0000</pubDate>
-    <description>Optimizes Models without notable visual difference. Fixes Z-fighting.</description>
   </item>
   <item>
     <title>Packrat Fork</title>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/statushudcont#1841</guid>
     <pubDate>Fri, 24 Jul 2026 05:20:07 -0000</pubDate>
     <description>Displays status information on the HUD.</description>
-  </item>
-  <item>
-    <title>fish(wastaken)'s Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/10394</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10394#10394</guid>
-    <pubDate>Fri, 24 Jul 2026 05:17:08 -0000</pubDate>
-    <description>some classes I made, using features taken from GlooMeClasses and Rustbound Magic.</description>
-  </item>
-  <item>
-    <title>Flower Seeds</title>
-    <link>https://mods.vintagestory.at/show/mod/10407</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10407#10407</guid>
-    <pubDate>Fri, 24 Jul 2026 04:35:11 -0000</pubDate>
-    <description>Use a knife to turn flowers into seeds!</description>
-  </item>
-  <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Fri, 24 Jul 2026 04:16:26 -0000</pubDate>
-    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
-  </item>
-  <item>
-    <title>CB Nametags</title>
-    <link>https://mods.vintagestory.at/show/mod/10460</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10460#10460</guid>
-    <pubDate>Fri, 24 Jul 2026 03:59:31 -0000</pubDate>
-    <description>Nametag mod for more customization for my personal server.</description>
-  </item>
-  <item>
-    <title>CB Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Fri, 24 Jul 2026 03:20:27 -0000</pubDate>
-    <description>Harmony patches for my personal server.</description>
-  </item>
-  <item>
-    <title>Murlok Vintage Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/murlokvspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/murlokvspatch#5307</guid>
-    <pubDate>Fri, 24 Jul 2026 03:15:30 -0000</pubDate>
-    <description>Collection of tweaks for the Murlok server and playthrough.</description>
-  </item>
-  <item>
-    <title>topohorizon</title>
-    <link>https://mods.vintagestory.at/show/mod/topohorizon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topohorizon#10459</guid>
-    <pubDate>Fri, 24 Jul 2026 02:58:56 -0000</pubDate>
-    <description>Extends visible terrain far past the set view distance, with a camera zoom for distant peaks.</description>
   </item>
 </channel>
 </rss>
