@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 24 Jul 2026 10:21:21 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 24 Jul 2026 12:21:11 +0000</lastBuildDate>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
+    <pubDate>Fri, 24 Jul 2026 12:20:25 -0000</pubDate>
+    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
+  </item>
+  <item>
+    <title>Photo Mode</title>
+    <link>https://mods.vintagestory.at/show/mod/photomode</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/photomode#10465</guid>
+    <pubDate>Fri, 24 Jul 2026 12:19:28 -0000</pubDate>
+    <description>Press the HotKey to enable Photo mode and take your best screenshots!</description>
+  </item>
+  <item>
+    <title>Mobility</title>
+    <link>https://mods.vintagestory.at/show/mod/mobility</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mobility#8768</guid>
+    <pubDate>Fri, 24 Jul 2026 11:29:20 -0000</pubDate>
+    <description>Step Up / Climb / Grab / Auto Walk / Auto Run</description>
+  </item>
+  <item>
+    <title>UnwhitelistedPlayerInventoryRecovery</title>
+    <link>https://mods.vintagestory.at/show/mod/10462</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10462#10462</guid>
+    <pubDate>Fri, 24 Jul 2026 10:44:44 -0000</pubDate>
+    <description>Sends the inventories of players that are no longer whitelisted to the Lost&amp;Found panning pool</description>
+  </item>
+  <item>
+    <title>Status HUD for Immersive Body Temperature</title>
+    <link>https://mods.vintagestory.at/show/mod/statushudibt</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/statushudibt#10464</guid>
+    <pubDate>Fri, 24 Jul 2026 10:33:07 -0000</pubDate>
+    <description>Adds StatusHUD custom elements for Immersive Body Temperature.</description>
+  </item>
   <item>
     <title>Aquila's Jukebox</title>
     <link>https://mods.vintagestory.at/show/mod/aquilasjukebox</link>
@@ -25,13 +60,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drocust#7918</guid>
     <pubDate>Fri, 24 Jul 2026 08:27:42 -0000</pubDate>
     <description>D&amp;D drider, but turned into locust instead of spider</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
-    <pubDate>Fri, 24 Jul 2026 08:18:00 -0000</pubDate>
-    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
   </item>
   <item>
     <title>ClimateScalePatch</title>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/craftablesleekdoors#4962</guid>
     <pubDate>Thu, 23 Jul 2026 23:40:15 -0000</pubDate>
     <description>Adds a recipe for sleek doors.</description>
-  </item>
-  <item>
-    <title>De-Craftable Labeled Chests</title>
-    <link>https://mods.vintagestory.at/show/mod/decraftablelabeledchests</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/decraftablelabeledchests#4970</guid>
-    <pubDate>Thu, 23 Jul 2026 23:39:39 -0000</pubDate>
-    <description>Adds a recipe to seperate a sign from a labeled chest.</description>
-  </item>
-  <item>
-    <title>De-Craftable Raw Bricks</title>
-    <link>https://mods.vintagestory.at/show/mod/decraftablerawbricks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/decraftablerawbricks#4974</guid>
-    <pubDate>Thu, 23 Jul 2026 23:39:01 -0000</pubDate>
-    <description>Adds recipes to turn raw bricks back into clay.</description>
-  </item>
-  <item>
-    <title>NDL ExpandedGrowth (Flower Growth Module)</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthflowers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthflowers#5701</guid>
-    <pubDate>Thu, 23 Jul 2026 23:38:45 -0000</pubDate>
-    <description>Adds a method for growing/farming flowers!</description>
-  </item>
-  <item>
-    <title>Zenith: Assimilation</title>
-    <link>https://mods.vintagestory.at/show/mod/7485</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7485#7485</guid>
-    <pubDate>Thu, 23 Jul 2026 23:37:10 -0000</pubDate>
-    <description>Forge your path to Apotheosis. Consume Creatures, take their traits and become the ultimate lifeform</description>
   </item>
 </channel>
 </rss>
