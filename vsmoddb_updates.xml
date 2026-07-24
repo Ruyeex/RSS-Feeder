@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 23 Jul 2026 22:06:31 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 24 Jul 2026 00:03:22 +0000</lastBuildDate>
+  <item>
+    <title>Craftable Sleek Doors</title>
+    <link>https://mods.vintagestory.at/show/mod/craftablesleekdoors</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/craftablesleekdoors#4962</guid>
+    <pubDate>Thu, 23 Jul 2026 23:40:15 -0000</pubDate>
+    <description>Adds a recipe for sleek doors.</description>
+  </item>
+  <item>
+    <title>De-Craftable Labeled Chests</title>
+    <link>https://mods.vintagestory.at/show/mod/decraftablelabeledchests</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/decraftablelabeledchests#4970</guid>
+    <pubDate>Thu, 23 Jul 2026 23:39:39 -0000</pubDate>
+    <description>Adds a recipe to seperate a sign from a labeled chest.</description>
+  </item>
+  <item>
+    <title>De-Craftable Raw Bricks</title>
+    <link>https://mods.vintagestory.at/show/mod/decraftablerawbricks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/decraftablerawbricks#4974</guid>
+    <pubDate>Thu, 23 Jul 2026 23:39:01 -0000</pubDate>
+    <description>Adds recipes to turn raw bricks back into clay.</description>
+  </item>
+  <item>
+    <title>NDL ExpandedGrowth (Flower Growth Module)</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthflowers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthflowers#5701</guid>
+    <pubDate>Thu, 23 Jul 2026 23:38:45 -0000</pubDate>
+    <description>Adds a method for growing/farming flowers!</description>
+  </item>
+  <item>
+    <title>Zenith: Assimilation</title>
+    <link>https://mods.vintagestory.at/show/mod/7485</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7485#7485</guid>
+    <pubDate>Thu, 23 Jul 2026 23:37:10 -0000</pubDate>
+    <description>Forge your path to Apotheosis. Consume Creatures, take their traits and become the ultimate lifeform</description>
+  </item>
+  <item>
+    <title>De-Craftable Trunks</title>
+    <link>https://mods.vintagestory.at/show/mod/decraftabletrunks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/decraftabletrunks#4968</guid>
+    <pubDate>Thu, 23 Jul 2026 23:35:33 -0000</pubDate>
+    <description>Adds a recipe to craft two chests with one trunk.</description>
+  </item>
+  <item>
+    <title>Barbershop Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/10424</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10424#10424</guid>
+    <pubDate>Thu, 23 Jul 2026 23:24:38 -0000</pubDate>
+    <description>Re-implements Barbershop as a full-fledged profession.</description>
+  </item>
+  <item>
+    <title>Gearlock Firearms</title>
+    <link>https://mods.vintagestory.at/show/mod/10375</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10375#10375</guid>
+    <pubDate>Thu, 23 Jul 2026 22:56:47 -0000</pubDate>
+    <description>Adds firearms powered by the gearlock mechanism</description>
+  </item>
+  <item>
+    <title>Layout</title>
+    <link>https://mods.vintagestory.at/show/mod/10287</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10287#10287</guid>
+    <pubDate>Thu, 23 Jul 2026 22:44:12 -0000</pubDate>
+    <description>Layout tool that produces inert, uninteractable 2D/3D voxel guidelines in various shapes.</description>
+  </item>
+  <item>
+    <title>Oversized Horrors</title>
+    <link>https://mods.vintagestory.at/show/mod/10371</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10371#10371</guid>
+    <pubDate>Thu, 23 Jul 2026 22:25:43 -0000</pubDate>
+    <description>Massive versions of normal VS enemies</description>
+  </item>
+  <item>
+    <title>Dar's Commands</title>
+    <link>https://mods.vintagestory.at/show/mod/darscommands</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darscommands#7005</guid>
+    <pubDate>Thu, 23 Jul 2026 22:25:22 -0000</pubDate>
+    <description>Some fun admin commands.</description>
+  </item>
+  <item>
+    <title>Smeltable Ingots - Continued</title>
+    <link>https://mods.vintagestory.at/show/mod/10456</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10456#10456</guid>
+    <pubDate>Thu, 23 Jul 2026 22:19:41 -0000</pubDate>
+    <description>Frustrated that you can't shove ingots in a crucible? This mod is for you :)</description>
+  </item>
   <item>
     <title>Variations on a Meal - Revaried</title>
     <link>https://mods.vintagestory.at/show/mod/mealrevariation</link>
@@ -18,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noticeboard#2498</guid>
     <pubDate>Thu, 23 Jul 2026 21:58:26 -0000</pubDate>
     <description>Notice board where you can post and read player notices. Focused on RP aspect.</description>
-  </item>
-  <item>
-    <title>De-Craftable Raw Bricks</title>
-    <link>https://mods.vintagestory.at/show/mod/decraftablerawbricks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/decraftablerawbricks#4974</guid>
-    <pubDate>Thu, 23 Jul 2026 21:56:31 -0000</pubDate>
-    <description>Adds recipes to turn raw bricks back into clay.</description>
   </item>
   <item>
     <title>Ambien's Racial Traits</title>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10451#10451</guid>
     <pubDate>Thu, 23 Jul 2026 19:41:05 -0000</pubDate>
     <description>Rivers Extended adds configurable worldgen tuning for the Rivers mod.</description>
-  </item>
-  <item>
-    <title>C&amp;N Market</title>
-    <link>https://mods.vintagestory.at/show/mod/canmarket</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canmarket#950</guid>
-    <pubDate>Thu, 23 Jul 2026 19:31:04 -0000</pubDate>
-    <description>I just need a mod with currency, trade blocks and without d...</description>
-  </item>
-  <item>
-    <title>Wild Farming Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/10010</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10010#10010</guid>
-    <pubDate>Thu, 23 Jul 2026 19:10:45 -0000</pubDate>
-    <description>Cultivate flowers, herbs, mushrooms, trees, and shrubs. And much more.</description>
-  </item>
-  <item>
-    <title>TSearch</title>
-    <link>https://mods.vintagestory.at/show/mod/tsearch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tsearch#10450</guid>
-    <pubDate>Thu, 23 Jul 2026 19:07:59 -0000</pubDate>
-    <description>Press T on any item in your inventory or handbook to highlight nearby containers holding it.</description>
-  </item>
-  <item>
-    <title>C&amp;N Events</title>
-    <link>https://mods.vintagestory.at/show/mod/canevents</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
-    <pubDate>Thu, 23 Jul 2026 18:59:45 -0000</pubDate>
-    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
-  </item>
-  <item>
-    <title>Figurines</title>
-    <link>https://mods.vintagestory.at/show/mod/figurines</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/figurines#4792</guid>
-    <pubDate>Thu, 23 Jul 2026 18:58:52 -0000</pubDate>
-    <description>This mod adds Figurines</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Thu, 23 Jul 2026 18:40:23 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Primitive Survival</title>
-    <link>https://mods.vintagestory.at/show/mod/primitivesurvival</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/primitivesurvival#322</guid>
-    <pubDate>Thu, 23 Jul 2026 18:24:15 -0000</pubDate>
-    <description>Fishing, trapping, irrigation, smoker, nightcrawlers, snakes, and much more!</description>
-  </item>
-  <item>
-    <title>Portcullis, Drawbridges and stuff</title>
-    <link>https://mods.vintagestory.at/show/mod/7736</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7736#7736</guid>
-    <pubDate>Thu, 23 Jul 2026 18:13:20 -0000</pubDate>
-    <description>Adds Portcullis, Drawbridges, Brazier and a working lever to add some RP to your builds. </description>
-  </item>
-  <item>
-    <title>Glowest Worms</title>
-    <link>https://mods.vintagestory.at/show/mod/glowestworms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glowestworms#9360</guid>
-    <pubDate>Thu, 23 Jul 2026 17:59:06 -0000</pubDate>
-    <description>Glowest Worms is an expansion of glow worms and many surrounding mechanics. </description>
-  </item>
-  <item>
-    <title>Ambien's Rust Teleporter</title>
-    <link>https://mods.vintagestory.at/show/mod/9233</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9233#9233</guid>
-    <pubDate>Thu, 23 Jul 2026 17:57:27 -0000</pubDate>
-    <description>Little teleporter mod i made for a server </description>
-  </item>
-  <item>
-    <title>Storage Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/storagetweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/storagetweaks#7807</guid>
-    <pubDate>Thu, 23 Jul 2026 17:38:53 -0000</pubDate>
-    <description>Adds compact/sort and quick-unload buttons to chests and inventory.</description>
   </item>
 </channel>
 </rss>
