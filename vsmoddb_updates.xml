@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 24 Jul 2026 12:21:11 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 24 Jul 2026 14:57:44 +0000</lastBuildDate>
+  <item>
+    <title>THUGCOOP - BB Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/7188</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7188#7188</guid>
+    <pubDate>Fri, 24 Jul 2026 14:29:31 -0000</pubDate>
+    <description>Stat edits to tools and items for thugcoop</description>
+  </item>
+  <item>
+    <title>Dar's Server Utilities</title>
+    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
+    <pubDate>Fri, 24 Jul 2026 14:19:10 -0000</pubDate>
+    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
+  </item>
+  <item>
+    <title>GGBC's Model Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks#10440</guid>
+    <pubDate>Fri, 24 Jul 2026 13:49:27 -0000</pubDate>
+    <description>Optimizes Models without notable visual difference. Fixes Z-fighting.</description>
+  </item>
+  <item>
+    <title>Packrat Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/packratfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/packratfork#8798</guid>
+    <pubDate>Fri, 24 Jul 2026 13:48:40 -0000</pubDate>
+    <description>Packrat adds a Storage Browser that lets you view and search the contents of all nearby containers.</description>
+  </item>
+  <item>
+    <title>Better coal</title>
+    <link>https://mods.vintagestory.at/show/mod/7864</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7864#7864</guid>
+    <pubDate>Fri, 24 Jul 2026 13:41:05 -0000</pubDate>
+    <description>Changes the combustion time and temperature of the coke</description>
+  </item>
+  <item>
+    <title>Ice Cold Vessel</title>
+    <link>https://mods.vintagestory.at/show/mod/coldvessel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/coldvessel#9905</guid>
+    <pubDate>Fri, 24 Jul 2026 13:35:22 -0000</pubDate>
+    <description>Adds ice-powered cooling to storage vessels for food preservation.</description>
+  </item>
+  <item>
+    <title>Auto Walk Extended</title>
+    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
+    <pubDate>Fri, 24 Jul 2026 13:05:24 -0000</pubDate>
+    <description>Toggle walking/sprinting. Options to toggle sneaking and automatic climbing.</description>
+  </item>
+  <item>
+    <title>MightyBamboo</title>
+    <link>https://mods.vintagestory.at/show/mod/mightybamboo</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mightybamboo#9381</guid>
+    <pubDate>Fri, 24 Jul 2026 12:47:17 -0000</pubDate>
+    <description>Expansion of Bamboo usages, objects and recipes.</description>
+  </item>
+  <item>
+    <title>Akira's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/akiratweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/akiratweaks#10138</guid>
+    <pubDate>Fri, 24 Jul 2026 12:34:40 -0000</pubDate>
+    <description>Collection of patches for a personal server.</description>
+  </item>
+  <item>
+    <title>The Jukebox</title>
+    <link>https://mods.vintagestory.at/show/mod/thejukebox</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thejukebox#5598</guid>
+    <pubDate>Fri, 24 Jul 2026 12:33:43 -0000</pubDate>
+    <description>A simple Jukebox for all your listening needs.</description>
+  </item>
   <item>
     <title>RKN Generic Crafting</title>
     <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
@@ -39,13 +109,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/statushudibt#10464</guid>
     <pubDate>Fri, 24 Jul 2026 10:33:07 -0000</pubDate>
     <description>Adds StatusHUD custom elements for Immersive Body Temperature.</description>
-  </item>
-  <item>
-    <title>Aquila's Jukebox</title>
-    <link>https://mods.vintagestory.at/show/mod/aquilasjukebox</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aquilasjukebox#5598</guid>
-    <pubDate>Fri, 24 Jul 2026 09:30:06 -0000</pubDate>
-    <description>Jukebox mod, simple as.</description>
   </item>
   <item>
     <title>Immersive Body Temperature</title>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topohorizon#10459</guid>
     <pubDate>Fri, 24 Jul 2026 02:58:56 -0000</pubDate>
     <description>Extends visible terrain far past the set view distance, with a camera zoom for distant peaks.</description>
-  </item>
-  <item>
-    <title>topographer</title>
-    <link>https://mods.vintagestory.at/show/mod/topographer</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topographer#10441</guid>
-    <pubDate>Fri, 24 Jul 2026 02:54:25 -0000</pubDate>
-    <description>A worldgen mod that builds real-world places from elevation data.</description>
-  </item>
-  <item>
-    <title>DWC Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/dwcclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dwcclasses#5708</guid>
-    <pubDate>Fri, 24 Jul 2026 02:52:25 -0000</pubDate>
-    <description>Custom classes for DWC's private server.</description>
-  </item>
-  <item>
-    <title>Layout</title>
-    <link>https://mods.vintagestory.at/show/mod/10287</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10287#10287</guid>
-    <pubDate>Fri, 24 Jul 2026 02:44:52 -0000</pubDate>
-    <description>Layout tool that produces inert, uninteractable 2D/3D voxel guidelines in various shapes.</description>
-  </item>
-  <item>
-    <title>GamepadCompanionVS</title>
-    <link>https://mods.vintagestory.at/show/mod/8669</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8669#8669</guid>
-    <pubDate>Fri, 24 Jul 2026 01:57:38 -0000</pubDate>
-    <description>Native gamepad support for Vintage Story 1.22+ — 12-slot radial menu, virtual cursor for GUI, etc. </description>
-  </item>
-  <item>
-    <title>Scrap Metal</title>
-    <link>https://mods.vintagestory.at/show/mod/scrapmetal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scrapmetal#10458</guid>
-    <pubDate>Fri, 24 Jul 2026 00:56:00 -0000</pubDate>
-    <description>A whole bunch of rusty scrap weapons and tools you can make</description>
-  </item>
-  <item>
-    <title>Dar's Server Utilities</title>
-    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
-    <pubDate>Fri, 24 Jul 2026 00:55:05 -0000</pubDate>
-    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
-  </item>
-  <item>
-    <title>Iron Blooms to Ingots By Hand</title>
-    <link>https://mods.vintagestory.at/show/mod/ironbloomstoingotsbyhand</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ironbloomstoingotsbyhand#10457</guid>
-    <pubDate>Fri, 24 Jul 2026 00:48:38 -0000</pubDate>
-    <description>Adds a recipe for blooms to iron ingots in the crafting grid.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Fri, 24 Jul 2026 00:44:33 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Craftable Sleek Doors</title>
-    <link>https://mods.vintagestory.at/show/mod/craftablesleekdoors</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/craftablesleekdoors#4962</guid>
-    <pubDate>Thu, 23 Jul 2026 23:40:15 -0000</pubDate>
-    <description>Adds a recipe for sleek doors.</description>
   </item>
 </channel>
 </rss>
