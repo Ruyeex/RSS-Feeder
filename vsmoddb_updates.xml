@@ -4,7 +4,98 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 24 Jul 2026 00:03:22 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 24 Jul 2026 04:17:03 +0000</lastBuildDate>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Fri, 24 Jul 2026 04:16:26 -0000</pubDate>
+    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
+  </item>
+  <item>
+    <title>CB Nametags</title>
+    <link>https://mods.vintagestory.at/show/mod/10460</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10460#10460</guid>
+    <pubDate>Fri, 24 Jul 2026 03:59:31 -0000</pubDate>
+    <description>Nametag mod for more customization for my personal server.</description>
+  </item>
+  <item>
+    <title>CB Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Fri, 24 Jul 2026 03:20:27 -0000</pubDate>
+    <description>Harmony patches for my personal server.</description>
+  </item>
+  <item>
+    <title>Murlok Vintage Server Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/murlokvspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/murlokvspatch#5307</guid>
+    <pubDate>Fri, 24 Jul 2026 03:15:30 -0000</pubDate>
+    <description>Collection of tweaks for the Murlok server and playthrough.</description>
+  </item>
+  <item>
+    <title>topohorizon</title>
+    <link>https://mods.vintagestory.at/show/mod/topohorizon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topohorizon#10459</guid>
+    <pubDate>Fri, 24 Jul 2026 02:58:56 -0000</pubDate>
+    <description>Extends visible terrain far past the set view distance, with a camera zoom for distant peaks.</description>
+  </item>
+  <item>
+    <title>topographer</title>
+    <link>https://mods.vintagestory.at/show/mod/topographer</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topographer#10441</guid>
+    <pubDate>Fri, 24 Jul 2026 02:54:25 -0000</pubDate>
+    <description>A worldgen mod that builds real-world places from elevation data.</description>
+  </item>
+  <item>
+    <title>DWC Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/dwcclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dwcclasses#5708</guid>
+    <pubDate>Fri, 24 Jul 2026 02:52:25 -0000</pubDate>
+    <description>Custom classes for DWC's private server.</description>
+  </item>
+  <item>
+    <title>Layout</title>
+    <link>https://mods.vintagestory.at/show/mod/10287</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10287#10287</guid>
+    <pubDate>Fri, 24 Jul 2026 02:44:52 -0000</pubDate>
+    <description>Layout tool that produces inert, uninteractable 2D/3D voxel guidelines in various shapes.</description>
+  </item>
+  <item>
+    <title>GamepadCompanionVS</title>
+    <link>https://mods.vintagestory.at/show/mod/8669</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8669#8669</guid>
+    <pubDate>Fri, 24 Jul 2026 01:57:38 -0000</pubDate>
+    <description>Native gamepad support for Vintage Story 1.22+ — 12-slot radial menu, virtual cursor for GUI, etc. </description>
+  </item>
+  <item>
+    <title>Scrap Metal</title>
+    <link>https://mods.vintagestory.at/show/mod/scrapmetal</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scrapmetal#10458</guid>
+    <pubDate>Fri, 24 Jul 2026 00:56:00 -0000</pubDate>
+    <description>A whole bunch of rusty scrap weapons and tools you can make</description>
+  </item>
+  <item>
+    <title>Dar's Server Utilities</title>
+    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
+    <pubDate>Fri, 24 Jul 2026 00:55:05 -0000</pubDate>
+    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
+  </item>
+  <item>
+    <title>Iron Blooms to Ingots By Hand</title>
+    <link>https://mods.vintagestory.at/show/mod/ironbloomstoingotsbyhand</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ironbloomstoingotsbyhand#10457</guid>
+    <pubDate>Fri, 24 Jul 2026 00:48:38 -0000</pubDate>
+    <description>Adds a recipe for blooms to iron ingots in the crafting grid.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Fri, 24 Jul 2026 00:44:33 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
   <item>
     <title>Craftable Sleek Doors</title>
     <link>https://mods.vintagestory.at/show/mod/craftablesleekdoors</link>
@@ -60,13 +151,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10375#10375</guid>
     <pubDate>Thu, 23 Jul 2026 22:56:47 -0000</pubDate>
     <description>Adds firearms powered by the gearlock mechanism</description>
-  </item>
-  <item>
-    <title>Layout</title>
-    <link>https://mods.vintagestory.at/show/mod/10287</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10287#10287</guid>
-    <pubDate>Thu, 23 Jul 2026 22:44:12 -0000</pubDate>
-    <description>Layout tool that produces inert, uninteractable 2D/3D voxel guidelines in various shapes.</description>
   </item>
   <item>
     <title>Oversized Horrors</title>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plasterstairsslabs#4624</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:46 -0000</pubDate>
     <description>A simple mod for adding plaster stairs and slabs.</description>
-  </item>
-  <item>
-    <title>CFY Simple Hotbar Refill</title>
-    <link>https://mods.vintagestory.at/show/mod/simplerefill</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplerefill#4723</guid>
-    <pubDate>Thu, 23 Jul 2026 21:18:22 -0000</pubDate>
-    <description>Automatically refills tools, blocks, and items in the hotbar.</description>
-  </item>
-  <item>
-    <title>BetterChinese</title>
-    <link>https://mods.vintagestory.at/show/mod/betterchinese</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterchinese#2568</guid>
-    <pubDate>Thu, 23 Jul 2026 21:04:36 -0000</pubDate>
-    <description>更好的汉化</description>
-  </item>
-  <item>
-    <title>Fast Ground Placing</title>
-    <link>https://mods.vintagestory.at/show/mod/10420</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10420#10420</guid>
-    <pubDate>Thu, 23 Jul 2026 20:57:59 -0000</pubDate>
-    <description>Increases the bulk stack quantity on a few base game resources.</description>
-  </item>
-  <item>
-    <title>Waterfall: SomeLiquidSourceTransport</title>
-    <link>https://mods.vintagestory.at/show/mod/waterfall</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waterfall#3845</guid>
-    <pubDate>Thu, 23 Jul 2026 20:47:57 -0000</pubDate>
-    <description>Water must be manually spread from naturally generated liquid bodies.</description>
-  </item>
-  <item>
-    <title>Ore Balance: Amount Tweaker</title>
-    <link>https://mods.vintagestory.at/show/mod/orebalance</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/orebalance#6457</guid>
-    <pubDate>Thu, 23 Jul 2026 20:40:04 -0000</pubDate>
-    <description>Tweaks Ore Chunks and Crystalized Chunks to be giving less Nuggets per Crafting Operation. Config.</description>
-  </item>
-  <item>
-    <title>Better Rift Ward</title>
-    <link>https://mods.vintagestory.at/show/mod/betterriftward</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterriftward#10452</guid>
-    <pubDate>Thu, 23 Jul 2026 20:37:37 -0000</pubDate>
-    <description>The Rift Ward - but better. Based on Better Jonas Devices mod</description>
-  </item>
-  <item>
-    <title>TassHunting</title>
-    <link>https://mods.vintagestory.at/show/mod/tasshunting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshunting#10438</guid>
-    <pubDate>Thu, 23 Jul 2026 20:27:44 -0000</pubDate>
-    <description>Arrows Stick - Blood - Smarter Animal AI - Aiming Tweaks - Health Based Animal Speed</description>
-  </item>
-  <item>
-    <title>Animalica - Body Tools &amp; Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicabtc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicabtc#9867</guid>
-    <pubDate>Thu, 23 Jul 2026 20:09:52 -0000</pubDate>
-    <description>Wearable body tools and universal classes for Animalica player species.</description>
-  </item>
-  <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Thu, 23 Jul 2026 20:05:03 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
-    <pubDate>Thu, 23 Jul 2026 19:53:44 -0000</pubDate>
-    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
-  </item>
-  <item>
-    <title>CompostTweak</title>
-    <link>https://mods.vintagestory.at/show/mod/3682</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3682#3682</guid>
-    <pubDate>Thu, 23 Jul 2026 19:46:45 -0000</pubDate>
-    <description>Makes composting alot more interactive and adds more things to compost.</description>
-  </item>
-  <item>
-    <title>Rivers Extended</title>
-    <link>https://mods.vintagestory.at/show/mod/10451</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10451#10451</guid>
-    <pubDate>Thu, 23 Jul 2026 19:41:05 -0000</pubDate>
-    <description>Rivers Extended adds configurable worldgen tuning for the Rivers mod.</description>
   </item>
 </channel>
 </rss>
