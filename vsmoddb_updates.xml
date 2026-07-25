@@ -4,7 +4,21 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 25 Jul 2026 09:50:40 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 11:12:57 +0000</lastBuildDate>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Sat, 25 Jul 2026 11:03:29 -0000</pubDate>
+    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
+  </item>
+  <item>
+    <title>Packrat Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/packratfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/packratfork#8798</guid>
+    <pubDate>Sat, 25 Jul 2026 10:27:40 -0000</pubDate>
+    <description>Packrat adds a Storage Browser that lets you view and search the contents of all nearby containers.</description>
+  </item>
   <item>
     <title>kris-patch-longtermfood</title>
     <link>https://mods.vintagestory.at/show/mod/krispatchlongtermfood</link>
@@ -146,13 +160,6 @@
     <description>More consistent Arrow Barrel Mod</description>
   </item>
   <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Sat, 25 Jul 2026 02:48:20 -0000</pubDate>
-    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
-  </item>
-  <item>
     <title>Meliora Meadows Adjustments</title>
     <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplerockcrafting#6744</guid>
     <pubDate>Sat, 25 Jul 2026 00:59:54 -0000</pubDate>
     <description>A simple mod that allows you to craft rock blocks out of 8 stones and a hammer.</description>
-  </item>
-  <item>
-    <title>Hydrate or Diedrate</title>
-    <link>https://mods.vintagestory.at/show/mod/hydrateordiedrate</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hydrateordiedrate#2282</guid>
-    <pubDate>Sat, 25 Jul 2026 00:25:41 -0000</pubDate>
-    <description>A mod that adds thirst and hydration mechanics as well as hot weather survival.</description>
   </item>
 </channel>
 </rss>
