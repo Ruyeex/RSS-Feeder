@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 25 Jul 2026 21:59:06 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 23:03:47 +0000</lastBuildDate>
+  <item>
+    <title>Vintage Horizons</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagehorizons</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagehorizons#10511</guid>
+    <pubDate>Sat, 25 Jul 2026 22:57:08 -0000</pubDate>
+    <description>An LOD mod inspired by Distant Horizons, Farseer, Voxy, and ChunkLOD</description>
+  </item>
+  <item>
+    <title>Inventory Transfer</title>
+    <link>https://mods.vintagestory.at/show/mod/7383</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7383#7383</guid>
+    <pubDate>Sat, 25 Jul 2026 22:36:04 -0000</pubDate>
+    <description>Take your loot to a new world!</description>
+  </item>
+  <item>
+    <title>Solaria's Sauce</title>
+    <link>https://mods.vintagestory.at/show/mod/10480</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10480#10480</guid>
+    <pubDate>Sat, 25 Jul 2026 22:32:01 -0000</pubDate>
+    <description>Foliage theme pack</description>
+  </item>
+  <item>
+    <title>Uppsalchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/10141</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10141#10141</guid>
+    <pubDate>Sat, 25 Jul 2026 22:27:16 -0000</pubDate>
+    <description>A multi-tier alchemy system that uses A Culinary Artillery bottles.</description>
+  </item>
+  <item>
+    <title>Prospector's Instinct</title>
+    <link>https://mods.vintagestory.at/show/mod/prospectorsinstinct</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/prospectorsinstinct#10192</guid>
+    <pubDate>Sat, 25 Jul 2026 22:16:02 -0000</pubDate>
+    <description>Subtle particle guidance that helps locate nearby ore while preserving the spirit of prospecting.</description>
+  </item>
+  <item>
+    <title>URL Radio (YT)</title>
+    <link>https://mods.vintagestory.at/show/mod/10482</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10482#10482</guid>
+    <pubDate>Sat, 25 Jul 2026 22:04:17 -0000</pubDate>
+    <description>A radio that can play audio from URL links, primarily YouTube links.</description>
+  </item>
   <item>
     <title>Global Player Markers</title>
     <link>https://mods.vintagestory.at/show/mod/10508</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9896#9896</guid>
     <pubDate>Sat, 25 Jul 2026 18:34:53 -0000</pubDate>
     <description>Buncha changes for a LAN</description>
-  </item>
-  <item>
-    <title>NDL ExpandedGrowth (Flower Growth Module)</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthflowers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthflowers#5701</guid>
-    <pubDate>Sat, 25 Jul 2026 18:26:54 -0000</pubDate>
-    <description>Adds a method for growing/farming flowers!</description>
-  </item>
-  <item>
-    <title>TassModFixesTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tassmodfixestweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassmodfixestweaks#10502</guid>
-    <pubDate>Sat, 25 Jul 2026 18:25:13 -0000</pubDate>
-    <description>A catch all mod for anything that does not fit my other mods - fixing bugs and tweaking mods</description>
-  </item>
-  <item>
-    <title>Tankards, Goblets and More! PT-BR</title>
-    <link>https://mods.vintagestory.at/show/mod/tankardsandgobletsptbr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tankardsandgobletsptbr#10501</guid>
-    <pubDate>Sat, 25 Jul 2026 18:13:56 -0000</pubDate>
-    <description>Tradução do Tankards, Goblets and More! para português do Brasil.</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
-    <pubDate>Sat, 25 Jul 2026 18:06:48 -0000</pubDate>
-    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
-  </item>
-  <item>
-    <title>Ritual Apotheosis</title>
-    <link>https://mods.vintagestory.at/show/mod/8215</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8215#8215</guid>
-    <pubDate>Sat, 25 Jul 2026 18:01:09 -0000</pubDate>
-    <description>Build ancient rites from fragments. The world is your altar. Dig deep. Seek truth. Light the fires.</description>
-  </item>
-  <item>
-    <title>Eternal Seraph Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
-    <pubDate>Sat, 25 Jul 2026 17:55:28 -0000</pubDate>
-    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
   </item>
 </channel>
 </rss>
