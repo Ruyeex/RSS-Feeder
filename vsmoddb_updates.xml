@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 25 Jul 2026 20:55:30 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 21:59:06 +0000</lastBuildDate>
+  <item>
+    <title>Global Player Markers</title>
+    <link>https://mods.vintagestory.at/show/mod/10508</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10508#10508</guid>
+    <pubDate>Sat, 25 Jul 2026 21:57:25 -0000</pubDate>
+    <description>Makes it so player markers are seen on the map everywhere</description>
+  </item>
+  <item>
+    <title>The Quire Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/10455</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
+    <pubDate>Sat, 25 Jul 2026 21:52:57 -0000</pubDate>
+    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
+  </item>
+  <item>
+    <title>Vampirism</title>
+    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
+    <pubDate>Sat, 25 Jul 2026 21:52:50 -0000</pubDate>
+    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/10453</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
+    <pubDate>Sat, 25 Jul 2026 21:51:35 -0000</pubDate>
+    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>Fantastical Fantasy Armor Griffith Silver</title>
+    <link>https://mods.vintagestory.at/show/mod/ffasilver</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ffasilver#10507</guid>
+    <pubDate>Sat, 25 Jul 2026 21:31:08 -0000</pubDate>
+    <description>A remodling of the silver plate helmet to make it look like Griffith's helm.</description>
+  </item>
+  <item>
+    <title>Aldi's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/aldiclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aldiclasses#5327</guid>
+    <pubDate>Sat, 25 Jul 2026 21:25:53 -0000</pubDate>
+    <description>An extremely stable, compatible and customizable classes mod!</description>
+  </item>
+  <item>
+    <title>GGBC's Model Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks#10440</guid>
+    <pubDate>Sat, 25 Jul 2026 21:06:25 -0000</pubDate>
+    <description>Optimizes Models without notable visual difference. Fixes Z-fighting.</description>
+  </item>
+  <item>
+    <title>Accessorize</title>
+    <link>https://mods.vintagestory.at/show/mod/accessorize</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/accessorize#6455</guid>
+    <pubDate>Sat, 25 Jul 2026 20:59:27 -0000</pubDate>
+    <description>A mod for more wearable and craftable accessories </description>
+  </item>
   <item>
     <title>MoreInventorys</title>
     <link>https://mods.vintagestory.at/show/mod/moreinventorys</link>
@@ -97,13 +153,6 @@
     <description>Reduces wolfs, bears and hyenas spawn </description>
   </item>
   <item>
-    <title>GGBC's Model Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks#10440</guid>
-    <pubDate>Sat, 25 Jul 2026 18:43:24 -0000</pubDate>
-    <description>Optimizes Models without notable visual difference. Fixes Z-fighting.</description>
-  </item>
-  <item>
     <title>TassFactions</title>
     <link>https://mods.vintagestory.at/show/mod/10503</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
     <pubDate>Sat, 25 Jul 2026 17:55:28 -0000</pubDate>
     <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
-  </item>
-  <item>
-    <title>TassHardcoreWinter</title>
-    <link>https://mods.vintagestory.at/show/mod/tasshardcorewinter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshardcorewinter#10500</guid>
-    <pubDate>Sat, 25 Jul 2026 17:50:22 -0000</pubDate>
-    <description>Deeper snow, white out blizzards, restorative spring, realistic room temperature, heat source rework</description>
-  </item>
-  <item>
-    <title>Player Corpse (Azu Modded)</title>
-    <link>https://mods.vintagestory.at/show/mod/playercorpseforkedazu</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playercorpseforkedazu#9221</guid>
-    <pubDate>Sat, 25 Jul 2026 17:48:14 -0000</pubDate>
-    <description>Creates a corpse with the player's inventory after death (1.22+)</description>
-  </item>
-  <item>
-    <title>AnalogMovementVS</title>
-    <link>https://mods.vintagestory.at/show/mod/analogmovementvs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/analogmovementvs#7662</guid>
-    <pubDate>Sat, 25 Jul 2026 17:46:53 -0000</pubDate>
-    <description>Adds support for moving in any direction at any speed.</description>
-  </item>
-  <item>
-    <title>WootingAnalogVS</title>
-    <link>https://mods.vintagestory.at/show/mod/wootinganalogvs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wootinganalogvs#7685</guid>
-    <pubDate>Sat, 25 Jul 2026 17:46:41 -0000</pubDate>
-    <description>Support analog movement using a Wooting keyboard.</description>
-  </item>
-  <item>
-    <title>ControllerMovementVS</title>
-    <link>https://mods.vintagestory.at/show/mod/controllermovementvs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/controllermovementvs#7747</guid>
-    <pubDate>Sat, 25 Jul 2026 17:46:32 -0000</pubDate>
-    <description>Use a controller to move.</description>
-  </item>
-  <item>
-    <title>Russification For Mods</title>
-    <link>https://mods.vintagestory.at/show/mod/5312</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5312#5312</guid>
-    <pubDate>Sat, 25 Jul 2026 17:35:20 -0000</pubDate>
-    <description>Russian Translation Pack — a collection of Russian localizations for various Vintage Story mods.</description>
-  </item>
-  <item>
-    <title>Warmer elks</title>
-    <link>https://mods.vintagestory.at/show/mod/5748</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5748#5748</guid>
-    <pubDate>Sat, 25 Jul 2026 16:59:14 -0000</pubDate>
-    <description>Increases possible areas for elk spawning</description>
   </item>
 </channel>
 </rss>
