@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 25 Jul 2026 13:39:40 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 15:05:22 +0000</lastBuildDate>
+  <item>
+    <title>Translocator Locator Redux FORK</title>
+    <link>https://mods.vintagestory.at/show/mod/translocatorlocatorreduxfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/translocatorlocatorreduxfork#10496</guid>
+    <pubDate>Sat, 25 Jul 2026 14:50:24 -0000</pubDate>
+    <description>This mod adds Translocator Locator for locating broken Translocators</description>
+  </item>
+  <item>
+    <title>Armor Shift Click</title>
+    <link>https://mods.vintagestory.at/show/mod/armorshiftclick</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/armorshiftclick#10477</guid>
+    <pubDate>Sat, 25 Jul 2026 14:24:29 -0000</pubDate>
+    <description>Makes shift clicking armor (and other character clothing) into the their respective slots possible.</description>
+  </item>
+  <item>
+    <title>C&amp;N Jewelry/XSkills</title>
+    <link>https://mods.vintagestory.at/show/mod/canjewelryxskill</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelryxskill#8593</guid>
+    <pubDate>Sat, 25 Jul 2026 14:02:05 -0000</pubDate>
+    <description>Lapidary &amp; Jeweler XSkills trees for CAN Jewelry — perks for cutting, panning, encrusting and gem ex</description>
+  </item>
+  <item>
+    <title>VSA - BeamQoL</title>
+    <link>https://mods.vintagestory.at/show/mod/10475</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10475#10475</guid>
+    <pubDate>Sat, 25 Jul 2026 13:53:26 -0000</pubDate>
+    <description>Survival-compatible, symmetric &amp; systematic beam placement, clean snap logic. Updates will follow</description>
+  </item>
+  <item>
+    <title>Seamless Windows</title>
+    <link>https://mods.vintagestory.at/show/mod/10495</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10495#10495</guid>
+    <pubDate>Sat, 25 Jul 2026 13:51:25 -0000</pubDate>
+    <description>An addon for Unleaded Windows that matching window panes into seamless surfaces.</description>
+  </item>
   <item>
     <title>Vintage Rift - Client</title>
     <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
@@ -39,13 +74,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5529#5529</guid>
     <pubDate>Sat, 25 Jul 2026 13:22:57 -0000</pubDate>
     <description>This mod adds a beautifully designed, immersive, and user-friendly interface for xSkills. </description>
-  </item>
-  <item>
-    <title>VSA - BeamQoL</title>
-    <link>https://mods.vintagestory.at/show/mod/10475</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10475#10475</guid>
-    <pubDate>Sat, 25 Jul 2026 13:17:24 -0000</pubDate>
-    <description>Survival-compatible, symmetric &amp; systematic beam placement, clean snap logic. Updates will follow</description>
   </item>
   <item>
     <title>Transmittance</title>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4287#4287</guid>
     <pubDate>Sat, 25 Jul 2026 09:14:30 -0000</pubDate>
     <description>Simple client side mod that allows you to reveal nearby items on the ground</description>
-  </item>
-  <item>
-    <title>Item Pickup Notifier</title>
-    <link>https://mods.vintagestory.at/show/mod/3947</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3947#3947</guid>
-    <pubDate>Sat, 25 Jul 2026 09:14:04 -0000</pubDate>
-    <description>Item Pickup Notifier shows a simple overlay that displays the information of items you pick up</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Sat, 25 Jul 2026 08:38:31 -0000</pubDate>
-    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
-  </item>
-  <item>
-    <title>Stain's Stovetop</title>
-    <link>https://mods.vintagestory.at/show/mod/stainsstovetop</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stainsstovetop#10486</guid>
-    <pubDate>Sat, 25 Jul 2026 07:41:33 -0000</pubDate>
-    <description>4 Burner Stovetop for compact cooking spaces. Only 850 gears!</description>
-  </item>
-  <item>
-    <title>The Remnants Reborn</title>
-    <link>https://mods.vintagestory.at/show/mod/theremnantsreborn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/theremnantsreborn#6243</guid>
-    <pubDate>Sat, 25 Jul 2026 05:04:26 -0000</pubDate>
-    <description>Adds a series of custom flavor classes heavily inspired by the Vintage Story lore. 1.22 update.</description>
   </item>
 </channel>
 </rss>
