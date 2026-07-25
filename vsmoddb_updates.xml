@@ -4,13 +4,62 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 25 Jul 2026 07:19:59 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 09:50:40 +0000</lastBuildDate>
+  <item>
+    <title>kris-patch-longtermfood</title>
+    <link>https://mods.vintagestory.at/show/mod/krispatchlongtermfood</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krispatchlongtermfood#10490</guid>
+    <pubDate>Sat, 25 Jul 2026 09:32:40 -0000</pubDate>
+    <description>A small content-only fix for the Long-term food mod that fixes the name for some of the items</description>
+  </item>
+  <item>
+    <title>kris-patch-materialneeds</title>
+    <link>https://mods.vintagestory.at/show/mod/krispatchmaterialneeds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krispatchmaterialneeds#10489</guid>
+    <pubDate>Sat, 25 Jul 2026 09:21:26 -0000</pubDate>
+    <description>A small content-only fix that brings back Aged Wood and Very Aged Wood after the Material Needs 2.0.</description>
+  </item>
   <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/9635</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sat, 25 Jul 2026 06:35:21 -0000</pubDate>
+    <pubDate>Sat, 25 Jul 2026 09:16:06 -0000</pubDate>
     <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Simple Entity HealthBar</title>
+    <link>https://mods.vintagestory.at/show/mod/simplehealthbar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplehealthbar#4926</guid>
+    <pubDate>Sat, 25 Jul 2026 09:14:47 -0000</pubDate>
+    <description>Simple Entity Healthbar</description>
+  </item>
+  <item>
+    <title>Item Pickup Highlighter</title>
+    <link>https://mods.vintagestory.at/show/mod/4287</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4287#4287</guid>
+    <pubDate>Sat, 25 Jul 2026 09:14:30 -0000</pubDate>
+    <description>Simple client side mod that allows you to reveal nearby items on the ground</description>
+  </item>
+  <item>
+    <title>Item Pickup Notifier</title>
+    <link>https://mods.vintagestory.at/show/mod/3947</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3947#3947</guid>
+    <pubDate>Sat, 25 Jul 2026 09:14:04 -0000</pubDate>
+    <description>Item Pickup Notifier shows a simple overlay that displays the information of items you pick up</description>
+  </item>
+  <item>
+    <title>Age of Seraphs Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
+    <pubDate>Sat, 25 Jul 2026 08:38:31 -0000</pubDate>
+    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
+  </item>
+  <item>
+    <title>Stain's Stovetop</title>
+    <link>https://mods.vintagestory.at/show/mod/stainsstovetop</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stainsstovetop#10486</guid>
+    <pubDate>Sat, 25 Jul 2026 07:41:33 -0000</pubDate>
+    <description>4 Burner Stovetop for compact cooking spaces. Only 850 gears!</description>
   </item>
   <item>
     <title>The Remnants Reborn</title>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hydrateordiedrate#2282</guid>
     <pubDate>Sat, 25 Jul 2026 00:25:41 -0000</pubDate>
     <description>A mod that adds thirst and hydration mechanics as well as hot weather survival.</description>
-  </item>
-  <item>
-    <title>Frontiers RPG</title>
-    <link>https://mods.vintagestory.at/show/mod/frontiersrpg</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontiersrpg#10367</guid>
-    <pubDate>Sat, 25 Jul 2026 00:10:29 -0000</pubDate>
-    <description>An ARPG system for Vintage Story</description>
-  </item>
-  <item>
-    <title>The Hunter</title>
-    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
-    <pubDate>Fri, 24 Jul 2026 23:45:09 -0000</pubDate>
-    <description>Adds animal tracking clues, bleeding, droppings, wounded movement, and carcass carrying.</description>
-  </item>
-  <item>
-    <title>Grinding Wheel Rework</title>
-    <link>https://mods.vintagestory.at/show/mod/grindingwheelrework</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindingwheelrework#8252</guid>
-    <pubDate>Fri, 24 Jul 2026 23:35:19 -0000</pubDate>
-    <description>Expands grinding wheel to support more tools and turns sharpening into a lightweight repair system</description>
-  </item>
-  <item>
-    <title>Biodiversity: Orchards</title>
-    <link>https://mods.vintagestory.at/show/mod/bdorchard</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bdorchard#7229</guid>
-    <pubDate>Fri, 24 Jul 2026 22:33:26 -0000</pubDate>
-    <description>Adds several new fruit trees for all your juicing and fruity needs. Part of the Biodiversity Suite</description>
-  </item>
-  <item>
-    <title>C4B Traducciones-ES - JUEGO</title>
-    <link>https://mods.vintagestory.at/show/mod/c4btraduccionesjuego</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/c4btraduccionesjuego#2738</guid>
-    <pubDate>Fri, 24 Jul 2026 22:14:32 -0000</pubDate>
-    <description>Traducción actualizada y mejorada del Juego, en Español-ES | Incluidas nuevas Guías</description>
-  </item>
-  <item>
-    <title>GamepadCompanionVS</title>
-    <link>https://mods.vintagestory.at/show/mod/8669</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8669#8669</guid>
-    <pubDate>Fri, 24 Jul 2026 22:11:00 -0000</pubDate>
-    <description>Native gamepad support for Vintage Story 1.22+ — 12-slot radial menu, virtual cursor for GUI, etc. </description>
-  </item>
-  <item>
-    <title>C4B Traducciones-ES - MODS</title>
-    <link>https://mods.vintagestory.at/show/mod/c4btraduccionesmods</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/c4btraduccionesmods#2720</guid>
-    <pubDate>Fri, 24 Jul 2026 22:05:49 -0000</pubDate>
-    <description>Paquete de Traducciones de Mods en Español-ES</description>
   </item>
 </channel>
 </rss>
