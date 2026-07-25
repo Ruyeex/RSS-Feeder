@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 24 Jul 2026 22:06:54 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 00:06:14 +0000</lastBuildDate>
+  <item>
+    <title>The Hunter</title>
+    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
+    <pubDate>Fri, 24 Jul 2026 23:45:09 -0000</pubDate>
+    <description>Adds animal tracking clues, bleeding, droppings, wounded movement, and carcass carrying.</description>
+  </item>
+  <item>
+    <title>Grinding Wheel Rework</title>
+    <link>https://mods.vintagestory.at/show/mod/grindingwheelrework</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindingwheelrework#8252</guid>
+    <pubDate>Fri, 24 Jul 2026 23:35:19 -0000</pubDate>
+    <description>Expands grinding wheel to support more tools and turns sharpening into a lightweight repair system</description>
+  </item>
+  <item>
+    <title>WOO Fantasy Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
+    <pubDate>Fri, 24 Jul 2026 23:04:04 -0000</pubDate>
+    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
+  </item>
+  <item>
+    <title>Custom Server Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10378</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
+    <pubDate>Fri, 24 Jul 2026 22:35:25 -0000</pubDate>
+    <description>A collection of tweaks for our private server.</description>
+  </item>
+  <item>
+    <title>Biodiversity: Orchards</title>
+    <link>https://mods.vintagestory.at/show/mod/bdorchard</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bdorchard#7229</guid>
+    <pubDate>Fri, 24 Jul 2026 22:33:26 -0000</pubDate>
+    <description>Adds several new fruit trees for all your juicing and fruity needs. Part of the Biodiversity Suite</description>
+  </item>
+  <item>
+    <title>C4B Traducciones-ES - JUEGO</title>
+    <link>https://mods.vintagestory.at/show/mod/c4btraduccionesjuego</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/c4btraduccionesjuego#2738</guid>
+    <pubDate>Fri, 24 Jul 2026 22:14:32 -0000</pubDate>
+    <description>Traducción actualizada y mejorada del Juego, en Español-ES | Incluidas nuevas Guías</description>
+  </item>
+  <item>
+    <title>GamepadCompanionVS</title>
+    <link>https://mods.vintagestory.at/show/mod/8669</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8669#8669</guid>
+    <pubDate>Fri, 24 Jul 2026 22:11:00 -0000</pubDate>
+    <description>Native gamepad support for Vintage Story 1.22+ — 12-slot radial menu, virtual cursor for GUI, etc. </description>
+  </item>
   <item>
     <title>C4B Traducciones-ES - MODS</title>
     <link>https://mods.vintagestory.at/show/mod/c4btraduccionesmods</link>
@@ -25,20 +74,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/uraniumexpanded#5981</guid>
     <pubDate>Fri, 24 Jul 2026 21:59:24 -0000</pubDate>
     <description>Adds uranium based alloys, adds uranium glass, tools and uranium fever.</description>
-  </item>
-  <item>
-    <title>C4B Traducciones-ES - JUEGO</title>
-    <link>https://mods.vintagestory.at/show/mod/c4btraduccionesjuego</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/c4btraduccionesjuego#2738</guid>
-    <pubDate>Fri, 24 Jul 2026 21:57:16 -0000</pubDate>
-    <description>Traducción actualizada y mejorada del Juego, en Español-ES | Incluidas nuevas Guías</description>
-  </item>
-  <item>
-    <title>Custom Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10378</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
-    <pubDate>Fri, 24 Jul 2026 21:51:18 -0000</pubDate>
-    <description>A collection of tweaks for our private server.</description>
   </item>
   <item>
     <title>Projectile Tracker</title>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontiersdurability#10364</guid>
     <pubDate>Fri, 24 Jul 2026 18:38:33 -0000</pubDate>
     <description>A simple clothing degradation mod</description>
-  </item>
-  <item>
-    <title>Frontiers Lootboxes</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierslootboxes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierslootboxes#10369</guid>
-    <pubDate>Fri, 24 Jul 2026 18:36:34 -0000</pubDate>
-    <description>The weighted reward-roll item class other Frontier mods build on.</description>
-  </item>
-  <item>
-    <title> Still Useful Stuff (smt's server Fork)</title>
-    <link>https://mods.vintagestory.at/show/mod/stilluseful122</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stilluseful122#10315</guid>
-    <pubDate>Fri, 24 Jul 2026 18:28:18 -0000</pubDate>
-    <description>Continuation of Stahl's continuation of jakecool19's' Useful Stuff.</description>
-  </item>
-  <item>
-    <title>Neolithics Nails &amp; Strips</title>
-    <link>https://mods.vintagestory.at/show/mod/neolithicnails</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/neolithicnails#10476</guid>
-    <pubDate>Fri, 24 Jul 2026 18:14:02 -0000</pubDate>
-    <description>Stone age nails and strips, for the discerning caveperson.</description>
-  </item>
-  <item>
-    <title>Stone Age Anvil</title>
-    <link>https://mods.vintagestory.at/show/mod/stoneageanvil</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stoneageanvil#8699</guid>
-    <pubDate>Fri, 24 Jul 2026 18:10:24 -0000</pubDate>
-    <description>Stone age anvils for when that first copper anvil seems so expensive and far away...</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
-    <pubDate>Fri, 24 Jul 2026 18:05:13 -0000</pubDate>
-    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
   </item>
 </channel>
 </rss>
