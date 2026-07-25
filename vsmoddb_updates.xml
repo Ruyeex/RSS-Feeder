@@ -4,7 +4,154 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 25 Jul 2026 00:06:14 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 04:12:52 +0000</lastBuildDate>
+  <item>
+    <title>WOO Fantasy Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
+    <pubDate>Sat, 25 Jul 2026 03:59:55 -0000</pubDate>
+    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
+  </item>
+  <item>
+    <title>The Quire Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/10455</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
+    <pubDate>Sat, 25 Jul 2026 03:58:17 -0000</pubDate>
+    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
+  </item>
+  <item>
+    <title>Zenith: Assimilation</title>
+    <link>https://mods.vintagestory.at/show/mod/7485</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7485#7485</guid>
+    <pubDate>Sat, 25 Jul 2026 03:52:55 -0000</pubDate>
+    <description>Forge your path to Apotheosis. Consume Creatures, take their traits and become the ultimate lifeform</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/10453</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
+    <pubDate>Sat, 25 Jul 2026 03:44:58 -0000</pubDate>
+    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>The Almanac: Illuminated</title>
+    <link>https://mods.vintagestory.at/show/mod/10454</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10454#10454</guid>
+    <pubDate>Sat, 25 Jul 2026 03:39:43 -0000</pubDate>
+    <description>A living questbook opened with Alt+J. Chapters appear only for the mods you have loaded.</description>
+  </item>
+  <item>
+    <title>Vintage Rift - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
+    <pubDate>Sat, 25 Jul 2026 03:21:38 -0000</pubDate>
+    <description>Client only code for the Vintage Rift server</description>
+  </item>
+  <item>
+    <title>Crucible on Forge</title>
+    <link>https://mods.vintagestory.at/show/mod/10483</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10483#10483</guid>
+    <pubDate>Sat, 25 Jul 2026 03:14:55 -0000</pubDate>
+    <description>Smelt ore at your forge instead of trekking back to a firepit.</description>
+  </item>
+  <item>
+    <title>Fixes for Salvation Engine Server</title>
+    <link>https://mods.vintagestory.at/show/mod/9903</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9903#9903</guid>
+    <pubDate>Sat, 25 Jul 2026 03:11:44 -0000</pubDate>
+    <description>Fixes for Salvation Engine Server </description>
+  </item>
+  <item>
+    <title>Elk Accessories</title>
+    <link>https://mods.vintagestory.at/show/mod/elkaccessories</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkaccessories#8260</guid>
+    <pubDate>Sat, 25 Jul 2026 03:09:14 -0000</pubDate>
+    <description>Bling out your elk</description>
+  </item>
+  <item>
+    <title>LuckyRemasterArrowBarrel</title>
+    <link>https://mods.vintagestory.at/show/mod/luckyremasterarrowbarrel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/luckyremasterarrowbarrel#10481</guid>
+    <pubDate>Sat, 25 Jul 2026 03:02:37 -0000</pubDate>
+    <description>More consistent Arrow Barrel Mod</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Sat, 25 Jul 2026 02:48:20 -0000</pubDate>
+    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
+  </item>
+  <item>
+    <title>Meliora Meadows Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
+    <pubDate>Sat, 25 Jul 2026 02:38:16 -0000</pubDate>
+    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
+  </item>
+  <item>
+    <title>Solaria's Sauce</title>
+    <link>https://mods.vintagestory.at/show/mod/10480</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10480#10480</guid>
+    <pubDate>Sat, 25 Jul 2026 02:17:11 -0000</pubDate>
+    <description>Foliage theme pack</description>
+  </item>
+  <item>
+    <title>Faster Leather For Lazy People</title>
+    <link>https://mods.vintagestory.at/show/mod/fastleatherlazy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fastleatherlazy#10479</guid>
+    <pubDate>Sat, 25 Jul 2026 01:53:37 -0000</pubDate>
+    <description>This is a small mod I created because I did not see a 1.22 mod for faster leather.</description>
+  </item>
+  <item>
+    <title>Custom Server Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10378</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
+    <pubDate>Sat, 25 Jul 2026 01:47:43 -0000</pubDate>
+    <description>A collection of tweaks for our private server.</description>
+  </item>
+  <item>
+    <title>Zoom Button Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/zoombuttonpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zoombuttonpatch#10443</guid>
+    <pubDate>Sat, 25 Jul 2026 01:46:47 -0000</pubDate>
+    <description>Hides the player hands and items held while zooming. No more torch in the way!</description>
+  </item>
+  <item>
+    <title>Wayfinder</title>
+    <link>https://mods.vintagestory.at/show/mod/7330</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7330#7330</guid>
+    <pubDate>Sat, 25 Jul 2026 01:36:31 -0000</pubDate>
+    <description>Make cave wall markings to help you navigate the caverns below.</description>
+  </item>
+  <item>
+    <title>QS weapons pack alpha patch.</title>
+    <link>https://mods.vintagestory.at/show/mod/10425</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10425#10425</guid>
+    <pubDate>Sat, 25 Jul 2026 01:00:08 -0000</pubDate>
+    <description>Server Frontier Esoterica's mod compatibility patch.</description>
+  </item>
+  <item>
+    <title>Simple Rock Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/simplerockcrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplerockcrafting#6744</guid>
+    <pubDate>Sat, 25 Jul 2026 00:59:54 -0000</pubDate>
+    <description>A simple mod that allows you to craft rock blocks out of 8 stones and a hammer.</description>
+  </item>
+  <item>
+    <title>Hydrate or Diedrate</title>
+    <link>https://mods.vintagestory.at/show/mod/hydrateordiedrate</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hydrateordiedrate#2282</guid>
+    <pubDate>Sat, 25 Jul 2026 00:25:41 -0000</pubDate>
+    <description>A mod that adds thirst and hydration mechanics as well as hot weather survival.</description>
+  </item>
+  <item>
+    <title>Frontiers RPG</title>
+    <link>https://mods.vintagestory.at/show/mod/frontiersrpg</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontiersrpg#10367</guid>
+    <pubDate>Sat, 25 Jul 2026 00:10:29 -0000</pubDate>
+    <description>An ARPG system for Vintage Story</description>
+  </item>
   <item>
     <title>The Hunter</title>
     <link>https://mods.vintagestory.at/show/mod/thehunter</link>
@@ -18,20 +165,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindingwheelrework#8252</guid>
     <pubDate>Fri, 24 Jul 2026 23:35:19 -0000</pubDate>
     <description>Expands grinding wheel to support more tools and turns sharpening into a lightweight repair system</description>
-  </item>
-  <item>
-    <title>WOO Fantasy Additions</title>
-    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
-    <pubDate>Fri, 24 Jul 2026 23:04:04 -0000</pubDate>
-    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
-  </item>
-  <item>
-    <title>Custom Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10378</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
-    <pubDate>Fri, 24 Jul 2026 22:35:25 -0000</pubDate>
-    <description>A collection of tweaks for our private server.</description>
   </item>
   <item>
     <title>Biodiversity: Orchards</title>
@@ -81,139 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/projectiletracker#2033</guid>
     <pubDate>Fri, 24 Jul 2026 21:03:47 -0000</pubDate>
     <description>A QoL mod that automatically creates and deletes waypoints for projectiles you fire.</description>
-  </item>
-  <item>
-    <title>MoreInventorys</title>
-    <link>https://mods.vintagestory.at/show/mod/moreinventorys</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreinventorys#10306</guid>
-    <pubDate>Fri, 24 Jul 2026 20:58:19 -0000</pubDate>
-    <description>The mod adds new inventories for convenient and immersive storage: Shelves, crates, racks for weapon</description>
-  </item>
-  <item>
-    <title>Fix Perish Rate</title>
-    <link>https://mods.vintagestory.at/show/mod/fixperishrate</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fixperishrate#7839</guid>
-    <pubDate>Fri, 24 Jul 2026 20:56:52 -0000</pubDate>
-    <description>Fix perish rate.</description>
-  </item>
-  <item>
-    <title>Panning Machine</title>
-    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
-    <pubDate>Fri, 24 Jul 2026 20:56:21 -0000</pubDate>
-    <description>Simple machine for panning</description>
-  </item>
-  <item>
-    <title>Full Sailboat Refund</title>
-    <link>https://mods.vintagestory.at/show/mod/8435</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8435#8435</guid>
-    <pubDate>Fri, 24 Jul 2026 20:53:15 -0000</pubDate>
-    <description>Get 100% of your sailboat back when you deconstruct it with a saw</description>
-  </item>
-  <item>
-    <title>VSA - BeamQoL</title>
-    <link>https://mods.vintagestory.at/show/mod/10475</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10475#10475</guid>
-    <pubDate>Fri, 24 Jul 2026 20:50:57 -0000</pubDate>
-    <description>Survival-compatible, symmetric &amp; systematic beam placement, clean snap logic. Updates will follow</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Fri, 24 Jul 2026 20:37:03 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
-    <title>ChunkLOD</title>
-    <link>https://mods.vintagestory.at/show/mod/chunklod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chunklod#7929</guid>
-    <pubDate>Fri, 24 Jul 2026 20:25:43 -0000</pubDate>
-    <description>A Heavily Modified Fork of Farseer, representing terrain, rock type, forestation, and water as LOD's</description>
-  </item>
-  <item>
-    <title>Realistic Rapids</title>
-    <link>https://mods.vintagestory.at/show/mod/realisticrapids</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticrapids#10227</guid>
-    <pubDate>Fri, 24 Jul 2026 20:15:51 -0000</pubDate>
-    <description>Makes rapids and waterwheels work more realistically. Official addon for Realistic Water</description>
-  </item>
-  <item>
-    <title>WebCartographer</title>
-    <link>https://mods.vintagestory.at/show/mod/wc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wc#1051</guid>
-    <pubDate>Fri, 24 Jul 2026 19:56:58 -0000</pubDate>
-    <description>Creates a map of a world to be browsed in a webbrowser.</description>
-  </item>
-  <item>
-    <title>Armor Shift Click</title>
-    <link>https://mods.vintagestory.at/show/mod/armorshiftclick</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/armorshiftclick#10477</guid>
-    <pubDate>Fri, 24 Jul 2026 19:55:54 -0000</pubDate>
-    <description>Makes shift clicking armor (and other character clothing) into the their respective slots possible.</description>
-  </item>
-  <item>
-    <title>Ancient Dungeons (Th3Dungeon)</title>
-    <link>https://mods.vintagestory.at/show/mod/thedungeon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thedungeon#1032</guid>
-    <pubDate>Fri, 24 Jul 2026 19:42:28 -0000</pubDate>
-    <description>Adds procedural generated dungeons to the underground of Vintage Story</description>
-  </item>
-  <item>
-    <title>Aldi's Classes [Races PATCH]</title>
-    <link>https://mods.vintagestory.at/show/mod/6406</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6406#6406</guid>
-    <pubDate>Fri, 24 Jul 2026 19:26:00 -0000</pubDate>
-    <description>Aldi's Classes Patch mod to use the races from Racial Equality with unique traits</description>
-  </item>
-  <item>
-    <title>Vampirism</title>
-    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
-    <pubDate>Fri, 24 Jul 2026 19:24:26 -0000</pubDate>
-    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
-  </item>
-  <item>
-    <title>Aldi's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/aldiclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aldiclasses#5327</guid>
-    <pubDate>Fri, 24 Jul 2026 19:15:32 -0000</pubDate>
-    <description>An extremely stable, compatible and customizable classes mod!</description>
-  </item>
-  <item>
-    <title>Temporal Vessels - A Vessel Teleportation System</title>
-    <link>https://mods.vintagestory.at/show/mod/temporalvessels</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/temporalvessels#7817</guid>
-    <pubDate>Fri, 24 Jul 2026 19:08:33 -0000</pubDate>
-    <description>Teleport a storage vessel back to your base so you can continue your looting exploration adventure</description>
-  </item>
-  <item>
-    <title>Frontiers RPG</title>
-    <link>https://mods.vintagestory.at/show/mod/frontiersrpg</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontiersrpg#10367</guid>
-    <pubDate>Fri, 24 Jul 2026 18:47:33 -0000</pubDate>
-    <description>An ARPG system for Vintage Story</description>
-  </item>
-  <item>
-    <title>Frontiers Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/frontiersclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontiersclasses#10366</guid>
-    <pubDate>Fri, 24 Jul 2026 18:42:09 -0000</pubDate>
-    <description>Character class and progression system. </description>
-  </item>
-  <item>
-    <title>ALDI's classes SAM FORK</title>
-    <link>https://mods.vintagestory.at/show/mod/7856</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7856#7856</guid>
-    <pubDate>Fri, 24 Jul 2026 18:41:43 -0000</pubDate>
-    <description>Completely rebalanced fork for the Steam and Mud server. Code by FiveCubeI3CTA</description>
-  </item>
-  <item>
-    <title>Frontiers Durability</title>
-    <link>https://mods.vintagestory.at/show/mod/frontiersdurability</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontiersdurability#10364</guid>
-    <pubDate>Fri, 24 Jul 2026 18:38:33 -0000</pubDate>
-    <description>A simple clothing degradation mod</description>
   </item>
 </channel>
 </rss>
