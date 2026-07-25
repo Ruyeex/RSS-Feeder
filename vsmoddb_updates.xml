@@ -4,7 +4,140 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 25 Jul 2026 11:12:57 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 13:39:40 +0000</lastBuildDate>
+  <item>
+    <title>Vintage Rift - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
+    <pubDate>Sat, 25 Jul 2026 13:35:56 -0000</pubDate>
+    <description>Client only code for the Vintage Rift server</description>
+  </item>
+  <item>
+    <title>C&amp;N Events</title>
+    <link>https://mods.vintagestory.at/show/mod/canevents</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
+    <pubDate>Sat, 25 Jul 2026 13:35:12 -0000</pubDate>
+    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
+  </item>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Sat, 25 Jul 2026 13:26:47 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
+  <item>
+    <title>xLib Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7618</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7618#7618</guid>
+    <pubDate>Sat, 25 Jul 2026 13:24:43 -0000</pubDate>
+    <description>XLib provides an interface to add skills, abilities and effects to the game.</description>
+  </item>
+  <item>
+    <title>xSkills Gilded Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/5529</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5529#5529</guid>
+    <pubDate>Sat, 25 Jul 2026 13:22:57 -0000</pubDate>
+    <description>This mod adds a beautifully designed, immersive, and user-friendly interface for xSkills. </description>
+  </item>
+  <item>
+    <title>VSA - BeamQoL</title>
+    <link>https://mods.vintagestory.at/show/mod/10475</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10475#10475</guid>
+    <pubDate>Sat, 25 Jul 2026 13:17:24 -0000</pubDate>
+    <description>Survival-compatible, symmetric &amp; systematic beam placement, clean snap logic. Updates will follow</description>
+  </item>
+  <item>
+    <title>Transmittance</title>
+    <link>https://mods.vintagestory.at/show/mod/transmittance</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/transmittance#10494</guid>
+    <pubDate>Sat, 25 Jul 2026 13:11:02 -0000</pubDate>
+    <description>Sunlight passing through colored glass gets colored appropriately</description>
+  </item>
+  <item>
+    <title>AFK Module</title>
+    <link>https://mods.vintagestory.at/show/mod/afkmodule</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/afkmodule#3311</guid>
+    <pubDate>Sat, 25 Jul 2026 13:03:53 -0000</pubDate>
+    <description>Kick players who is afk for too long</description>
+  </item>
+  <item>
+    <title>Realms 0.3.3</title>
+    <link>https://mods.vintagestory.at/show/mod/realms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realms#10484</guid>
+    <pubDate>Sat, 25 Jul 2026 12:23:58 -0000</pubDate>
+    <description>Realms a full multimap portal system</description>
+  </item>
+  <item>
+    <title>TaborServers</title>
+    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
+    <pubDate>Sat, 25 Jul 2026 12:23:25 -0000</pubDate>
+    <description>Patches fo most of Tabor servers</description>
+  </item>
+  <item>
+    <title>Gothic Game Music Part 1</title>
+    <link>https://mods.vintagestory.at/show/mod/7987</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7987#7987</guid>
+    <pubDate>Sat, 25 Jul 2026 12:17:44 -0000</pubDate>
+    <description>Music from dif Gothic games and a few mods! part 1</description>
+  </item>
+  <item>
+    <title> Gothic Game Music Part 2</title>
+    <link>https://mods.vintagestory.at/show/mod/7988</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7988#7988</guid>
+    <pubDate>Sat, 25 Jul 2026 12:17:42 -0000</pubDate>
+    <description>Music from dif Gothic games and a few mods! part 2</description>
+  </item>
+  <item>
+    <title>Gothic Game Music Part 3</title>
+    <link>https://mods.vintagestory.at/show/mod/8066</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8066#8066</guid>
+    <pubDate>Sat, 25 Jul 2026 12:17:41 -0000</pubDate>
+    <description>Music from dif Gothic games and a few mods! part 3 + Eidolon boss music</description>
+  </item>
+  <item>
+    <title>Easy Building</title>
+    <link>https://mods.vintagestory.at/show/mod/3290</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3290#3290</guid>
+    <pubDate>Sat, 25 Jul 2026 12:16:26 -0000</pubDate>
+    <description>A simple mod where you get a bit more blocks and items from crafting!</description>
+  </item>
+  <item>
+    <title>More Tuning Cylinders</title>
+    <link>https://mods.vintagestory.at/show/mod/moretuningcylinders</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moretuningcylinders#6540</guid>
+    <pubDate>Sat, 25 Jul 2026 11:56:25 -0000</pubDate>
+    <description>Adds more Tuning Cylinders using only the vanilla soundtrack</description>
+  </item>
+  <item>
+    <title>ClassicNightSky</title>
+    <link>https://mods.vintagestory.at/show/mod/classicnightsky</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/classicnightsky#10493</guid>
+    <pubDate>Sat, 25 Jul 2026 11:47:10 -0000</pubDate>
+    <description>New textures for Night sky</description>
+  </item>
+  <item>
+    <title>NightSky</title>
+    <link>https://mods.vintagestory.at/show/mod/nightsky</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nightsky#10492</guid>
+    <pubDate>Sat, 25 Jul 2026 11:45:55 -0000</pubDate>
+    <description>New textures for Night sky</description>
+  </item>
+  <item>
+    <title>Might&amp;magic Fantasy server patches</title>
+    <link>https://mods.vintagestory.at/show/mod/czsurvivalmm</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/czsurvivalmm#4676</guid>
+    <pubDate>Sat, 25 Jul 2026 11:40:08 -0000</pubDate>
+    <description>Patches and translations for server Tábor - Might&amp;magic fantasy server</description>
+  </item>
+  <item>
+    <title>CaveContent fork</title>
+    <link>https://mods.vintagestory.at/show/mod/cavecontentfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cavecontentfork#8828</guid>
+    <pubDate>Sat, 25 Jul 2026 11:16:14 -0000</pubDate>
+    <description>A fork of CaveContent to make it work with 1.22</description>
+  </item>
   <item>
     <title>VS Director</title>
     <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
@@ -81,139 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/theremnantsreborn#6243</guid>
     <pubDate>Sat, 25 Jul 2026 05:04:26 -0000</pubDate>
     <description>Adds a series of custom flavor classes heavily inspired by the Vintage Story lore. 1.22 update.</description>
-  </item>
-  <item>
-    <title>The Quire Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/10455</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
-    <pubDate>Sat, 25 Jul 2026 04:24:58 -0000</pubDate>
-    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
-  </item>
-  <item>
-    <title>Realms 0.3.1</title>
-    <link>https://mods.vintagestory.at/show/mod/realms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realms#10484</guid>
-    <pubDate>Sat, 25 Jul 2026 04:21:44 -0000</pubDate>
-    <description>Realms a full multimap portal system</description>
-  </item>
-  <item>
-    <title>WOO Fantasy Additions</title>
-    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
-    <pubDate>Sat, 25 Jul 2026 03:59:55 -0000</pubDate>
-    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
-  </item>
-  <item>
-    <title>Zenith: Assimilation</title>
-    <link>https://mods.vintagestory.at/show/mod/7485</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7485#7485</guid>
-    <pubDate>Sat, 25 Jul 2026 03:52:55 -0000</pubDate>
-    <description>Forge your path to Apotheosis. Consume Creatures, take their traits and become the ultimate lifeform</description>
-  </item>
-  <item>
-    <title>The Almanac: Trades, Callings &amp; Mastery</title>
-    <link>https://mods.vintagestory.at/show/mod/10453</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
-    <pubDate>Sat, 25 Jul 2026 03:44:58 -0000</pubDate>
-    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>The Almanac: Illuminated</title>
-    <link>https://mods.vintagestory.at/show/mod/10454</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10454#10454</guid>
-    <pubDate>Sat, 25 Jul 2026 03:39:43 -0000</pubDate>
-    <description>A living questbook opened with Alt+J. Chapters appear only for the mods you have loaded.</description>
-  </item>
-  <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Sat, 25 Jul 2026 03:21:38 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
-    <title>Crucible on Forge</title>
-    <link>https://mods.vintagestory.at/show/mod/10483</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10483#10483</guid>
-    <pubDate>Sat, 25 Jul 2026 03:14:55 -0000</pubDate>
-    <description>Smelt ore at your forge instead of trekking back to a firepit.</description>
-  </item>
-  <item>
-    <title>Fixes for Salvation Engine Server</title>
-    <link>https://mods.vintagestory.at/show/mod/9903</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9903#9903</guid>
-    <pubDate>Sat, 25 Jul 2026 03:11:44 -0000</pubDate>
-    <description>Fixes for Salvation Engine Server </description>
-  </item>
-  <item>
-    <title>Elk Accessories</title>
-    <link>https://mods.vintagestory.at/show/mod/elkaccessories</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkaccessories#8260</guid>
-    <pubDate>Sat, 25 Jul 2026 03:09:14 -0000</pubDate>
-    <description>Bling out your elk</description>
-  </item>
-  <item>
-    <title>LuckyRemasterArrowBarrel</title>
-    <link>https://mods.vintagestory.at/show/mod/luckyremasterarrowbarrel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/luckyremasterarrowbarrel#10481</guid>
-    <pubDate>Sat, 25 Jul 2026 03:02:37 -0000</pubDate>
-    <description>More consistent Arrow Barrel Mod</description>
-  </item>
-  <item>
-    <title>Meliora Meadows Adjustments</title>
-    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
-    <pubDate>Sat, 25 Jul 2026 02:38:16 -0000</pubDate>
-    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
-  </item>
-  <item>
-    <title>Solaria's Sauce</title>
-    <link>https://mods.vintagestory.at/show/mod/10480</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10480#10480</guid>
-    <pubDate>Sat, 25 Jul 2026 02:17:11 -0000</pubDate>
-    <description>Foliage theme pack</description>
-  </item>
-  <item>
-    <title>Faster Leather For Lazy People</title>
-    <link>https://mods.vintagestory.at/show/mod/fastleatherlazy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fastleatherlazy#10479</guid>
-    <pubDate>Sat, 25 Jul 2026 01:53:37 -0000</pubDate>
-    <description>This is a small mod I created because I did not see a 1.22 mod for faster leather.</description>
-  </item>
-  <item>
-    <title>Custom Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10378</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
-    <pubDate>Sat, 25 Jul 2026 01:47:43 -0000</pubDate>
-    <description>A collection of tweaks for our private server.</description>
-  </item>
-  <item>
-    <title>Zoom Button Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/zoombuttonpatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zoombuttonpatch#10443</guid>
-    <pubDate>Sat, 25 Jul 2026 01:46:47 -0000</pubDate>
-    <description>Hides the player hands and items held while zooming. No more torch in the way!</description>
-  </item>
-  <item>
-    <title>Wayfinder</title>
-    <link>https://mods.vintagestory.at/show/mod/7330</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7330#7330</guid>
-    <pubDate>Sat, 25 Jul 2026 01:36:31 -0000</pubDate>
-    <description>Make cave wall markings to help you navigate the caverns below.</description>
-  </item>
-  <item>
-    <title>QS weapons pack alpha patch.</title>
-    <link>https://mods.vintagestory.at/show/mod/10425</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10425#10425</guid>
-    <pubDate>Sat, 25 Jul 2026 01:00:08 -0000</pubDate>
-    <description>Server Frontier Esoterica's mod compatibility patch.</description>
-  </item>
-  <item>
-    <title>Simple Rock Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/simplerockcrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplerockcrafting#6744</guid>
-    <pubDate>Sat, 25 Jul 2026 00:59:54 -0000</pubDate>
-    <description>A simple mod that allows you to craft rock blocks out of 8 stones and a hammer.</description>
   </item>
 </channel>
 </rss>
