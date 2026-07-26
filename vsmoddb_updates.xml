@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 26 Jul 2026 11:21:25 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 26 Jul 2026 13:28:19 +0000</lastBuildDate>
+  <item>
+    <title>Barbershop Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/10424</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10424#10424</guid>
+    <pubDate>Sun, 26 Jul 2026 13:02:41 -0000</pubDate>
+    <description>Re-implements Barbershop as a full-fledged profession.</description>
+  </item>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Sun, 26 Jul 2026 12:48:43 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
+  <item>
+    <title>Czech Patch - Čeština do módů</title>
+    <link>https://mods.vintagestory.at/show/mod/czechpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/czechpatch#2800</guid>
+    <pubDate>Sun, 26 Jul 2026 12:31:47 -0000</pubDate>
+    <description>Mod, který přidá české překlady některých módů do hry. Adds Czech translations to some mods</description>
+  </item>
+  <item>
+    <title>Dame Elswyth’s Summons</title>
+    <link>https://mods.vintagestory.at/show/mod/10139</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10139#10139</guid>
+    <pubDate>Sun, 26 Jul 2026 12:09:46 -0000</pubDate>
+    <description>Find and summon lost pets.  Fixes PetAI fire avoidance AI task for tamed pets.</description>
+  </item>
+  <item>
+    <title>Electrical Progressive: QOL</title>
+    <link>https://mods.vintagestory.at/show/mod/electricalprogressiveqol</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/electricalprogressiveqol#3693</guid>
+    <pubDate>Sun, 26 Jul 2026 11:57:49 -0000</pubDate>
+    <description>Additional electrical devices</description>
+  </item>
+  <item>
+    <title>Logic Blocks</title>
+    <link>https://mods.vintagestory.at/show/mod/5827</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5827#5827</guid>
+    <pubDate>Sun, 26 Jul 2026 11:52:14 -0000</pubDate>
+    <description>This mod provides blocks for logic and interactions with gates.</description>
+  </item>
+  <item>
+    <title>Recipe Favorites</title>
+    <link>https://mods.vintagestory.at/show/mod/10531</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10531#10531</guid>
+    <pubDate>Sun, 26 Jul 2026 11:40:48 -0000</pubDate>
+    <description>Bookmark handbook items &amp; recipes with Shift+F, browse them in a new Favorites tab.</description>
+  </item>
+  <item>
+    <title>Place it Anywhere</title>
+    <link>https://mods.vintagestory.at/show/mod/9914</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9914#9914</guid>
+    <pubDate>Sun, 26 Jul 2026 11:33:11 -0000</pubDate>
+    <description>Place any item as decoration on floors, walls and ceilings. Up to 64 items per cell.</description>
+  </item>
+  <item>
+    <title>Ghaelen's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9740</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
+    <pubDate>Sun, 26 Jul 2026 11:32:49 -0000</pubDate>
+    <description>My personal tweaks I like to play with.</description>
+  </item>
   <item>
     <title>MoreInventorys</title>
     <link>https://mods.vintagestory.at/show/mod/moreinventorys</link>
@@ -18,13 +81,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/packratfork#8798</guid>
     <pubDate>Sun, 26 Jul 2026 11:14:37 -0000</pubDate>
     <description>Packrat adds a Storage Browser that lets you view and search the contents of all nearby containers.</description>
-  </item>
-  <item>
-    <title>Ghaelen's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9740</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
-    <pubDate>Sun, 26 Jul 2026 11:03:57 -0000</pubDate>
-    <description>My personal tweaks I like to play with.</description>
   </item>
   <item>
     <title>Plumas Customizable Stack Sizes</title>
@@ -46,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biggerbackpacks#3073</guid>
     <pubDate>Sun, 26 Jul 2026 10:15:27 -0000</pubDate>
     <description>Doubles the inventory size of backpacks and saddlebags.</description>
-  </item>
-  <item>
-    <title>Recipe Favorites</title>
-    <link>https://mods.vintagestory.at/show/mod/10531</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10531#10531</guid>
-    <pubDate>Sun, 26 Jul 2026 10:15:13 -0000</pubDate>
-    <description>Bookmark handbook items &amp; recipes with Shift+F, browse them in a new Favorites tab.</description>
   </item>
   <item>
     <title>CommandHook</title>
@@ -95,13 +144,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panseashells#9786</guid>
     <pubDate>Sun, 26 Jul 2026 07:45:31 -0000</pubDate>
     <description>A simple patch to add seashells into the panning droptable (for more lime)!</description>
-  </item>
-  <item>
-    <title>Czech Patch - Čeština do módů</title>
-    <link>https://mods.vintagestory.at/show/mod/czechpatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/czechpatch#2800</guid>
-    <pubDate>Sun, 26 Jul 2026 07:44:38 -0000</pubDate>
-    <description>Mod, který přidá české překlady některých módů do hry. Adds Czech translations to some mods</description>
   </item>
   <item>
     <title>Daubweave</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crushzincnuggets#9334</guid>
     <pubDate>Sun, 26 Jul 2026 07:40:22 -0000</pubDate>
     <description>A simple patch that lets you (finally) pulverize sphalerite nuggets into powder!</description>
-  </item>
-  <item>
-    <title>Locust Drider Classes (Drocust)</title>
-    <link>https://mods.vintagestory.at/show/mod/drocustclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drocustclasses#9295</guid>
-    <pubDate>Sun, 26 Jul 2026 07:40:15 -0000</pubDate>
-    <description>Adds 5 new, exclusive classes to Wulk's Drocust race!</description>
-  </item>
-  <item>
-    <title>Recycle Sails</title>
-    <link>https://mods.vintagestory.at/show/mod/recyclesails</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/recyclesails#9250</guid>
-    <pubDate>Sun, 26 Jul 2026 07:40:08 -0000</pubDate>
-    <description>A simple recipe patch that lets you cut up small and large windmill sails to get your linen back!</description>
-  </item>
-  <item>
-    <title>Smash Metal Parts</title>
-    <link>https://mods.vintagestory.at/show/mod/smashmetalparts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smashmetalparts#9193</guid>
-    <pubDate>Sun, 26 Jul 2026 07:40:01 -0000</pubDate>
-    <description>A simple recipe patch to smash metal &amp; Jonas parts into cupronickel (with a hammer)!</description>
-  </item>
-  <item>
-    <title>Feed from Seed</title>
-    <link>https://mods.vintagestory.at/show/mod/feedfromseed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feedfromseed#9020</guid>
-    <pubDate>Sun, 26 Jul 2026 07:39:36 -0000</pubDate>
-    <description>A simple recipe patch that lets you turn your hoard of excess (appropriate) seedbags into food! </description>
-  </item>
-  <item>
-    <title>VSReborn Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10289</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10289#10289</guid>
-    <pubDate>Sun, 26 Jul 2026 07:39:24 -0000</pubDate>
-    <description>mega patch</description>
-  </item>
-  <item>
-    <title>Majestic Maple</title>
-    <link>https://mods.vintagestory.at/show/mod/10529</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10529#10529</guid>
-    <pubDate>Sun, 26 Jul 2026 07:37:46 -0000</pubDate>
-    <description>Maple wood retexture</description>
   </item>
 </channel>
 </rss>
