@@ -4,7 +4,105 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 26 Jul 2026 15:07:35 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 26 Jul 2026 17:04:34 +0000</lastBuildDate>
+  <item>
+    <title>TassHunting</title>
+    <link>https://mods.vintagestory.at/show/mod/tasshunting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshunting#10438</guid>
+    <pubDate>Sun, 26 Jul 2026 16:59:31 -0000</pubDate>
+    <description>Arrows Stick - Blood - Smarter Animal AI - Aiming Tweaks - Health Based Animal Speed</description>
+  </item>
+  <item>
+    <title>Dark Vision</title>
+    <link>https://mods.vintagestory.at/show/mod/darkvision</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darkvision#6564</guid>
+    <pubDate>Sun, 26 Jul 2026 16:47:49 -0000</pubDate>
+    <description>Makes players' eyes dynamically adapt to darkness</description>
+  </item>
+  <item>
+    <title>Wolp Story Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/wolpstorypatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wolpstorypatches#7915</guid>
+    <pubDate>Sun, 26 Jul 2026 16:43:09 -0000</pubDate>
+    <description>A collection of patches for the modpack &amp; server that we're running</description>
+  </item>
+  <item>
+    <title>libGUI</title>
+    <link>https://mods.vintagestory.at/show/mod/libgui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/libgui#8556</guid>
+    <pubDate>Sun, 26 Jul 2026 16:25:43 -0000</pubDate>
+    <description>GUI library. Now open source.</description>
+  </item>
+  <item>
+    <title>URL Radio (YT)</title>
+    <link>https://mods.vintagestory.at/show/mod/10482</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10482#10482</guid>
+    <pubDate>Sun, 26 Jul 2026 16:10:35 -0000</pubDate>
+    <description>A radio that can play audio from URL links, primarily YouTube links.</description>
+  </item>
+  <item>
+    <title>Custom Server Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10378</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
+    <pubDate>Sun, 26 Jul 2026 16:10:05 -0000</pubDate>
+    <description>A collection of tweaks for our private server.</description>
+  </item>
+  <item>
+    <title>Portcullis, Drawbridges and stuff</title>
+    <link>https://mods.vintagestory.at/show/mod/7736</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7736#7736</guid>
+    <pubDate>Sun, 26 Jul 2026 15:38:15 -0000</pubDate>
+    <description>Adds Portcullis, Drawbridges, Brazier and a working lever to add some RP to your builds. </description>
+  </item>
+  <item>
+    <title>Barbershop Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/10424</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10424#10424</guid>
+    <pubDate>Sun, 26 Jul 2026 15:37:41 -0000</pubDate>
+    <description>Re-implements Barbershop as a full-fledged profession.</description>
+  </item>
+  <item>
+    <title>Purposeful Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/purposefulstorage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/purposefulstorage#4286</guid>
+    <pubDate>Sun, 26 Jul 2026 15:36:24 -0000</pubDate>
+    <description>Adds a variety of storage blocks designed for both aesthetic appeal and functional item organization</description>
+  </item>
+  <item>
+    <title>Food Shelves</title>
+    <link>https://mods.vintagestory.at/show/mod/foodshelves</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/foodshelves#2383</guid>
+    <pubDate>Sun, 26 Jul 2026 15:20:59 -0000</pubDate>
+    <description>Contains various food shelves and food storage, mainly made to be used alongside Expanded Foods.</description>
+  </item>
+  <item>
+    <title>lhgui</title>
+    <link>https://mods.vintagestory.at/show/mod/lhgui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lhgui#4960</guid>
+    <pubDate>Sun, 26 Jul 2026 15:20:07 -0000</pubDate>
+    <description>GUI mod for lasthearth server</description>
+  </item>
+  <item>
+    <title>cob_seraphvoices_merge</title>
+    <link>https://mods.vintagestory.at/show/mod/10536</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10536#10536</guid>
+    <pubDate>Sun, 26 Jul 2026 15:19:25 -0000</pubDate>
+    <description>Re-Alive original cob_seraphvoices</description>
+  </item>
+  <item>
+    <title>Akira's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/akiratweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/akiratweaks#10138</guid>
+    <pubDate>Sun, 26 Jul 2026 15:16:59 -0000</pubDate>
+    <description>Collection of patches for a personal server.</description>
+  </item>
+  <item>
+    <title>AmbientsBird</title>
+    <link>https://mods.vintagestory.at/show/mod/ambientsbird</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ambientsbird#10535</guid>
+    <pubDate>Sun, 26 Jul 2026 15:13:19 -0000</pubDate>
+    <description>A realistic avian soundscape for Vintage Story </description>
+  </item>
   <item>
     <title>PlayerList</title>
     <link>https://mods.vintagestory.at/show/mod/playerlist</link>
@@ -20,25 +118,11 @@
     <description>Replaces the vanilla inventory dialog with a custom UI.</description>
   </item>
   <item>
-    <title>ChatUI</title>
-    <link>https://mods.vintagestory.at/show/mod/chatui</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chatui#8904</guid>
-    <pubDate>Sun, 26 Jul 2026 14:52:08 -0000</pubDate>
-    <description>Custom chat dialog with channel tabs, command autocomplete, and player mentions.</description>
-  </item>
-  <item>
     <title>HudUI</title>
     <link>https://mods.vintagestory.at/show/mod/hudui</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hudui#8644</guid>
     <pubDate>Sun, 26 Jul 2026 14:51:35 -0000</pubDate>
     <description>Hotbar and world interaction hud remake. Now with theming available!</description>
-  </item>
-  <item>
-    <title>libGUI</title>
-    <link>https://mods.vintagestory.at/show/mod/libgui</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/libgui#8556</guid>
-    <pubDate>Sun, 26 Jul 2026 14:50:24 -0000</pubDate>
-    <description>GUI library. Now open source.</description>
   </item>
   <item>
     <title>The Working Classes - Whetstone Patch</title>
@@ -76,13 +160,6 @@
     <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
   </item>
   <item>
-    <title>Wolp Story Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/wolpstorypatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wolpstorypatches#7915</guid>
-    <pubDate>Sun, 26 Jul 2026 14:21:03 -0000</pubDate>
-    <description>A collection of patches for the modpack &amp; server that we're running</description>
-  </item>
-  <item>
     <title>Temporal Relics</title>
     <link>https://mods.vintagestory.at/show/mod/9886</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9886#9886</guid>
@@ -102,13 +179,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
     <pubDate>Sun, 26 Jul 2026 13:46:39 -0000</pubDate>
     <description>Making flora living</description>
-  </item>
-  <item>
-    <title>Custom Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10378</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
-    <pubDate>Sun, 26 Jul 2026 13:33:55 -0000</pubDate>
-    <description>A collection of tweaks for our private server.</description>
   </item>
   <item>
     <title>Realistic Water</title>
@@ -132,13 +202,6 @@
     <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
   </item>
   <item>
-    <title>Barbershop Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/10424</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10424#10424</guid>
-    <pubDate>Sun, 26 Jul 2026 13:02:41 -0000</pubDate>
-    <description>Re-implements Barbershop as a full-fledged profession.</description>
-  </item>
-  <item>
     <title>xSkills Fork</title>
     <link>https://mods.vintagestory.at/show/mod/7605</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/czechpatch#2800</guid>
     <pubDate>Sun, 26 Jul 2026 12:31:47 -0000</pubDate>
     <description>Mod, který přidá české překlady některých módů do hry. Adds Czech translations to some mods</description>
-  </item>
-  <item>
-    <title>Dame Elswyth’s Summons</title>
-    <link>https://mods.vintagestory.at/show/mod/10139</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10139#10139</guid>
-    <pubDate>Sun, 26 Jul 2026 12:09:46 -0000</pubDate>
-    <description>Find and summon lost pets.  Fixes PetAI fire avoidance AI task for tamed pets.</description>
-  </item>
-  <item>
-    <title>Electrical Progressive: QOL</title>
-    <link>https://mods.vintagestory.at/show/mod/electricalprogressiveqol</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/electricalprogressiveqol#3693</guid>
-    <pubDate>Sun, 26 Jul 2026 11:57:49 -0000</pubDate>
-    <description>Additional electrical devices</description>
-  </item>
-  <item>
-    <title>Logic Blocks</title>
-    <link>https://mods.vintagestory.at/show/mod/5827</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5827#5827</guid>
-    <pubDate>Sun, 26 Jul 2026 11:52:14 -0000</pubDate>
-    <description>This mod provides blocks for logic and interactions with gates.</description>
-  </item>
-  <item>
-    <title>Recipe Favorites</title>
-    <link>https://mods.vintagestory.at/show/mod/10531</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10531#10531</guid>
-    <pubDate>Sun, 26 Jul 2026 11:40:48 -0000</pubDate>
-    <description>Bookmark handbook items &amp; recipes with Shift+F, browse them in a new Favorites tab.</description>
-  </item>
-  <item>
-    <title>Place it Anywhere</title>
-    <link>https://mods.vintagestory.at/show/mod/9914</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9914#9914</guid>
-    <pubDate>Sun, 26 Jul 2026 11:33:11 -0000</pubDate>
-    <description>Place any item as decoration on floors, walls and ceilings. Up to 64 items per cell.</description>
-  </item>
-  <item>
-    <title>Ghaelen's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9740</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
-    <pubDate>Sun, 26 Jul 2026 11:32:49 -0000</pubDate>
-    <description>My personal tweaks I like to play with.</description>
-  </item>
-  <item>
-    <title>MoreInventorys</title>
-    <link>https://mods.vintagestory.at/show/mod/moreinventorys</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreinventorys#10306</guid>
-    <pubDate>Sun, 26 Jul 2026 11:19:03 -0000</pubDate>
-    <description>The mod adds new inventories for convenient and immersive storage: Shelves, crates, racks for weapon</description>
-  </item>
-  <item>
-    <title>Packrat Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/packratfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/packratfork#8798</guid>
-    <pubDate>Sun, 26 Jul 2026 11:14:37 -0000</pubDate>
-    <description>Packrat adds a Storage Browser that lets you view and search the contents of all nearby containers.</description>
-  </item>
-  <item>
-    <title>Plumas Customizable Stack Sizes</title>
-    <link>https://mods.vintagestory.at/show/mod/plumastacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plumastacks#10530</guid>
-    <pubDate>Sun, 26 Jul 2026 10:43:16 -0000</pubDate>
-    <description>Another Simple Stack Size mod because i was dissatisfied with the others</description>
   </item>
 </channel>
 </rss>
