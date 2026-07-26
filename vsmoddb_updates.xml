@@ -4,7 +4,161 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 26 Jul 2026 06:38:37 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 26 Jul 2026 09:15:16 +0000</lastBuildDate>
+  <item>
+    <title>Butchering</title>
+    <link>https://mods.vintagestory.at/show/mod/butchering</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butchering#1505</guid>
+    <pubDate>Sun, 26 Jul 2026 08:35:13 -0000</pubDate>
+    <description>A more immersive butchery system for processing animals</description>
+  </item>
+  <item>
+    <title>MoreInventorys</title>
+    <link>https://mods.vintagestory.at/show/mod/moreinventorys</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreinventorys#10306</guid>
+    <pubDate>Sun, 26 Jul 2026 08:29:49 -0000</pubDate>
+    <description>The mod adds new inventories for convenient and immersive storage: Shelves, crates, racks for weapon</description>
+  </item>
+  <item>
+    <title>Pan Seashells</title>
+    <link>https://mods.vintagestory.at/show/mod/panseashells</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panseashells#9786</guid>
+    <pubDate>Sun, 26 Jul 2026 07:45:31 -0000</pubDate>
+    <description>A simple patch to add seashells into the panning droptable (for more lime)!</description>
+  </item>
+  <item>
+    <title>Czech Patch - Čeština do módů</title>
+    <link>https://mods.vintagestory.at/show/mod/czechpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/czechpatch#2800</guid>
+    <pubDate>Sun, 26 Jul 2026 07:44:38 -0000</pubDate>
+    <description>Mod, který přidá české překlady některých módů do hry. Adds Czech translations to some mods</description>
+  </item>
+  <item>
+    <title>Daubweave</title>
+    <link>https://mods.vintagestory.at/show/mod/daubweave</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/daubweave#10217</guid>
+    <pubDate>Sun, 26 Jul 2026 07:41:22 -0000</pubDate>
+    <description>A simple patch to buff daub output, and adds an alternative to craft daub blocks!</description>
+  </item>
+  <item>
+    <title>Fruit Buff</title>
+    <link>https://mods.vintagestory.at/show/mod/fruitbuff</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fruitbuff#9781</guid>
+    <pubDate>Sun, 26 Jul 2026 07:41:17 -0000</pubDate>
+    <description>Changes fruit trees and berry bushes to be much less of a pain to work with!</description>
+  </item>
+  <item>
+    <title>Ale Traders</title>
+    <link>https://mods.vintagestory.at/show/mod/aletraders</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aletraders#9745</guid>
+    <pubDate>Sun, 26 Jul 2026 07:41:10 -0000</pubDate>
+    <description>Adds two alcohol traders, who sell start-up distilling supplies, and buy all your spirits!</description>
+  </item>
+  <item>
+    <title>Fish Trader</title>
+    <link>https://mods.vintagestory.at/show/mod/fishtrader</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fishtrader#9614</guid>
+    <pubDate>Sun, 26 Jul 2026 07:41:00 -0000</pubDate>
+    <description>Adds the fishmonger trader, who sells fishing supplies and taxidermied catches, and buys fish!</description>
+  </item>
+  <item>
+    <title>Animal Trader</title>
+    <link>https://mods.vintagestory.at/show/mod/animaltrader</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animaltrader#9531</guid>
+    <pubDate>Sun, 26 Jul 2026 07:40:54 -0000</pubDate>
+    <description>Adds the livestock trader, who sells loads of baby animals, and buys animal products!</description>
+  </item>
+  <item>
+    <title>Decal Spraycans</title>
+    <link>https://mods.vintagestory.at/show/mod/decalspraycans</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/decalspraycans#9512</guid>
+    <pubDate>Sun, 26 Jul 2026 07:40:47 -0000</pubDate>
+    <description>Patches the Creative decal spraycans to be craftable in Survival!</description>
+  </item>
+  <item>
+    <title>Clay Press</title>
+    <link>https://mods.vintagestory.at/show/mod/claypress</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claypress#9456</guid>
+    <pubDate>Sun, 26 Jul 2026 07:40:41 -0000</pubDate>
+    <description>A simple patch to allow the pulverizer to "press" clay into tiles &amp; shingles (no more clayforming)!</description>
+  </item>
+  <item>
+    <title>Cupronickel Lanterns</title>
+    <link>https://mods.vintagestory.at/show/mod/cuprolamp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cuprolamp#9413</guid>
+    <pubDate>Sun, 26 Jul 2026 07:40:35 -0000</pubDate>
+    <description>Adds large and small cupronickel lanterns (coke not included)!</description>
+  </item>
+  <item>
+    <title>MORE GOAT</title>
+    <link>https://mods.vintagestory.at/show/mod/moregoat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moregoat#9396</guid>
+    <pubDate>Sun, 26 Jul 2026 07:40:28 -0000</pubDate>
+    <description>A simple patch to increase the maximum number of kids goats can have!</description>
+  </item>
+  <item>
+    <title>Crush Zinc Nuggets</title>
+    <link>https://mods.vintagestory.at/show/mod/crushzincnuggets</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crushzincnuggets#9334</guid>
+    <pubDate>Sun, 26 Jul 2026 07:40:22 -0000</pubDate>
+    <description>A simple patch that lets you (finally) pulverize sphalerite nuggets into powder!</description>
+  </item>
+  <item>
+    <title>Locust Drider Classes (Drocust)</title>
+    <link>https://mods.vintagestory.at/show/mod/drocustclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drocustclasses#9295</guid>
+    <pubDate>Sun, 26 Jul 2026 07:40:15 -0000</pubDate>
+    <description>Adds 5 new, exclusive classes to Wulk's Drocust race!</description>
+  </item>
+  <item>
+    <title>Recycle Sails</title>
+    <link>https://mods.vintagestory.at/show/mod/recyclesails</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/recyclesails#9250</guid>
+    <pubDate>Sun, 26 Jul 2026 07:40:08 -0000</pubDate>
+    <description>A simple recipe patch that lets you cut up small and large windmill sails to get your linen back!</description>
+  </item>
+  <item>
+    <title>Smash Metal Parts</title>
+    <link>https://mods.vintagestory.at/show/mod/smashmetalparts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smashmetalparts#9193</guid>
+    <pubDate>Sun, 26 Jul 2026 07:40:01 -0000</pubDate>
+    <description>A simple recipe patch to smash metal &amp; Jonas parts into cupronickel (with a hammer)!</description>
+  </item>
+  <item>
+    <title>Feed from Seed</title>
+    <link>https://mods.vintagestory.at/show/mod/feedfromseed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feedfromseed#9020</guid>
+    <pubDate>Sun, 26 Jul 2026 07:39:36 -0000</pubDate>
+    <description>A simple recipe patch that lets you turn your hoard of excess (appropriate) seedbags into food! </description>
+  </item>
+  <item>
+    <title>VSReborn Server Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10289</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10289#10289</guid>
+    <pubDate>Sun, 26 Jul 2026 07:39:24 -0000</pubDate>
+    <description>mega patch</description>
+  </item>
+  <item>
+    <title>Majestic Maple</title>
+    <link>https://mods.vintagestory.at/show/mod/10529</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10529#10529</guid>
+    <pubDate>Sun, 26 Jul 2026 07:37:46 -0000</pubDate>
+    <description>Maple wood retexture</description>
+  </item>
+  <item>
+    <title>TaborServers</title>
+    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
+    <pubDate>Sun, 26 Jul 2026 07:31:32 -0000</pubDate>
+    <description>Patches fo most of Tabor servers</description>
+  </item>
+  <item>
+    <title>Stone Blasting Bomb No Drops Tweak</title>
+    <link>https://mods.vintagestory.at/show/mod/10528</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10528#10528</guid>
+    <pubDate>Sun, 26 Jul 2026 07:09:06 -0000</pubDate>
+    <description>Code Patch to eliminate stone bomb drops. Intended to be used with Immersive Mining and Extraction.</description>
+  </item>
   <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/9635</link>
@@ -60,160 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9622#9622</guid>
     <pubDate>Sun, 26 Jul 2026 04:32:35 -0000</pubDate>
     <description>Ambien's Racial Traits adds racial bonus to characters added from racial equality, skeletons, others</description>
-  </item>
-  <item>
-    <title>Wild Farming Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/10010</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10010#10010</guid>
-    <pubDate>Sun, 26 Jul 2026 04:28:21 -0000</pubDate>
-    <description>Cultivate flowers, herbs, mushrooms, trees, and shrubs. And much more.</description>
-  </item>
-  <item>
-    <title>kris-patch-toolsmith</title>
-    <link>https://mods.vintagestory.at/show/mod/krispatchtoolsmith</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krispatchtoolsmith#10522</guid>
-    <pubDate>Sun, 26 Jul 2026 04:23:12 -0000</pubDate>
-    <description>A small server-side fix for the crash that Toolsmith mod added</description>
-  </item>
-  <item>
-    <title>Bleeding In Depth</title>
-    <link>https://mods.vintagestory.at/show/mod/bleedingindepth</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bleedingindepth#6668</guid>
-    <pubDate>Sun, 26 Jul 2026 04:22:22 -0000</pubDate>
-    <description>Adds depthful bleeding as a mechanic. Bleeding, blood trails, configurable. Combat Overhaul compat.</description>
-  </item>
-  <item>
-    <title>OneHourBarrel</title>
-    <link>https://mods.vintagestory.at/show/mod/10521</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10521#10521</guid>
-    <pubDate>Sun, 26 Jul 2026 04:20:10 -0000</pubDate>
-    <description>the Barrel will take one in game hour to complete</description>
-  </item>
-  <item>
-    <title>kris-patch-rustbound</title>
-    <link>https://mods.vintagestory.at/show/mod/krispatchrustbound</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krispatchrustbound#10520</guid>
-    <pubDate>Sun, 26 Jul 2026 04:16:07 -0000</pubDate>
-    <description>A small server-side fix for the Wilderlands Rustbound mod.</description>
-  </item>
-  <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Sun, 26 Jul 2026 04:14:49 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
-    <title>kris-patch-regalia</title>
-    <link>https://mods.vintagestory.at/show/mod/krispatchregalia</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krispatchregalia#10519</guid>
-    <pubDate>Sun, 26 Jul 2026 04:12:35 -0000</pubDate>
-    <description>A small server-side fix for the Regalia clothing mod.</description>
-  </item>
-  <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Sun, 26 Jul 2026 04:11:18 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
-    <title>kris-patch-mngeology</title>
-    <link>https://mods.vintagestory.at/show/mod/krispatchmngeology</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krispatchmngeology#10518</guid>
-    <pubDate>Sun, 26 Jul 2026 04:09:03 -0000</pubDate>
-    <description>A one-line fix for the Material Needs: Geology mod (mngeology).</description>
-  </item>
-  <item>
-    <title>Elk Adornments</title>
-    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
-    <pubDate>Sun, 26 Jul 2026 04:02:55 -0000</pubDate>
-    <description>Masks for you and your elk with Modular Elk Armor!</description>
-  </item>
-  <item>
-    <title>kris-patch-fruittree</title>
-    <link>https://mods.vintagestory.at/show/mod/krispatchfruittree</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krispatchfruittree#10516</guid>
-    <pubDate>Sun, 26 Jul 2026 04:01:48 -0000</pubDate>
-    <description>A fix for a base game bug with fruit tree cuttings. It shows on servers that add extra fruit trees</description>
-  </item>
-  <item>
-    <title>Custom Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10378</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
-    <pubDate>Sun, 26 Jul 2026 03:45:25 -0000</pubDate>
-    <description>A collection of tweaks for our private server.</description>
-  </item>
-  <item>
-    <title>Zenith: Assimilation</title>
-    <link>https://mods.vintagestory.at/show/mod/7485</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7485#7485</guid>
-    <pubDate>Sun, 26 Jul 2026 03:42:58 -0000</pubDate>
-    <description>Forge your path to Apotheosis. Consume Creatures, take their traits and become the ultimate lifeform</description>
-  </item>
-  <item>
-    <title>Caucasian Clothings</title>
-    <link>https://mods.vintagestory.at/show/mod/10515</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10515#10515</guid>
-    <pubDate>Sun, 26 Jul 2026 03:27:00 -0000</pubDate>
-    <description>A collections of different Caucasian clothes</description>
-  </item>
-  <item>
-    <title>4X Faster Barrel</title>
-    <link>https://mods.vintagestory.at/show/mod/10514</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10514#10514</guid>
-    <pubDate>Sun, 26 Jul 2026 03:21:42 -0000</pubDate>
-    <description>sealing times for barrels are 4X faster</description>
-  </item>
-  <item>
-    <title>Jack's Stone Chisels</title>
-    <link>https://mods.vintagestory.at/show/mod/jacksstonechisels</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jacksstonechisels#5319</guid>
-    <pubDate>Sun, 26 Jul 2026 02:08:31 -0000</pubDate>
-    <description>Adds a stone-age form of chisel while utilizing the club as a hammer for it.</description>
-  </item>
-  <item>
-    <title>GoFogYourself</title>
-    <link>https://mods.vintagestory.at/show/mod/8072</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8072#8072</guid>
-    <pubDate>Sun, 26 Jul 2026 02:01:41 -0000</pubDate>
-    <description>GoFogYourself a standalone fog control with that "other Foggy spooky game settings too"</description>
-  </item>
-  <item>
-    <title>SteadyGreenhouses</title>
-    <link>https://mods.vintagestory.at/show/mod/steadygreenhouses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/steadygreenhouses#6447</guid>
-    <pubDate>Sun, 26 Jul 2026 02:00:13 -0000</pubDate>
-    <description>This mod sets the temperatures of greenhouses to 20 C all year round.</description>
-  </item>
-  <item>
-    <title>wotpatches</title>
-    <link>https://mods.vintagestory.at/show/mod/wotpatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wotpatches#10513</guid>
-    <pubDate>Sun, 26 Jul 2026 01:45:02 -0000</pubDate>
-    <description>Patches for World of Thalorim.</description>
-  </item>
-  <item>
-    <title>TaborServers</title>
-    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
-    <pubDate>Sun, 26 Jul 2026 01:35:59 -0000</pubDate>
-    <description>Patches fo most of Tabor servers</description>
-  </item>
-  <item>
-    <title>Mod for Skyblock server</title>
-    <link>https://mods.vintagestory.at/show/mod/skyone</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skyone#2831</guid>
-    <pubDate>Sun, 26 Jul 2026 01:10:42 -0000</pubDate>
-    <description>Mod tailored for public Multiplayer Skyblock Economy server. --&gt;&gt; www.vintagestory.cz/skyblock</description>
-  </item>
-  <item>
-    <title>FasterBarrel</title>
-    <link>https://mods.vintagestory.at/show/mod/10512</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10512#10512</guid>
-    <pubDate>Sun, 26 Jul 2026 01:07:10 -0000</pubDate>
-    <description>seal times for barrels are 2X faster</description>
   </item>
 </channel>
 </rss>
