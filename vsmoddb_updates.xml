@@ -4,7 +4,133 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 26 Jul 2026 13:28:19 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 26 Jul 2026 15:07:35 +0000</lastBuildDate>
+  <item>
+    <title>PlayerList</title>
+    <link>https://mods.vintagestory.at/show/mod/playerlist</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playerlist#9735</guid>
+    <pubDate>Sun, 26 Jul 2026 14:56:29 -0000</pubDate>
+    <description>Pretty player list</description>
+  </item>
+  <item>
+    <title>PlayerInvUI</title>
+    <link>https://mods.vintagestory.at/show/mod/playerinvui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playerinvui#9736</guid>
+    <pubDate>Sun, 26 Jul 2026 14:54:17 -0000</pubDate>
+    <description>Replaces the vanilla inventory dialog with a custom UI.</description>
+  </item>
+  <item>
+    <title>ChatUI</title>
+    <link>https://mods.vintagestory.at/show/mod/chatui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chatui#8904</guid>
+    <pubDate>Sun, 26 Jul 2026 14:52:08 -0000</pubDate>
+    <description>Custom chat dialog with channel tabs, command autocomplete, and player mentions.</description>
+  </item>
+  <item>
+    <title>HudUI</title>
+    <link>https://mods.vintagestory.at/show/mod/hudui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hudui#8644</guid>
+    <pubDate>Sun, 26 Jul 2026 14:51:35 -0000</pubDate>
+    <description>Hotbar and world interaction hud remake. Now with theming available!</description>
+  </item>
+  <item>
+    <title>libGUI</title>
+    <link>https://mods.vintagestory.at/show/mod/libgui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/libgui#8556</guid>
+    <pubDate>Sun, 26 Jul 2026 14:50:24 -0000</pubDate>
+    <description>GUI library. Now open source.</description>
+  </item>
+  <item>
+    <title>The Working Classes - Whetstone Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/theworkingclasseswspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/theworkingclasseswspatch#10474</guid>
+    <pubDate>Sun, 26 Jul 2026 14:49:12 -0000</pubDate>
+    <description>A focused compatibility and bug-fix fork of The Working Classes for Vintage Story</description>
+  </item>
+  <item>
+    <title>Player Corpse (Azu Modded)</title>
+    <link>https://mods.vintagestory.at/show/mod/playercorpseforkedazu</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playercorpseforkedazu#9221</guid>
+    <pubDate>Sun, 26 Jul 2026 14:48:43 -0000</pubDate>
+    <description>Creates a corpse with the player's inventory after death (1.22+)</description>
+  </item>
+  <item>
+    <title>Chisel Leaf</title>
+    <link>https://mods.vintagestory.at/show/mod/chiselleaf</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiselleaf#9235</guid>
+    <pubDate>Sun, 26 Jul 2026 14:48:27 -0000</pubDate>
+    <description>Adds craftable leaf blocks you can chisel</description>
+  </item>
+  <item>
+    <title>Lunchbox</title>
+    <link>https://mods.vintagestory.at/show/mod/lunchbox</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lunchbox#6518</guid>
+    <pubDate>Sun, 26 Jul 2026 14:48:16 -0000</pubDate>
+    <description>Adds storage containers which automatically feeds the player when hungry</description>
+  </item>
+  <item>
+    <title>C&amp;N Jewelry</title>
+    <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
+    <pubDate>Sun, 26 Jul 2026 14:27:24 -0000</pubDate>
+    <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
+  </item>
+  <item>
+    <title>Wolp Story Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/wolpstorypatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wolpstorypatches#7915</guid>
+    <pubDate>Sun, 26 Jul 2026 14:21:03 -0000</pubDate>
+    <description>A collection of patches for the modpack &amp; server that we're running</description>
+  </item>
+  <item>
+    <title>Temporal Relics</title>
+    <link>https://mods.vintagestory.at/show/mod/9886</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9886#9886</guid>
+    <pubDate>Sun, 26 Jul 2026 14:07:52 -0000</pubDate>
+    <description>Adds randomized affixes to found equipment, introducing mundane, corrupted, and temporally enhanced </description>
+  </item>
+  <item>
+    <title>Grinding Wheel Rework</title>
+    <link>https://mods.vintagestory.at/show/mod/grindingwheelrework</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindingwheelrework#8252</guid>
+    <pubDate>Sun, 26 Jul 2026 14:03:49 -0000</pubDate>
+    <description>Expands grinding wheel to support more tools and turns sharpening into a lightweight repair system</description>
+  </item>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Sun, 26 Jul 2026 13:46:39 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>Custom Server Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10378</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
+    <pubDate>Sun, 26 Jul 2026 13:33:55 -0000</pubDate>
+    <description>A collection of tweaks for our private server.</description>
+  </item>
+  <item>
+    <title>Realistic Water</title>
+    <link>https://mods.vintagestory.at/show/mod/realisticwater</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticwater#8297</guid>
+    <pubDate>Sun, 26 Jul 2026 13:33:09 -0000</pubDate>
+    <description>Makes water spread and flow more realistically, so that you can build aqueducts, dams, canals etc</description>
+  </item>
+  <item>
+    <title>Realistic Rapids</title>
+    <link>https://mods.vintagestory.at/show/mod/realisticrapids</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticrapids#10227</guid>
+    <pubDate>Sun, 26 Jul 2026 13:32:37 -0000</pubDate>
+    <description>Makes rapids and waterwheels work more realistically. Official addon for Realistic Water</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Sun, 26 Jul 2026 13:32:15 -0000</pubDate>
+    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
+  </item>
   <item>
     <title>Barbershop Plus</title>
     <link>https://mods.vintagestory.at/show/mod/10424</link>
@@ -88,132 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plumastacks#10530</guid>
     <pubDate>Sun, 26 Jul 2026 10:43:16 -0000</pubDate>
     <description>Another Simple Stack Size mod because i was dissatisfied with the others</description>
-  </item>
-  <item>
-    <title>Immersive Body Temperature</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivebodytemperature</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebodytemperature#7966</guid>
-    <pubDate>Sun, 26 Jul 2026 10:34:36 -0000</pubDate>
-    <description>Prepare for summer! Makes hot climates as challenging as cold ones.</description>
-  </item>
-  <item>
-    <title>Bigger backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/biggerbackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biggerbackpacks#3073</guid>
-    <pubDate>Sun, 26 Jul 2026 10:15:27 -0000</pubDate>
-    <description>Doubles the inventory size of backpacks and saddlebags.</description>
-  </item>
-  <item>
-    <title>CommandHook</title>
-    <link>https://mods.vintagestory.at/show/mod/9782</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9782#9782</guid>
-    <pubDate>Sun, 26 Jul 2026 09:46:52 -0000</pubDate>
-    <description>Lets other mods hook into chat commands before and after they run.</description>
-  </item>
-  <item>
-    <title>Th3Essentials</title>
-    <link>https://mods.vintagestory.at/show/mod/theessentials</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/theessentials#334</guid>
-    <pubDate>Sun, 26 Jul 2026 09:42:24 -0000</pubDate>
-    <description>Integrate your server into discord. Adds managing and info commands/utilities.</description>
-  </item>
-  <item>
-    <title>KCs Dragon Player!</title>
-    <link>https://mods.vintagestory.at/show/mod/kcsdragons</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragons#8146</guid>
-    <pubDate>Sun, 26 Jul 2026 09:41:08 -0000</pubDate>
-    <description>Adds an anthropomorphic dragon player model to the game</description>
-  </item>
-  <item>
-    <title>TaborServers</title>
-    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
-    <pubDate>Sun, 26 Jul 2026 09:23:16 -0000</pubDate>
-    <description>Patches fo most of Tabor servers</description>
-  </item>
-  <item>
-    <title>Butchering</title>
-    <link>https://mods.vintagestory.at/show/mod/butchering</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butchering#1505</guid>
-    <pubDate>Sun, 26 Jul 2026 08:35:13 -0000</pubDate>
-    <description>A more immersive butchery system for processing animals</description>
-  </item>
-  <item>
-    <title>Pan Seashells</title>
-    <link>https://mods.vintagestory.at/show/mod/panseashells</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panseashells#9786</guid>
-    <pubDate>Sun, 26 Jul 2026 07:45:31 -0000</pubDate>
-    <description>A simple patch to add seashells into the panning droptable (for more lime)!</description>
-  </item>
-  <item>
-    <title>Daubweave</title>
-    <link>https://mods.vintagestory.at/show/mod/daubweave</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/daubweave#10217</guid>
-    <pubDate>Sun, 26 Jul 2026 07:41:22 -0000</pubDate>
-    <description>A simple patch to buff daub output, and adds an alternative to craft daub blocks!</description>
-  </item>
-  <item>
-    <title>Fruit Buff</title>
-    <link>https://mods.vintagestory.at/show/mod/fruitbuff</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fruitbuff#9781</guid>
-    <pubDate>Sun, 26 Jul 2026 07:41:17 -0000</pubDate>
-    <description>Changes fruit trees and berry bushes to be much less of a pain to work with!</description>
-  </item>
-  <item>
-    <title>Ale Traders</title>
-    <link>https://mods.vintagestory.at/show/mod/aletraders</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aletraders#9745</guid>
-    <pubDate>Sun, 26 Jul 2026 07:41:10 -0000</pubDate>
-    <description>Adds two alcohol traders, who sell start-up distilling supplies, and buy all your spirits!</description>
-  </item>
-  <item>
-    <title>Fish Trader</title>
-    <link>https://mods.vintagestory.at/show/mod/fishtrader</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fishtrader#9614</guid>
-    <pubDate>Sun, 26 Jul 2026 07:41:00 -0000</pubDate>
-    <description>Adds the fishmonger trader, who sells fishing supplies and taxidermied catches, and buys fish!</description>
-  </item>
-  <item>
-    <title>Animal Trader</title>
-    <link>https://mods.vintagestory.at/show/mod/animaltrader</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animaltrader#9531</guid>
-    <pubDate>Sun, 26 Jul 2026 07:40:54 -0000</pubDate>
-    <description>Adds the livestock trader, who sells loads of baby animals, and buys animal products!</description>
-  </item>
-  <item>
-    <title>Decal Spraycans</title>
-    <link>https://mods.vintagestory.at/show/mod/decalspraycans</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/decalspraycans#9512</guid>
-    <pubDate>Sun, 26 Jul 2026 07:40:47 -0000</pubDate>
-    <description>Patches the Creative decal spraycans to be craftable in Survival!</description>
-  </item>
-  <item>
-    <title>Clay Press</title>
-    <link>https://mods.vintagestory.at/show/mod/claypress</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claypress#9456</guid>
-    <pubDate>Sun, 26 Jul 2026 07:40:41 -0000</pubDate>
-    <description>A simple patch to allow the pulverizer to "press" clay into tiles &amp; shingles (no more clayforming)!</description>
-  </item>
-  <item>
-    <title>Cupronickel Lanterns</title>
-    <link>https://mods.vintagestory.at/show/mod/cuprolamp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cuprolamp#9413</guid>
-    <pubDate>Sun, 26 Jul 2026 07:40:35 -0000</pubDate>
-    <description>Adds large and small cupronickel lanterns (coke not included)!</description>
-  </item>
-  <item>
-    <title>MORE GOAT</title>
-    <link>https://mods.vintagestory.at/show/mod/moregoat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moregoat#9396</guid>
-    <pubDate>Sun, 26 Jul 2026 07:40:28 -0000</pubDate>
-    <description>A simple patch to increase the maximum number of kids goats can have!</description>
-  </item>
-  <item>
-    <title>Crush Zinc Nuggets</title>
-    <link>https://mods.vintagestory.at/show/mod/crushzincnuggets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crushzincnuggets#9334</guid>
-    <pubDate>Sun, 26 Jul 2026 07:40:22 -0000</pubDate>
-    <description>A simple patch that lets you (finally) pulverize sphalerite nuggets into powder!</description>
   </item>
 </channel>
 </rss>
