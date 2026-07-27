@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 27 Jul 2026 11:26:50 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 27 Jul 2026 14:41:03 +0000</lastBuildDate>
+  <item>
+    <title>The Quire Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/10455</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
+    <pubDate>Mon, 27 Jul 2026 14:36:49 -0000</pubDate>
+    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
+  </item>
+  <item>
+    <title>Hardcore Farming Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10564</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10564#10564</guid>
+    <pubDate>Mon, 27 Jul 2026 14:34:17 -0000</pubDate>
+    <description>Drastically reduces crop produce and seed yield</description>
+  </item>
+  <item>
+    <title>VoteGui</title>
+    <link>https://mods.vintagestory.at/show/mod/votegui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/votegui#10547</guid>
+    <pubDate>Mon, 27 Jul 2026 14:17:54 -0000</pubDate>
+    <description>Vote gui for vsserverlist.com</description>
+  </item>
+  <item>
+    <title>More Bolts</title>
+    <link>https://mods.vintagestory.at/show/mod/morebolts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebolts#10526</guid>
+    <pubDate>Mon, 27 Jul 2026 14:10:29 -0000</pubDate>
+    <description>Add more bolts for Combat Overhaul</description>
+  </item>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
+    <pubDate>Mon, 27 Jul 2026 12:17:24 -0000</pubDate>
+    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
+  </item>
+  <item>
+    <title>PaintedCanvas</title>
+    <link>https://mods.vintagestory.at/show/mod/9527</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9527#9527</guid>
+    <pubDate>Mon, 27 Jul 2026 12:06:44 -0000</pubDate>
+    <description>PaintedCanvas is an in-game pixel-art painting mod for Vintage Story.</description>
+  </item>
+  <item>
+    <title>CustomTableau</title>
+    <link>https://mods.vintagestory.at/show/mod/9120</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9120#9120</guid>
+    <pubDate>Mon, 27 Jul 2026 12:00:22 -0000</pubDate>
+    <description>CustomTableau adds customizable wall paintings to Vintage Story.</description>
+  </item>
   <item>
     <title>Solaria's Sauce</title>
     <link>https://mods.vintagestory.at/show/mod/10480</link>
@@ -53,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshardcorewinter#10500</guid>
     <pubDate>Mon, 27 Jul 2026 08:37:12 -0000</pubDate>
     <description>Deeper snow, white out blizzards, restorative spring, realistic room temperature, heat source rework</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
-    <pubDate>Mon, 27 Jul 2026 08:01:55 -0000</pubDate>
-    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
   </item>
   <item>
     <title>Animalica - Compatibility pack 1</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaso#9796</guid>
     <pubDate>Mon, 27 Jul 2026 04:17:48 -0000</pubDate>
     <description>Adds the small goober animals like raccoons, chickens, and rabbits as players</description>
-  </item>
-  <item>
-    <title>Crucible on Forge</title>
-    <link>https://mods.vintagestory.at/show/mod/10483</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10483#10483</guid>
-    <pubDate>Mon, 27 Jul 2026 04:08:45 -0000</pubDate>
-    <description>Smelt ore at your forge instead of trekking back to a firepit.</description>
-  </item>
-  <item>
-    <title>Temporal Relics</title>
-    <link>https://mods.vintagestory.at/show/mod/9886</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9886#9886</guid>
-    <pubDate>Mon, 27 Jul 2026 04:07:27 -0000</pubDate>
-    <description>Adds randomized affixes to found equipment, introducing mundane, corrupted, and temporally enhanced </description>
-  </item>
-  <item>
-    <title>Window Display - Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/windowdisplaypatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplaypatches#10532</guid>
-    <pubDate>Mon, 27 Jul 2026 03:57:41 -0000</pubDate>
-    <description>Used to add custom transforms and to enable the particles of items on display</description>
-  </item>
-  <item>
-    <title>Grassroots</title>
-    <link>https://mods.vintagestory.at/show/mod/grassroots</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
-    <pubDate>Mon, 27 Jul 2026 03:55:29 -0000</pubDate>
-    <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
-  </item>
-  <item>
-    <title>GGBC's Model Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks#10440</guid>
-    <pubDate>Mon, 27 Jul 2026 03:46:38 -0000</pubDate>
-    <description>Optimizes Models without notable visual difference. Fixes Z-fighting.</description>
-  </item>
-  <item>
-    <title>Minimap Waypoint List</title>
-    <link>https://mods.vintagestory.at/show/mod/mwl</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mwl#10558</guid>
-    <pubDate>Mon, 27 Jul 2026 03:30:32 -0000</pubDate>
-    <description>Displays a list of waypoints within the current minimap</description>
   </item>
 </channel>
 </rss>
