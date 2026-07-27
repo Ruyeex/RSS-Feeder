@@ -4,19 +4,152 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 27 Jul 2026 03:25:44 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 27 Jul 2026 07:35:06 +0000</lastBuildDate>
+  <item>
+    <title>TassFactions</title>
+    <link>https://mods.vintagestory.at/show/mod/10503</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
+    <pubDate>Mon, 27 Jul 2026 07:26:49 -0000</pubDate>
+    <description>A re-creation of the ol Minecraft factions mod</description>
+  </item>
+  <item>
+    <title>Animalica - Compatibility Pack 3 (Dinosaurs)</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicadinos</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicadinos#10562</guid>
+    <pubDate>Mon, 27 Jul 2026 07:25:37 -0000</pubDate>
+    <description>Adds clothing-capable playable dinosaurs and marine reptiles from Legacy of the Phanerozoic modules</description>
+  </item>
+  <item>
+    <title>Gatbata's Sawians</title>
+    <link>https://mods.vintagestory.at/show/mod/customplayermodelsaw</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customplayermodelsaw#10351</guid>
+    <pubDate>Mon, 27 Jul 2026 07:24:15 -0000</pubDate>
+    <description>Adds some of the Sawians from Gunsaw and Casualties: Unknown (expies and the like)</description>
+  </item>
+  <item>
+    <title>Animalica - Compatibility pack 2: (FotSA)</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicafotsa</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicafotsa#10561</guid>
+    <pubDate>Mon, 27 Jul 2026 07:23:23 -0000</pubDate>
+    <description>Adds clothing-capable playable models for six Fauna of the Stone Age modules</description>
+  </item>
+  <item>
+    <title>Animalica - Compatibility pack 1</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicac</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicac#9798</guid>
+    <pubDate>Mon, 27 Jul 2026 07:22:50 -0000</pubDate>
+    <description>Adds a small list of modded animals as players!</description>
+  </item>
+  <item>
+    <title>TassHunting</title>
+    <link>https://mods.vintagestory.at/show/mod/tasshunting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshunting#10438</guid>
+    <pubDate>Mon, 27 Jul 2026 07:22:12 -0000</pubDate>
+    <description>Arrows Stick - Blood - Smarter Animal AI - Aiming Tweaks - Health Based Animal Speed</description>
+  </item>
+  <item>
+    <title>Primitive Survival</title>
+    <link>https://mods.vintagestory.at/show/mod/primitivesurvival</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/primitivesurvival#322</guid>
+    <pubDate>Mon, 27 Jul 2026 07:13:04 -0000</pubDate>
+    <description>Fishing, trapping, irrigation, smoker, nightcrawlers, snakes, and much more!</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Mon, 27 Jul 2026 06:37:17 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Mon, 27 Jul 2026 06:26:42 -0000</pubDate>
+    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
+  </item>
+  <item>
+    <title>VS Instruments Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/10555</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
+    <pubDate>Mon, 27 Jul 2026 06:05:47 -0000</pubDate>
+    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
+  </item>
+  <item>
+    <title>dumpjson</title>
+    <link>https://mods.vintagestory.at/show/mod/2530</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/2530#2530</guid>
+    <pubDate>Mon, 27 Jul 2026 05:39:16 -0000</pubDate>
+    <description>Dumps json assets on the client side for debugging</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalsbackpacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalsbackpacks#2160</guid>
+    <pubDate>Mon, 27 Jul 2026 05:33:23 -0000</pubDate>
+    <description>Yes. New backpacks again.</description>
+  </item>
+  <item>
+    <title>Shader Limit Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/shaderlimitfix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shaderlimitfix#10560</guid>
+    <pubDate>Mon, 27 Jul 2026 04:53:14 -0000</pubDate>
+    <description>Small mod to increase the shader limit</description>
+  </item>
+  <item>
+    <title>Animal Kinship</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinship</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinship#9647</guid>
+    <pubDate>Mon, 27 Jul 2026 04:23:40 -0000</pubDate>
+    <description>Matching vanilla animals chill out when you play as their kind.</description>
+  </item>
+  <item>
+    <title>Animalica - Small &amp; Odd</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicaso</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaso#9796</guid>
+    <pubDate>Mon, 27 Jul 2026 04:17:48 -0000</pubDate>
+    <description>Adds the small goober animals like raccoons, chickens, and rabbits as players</description>
+  </item>
+  <item>
+    <title>Crucible on Forge</title>
+    <link>https://mods.vintagestory.at/show/mod/10483</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10483#10483</guid>
+    <pubDate>Mon, 27 Jul 2026 04:08:45 -0000</pubDate>
+    <description>Smelt ore at your forge instead of trekking back to a firepit.</description>
+  </item>
+  <item>
+    <title>Temporal Relics</title>
+    <link>https://mods.vintagestory.at/show/mod/9886</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9886#9886</guid>
+    <pubDate>Mon, 27 Jul 2026 04:07:27 -0000</pubDate>
+    <description>Adds randomized affixes to found equipment, introducing mundane, corrupted, and temporally enhanced </description>
+  </item>
+  <item>
+    <title>Window Display - Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/windowdisplaypatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplaypatches#10532</guid>
+    <pubDate>Mon, 27 Jul 2026 03:57:41 -0000</pubDate>
+    <description>Used to add custom transforms and to enable the particles of items on display</description>
+  </item>
   <item>
     <title>Grassroots</title>
     <link>https://mods.vintagestory.at/show/mod/grassroots</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
-    <pubDate>Mon, 27 Jul 2026 03:09:42 -0000</pubDate>
+    <pubDate>Mon, 27 Jul 2026 03:55:29 -0000</pubDate>
     <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
+  </item>
+  <item>
+    <title>GGBC's Model Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks#10440</guid>
+    <pubDate>Mon, 27 Jul 2026 03:46:38 -0000</pubDate>
+    <description>Optimizes Models without notable visual difference. Fixes Z-fighting.</description>
   </item>
   <item>
     <title>Minimap Waypoint List</title>
     <link>https://mods.vintagestory.at/show/mod/mwl</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mwl#10558</guid>
-    <pubDate>Mon, 27 Jul 2026 03:05:31 -0000</pubDate>
+    <pubDate>Mon, 27 Jul 2026 03:30:32 -0000</pubDate>
     <description>Displays a list of waypoints within the current minimap</description>
   </item>
   <item>
@@ -81,139 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10175#10175</guid>
     <pubDate>Mon, 27 Jul 2026 02:37:15 -0000</pubDate>
     <description>Adds severals Mosasaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Long Neck — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10176</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10176#10176</guid>
-    <pubDate>Mon, 27 Jul 2026 02:36:58 -0000</pubDate>
-    <description>Adds the family of Macronarians dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Horrible Hands — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10177</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10177#10177</guid>
-    <pubDate>Mon, 27 Jul 2026 02:36:33 -0000</pubDate>
-    <description>Adds the family of ornithomimosauria dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Horned Crown — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10178</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10178#10178</guid>
-    <pubDate>Mon, 27 Jul 2026 02:35:56 -0000</pubDate>
-    <description>Adds the family of ceratopsian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Fused Body — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10179</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10179#10179</guid>
-    <pubDate>Mon, 27 Jul 2026 02:35:38 -0000</pubDate>
-    <description>Adds the family of ankylosaurian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Domed Head — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10180</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10180#10180</guid>
-    <pubDate>Mon, 27 Jul 2026 02:35:23 -0000</pubDate>
-    <description>Adds the family of pachycephalosaurians dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Carnivorous Bull — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10181</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10181#10181</guid>
-    <pubDate>Mon, 27 Jul 2026 02:35:05 -0000</pubDate>
-    <description>Adds severals abelisaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Birds of Prey — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10182</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10182#10182</guid>
-    <pubDate>Mon, 27 Jul 2026 02:34:51 -0000</pubDate>
-    <description>Adds severals dromaeosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>VSReborn Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10289</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10289#10289</guid>
-    <pubDate>Mon, 27 Jul 2026 02:34:23 -0000</pubDate>
-    <description>mega patch</description>
-  </item>
-  <item>
-    <title>Dry Wood</title>
-    <link>https://mods.vintagestory.at/show/mod/10556</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10556#10556</guid>
-    <pubDate>Mon, 27 Jul 2026 02:32:32 -0000</pubDate>
-    <description>Firewood dries into aged firewood for longer, cooler burning.</description>
-  </item>
-  <item>
-    <title>Immersive Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivebackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpacks#9787</guid>
-    <pubDate>Mon, 27 Jul 2026 02:30:01 -0000</pubDate>
-    <description>An overhaul of backpack behavior and rendering in Vintage Story.</description>
-  </item>
-  <item>
-    <title>Simple Quiver</title>
-    <link>https://mods.vintagestory.at/show/mod/simplequiver</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplequiver#5852</guid>
-    <pubDate>Mon, 27 Jul 2026 02:22:31 -0000</pubDate>
-    <description>A set of recipes to enable the inaccessible quiver from vanilla.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/10555</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
-    <pubDate>Mon, 27 Jul 2026 02:15:49 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Mon, 27 Jul 2026 02:05:27 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Ozzie's Clothing</title>
-    <link>https://mods.vintagestory.at/show/mod/ozziesclothing</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ozziesclothing#10026</guid>
-    <pubDate>Mon, 27 Jul 2026 01:52:26 -0000</pubDate>
-    <description>A simple clothing mod, this is my first attempt at modding so don't expect it to be that good.</description>
-  </item>
-  <item>
-    <title>GamepadCompanionVS</title>
-    <link>https://mods.vintagestory.at/show/mod/8669</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8669#8669</guid>
-    <pubDate>Mon, 27 Jul 2026 01:32:56 -0000</pubDate>
-    <description>Native gamepad support for Vintage Story 1.22+ — 12-slot radial menu, virtual cursor for GUI, etc. </description>
-  </item>
-  <item>
-    <title>The Quire Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/10455</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
-    <pubDate>Mon, 27 Jul 2026 01:23:16 -0000</pubDate>
-    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
-  </item>
-  <item>
-    <title>The Hunter</title>
-    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
-    <pubDate>Mon, 27 Jul 2026 01:11:31 -0000</pubDate>
-    <description>Adds animal tracking clues, bleeding, droppings, wounded movement, and carcass carrying.</description>
-  </item>
-  <item>
-    <title>Faster Leather For Lazy People</title>
-    <link>https://mods.vintagestory.at/show/mod/fastleatherlazy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fastleatherlazy#10479</guid>
-    <pubDate>Mon, 27 Jul 2026 00:42:51 -0000</pubDate>
-    <description>This is a small mod I created because I did not see a 1.22 mod for faster leather.</description>
-  </item>
-  <item>
-    <title>Starter Chest: Class Loadouts</title>
-    <link>https://mods.vintagestory.at/show/mod/10554</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10554#10554</guid>
-    <pubDate>Mon, 27 Jul 2026 00:10:11 -0000</pubDate>
-    <description>Class-specific starter kits for Starter Chest. Supports vanilla and modded classes</description>
   </item>
 </channel>
 </rss>
