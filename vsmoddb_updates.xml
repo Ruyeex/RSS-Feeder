@@ -4,27 +4,125 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 27 Jul 2026 20:24:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 27 Jul 2026 22:10:23 +0000</lastBuildDate>
+  <item>
+    <title>Packrat</title>
+    <link>https://mods.vintagestory.at/show/mod/6138</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6138#6138</guid>
+    <pubDate>Mon, 27 Jul 2026 22:08:13 -0000</pubDate>
+    <description>Unified Storage Browser showing the contents of all chests and crates within reach</description>
+  </item>
+  <item>
+    <title>Coconut Elk Hoof Sounds</title>
+    <link>https://mods.vintagestory.at/show/mod/6128</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6128#6128</guid>
+    <pubDate>Mon, 27 Jul 2026 21:41:04 -0000</pubDate>
+    <description>Changes the trot and gallop sound effects for home recorded coconut ones</description>
+  </item>
+  <item>
+    <title>Alternate Elk Hoof Sounds</title>
+    <link>https://mods.vintagestory.at/show/mod/5691</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5691#5691</guid>
+    <pubDate>Mon, 27 Jul 2026 21:40:43 -0000</pubDate>
+    <description>Changes the trot and gallop sound effects for sharper ones</description>
+  </item>
+  <item>
+    <title>The Quire Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/10455</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
+    <pubDate>Mon, 27 Jul 2026 21:36:25 -0000</pubDate>
+    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
+  </item>
+  <item>
+    <title>Chonky Kitchenware</title>
+    <link>https://mods.vintagestory.at/show/mod/9694</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9694#9694</guid>
+    <pubDate>Mon, 27 Jul 2026 21:27:47 -0000</pubDate>
+    <description>This mod aims to make your kitchen feel more cozy, giving it a personal touch!</description>
+  </item>
+  <item>
+    <title>Chonky Vessels</title>
+    <link>https://mods.vintagestory.at/show/mod/7686</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7686#7686</guid>
+    <pubDate>Mon, 27 Jul 2026 21:27:26 -0000</pubDate>
+    <description>Adds chonkier vessels &amp; more with better storage and spoilage properties.</description>
+  </item>
   <item>
     <title>Custom Server Patch</title>
     <link>https://mods.vintagestory.at/show/mod/10378</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
-    <pubDate>Mon, 27 Jul 2026 20:16:45 -0000</pubDate>
+    <pubDate>Mon, 27 Jul 2026 21:23:41 -0000</pubDate>
     <description>A collection of tweaks for our private server.</description>
   </item>
   <item>
     <title>xSkills Fork</title>
     <link>https://mods.vintagestory.at/show/mod/7605</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
-    <pubDate>Mon, 27 Jul 2026 20:09:04 -0000</pubDate>
+    <pubDate>Mon, 27 Jul 2026 21:16:38 -0000</pubDate>
     <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
+  <item>
+    <title>xLib Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7618</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7618#7618</guid>
+    <pubDate>Mon, 27 Jul 2026 21:16:20 -0000</pubDate>
+    <description>XLib provides an interface to add skills, abilities and effects to the game.</description>
   </item>
   <item>
     <title>The Almanac: Trades, Callings &amp; Mastery</title>
     <link>https://mods.vintagestory.at/show/mod/10453</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
-    <pubDate>Mon, 27 Jul 2026 20:03:46 -0000</pubDate>
+    <pubDate>Mon, 27 Jul 2026 21:12:40 -0000</pubDate>
     <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>PALSJ's Fancy Faces</title>
+    <link>https://mods.vintagestory.at/show/mod/fancyfaces</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fancyfaces#10362</guid>
+    <pubDate>Mon, 27 Jul 2026 20:54:14 -0000</pubDate>
+    <description>Adds new faces and the ability to select pieces of each face separately.</description>
+  </item>
+  <item>
+    <title>TraderTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10569</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
+    <pubDate>Mon, 27 Jul 2026 20:42:04 -0000</pubDate>
+    <description>Allow to manage traders</description>
+  </item>
+  <item>
+    <title>VS Instruments Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/10555</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
+    <pubDate>Mon, 27 Jul 2026 20:41:04 -0000</pubDate>
+    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
+  </item>
+  <item>
+    <title>Metal Cooking Pots</title>
+    <link>https://mods.vintagestory.at/show/mod/metalpots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalpots#3912</guid>
+    <pubDate>Mon, 27 Jul 2026 20:40:34 -0000</pubDate>
+    <description>Adds Cooking Pots made from metal with greater serving size</description>
+  </item>
+  <item>
+    <title>Mini's Assorted Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/9896</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9896#9896</guid>
+    <pubDate>Mon, 27 Jul 2026 20:39:18 -0000</pubDate>
+    <description>Buncha changes for a LAN</description>
+  </item>
+  <item>
+    <title>Arkhavia Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/arkhaviapatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arkhaviapatches#10355</guid>
+    <pubDate>Mon, 27 Jul 2026 20:34:35 -0000</pubDate>
+    <description>Patches for Arkhavia.</description>
+  </item>
+  <item>
+    <title>Hydrate or Diedrate</title>
+    <link>https://mods.vintagestory.at/show/mod/hydrateordiedrate</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hydrateordiedrate#2282</guid>
+    <pubDate>Mon, 27 Jul 2026 20:30:11 -0000</pubDate>
+    <description>A mod that adds thirst and hydration mechanics as well as hot weather survival.</description>
   </item>
   <item>
     <title>The Almanac: Illuminated</title>
@@ -32,20 +130,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10454#10454</guid>
     <pubDate>Mon, 27 Jul 2026 20:03:24 -0000</pubDate>
     <description>A living questbook opened with Alt+J. Chapters appear only for the mods you have loaded.</description>
-  </item>
-  <item>
-    <title>The Quire Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/10455</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
-    <pubDate>Mon, 27 Jul 2026 20:03:00 -0000</pubDate>
-    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
-  </item>
-  <item>
-    <title>xLib Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7618</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7618#7618</guid>
-    <pubDate>Mon, 27 Jul 2026 20:01:13 -0000</pubDate>
-    <description>XLib provides an interface to add skills, abilities and effects to the game.</description>
   </item>
   <item>
     <title>xSkills Gilded Fork</title>
@@ -67,13 +151,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gliderrevampdrathon#10567</guid>
     <pubDate>Mon, 27 Jul 2026 19:54:00 -0000</pubDate>
     <description>A fork of Hunter404's Glider Revamp updated to the most recent game version.</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
-    <pubDate>Mon, 27 Jul 2026 19:48:48 -0000</pubDate>
-    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
   </item>
   <item>
     <title>Stability Above</title>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/capreolinae#1254</guid>
     <pubDate>Mon, 27 Jul 2026 18:54:25 -0000</pubDate>
     <description>A collection of New World deer from the Holocene.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Pantherinae</title>
-    <link>https://mods.vintagestory.at/show/mod/pantherinae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pantherinae#1125</guid>
-    <pubDate>Mon, 27 Jul 2026 18:54:04 -0000</pubDate>
-    <description>A collection of big cats from human history.</description>
-  </item>
-  <item>
-    <title>Diverse Diets</title>
-    <link>https://mods.vintagestory.at/show/mod/diversediets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/diversediets#4006</guid>
-    <pubDate>Mon, 27 Jul 2026 18:53:52 -0000</pubDate>
-    <description>Allows base game foods to be used for feeding animals and placed in troughs</description>
-  </item>
-  <item>
-    <title>Fields and Plateaus</title>
-    <link>https://mods.vintagestory.at/show/mod/fieldsandplateaus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fieldsandplateaus#1150</guid>
-    <pubDate>Mon, 27 Jul 2026 18:53:40 -0000</pubDate>
-    <description>Changes world gen to a more natural world that favors fields and plateaus.</description>
-  </item>
-  <item>
-    <title>Plains and Valleys</title>
-    <link>https://mods.vintagestory.at/show/mod/plainsandvalleys</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plainsandvalleys#903</guid>
-    <pubDate>Mon, 27 Jul 2026 18:53:28 -0000</pubDate>
-    <description>Changes world gen to a more natural world that favors open plains and valleys.</description>
-  </item>
-  <item>
-    <title>CB Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Mon, 27 Jul 2026 18:28:04 -0000</pubDate>
-    <description>Harmony patches for my personal server.</description>
-  </item>
-  <item>
-    <title>Immersive Mining and a Half</title>
-    <link>https://mods.vintagestory.at/show/mod/immersiveminingandahalf</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersiveminingandahalf#8383</guid>
-    <pubDate>Mon, 27 Jul 2026 18:21:18 -0000</pubDate>
-    <description>Makes the tool animations 50% faster for Salty &amp; Toast's Immersive: Mining</description>
-  </item>
-  <item>
-    <title>CB Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Mon, 27 Jul 2026 18:08:13 -0000</pubDate>
-    <description>JSON content patches for my small personal server</description>
-  </item>
-  <item>
-    <title>lyingriotman's TerraTag Soundpack</title>
-    <link>https://mods.vintagestory.at/show/mod/10566</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10566#10566</guid>
-    <pubDate>Mon, 27 Jul 2026 17:59:33 -0000</pubDate>
-    <description>Custom soundpack for a private server of friends.</description>
-  </item>
-  <item>
-    <title>KCs Dragon Player!</title>
-    <link>https://mods.vintagestory.at/show/mod/kcsdragons</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragons#8146</guid>
-    <pubDate>Mon, 27 Jul 2026 17:46:32 -0000</pubDate>
-    <description>Adds an anthropomorphic dragon player model to the game</description>
-  </item>
-  <item>
-    <title>Elk Adornments</title>
-    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
-    <pubDate>Mon, 27 Jul 2026 17:29:39 -0000</pubDate>
-    <description>Masks for you and your elk with Modular Elk Armor!</description>
-  </item>
-  <item>
-    <title>MC Water Propegation</title>
-    <link>https://mods.vintagestory.at/show/mod/mcwaterpropegation</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mcwaterpropegation#10379</guid>
-    <pubDate>Mon, 27 Jul 2026 17:22:37 -0000</pubDate>
-    <description>Makes it so that water propegates with only 2 source blocks (like in minecraft)</description>
   </item>
 </channel>
 </rss>
