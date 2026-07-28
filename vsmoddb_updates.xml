@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 27 Jul 2026 22:10:23 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 00:04:17 +0000</lastBuildDate>
+  <item>
+    <title>Dead</title>
+    <link>https://mods.vintagestory.at/show/mod/dead</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
+    <pubDate>Mon, 27 Jul 2026 23:20:03 -0000</pubDate>
+    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Mon, 27 Jul 2026 23:16:22 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Mechanical View</title>
+    <link>https://mods.vintagestory.at/show/mod/mechanicalview</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mechanicalview#10570</guid>
+    <pubDate>Mon, 27 Jul 2026 23:14:38 -0000</pubDate>
+    <description>Shows mechanical power info (SU, speed, capacity) in the block tooltip when you look at a mechanical</description>
+  </item>
+  <item>
+    <title>Terra Loom</title>
+    <link>https://mods.vintagestory.at/show/mod/10546</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10546#10546</guid>
+    <pubDate>Mon, 27 Jul 2026 23:01:30 -0000</pubDate>
+    <description>Replaces vanilla terrain/climate generation with a self-contained, embedded AI diffusion model.</description>
+  </item>
+  <item>
+    <title>Custom Server Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10378</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
+    <pubDate>Mon, 27 Jul 2026 22:56:21 -0000</pubDate>
+    <description>A collection of tweaks for our private server.</description>
+  </item>
+  <item>
+    <title>Katana mod Quenching Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/katanaquenchingpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/katanaquenchingpatch#9641</guid>
+    <pubDate>Mon, 27 Jul 2026 22:47:38 -0000</pubDate>
+    <description>This mod add the new 1.22 forge mecanique to the Katana</description>
+  </item>
+  <item>
+    <title>TraderTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10569</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
+    <pubDate>Mon, 27 Jul 2026 22:39:19 -0000</pubDate>
+    <description>Allow to manage traders</description>
+  </item>
+  <item>
+    <title>Simple Voice Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
+    <pubDate>Mon, 27 Jul 2026 22:38:24 -0000</pubDate>
+    <description>Proximity voice chat with lightweight OpenAL audio for Vintage Story.</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Mon, 27 Jul 2026 22:36:05 -0000</pubDate>
+    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
+  </item>
+  <item>
+    <title>Strata: Infinite diffusion worldgen</title>
+    <link>https://mods.vintagestory.at/show/mod/strata</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/strata#10398</guid>
+    <pubDate>Mon, 27 Jul 2026 22:21:15 -0000</pubDate>
+    <description>early preview: infinite diffusion terrain and climate.</description>
+  </item>
   <item>
     <title>Packrat</title>
     <link>https://mods.vintagestory.at/show/mod/6138</link>
@@ -48,13 +118,6 @@
     <description>Adds chonkier vessels &amp; more with better storage and spoilage properties.</description>
   </item>
   <item>
-    <title>Custom Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10378</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
-    <pubDate>Mon, 27 Jul 2026 21:23:41 -0000</pubDate>
-    <description>A collection of tweaks for our private server.</description>
-  </item>
-  <item>
     <title>xSkills Fork</title>
     <link>https://mods.vintagestory.at/show/mod/7605</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
@@ -81,13 +144,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fancyfaces#10362</guid>
     <pubDate>Mon, 27 Jul 2026 20:54:14 -0000</pubDate>
     <description>Adds new faces and the ability to select pieces of each face separately.</description>
-  </item>
-  <item>
-    <title>TraderTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10569</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
-    <pubDate>Mon, 27 Jul 2026 20:42:04 -0000</pubDate>
-    <description>Allow to manage traders</description>
   </item>
   <item>
     <title>VS Instruments Redux</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8629#8629</guid>
     <pubDate>Mon, 27 Jul 2026 19:38:50 -0000</pubDate>
     <description>Removes unstable areas above sea level.</description>
-  </item>
-  <item>
-    <title>Chisel Tab</title>
-    <link>https://mods.vintagestory.at/show/mod/chiseltab</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseltab#10568</guid>
-    <pubDate>Mon, 27 Jul 2026 19:14:05 -0000</pubDate>
-    <description>Adds tabs for blocks that can be chiseled</description>
-  </item>
-  <item>
-    <title>Crucible on Forge</title>
-    <link>https://mods.vintagestory.at/show/mod/10483</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10483#10483</guid>
-    <pubDate>Mon, 27 Jul 2026 18:59:55 -0000</pubDate>
-    <description>Smelt ore at your forge instead of trekking back to a firepit.</description>
-  </item>
-  <item>
-    <title>Floral Zones: Cape Region</title>
-    <link>https://mods.vintagestory.at/show/mod/floralzonescaperegion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescaperegion#1570</guid>
-    <pubDate>Mon, 27 Jul 2026 18:57:15 -0000</pubDate>
-    <description>Adds plants from the Cape Region to the game.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Casuariidae Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/casuariidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/casuariidae#2066</guid>
-    <pubDate>Mon, 27 Jul 2026 18:57:00 -0000</pubDate>
-    <description>A collection of Cassowary, Emu and flightless Australian birds from human history.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Sirenia</title>
-    <link>https://mods.vintagestory.at/show/mod/sirenia</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sirenia#2019</guid>
-    <pubDate>Mon, 27 Jul 2026 18:56:07 -0000</pubDate>
-    <description>A collection of manatee and dugong from the Holocene.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Machairodontinae</title>
-    <link>https://mods.vintagestory.at/show/mod/machairodontinae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/machairodontinae#1900</guid>
-    <pubDate>Mon, 27 Jul 2026 18:55:37 -0000</pubDate>
-    <description>A collection of saber cats from human history.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Caninae</title>
-    <link>https://mods.vintagestory.at/show/mod/caninae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caninae#1438</guid>
-    <pubDate>Mon, 27 Jul 2026 18:54:35 -0000</pubDate>
-    <description>A collection of dogs from the Holocene.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Capreolinae</title>
-    <link>https://mods.vintagestory.at/show/mod/capreolinae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/capreolinae#1254</guid>
-    <pubDate>Mon, 27 Jul 2026 18:54:25 -0000</pubDate>
-    <description>A collection of New World deer from the Holocene.</description>
   </item>
 </channel>
 </rss>
