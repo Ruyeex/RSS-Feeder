@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 28 Jul 2026 12:55:56 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 15:23:56 +0000</lastBuildDate>
+  <item>
+    <title>No Cave Music</title>
+    <link>https://mods.vintagestory.at/show/mod/7628</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7628#7628</guid>
+    <pubDate>Tue, 28 Jul 2026 15:15:41 -0000</pubDate>
+    <description>Removes cave music and doesn't stop regular music when entering caves or deep cellars.</description>
+  </item>
+  <item>
+    <title>Dragonia Server Mod Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/dragoniapatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dragoniapatch#5896</guid>
+    <pubDate>Tue, 28 Jul 2026 15:01:57 -0000</pubDate>
+    <description>Меняет генерацию железа и добавляет новый крафт льняного шпагата</description>
+  </item>
+  <item>
+    <title>Barbershop Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/10424</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10424#10424</guid>
+    <pubDate>Tue, 28 Jul 2026 14:50:58 -0000</pubDate>
+    <description>Re-implements Barbershop as a full-fledged profession.</description>
+  </item>
+  <item>
+    <title>VS Instruments Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/10555</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
+    <pubDate>Tue, 28 Jul 2026 14:50:17 -0000</pubDate>
+    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
+  </item>
+  <item>
+    <title>Ritual Apotheosis</title>
+    <link>https://mods.vintagestory.at/show/mod/8215</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8215#8215</guid>
+    <pubDate>Tue, 28 Jul 2026 14:32:27 -0000</pubDate>
+    <description>Build ancient rites from fragments. The world is your altar. Dig deep. Seek truth. Light the fires.</description>
+  </item>
+  <item>
+    <title>Spaturno and Trini's Secure Shelter</title>
+    <link>https://mods.vintagestory.at/show/mod/9692</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9692#9692</guid>
+    <pubDate>Tue, 28 Jul 2026 14:18:20 -0000</pubDate>
+    <description>Shared extradimensional cottage inspired from D&amp;D spell Leomund's Secure Shelter.</description>
+  </item>
+  <item>
+    <title>Magnetic Crown</title>
+    <link>https://mods.vintagestory.at/show/mod/10582</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10582#10582</guid>
+    <pubDate>Tue, 28 Jul 2026 13:31:22 -0000</pubDate>
+    <description>Crown that attracts all nearby items</description>
+  </item>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
+    <pubDate>Tue, 28 Jul 2026 13:30:00 -0000</pubDate>
+    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
+  </item>
+  <item>
+    <title>Loot Goblins BIG Chests</title>
+    <link>https://mods.vintagestory.at/show/mod/lootgoblinsbigchests</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lootgoblinsbigchests#10183</guid>
+    <pubDate>Tue, 28 Jul 2026 13:08:27 -0000</pubDate>
+    <description>Increases storage container slots by a bit, not double, just a few extra rows.</description>
+  </item>
+  <item>
+    <title>Kobold Taur experimental model</title>
+    <link>https://mods.vintagestory.at/show/mod/koboltaur</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/koboltaur#8216</guid>
+    <pubDate>Tue, 28 Jul 2026 13:00:12 -0000</pubDate>
+    <description>Modified taur version of Kobold model from Kobold Redux mod by Caliber</description>
+  </item>
   <item>
     <title>Alt+Tab Spin Fix</title>
     <link>https://mods.vintagestory.at/show/mod/10581</link>
@@ -67,20 +137,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks#10399</guid>
     <pubDate>Tue, 28 Jul 2026 10:19:19 -0000</pubDate>
     <description>Solves conflicts between various mods for the Bricks and Bloom server.</description>
-  </item>
-  <item>
-    <title>Spaturno and Trini's Secure Shelter</title>
-    <link>https://mods.vintagestory.at/show/mod/9692</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9692#9692</guid>
-    <pubDate>Tue, 28 Jul 2026 10:17:41 -0000</pubDate>
-    <description>Shared extradimensional cottage inspired from D&amp;D spell Leomund's Secure Shelter.</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
-    <pubDate>Tue, 28 Jul 2026 10:04:00 -0000</pubDate>
-    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
   </item>
   <item>
     <title>Downed</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/maketeaforked#4758</guid>
     <pubDate>Tue, 28 Jul 2026 08:19:58 -0000</pubDate>
     <description>Make clay teapots and mugs, brew tea and drink it.</description>
-  </item>
-  <item>
-    <title>Solaria's Sauce</title>
-    <link>https://mods.vintagestory.at/show/mod/10480</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10480#10480</guid>
-    <pubDate>Tue, 28 Jul 2026 08:09:31 -0000</pubDate>
-    <description>Foliage theme pack</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Tue, 28 Jul 2026 07:26:44 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>LauncherGo Restriction</title>
-    <link>https://mods.vintagestory.at/show/mod/launchergorestriction</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergorestriction#10577</guid>
-    <pubDate>Tue, 28 Jul 2026 07:14:58 -0000</pubDate>
-    <description>LauncherGo 双端模组限制服务，在连接握手阶段使被限制的客户端模组不加载。</description>
-  </item>
-  <item>
-    <title>Ritual Apotheosis</title>
-    <link>https://mods.vintagestory.at/show/mod/8215</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8215#8215</guid>
-    <pubDate>Tue, 28 Jul 2026 06:39:34 -0000</pubDate>
-    <description>Build ancient rites from fragments. The world is your altar. Dig deep. Seek truth. Light the fires.</description>
-  </item>
-  <item>
-    <title>Secure Shelter Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/10576</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10576#10576</guid>
-    <pubDate>Tue, 28 Jul 2026 06:37:20 -0000</pubDate>
-    <description>VR server fix</description>
-  </item>
-  <item>
-    <title>Better Pyrolysis</title>
-    <link>https://mods.vintagestory.at/show/mod/10228</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10228#10228</guid>
-    <pubDate>Tue, 28 Jul 2026 06:15:14 -0000</pubDate>
-    <description>Adds several new features regarding pyrolyzing different fuels. </description>
-  </item>
-  <item>
-    <title>GlobalSRVCore</title>
-    <link>https://mods.vintagestory.at/show/mod/globalsrvcore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/globalsrvcore#6670</guid>
-    <pubDate>Tue, 28 Jul 2026 05:53:49 -0000</pubDate>
-    <description>A collection of modified and altered mods for the GlobalSRV project server.</description>
-  </item>
-  <item>
-    <title>The Almanac: Trades, Callings &amp; Mastery</title>
-    <link>https://mods.vintagestory.at/show/mod/10453</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
-    <pubDate>Tue, 28 Jul 2026 05:48:12 -0000</pubDate>
-    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
   </item>
 </channel>
 </rss>
