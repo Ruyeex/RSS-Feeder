@@ -4,7 +4,112 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 28 Jul 2026 15:23:56 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 17:37:05 +0000</lastBuildDate>
+  <item>
+    <title>Plant Debris Hedges</title>
+    <link>https://mods.vintagestory.at/show/mod/plantdebrishedges</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plantdebrishedges#10463</guid>
+    <pubDate>Tue, 28 Jul 2026 17:20:37 -0000</pubDate>
+    <description>Adds craftable "Hedge" blocks from plant debris, using the model of legacy bushes.</description>
+  </item>
+  <item>
+    <title>TraderTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10569</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
+    <pubDate>Tue, 28 Jul 2026 16:47:21 -0000</pubDate>
+    <description>Allow to manage traders</description>
+  </item>
+  <item>
+    <title>Everything Black Raspberries</title>
+    <link>https://mods.vintagestory.at/show/mod/blackraspberry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blackraspberry#8736</guid>
+    <pubDate>Tue, 28 Jul 2026 16:36:19 -0000</pubDate>
+    <description>Adds black raspberry bushes and their respective products. Now with Expanded Foods compatibility!</description>
+  </item>
+  <item>
+    <title>Fast Packed Dirt Paths</title>
+    <link>https://mods.vintagestory.at/show/mod/fastpackeddirtpaths</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fastpackeddirtpaths#6807</guid>
+    <pubDate>Tue, 28 Jul 2026 16:36:05 -0000</pubDate>
+    <description>Increases player speed when walking on packed dirt</description>
+  </item>
+  <item>
+    <title>Seasonal Flowers</title>
+    <link>https://mods.vintagestory.at/show/mod/9785</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9785#9785</guid>
+    <pubDate>Tue, 28 Jul 2026 16:35:52 -0000</pubDate>
+    <description>Flowers now sprout, bloom, die back, and go dormant. (The mod that hides flowers in the winter)</description>
+  </item>
+  <item>
+    <title>Deciduous Trees</title>
+    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
+    <pubDate>Tue, 28 Jul 2026 16:35:39 -0000</pubDate>
+    <description>Trees slowly shed their leaves based on temperature. Vanilla or Eco Machina compatible.</description>
+  </item>
+  <item>
+    <title>Leaf Litter</title>
+    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
+    <pubDate>Tue, 28 Jul 2026 16:35:26 -0000</pubDate>
+    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
+  </item>
+  <item>
+    <title>Smart Barrel</title>
+    <link>https://mods.vintagestory.at/show/mod/10584</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10584#10584</guid>
+    <pubDate>Tue, 28 Jul 2026 16:34:14 -0000</pubDate>
+    <description>Shift-clicking an ingredient into a barrel transfers only the amount needed.</description>
+  </item>
+  <item>
+    <title>Seraph Atelier - Player Model Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/seraphatelier</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphatelier#10276</guid>
+    <pubDate>Tue, 28 Jul 2026 16:30:48 -0000</pubDate>
+    <description>Look cute while you do pottery, starve, and get hunted by horrors beyond comprehension!</description>
+  </item>
+  <item>
+    <title>HandbookCrashGuard</title>
+    <link>https://mods.vintagestory.at/show/mod/handbookcrashguard</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/handbookcrashguard#10191</guid>
+    <pubDate>Tue, 28 Jul 2026 16:18:05 -0000</pubDate>
+    <description>Small mod that fixes crashes caused by the test version of A Culinary Artillery and some other mods</description>
+  </item>
+  <item>
+    <title>Slower Poultices</title>
+    <link>https://mods.vintagestory.at/show/mod/10583</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10583#10583</guid>
+    <pubDate>Tue, 28 Jul 2026 16:12:10 -0000</pubDate>
+    <description>Small patch that greatly slows down the healing effect of poultices</description>
+  </item>
+  <item>
+    <title>Bear's Branchy Harvest</title>
+    <link>https://mods.vintagestory.at/show/mod/bearsbranchyharvest</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bearsbranchyharvest#9213</guid>
+    <pubDate>Tue, 28 Jul 2026 16:09:33 -0000</pubDate>
+    <description>Harvest leaf blocks with a knife, or get more sticks! Now with configurable tree seed drops!</description>
+  </item>
+  <item>
+    <title>Glider Revamp (Drathon's Fork)</title>
+    <link>https://mods.vintagestory.at/show/mod/gliderrevampdrathon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gliderrevampdrathon#10567</guid>
+    <pubDate>Tue, 28 Jul 2026 15:52:12 -0000</pubDate>
+    <description>A fork of Hunter404's Glider Revamp updated to the most recent game version.</description>
+  </item>
+  <item>
+    <title>NDL Villagers</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlvillagers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlvillagers#3429</guid>
+    <pubDate>Tue, 28 Jul 2026 15:35:28 -0000</pubDate>
+    <description>Adds Villagers/Guards/Clerics to populate your builds and also a way to get traders in your builds!</description>
+  </item>
+  <item>
+    <title>FuelRework</title>
+    <link>https://mods.vintagestory.at/show/mod/10428</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10428#10428</guid>
+    <pubDate>Tue, 28 Jul 2026 15:31:13 -0000</pubDate>
+    <description>Increases the burn time of most fuels.</description>
+  </item>
   <item>
     <title>No Cave Music</title>
     <link>https://mods.vintagestory.at/show/mod/7628</link>
@@ -109,111 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caveinarmor#9035</guid>
     <pubDate>Tue, 28 Jul 2026 10:38:23 -0000</pubDate>
     <description>Enables vanilla armor to natively mitigate crushing damage from falling blocks.</description>
-  </item>
-  <item>
-    <title>Boat Speed Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/boatspeedtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/boatspeedtweaks#9766</guid>
-    <pubDate>Tue, 28 Jul 2026 10:36:06 -0000</pubDate>
-    <description>Multiply Sailboats and Rafts speed by the configured factor, separately (default for both = 2.0)</description>
-  </item>
-  <item>
-    <title>Secure Cooking Pots</title>
-    <link>https://mods.vintagestory.at/show/mod/securecookingpots</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/securecookingpots#9942</guid>
-    <pubDate>Tue, 28 Jul 2026 10:35:49 -0000</pubDate>
-    <description>No more lost liquids while cooking. You'll get burnt if you try.</description>
-  </item>
-  <item>
-    <title>Zoom Button Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/zoombuttonpatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zoombuttonpatch#10443</guid>
-    <pubDate>Tue, 28 Jul 2026 10:35:32 -0000</pubDate>
-    <description>Hides the player hands and items held while zooming. No more torch in the way!</description>
-  </item>
-  <item>
-    <title>Bricks &amp; Blooms Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks#10399</guid>
-    <pubDate>Tue, 28 Jul 2026 10:19:19 -0000</pubDate>
-    <description>Solves conflicts between various mods for the Bricks and Bloom server.</description>
-  </item>
-  <item>
-    <title>Downed</title>
-    <link>https://mods.vintagestory.at/show/mod/downed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
-    <pubDate>Tue, 28 Jul 2026 09:59:03 -0000</pubDate>
-    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
-  </item>
-  <item>
-    <title>Smaller jugs handling</title>
-    <link>https://mods.vintagestory.at/show/mod/10579</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10579#10579</guid>
-    <pubDate>Tue, 28 Jul 2026 09:56:42 -0000</pubDate>
-    <description>Transfers 0.25L of liquid when moving portions using a jug. The vanilla size is 0.3L.</description>
-  </item>
-  <item>
-    <title>UI-Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/uitweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/uitweaks#7926</guid>
-    <pubDate>Tue, 28 Jul 2026 09:54:47 -0000</pubDate>
-    <description>Zoom Button, configurable HUD, in-game calculator, and more...</description>
-  </item>
-  <item>
-    <title>Larger jugs handling</title>
-    <link>https://mods.vintagestory.at/show/mod/largejugs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/largejugs#10578</guid>
-    <pubDate>Tue, 28 Jul 2026 09:54:26 -0000</pubDate>
-    <description>Transfers 0.5L of liquid when moving portions using a jug. The vanilla size is 0.3L.</description>
-  </item>
-  <item>
-    <title>Forgotten Armory: Chinese Dynasties</title>
-    <link>https://mods.vintagestory.at/show/mod/5062</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5062#5062</guid>
-    <pubDate>Tue, 28 Jul 2026 09:26:56 -0000</pubDate>
-    <description>Mod adding multiple iron+ Scale armor variations in the style of Chinese Dynasties</description>
-  </item>
-  <item>
-    <title>NDL ExpandedGrowth (Tree Growth Module)</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthtrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthtrees#5697</guid>
-    <pubDate>Tue, 28 Jul 2026 09:18:11 -0000</pubDate>
-    <description>Adds a method for growing larger variants of trees.</description>
-  </item>
-  <item>
-    <title>The Hunter</title>
-    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
-    <pubDate>Tue, 28 Jul 2026 09:15:37 -0000</pubDate>
-    <description>Track prey, follow blood, carry carcasses, compost dung, and have smarter wolves.</description>
-  </item>
-  <item>
-    <title>The Gravestones Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/gravestones</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gravestones#10300</guid>
-    <pubDate>Tue, 28 Jul 2026 08:49:12 -0000</pubDate>
-    <description>Adds a gravestone which stores the players inventory upon death and can be retrieved by them later.</description>
-  </item>
-  <item>
-    <title>Science Core</title>
-    <link>https://mods.vintagestory.at/show/mod/sciencecore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sciencecore#8580</guid>
-    <pubDate>Tue, 28 Jul 2026 08:47:20 -0000</pubDate>
-    <description>Мод для разработчиков, добавляющий древа исследований, блокирующий/разблокирующий крафты</description>
-  </item>
-  <item>
-    <title>Ding Dong!</title>
-    <link>https://mods.vintagestory.at/show/mod/dingdong</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dingdong#7784</guid>
-    <pubDate>Tue, 28 Jul 2026 08:47:05 -0000</pubDate>
-    <description>Интерактивные колокола</description>
-  </item>
-  <item>
-    <title>Make Tea Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/maketeaforked</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/maketeaforked#4758</guid>
-    <pubDate>Tue, 28 Jul 2026 08:19:58 -0000</pubDate>
-    <description>Make clay teapots and mugs, brew tea and drink it.</description>
   </item>
 </channel>
 </rss>
