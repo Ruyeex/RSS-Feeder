@@ -4,12 +4,40 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 28 Jul 2026 10:37:41 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 12:55:56 +0000</lastBuildDate>
+  <item>
+    <title>Alt+Tab Spin Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/10581</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10581#10581</guid>
+    <pubDate>Tue, 28 Jul 2026 12:29:53 -0000</pubDate>
+    <description>Fix the physics explosion and delta-time ramp up caused by unfocusing the game.</description>
+  </item>
+  <item>
+    <title>Stone Bake Oven</title>
+    <link>https://mods.vintagestory.at/show/mod/stonebakeoven</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stonebakeoven#1163</guid>
+    <pubDate>Tue, 28 Jul 2026 12:08:02 -0000</pubDate>
+    <description>You can create a Stone Bake Oven for all your large baking needs. Now with cooking pot spots!</description>
+  </item>
+  <item>
+    <title>Notice Board</title>
+    <link>https://mods.vintagestory.at/show/mod/noticeboard</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noticeboard#2498</guid>
+    <pubDate>Tue, 28 Jul 2026 11:51:55 -0000</pubDate>
+    <description>Notice board where you can post and read player notices. Focused on RP aspect.</description>
+  </item>
+  <item>
+    <title>Unbind Key</title>
+    <link>https://mods.vintagestory.at/show/mod/10580</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10580#10580</guid>
+    <pubDate>Tue, 28 Jul 2026 10:59:11 -0000</pubDate>
+    <description>Press the Delete key to clear the key bindings</description>
+  </item>
   <item>
     <title>Rock Attac - Armor Protec</title>
     <link>https://mods.vintagestory.at/show/mod/caveinarmor</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caveinarmor#9035</guid>
-    <pubDate>Tue, 28 Jul 2026 10:36:55 -0000</pubDate>
+    <pubDate>Tue, 28 Jul 2026 10:38:23 -0000</pubDate>
     <description>Enables vanilla armor to natively mitigate crushing damage from falling blocks.</description>
   </item>
   <item>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
     <pubDate>Tue, 28 Jul 2026 05:48:12 -0000</pubDate>
     <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>Steel is Steel</title>
-    <link>https://mods.vintagestory.at/show/mod/steelissteel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/steelissteel#10575</guid>
-    <pubDate>Tue, 28 Jul 2026 05:03:36 -0000</pubDate>
-    <description>Changes the 1.22 CO Fork's resistances to match so you can use whatever weapon you want.</description>
-  </item>
-  <item>
-    <title>kris-patch-materialneeds</title>
-    <link>https://mods.vintagestory.at/show/mod/krispatchmaterialneeds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krispatchmaterialneeds#10489</guid>
-    <pubDate>Tue, 28 Jul 2026 04:59:26 -0000</pubDate>
-    <description>A small content-only fix that brings back Aged Wood and Very Aged Wood after the Material Needs 2.0.</description>
-  </item>
-  <item>
-    <title>Waterfall: SomeLiquidSourceTransport</title>
-    <link>https://mods.vintagestory.at/show/mod/waterfall</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waterfall#3845</guid>
-    <pubDate>Tue, 28 Jul 2026 04:43:31 -0000</pubDate>
-    <description>Water must be manually spread from naturally generated liquid bodies.</description>
-  </item>
-  <item>
-    <title>Race-Specific Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/racespecificclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/racespecificclasses#10573</guid>
-    <pubDate>Tue, 28 Jul 2026 03:26:55 -0000</pubDate>
-    <description>Restricts which of The Working Classes' classes are available for each race in Racial Equality</description>
   </item>
 </channel>
 </rss>
