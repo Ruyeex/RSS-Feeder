@@ -4,216 +4,216 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 28 Jul 2026 17:37:05 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 19:27:54 +0000</lastBuildDate>
   <item>
-    <title>Plant Debris Hedges</title>
-    <link>https://mods.vintagestory.at/show/mod/plantdebrishedges</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plantdebrishedges#10463</guid>
-    <pubDate>Tue, 28 Jul 2026 17:20:37 -0000</pubDate>
-    <description>Adds craftable "Hedge" blocks from plant debris, using the model of legacy bushes.</description>
-  </item>
-  <item>
-    <title>TraderTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10569</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
-    <pubDate>Tue, 28 Jul 2026 16:47:21 -0000</pubDate>
-    <description>Allow to manage traders</description>
-  </item>
-  <item>
-    <title>Everything Black Raspberries</title>
-    <link>https://mods.vintagestory.at/show/mod/blackraspberry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blackraspberry#8736</guid>
-    <pubDate>Tue, 28 Jul 2026 16:36:19 -0000</pubDate>
-    <description>Adds black raspberry bushes and their respective products. Now with Expanded Foods compatibility!</description>
-  </item>
-  <item>
-    <title>Fast Packed Dirt Paths</title>
-    <link>https://mods.vintagestory.at/show/mod/fastpackeddirtpaths</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fastpackeddirtpaths#6807</guid>
-    <pubDate>Tue, 28 Jul 2026 16:36:05 -0000</pubDate>
-    <description>Increases player speed when walking on packed dirt</description>
-  </item>
-  <item>
-    <title>Seasonal Flowers</title>
-    <link>https://mods.vintagestory.at/show/mod/9785</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9785#9785</guid>
-    <pubDate>Tue, 28 Jul 2026 16:35:52 -0000</pubDate>
-    <description>Flowers now sprout, bloom, die back, and go dormant. (The mod that hides flowers in the winter)</description>
-  </item>
-  <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Tue, 28 Jul 2026 16:35:39 -0000</pubDate>
-    <description>Trees slowly shed their leaves based on temperature. Vanilla or Eco Machina compatible.</description>
-  </item>
-  <item>
-    <title>Leaf Litter</title>
-    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
-    <pubDate>Tue, 28 Jul 2026 16:35:26 -0000</pubDate>
-    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
-  </item>
-  <item>
-    <title>Smart Barrel</title>
-    <link>https://mods.vintagestory.at/show/mod/10584</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10584#10584</guid>
-    <pubDate>Tue, 28 Jul 2026 16:34:14 -0000</pubDate>
-    <description>Shift-clicking an ingredient into a barrel transfers only the amount needed.</description>
-  </item>
-  <item>
-    <title>Seraph Atelier - Player Model Lib</title>
-    <link>https://mods.vintagestory.at/show/mod/seraphatelier</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphatelier#10276</guid>
-    <pubDate>Tue, 28 Jul 2026 16:30:48 -0000</pubDate>
-    <description>Look cute while you do pottery, starve, and get hunted by horrors beyond comprehension!</description>
-  </item>
-  <item>
-    <title>HandbookCrashGuard</title>
-    <link>https://mods.vintagestory.at/show/mod/handbookcrashguard</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/handbookcrashguard#10191</guid>
-    <pubDate>Tue, 28 Jul 2026 16:18:05 -0000</pubDate>
-    <description>Small mod that fixes crashes caused by the test version of A Culinary Artillery and some other mods</description>
-  </item>
-  <item>
-    <title>Slower Poultices</title>
-    <link>https://mods.vintagestory.at/show/mod/10583</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10583#10583</guid>
-    <pubDate>Tue, 28 Jul 2026 16:12:10 -0000</pubDate>
-    <description>Small patch that greatly slows down the healing effect of poultices</description>
-  </item>
-  <item>
-    <title>Bear's Branchy Harvest</title>
-    <link>https://mods.vintagestory.at/show/mod/bearsbranchyharvest</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bearsbranchyharvest#9213</guid>
-    <pubDate>Tue, 28 Jul 2026 16:09:33 -0000</pubDate>
-    <description>Harvest leaf blocks with a knife, or get more sticks! Now with configurable tree seed drops!</description>
-  </item>
-  <item>
-    <title>Glider Revamp (Drathon's Fork)</title>
-    <link>https://mods.vintagestory.at/show/mod/gliderrevampdrathon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gliderrevampdrathon#10567</guid>
-    <pubDate>Tue, 28 Jul 2026 15:52:12 -0000</pubDate>
-    <description>A fork of Hunter404's Glider Revamp updated to the most recent game version.</description>
-  </item>
-  <item>
-    <title>NDL Villagers</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlvillagers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlvillagers#3429</guid>
-    <pubDate>Tue, 28 Jul 2026 15:35:28 -0000</pubDate>
-    <description>Adds Villagers/Guards/Clerics to populate your builds and also a way to get traders in your builds!</description>
-  </item>
-  <item>
-    <title>FuelRework</title>
-    <link>https://mods.vintagestory.at/show/mod/10428</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10428#10428</guid>
-    <pubDate>Tue, 28 Jul 2026 15:31:13 -0000</pubDate>
-    <description>Increases the burn time of most fuels.</description>
-  </item>
-  <item>
-    <title>No Cave Music</title>
-    <link>https://mods.vintagestory.at/show/mod/7628</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7628#7628</guid>
-    <pubDate>Tue, 28 Jul 2026 15:15:41 -0000</pubDate>
-    <description>Removes cave music and doesn't stop regular music when entering caves or deep cellars.</description>
-  </item>
-  <item>
-    <title>Dragonia Server Mod Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/dragoniapatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dragoniapatch#5896</guid>
-    <pubDate>Tue, 28 Jul 2026 15:01:57 -0000</pubDate>
-    <description>Меняет генерацию железа и добавляет новый крафт льняного шпагата</description>
-  </item>
-  <item>
-    <title>Barbershop Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/10424</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10424#10424</guid>
-    <pubDate>Tue, 28 Jul 2026 14:50:58 -0000</pubDate>
-    <description>Re-implements Barbershop as a full-fledged profession.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/10555</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
-    <pubDate>Tue, 28 Jul 2026 14:50:17 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
+    <pubDate>Tue, 28 Jul 2026 19:16:33 -0000</pubDate>
+    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
   </item>
   <item>
     <title>Ritual Apotheosis</title>
     <link>https://mods.vintagestory.at/show/mod/8215</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8215#8215</guid>
-    <pubDate>Tue, 28 Jul 2026 14:32:27 -0000</pubDate>
+    <pubDate>Tue, 28 Jul 2026 18:59:33 -0000</pubDate>
     <description>Build ancient rites from fragments. The world is your altar. Dig deep. Seek truth. Light the fires.</description>
   </item>
   <item>
-    <title>Spaturno and Trini's Secure Shelter</title>
-    <link>https://mods.vintagestory.at/show/mod/9692</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9692#9692</guid>
-    <pubDate>Tue, 28 Jul 2026 14:18:20 -0000</pubDate>
-    <description>Shared extradimensional cottage inspired from D&amp;D spell Leomund's Secure Shelter.</description>
+    <title>BetterRuins</title>
+    <link>https://mods.vintagestory.at/show/mod/betterruins</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterruins#792</guid>
+    <pubDate>Tue, 28 Jul 2026 18:59:32 -0000</pubDate>
+    <description>Adds many new ruins over and underground to your survival game world.</description>
   </item>
   <item>
-    <title>Magnetic Crown</title>
-    <link>https://mods.vintagestory.at/show/mod/10582</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10582#10582</guid>
-    <pubDate>Tue, 28 Jul 2026 13:31:22 -0000</pubDate>
-    <description>Crown that attracts all nearby items</description>
+    <title>aldiclasses Dragonia Tweak Server</title>
+    <link>https://mods.vintagestory.at/show/mod/8277</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8277#8277</guid>
+    <pubDate>Tue, 28 Jul 2026 18:59:04 -0000</pubDate>
+    <description>aldiclasses Dragonia Tweak Server</description>
   </item>
   <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
-    <pubDate>Tue, 28 Jul 2026 13:30:00 -0000</pubDate>
-    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
+    <title>TTS Vintage Story - CZECH Audio</title>
+    <link>https://mods.vintagestory.at/show/mod/ttsvintagestorycs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ttsvintagestorycs#10586</guid>
+    <pubDate>Tue, 28 Jul 2026 18:49:27 -0000</pubDate>
+    <description>CZECH narration audio for TTS Vintage Story. Requires the TTS Vintage Story code mod.</description>
   </item>
   <item>
-    <title>Loot Goblins BIG Chests</title>
-    <link>https://mods.vintagestory.at/show/mod/lootgoblinsbigchests</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lootgoblinsbigchests#10183</guid>
-    <pubDate>Tue, 28 Jul 2026 13:08:27 -0000</pubDate>
-    <description>Increases storage container slots by a bit, not double, just a few extra rows.</description>
+    <title>TTS Vintage Story - ENGLISH Audio</title>
+    <link>https://mods.vintagestory.at/show/mod/ttsvintagestoryen</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ttsvintagestoryen#10587</guid>
+    <pubDate>Tue, 28 Jul 2026 18:48:57 -0000</pubDate>
+    <description>ENGLISH narration audio for TTS Vintage Story. Requires the TTS Vintage Story code mod.</description>
   </item>
   <item>
-    <title>Kobold Taur experimental model</title>
-    <link>https://mods.vintagestory.at/show/mod/koboltaur</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/koboltaur#8216</guid>
-    <pubDate>Tue, 28 Jul 2026 13:00:12 -0000</pubDate>
-    <description>Modified taur version of Kobold model from Kobold Redux mod by Caliber</description>
+    <title>TTS Vintage Story - GERMAN Audio</title>
+    <link>https://mods.vintagestory.at/show/mod/ttsvintagestoryde</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ttsvintagestoryde#10588</guid>
+    <pubDate>Tue, 28 Jul 2026 18:48:28 -0000</pubDate>
+    <description>GERMAN narration audio for TTS Vintage Story. Requires the TTS Vintage Story code mod.</description>
   </item>
   <item>
-    <title>Alt+Tab Spin Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/10581</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10581#10581</guid>
-    <pubDate>Tue, 28 Jul 2026 12:29:53 -0000</pubDate>
-    <description>Fix the physics explosion and delta-time ramp up caused by unfocusing the game.</description>
+    <title>Aché Coat of Arms</title>
+    <link>https://mods.vintagestory.at/show/mod/achecoatofarms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/achecoatofarms#5311</guid>
+    <pubDate>Tue, 28 Jul 2026 18:48:21 -0000</pubDate>
+    <description>Simple Mod Adding my Family's Coat of Arms</description>
   </item>
   <item>
-    <title>Stone Bake Oven</title>
-    <link>https://mods.vintagestory.at/show/mod/stonebakeoven</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stonebakeoven#1163</guid>
-    <pubDate>Tue, 28 Jul 2026 12:08:02 -0000</pubDate>
-    <description>You can create a Stone Bake Oven for all your large baking needs. Now with cooking pot spots!</description>
+    <title>TTS Vintage Story - FRENCH Audio</title>
+    <link>https://mods.vintagestory.at/show/mod/ttsvintagestoryfr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ttsvintagestoryfr#10589</guid>
+    <pubDate>Tue, 28 Jul 2026 18:47:59 -0000</pubDate>
+    <description>FRENCH narration audio for TTS Vintage Story. Requires the TTS Vintage Story code mod.</description>
   </item>
   <item>
-    <title>Notice Board</title>
-    <link>https://mods.vintagestory.at/show/mod/noticeboard</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noticeboard#2498</guid>
-    <pubDate>Tue, 28 Jul 2026 11:51:55 -0000</pubDate>
-    <description>Notice board where you can post and read player notices. Focused on RP aspect.</description>
+    <title>TTS Vintage Story - SPANISH (Spain) Audio</title>
+    <link>https://mods.vintagestory.at/show/mod/ttsvintagestoryeses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ttsvintagestoryeses#10590</guid>
+    <pubDate>Tue, 28 Jul 2026 18:47:26 -0000</pubDate>
+    <description>SPANISH (Spain) narration audio for TTS Vintage Story. Requires the TTS Vintage Story code mod.</description>
   </item>
   <item>
-    <title>Unbind Key</title>
-    <link>https://mods.vintagestory.at/show/mod/10580</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10580#10580</guid>
-    <pubDate>Tue, 28 Jul 2026 10:59:11 -0000</pubDate>
-    <description>Press the Delete key to clear the key bindings</description>
+    <title>TTS Vintage Story - SPANISH (Latin) Audio</title>
+    <link>https://mods.vintagestory.at/show/mod/ttsvintagestoryes419</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ttsvintagestoryes419#10591</guid>
+    <pubDate>Tue, 28 Jul 2026 18:46:47 -0000</pubDate>
+    <description>SPANISH (Latin) narration audio for TTS Vintage Story. Requires the TTS Vintage Story code mod.</description>
   </item>
   <item>
-    <title>Rock Attac - Armor Protec</title>
-    <link>https://mods.vintagestory.at/show/mod/caveinarmor</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caveinarmor#9035</guid>
-    <pubDate>Tue, 28 Jul 2026 10:38:23 -0000</pubDate>
-    <description>Enables vanilla armor to natively mitigate crushing damage from falling blocks.</description>
+    <title>TTS Vintage Story - ITALIAN Audio</title>
+    <link>https://mods.vintagestory.at/show/mod/ttsvintagestoryit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ttsvintagestoryit#10592</guid>
+    <pubDate>Tue, 28 Jul 2026 18:46:12 -0000</pubDate>
+    <description>ITALIAN narration audio for TTS Vintage Story. Requires the TTS Vintage Story code mod.</description>
+  </item>
+  <item>
+    <title>TTS Vintage Story - PORTUGUESE (Bra) Audio</title>
+    <link>https://mods.vintagestory.at/show/mod/ttsvintagestoryptbr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ttsvintagestoryptbr#10593</guid>
+    <pubDate>Tue, 28 Jul 2026 18:45:40 -0000</pubDate>
+    <description>PORTUGUESE (Bra) narration audio for TTS Vintage Story. Requires the TTS Vintage Story code mod.</description>
+  </item>
+  <item>
+    <title>TTS Vintage Story - PORTUGUESE (Por) Audio</title>
+    <link>https://mods.vintagestory.at/show/mod/ttsvintagestoryptpt</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ttsvintagestoryptpt#10594</guid>
+    <pubDate>Tue, 28 Jul 2026 18:45:00 -0000</pubDate>
+    <description>PORTUGUESE (Por) narration audio for TTS Vintage Story. Requires the TTS Vintage Story code mod.</description>
+  </item>
+  <item>
+    <title>TTS Vintage Story - POLISH Audio</title>
+    <link>https://mods.vintagestory.at/show/mod/ttsvintagestorypl</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ttsvintagestorypl#10595</guid>
+    <pubDate>Tue, 28 Jul 2026 18:44:31 -0000</pubDate>
+    <description>POLISH narration audio for TTS Vintage Story. Requires the TTS Vintage Story code mod.</description>
+  </item>
+  <item>
+    <title>Fourteenth Century Armoury</title>
+    <link>https://mods.vintagestory.at/show/mod/additionalvisoredhelmets</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/additionalvisoredhelmets#5343</guid>
+    <pubDate>Tue, 28 Jul 2026 18:44:19 -0000</pubDate>
+    <description>Adds arms and armour from the fourteenth (and early fifteenth) centuries</description>
+  </item>
+  <item>
+    <title>TTS Vintage Story - RUSSIAN Audio</title>
+    <link>https://mods.vintagestory.at/show/mod/ttsvintagestoryru</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ttsvintagestoryru#10596</guid>
+    <pubDate>Tue, 28 Jul 2026 18:44:00 -0000</pubDate>
+    <description>RUSSIAN narration audio for TTS Vintage Story. Requires the TTS Vintage Story code mod.</description>
+  </item>
+  <item>
+    <title>TTS Vintage Story - DUTCH Audio</title>
+    <link>https://mods.vintagestory.at/show/mod/ttsvintagestorynl</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ttsvintagestorynl#10597</guid>
+    <pubDate>Tue, 28 Jul 2026 18:43:12 -0000</pubDate>
+    <description>DUTCH narration audio for TTS Vintage Story. Requires the TTS Vintage Story code mod.</description>
+  </item>
+  <item>
+    <title>TTS Vintage Story - TURKISH Audio</title>
+    <link>https://mods.vintagestory.at/show/mod/ttsvintagestorytr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ttsvintagestorytr#10598</guid>
+    <pubDate>Tue, 28 Jul 2026 18:42:42 -0000</pubDate>
+    <description>TURKISH narration audio for TTS Vintage Story. Requires the TTS Vintage Story code mod.</description>
+  </item>
+  <item>
+    <title>Evergreen Papyrus</title>
+    <link>https://mods.vintagestory.at/show/mod/evergreenpapyrus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evergreenpapyrus#10089</guid>
+    <pubDate>Tue, 28 Jul 2026 18:42:08 -0000</pubDate>
+    <description>Makes papyrus look vibrant green in temperate climates and changes the color depending on the season</description>
+  </item>
+  <item>
+    <title>TTS Vintage Story - HUNGARIAN Audio</title>
+    <link>https://mods.vintagestory.at/show/mod/ttsvintagestoryhu</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ttsvintagestoryhu#10599</guid>
+    <pubDate>Tue, 28 Jul 2026 18:41:58 -0000</pubDate>
+    <description>HUNGARIAN narration audio for TTS Vintage Story. Requires the TTS Vintage Story code mod.</description>
+  </item>
+  <item>
+    <title>TTS Vintage Story - JAPANESE Audio</title>
+    <link>https://mods.vintagestory.at/show/mod/ttsvintagestoryja</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ttsvintagestoryja#10600</guid>
+    <pubDate>Tue, 28 Jul 2026 18:41:08 -0000</pubDate>
+    <description>JAPANESE narration audio for TTS Vintage Story. Requires the TTS Vintage Story code mod.</description>
+  </item>
+  <item>
+    <title>URL Radio (YT)</title>
+    <link>https://mods.vintagestory.at/show/mod/10482</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10482#10482</guid>
+    <pubDate>Tue, 28 Jul 2026 18:40:58 -0000</pubDate>
+    <description>A radio that can play audio from URL links, primarily YouTube links.</description>
+  </item>
+  <item>
+    <title>TTS Vintage Story - KOREAN Audio</title>
+    <link>https://mods.vintagestory.at/show/mod/ttsvintagestoryko</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ttsvintagestoryko#10601</guid>
+    <pubDate>Tue, 28 Jul 2026 18:40:18 -0000</pubDate>
+    <description>KOREAN narration audio for TTS Vintage Story. Requires the TTS Vintage Story code mod.</description>
+  </item>
+  <item>
+    <title>PALSJ's Fancy Faces</title>
+    <link>https://mods.vintagestory.at/show/mod/fancyfaces</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fancyfaces#10362</guid>
+    <pubDate>Tue, 28 Jul 2026 18:34:44 -0000</pubDate>
+    <description>Adds new faces and the ability to select pieces of each face separately.</description>
+  </item>
+  <item>
+    <title>FROG Ballistica Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/10571</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10571#10571</guid>
+    <pubDate>Tue, 28 Jul 2026 18:33:22 -0000</pubDate>
+    <description>Predicts projectile arcs and impact points for bows, spears, crossbows, guns, and more.</description>
+  </item>
+  <item>
+    <title>Denied - fix</title>
+    <link>https://mods.vintagestory.at/show/mod/deniedfix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deniedfix#8611</guid>
+    <pubDate>Tue, 28 Jul 2026 18:33:19 -0000</pubDate>
+    <description>Unofficial Compatibility Update for Denied. Area denial block, gamemode survival only</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Tue, 28 Jul 2026 18:28:03 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>TTS Vintage Story - CHINESE(Sim) Audio</title>
+    <link>https://mods.vintagestory.at/show/mod/ttsvintagestoryzhcn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ttsvintagestoryzhcn#10602</guid>
+    <pubDate>Tue, 28 Jul 2026 18:25:36 -0000</pubDate>
+    <description>CHINESE(Sim) narration audio for TTS Vintage Story. Requires the TTS Vintage Story code mod.</description>
+  </item>
+  <item>
+    <title>Armor Shift Click</title>
+    <link>https://mods.vintagestory.at/show/mod/armorshiftclick</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/armorshiftclick#10477</guid>
+    <pubDate>Tue, 28 Jul 2026 18:24:45 -0000</pubDate>
+    <description>Fixes various inventory quick transfer issues (including armor equiping with shift click)</description>
   </item>
 </channel>
 </rss>
