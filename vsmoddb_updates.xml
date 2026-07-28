@@ -4,7 +4,140 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 28 Jul 2026 07:40:43 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 10:37:41 +0000</lastBuildDate>
+  <item>
+    <title>Rock Attac - Armor Protec</title>
+    <link>https://mods.vintagestory.at/show/mod/caveinarmor</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caveinarmor#9035</guid>
+    <pubDate>Tue, 28 Jul 2026 10:36:55 -0000</pubDate>
+    <description>Enables vanilla armor to natively mitigate crushing damage from falling blocks.</description>
+  </item>
+  <item>
+    <title>Boat Speed Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/boatspeedtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/boatspeedtweaks#9766</guid>
+    <pubDate>Tue, 28 Jul 2026 10:36:06 -0000</pubDate>
+    <description>Multiply Sailboats and Rafts speed by the configured factor, separately (default for both = 2.0)</description>
+  </item>
+  <item>
+    <title>Secure Cooking Pots</title>
+    <link>https://mods.vintagestory.at/show/mod/securecookingpots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/securecookingpots#9942</guid>
+    <pubDate>Tue, 28 Jul 2026 10:35:49 -0000</pubDate>
+    <description>No more lost liquids while cooking. You'll get burnt if you try.</description>
+  </item>
+  <item>
+    <title>Zoom Button Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/zoombuttonpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zoombuttonpatch#10443</guid>
+    <pubDate>Tue, 28 Jul 2026 10:35:32 -0000</pubDate>
+    <description>Hides the player hands and items held while zooming. No more torch in the way!</description>
+  </item>
+  <item>
+    <title>Bricks &amp; Blooms Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks#10399</guid>
+    <pubDate>Tue, 28 Jul 2026 10:19:19 -0000</pubDate>
+    <description>Solves conflicts between various mods for the Bricks and Bloom server.</description>
+  </item>
+  <item>
+    <title>Spaturno and Trini's Secure Shelter</title>
+    <link>https://mods.vintagestory.at/show/mod/9692</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9692#9692</guid>
+    <pubDate>Tue, 28 Jul 2026 10:17:41 -0000</pubDate>
+    <description>Shared extradimensional cottage inspired from D&amp;D spell Leomund's Secure Shelter.</description>
+  </item>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
+    <pubDate>Tue, 28 Jul 2026 10:04:00 -0000</pubDate>
+    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
+  </item>
+  <item>
+    <title>Downed</title>
+    <link>https://mods.vintagestory.at/show/mod/downed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
+    <pubDate>Tue, 28 Jul 2026 09:59:03 -0000</pubDate>
+    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
+  </item>
+  <item>
+    <title>Smaller jugs handling</title>
+    <link>https://mods.vintagestory.at/show/mod/10579</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10579#10579</guid>
+    <pubDate>Tue, 28 Jul 2026 09:56:42 -0000</pubDate>
+    <description>Transfers 0.25L of liquid when moving portions using a jug. The vanilla size is 0.3L.</description>
+  </item>
+  <item>
+    <title>UI-Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/uitweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/uitweaks#7926</guid>
+    <pubDate>Tue, 28 Jul 2026 09:54:47 -0000</pubDate>
+    <description>Zoom Button, configurable HUD, in-game calculator, and more...</description>
+  </item>
+  <item>
+    <title>Larger jugs handling</title>
+    <link>https://mods.vintagestory.at/show/mod/largejugs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/largejugs#10578</guid>
+    <pubDate>Tue, 28 Jul 2026 09:54:26 -0000</pubDate>
+    <description>Transfers 0.5L of liquid when moving portions using a jug. The vanilla size is 0.3L.</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Chinese Dynasties</title>
+    <link>https://mods.vintagestory.at/show/mod/5062</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5062#5062</guid>
+    <pubDate>Tue, 28 Jul 2026 09:26:56 -0000</pubDate>
+    <description>Mod adding multiple iron+ Scale armor variations in the style of Chinese Dynasties</description>
+  </item>
+  <item>
+    <title>NDL ExpandedGrowth (Tree Growth Module)</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthtrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthtrees#5697</guid>
+    <pubDate>Tue, 28 Jul 2026 09:18:11 -0000</pubDate>
+    <description>Adds a method for growing larger variants of trees.</description>
+  </item>
+  <item>
+    <title>The Hunter</title>
+    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
+    <pubDate>Tue, 28 Jul 2026 09:15:37 -0000</pubDate>
+    <description>Track prey, follow blood, carry carcasses, compost dung, and have smarter wolves.</description>
+  </item>
+  <item>
+    <title>The Gravestones Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/gravestones</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gravestones#10300</guid>
+    <pubDate>Tue, 28 Jul 2026 08:49:12 -0000</pubDate>
+    <description>Adds a gravestone which stores the players inventory upon death and can be retrieved by them later.</description>
+  </item>
+  <item>
+    <title>Science Core</title>
+    <link>https://mods.vintagestory.at/show/mod/sciencecore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sciencecore#8580</guid>
+    <pubDate>Tue, 28 Jul 2026 08:47:20 -0000</pubDate>
+    <description>Мод для разработчиков, добавляющий древа исследований, блокирующий/разблокирующий крафты</description>
+  </item>
+  <item>
+    <title>Ding Dong!</title>
+    <link>https://mods.vintagestory.at/show/mod/dingdong</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dingdong#7784</guid>
+    <pubDate>Tue, 28 Jul 2026 08:47:05 -0000</pubDate>
+    <description>Интерактивные колокола</description>
+  </item>
+  <item>
+    <title>Make Tea Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/maketeaforked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/maketeaforked#4758</guid>
+    <pubDate>Tue, 28 Jul 2026 08:19:58 -0000</pubDate>
+    <description>Make clay teapots and mugs, brew tea and drink it.</description>
+  </item>
+  <item>
+    <title>Solaria's Sauce</title>
+    <link>https://mods.vintagestory.at/show/mod/10480</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10480#10480</guid>
+    <pubDate>Tue, 28 Jul 2026 08:09:31 -0000</pubDate>
+    <description>Foliage theme pack</description>
+  </item>
   <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/9635</link>
@@ -20,13 +153,6 @@
     <description>LauncherGo 双端模组限制服务，在连接握手阶段使被限制的客户端模组不加载。</description>
   </item>
   <item>
-    <title>Bricks and Blooms Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks#10399</guid>
-    <pubDate>Tue, 28 Jul 2026 07:11:37 -0000</pubDate>
-    <description>Solves conflicts between various mods for the Bricks and Bloom server.</description>
-  </item>
-  <item>
     <title>Ritual Apotheosis</title>
     <link>https://mods.vintagestory.at/show/mod/8215</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8215#8215</guid>
@@ -38,14 +164,7 @@
     <link>https://mods.vintagestory.at/show/mod/10576</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10576#10576</guid>
     <pubDate>Tue, 28 Jul 2026 06:37:20 -0000</pubDate>
-    <description>Secure Shelter mod but fixed lighting issues and player crashes</description>
-  </item>
-  <item>
-    <title>The Hunter</title>
-    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
-    <pubDate>Tue, 28 Jul 2026 06:32:13 -0000</pubDate>
-    <description>Adds animal tracking clues, bleeding, droppings, wounded movement, and carcass carrying.</description>
+    <description>VR server fix</description>
   </item>
   <item>
     <title>Better Pyrolysis</title>
@@ -67,13 +186,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
     <pubDate>Tue, 28 Jul 2026 05:48:12 -0000</pubDate>
     <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
-    <pubDate>Tue, 28 Jul 2026 05:27:49 -0000</pubDate>
-    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
   </item>
   <item>
     <title>Steel is Steel</title>
@@ -102,118 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/racespecificclasses#10573</guid>
     <pubDate>Tue, 28 Jul 2026 03:26:55 -0000</pubDate>
     <description>Restricts which of The Working Classes' classes are available for each race in Racial Equality</description>
-  </item>
-  <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Tue, 28 Jul 2026 03:10:27 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
-    <title>MrPixel101</title>
-    <link>https://mods.vintagestory.at/show/mod/10505</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10505#10505</guid>
-    <pubDate>Tue, 28 Jul 2026 03:09:02 -0000</pubDate>
-    <description>Replaces the Sun &amp; Moon Texture</description>
-  </item>
-  <item>
-    <title>IndustrialStory</title>
-    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
-    <pubDate>Tue, 28 Jul 2026 02:45:49 -0000</pubDate>
-    <description>Overhauls metalworking, chemistry, and glassworking. </description>
-  </item>
-  <item>
-    <title>LoFS Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/lofsclass</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lofsclass#10241</guid>
-    <pubDate>Tue, 28 Jul 2026 02:34:17 -0000</pubDate>
-    <description>Working Classes reimagined for the Lands of the Fallen Stars RP Event! Image Unrelated</description>
-  </item>
-  <item>
-    <title>The Working Classes - Whetstone Bug-Fix Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/theworkingclasseswspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/theworkingclasseswspatch#10474</guid>
-    <pubDate>Tue, 28 Jul 2026 02:30:24 -0000</pubDate>
-    <description>A focused compatibility and bug-fix fork of The Working Classes for Vintage Story</description>
-  </item>
-  <item>
-    <title>KeyLock</title>
-    <link>https://mods.vintagestory.at/show/mod/3904</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3904#3904</guid>
-    <pubDate>Tue, 28 Jul 2026 02:17:19 -0000</pubDate>
-    <description> Hands-Free Navigation (aka autowalk/row)</description>
-  </item>
-  <item>
-    <title>Glassview</title>
-    <link>https://mods.vintagestory.at/show/mod/6165</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6165#6165</guid>
-    <pubDate>Tue, 28 Jul 2026 02:09:11 -0000</pubDate>
-    <description>Makes glass more visible when chiseling by rendering a highlight overlay</description>
-  </item>
-  <item>
-    <title>unchisel</title>
-    <link>https://mods.vintagestory.at/show/mod/unchisel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/unchisel#3747</guid>
-    <pubDate>Tue, 28 Jul 2026 02:01:03 -0000</pubDate>
-    <description>Reverts all chiseling and materials via in-world mechanics</description>
-  </item>
-  <item>
-    <title>VSReborn Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10289</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10289#10289</guid>
-    <pubDate>Tue, 28 Jul 2026 01:59:31 -0000</pubDate>
-    <description>mega patch</description>
-  </item>
-  <item>
-    <title>FROG Ballistica Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/10571</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10571#10571</guid>
-    <pubDate>Tue, 28 Jul 2026 01:49:35 -0000</pubDate>
-    <description>Predicts projectile arcs and impact points for bows, spears, crossbows, guns, and more.</description>
-  </item>
-  <item>
-    <title>Olla</title>
-    <link>https://mods.vintagestory.at/show/mod/olla</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/olla#5784</guid>
-    <pubDate>Tue, 28 Jul 2026 01:49:27 -0000</pubDate>
-    <description> Bring ancient irrigation technology to Vintage Story! This mod adds ollas (pronounced "oy-yahs")</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/10555</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
-    <pubDate>Tue, 28 Jul 2026 01:48:45 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>Loot Goblins Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/lootgoblinsbackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lootgoblinsbackpacks#7803</guid>
-    <pubDate>Tue, 28 Jul 2026 01:12:37 -0000</pubDate>
-    <description>This mod enhances Backpacks size in a reasonable amount to encourage using all types of Backpacks.</description>
-  </item>
-  <item>
-    <title>URL Radio (YT)</title>
-    <link>https://mods.vintagestory.at/show/mod/10482</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10482#10482</guid>
-    <pubDate>Tue, 28 Jul 2026 01:07:33 -0000</pubDate>
-    <description>A radio that can play audio from URL links, primarily YouTube links.</description>
-  </item>
-  <item>
-    <title>Loot Goblins BIG Chests</title>
-    <link>https://mods.vintagestory.at/show/mod/lootgoblinsbigchests</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lootgoblinsbigchests#10183</guid>
-    <pubDate>Tue, 28 Jul 2026 00:48:47 -0000</pubDate>
-    <description>Increases storage container slots by a bit, not double, just a few extra rows.</description>
-  </item>
-  <item>
-    <title>Dead</title>
-    <link>https://mods.vintagestory.at/show/mod/dead</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
-    <pubDate>Mon, 27 Jul 2026 23:20:03 -0000</pubDate>
-    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
   </item>
 </channel>
 </rss>
