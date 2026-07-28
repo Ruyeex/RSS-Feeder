@@ -4,7 +4,98 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 28 Jul 2026 04:12:42 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 07:40:43 +0000</lastBuildDate>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Tue, 28 Jul 2026 07:26:44 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>LauncherGo Restriction</title>
+    <link>https://mods.vintagestory.at/show/mod/launchergorestriction</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergorestriction#10577</guid>
+    <pubDate>Tue, 28 Jul 2026 07:14:58 -0000</pubDate>
+    <description>LauncherGo 双端模组限制服务，在连接握手阶段使被限制的客户端模组不加载。</description>
+  </item>
+  <item>
+    <title>Bricks and Blooms Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks#10399</guid>
+    <pubDate>Tue, 28 Jul 2026 07:11:37 -0000</pubDate>
+    <description>Solves conflicts between various mods for the Bricks and Bloom server.</description>
+  </item>
+  <item>
+    <title>Ritual Apotheosis</title>
+    <link>https://mods.vintagestory.at/show/mod/8215</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8215#8215</guid>
+    <pubDate>Tue, 28 Jul 2026 06:39:34 -0000</pubDate>
+    <description>Build ancient rites from fragments. The world is your altar. Dig deep. Seek truth. Light the fires.</description>
+  </item>
+  <item>
+    <title>Secure Shelter Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/10576</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10576#10576</guid>
+    <pubDate>Tue, 28 Jul 2026 06:37:20 -0000</pubDate>
+    <description>Secure Shelter mod but fixed lighting issues and player crashes</description>
+  </item>
+  <item>
+    <title>The Hunter</title>
+    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
+    <pubDate>Tue, 28 Jul 2026 06:32:13 -0000</pubDate>
+    <description>Adds animal tracking clues, bleeding, droppings, wounded movement, and carcass carrying.</description>
+  </item>
+  <item>
+    <title>Better Pyrolysis</title>
+    <link>https://mods.vintagestory.at/show/mod/10228</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10228#10228</guid>
+    <pubDate>Tue, 28 Jul 2026 06:15:14 -0000</pubDate>
+    <description>Adds several new features regarding pyrolyzing different fuels. </description>
+  </item>
+  <item>
+    <title>GlobalSRVCore</title>
+    <link>https://mods.vintagestory.at/show/mod/globalsrvcore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/globalsrvcore#6670</guid>
+    <pubDate>Tue, 28 Jul 2026 05:53:49 -0000</pubDate>
+    <description>A collection of modified and altered mods for the GlobalSRV project server.</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/10453</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
+    <pubDate>Tue, 28 Jul 2026 05:48:12 -0000</pubDate>
+    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
+    <pubDate>Tue, 28 Jul 2026 05:27:49 -0000</pubDate>
+    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
+  </item>
+  <item>
+    <title>Steel is Steel</title>
+    <link>https://mods.vintagestory.at/show/mod/steelissteel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/steelissteel#10575</guid>
+    <pubDate>Tue, 28 Jul 2026 05:03:36 -0000</pubDate>
+    <description>Changes the 1.22 CO Fork's resistances to match so you can use whatever weapon you want.</description>
+  </item>
+  <item>
+    <title>kris-patch-materialneeds</title>
+    <link>https://mods.vintagestory.at/show/mod/krispatchmaterialneeds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krispatchmaterialneeds#10489</guid>
+    <pubDate>Tue, 28 Jul 2026 04:59:26 -0000</pubDate>
+    <description>A small content-only fix that brings back Aged Wood and Very Aged Wood after the Material Needs 2.0.</description>
+  </item>
+  <item>
+    <title>Waterfall: SomeLiquidSourceTransport</title>
+    <link>https://mods.vintagestory.at/show/mod/waterfall</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waterfall#3845</guid>
+    <pubDate>Tue, 28 Jul 2026 04:43:31 -0000</pubDate>
+    <description>Water must be manually spread from naturally generated liquid bodies.</description>
+  </item>
   <item>
     <title>Race-Specific Classes</title>
     <link>https://mods.vintagestory.at/show/mod/racespecificclasses</link>
@@ -25,13 +116,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10505#10505</guid>
     <pubDate>Tue, 28 Jul 2026 03:09:02 -0000</pubDate>
     <description>Replaces the Sun &amp; Moon Texture</description>
-  </item>
-  <item>
-    <title>Bricks and Blooms Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks#10399</guid>
-    <pubDate>Tue, 28 Jul 2026 02:46:06 -0000</pubDate>
-    <description>Solves conflicts between various mods for the Bricks and Bloom server.</description>
   </item>
   <item>
     <title>IndustrialStory</title>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
     <pubDate>Mon, 27 Jul 2026 23:20:03 -0000</pubDate>
     <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Mon, 27 Jul 2026 23:16:22 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Mechanical View</title>
-    <link>https://mods.vintagestory.at/show/mod/mechanicalview</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mechanicalview#10570</guid>
-    <pubDate>Mon, 27 Jul 2026 23:14:38 -0000</pubDate>
-    <description>Shows mechanical power info (SU, speed, capacity) in the block tooltip when you look at a mechanical</description>
-  </item>
-  <item>
-    <title>Terra Loom</title>
-    <link>https://mods.vintagestory.at/show/mod/10546</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10546#10546</guid>
-    <pubDate>Mon, 27 Jul 2026 23:01:30 -0000</pubDate>
-    <description>Replaces vanilla terrain/climate generation with a self-contained, embedded AI diffusion model.</description>
-  </item>
-  <item>
-    <title>Custom Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10378</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
-    <pubDate>Mon, 27 Jul 2026 22:56:21 -0000</pubDate>
-    <description>A collection of tweaks for our private server.</description>
-  </item>
-  <item>
-    <title>Katana mod Quenching Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/katanaquenchingpatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/katanaquenchingpatch#9641</guid>
-    <pubDate>Mon, 27 Jul 2026 22:47:38 -0000</pubDate>
-    <description>This mod add the new 1.22 forge mecanique to the Katana</description>
-  </item>
-  <item>
-    <title>TraderTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10569</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
-    <pubDate>Mon, 27 Jul 2026 22:39:19 -0000</pubDate>
-    <description>Allow to manage traders</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Mon, 27 Jul 2026 22:38:24 -0000</pubDate>
-    <description>Proximity voice chat with lightweight OpenAL audio for Vintage Story.</description>
-  </item>
-  <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Mon, 27 Jul 2026 22:36:05 -0000</pubDate>
-    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
-  </item>
-  <item>
-    <title>Strata: Infinite diffusion worldgen</title>
-    <link>https://mods.vintagestory.at/show/mod/strata</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/strata#10398</guid>
-    <pubDate>Mon, 27 Jul 2026 22:21:15 -0000</pubDate>
-    <description>early preview: infinite diffusion terrain and climate.</description>
-  </item>
-  <item>
-    <title>Packrat</title>
-    <link>https://mods.vintagestory.at/show/mod/6138</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6138#6138</guid>
-    <pubDate>Mon, 27 Jul 2026 22:08:13 -0000</pubDate>
-    <description>Unified Storage Browser showing the contents of all chests and crates within reach</description>
-  </item>
-  <item>
-    <title>Coconut Elk Hoof Sounds</title>
-    <link>https://mods.vintagestory.at/show/mod/6128</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6128#6128</guid>
-    <pubDate>Mon, 27 Jul 2026 21:41:04 -0000</pubDate>
-    <description>Changes the trot and gallop sound effects for home recorded coconut ones</description>
-  </item>
-  <item>
-    <title>Alternate Elk Hoof Sounds</title>
-    <link>https://mods.vintagestory.at/show/mod/5691</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5691#5691</guid>
-    <pubDate>Mon, 27 Jul 2026 21:40:43 -0000</pubDate>
-    <description>Changes the trot and gallop sound effects for sharper ones</description>
   </item>
 </channel>
 </rss>
