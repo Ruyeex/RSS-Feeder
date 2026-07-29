@@ -4,7 +4,105 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 29 Jul 2026 14:15:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 16:23:46 +0000</lastBuildDate>
+  <item>
+    <title>Rickety Translocation Class Requirement</title>
+    <link>https://mods.vintagestory.at/show/mod/10626</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10626#10626</guid>
+    <pubDate>Wed, 29 Jul 2026 16:04:51 -0000</pubDate>
+    <description>tweak for my server. gives clockmakers more of a purpose by making some recipes clockmaker exclusive</description>
+  </item>
+  <item>
+    <title>Land Claim and Group GUI - Russian</title>
+    <link>https://mods.vintagestory.at/show/mod/claimguiru</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claimguiru#10621</guid>
+    <pubDate>Wed, 29 Jul 2026 15:52:13 -0000</pubDate>
+    <description>  Неофициальная русская локализация мода Land Claim and Group GUI 1.1.0.</description>
+  </item>
+  <item>
+    <title>VSA - Replica</title>
+    <link>https://mods.vintagestory.at/show/mod/9115</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
+    <pubDate>Wed, 29 Jul 2026 15:51:11 -0000</pubDate>
+    <description>Build block-made moving ships and structures</description>
+  </item>
+  <item>
+    <title>Boat Speed Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/boatspeedtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/boatspeedtweaks#9766</guid>
+    <pubDate>Wed, 29 Jul 2026 15:22:39 -0000</pubDate>
+    <description>Multiply Sailboats and Rafts speed by the configured factor, separately (default for both = 2.0)</description>
+  </item>
+  <item>
+    <title>Restart Timer</title>
+    <link>https://mods.vintagestory.at/show/mod/restarttimer</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/restarttimer#7160</guid>
+    <pubDate>Wed, 29 Jul 2026 15:19:47 -0000</pubDate>
+    <description>Announces restart times and automatically stops the server after 4 hours of uptime.</description>
+  </item>
+  <item>
+    <title>Picturion</title>
+    <link>https://mods.vintagestory.at/show/mod/picturion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/picturion#10608</guid>
+    <pubDate>Wed, 29 Jul 2026 15:08:41 -0000</pubDate>
+    <description>Allows you to add custom images/paintings into your world with nice customizable frames</description>
+  </item>
+  <item>
+    <title>Tailored Society</title>
+    <link>https://mods.vintagestory.at/show/mod/tailoredsociety</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tailoredsociety#10610</guid>
+    <pubDate>Wed, 29 Jul 2026 15:05:29 -0000</pubDate>
+    <description>Adds some people npc's into the game</description>
+  </item>
+  <item>
+    <title>Vintage Screens</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagescreens</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagescreens#10616</guid>
+    <pubDate>Wed, 29 Jul 2026 15:05:00 -0000</pubDate>
+    <description>Simple fancy TV's with working video players</description>
+  </item>
+  <item>
+    <title>Bushmeat In Stew</title>
+    <link>https://mods.vintagestory.at/show/mod/bushmeatstew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bushmeatstew#5210</guid>
+    <pubDate>Wed, 29 Jul 2026 14:49:46 -0000</pubDate>
+    <description>Simple mod that allows you to put bushmeats in stews and soups</description>
+  </item>
+  <item>
+    <title>Bone Broth</title>
+    <link>https://mods.vintagestory.at/show/mod/bonebroth</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bonebroth#5084</guid>
+    <pubDate>Wed, 29 Jul 2026 14:49:25 -0000</pubDate>
+    <description>Adds broths that can be added to soups for extra satiety</description>
+  </item>
+  <item>
+    <title>Pemmican and Tofu</title>
+    <link>https://mods.vintagestory.at/show/mod/pemmicantofu</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pemmicantofu#5404</guid>
+    <pubDate>Wed, 29 Jul 2026 14:44:00 -0000</pubDate>
+    <description>Adds pemmican, soymilk and tofu, can be used in meals.</description>
+  </item>
+  <item>
+    <title>AnanLa's Quenching Guarantee</title>
+    <link>https://mods.vintagestory.at/show/mod/ananlaquenchingguarantee</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ananlaquenchingguarantee#10625</guid>
+    <pubDate>Wed, 29 Jul 2026 14:41:26 -0000</pubDate>
+    <description>为 Vintage Story 的金属淬火增加多模式保底系统，降低反复锻造的精神损耗。 A multi-mode pity system for metal quenching in Vintage.</description>
+  </item>
+  <item>
+    <title>TSearch</title>
+    <link>https://mods.vintagestory.at/show/mod/tsearch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tsearch#10450</guid>
+    <pubDate>Wed, 29 Jul 2026 14:33:10 -0000</pubDate>
+    <description>Press T on any item in your inventory or handbook to highlight nearby containers holding it.</description>
+  </item>
+  <item>
+    <title>VS Instruments Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/10555</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
+    <pubDate>Wed, 29 Jul 2026 14:32:00 -0000</pubDate>
+    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
+  </item>
   <item>
     <title>RKN Generic Crafting</title>
     <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
@@ -104,13 +202,6 @@
     <description>RPG-style skill system with abilities, perks, and progression.</description>
   </item>
   <item>
-    <title>Boat Speed Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/boatspeedtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/boatspeedtweaks#9766</guid>
-    <pubDate>Wed, 29 Jul 2026 10:19:29 -0000</pubDate>
-    <description>Multiply Sailboats and Rafts speed by the configured factor, separately (default for both = 2.0)</description>
-  </item>
-  <item>
     <title>VRmaptweak</title>
     <link>https://mods.vintagestory.at/show/mod/10622</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10622#10622</guid>
@@ -118,102 +209,11 @@
     <description>deathmarkers for frontier map</description>
   </item>
   <item>
-    <title>Land Claim and Group GUI - Russian</title>
-    <link>https://mods.vintagestory.at/show/mod/claimguiru</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claimguiru#10621</guid>
-    <pubDate>Wed, 29 Jul 2026 09:04:22 -0000</pubDate>
-    <description>  Неофициальная русская локализация мода Land Claim and Group GUI 1.1.0.</description>
-  </item>
-  <item>
     <title>SheyderMod</title>
     <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
     <pubDate>Wed, 29 Jul 2026 08:55:14 -0000</pubDate>
     <description>A simple SheyderMod that supports the original artstyle of the game.</description>
-  </item>
-  <item>
-    <title>Akira's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/akiratweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/akiratweaks#10138</guid>
-    <pubDate>Wed, 29 Jul 2026 08:35:51 -0000</pubDate>
-    <description>Collection of patches for a personal server.</description>
-  </item>
-  <item>
-    <title>Antique Harmony | Music Additions / Alternative Soundtrack</title>
-    <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiqueharmony#7141</guid>
-    <pubDate>Wed, 29 Jul 2026 07:23:14 -0000</pubDate>
-    <description>Adds to/replaces soundtrack with original orchestral one, written for the game.</description>
-  </item>
-  <item>
-    <title>FuelRework</title>
-    <link>https://mods.vintagestory.at/show/mod/10428</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10428#10428</guid>
-    <pubDate>Wed, 29 Jul 2026 06:57:38 -0000</pubDate>
-    <description>Increases the burn time of most fuels.</description>
-  </item>
-  <item>
-    <title>Racial Equality Height Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/racialequalityheightpatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/racialequalityheightpatch#10620</guid>
-    <pubDate>Wed, 29 Jul 2026 06:56:55 -0000</pubDate>
-    <description>Simple patch to the Racial Equality mod that allows a wider range of height options.</description>
-  </item>
-  <item>
-    <title>Bushmeat Recipe</title>
-    <link>https://mods.vintagestory.at/show/mod/3736</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3736#3736</guid>
-    <pubDate>Wed, 29 Jul 2026 06:56:39 -0000</pubDate>
-    <description>Adds bushmeat (raw and salted) to meals.</description>
-  </item>
-  <item>
-    <title>Magnetic Crown</title>
-    <link>https://mods.vintagestory.at/show/mod/10582</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10582#10582</guid>
-    <pubDate>Wed, 29 Jul 2026 06:56:19 -0000</pubDate>
-    <description>Crown that attracts all nearby items</description>
-  </item>
-  <item>
-    <title>Alloy Calculator by Stuzzichino</title>
-    <link>https://mods.vintagestory.at/show/mod/alloycalc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alloycalc#9149</guid>
-    <pubDate>Wed, 29 Jul 2026 06:48:02 -0000</pubDate>
-    <description>Client-side alloy and fuel calculator for metallurgy and modded ingot configurations.</description>
-  </item>
-  <item>
-    <title>Self-Recording Thermometer</title>
-    <link>https://mods.vintagestory.at/show/mod/airthermomod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/airthermomod#2859</guid>
-    <pubDate>Wed, 29 Jul 2026 06:42:35 -0000</pubDate>
-    <description>Adds a self-recording thermometer</description>
-  </item>
-  <item>
-    <title>Egg Pie (Quiche)</title>
-    <link>https://mods.vintagestory.at/show/mod/eggpiemod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eggpiemod#2882</guid>
-    <pubDate>Wed, 29 Jul 2026 06:42:24 -0000</pubDate>
-    <description>Allows eggs in pies</description>
-  </item>
-  <item>
-    <title>Alarm Timer</title>
-    <link>https://mods.vintagestory.at/show/mod/alarmtimermod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alarmtimermod#2951</guid>
-    <pubDate>Wed, 29 Jul 2026 06:42:07 -0000</pubDate>
-    <description>Adds a simple alarm timer command `.tm` (No server install needed)</description>
-  </item>
-  <item>
-    <title>No Screenshot Message</title>
-    <link>https://mods.vintagestory.at/show/mod/noscreenshotmessagemod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noscreenshotmessagemod#2953</guid>
-    <pubDate>Wed, 29 Jul 2026 06:37:30 -0000</pubDate>
-    <description>Disables "Screenshot ***.png taken." chat message (No server install needed)</description>
-  </item>
-  <item>
-    <title>Simple Blobcat</title>
-    <link>https://mods.vintagestory.at/show/mod/blobcatmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blobcatmod#3174</guid>
-    <pubDate>Wed, 29 Jul 2026 06:37:15 -0000</pubDate>
-    <description>Adds a simple companion blobcat</description>
   </item>
 </channel>
 </rss>
