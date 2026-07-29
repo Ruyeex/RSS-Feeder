@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 29 Jul 2026 08:44:45 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 11:27:41 +0000</lastBuildDate>
+  <item>
+    <title>xSkills Gilded Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/5529</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5529#5529</guid>
+    <pubDate>Wed, 29 Jul 2026 10:50:34 -0000</pubDate>
+    <description>This mod adds a beautifully designed, immersive, and user-friendly interface for xSkills. </description>
+  </item>
+  <item>
+    <title>xLib Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7618</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7618#7618</guid>
+    <pubDate>Wed, 29 Jul 2026 10:48:20 -0000</pubDate>
+    <description>XLib provides an interface to add skills, abilities and effects to the game.</description>
+  </item>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Wed, 29 Jul 2026 10:47:52 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
+  <item>
+    <title>Boat Speed Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/boatspeedtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/boatspeedtweaks#9766</guid>
+    <pubDate>Wed, 29 Jul 2026 10:19:29 -0000</pubDate>
+    <description>Multiply Sailboats and Rafts speed by the configured factor, separately (default for both = 2.0)</description>
+  </item>
+  <item>
+    <title>VRmaptweak</title>
+    <link>https://mods.vintagestory.at/show/mod/10622</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10622#10622</guid>
+    <pubDate>Wed, 29 Jul 2026 09:05:32 -0000</pubDate>
+    <description>deathmarkers for frontier map</description>
+  </item>
+  <item>
+    <title>SheyderMod</title>
+    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
+    <pubDate>Wed, 29 Jul 2026 08:55:14 -0000</pubDate>
+    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
+  </item>
   <item>
     <title>Akira's Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/akiratweaks</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
     <pubDate>Wed, 29 Jul 2026 05:48:06 -0000</pubDate>
     <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>frontier cartography patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10619</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10619#10619</guid>
-    <pubDate>Wed, 29 Jul 2026 05:20:28 -0000</pubDate>
-    <description>this mod removes redundancy between craftable cartography and frontiers map sextant/map items</description>
-  </item>
-  <item>
-    <title>Display Container Versatility</title>
-    <link>https://mods.vintagestory.at/show/mod/scrollrackable</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scrollrackable#3999</guid>
-    <pubDate>Wed, 29 Jul 2026 04:50:56 -0000</pubDate>
-    <description>Allows more items to be displayed on storage blocks.</description>
-  </item>
-  <item>
-    <title>The Almanac: Trades, Callings &amp; Mastery</title>
-    <link>https://mods.vintagestory.at/show/mod/10453</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
-    <pubDate>Wed, 29 Jul 2026 04:42:31 -0000</pubDate>
-    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>Scribe: Notes &amp; Tasks</title>
-    <link>https://mods.vintagestory.at/show/mod/scribe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scribe#10607</guid>
-    <pubDate>Wed, 29 Jul 2026 04:39:22 -0000</pubDate>
-    <description>Take notes and track tasks in-world. Pin tasks to a persistent HUD. Multiplayer-ready.</description>
-  </item>
-  <item>
-    <title>Wider Settings UI</title>
-    <link>https://mods.vintagestory.at/show/mod/widersettingsui</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/widersettingsui#10618</guid>
-    <pubDate>Wed, 29 Jul 2026 04:21:14 -0000</pubDate>
-    <description>Fixes the in-game settings window background being narrower than its controls</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/10555</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
-    <pubDate>Wed, 29 Jul 2026 04:19:32 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
   </item>
 </channel>
 </rss>
