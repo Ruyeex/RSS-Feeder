@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 29 Jul 2026 20:13:35 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 22:02:56 +0000</lastBuildDate>
+  <item>
+    <title>Panning Machine</title>
+    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
+    <pubDate>Wed, 29 Jul 2026 21:58:27 -0000</pubDate>
+    <description>Simple machine for panning</description>
+  </item>
+  <item>
+    <title>Gatbata's Sawians</title>
+    <link>https://mods.vintagestory.at/show/mod/customplayermodelsaw</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customplayermodelsaw#10351</guid>
+    <pubDate>Wed, 29 Jul 2026 21:58:13 -0000</pubDate>
+    <description>Adds some of the Sawians from Gunsaw and Casualties: Unknown (expies and the like)</description>
+  </item>
+  <item>
+    <title>insectoids CO patch</title>
+    <link>https://mods.vintagestory.at/show/mod/insectoidcocompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/insectoidcocompat#10280</guid>
+    <pubDate>Wed, 29 Jul 2026 21:53:09 -0000</pubDate>
+    <description>make bug swing spear</description>
+  </item>
+  <item>
+    <title>Comms Talisman</title>
+    <link>https://mods.vintagestory.at/show/mod/jadecommtalisman</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jadecommtalisman#10264</guid>
+    <pubDate>Wed, 29 Jul 2026 21:52:38 -0000</pubDate>
+    <description>Item-based global VOIP. </description>
+  </item>
+  <item>
+    <title>Vampirism</title>
+    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
+    <pubDate>Wed, 29 Jul 2026 21:52:03 -0000</pubDate>
+    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
+  </item>
+  <item>
+    <title>Storage Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/storagetweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/storagetweaks#7807</guid>
+    <pubDate>Wed, 29 Jul 2026 21:46:11 -0000</pubDate>
+    <description>Adds compact/sort and quick-unload buttons to chests and inventory.</description>
+  </item>
+  <item>
+    <title>SLAnimLib</title>
+    <link>https://mods.vintagestory.at/show/mod/shangrilaanimationslib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shangrilaanimationslib#10636</guid>
+    <pubDate>Wed, 29 Jul 2026 21:40:54 -0000</pubDate>
+    <description>animashun</description>
+  </item>
+  <item>
+    <title>Burdened: Immersive Carrying</title>
+    <link>https://mods.vintagestory.at/show/mod/burdened</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/burdened#10391</guid>
+    <pubDate>Wed, 29 Jul 2026 21:37:39 -0000</pubDate>
+    <description>A weightier carrying experience: customizable slots, immersive slot mgmt, server-enforced, and more.</description>
+  </item>
+  <item>
+    <title>SLCombatOverhaul</title>
+    <link>https://mods.vintagestory.at/show/mod/combatoverhaulforkedshangrila</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/combatoverhaulforkedshangrila#10635</guid>
+    <pubDate>Wed, 29 Jul 2026 21:30:52 -0000</pubDate>
+    <description>server fork </description>
+  </item>
+  <item>
+    <title>VS Instruments Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/10555</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
+    <pubDate>Wed, 29 Jul 2026 21:17:51 -0000</pubDate>
+    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
+  </item>
+  <item>
+    <title>Jelly Bundle</title>
+    <link>https://mods.vintagestory.at/show/mod/10059</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10059#10059</guid>
+    <pubDate>Wed, 29 Jul 2026 21:04:36 -0000</pubDate>
+    <description>A compilation of tweaks for the Swamp Jelly server.</description>
+  </item>
   <item>
     <title>TassHunting</title>
     <link>https://mods.vintagestory.at/show/mod/tasshunting</link>
@@ -90,13 +167,6 @@
     <description>A standalone party system</description>
   </item>
   <item>
-    <title>Panning Machine</title>
-    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
-    <pubDate>Wed, 29 Jul 2026 18:53:12 -0000</pubDate>
-    <description>Simple machine for panning</description>
-  </item>
-  <item>
     <title>Body Fat by Tasshroom</title>
     <link>https://mods.vintagestory.at/show/mod/tasshroombodyfat</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshroombodyfat#4475</guid>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10632#10632</guid>
     <pubDate>Wed, 29 Jul 2026 17:42:32 -0000</pubDate>
     <description>Adds a recipe for the sewing kit that doesn't require a tailor</description>
-  </item>
-  <item>
-    <title>PrecisePickedUp</title>
-    <link>https://mods.vintagestory.at/show/mod/precisepickedup</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/precisepickedup#2569</guid>
-    <pubDate>Wed, 29 Jul 2026 17:39:52 -0000</pubDate>
-    <description>Allow right-click to pick up drops and projectile, display drop information and merge drops.</description>
-  </item>
-  <item>
-    <title>ReModel</title>
-    <link>https://mods.vintagestory.at/show/mod/remodel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/remodel#10337</guid>
-    <pubDate>Wed, 29 Jul 2026 17:28:33 -0000</pubDate>
-    <description>Allows running .charsel to only swap the player model without changing class</description>
-  </item>
-  <item>
-    <title>Its A Scythe V2</title>
-    <link>https://mods.vintagestory.at/show/mod/10630</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10630#10630</guid>
-    <pubDate>Wed, 29 Jul 2026 17:25:24 -0000</pubDate>
-    <description>higher quality scythes can cut flowers, mushrooms, ferns and leaves</description>
-  </item>
-  <item>
-    <title>The Almanac: Trades, Callings &amp; Mastery</title>
-    <link>https://mods.vintagestory.at/show/mod/10453</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
-    <pubDate>Wed, 29 Jul 2026 16:40:12 -0000</pubDate>
-    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>Rickety Translocation Class Requirement</title>
-    <link>https://mods.vintagestory.at/show/mod/10626</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10626#10626</guid>
-    <pubDate>Wed, 29 Jul 2026 16:04:51 -0000</pubDate>
-    <description>tweak for my server. gives clockmakers more of a purpose by making some recipes clockmaker exclusive</description>
-  </item>
-  <item>
-    <title>VSA - Replica</title>
-    <link>https://mods.vintagestory.at/show/mod/9115</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
-    <pubDate>Wed, 29 Jul 2026 15:51:11 -0000</pubDate>
-    <description>Build block-made moving ships and structures</description>
-  </item>
-  <item>
-    <title>Boat Speed Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/boatspeedtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/boatspeedtweaks#9766</guid>
-    <pubDate>Wed, 29 Jul 2026 15:22:39 -0000</pubDate>
-    <description>Multiply Sailboats and Rafts speed by the configured factor, separately (default for both = 2.0)</description>
-  </item>
-  <item>
-    <title>Restart Timer</title>
-    <link>https://mods.vintagestory.at/show/mod/restarttimer</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/restarttimer#7160</guid>
-    <pubDate>Wed, 29 Jul 2026 15:19:47 -0000</pubDate>
-    <description>Announces restart times and automatically stops the server after 4 hours of uptime.</description>
-  </item>
-  <item>
-    <title>Picturion</title>
-    <link>https://mods.vintagestory.at/show/mod/picturion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/picturion#10608</guid>
-    <pubDate>Wed, 29 Jul 2026 15:08:41 -0000</pubDate>
-    <description>Allows you to add custom images/paintings into your world with nice customizable frames</description>
-  </item>
-  <item>
-    <title>Tailored Society</title>
-    <link>https://mods.vintagestory.at/show/mod/tailoredsociety</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tailoredsociety#10610</guid>
-    <pubDate>Wed, 29 Jul 2026 15:05:29 -0000</pubDate>
-    <description>Adds some people npc's into the game</description>
   </item>
 </channel>
 </rss>
