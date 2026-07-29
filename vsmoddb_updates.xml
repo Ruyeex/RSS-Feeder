@@ -4,7 +4,168 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 29 Jul 2026 05:54:58 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 08:44:45 +0000</lastBuildDate>
+  <item>
+    <title>Akira's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/akiratweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/akiratweaks#10138</guid>
+    <pubDate>Wed, 29 Jul 2026 08:35:51 -0000</pubDate>
+    <description>Collection of patches for a personal server.</description>
+  </item>
+  <item>
+    <title>Antique Harmony | Music Additions / Alternative Soundtrack</title>
+    <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiqueharmony#7141</guid>
+    <pubDate>Wed, 29 Jul 2026 07:23:14 -0000</pubDate>
+    <description>Adds to/replaces soundtrack with original orchestral one, written for the game.</description>
+  </item>
+  <item>
+    <title>FuelRework</title>
+    <link>https://mods.vintagestory.at/show/mod/10428</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10428#10428</guid>
+    <pubDate>Wed, 29 Jul 2026 06:57:38 -0000</pubDate>
+    <description>Increases the burn time of most fuels.</description>
+  </item>
+  <item>
+    <title>Racial Equality Height Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/racialequalityheightpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/racialequalityheightpatch#10620</guid>
+    <pubDate>Wed, 29 Jul 2026 06:56:55 -0000</pubDate>
+    <description>Simple patch to the Racial Equality mod that allows a wider range of height options.</description>
+  </item>
+  <item>
+    <title>Bushmeat Recipe</title>
+    <link>https://mods.vintagestory.at/show/mod/3736</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3736#3736</guid>
+    <pubDate>Wed, 29 Jul 2026 06:56:39 -0000</pubDate>
+    <description>Adds bushmeat (raw and salted) to meals.</description>
+  </item>
+  <item>
+    <title>Magnetic Crown</title>
+    <link>https://mods.vintagestory.at/show/mod/10582</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10582#10582</guid>
+    <pubDate>Wed, 29 Jul 2026 06:56:19 -0000</pubDate>
+    <description>Crown that attracts all nearby items</description>
+  </item>
+  <item>
+    <title>Alloy Calculator by Stuzzichino</title>
+    <link>https://mods.vintagestory.at/show/mod/alloycalc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alloycalc#9149</guid>
+    <pubDate>Wed, 29 Jul 2026 06:48:02 -0000</pubDate>
+    <description>Client-side alloy and fuel calculator for metallurgy and modded ingot configurations.</description>
+  </item>
+  <item>
+    <title>Self-Recording Thermometer</title>
+    <link>https://mods.vintagestory.at/show/mod/airthermomod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/airthermomod#2859</guid>
+    <pubDate>Wed, 29 Jul 2026 06:42:35 -0000</pubDate>
+    <description>Adds a self-recording thermometer</description>
+  </item>
+  <item>
+    <title>Egg Pie (Quiche)</title>
+    <link>https://mods.vintagestory.at/show/mod/eggpiemod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eggpiemod#2882</guid>
+    <pubDate>Wed, 29 Jul 2026 06:42:24 -0000</pubDate>
+    <description>Allows eggs in pies</description>
+  </item>
+  <item>
+    <title>Alarm Timer</title>
+    <link>https://mods.vintagestory.at/show/mod/alarmtimermod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alarmtimermod#2951</guid>
+    <pubDate>Wed, 29 Jul 2026 06:42:07 -0000</pubDate>
+    <description>Adds a simple alarm timer command `.tm` (No server install needed)</description>
+  </item>
+  <item>
+    <title>No Screenshot Message</title>
+    <link>https://mods.vintagestory.at/show/mod/noscreenshotmessagemod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noscreenshotmessagemod#2953</guid>
+    <pubDate>Wed, 29 Jul 2026 06:37:30 -0000</pubDate>
+    <description>Disables "Screenshot ***.png taken." chat message (No server install needed)</description>
+  </item>
+  <item>
+    <title>Simple Blobcat</title>
+    <link>https://mods.vintagestory.at/show/mod/blobcatmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blobcatmod#3174</guid>
+    <pubDate>Wed, 29 Jul 2026 06:37:15 -0000</pubDate>
+    <description>Adds a simple companion blobcat</description>
+  </item>
+  <item>
+    <title>Fix English Font (Windows only)</title>
+    <link>https://mods.vintagestory.at/show/mod/fixenfont</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fixenfont#3329</guid>
+    <pubDate>Wed, 29 Jul 2026 06:36:39 -0000</pubDate>
+    <description>Playing VS in English but the text looks awkward? This mod fixes that! (No server install needed)</description>
+  </item>
+  <item>
+    <title>Antler Util</title>
+    <link>https://mods.vintagestory.at/show/mod/antlerutilmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antlerutilmod#6250</guid>
+    <pubDate>Wed, 29 Jul 2026 06:34:54 -0000</pubDate>
+    <description>Helps you collecting antlers (also would work as a workaround for the "phantom" shed antlers issue)</description>
+  </item>
+  <item>
+    <title>Command Block Client Extension</title>
+    <link>https://mods.vintagestory.at/show/mod/commandblockclientextmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/commandblockclientextmod#6764</guid>
+    <pubDate>Wed, 29 Jul 2026 06:34:39 -0000</pubDate>
+    <description>Enables client commands in the Command Blocks (+ some utilities!)</description>
+  </item>
+  <item>
+    <title>Wood Mushrooms in Planters</title>
+    <link>https://mods.vintagestory.at/show/mod/woodmushroomsinplantersmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woodmushroomsinplantersmod#7787</guid>
+    <pubDate>Wed, 29 Jul 2026 06:33:33 -0000</pubDate>
+    <description>Lets you place wood-growing mushrooms in planters/flowerpots</description>
+  </item>
+  <item>
+    <title>No Music Interruption</title>
+    <link>https://mods.vintagestory.at/show/mod/nomusicinterruptionmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nomusicinterruptionmod#8156</guid>
+    <pubDate>Wed, 29 Jul 2026 06:33:22 -0000</pubDate>
+    <description>Prevents surface music interruption caused by rifts and caves (No server install needed)</description>
+  </item>
+  <item>
+    <title>One Strike Prospecting</title>
+    <link>https://mods.vintagestory.at/show/mod/onestrikeprospectingmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/onestrikeprospectingmod#8497</guid>
+    <pubDate>Wed, 29 Jul 2026 06:33:13 -0000</pubDate>
+    <description>Reduces prospecting sample requirement from 3 to 1</description>
+  </item>
+  <item>
+    <title>Beam Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/beamtweaksmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/beamtweaksmod#7561</guid>
+    <pubDate>Wed, 29 Jul 2026 06:33:02 -0000</pubDate>
+    <description>Allows beam ends to overlap reliably (+ some fixes)</description>
+  </item>
+  <item>
+    <title>Trader Phone (Beta)</title>
+    <link>https://mods.vintagestory.at/show/mod/remotetradercheckmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/remotetradercheckmod#3223</guid>
+    <pubDate>Wed, 29 Jul 2026 06:31:54 -0000</pubDate>
+    <description>Let's make a call to traders and check their stocks!</description>
+  </item>
+  <item>
+    <title>Scoop of Jam</title>
+    <link>https://mods.vintagestory.at/show/mod/scoopofjammod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scoopofjammod#6164</guid>
+    <pubDate>Wed, 29 Jul 2026 06:31:42 -0000</pubDate>
+    <description>Scoop jam with a spoon to make jam sandwiches and jam pies!</description>
+  </item>
+  <item>
+    <title>More Bolts</title>
+    <link>https://mods.vintagestory.at/show/mod/morebolts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebolts#10526</guid>
+    <pubDate>Wed, 29 Jul 2026 06:12:00 -0000</pubDate>
+    <description>Add more bolts for Combat Overhaul</description>
+  </item>
+  <item>
+    <title>Bricks &amp; Blooms Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks#10399</guid>
+    <pubDate>Wed, 29 Jul 2026 06:01:31 -0000</pubDate>
+    <description>Solves conflicts between various mods for the Bricks and Bloom server.</description>
+  </item>
   <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/9635</link>
@@ -53,167 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
     <pubDate>Wed, 29 Jul 2026 04:19:32 -0000</pubDate>
     <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>Terra Loom</title>
-    <link>https://mods.vintagestory.at/show/mod/10546</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10546#10546</guid>
-    <pubDate>Wed, 29 Jul 2026 04:07:33 -0000</pubDate>
-    <description>Replaces vanilla terrain/climate generation with a self-contained, embedded AI diffusion model.</description>
-  </item>
-  <item>
-    <title>The Hunter</title>
-    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
-    <pubDate>Wed, 29 Jul 2026 03:58:33 -0000</pubDate>
-    <description>Track prey, follow blood, carry carcasses, compost dung, and have smarter wolves.</description>
-  </item>
-  <item>
-    <title>Wingworks</title>
-    <link>https://mods.vintagestory.at/show/mod/wingworks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wingworks#9998</guid>
-    <pubDate>Wed, 29 Jul 2026 03:55:34 -0000</pubDate>
-    <description>A mod which add flight capabilities for players with specific traits.</description>
-  </item>
-  <item>
-    <title>Its A Scythe</title>
-    <link>https://mods.vintagestory.at/show/mod/10617</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10617#10617</guid>
-    <pubDate>Wed, 29 Jul 2026 03:33:05 -0000</pubDate>
-    <description>allows you to use the scythe on flowers, ferns, mushrooms, and leaves</description>
-  </item>
-  <item>
-    <title>Ritual Apotheosis</title>
-    <link>https://mods.vintagestory.at/show/mod/8215</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8215#8215</guid>
-    <pubDate>Wed, 29 Jul 2026 03:19:13 -0000</pubDate>
-    <description>Build ancient rites from fragments. The world is your altar. Dig deep. Seek truth. Light the fires.</description>
-  </item>
-  <item>
-    <title>IndustrialStory</title>
-    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
-    <pubDate>Wed, 29 Jul 2026 03:14:17 -0000</pubDate>
-    <description>Overhauls metalworking, chemistry, and glassworking. </description>
-  </item>
-  <item>
-    <title>Minimap Waypoint List</title>
-    <link>https://mods.vintagestory.at/show/mod/mwl</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mwl#10558</guid>
-    <pubDate>Wed, 29 Jul 2026 03:09:49 -0000</pubDate>
-    <description>Displays a list of waypoints within the current minimap</description>
-  </item>
-  <item>
-    <title>Animalica - Compatibility pack 2: (FotSA)</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicafotsa</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicafotsa#10561</guid>
-    <pubDate>Wed, 29 Jul 2026 02:37:51 -0000</pubDate>
-    <description>Adds clothing-capable playable models for six Fauna of the Stone Age modules</description>
-  </item>
-  <item>
-    <title>Animalica - Compatibility Pack 3 (Dinosaurs)</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicadinos</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicadinos#10562</guid>
-    <pubDate>Wed, 29 Jul 2026 02:37:28 -0000</pubDate>
-    <description>Adds clothing-capable playable dinosaurs and marine reptiles from Legacy of the Phanerozoic modules</description>
-  </item>
-  <item>
-    <title>Animalica Core</title>
-    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
-    <pubDate>Wed, 29 Jul 2026 02:36:46 -0000</pubDate>
-    <description>Core mod for playable animals. Does nothing on it's own</description>
-  </item>
-  <item>
-    <title>Rust Girls - Player Model</title>
-    <link>https://mods.vintagestory.at/show/mod/10116</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10116#10116</guid>
-    <pubDate>Wed, 29 Jul 2026 02:10:12 -0000</pubDate>
-    <description>BE the waifu!</description>
-  </item>
-  <item>
-    <title>Antique Harmony | Music Additions / Alternative Soundtrack</title>
-    <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiqueharmony#7141</guid>
-    <pubDate>Wed, 29 Jul 2026 02:07:53 -0000</pubDate>
-    <description>Adds to/replaces soundtrack with original orchestral one, written for the game.</description>
-  </item>
-  <item>
-    <title>Zenith: Assimilation</title>
-    <link>https://mods.vintagestory.at/show/mod/7485</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7485#7485</guid>
-    <pubDate>Wed, 29 Jul 2026 01:54:01 -0000</pubDate>
-    <description>Forge your path to Apotheosis. Consume Creatures, take their traits and become the ultimate lifeform</description>
-  </item>
-  <item>
-    <title>Animalica - Compatibility pack 1</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicac</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicac#9798</guid>
-    <pubDate>Wed, 29 Jul 2026 01:43:46 -0000</pubDate>
-    <description>Adds a small list of modded animals as players!</description>
-  </item>
-  <item>
-    <title>Vintage Screens</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagescreens</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagescreens#10616</guid>
-    <pubDate>Wed, 29 Jul 2026 01:38:59 -0000</pubDate>
-    <description>Simple fancy TV's with working video players</description>
-  </item>
-  <item>
-    <title>Tailored Society</title>
-    <link>https://mods.vintagestory.at/show/mod/tailoredsociety</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tailoredsociety#10610</guid>
-    <pubDate>Wed, 29 Jul 2026 01:38:07 -0000</pubDate>
-    <description>Adds some people npc's into the game</description>
-  </item>
-  <item>
-    <title>Picturion</title>
-    <link>https://mods.vintagestory.at/show/mod/picturion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/picturion#10608</guid>
-    <pubDate>Wed, 29 Jul 2026 01:35:44 -0000</pubDate>
-    <description>Allows you to add custom images/paintings into your world with nice customizable frames</description>
-  </item>
-  <item>
-    <title>Salty´s One Hand</title>
-    <link>https://mods.vintagestory.at/show/mod/onehand</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/onehand#7349</guid>
-    <pubDate>Wed, 29 Jul 2026 01:15:20 -0000</pubDate>
-    <description>Removes all but one hotbar slots + back pack slots. BUT now everything can go offhand.</description>
-  </item>
-  <item>
-    <title>Alt+Tab Spin Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/10581</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10581#10581</guid>
-    <pubDate>Wed, 29 Jul 2026 00:59:09 -0000</pubDate>
-    <description>Fix the physics explosion and delta-time ramp up caused by unfocusing the game.</description>
-  </item>
-  <item>
-    <title>Vintage Achievements</title>
-    <link>https://mods.vintagestory.at/show/mod/10615</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10615#10615</guid>
-    <pubDate>Wed, 29 Jul 2026 00:52:58 -0000</pubDate>
-    <description>Достижения игрока (Achievements)</description>
-  </item>
-  <item>
-    <title>WOO³</title>
-    <link>https://mods.vintagestory.at/show/mod/8477</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8477#8477</guid>
-    <pubDate>Wed, 29 Jul 2026 00:46:35 -0000</pubDate>
-    <description>A modpack that contains custom content and server tweaks for the Whispers of Oldwood season 3.</description>
-  </item>
-  <item>
-    <title>Bow Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/bowpatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bowpatch#10613</guid>
-    <pubDate>Wed, 29 Jul 2026 00:40:30 -0000</pubDate>
-    <description>Hides offhand item while aiming.</description>
-  </item>
-  <item>
-    <title>Bleeding In Depth</title>
-    <link>https://mods.vintagestory.at/show/mod/bleedingindepth</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bleedingindepth#6668</guid>
-    <pubDate>Wed, 29 Jul 2026 00:21:42 -0000</pubDate>
-    <description>Adds depthful bleeding as a mechanic. Bleeding, blood trails, configurable. Combat Overhaul compat.</description>
   </item>
 </channel>
 </rss>
