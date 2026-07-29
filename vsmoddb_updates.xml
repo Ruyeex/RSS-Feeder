@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 29 Jul 2026 16:23:46 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 18:08:51 +0000</lastBuildDate>
+  <item>
+    <title>Galeret Traits Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/10565</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10565#10565</guid>
+    <pubDate>Wed, 29 Jul 2026 17:49:34 -0000</pubDate>
+    <description>A simple mod to add Trais to my Galeret race Mod</description>
+  </item>
+  <item>
+    <title>OurStoryTranslater</title>
+    <link>https://mods.vintagestory.at/show/mod/ourstorytranslater</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ourstorytranslater#10631</guid>
+    <pubDate>Wed, 29 Jul 2026 17:47:23 -0000</pubDate>
+    <description>Automatic server-side RU↔EN chat translation — no client mod or player setup.</description>
+  </item>
+  <item>
+    <title>Tailorless Sewing Kit</title>
+    <link>https://mods.vintagestory.at/show/mod/10632</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10632#10632</guid>
+    <pubDate>Wed, 29 Jul 2026 17:42:32 -0000</pubDate>
+    <description>Adds a recipe for the sewing kit that doesn't require a tailor</description>
+  </item>
+  <item>
+    <title>PrecisePickedUp</title>
+    <link>https://mods.vintagestory.at/show/mod/precisepickedup</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/precisepickedup#2569</guid>
+    <pubDate>Wed, 29 Jul 2026 17:39:52 -0000</pubDate>
+    <description>Allow right-click to pick up drops and projectile, display drop information and merge drops.</description>
+  </item>
+  <item>
+    <title>Ghaelen's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9740</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
+    <pubDate>Wed, 29 Jul 2026 17:34:58 -0000</pubDate>
+    <description>My personal tweaks I like to play with.</description>
+  </item>
+  <item>
+    <title>ReModel</title>
+    <link>https://mods.vintagestory.at/show/mod/remodel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/remodel#10337</guid>
+    <pubDate>Wed, 29 Jul 2026 17:28:33 -0000</pubDate>
+    <description>Allows running .charsel to only swap the player model without changing class</description>
+  </item>
+  <item>
+    <title>Its A Scythe V2</title>
+    <link>https://mods.vintagestory.at/show/mod/10630</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10630#10630</guid>
+    <pubDate>Wed, 29 Jul 2026 17:25:24 -0000</pubDate>
+    <description>higher quality scythes can cut flowers, mushrooms, ferns and leaves</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/10453</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
+    <pubDate>Wed, 29 Jul 2026 16:40:12 -0000</pubDate>
+    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
   <item>
     <title>Rickety Translocation Class Requirement</title>
     <link>https://mods.vintagestory.at/show/mod/10626</link>
@@ -139,6 +195,13 @@
     <description>Continuation of jakecool19's' Useful Stuff.</description>
   </item>
   <item>
+    <title>Culinary RU — ACA &amp; Expanded Foods</title>
+    <link>https://mods.vintagestory.at/show/mod/culinaryru</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/culinaryru#10624</guid>
+    <pubDate>Wed, 29 Jul 2026 13:42:41 -0000</pubDate>
+    <description> Complete Russian localization for A Culinary Artillery and Expanded Foods 2.0.</description>
+  </item>
+  <item>
     <title>StepFixElk</title>
     <link>https://mods.vintagestory.at/show/mod/stepfixelk</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stepfixelk#2856</guid>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10348#10348</guid>
     <pubDate>Wed, 29 Jul 2026 13:12:42 -0000</pubDate>
     <description>An in-game mod manager that's suitable even for remote servers without terminal/FTP access.</description>
-  </item>
-  <item>
-    <title>Advanced Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/advancedchat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedchat#10095</guid>
-    <pubDate>Wed, 29 Jul 2026 12:48:57 -0000</pubDate>
-    <description>A fully customizable, movable, resizable chat overlay for Vintage Story. Take control of your chat w</description>
-  </item>
-  <item>
-    <title>Extreme Weathers [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/10098</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
-    <pubDate>Wed, 29 Jul 2026 12:44:18 -0000</pubDate>
-    <description>Introduces new extreme weather events. Blizzards, sandstorms, tornadoes, hurricanes and more!</description>
-  </item>
-  <item>
-    <title>World Map Master Reforged</title>
-    <link>https://mods.vintagestory.at/show/mod/worldmapmasterreforged</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/worldmapmasterreforged#7583</guid>
-    <pubDate>Wed, 29 Jul 2026 11:59:21 -0000</pubDate>
-    <description>waypoint list with filtering, sorting and usefull hotkeys for quickly adding/removing waypoints</description>
-  </item>
-  <item>
-    <title>Ghaelen's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9740</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
-    <pubDate>Wed, 29 Jul 2026 11:29:56 -0000</pubDate>
-    <description>My personal tweaks I like to play with.</description>
-  </item>
-  <item>
-    <title>xSkills Gilded Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/5529</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5529#5529</guid>
-    <pubDate>Wed, 29 Jul 2026 10:50:34 -0000</pubDate>
-    <description>This mod adds a beautifully designed, immersive, and user-friendly interface for xSkills. </description>
-  </item>
-  <item>
-    <title>xLib Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7618</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7618#7618</guid>
-    <pubDate>Wed, 29 Jul 2026 10:48:20 -0000</pubDate>
-    <description>XLib provides an interface to add skills, abilities and effects to the game.</description>
-  </item>
-  <item>
-    <title>xSkills Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7605</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
-    <pubDate>Wed, 29 Jul 2026 10:47:52 -0000</pubDate>
-    <description>RPG-style skill system with abilities, perks, and progression.</description>
-  </item>
-  <item>
-    <title>VRmaptweak</title>
-    <link>https://mods.vintagestory.at/show/mod/10622</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10622#10622</guid>
-    <pubDate>Wed, 29 Jul 2026 09:05:32 -0000</pubDate>
-    <description>deathmarkers for frontier map</description>
-  </item>
-  <item>
-    <title>SheyderMod</title>
-    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
-    <pubDate>Wed, 29 Jul 2026 08:55:14 -0000</pubDate>
-    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
   </item>
 </channel>
 </rss>
