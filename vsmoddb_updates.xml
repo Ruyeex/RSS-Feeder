@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 29 Jul 2026 11:27:41 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 14:15:22 +0000</lastBuildDate>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
+    <pubDate>Wed, 29 Jul 2026 14:14:39 -0000</pubDate>
+    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
+  </item>
+  <item>
+    <title>Warmer elks</title>
+    <link>https://mods.vintagestory.at/show/mod/5748</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5748#5748</guid>
+    <pubDate>Wed, 29 Jul 2026 14:12:38 -0000</pubDate>
+    <description>Increases possible areas for elk spawning</description>
+  </item>
+  <item>
+    <title>More Honey</title>
+    <link>https://mods.vintagestory.at/show/mod/morehoney</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morehoney#4777</guid>
+    <pubDate>Wed, 29 Jul 2026 14:12:25 -0000</pubDate>
+    <description>Skeps drop more honeycombs (variable amount), and more honey is obtained when squeezing honeycomb.</description>
+  </item>
+  <item>
+    <title>Ez Wolfs &amp; Bears</title>
+    <link>https://mods.vintagestory.at/show/mod/ezwolfsandbears</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ezwolfsandbears#3506</guid>
+    <pubDate>Wed, 29 Jul 2026 14:12:12 -0000</pubDate>
+    <description>Reduces wolfs, bears and hyenas spawn </description>
+  </item>
+  <item>
+    <title>Still Useful Stuff</title>
+    <link>https://mods.vintagestory.at/show/mod/854</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/854#854</guid>
+    <pubDate>Wed, 29 Jul 2026 14:10:28 -0000</pubDate>
+    <description>Continuation of jakecool19's' Useful Stuff.</description>
+  </item>
+  <item>
+    <title>StepFixElk</title>
+    <link>https://mods.vintagestory.at/show/mod/stepfixelk</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stepfixelk#2856</guid>
+    <pubDate>Wed, 29 Jul 2026 13:23:47 -0000</pubDate>
+    <description>The elk climbs the block higher faster, thereby losing less speed while running and also losing HP</description>
+  </item>
+  <item>
+    <title>The Ultimate Mod Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/10348</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10348#10348</guid>
+    <pubDate>Wed, 29 Jul 2026 13:12:42 -0000</pubDate>
+    <description>An in-game mod manager that's suitable even for remote servers without terminal/FTP access.</description>
+  </item>
+  <item>
+    <title>Advanced Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/advancedchat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedchat#10095</guid>
+    <pubDate>Wed, 29 Jul 2026 12:48:57 -0000</pubDate>
+    <description>A fully customizable, movable, resizable chat overlay for Vintage Story. Take control of your chat w</description>
+  </item>
+  <item>
+    <title>Extreme Weathers [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/10098</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
+    <pubDate>Wed, 29 Jul 2026 12:44:18 -0000</pubDate>
+    <description>Introduces new extreme weather events. Blizzards, sandstorms, tornadoes, hurricanes and more!</description>
+  </item>
+  <item>
+    <title>World Map Master Reforged</title>
+    <link>https://mods.vintagestory.at/show/mod/worldmapmasterreforged</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/worldmapmasterreforged#7583</guid>
+    <pubDate>Wed, 29 Jul 2026 11:59:21 -0000</pubDate>
+    <description>waypoint list with filtering, sorting and usefull hotkeys for quickly adding/removing waypoints</description>
+  </item>
+  <item>
+    <title>Ghaelen's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9740</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
+    <pubDate>Wed, 29 Jul 2026 11:29:56 -0000</pubDate>
+    <description>My personal tweaks I like to play with.</description>
+  </item>
   <item>
     <title>xSkills Gilded Fork</title>
     <link>https://mods.vintagestory.at/show/mod/5529</link>
@@ -39,6 +116,13 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10622#10622</guid>
     <pubDate>Wed, 29 Jul 2026 09:05:32 -0000</pubDate>
     <description>deathmarkers for frontier map</description>
+  </item>
+  <item>
+    <title>Land Claim and Group GUI - Russian</title>
+    <link>https://mods.vintagestory.at/show/mod/claimguiru</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claimguiru#10621</guid>
+    <pubDate>Wed, 29 Jul 2026 09:04:22 -0000</pubDate>
+    <description>  Неофициальная русская локализация мода Land Claim and Group GUI 1.1.0.</description>
   </item>
   <item>
     <title>SheyderMod</title>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blobcatmod#3174</guid>
     <pubDate>Wed, 29 Jul 2026 06:37:15 -0000</pubDate>
     <description>Adds a simple companion blobcat</description>
-  </item>
-  <item>
-    <title>Fix English Font (Windows only)</title>
-    <link>https://mods.vintagestory.at/show/mod/fixenfont</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fixenfont#3329</guid>
-    <pubDate>Wed, 29 Jul 2026 06:36:39 -0000</pubDate>
-    <description>Playing VS in English but the text looks awkward? This mod fixes that! (No server install needed)</description>
-  </item>
-  <item>
-    <title>Antler Util</title>
-    <link>https://mods.vintagestory.at/show/mod/antlerutilmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antlerutilmod#6250</guid>
-    <pubDate>Wed, 29 Jul 2026 06:34:54 -0000</pubDate>
-    <description>Helps you collecting antlers (also would work as a workaround for the "phantom" shed antlers issue)</description>
-  </item>
-  <item>
-    <title>Command Block Client Extension</title>
-    <link>https://mods.vintagestory.at/show/mod/commandblockclientextmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/commandblockclientextmod#6764</guid>
-    <pubDate>Wed, 29 Jul 2026 06:34:39 -0000</pubDate>
-    <description>Enables client commands in the Command Blocks (+ some utilities!)</description>
-  </item>
-  <item>
-    <title>Wood Mushrooms in Planters</title>
-    <link>https://mods.vintagestory.at/show/mod/woodmushroomsinplantersmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woodmushroomsinplantersmod#7787</guid>
-    <pubDate>Wed, 29 Jul 2026 06:33:33 -0000</pubDate>
-    <description>Lets you place wood-growing mushrooms in planters/flowerpots</description>
-  </item>
-  <item>
-    <title>No Music Interruption</title>
-    <link>https://mods.vintagestory.at/show/mod/nomusicinterruptionmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nomusicinterruptionmod#8156</guid>
-    <pubDate>Wed, 29 Jul 2026 06:33:22 -0000</pubDate>
-    <description>Prevents surface music interruption caused by rifts and caves (No server install needed)</description>
-  </item>
-  <item>
-    <title>One Strike Prospecting</title>
-    <link>https://mods.vintagestory.at/show/mod/onestrikeprospectingmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/onestrikeprospectingmod#8497</guid>
-    <pubDate>Wed, 29 Jul 2026 06:33:13 -0000</pubDate>
-    <description>Reduces prospecting sample requirement from 3 to 1</description>
-  </item>
-  <item>
-    <title>Beam Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/beamtweaksmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/beamtweaksmod#7561</guid>
-    <pubDate>Wed, 29 Jul 2026 06:33:02 -0000</pubDate>
-    <description>Allows beam ends to overlap reliably (+ some fixes)</description>
-  </item>
-  <item>
-    <title>Trader Phone (Beta)</title>
-    <link>https://mods.vintagestory.at/show/mod/remotetradercheckmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/remotetradercheckmod#3223</guid>
-    <pubDate>Wed, 29 Jul 2026 06:31:54 -0000</pubDate>
-    <description>Let's make a call to traders and check their stocks!</description>
-  </item>
-  <item>
-    <title>Scoop of Jam</title>
-    <link>https://mods.vintagestory.at/show/mod/scoopofjammod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scoopofjammod#6164</guid>
-    <pubDate>Wed, 29 Jul 2026 06:31:42 -0000</pubDate>
-    <description>Scoop jam with a spoon to make jam sandwiches and jam pies!</description>
-  </item>
-  <item>
-    <title>More Bolts</title>
-    <link>https://mods.vintagestory.at/show/mod/morebolts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebolts#10526</guid>
-    <pubDate>Wed, 29 Jul 2026 06:12:00 -0000</pubDate>
-    <description>Add more bolts for Combat Overhaul</description>
-  </item>
-  <item>
-    <title>Bricks &amp; Blooms Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricksandbloomservertweaks#10399</guid>
-    <pubDate>Wed, 29 Jul 2026 06:01:31 -0000</pubDate>
-    <description>Solves conflicts between various mods for the Bricks and Bloom server.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Wed, 29 Jul 2026 05:48:06 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
   </item>
 </channel>
 </rss>
