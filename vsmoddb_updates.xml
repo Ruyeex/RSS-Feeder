@@ -4,7 +4,119 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 30 Jul 2026 15:12:22 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 17:37:29 +0000</lastBuildDate>
+  <item>
+    <title>Zoom Button Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/zoombuttonpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zoombuttonpatch#10443</guid>
+    <pubDate>Thu, 30 Jul 2026 17:37:05 -0000</pubDate>
+    <description>Hides the player hands and items held while zooming. No more torch in the way!</description>
+  </item>
+  <item>
+    <title>VR_LAF</title>
+    <link>https://mods.vintagestory.at/show/mod/10653</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10653#10653</guid>
+    <pubDate>Thu, 30 Jul 2026 17:35:49 -0000</pubDate>
+    <description>tweak</description>
+  </item>
+  <item>
+    <title>AnanLa's Quenching Prediction</title>
+    <link>https://mods.vintagestory.at/show/mod/ananlaquenchingprediction</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ananlaquenchingprediction#10658</guid>
+    <pubDate>Thu, 30 Jul 2026 17:31:00 -0000</pubDate>
+    <description>一个 Vintage Story 模组，在淬火即将碎裂时发出预警，减少反复烧铁搓工具的精神损耗。A Vintage Story mod that warns you when an item is a</description>
+  </item>
+  <item>
+    <title>Floral Zones: Caribbean Region</title>
+    <link>https://mods.vintagestory.at/show/mod/floralzonescaribbeanregion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescaribbeanregion#1666</guid>
+    <pubDate>Thu, 30 Jul 2026 17:25:29 -0000</pubDate>
+    <description>Adds plants from the Caribbean Region to the game.</description>
+  </item>
+  <item>
+    <title>Floral Zones: Cape Region</title>
+    <link>https://mods.vintagestory.at/show/mod/floralzonescaperegion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescaperegion#1570</guid>
+    <pubDate>Thu, 30 Jul 2026 17:23:51 -0000</pubDate>
+    <description>Adds plants from the Cape Region to the game.</description>
+  </item>
+  <item>
+    <title>Tandem Waterwheel Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/tandemwaterwheelfix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tandemwaterwheelfix#10668</guid>
+    <pubDate>Thu, 30 Jul 2026 16:44:50 -0000</pubDate>
+    <description>Fixes tandem small water wheels reversing their connected shafts and mechanical-power network</description>
+  </item>
+  <item>
+    <title>Disable Nadiya Haircut</title>
+    <link>https://mods.vintagestory.at/show/mod/10667</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10667#10667</guid>
+    <pubDate>Thu, 30 Jul 2026 16:28:20 -0000</pubDate>
+    <description>Removes Tad's haircut dialogue option to prevent crashes with custom player models</description>
+  </item>
+  <item>
+    <title>Land Of Estrellas</title>
+    <link>https://mods.vintagestory.at/show/mod/loe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/loe#10629</guid>
+    <pubDate>Thu, 30 Jul 2026 16:26:06 -0000</pubDate>
+    <description>The offical modpack of The Land of Estrellas server </description>
+  </item>
+  <item>
+    <title>URL Radio (YT)</title>
+    <link>https://mods.vintagestory.at/show/mod/10482</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10482#10482</guid>
+    <pubDate>Thu, 30 Jul 2026 16:04:13 -0000</pubDate>
+    <description>A radio that can play audio from URL links, primarily YouTube links.</description>
+  </item>
+  <item>
+    <title>Furio's Telescope</title>
+    <link>https://mods.vintagestory.at/show/mod/telescopemod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/telescopemod#10648</guid>
+    <pubDate>Thu, 30 Jul 2026 16:00:41 -0000</pubDate>
+    <description>(ALPHA) Telescope mod in development</description>
+  </item>
+  <item>
+    <title>VSA_API</title>
+    <link>https://mods.vintagestory.at/show/mod/9139</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9139#9139</guid>
+    <pubDate>Thu, 30 Jul 2026 15:39:41 -0000</pubDate>
+    <description>VSA API</description>
+  </item>
+  <item>
+    <title>Smart Barrel</title>
+    <link>https://mods.vintagestory.at/show/mod/10584</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10584#10584</guid>
+    <pubDate>Thu, 30 Jul 2026 15:28:47 -0000</pubDate>
+    <description>Shift-clicking an ingredient into a barrel transfers only the amount needed.</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/10453</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
+    <pubDate>Thu, 30 Jul 2026 15:23:23 -0000</pubDate>
+    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>The Almanac: Illuminated</title>
+    <link>https://mods.vintagestory.at/show/mod/10454</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10454#10454</guid>
+    <pubDate>Thu, 30 Jul 2026 15:22:06 -0000</pubDate>
+    <description>A living questbook opened with Alt+J. Chapters appear only for the mods you have loaded.</description>
+  </item>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Thu, 30 Jul 2026 15:18:37 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
+  <item>
+    <title>The Quire Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/10455</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
+    <pubDate>Thu, 30 Jul 2026 15:17:18 -0000</pubDate>
+    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
+  </item>
   <item>
     <title>CB Guilds</title>
     <link>https://mods.vintagestory.at/show/mod/9586</link>
@@ -13,17 +125,10 @@
     <description>Guild mod for my personal server</description>
   </item>
   <item>
-    <title>AnanLa's Quenching Prediction</title>
-    <link>https://mods.vintagestory.at/show/mod/ananlaquenchingprediction</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ananlaquenchingprediction#10658</guid>
-    <pubDate>Thu, 30 Jul 2026 14:58:12 -0000</pubDate>
-    <description>一个 Vintage Story 模组，在淬火即将碎裂时发出预警，减少反复烧铁搓工具的精神损耗。A Vintage Story mod that warns you when an item is a</description>
-  </item>
-  <item>
-    <title>VR_LAF</title>
-    <link>https://mods.vintagestory.at/show/mod/10653</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10653#10653</guid>
-    <pubDate>Thu, 30 Jul 2026 14:55:49 -0000</pubDate>
+    <title>VRconquestcomp</title>
+    <link>https://mods.vintagestory.at/show/mod/10665</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10665#10665</guid>
+    <pubDate>Thu, 30 Jul 2026 14:58:44 -0000</pubDate>
     <description>tweak</description>
   </item>
   <item>
@@ -109,111 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10417#10417</guid>
     <pubDate>Thu, 30 Jul 2026 12:54:37 -0000</pubDate>
     <description>Adds a Two-Handed Sling to Maltiez's quivers and sheathes mod.</description>
-  </item>
-  <item>
-    <title>Nymph race</title>
-    <link>https://mods.vintagestory.at/show/mod/10657</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10657#10657</guid>
-    <pubDate>Thu, 30 Jul 2026 12:42:50 -0000</pubDate>
-    <description>A mod that adds a new player model, the Nymph race.</description>
-  </item>
-  <item>
-    <title>EZ Translocator</title>
-    <link>https://mods.vintagestory.at/show/mod/eztranslocator</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eztranslocator#10641</guid>
-    <pubDate>Thu, 30 Jul 2026 12:31:53 -0000</pubDate>
-    <description>Break repaired translocators, place them wherever you want and use your map to teleport.</description>
-  </item>
-  <item>
-    <title>NoOfflineContainerFoodSpoil Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/10656</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10656#10656</guid>
-    <pubDate>Thu, 30 Jul 2026 12:12:38 -0000</pubDate>
-    <description>Removes unnecessary hard drive writes that make NoOfflineContainerFoodSpoil stutter while exploring</description>
-  </item>
-  <item>
-    <title>VR_RPxAoGxEF</title>
-    <link>https://mods.vintagestory.at/show/mod/10655</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10655#10655</guid>
-    <pubDate>Thu, 30 Jul 2026 11:44:59 -0000</pubDate>
-    <description>tweak</description>
-  </item>
-  <item>
-    <title>VR_LTFxEF</title>
-    <link>https://mods.vintagestory.at/show/mod/10654</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10654#10654</guid>
-    <pubDate>Thu, 30 Jul 2026 11:44:01 -0000</pubDate>
-    <description>tweak</description>
-  </item>
-  <item>
-    <title>VR_FAC</title>
-    <link>https://mods.vintagestory.at/show/mod/10652</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10652#10652</guid>
-    <pubDate>Thu, 30 Jul 2026 11:42:39 -0000</pubDate>
-    <description>tweak</description>
-  </item>
-  <item>
-    <title>VR_D_F</title>
-    <link>https://mods.vintagestory.at/show/mod/10651</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10651#10651</guid>
-    <pubDate>Thu, 30 Jul 2026 11:41:44 -0000</pubDate>
-    <description>tweak</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Tyrant King — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10168</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10168#10168</guid>
-    <pubDate>Thu, 30 Jul 2026 11:36:11 -0000</pubDate>
-    <description>Adds severals tyrannosaurids to Vintage Story. Unofficial compatibility port for 1.22.3</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Shovel Mouth — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10169</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10169#10169</guid>
-    <pubDate>Thu, 30 Jul 2026 11:35:57 -0000</pubDate>
-    <description>Adds the family of hadrosauroids dinosaurs to Vintage Story. Unofficial compatibility port for Vinta</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Sharp Tooth — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10170</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10170#10170</guid>
-    <pubDate>Thu, 30 Jul 2026 11:35:45 -0000</pubDate>
-    <description>Adds severals carcharodontosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Scythe Claws — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10172</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10172#10172</guid>
-    <pubDate>Thu, 30 Jul 2026 11:35:34 -0000</pubDate>
-    <description>Adds the family of therizinosaurids dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Sailed Spine — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10173</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10173#10173</guid>
-    <pubDate>Thu, 30 Jul 2026 11:35:20 -0000</pubDate>
-    <description>Adds severals spinosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Plated Back — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10174</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10174#10174</guid>
-    <pubDate>Thu, 30 Jul 2026 11:35:05 -0000</pubDate>
-    <description>Adds the family of stegosaurian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Ocean Tyrant — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10175</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10175#10175</guid>
-    <pubDate>Thu, 30 Jul 2026 11:34:53 -0000</pubDate>
-    <description>Adds severals Mosasaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Long Neck — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10176</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10176#10176</guid>
-    <pubDate>Thu, 30 Jul 2026 11:34:40 -0000</pubDate>
-    <description>Adds the family of Macronarians dinosaurs to Vintage Story.</description>
   </item>
 </channel>
 </rss>
