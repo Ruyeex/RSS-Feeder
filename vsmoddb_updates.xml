@@ -4,13 +4,69 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 30 Jul 2026 04:07:25 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 07:35:02 +0000</lastBuildDate>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Thu, 30 Jul 2026 06:25:29 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Ambien's Butchery Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/9865</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9865#9865</guid>
+    <pubDate>Thu, 30 Jul 2026 06:04:57 -0000</pubDate>
+    <description>Patches butchery for my server</description>
+  </item>
+  <item>
+    <title>AnanLa's Quenching Guarantee</title>
+    <link>https://mods.vintagestory.at/show/mod/ananlaquenchingguarantee</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ananlaquenchingguarantee#10625</guid>
+    <pubDate>Thu, 30 Jul 2026 05:51:05 -0000</pubDate>
+    <description>为 Vintage Story 的金属淬火增加多模式保底系统，降低反复锻造的精神损耗。 A multi-mode pity system for metal quenching in Vintage.</description>
+  </item>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
+    <pubDate>Thu, 30 Jul 2026 05:47:25 -0000</pubDate>
+    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
+  </item>
+  <item>
+    <title>Honse of Holding</title>
+    <link>https://mods.vintagestory.at/show/mod/honseofholding</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/honseofholding#6999</guid>
+    <pubDate>Thu, 30 Jul 2026 05:40:55 -0000</pubDate>
+    <description>Unofficial patch for Equus to add front side storage slots like Elks have and lets you add pillions.</description>
+  </item>
+  <item>
+    <title>arboder's crosshair</title>
+    <link>https://mods.vintagestory.at/show/mod/9920</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9920#9920</guid>
+    <pubDate>Thu, 30 Jul 2026 05:24:20 -0000</pubDate>
+    <description>A different crosshair I made</description>
+  </item>
+  <item>
+    <title>VoteGui</title>
+    <link>https://mods.vintagestory.at/show/mod/votegui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/votegui#10547</guid>
+    <pubDate>Thu, 30 Jul 2026 05:12:11 -0000</pubDate>
+    <description>Vote gui for vsserverlist.com</description>
+  </item>
   <item>
     <title>Age of Seraphs Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Thu, 30 Jul 2026 03:57:57 -0000</pubDate>
+    <pubDate>Thu, 30 Jul 2026 05:00:55 -0000</pubDate>
     <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
+  </item>
+  <item>
+    <title>Age of Seraphs Specialized Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/aosspecializedclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aosspecializedclasses#8501</guid>
+    <pubDate>Thu, 30 Jul 2026 04:47:21 -0000</pubDate>
+    <description>Age of Seraphs Specialized Classes Fork</description>
   </item>
   <item>
     <title>Solaria's Sauce</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customlatitude#7591</guid>
     <pubDate>Wed, 29 Jul 2026 22:22:36 -0000</pubDate>
     <description>Choose a starting latitude and month easily! Start at the eqator, poles or anywhere in between!</description>
-  </item>
-  <item>
-    <title>Comms Talisman</title>
-    <link>https://mods.vintagestory.at/show/mod/jadecommtalisman</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jadecommtalisman#10264</guid>
-    <pubDate>Wed, 29 Jul 2026 22:15:46 -0000</pubDate>
-    <description>Item-based global VOIP. </description>
-  </item>
-  <item>
-    <title>Reach Indicator</title>
-    <link>https://mods.vintagestory.at/show/mod/reachindicator</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/reachindicator#10634</guid>
-    <pubDate>Wed, 29 Jul 2026 22:14:20 -0000</pubDate>
-    <description>Shows the distance to your target on your last successful melee hit.</description>
-  </item>
-  <item>
-    <title>Panning Machine</title>
-    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
-    <pubDate>Wed, 29 Jul 2026 21:58:27 -0000</pubDate>
-    <description>Simple machine for panning</description>
-  </item>
-  <item>
-    <title>Gatbata's Sawians</title>
-    <link>https://mods.vintagestory.at/show/mod/customplayermodelsaw</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customplayermodelsaw#10351</guid>
-    <pubDate>Wed, 29 Jul 2026 21:58:13 -0000</pubDate>
-    <description>Adds some of the Sawians from Gunsaw and Casualties: Unknown (expies and the like)</description>
-  </item>
-  <item>
-    <title>insectoids CO patch</title>
-    <link>https://mods.vintagestory.at/show/mod/insectoidcocompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/insectoidcocompat#10280</guid>
-    <pubDate>Wed, 29 Jul 2026 21:53:09 -0000</pubDate>
-    <description>make bug swing spear</description>
-  </item>
-  <item>
-    <title>SLAnimLib</title>
-    <link>https://mods.vintagestory.at/show/mod/shangrilaanimationslib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shangrilaanimationslib#10636</guid>
-    <pubDate>Wed, 29 Jul 2026 21:40:54 -0000</pubDate>
-    <description>animashun</description>
-  </item>
-  <item>
-    <title>Burdened: Immersive Carrying</title>
-    <link>https://mods.vintagestory.at/show/mod/burdened</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/burdened#10391</guid>
-    <pubDate>Wed, 29 Jul 2026 21:37:39 -0000</pubDate>
-    <description>A weightier carrying experience: customizable slots, immersive slot mgmt, server-enforced, and more.</description>
-  </item>
-  <item>
-    <title>SLCombatOverhaul</title>
-    <link>https://mods.vintagestory.at/show/mod/combatoverhaulforkedshangrila</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/combatoverhaulforkedshangrila#10635</guid>
-    <pubDate>Wed, 29 Jul 2026 21:30:52 -0000</pubDate>
-    <description>server fork </description>
   </item>
 </channel>
 </rss>
