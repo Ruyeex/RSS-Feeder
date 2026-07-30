@@ -4,7 +4,112 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 30 Jul 2026 12:46:09 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 15:12:22 +0000</lastBuildDate>
+  <item>
+    <title>CB Guilds</title>
+    <link>https://mods.vintagestory.at/show/mod/9586</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9586#9586</guid>
+    <pubDate>Thu, 30 Jul 2026 15:10:00 -0000</pubDate>
+    <description>Guild mod for my personal server</description>
+  </item>
+  <item>
+    <title>AnanLa's Quenching Prediction</title>
+    <link>https://mods.vintagestory.at/show/mod/ananlaquenchingprediction</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ananlaquenchingprediction#10658</guid>
+    <pubDate>Thu, 30 Jul 2026 14:58:12 -0000</pubDate>
+    <description>一个 Vintage Story 模组，在淬火即将碎裂时发出预警，减少反复烧铁搓工具的精神损耗。A Vintage Story mod that warns you when an item is a</description>
+  </item>
+  <item>
+    <title>VR_LAF</title>
+    <link>https://mods.vintagestory.at/show/mod/10653</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10653#10653</guid>
+    <pubDate>Thu, 30 Jul 2026 14:55:49 -0000</pubDate>
+    <description>tweak</description>
+  </item>
+  <item>
+    <title>Ice Cold Vessel</title>
+    <link>https://mods.vintagestory.at/show/mod/coldvessel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/coldvessel#9905</guid>
+    <pubDate>Thu, 30 Jul 2026 14:55:44 -0000</pubDate>
+    <description>Adds ice-powered cooling to storage vessels for food preservation.</description>
+  </item>
+  <item>
+    <title>DragonPhysicsFix</title>
+    <link>https://mods.vintagestory.at/show/mod/10664</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10664#10664</guid>
+    <pubDate>Thu, 30 Jul 2026 14:51:14 -0000</pubDate>
+    <description>Fixes nan crashes for dragons on my server</description>
+  </item>
+  <item>
+    <title>AnanLa's Quenching Guarantee</title>
+    <link>https://mods.vintagestory.at/show/mod/ananlaquenchingguarantee</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ananlaquenchingguarantee#10625</guid>
+    <pubDate>Thu, 30 Jul 2026 14:41:33 -0000</pubDate>
+    <description>为 Vintage Story 的金属淬火增加多模式保底系统，降低反复锻造的精神损耗。 A multi-mode pity system for metal quenching in Vintage.</description>
+  </item>
+  <item>
+    <title>VR_TnG</title>
+    <link>https://mods.vintagestory.at/show/mod/10660</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10660#10660</guid>
+    <pubDate>Thu, 30 Jul 2026 14:27:01 -0000</pubDate>
+    <description>tweak</description>
+  </item>
+  <item>
+    <title>VR_BT_C</title>
+    <link>https://mods.vintagestory.at/show/mod/10650</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10650#10650</guid>
+    <pubDate>Thu, 30 Jul 2026 14:24:35 -0000</pubDate>
+    <description>server</description>
+  </item>
+  <item>
+    <title>Meadows Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10662</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10662#10662</guid>
+    <pubDate>Thu, 30 Jul 2026 14:21:26 -0000</pubDate>
+    <description>Nothing fancy, just server-specific adjustments</description>
+  </item>
+  <item>
+    <title>MoreInventorys</title>
+    <link>https://mods.vintagestory.at/show/mod/moreinventorys</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreinventorys#10306</guid>
+    <pubDate>Thu, 30 Jul 2026 14:10:44 -0000</pubDate>
+    <description>The mod adds new inventories for convenient and immersive storage: Shelves, crates, racks for weapon</description>
+  </item>
+  <item>
+    <title>VR_BS</title>
+    <link>https://mods.vintagestory.at/show/mod/10661</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10661#10661</guid>
+    <pubDate>Thu, 30 Jul 2026 13:53:27 -0000</pubDate>
+    <description>tweak</description>
+  </item>
+  <item>
+    <title>Mastodon Trunk fix</title>
+    <link>https://mods.vintagestory.at/show/mod/9661</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9661#9661</guid>
+    <pubDate>Thu, 30 Jul 2026 13:47:38 -0000</pubDate>
+    <description>Mastodon Trunk fixed</description>
+  </item>
+  <item>
+    <title>Better Scrap fix</title>
+    <link>https://mods.vintagestory.at/show/mod/8320</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8320#8320</guid>
+    <pubDate>Thu, 30 Jul 2026 13:47:04 -0000</pubDate>
+    <description>Jonas's helmet fixed</description>
+  </item>
+  <item>
+    <title>Immersive Heat Sources</title>
+    <link>https://mods.vintagestory.at/show/mod/iheat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/iheat#10640</guid>
+    <pubDate>Thu, 30 Jul 2026 13:33:58 -0000</pubDate>
+    <description>Heat sources melt snow and ice around them, and have a dynamic heating radius.</description>
+  </item>
+  <item>
+    <title>Two Handed Sling</title>
+    <link>https://mods.vintagestory.at/show/mod/10417</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10417#10417</guid>
+    <pubDate>Thu, 30 Jul 2026 12:54:37 -0000</pubDate>
+    <description>Adds a Two-Handed Sling to Maltiez's quivers and sheathes mod.</description>
+  </item>
   <item>
     <title>Nymph race</title>
     <link>https://mods.vintagestory.at/show/mod/10657</link>
@@ -41,13 +146,6 @@
     <description>tweak</description>
   </item>
   <item>
-    <title>VR_LAF</title>
-    <link>https://mods.vintagestory.at/show/mod/10653</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10653#10653</guid>
-    <pubDate>Thu, 30 Jul 2026 11:43:18 -0000</pubDate>
-    <description>tweak</description>
-  </item>
-  <item>
     <title>VR_FAC</title>
     <link>https://mods.vintagestory.at/show/mod/10652</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10652#10652</guid>
@@ -60,13 +158,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10651#10651</guid>
     <pubDate>Thu, 30 Jul 2026 11:41:44 -0000</pubDate>
     <description>tweak</description>
-  </item>
-  <item>
-    <title>VR_BT_C</title>
-    <link>https://mods.vintagestory.at/show/mod/10650</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10650#10650</guid>
-    <pubDate>Thu, 30 Jul 2026 11:40:46 -0000</pubDate>
-    <description>server</description>
   </item>
   <item>
     <title>Legacy of the Phanerozoic: Tyrant King — Unofficial</title>
@@ -123,97 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10176#10176</guid>
     <pubDate>Thu, 30 Jul 2026 11:34:40 -0000</pubDate>
     <description>Adds the family of Macronarians dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Horrible Hands — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10177</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10177#10177</guid>
-    <pubDate>Thu, 30 Jul 2026 11:34:27 -0000</pubDate>
-    <description>Adds the family of ornithomimosauria dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Horned Crown — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10178</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10178#10178</guid>
-    <pubDate>Thu, 30 Jul 2026 11:34:18 -0000</pubDate>
-    <description>Adds the family of ceratopsian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Fused Body — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10179</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10179#10179</guid>
-    <pubDate>Thu, 30 Jul 2026 11:34:07 -0000</pubDate>
-    <description>Adds the family of ankylosaurian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Domed Head — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10180</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10180#10180</guid>
-    <pubDate>Thu, 30 Jul 2026 11:33:57 -0000</pubDate>
-    <description>Adds the family of pachycephalosaurians dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Carnivorous Bull — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10181</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10181#10181</guid>
-    <pubDate>Thu, 30 Jul 2026 11:33:43 -0000</pubDate>
-    <description>Adds severals abelisaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Birds of Prey — Unofficial</title>
-    <link>https://mods.vintagestory.at/show/mod/10182</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10182#10182</guid>
-    <pubDate>Thu, 30 Jul 2026 11:33:31 -0000</pubDate>
-    <description>Adds severals dromaeosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>LoP Dino Core</title>
-    <link>https://mods.vintagestory.at/show/mod/10327</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10327#10327</guid>
-    <pubDate>Thu, 30 Jul 2026 11:32:34 -0000</pubDate>
-    <description>Shared spawning, compatibility, deep-ocean spawning, and foliage-clearing services for the dino. WIP</description>
-  </item>
-  <item>
-    <title>Palantir</title>
-    <link>https://mods.vintagestory.at/show/mod/palantir</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/palantir#7842</guid>
-    <pubDate>Thu, 30 Jul 2026 11:23:34 -0000</pubDate>
-    <description>Preserve memories of your travels. Share them with fellow players (on shrooms).</description>
-  </item>
-  <item>
-    <title>AnanLa's Quenching Guarantee</title>
-    <link>https://mods.vintagestory.at/show/mod/ananlaquenchingguarantee</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ananlaquenchingguarantee#10625</guid>
-    <pubDate>Thu, 30 Jul 2026 11:14:18 -0000</pubDate>
-    <description>为 Vintage Story 的金属淬火增加多模式保底系统，降低反复锻造的精神损耗。 A multi-mode pity system for metal quenching in Vintage.</description>
-  </item>
-  <item>
-    <title>Rosa Prospecting</title>
-    <link>https://mods.vintagestory.at/show/mod/10649</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10649#10649</guid>
-    <pubDate>Thu, 30 Jul 2026 11:10:58 -0000</pubDate>
-    <description>Overhaul and expansion of the vanilla ore prospecting.</description>
-  </item>
-  <item>
-    <title>Immersive Heat Sources</title>
-    <link>https://mods.vintagestory.at/show/mod/iheat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/iheat#10640</guid>
-    <pubDate>Thu, 30 Jul 2026 09:17:20 -0000</pubDate>
-    <description>Heat sources melt snow and ice around them, and have a dynamic heating radius.</description>
-  </item>
-  <item>
-    <title>NDL Rapids</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlrapids</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlrapids#10647</guid>
-    <pubDate>Thu, 30 Jul 2026 09:05:13 -0000</pubDate>
-    <description>Allows you to change fresh water source blocks to rapids source blocks</description>
-  </item>
-  <item>
-    <title>Quivers and Sheaths Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/quiversfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/quiversfork#8410</guid>
-    <pubDate>Thu, 30 Jul 2026 08:51:19 -0000</pubDate>
-    <description>1.22 Fork</description>
   </item>
 </channel>
 </rss>
