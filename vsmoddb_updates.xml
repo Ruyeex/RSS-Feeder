@@ -4,7 +4,119 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 30 Jul 2026 00:01:57 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 04:07:25 +0000</lastBuildDate>
+  <item>
+    <title>Age of Seraphs Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
+    <pubDate>Thu, 30 Jul 2026 03:57:57 -0000</pubDate>
+    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
+  </item>
+  <item>
+    <title>Solaria's Sauce</title>
+    <link>https://mods.vintagestory.at/show/mod/10480</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10480#10480</guid>
+    <pubDate>Thu, 30 Jul 2026 02:45:57 -0000</pubDate>
+    <description>Foliage theme pack</description>
+  </item>
+  <item>
+    <title>OreVeil</title>
+    <link>https://mods.vintagestory.at/show/mod/10645</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10645#10645</guid>
+    <pubDate>Thu, 30 Jul 2026 02:45:50 -0000</pubDate>
+    <description>Extreme alpha Server-side anti-xray: camouflages ore-bearing rock </description>
+  </item>
+  <item>
+    <title>VS Roofing Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/5036</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5036#5036</guid>
+    <pubDate>Thu, 30 Jul 2026 02:26:59 -0000</pubDate>
+    <description>Gridless roof building system with vanilla roofs + extras.</description>
+  </item>
+  <item>
+    <title>Player Model lib</title>
+    <link>https://mods.vintagestory.at/show/mod/playermodellib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
+    <pubDate>Thu, 30 Jul 2026 02:22:50 -0000</pubDate>
+    <description>Library for adding new player races</description>
+  </item>
+  <item>
+    <title>JSON Patches lib</title>
+    <link>https://mods.vintagestory.at/show/mod/jsonpatcheslib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jsonpatcheslib#7185</guid>
+    <pubDate>Thu, 30 Jul 2026 02:11:22 -0000</pubDate>
+    <description>Implements more convinient syntax and more functionality for patching JSON assets.</description>
+  </item>
+  <item>
+    <title>The Working Classes - Whetstone Bug-Fix Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/theworkingclasseswspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/theworkingclasseswspatch#10474</guid>
+    <pubDate>Thu, 30 Jul 2026 01:47:33 -0000</pubDate>
+    <description>A focused compatibility and bug-fix fork of The Working Classes for Vintage Story</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Thu, 30 Jul 2026 01:45:10 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Wolp Story Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/wolpstorypatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wolpstorypatches#7915</guid>
+    <pubDate>Thu, 30 Jul 2026 01:33:56 -0000</pubDate>
+    <description>A collection of patches for the modpack &amp; server that we're running</description>
+  </item>
+  <item>
+    <title>Player Corpse (Azu Modded)</title>
+    <link>https://mods.vintagestory.at/show/mod/playercorpseforkedazu</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playercorpseforkedazu#9221</guid>
+    <pubDate>Thu, 30 Jul 2026 01:28:01 -0000</pubDate>
+    <description>Creates a corpse with the player's inventory after death (1.22+)</description>
+  </item>
+  <item>
+    <title>Entity Spawn Toggle</title>
+    <link>https://mods.vintagestory.at/show/mod/10644</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10644#10644</guid>
+    <pubDate>Thu, 30 Jul 2026 01:25:45 -0000</pubDate>
+    <description>Blocks worldgen and runtime spawning for a mod's creatures, whole mod or single entity, via config</description>
+  </item>
+  <item>
+    <title>Vampirism</title>
+    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
+    <pubDate>Thu, 30 Jul 2026 01:04:43 -0000</pubDate>
+    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
+  </item>
+  <item>
+    <title>Custom Server Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10378</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
+    <pubDate>Thu, 30 Jul 2026 00:49:00 -0000</pubDate>
+    <description>A collection of tweaks for our private server.</description>
+  </item>
+  <item>
+    <title>Falxion Medallion</title>
+    <link>https://mods.vintagestory.at/show/mod/10642</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10642#10642</guid>
+    <pubDate>Thu, 30 Jul 2026 00:27:48 -0000</pubDate>
+    <description>Adds a medallion to claim Falxions on my server</description>
+  </item>
+  <item>
+    <title>ElectricalProgressive:ColdStore</title>
+    <link>https://mods.vintagestory.at/show/mod/10638</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10638#10638</guid>
+    <pubDate>Thu, 30 Jul 2026 00:19:16 -0000</pubDate>
+    <description>Add a cold store (room) with an internal decay rate of 0.025 times</description>
+  </item>
+  <item>
+    <title>EZ Translocators</title>
+    <link>https://mods.vintagestory.at/show/mod/eztranslocators</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eztranslocators#10641</guid>
+    <pubDate>Thu, 30 Jul 2026 00:08:10 -0000</pubDate>
+    <description>Break repaired translocators, place them wherever you want and use your map to teleport.</description>
+  </item>
   <item>
     <title>Immersive Heat Sources</title>
     <link>https://mods.vintagestory.at/show/mod/iheat</link>
@@ -83,13 +195,6 @@
     <description>make bug swing spear</description>
   </item>
   <item>
-    <title>Vampirism</title>
-    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
-    <pubDate>Wed, 29 Jul 2026 21:52:03 -0000</pubDate>
-    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
-  </item>
-  <item>
     <title>SLAnimLib</title>
     <link>https://mods.vintagestory.at/show/mod/shangrilaanimationslib</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shangrilaanimationslib#10636</guid>
@@ -109,111 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/combatoverhaulforkedshangrila#10635</guid>
     <pubDate>Wed, 29 Jul 2026 21:30:52 -0000</pubDate>
     <description>server fork </description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/10555</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
-    <pubDate>Wed, 29 Jul 2026 21:17:51 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>Jelly Bundle</title>
-    <link>https://mods.vintagestory.at/show/mod/10059</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10059#10059</guid>
-    <pubDate>Wed, 29 Jul 2026 21:04:36 -0000</pubDate>
-    <description>A compilation of tweaks for the Swamp Jelly server.</description>
-  </item>
-  <item>
-    <title>TassHunting</title>
-    <link>https://mods.vintagestory.at/show/mod/tasshunting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshunting#10438</guid>
-    <pubDate>Wed, 29 Jul 2026 20:05:46 -0000</pubDate>
-    <description>Arrows Stick - Blood - Smarter Animal AI - Aiming Tweaks - Health Based Animal Speed</description>
-  </item>
-  <item>
-    <title>TassHardcoreWinter</title>
-    <link>https://mods.vintagestory.at/show/mod/tasshardcorewinter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshardcorewinter#10500</guid>
-    <pubDate>Wed, 29 Jul 2026 20:04:02 -0000</pubDate>
-    <description>Deeper snow, white out blizzards, restorative spring, realistic room temperature, heat source rework</description>
-  </item>
-  <item>
-    <title>TassFactions</title>
-    <link>https://mods.vintagestory.at/show/mod/10503</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
-    <pubDate>Wed, 29 Jul 2026 20:01:45 -0000</pubDate>
-    <description>A re-creation of the ol Minecraft factions mod</description>
-  </item>
-  <item>
-    <title>TassBetterFishing</title>
-    <link>https://mods.vintagestory.at/show/mod/tassbetterfishing</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassbetterfishing#10604</guid>
-    <pubDate>Wed, 29 Jul 2026 20:01:01 -0000</pubDate>
-    <description>Fish are now worth catching</description>
-  </item>
-  <item>
-    <title>URL Radio (YT)</title>
-    <link>https://mods.vintagestory.at/show/mod/10482</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10482#10482</guid>
-    <pubDate>Wed, 29 Jul 2026 19:42:58 -0000</pubDate>
-    <description>A radio that can play audio from URL links, primarily YouTube links.</description>
-  </item>
-  <item>
-    <title>Ghaelen's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9740</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
-    <pubDate>Wed, 29 Jul 2026 19:26:29 -0000</pubDate>
-    <description>My personal tweaks I like to play with.</description>
-  </item>
-  <item>
-    <title>C&amp;N RPG Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/canrpgclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canrpgclasses#9965</guid>
-    <pubDate>Wed, 29 Jul 2026 19:24:11 -0000</pubDate>
-    <description>RPG classes for Vintage Story</description>
-  </item>
-  <item>
-    <title>Land Claim and Group GUI - Russian</title>
-    <link>https://mods.vintagestory.at/show/mod/claimguiru</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claimguiru#10621</guid>
-    <pubDate>Wed, 29 Jul 2026 19:21:59 -0000</pubDate>
-    <description>  Неофициальная русская локализация мода Land Claim and Group GUI 1.1.0.</description>
-  </item>
-  <item>
-    <title>VoteGui</title>
-    <link>https://mods.vintagestory.at/show/mod/votegui</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/votegui#10547</guid>
-    <pubDate>Wed, 29 Jul 2026 19:16:05 -0000</pubDate>
-    <description>Vote gui for vsserverlist.com</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Wed, 29 Jul 2026 19:02:38 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>C&amp;N Party</title>
-    <link>https://mods.vintagestory.at/show/mod/9890</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9890#9890</guid>
-    <pubDate>Wed, 29 Jul 2026 19:00:09 -0000</pubDate>
-    <description>A standalone party system</description>
-  </item>
-  <item>
-    <title>Body Fat by Tasshroom</title>
-    <link>https://mods.vintagestory.at/show/mod/tasshroombodyfat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshroombodyfat#4475</guid>
-    <pubDate>Wed, 29 Jul 2026 18:44:30 -0000</pubDate>
-    <description>Body Fat - Stuff your face and save up those calories for the long journey ahead</description>
-  </item>
-  <item>
-    <title>/N/TTS</title>
-    <link>https://mods.vintagestory.at/show/mod/ntts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ntts#10353</guid>
-    <pubDate>Wed, 29 Jul 2026 18:39:46 -0000</pubDate>
-    <description>Text To Speech Mod</description>
   </item>
 </channel>
 </rss>
