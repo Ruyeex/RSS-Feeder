@@ -4,13 +4,146 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 30 Jul 2026 17:37:29 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 19:35:42 +0000</lastBuildDate>
+  <item>
+    <title>C&amp;N Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/canclaims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canclaims#589</guid>
+    <pubDate>Thu, 30 Jul 2026 19:27:18 -0000</pubDate>
+    <description>Land protection mod.</description>
+  </item>
+  <item>
+    <title>Floral Zones: Central Australian Region</title>
+    <link>https://mods.vintagestory.at/show/mod/floralzonescentralaustralianregion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescentralaustralianregion#1989</guid>
+    <pubDate>Thu, 30 Jul 2026 19:20:47 -0000</pubDate>
+    <description>Adds plants from the Central Australian Region to the game.</description>
+  </item>
+  <item>
+    <title>RemoveStructures Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/8609</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8609#8609</guid>
+    <pubDate>Thu, 30 Jul 2026 19:18:13 -0000</pubDate>
+    <description>A server-side Vintage Story mod for configuring the spawn chance of world structures such as translo</description>
+  </item>
+  <item>
+    <title>ReinforcementPrivacy</title>
+    <link>https://mods.vintagestory.at/show/mod/8867</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8867#8867</guid>
+    <pubDate>Thu, 30 Jul 2026 19:17:54 -0000</pubDate>
+    <description>Privacy mod that anonymizes readable player and group names in block reinforcement data.</description>
+  </item>
+  <item>
+    <title>adminbraziers</title>
+    <link>https://mods.vintagestory.at/show/mod/8868</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8868#8868</guid>
+    <pubDate>Thu, 30 Jul 2026 19:17:34 -0000</pubDate>
+    <description>Admin-focused metal braziers and fire cages for server-managed Vintage Story areas.</description>
+  </item>
+  <item>
+    <title>disablepvpinsideclaims</title>
+    <link>https://mods.vintagestory.at/show/mod/8869</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8869#8869</guid>
+    <pubDate>Thu, 30 Jul 2026 19:17:24 -0000</pubDate>
+    <description>Disables player-vs-player damage inside land claims.</description>
+  </item>
+  <item>
+    <title>removeplayernamefromclaim</title>
+    <link>https://mods.vintagestory.at/show/mod/8871</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8871#8871</guid>
+    <pubDate>Thu, 30 Jul 2026 19:17:10 -0000</pubDate>
+    <description>Hides Vintage Story land claim owner names from clients.</description>
+  </item>
+  <item>
+    <title>storylocationsreset</title>
+    <link>https://mods.vintagestory.at/show/mod/8873</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8873#8873</guid>
+    <pubDate>Thu, 30 Jul 2026 19:16:57 -0000</pubDate>
+    <description>Helps admins reset generated story locations.</description>
+  </item>
+  <item>
+    <title>ClaimUI Improved</title>
+    <link>https://mods.vintagestory.at/show/mod/9267</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9267#9267</guid>
+    <pubDate>Thu, 30 Jul 2026 19:16:35 -0000</pubDate>
+    <description>Managing land claim commands, including safer Save/Load forms and claim permission helpers.</description>
+  </item>
+  <item>
+    <title>Group UI</title>
+    <link>https://mods.vintagestory.at/show/mod/9269</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9269#9269</guid>
+    <pubDate>Thu, 30 Jul 2026 19:16:18 -0000</pubDate>
+    <description>GUI for managing player groups without typing commands manually.</description>
+  </item>
+  <item>
+    <title>Rental Permission</title>
+    <link>https://mods.vintagestory.at/show/mod/9820</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9820#9820</guid>
+    <pubDate>Thu, 30 Jul 2026 19:16:03 -0000</pubDate>
+    <description>Adds paid rentals for reinforced or locked blocks inside configured land claims.</description>
+  </item>
+  <item>
+    <title>Claim Activity Permissions</title>
+    <link>https://mods.vintagestory.at/show/mod/9821</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9821#9821</guid>
+    <pubDate>Thu, 30 Jul 2026 19:15:52 -0000</pubDate>
+    <description>Opens specific Vintage Story claim actions without granting general build or break access.</description>
+  </item>
+  <item>
+    <title>Contribution Box</title>
+    <link>https://mods.vintagestory.at/show/mod/10225</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10225#10225</guid>
+    <pubDate>Thu, 30 Jul 2026 19:15:09 -0000</pubDate>
+    <description>ContributionBox turns vanilla crates into public contribution boxes</description>
+  </item>
+  <item>
+    <title>Storage Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/storagetweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/storagetweaks#7807</guid>
+    <pubDate>Thu, 30 Jul 2026 19:10:37 -0000</pubDate>
+    <description>Adds compact/sort and quick-unload buttons to chests and inventory.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Thu, 30 Jul 2026 19:04:40 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>AdminMap</title>
+    <link>https://mods.vintagestory.at/show/mod/adminmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/adminmap#10669</guid>
+    <pubDate>Thu, 30 Jul 2026 18:29:08 -0000</pubDate>
+    <description>Just for admins helping set waprs,spawn, teleport on the map</description>
+  </item>
+  <item>
+    <title>Door Master</title>
+    <link>https://mods.vintagestory.at/show/mod/doormaster</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/doormaster#9777</guid>
+    <pubDate>Thu, 30 Jul 2026 18:27:34 -0000</pubDate>
+    <description>Chisel your own custom doors with smooth open/close animation at any angle!</description>
+  </item>
+  <item>
+    <title>I Want Realistic Worlds</title>
+    <link>https://mods.vintagestory.at/show/mod/iwantrealisticworlds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/iwantrealisticworlds#7327</guid>
+    <pubDate>Thu, 30 Jul 2026 18:10:12 -0000</pubDate>
+    <description>Core mod that allows creation of detailed landforms through heightmaps.</description>
+  </item>
+  <item>
+    <title>Better Firepit v1.22 Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/9460</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9460#9460</guid>
+    <pubDate>Thu, 30 Jul 2026 17:52:03 -0000</pubDate>
+    <description>Firepit heats big stacks as fast as single items (VS 1.22.x). Singleplayer &amp; servers.</description>
+  </item>
   <item>
     <title>Zoom Button Patch</title>
     <link>https://mods.vintagestory.at/show/mod/zoombuttonpatch</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zoombuttonpatch#10443</guid>
     <pubDate>Thu, 30 Jul 2026 17:37:05 -0000</pubDate>
-    <description>Hides the player hands and items held while zooming. No more torch in the way!</description>
+    <description>Hides minimap, coordinates hud and chat while zooming.</description>
   </item>
   <item>
     <title>VR_LAF</title>
@@ -81,139 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9139#9139</guid>
     <pubDate>Thu, 30 Jul 2026 15:39:41 -0000</pubDate>
     <description>VSA API</description>
-  </item>
-  <item>
-    <title>Smart Barrel</title>
-    <link>https://mods.vintagestory.at/show/mod/10584</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10584#10584</guid>
-    <pubDate>Thu, 30 Jul 2026 15:28:47 -0000</pubDate>
-    <description>Shift-clicking an ingredient into a barrel transfers only the amount needed.</description>
-  </item>
-  <item>
-    <title>The Almanac: Trades, Callings &amp; Mastery</title>
-    <link>https://mods.vintagestory.at/show/mod/10453</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
-    <pubDate>Thu, 30 Jul 2026 15:23:23 -0000</pubDate>
-    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>The Almanac: Illuminated</title>
-    <link>https://mods.vintagestory.at/show/mod/10454</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10454#10454</guid>
-    <pubDate>Thu, 30 Jul 2026 15:22:06 -0000</pubDate>
-    <description>A living questbook opened with Alt+J. Chapters appear only for the mods you have loaded.</description>
-  </item>
-  <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Thu, 30 Jul 2026 15:18:37 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
-  </item>
-  <item>
-    <title>The Quire Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/10455</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
-    <pubDate>Thu, 30 Jul 2026 15:17:18 -0000</pubDate>
-    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
-  </item>
-  <item>
-    <title>CB Guilds</title>
-    <link>https://mods.vintagestory.at/show/mod/9586</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9586#9586</guid>
-    <pubDate>Thu, 30 Jul 2026 15:10:00 -0000</pubDate>
-    <description>Guild mod for my personal server</description>
-  </item>
-  <item>
-    <title>VRconquestcomp</title>
-    <link>https://mods.vintagestory.at/show/mod/10665</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10665#10665</guid>
-    <pubDate>Thu, 30 Jul 2026 14:58:44 -0000</pubDate>
-    <description>tweak</description>
-  </item>
-  <item>
-    <title>Ice Cold Vessel</title>
-    <link>https://mods.vintagestory.at/show/mod/coldvessel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/coldvessel#9905</guid>
-    <pubDate>Thu, 30 Jul 2026 14:55:44 -0000</pubDate>
-    <description>Adds ice-powered cooling to storage vessels for food preservation.</description>
-  </item>
-  <item>
-    <title>DragonPhysicsFix</title>
-    <link>https://mods.vintagestory.at/show/mod/10664</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10664#10664</guid>
-    <pubDate>Thu, 30 Jul 2026 14:51:14 -0000</pubDate>
-    <description>Fixes nan crashes for dragons on my server</description>
-  </item>
-  <item>
-    <title>AnanLa's Quenching Guarantee</title>
-    <link>https://mods.vintagestory.at/show/mod/ananlaquenchingguarantee</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ananlaquenchingguarantee#10625</guid>
-    <pubDate>Thu, 30 Jul 2026 14:41:33 -0000</pubDate>
-    <description>为 Vintage Story 的金属淬火增加多模式保底系统，降低反复锻造的精神损耗。 A multi-mode pity system for metal quenching in Vintage.</description>
-  </item>
-  <item>
-    <title>VR_TnG</title>
-    <link>https://mods.vintagestory.at/show/mod/10660</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10660#10660</guid>
-    <pubDate>Thu, 30 Jul 2026 14:27:01 -0000</pubDate>
-    <description>tweak</description>
-  </item>
-  <item>
-    <title>VR_BT_C</title>
-    <link>https://mods.vintagestory.at/show/mod/10650</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10650#10650</guid>
-    <pubDate>Thu, 30 Jul 2026 14:24:35 -0000</pubDate>
-    <description>server</description>
-  </item>
-  <item>
-    <title>Meadows Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10662</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10662#10662</guid>
-    <pubDate>Thu, 30 Jul 2026 14:21:26 -0000</pubDate>
-    <description>Nothing fancy, just server-specific adjustments</description>
-  </item>
-  <item>
-    <title>MoreInventorys</title>
-    <link>https://mods.vintagestory.at/show/mod/moreinventorys</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreinventorys#10306</guid>
-    <pubDate>Thu, 30 Jul 2026 14:10:44 -0000</pubDate>
-    <description>The mod adds new inventories for convenient and immersive storage: Shelves, crates, racks for weapon</description>
-  </item>
-  <item>
-    <title>VR_BS</title>
-    <link>https://mods.vintagestory.at/show/mod/10661</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10661#10661</guid>
-    <pubDate>Thu, 30 Jul 2026 13:53:27 -0000</pubDate>
-    <description>tweak</description>
-  </item>
-  <item>
-    <title>Mastodon Trunk fix</title>
-    <link>https://mods.vintagestory.at/show/mod/9661</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9661#9661</guid>
-    <pubDate>Thu, 30 Jul 2026 13:47:38 -0000</pubDate>
-    <description>Mastodon Trunk fixed</description>
-  </item>
-  <item>
-    <title>Better Scrap fix</title>
-    <link>https://mods.vintagestory.at/show/mod/8320</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8320#8320</guid>
-    <pubDate>Thu, 30 Jul 2026 13:47:04 -0000</pubDate>
-    <description>Jonas's helmet fixed</description>
-  </item>
-  <item>
-    <title>Immersive Heat Sources</title>
-    <link>https://mods.vintagestory.at/show/mod/iheat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/iheat#10640</guid>
-    <pubDate>Thu, 30 Jul 2026 13:33:58 -0000</pubDate>
-    <description>Heat sources melt snow and ice around them, and have a dynamic heating radius.</description>
-  </item>
-  <item>
-    <title>Two Handed Sling</title>
-    <link>https://mods.vintagestory.at/show/mod/10417</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10417#10417</guid>
-    <pubDate>Thu, 30 Jul 2026 12:54:37 -0000</pubDate>
-    <description>Adds a Two-Handed Sling to Maltiez's quivers and sheathes mod.</description>
   </item>
 </channel>
 </rss>
