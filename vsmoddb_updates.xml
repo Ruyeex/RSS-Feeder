@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 31 Jul 2026 09:46:39 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 12:01:50 +0000</lastBuildDate>
+  <item>
+    <title>Cuniculture</title>
+    <link>https://mods.vintagestory.at/show/mod/3779</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3779#3779</guid>
+    <pubDate>Fri, 31 Jul 2026 11:43:14 -0000</pubDate>
+    <description>Makes hare farming viable. Allows them to be fed from small troughs and adds foods to their diet.</description>
+  </item>
+  <item>
+    <title>Nie Interesuj Sie</title>
+    <link>https://mods.vintagestory.at/show/mod/10684</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10684#10684</guid>
+    <pubDate>Fri, 31 Jul 2026 11:22:18 -0000</pubDate>
+    <description>Server-Specific mod - ignore</description>
+  </item>
+  <item>
+    <title>Tailored Society</title>
+    <link>https://mods.vintagestory.at/show/mod/tailoredsociety</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tailoredsociety#10610</guid>
+    <pubDate>Fri, 31 Jul 2026 10:55:19 -0000</pubDate>
+    <description>Adds some people npc's into the game</description>
+  </item>
+  <item>
+    <title>Chiseled Block Retention</title>
+    <link>https://mods.vintagestory.at/show/mod/cbr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cbr#4343</guid>
+    <pubDate>Fri, 31 Jul 2026 10:33:34 -0000</pubDate>
+    <description>Chiseled blocks will ALWAYS retain heat and make a room valid.</description>
+  </item>
+  <item>
+    <title>Door Master</title>
+    <link>https://mods.vintagestory.at/show/mod/doormaster</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/doormaster#9777</guid>
+    <pubDate>Fri, 31 Jul 2026 09:58:14 -0000</pubDate>
+    <description>Chisel your own custom doors with smooth open/close animation at any angle!</description>
+  </item>
+  <item>
+    <title>DragonPhysicsFix</title>
+    <link>https://mods.vintagestory.at/show/mod/10664</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10664#10664</guid>
+    <pubDate>Fri, 31 Jul 2026 09:56:23 -0000</pubDate>
+    <description>Fixes nan crashes for dragons on my server</description>
+  </item>
   <item>
     <title>Better Hopper</title>
     <link>https://mods.vintagestory.at/show/mod/betterhopper</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
     <pubDate>Fri, 31 Jul 2026 06:04:54 -0000</pubDate>
     <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
-    <title>C&amp;N ServerList Connector</title>
-    <link>https://mods.vintagestory.at/show/mod/canvsserverlist</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canvsserverlist#7989</guid>
-    <pubDate>Fri, 31 Jul 2026 05:24:30 -0000</pubDate>
-    <description>Connects your VS server to a server listing and voting site</description>
-  </item>
-  <item>
-    <title>Terrain Features</title>
-    <link>https://mods.vintagestory.at/show/mod/10681</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10681#10681</guid>
-    <pubDate>Fri, 31 Jul 2026 05:11:08 -0000</pubDate>
-    <description>bruh moment</description>
-  </item>
-  <item>
-    <title>Ritual Apotheosis</title>
-    <link>https://mods.vintagestory.at/show/mod/8215</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8215#8215</guid>
-    <pubDate>Fri, 31 Jul 2026 04:55:00 -0000</pubDate>
-    <description>Build ancient rites from fragments. The world is your altar. Dig deep. Seek truth. Light the fires.</description>
-  </item>
-  <item>
-    <title>Rift Traveler</title>
-    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
-    <pubDate>Fri, 31 Jul 2026 04:24:56 -0000</pubDate>
-    <description>Explore rifts, craft temporal tech, teleport home, and transmit cargo across space</description>
-  </item>
-  <item>
-    <title>Vintage Story Chinese Language Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
-    <pubDate>Fri, 31 Jul 2026 04:17:57 -0000</pubDate>
-    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
-  </item>
-  <item>
-    <title>VR_LAF</title>
-    <link>https://mods.vintagestory.at/show/mod/10653</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10653#10653</guid>
-    <pubDate>Fri, 31 Jul 2026 03:58:11 -0000</pubDate>
-    <description>tweak</description>
   </item>
 </channel>
 </rss>
