@@ -4,7 +4,133 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 30 Jul 2026 23:10:04 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 03:16:19 +0000</lastBuildDate>
+  <item>
+    <title>No Branchy Leaf Collisions</title>
+    <link>https://mods.vintagestory.at/show/mod/nblc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nblc#10674</guid>
+    <pubDate>Fri, 31 Jul 2026 03:15:49 -0000</pubDate>
+    <description>Removes the collider from branchy leaves.</description>
+  </item>
+  <item>
+    <title>Rift Traveler</title>
+    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
+    <pubDate>Fri, 31 Jul 2026 02:59:37 -0000</pubDate>
+    <description>Explore rifts, craft temporal tech, teleport home, and transmit cargo across space</description>
+  </item>
+  <item>
+    <title>VS Instruments Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/10555</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
+    <pubDate>Fri, 31 Jul 2026 02:52:01 -0000</pubDate>
+    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
+  </item>
+  <item>
+    <title>LoFS Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/lofsclass</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lofsclass#10241</guid>
+    <pubDate>Fri, 31 Jul 2026 01:46:15 -0000</pubDate>
+    <description>Working Classes reimagined for the Lands of the Fallen Stars RP Event! Image Unrelated</description>
+  </item>
+  <item>
+    <title>Antique Tuning Cylinders</title>
+    <link>https://mods.vintagestory.at/show/mod/antiquecylinders</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiquecylinders#9034</guid>
+    <pubDate>Fri, 31 Jul 2026 01:42:00 -0000</pubDate>
+    <description>Original orchestral cylinders &amp; lore to accompany Antique Harmony (Music mod)</description>
+  </item>
+  <item>
+    <title>[addon] Realistic Cylinder Audio | Antique Tuning Cylinders</title>
+    <link>https://mods.vintagestory.at/show/mod/10679</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10679#10679</guid>
+    <pubDate>Fri, 31 Jul 2026 01:17:45 -0000</pubDate>
+    <description>Makes tuning cylinders sound as if they are being played on a real record player</description>
+  </item>
+  <item>
+    <title>Optimum</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Fri, 31 Jul 2026 01:09:38 -0000</pubDate>
+    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
+  </item>
+  <item>
+    <title>DragonPhysicsFix</title>
+    <link>https://mods.vintagestory.at/show/mod/10664</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10664#10664</guid>
+    <pubDate>Fri, 31 Jul 2026 01:07:53 -0000</pubDate>
+    <description>Fixes nan crashes for dragons on my server</description>
+  </item>
+  <item>
+    <title>Furio's Telescope</title>
+    <link>https://mods.vintagestory.at/show/mod/telescopemod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/telescopemod#10648</guid>
+    <pubDate>Fri, 31 Jul 2026 00:54:47 -0000</pubDate>
+    <description>(ALPHA) Telescope mod in development</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Fri, 31 Jul 2026 00:22:10 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>VS Screen Alerts</title>
+    <link>https://mods.vintagestory.at/show/mod/vsscreenalerts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsscreenalerts#7404</guid>
+    <pubDate>Fri, 31 Jul 2026 00:19:18 -0000</pubDate>
+    <description>Admin command to show arbitrary text on players screens</description>
+  </item>
+  <item>
+    <title>The Revived Lands [PATCHES]</title>
+    <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
+    <pubDate>Thu, 30 Jul 2026 23:51:49 -0000</pubDate>
+    <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
+  </item>
+  <item>
+    <title>The Revived Lands [LANGS]</title>
+    <link>https://mods.vintagestory.at/show/mod/therevivedlangs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedlangs#10676</guid>
+    <pubDate>Thu, 30 Jul 2026 23:49:36 -0000</pubDate>
+    <description>Localization pack for The Revived Lands Vintage Story mod set.</description>
+  </item>
+  <item>
+    <title>Skeletons + Antlers &amp; Horns Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/7023</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7023#7023</guid>
+    <pubDate>Thu, 30 Jul 2026 23:46:08 -0000</pubDate>
+    <description>Makes horns usable by skeleton races</description>
+  </item>
+  <item>
+    <title>srstweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10673</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10673#10673</guid>
+    <pubDate>Thu, 30 Jul 2026 23:21:02 -0000</pubDate>
+    <description>Ignore this, it contains a few minor tweaks used on a private server.</description>
+  </item>
+  <item>
+    <title>Custom Server Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10378</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
+    <pubDate>Thu, 30 Jul 2026 23:20:01 -0000</pubDate>
+    <description>A collection of tweaks for our private server.</description>
+  </item>
+  <item>
+    <title>Stone Support Beam</title>
+    <link>https://mods.vintagestory.at/show/mod/10672</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10672#10672</guid>
+    <pubDate>Thu, 30 Jul 2026 23:12:38 -0000</pubDate>
+    <description>Adds stone variants of the support beam with a multi-step crafting process</description>
+  </item>
+  <item>
+    <title>Zoom Button Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/zoombuttonpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zoombuttonpatch#10443</guid>
+    <pubDate>Thu, 30 Jul 2026 23:12:20 -0000</pubDate>
+    <description>Hides minimap, coordinates hud and chat while zooming.</description>
+  </item>
   <item>
     <title>Entity Resync Fix</title>
     <link>https://mods.vintagestory.at/show/mod/entityresyncfix</link>
@@ -18,20 +144,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bowpatch#10613</guid>
     <pubDate>Thu, 30 Jul 2026 22:56:55 -0000</pubDate>
     <description>Cleaner UI while aiming.</description>
-  </item>
-  <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Thu, 30 Jul 2026 22:43:19 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
-    <title>DragonPhysicsFix</title>
-    <link>https://mods.vintagestory.at/show/mod/10664</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10664#10664</guid>
-    <pubDate>Thu, 30 Jul 2026 22:38:37 -0000</pubDate>
-    <description>Fixes nan crashes for dragons on my server</description>
   </item>
   <item>
     <title>Ritual Apotheosis</title>
@@ -60,13 +172,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
     <pubDate>Thu, 30 Jul 2026 21:55:26 -0000</pubDate>
     <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>Custom Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10378</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
-    <pubDate>Thu, 30 Jul 2026 21:52:22 -0000</pubDate>
-    <description>A collection of tweaks for our private server.</description>
   </item>
   <item>
     <title>Better Pyrolysis</title>
@@ -109,111 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wotpatches#10513</guid>
     <pubDate>Thu, 30 Jul 2026 21:22:43 -0000</pubDate>
     <description>Patches for World of Thalorim.</description>
-  </item>
-  <item>
-    <title>Regalia: Hanfu</title>
-    <link>https://mods.vintagestory.at/show/mod/hanfu</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hanfu#7996</guid>
-    <pubDate>Thu, 30 Jul 2026 21:16:56 -0000</pubDate>
-    <description>An expansion to Regalia, introducing traditional asian-inspired fine clothing</description>
-  </item>
-  <item>
-    <title>Panning Machine</title>
-    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
-    <pubDate>Thu, 30 Jul 2026 21:08:13 -0000</pubDate>
-    <description>Simple machine for panning</description>
-  </item>
-  <item>
-    <title>All Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/allclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/allclasses#2689</guid>
-    <pubDate>Thu, 30 Jul 2026 20:51:36 -0000</pubDate>
-    <description>All classes mod adds 13 more (RP) classes. New metal pots, pans and more..</description>
-  </item>
-  <item>
-    <title>Nomad's Flute</title>
-    <link>https://mods.vintagestory.at/show/mod/10627</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10627#10627</guid>
-    <pubDate>Thu, 30 Jul 2026 20:33:26 -0000</pubDate>
-    <description>Adds a playable flute with two volume modes</description>
-  </item>
-  <item>
-    <title>All Classes Rebalanced - Unofficial Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/allrebalanced</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/allrebalanced#10360</guid>
-    <pubDate>Thu, 30 Jul 2026 20:30:32 -0000</pubDate>
-    <description>An AllClasses patch focused on balanced traits, class identity, new recipes and cooperation.</description>
-  </item>
-  <item>
-    <title>xSkills Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7605</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
-    <pubDate>Thu, 30 Jul 2026 20:10:38 -0000</pubDate>
-    <description>RPG-style skill system with abilities, perks, and progression.</description>
-  </item>
-  <item>
-    <title>xSkills Gilded Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/5529</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5529#5529</guid>
-    <pubDate>Thu, 30 Jul 2026 20:10:17 -0000</pubDate>
-    <description>This mod adds a beautifully designed, immersive, and user-friendly interface for xSkills. </description>
-  </item>
-  <item>
-    <title>xLib Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7618</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7618#7618</guid>
-    <pubDate>Thu, 30 Jul 2026 20:09:55 -0000</pubDate>
-    <description>XLib provides an interface to add skills, abilities and effects to the game.</description>
-  </item>
-  <item>
-    <title>Floral Zones: East Asiatic Region</title>
-    <link>https://mods.vintagestory.at/show/mod/floralzoneseastasiaticregion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzoneseastasiaticregion#2081</guid>
-    <pubDate>Thu, 30 Jul 2026 20:08:34 -0000</pubDate>
-    <description>Adds plants from the East Asiatic Region to the game.</description>
-  </item>
-  <item>
-    <title>C&amp;N Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/canclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canclaims#589</guid>
-    <pubDate>Thu, 30 Jul 2026 19:27:18 -0000</pubDate>
-    <description>Land protection mod.</description>
-  </item>
-  <item>
-    <title>Floral Zones: Central Australian Region</title>
-    <link>https://mods.vintagestory.at/show/mod/floralzonescentralaustralianregion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescentralaustralianregion#1989</guid>
-    <pubDate>Thu, 30 Jul 2026 19:20:47 -0000</pubDate>
-    <description>Adds plants from the Central Australian Region to the game.</description>
-  </item>
-  <item>
-    <title>RemoveStructures Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/8609</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8609#8609</guid>
-    <pubDate>Thu, 30 Jul 2026 19:18:13 -0000</pubDate>
-    <description>A server-side Vintage Story mod for configuring the spawn chance of world structures such as translo</description>
-  </item>
-  <item>
-    <title>ReinforcementPrivacy</title>
-    <link>https://mods.vintagestory.at/show/mod/8867</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8867#8867</guid>
-    <pubDate>Thu, 30 Jul 2026 19:17:54 -0000</pubDate>
-    <description>Privacy mod that anonymizes readable player and group names in block reinforcement data.</description>
-  </item>
-  <item>
-    <title>adminbraziers</title>
-    <link>https://mods.vintagestory.at/show/mod/8868</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8868#8868</guid>
-    <pubDate>Thu, 30 Jul 2026 19:17:34 -0000</pubDate>
-    <description>Admin-focused metal braziers and fire cages for server-managed Vintage Story areas.</description>
-  </item>
-  <item>
-    <title>disablepvpinsideclaims</title>
-    <link>https://mods.vintagestory.at/show/mod/8869</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8869#8869</guid>
-    <pubDate>Thu, 30 Jul 2026 19:17:24 -0000</pubDate>
-    <description>Disables player-vs-player damage inside land claims.</description>
   </item>
 </channel>
 </rss>
