@@ -4,7 +4,119 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 31 Jul 2026 19:37:34 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 21:07:57 +0000</lastBuildDate>
+  <item>
+    <title>The Quire Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/10455</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
+    <pubDate>Fri, 31 Jul 2026 20:56:27 -0000</pubDate>
+    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/10453</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
+    <pubDate>Fri, 31 Jul 2026 20:54:59 -0000</pubDate>
+    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>OptiTime</title>
+    <link>https://mods.vintagestory.at/show/mod/optitime</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optitime#5942</guid>
+    <pubDate>Fri, 31 Jul 2026 20:48:15 -0000</pubDate>
+    <description>Clientside performance optimizations, specially for modded gameplays</description>
+  </item>
+  <item>
+    <title>Synergy</title>
+    <link>https://mods.vintagestory.at/show/mod/synergy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/synergy#8293</guid>
+    <pubDate>Fri, 31 Jul 2026 20:48:04 -0000</pubDate>
+    <description>Coordinated client-server performance optimizations, specially for modded gameplays</description>
+  </item>
+  <item>
+    <title>Tungsten</title>
+    <link>https://mods.vintagestory.at/show/mod/tungsten</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tungsten#5943</guid>
+    <pubDate>Fri, 31 Jul 2026 20:47:46 -0000</pubDate>
+    <description>Serverside performance optimizations, specially for modded gameplays</description>
+  </item>
+  <item>
+    <title>KCs Dragon Player!</title>
+    <link>https://mods.vintagestory.at/show/mod/kcsdragons</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragons#8146</guid>
+    <pubDate>Fri, 31 Jul 2026 20:40:16 -0000</pubDate>
+    <description>Adds an anthropomorphic dragon player model to the game</description>
+  </item>
+  <item>
+    <title>Grinding Wheel Rework</title>
+    <link>https://mods.vintagestory.at/show/mod/grindingwheelrework</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindingwheelrework#8252</guid>
+    <pubDate>Fri, 31 Jul 2026 20:34:53 -0000</pubDate>
+    <description>Expands grinding wheel to support more tools and turns sharpening into a lightweight repair system</description>
+  </item>
+  <item>
+    <title>VSDS · Vintage Story Dockerized Server</title>
+    <link>https://mods.vintagestory.at/show/mod/vsds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsds#4516</guid>
+    <pubDate>Fri, 31 Jul 2026 20:25:41 -0000</pubDate>
+    <description>Vintage Story Dockerized Server to easily deploy a Vintage Story Server anywhere!</description>
+  </item>
+  <item>
+    <title>AoS | Armor Female Seraphs Compatability</title>
+    <link>https://mods.vintagestory.at/show/mod/8914</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8914#8914</guid>
+    <pubDate>Fri, 31 Jul 2026 20:12:40 -0000</pubDate>
+    <description>Provides armor compatibility between female seraphs and various armor mods.</description>
+  </item>
+  <item>
+    <title>Tavern Cards: Full Game</title>
+    <link>https://mods.vintagestory.at/show/mod/taverncards</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taverncards#10689</guid>
+    <pubDate>Fri, 31 Jul 2026 20:04:04 -0000</pubDate>
+    <description>Tavern Cards adds a complete playing-card system to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Wapiti Tow Carts</title>
+    <link>https://mods.vintagestory.at/show/mod/wapititowcarts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wapititowcarts#10540</guid>
+    <pubDate>Fri, 31 Jul 2026 20:01:26 -0000</pubDate>
+    <description>Wapiti Tow Carts is an addon for Cartwright’s Caravan</description>
+  </item>
+  <item>
+    <title>UI-Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/uitweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/uitweaks#7926</guid>
+    <pubDate>Fri, 31 Jul 2026 20:00:19 -0000</pubDate>
+    <description>Zoom Button, configurable HUD, in-game calculator, and more...</description>
+  </item>
+  <item>
+    <title>Nickelback</title>
+    <link>https://mods.vintagestory.at/show/mod/nickelback</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nickelback#9223</guid>
+    <pubDate>Fri, 31 Jul 2026 20:00:13 -0000</pubDate>
+    <description>This mod gives you bits of metal back when a tool breaks during quenching</description>
+  </item>
+  <item>
+    <title>Skaven/Rat Player Model</title>
+    <link>https://mods.vintagestory.at/show/mod/skavenratplayermodel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skavenratplayermodel#5322</guid>
+    <pubDate>Fri, 31 Jul 2026 19:56:48 -0000</pubDate>
+    <description>Adds a Skaven/Rat player model to the game it uses Player Model Lib by Maltiez!</description>
+  </item>
+  <item>
+    <title>The Almanac: Illuminated</title>
+    <link>https://mods.vintagestory.at/show/mod/10454</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10454#10454</guid>
+    <pubDate>Fri, 31 Jul 2026 19:56:17 -0000</pubDate>
+    <description>A living questbook opened with Alt+J. Chapters appear only for the mods you have loaded.</description>
+  </item>
+  <item>
+    <title>NDL Rapids</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlrapids</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlrapids#10647</guid>
+    <pubDate>Fri, 31 Jul 2026 19:45:01 -0000</pubDate>
+    <description>Allows you to change fresh water source blocks to rapids source blocks</description>
+  </item>
   <item>
     <title>Window Display - Patches</title>
     <link>https://mods.vintagestory.at/show/mod/windowdisplaypatches</link>
@@ -90,13 +202,6 @@
     <description>Guide about our server</description>
   </item>
   <item>
-    <title>The Almanac: Trades, Callings &amp; Mastery</title>
-    <link>https://mods.vintagestory.at/show/mod/10453</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
-    <pubDate>Fri, 31 Jul 2026 18:08:04 -0000</pubDate>
-    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
     <title>Long term food</title>
     <link>https://mods.vintagestory.at/show/mod/longtermfood</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/longtermfood#2374</guid>
@@ -109,111 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/respawninfo#1369</guid>
     <pubDate>Fri, 31 Jul 2026 18:00:10 -0000</pubDate>
     <description>Adds a command and a small GUI to check your respawn count and coordinates.</description>
-  </item>
-  <item>
-    <title>Synergy</title>
-    <link>https://mods.vintagestory.at/show/mod/synergy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/synergy#8293</guid>
-    <pubDate>Fri, 31 Jul 2026 17:59:54 -0000</pubDate>
-    <description>Coordinated client-server performance optimizations, specially for modded gameplays</description>
-  </item>
-  <item>
-    <title>BNI Essentials</title>
-    <link>https://mods.vintagestory.at/show/mod/bniessentials</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bniessentials#10690</guid>
-    <pubDate>Fri, 31 Jul 2026 17:45:56 -0000</pubDate>
-    <description>Essential game play enhancing features and tweaks for the Batteries Not Included community server.</description>
-  </item>
-  <item>
-    <title>Plaster Stairs &amp; Slabs</title>
-    <link>https://mods.vintagestory.at/show/mod/plasterstairsslabs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plasterstairsslabs#4624</guid>
-    <pubDate>Fri, 31 Jul 2026 17:43:36 -0000</pubDate>
-    <description>A simple mod for adding plaster stairs and slabs.</description>
-  </item>
-  <item>
-    <title>CFY Simple Hotbar Refill</title>
-    <link>https://mods.vintagestory.at/show/mod/simplerefill</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplerefill#4723</guid>
-    <pubDate>Fri, 31 Jul 2026 17:41:37 -0000</pubDate>
-    <description>Automatically refills tools, blocks, and items in the hotbar.</description>
-  </item>
-  <item>
-    <title>C&amp;N Jewelry</title>
-    <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
-    <pubDate>Fri, 31 Jul 2026 17:29:19 -0000</pubDate>
-    <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
-  </item>
-  <item>
-    <title>Floral Zones: Neozeylandic Region</title>
-    <link>https://mods.vintagestory.at/show/mod/floralzonesneozeylandicregion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonesneozeylandicregion#2180</guid>
-    <pubDate>Fri, 31 Jul 2026 17:11:15 -0000</pubDate>
-    <description>Adds plants from the Neozeylandic Region to the game.</description>
-  </item>
-  <item>
-    <title>Stone Support Beam</title>
-    <link>https://mods.vintagestory.at/show/mod/10672</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10672#10672</guid>
-    <pubDate>Fri, 31 Jul 2026 16:12:22 -0000</pubDate>
-    <description>Adds stone variants of the support beam with a multi-step crafting process</description>
-  </item>
-  <item>
-    <title>Panning Machine</title>
-    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
-    <pubDate>Fri, 31 Jul 2026 16:08:38 -0000</pubDate>
-    <description>Simple machine for panning</description>
-  </item>
-  <item>
-    <title>Tungsten</title>
-    <link>https://mods.vintagestory.at/show/mod/tungsten</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tungsten#5943</guid>
-    <pubDate>Fri, 31 Jul 2026 15:57:18 -0000</pubDate>
-    <description>Serverside performance optimizations, specially for modded gameplays</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Specialized Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/aosspecializedclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aosspecializedclasses#8501</guid>
-    <pubDate>Fri, 31 Jul 2026 15:52:07 -0000</pubDate>
-    <description>Age of Seraphs Specialized Classes Fork</description>
-  </item>
-  <item>
-    <title>Tavern Cards: Full Game</title>
-    <link>https://mods.vintagestory.at/show/mod/taverncards</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taverncards#10689</guid>
-    <pubDate>Fri, 31 Jul 2026 15:50:26 -0000</pubDate>
-    <description>Tavern Cards adds a complete playing-card system to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Rosa Prospecting</title>
-    <link>https://mods.vintagestory.at/show/mod/10649</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10649#10649</guid>
-    <pubDate>Fri, 31 Jul 2026 15:44:29 -0000</pubDate>
-    <description>Overhaul and expansion of the vanilla ore prospecting.</description>
-  </item>
-  <item>
-    <title>Layout</title>
-    <link>https://mods.vintagestory.at/show/mod/10287</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10287#10287</guid>
-    <pubDate>Fri, 31 Jul 2026 15:39:14 -0000</pubDate>
-    <description>Layout tool that produces inert, uninteractable 2D/3D voxel guidelines in various shapes.</description>
-  </item>
-  <item>
-    <title>Floral Zones: Central Australian Region</title>
-    <link>https://mods.vintagestory.at/show/mod/floralzonescentralaustralianregion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescentralaustralianregion#1989</guid>
-    <pubDate>Fri, 31 Jul 2026 14:55:09 -0000</pubDate>
-    <description>Adds plants from the Central Australian Region to the game.</description>
-  </item>
-  <item>
-    <title>Mineral Soup (Diet version)</title>
-    <link>https://mods.vintagestory.at/show/mod/dietmineralsoup</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dietmineralsoup#7108</guid>
-    <pubDate>Fri, 31 Jul 2026 14:54:28 -0000</pubDate>
-    <description>Rebalances (buffs) panning drops from sand, gravel and bony soil. Light version.</description>
   </item>
 </channel>
 </rss>
