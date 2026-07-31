@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 31 Jul 2026 12:01:50 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 15:21:01 +0000</lastBuildDate>
+  <item>
+    <title>Floral Zones: Central Australian Region</title>
+    <link>https://mods.vintagestory.at/show/mod/floralzonescentralaustralianregion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescentralaustralianregion#1989</guid>
+    <pubDate>Fri, 31 Jul 2026 14:55:09 -0000</pubDate>
+    <description>Adds plants from the Central Australian Region to the game.</description>
+  </item>
+  <item>
+    <title>Mineral Soup (Diet version)</title>
+    <link>https://mods.vintagestory.at/show/mod/dietmineralsoup</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dietmineralsoup#7108</guid>
+    <pubDate>Fri, 31 Jul 2026 14:54:28 -0000</pubDate>
+    <description>Rebalances (buffs) panning drops from sand, gravel and bony soil. Light version.</description>
+  </item>
+  <item>
+    <title>Floral Zones: Caribbean Region</title>
+    <link>https://mods.vintagestory.at/show/mod/floralzonescaribbeanregion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescaribbeanregion#1666</guid>
+    <pubDate>Fri, 31 Jul 2026 14:54:06 -0000</pubDate>
+    <description>Adds plants from the Caribbean Region to the game.</description>
+  </item>
+  <item>
+    <title>Floral Zones: Cape Region</title>
+    <link>https://mods.vintagestory.at/show/mod/floralzonescaperegion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescaperegion#1570</guid>
+    <pubDate>Fri, 31 Jul 2026 14:52:13 -0000</pubDate>
+    <description>Adds plants from the Cape Region to the game.</description>
+  </item>
+  <item>
+    <title>Dar's Commands</title>
+    <link>https://mods.vintagestory.at/show/mod/darscommands</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darscommands#7005</guid>
+    <pubDate>Fri, 31 Jul 2026 14:29:05 -0000</pubDate>
+    <description>Some fun admin commands.</description>
+  </item>
+  <item>
+    <title>ourstoryguide</title>
+    <link>https://mods.vintagestory.at/show/mod/ourstoryguide</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ourstoryguide#10685</guid>
+    <pubDate>Fri, 31 Jul 2026 14:08:58 -0000</pubDate>
+    <description>Guide about our server</description>
+  </item>
+  <item>
+    <title>Just Poop It</title>
+    <link>https://mods.vintagestory.at/show/mod/9846</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9846#9846</guid>
+    <pubDate>Fri, 31 Jul 2026 13:59:51 -0000</pubDate>
+    <description>Everything poops... now your character does too.</description>
+  </item>
+  <item>
+    <title>SimpleJewelry</title>
+    <link>https://mods.vintagestory.at/show/mod/6977</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6977#6977</guid>
+    <pubDate>Fri, 31 Jul 2026 13:46:15 -0000</pubDate>
+    <description>Simple mod that adds crafting recipes for existing jewelry items</description>
+  </item>
+  <item>
+    <title>Mini's Assorted Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/9896</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9896#9896</guid>
+    <pubDate>Fri, 31 Jul 2026 13:37:11 -0000</pubDate>
+    <description>Buncha changes for a LAN</description>
+  </item>
+  <item>
+    <title>MoreInventorys</title>
+    <link>https://mods.vintagestory.at/show/mod/moreinventorys</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreinventorys#10306</guid>
+    <pubDate>Fri, 31 Jul 2026 12:59:56 -0000</pubDate>
+    <description>The mod adds new inventories for convenient and immersive storage: Shelves, crates, racks for weapon</description>
+  </item>
+  <item>
+    <title>OptiTime</title>
+    <link>https://mods.vintagestory.at/show/mod/optitime</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optitime#5942</guid>
+    <pubDate>Fri, 31 Jul 2026 12:08:12 -0000</pubDate>
+    <description>Clientside performance optimizations, specially for modded gameplays</description>
+  </item>
+  <item>
+    <title>Russification For Mods</title>
+    <link>https://mods.vintagestory.at/show/mod/5312</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5312#5312</guid>
+    <pubDate>Fri, 31 Jul 2026 12:01:52 -0000</pubDate>
+    <description>Russian Translation Pack — a collection of Russian localizations for various Vintage Story mods.</description>
+  </item>
   <item>
     <title>Cuniculture</title>
     <link>https://mods.vintagestory.at/show/mod/3779</link>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10175#10175</guid>
     <pubDate>Fri, 31 Jul 2026 07:02:46 -0000</pubDate>
     <description>Adds severals Mosasaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Long Neck Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/10176</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10176#10176</guid>
-    <pubDate>Fri, 31 Jul 2026 07:02:27 -0000</pubDate>
-    <description>Adds the family of Macronarians dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Horrible Hands Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/10177</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10177#10177</guid>
-    <pubDate>Fri, 31 Jul 2026 07:02:06 -0000</pubDate>
-    <description>Adds the family of ornithomimosauria dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Vesselpacks! (Clay Vessel Backpacks!)</title>
-    <link>https://mods.vintagestory.at/show/mod/3135</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3135#3135</guid>
-    <pubDate>Fri, 31 Jul 2026 07:02:05 -0000</pubDate>
-    <description>Lets you turn those clay storage vessels into wearable backpacks, for an easy 12 slots of inventory.</description>
-  </item>
-  <item>
-    <title>Horned Crown Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/10178</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10178#10178</guid>
-    <pubDate>Fri, 31 Jul 2026 07:01:45 -0000</pubDate>
-    <description>Adds the family of ceratopsian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Fused Body Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/10179</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10179#10179</guid>
-    <pubDate>Fri, 31 Jul 2026 07:01:25 -0000</pubDate>
-    <description>Adds the family of ankylosaurian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Domed Head Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/10180</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10180#10180</guid>
-    <pubDate>Fri, 31 Jul 2026 07:01:08 -0000</pubDate>
-    <description>Adds the family of pachycephalosaurians dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Carnivorous Bull Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/10181</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10181#10181</guid>
-    <pubDate>Fri, 31 Jul 2026 07:00:43 -0000</pubDate>
-    <description>Adds severals abelisaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Birds of Prey Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/10182</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10182#10182</guid>
-    <pubDate>Fri, 31 Jul 2026 06:53:08 -0000</pubDate>
-    <description>Adds severals dromaeosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Dino Core</title>
-    <link>https://mods.vintagestory.at/show/mod/10683</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10683#10683</guid>
-    <pubDate>Fri, 31 Jul 2026 06:51:42 -0000</pubDate>
-    <description>Required core for the LoP dino mods.</description>
-  </item>
-  <item>
-    <title>AnanLa's Quenching Guarantee</title>
-    <link>https://mods.vintagestory.at/show/mod/ananlaquenchingguarantee</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ananlaquenchingguarantee#10625</guid>
-    <pubDate>Fri, 31 Jul 2026 06:46:41 -0000</pubDate>
-    <description>为 Vintage Story 的金属淬火增加多模式保底系统，降低反复锻造的精神损耗。 A multi-mode pity system for metal quenching in Vintage.</description>
-  </item>
-  <item>
-    <title>AnanLa's Quenching Prediction</title>
-    <link>https://mods.vintagestory.at/show/mod/ananlaquenchingprediction</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ananlaquenchingprediction#10658</guid>
-    <pubDate>Fri, 31 Jul 2026 06:10:48 -0000</pubDate>
-    <description>一个 Vintage Story 模组，在淬火即将碎裂时发出预警，减少反复烧铁搓工具的精神损耗。A Vintage Story mod that warns you when an item is a</description>
-  </item>
-  <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Fri, 31 Jul 2026 06:04:54 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
   </item>
 </channel>
 </rss>
