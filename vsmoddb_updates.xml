@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 31 Jul 2026 15:21:01 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 17:40:53 +0000</lastBuildDate>
+  <item>
+    <title>C&amp;N Jewelry</title>
+    <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
+    <pubDate>Fri, 31 Jul 2026 17:29:19 -0000</pubDate>
+    <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
+  </item>
+  <item>
+    <title>Floral Zones: Neozeylandic Region</title>
+    <link>https://mods.vintagestory.at/show/mod/floralzonesneozeylandicregion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonesneozeylandicregion#2180</guid>
+    <pubDate>Fri, 31 Jul 2026 17:11:15 -0000</pubDate>
+    <description>Adds plants from the Neozeylandic Region to the game.</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/10453</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
+    <pubDate>Fri, 31 Jul 2026 16:33:47 -0000</pubDate>
+    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>Stone Support Beam</title>
+    <link>https://mods.vintagestory.at/show/mod/10672</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10672#10672</guid>
+    <pubDate>Fri, 31 Jul 2026 16:12:22 -0000</pubDate>
+    <description>Adds stone variants of the support beam with a multi-step crafting process</description>
+  </item>
+  <item>
+    <title>Panning Machine</title>
+    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
+    <pubDate>Fri, 31 Jul 2026 16:08:38 -0000</pubDate>
+    <description>Simple machine for panning</description>
+  </item>
+  <item>
+    <title>Tungsten</title>
+    <link>https://mods.vintagestory.at/show/mod/tungsten</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tungsten#5943</guid>
+    <pubDate>Fri, 31 Jul 2026 15:57:18 -0000</pubDate>
+    <description>Serverside performance optimizations, specially for modded gameplays</description>
+  </item>
+  <item>
+    <title>Age of Seraphs Specialized Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/aosspecializedclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aosspecializedclasses#8501</guid>
+    <pubDate>Fri, 31 Jul 2026 15:52:07 -0000</pubDate>
+    <description>Age of Seraphs Specialized Classes Fork</description>
+  </item>
+  <item>
+    <title>Tavern Cards: Full Game</title>
+    <link>https://mods.vintagestory.at/show/mod/taverncards</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taverncards#10689</guid>
+    <pubDate>Fri, 31 Jul 2026 15:50:26 -0000</pubDate>
+    <description>Tavern Cards adds a complete playing-card system to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Rosa Prospecting</title>
+    <link>https://mods.vintagestory.at/show/mod/10649</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10649#10649</guid>
+    <pubDate>Fri, 31 Jul 2026 15:44:29 -0000</pubDate>
+    <description>Overhaul and expansion of the vanilla ore prospecting.</description>
+  </item>
+  <item>
+    <title>Layout</title>
+    <link>https://mods.vintagestory.at/show/mod/10287</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10287#10287</guid>
+    <pubDate>Fri, 31 Jul 2026 15:39:14 -0000</pubDate>
+    <description>Layout tool that produces inert, uninteractable 2D/3D voxel guidelines in various shapes.</description>
+  </item>
   <item>
     <title>Floral Zones: Central Australian Region</title>
     <link>https://mods.vintagestory.at/show/mod/floralzonescentralaustralianregion</link>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bowpatch#10613</guid>
     <pubDate>Fri, 31 Jul 2026 09:14:14 -0000</pubDate>
     <description>Cleaner UI while aiming. Now also for 1.21!</description>
-  </item>
-  <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Fri, 31 Jul 2026 07:54:39 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
-    <title>EZ Translocators</title>
-    <link>https://mods.vintagestory.at/show/mod/eztranslocators</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eztranslocators#10641</guid>
-    <pubDate>Fri, 31 Jul 2026 07:40:50 -0000</pubDate>
-    <description>Break repaired translocators, place them wherever you want and use your map to teleport.</description>
-  </item>
-  <item>
-    <title>Equus: Wild Horses 2.0</title>
-    <link>https://mods.vintagestory.at/show/mod/equusferus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusferus#10434</guid>
-    <pubDate>Fri, 31 Jul 2026 07:26:36 -0000</pubDate>
-    <description>Adds tameable wild horses to the game, successor to Equus: Wild Horses</description>
-  </item>
-  <item>
-    <title>Tyrant King Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/10168</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10168#10168</guid>
-    <pubDate>Fri, 31 Jul 2026 07:04:44 -0000</pubDate>
-    <description>Adds severals tyrannosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Shovel Mouth Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/10169</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10169#10169</guid>
-    <pubDate>Fri, 31 Jul 2026 07:04:26 -0000</pubDate>
-    <description>Adds the family of hadrosauroids dinosaurs to Vintage Story. Unofficial compatibility port for Vinta</description>
-  </item>
-  <item>
-    <title>Sharp Tooth Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/10170</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10170#10170</guid>
-    <pubDate>Fri, 31 Jul 2026 07:04:03 -0000</pubDate>
-    <description>Adds severals carcharodontosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Scythe Claws Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/10172</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10172#10172</guid>
-    <pubDate>Fri, 31 Jul 2026 07:03:38 -0000</pubDate>
-    <description>Adds the family of therizinosaurids dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Sailed Spine Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/10173</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10173#10173</guid>
-    <pubDate>Fri, 31 Jul 2026 07:03:20 -0000</pubDate>
-    <description>Adds severals spinosaurids to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Plated Back Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/10174</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10174#10174</guid>
-    <pubDate>Fri, 31 Jul 2026 07:03:05 -0000</pubDate>
-    <description>Adds the family of stegosaurian dinosaurs to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Ocean Tyrant Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/10175</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10175#10175</guid>
-    <pubDate>Fri, 31 Jul 2026 07:02:46 -0000</pubDate>
-    <description>Adds severals Mosasaurids to Vintage Story.</description>
   </item>
 </channel>
 </rss>
