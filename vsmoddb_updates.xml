@@ -4,20 +4,167 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 31 Jul 2026 06:46:20 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 09:46:39 +0000</lastBuildDate>
+  <item>
+    <title>Better Hopper</title>
+    <link>https://mods.vintagestory.at/show/mod/betterhopper</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhopper#4477</guid>
+    <pubDate>Fri, 31 Jul 2026 09:15:56 -0000</pubDate>
+    <description>Add a better hopper to the game, which can pull items two block over it. </description>
+  </item>
+  <item>
+    <title>Bow Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/bowpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bowpatch#10613</guid>
+    <pubDate>Fri, 31 Jul 2026 09:14:14 -0000</pubDate>
+    <description>Cleaner UI while aiming. Now also for 1.21!</description>
+  </item>
+  <item>
+    <title>Vintage Rift - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
+    <pubDate>Fri, 31 Jul 2026 07:54:39 -0000</pubDate>
+    <description>Client only code for the Vintage Rift server</description>
+  </item>
+  <item>
+    <title>EZ Translocators</title>
+    <link>https://mods.vintagestory.at/show/mod/eztranslocators</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eztranslocators#10641</guid>
+    <pubDate>Fri, 31 Jul 2026 07:40:50 -0000</pubDate>
+    <description>Break repaired translocators, place them wherever you want and use your map to teleport.</description>
+  </item>
+  <item>
+    <title>Equus: Wild Horses 2.0</title>
+    <link>https://mods.vintagestory.at/show/mod/equusferus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusferus#10434</guid>
+    <pubDate>Fri, 31 Jul 2026 07:26:36 -0000</pubDate>
+    <description>Adds tameable wild horses to the game, successor to Equus: Wild Horses</description>
+  </item>
+  <item>
+    <title>Tyrant King Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/10168</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10168#10168</guid>
+    <pubDate>Fri, 31 Jul 2026 07:04:44 -0000</pubDate>
+    <description>Adds severals tyrannosaurids to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Shovel Mouth Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/10169</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10169#10169</guid>
+    <pubDate>Fri, 31 Jul 2026 07:04:26 -0000</pubDate>
+    <description>Adds the family of hadrosauroids dinosaurs to Vintage Story. Unofficial compatibility port for Vinta</description>
+  </item>
+  <item>
+    <title>Sharp Tooth Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/10170</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10170#10170</guid>
+    <pubDate>Fri, 31 Jul 2026 07:04:03 -0000</pubDate>
+    <description>Adds severals carcharodontosaurids to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Scythe Claws Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/10172</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10172#10172</guid>
+    <pubDate>Fri, 31 Jul 2026 07:03:38 -0000</pubDate>
+    <description>Adds the family of therizinosaurids dinosaurs to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Sailed Spine Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/10173</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10173#10173</guid>
+    <pubDate>Fri, 31 Jul 2026 07:03:20 -0000</pubDate>
+    <description>Adds severals spinosaurids to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Plated Back Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/10174</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10174#10174</guid>
+    <pubDate>Fri, 31 Jul 2026 07:03:05 -0000</pubDate>
+    <description>Adds the family of stegosaurian dinosaurs to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Ocean Tyrant Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/10175</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10175#10175</guid>
+    <pubDate>Fri, 31 Jul 2026 07:02:46 -0000</pubDate>
+    <description>Adds severals Mosasaurids to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Long Neck Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/10176</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10176#10176</guid>
+    <pubDate>Fri, 31 Jul 2026 07:02:27 -0000</pubDate>
+    <description>Adds the family of Macronarians dinosaurs to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Horrible Hands Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/10177</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10177#10177</guid>
+    <pubDate>Fri, 31 Jul 2026 07:02:06 -0000</pubDate>
+    <description>Adds the family of ornithomimosauria dinosaurs to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Vesselpacks! (Clay Vessel Backpacks!)</title>
+    <link>https://mods.vintagestory.at/show/mod/3135</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3135#3135</guid>
+    <pubDate>Fri, 31 Jul 2026 07:02:05 -0000</pubDate>
+    <description>Lets you turn those clay storage vessels into wearable backpacks, for an easy 12 slots of inventory.</description>
+  </item>
+  <item>
+    <title>Horned Crown Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/10178</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10178#10178</guid>
+    <pubDate>Fri, 31 Jul 2026 07:01:45 -0000</pubDate>
+    <description>Adds the family of ceratopsian dinosaurs to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Fused Body Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/10179</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10179#10179</guid>
+    <pubDate>Fri, 31 Jul 2026 07:01:25 -0000</pubDate>
+    <description>Adds the family of ankylosaurian dinosaurs to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Domed Head Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/10180</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10180#10180</guid>
+    <pubDate>Fri, 31 Jul 2026 07:01:08 -0000</pubDate>
+    <description>Adds the family of pachycephalosaurians dinosaurs to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Carnivorous Bull Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/10181</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10181#10181</guid>
+    <pubDate>Fri, 31 Jul 2026 07:00:43 -0000</pubDate>
+    <description>Adds severals abelisaurids to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Birds of Prey Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/10182</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10182#10182</guid>
+    <pubDate>Fri, 31 Jul 2026 06:53:08 -0000</pubDate>
+    <description>Adds severals dromaeosaurids to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Dino Core</title>
+    <link>https://mods.vintagestory.at/show/mod/10683</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10683#10683</guid>
+    <pubDate>Fri, 31 Jul 2026 06:51:42 -0000</pubDate>
+    <description>Required core for the LoP dino mods.</description>
+  </item>
+  <item>
+    <title>AnanLa's Quenching Guarantee</title>
+    <link>https://mods.vintagestory.at/show/mod/ananlaquenchingguarantee</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ananlaquenchingguarantee#10625</guid>
+    <pubDate>Fri, 31 Jul 2026 06:46:41 -0000</pubDate>
+    <description>为 Vintage Story 的金属淬火增加多模式保底系统，降低反复锻造的精神损耗。 A multi-mode pity system for metal quenching in Vintage.</description>
+  </item>
   <item>
     <title>AnanLa's Quenching Prediction</title>
     <link>https://mods.vintagestory.at/show/mod/ananlaquenchingprediction</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ananlaquenchingprediction#10658</guid>
     <pubDate>Fri, 31 Jul 2026 06:10:48 -0000</pubDate>
     <description>一个 Vintage Story 模组，在淬火即将碎裂时发出预警，减少反复烧铁搓工具的精神损耗。A Vintage Story mod that warns you when an item is a</description>
-  </item>
-  <item>
-    <title>AnanLa's Quenching Guarantee</title>
-    <link>https://mods.vintagestory.at/show/mod/ananlaquenchingguarantee</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ananlaquenchingguarantee#10625</guid>
-    <pubDate>Fri, 31 Jul 2026 06:09:11 -0000</pubDate>
-    <description>为 Vintage Story 的金属淬火增加多模式保底系统，降低反复锻造的精神损耗。 A multi-mode pity system for metal quenching in Vintage.</description>
   </item>
   <item>
     <title>Riley's Classes</title>
@@ -48,13 +195,6 @@
     <description>Build ancient rites from fragments. The world is your altar. Dig deep. Seek truth. Light the fires.</description>
   </item>
   <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Fri, 31 Jul 2026 04:41:50 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
     <title>Rift Traveler</title>
     <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
@@ -74,146 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10653#10653</guid>
     <pubDate>Fri, 31 Jul 2026 03:58:11 -0000</pubDate>
     <description>tweak</description>
-  </item>
-  <item>
-    <title>Grassroots</title>
-    <link>https://mods.vintagestory.at/show/mod/grassroots</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
-    <pubDate>Fri, 31 Jul 2026 03:43:19 -0000</pubDate>
-    <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Fri, 31 Jul 2026 03:42:56 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Fri, 31 Jul 2026 03:29:19 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>Lunchbox</title>
-    <link>https://mods.vintagestory.at/show/mod/lunchbox</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lunchbox#6518</guid>
-    <pubDate>Fri, 31 Jul 2026 03:26:35 -0000</pubDate>
-    <description>Adds storage containers which automatically feeds the player when hungry</description>
-  </item>
-  <item>
-    <title>No Branchy Leaf Collisions</title>
-    <link>https://mods.vintagestory.at/show/mod/nblc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nblc#10674</guid>
-    <pubDate>Fri, 31 Jul 2026 03:15:49 -0000</pubDate>
-    <description>Removes the collider from branchy leaves.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/10555</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
-    <pubDate>Fri, 31 Jul 2026 02:52:01 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>LoFS Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/lofsclass</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lofsclass#10241</guid>
-    <pubDate>Fri, 31 Jul 2026 01:46:15 -0000</pubDate>
-    <description>Working Classes reimagined for the Lands of the Fallen Stars RP Event! Image Unrelated</description>
-  </item>
-  <item>
-    <title>Antique Tuning Cylinders</title>
-    <link>https://mods.vintagestory.at/show/mod/antiquecylinders</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiquecylinders#9034</guid>
-    <pubDate>Fri, 31 Jul 2026 01:42:00 -0000</pubDate>
-    <description>Original orchestral cylinders &amp; lore to accompany Antique Harmony (Music mod)</description>
-  </item>
-  <item>
-    <title>[addon] Realistic Cylinder Audio | Antique Tuning Cylinders</title>
-    <link>https://mods.vintagestory.at/show/mod/10679</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10679#10679</guid>
-    <pubDate>Fri, 31 Jul 2026 01:17:45 -0000</pubDate>
-    <description>Makes tuning cylinders sound as if they are being played on a real record player</description>
-  </item>
-  <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Fri, 31 Jul 2026 01:09:38 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
-    <title>DragonPhysicsFix</title>
-    <link>https://mods.vintagestory.at/show/mod/10664</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10664#10664</guid>
-    <pubDate>Fri, 31 Jul 2026 01:07:53 -0000</pubDate>
-    <description>Fixes nan crashes for dragons on my server</description>
-  </item>
-  <item>
-    <title>Furio's Telescope</title>
-    <link>https://mods.vintagestory.at/show/mod/telescopemod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/telescopemod#10648</guid>
-    <pubDate>Fri, 31 Jul 2026 00:54:47 -0000</pubDate>
-    <description>(ALPHA) Telescope mod in development</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Fri, 31 Jul 2026 00:22:10 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>VS Screen Alerts</title>
-    <link>https://mods.vintagestory.at/show/mod/vsscreenalerts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsscreenalerts#7404</guid>
-    <pubDate>Fri, 31 Jul 2026 00:19:18 -0000</pubDate>
-    <description>Admin command to show arbitrary text on players screens</description>
-  </item>
-  <item>
-    <title>The Revived Lands [PATCHES]</title>
-    <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
-    <pubDate>Thu, 30 Jul 2026 23:51:49 -0000</pubDate>
-    <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
-  </item>
-  <item>
-    <title>The Revived Lands [LANGS]</title>
-    <link>https://mods.vintagestory.at/show/mod/therevivedlangs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedlangs#10676</guid>
-    <pubDate>Thu, 30 Jul 2026 23:49:36 -0000</pubDate>
-    <description>Localization pack for The Revived Lands Vintage Story mod set.</description>
-  </item>
-  <item>
-    <title>Skeletons + Antlers &amp; Horns Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/7023</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7023#7023</guid>
-    <pubDate>Thu, 30 Jul 2026 23:46:08 -0000</pubDate>
-    <description>Makes horns usable by skeleton races</description>
-  </item>
-  <item>
-    <title>srstweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10673</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10673#10673</guid>
-    <pubDate>Thu, 30 Jul 2026 23:21:02 -0000</pubDate>
-    <description>Ignore this, it contains a few minor tweaks used on a private server.</description>
-  </item>
-  <item>
-    <title>Custom Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10378</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
-    <pubDate>Thu, 30 Jul 2026 23:20:01 -0000</pubDate>
-    <description>A collection of tweaks for our private server.</description>
-  </item>
-  <item>
-    <title>Stone Support Beam</title>
-    <link>https://mods.vintagestory.at/show/mod/10672</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10672#10672</guid>
-    <pubDate>Thu, 30 Jul 2026 23:12:38 -0000</pubDate>
-    <description>Adds stone variants of the support beam with a multi-step crafting process</description>
   </item>
 </channel>
 </rss>
