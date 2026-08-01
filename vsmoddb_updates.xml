@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 01 Aug 2026 03:14:37 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 06:31:29 +0000</lastBuildDate>
+  <item>
+    <title>Entity Colortint</title>
+    <link>https://mods.vintagestory.at/show/mod/entitytint</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/entitytint#10705</guid>
+    <pubDate>Sat, 01 Aug 2026 06:01:35 -0000</pubDate>
+    <description>[FORK] Individual, genetic, entity colors without variants or new textures!</description>
+  </item>
+  <item>
+    <title>VoteGui</title>
+    <link>https://mods.vintagestory.at/show/mod/votegui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/votegui#10547</guid>
+    <pubDate>Sat, 01 Aug 2026 05:51:10 -0000</pubDate>
+    <description>Vote gui for vsserverlist.com</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Sat, 01 Aug 2026 05:35:37 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Worm Castings Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/10231</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10231#10231</guid>
+    <pubDate>Sat, 01 Aug 2026 05:08:37 -0000</pubDate>
+    <description>A very niche addition to Primitive Survival.</description>
+  </item>
+  <item>
+    <title>Crazy Skin Customization</title>
+    <link>https://mods.vintagestory.at/show/mod/crazyskincustomization</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crazyskincustomization#1664</guid>
+    <pubDate>Sat, 01 Aug 2026 05:06:49 -0000</pubDate>
+    <description>Replaces the default skin, eye, and hair colors with a larger variety of colors.</description>
+  </item>
+  <item>
+    <title>Pickup Baby Animals Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/pickupbabyanimalsfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pickupbabyanimalsfork#10704</guid>
+    <pubDate>Sat, 01 Aug 2026 04:48:56 -0000</pubDate>
+    <description>A forked version of Pickup Animals, originally made by PureWinter</description>
+  </item>
+  <item>
+    <title>ProjectL Blocks</title>
+    <link>https://mods.vintagestory.at/show/mod/projectlblocks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/projectlblocks#9948</guid>
+    <pubDate>Sat, 01 Aug 2026 03:50:01 -0000</pubDate>
+    <description>Blocks made for ProjectL. Mainly indestructible version of vanilla blocks.</description>
+  </item>
+  <item>
+    <title>Torch Of Infinity</title>
+    <link>https://mods.vintagestory.at/show/mod/10701</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10701#10701</guid>
+    <pubDate>Sat, 01 Aug 2026 03:34:06 -0000</pubDate>
+    <description>craft the torch of Infinity</description>
+  </item>
+  <item>
+    <title>Simple No Traders</title>
+    <link>https://mods.vintagestory.at/show/mod/6288</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6288#6288</guid>
+    <pubDate>Sat, 01 Aug 2026 03:33:08 -0000</pubDate>
+    <description>Remove traders</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Sat, 01 Aug 2026 03:24:04 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
   <item>
     <title>TassHardcoreWinter</title>
     <link>https://mods.vintagestory.at/show/mod/tasshardcorewinter</link>
@@ -32,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tethysservertweaks#6101</guid>
     <pubDate>Sat, 01 Aug 2026 02:39:30 -0000</pubDate>
     <description>Tweaks for a personal private server.</description>
-  </item>
-  <item>
-    <title>Torch Of Infinity</title>
-    <link>https://mods.vintagestory.at/show/mod/10701</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10701#10701</guid>
-    <pubDate>Sat, 01 Aug 2026 02:20:12 -0000</pubDate>
-    <description>craft the torch of Infinity</description>
   </item>
   <item>
     <title>Party Hats</title>
@@ -104,13 +167,6 @@
     <description>Tweaks to the downed mod to add Kenshi like behavior</description>
   </item>
   <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sat, 01 Aug 2026 00:01:07 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
     <title>Immersive Backpacks</title>
     <link>https://mods.vintagestory.at/show/mod/immersivebackpacks</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpacks#9787</guid>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/squeezeberries#8045</guid>
     <pubDate>Fri, 31 Jul 2026 23:10:55 -0000</pubDate>
     <description>Squeeze berries into bowls, buckets, and other water vessels like you can with honeycomb. v1.21-22</description>
-  </item>
-  <item>
-    <title>NDL TreeHollows</title>
-    <link>https://mods.vintagestory.at/show/mod/ndltreehollows</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndltreehollows#7149</guid>
-    <pubDate>Fri, 31 Jul 2026 23:07:05 -0000</pubDate>
-    <description>Add lootable tree hollows that generate throughout your world!</description>
-  </item>
-  <item>
-    <title>Seamless Windows</title>
-    <link>https://mods.vintagestory.at/show/mod/10495</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10495#10495</guid>
-    <pubDate>Fri, 31 Jul 2026 22:42:59 -0000</pubDate>
-    <description>An addon for Unleaded Windows that matching window panes into seamless surfaces.</description>
-  </item>
-  <item>
-    <title>Smart Barrel</title>
-    <link>https://mods.vintagestory.at/show/mod/10584</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10584#10584</guid>
-    <pubDate>Fri, 31 Jul 2026 22:40:43 -0000</pubDate>
-    <description>Shift-clicking an ingredient into a barrel transfers only the amount needed.</description>
-  </item>
-  <item>
-    <title>Thaumatology (Alpha)</title>
-    <link>https://mods.vintagestory.at/show/mod/thaumatology</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thaumatology#512</guid>
-    <pubDate>Fri, 31 Jul 2026 22:07:28 -0000</pubDate>
-    <description>Thaumatology lets you harness the essence inherent in the world around you.</description>
-  </item>
-  <item>
-    <title>Minimap Waypoint List</title>
-    <link>https://mods.vintagestory.at/show/mod/mwl</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mwl#10558</guid>
-    <pubDate>Fri, 31 Jul 2026 22:02:01 -0000</pubDate>
-    <description>Displays a list of waypoints within the current minimap</description>
-  </item>
-  <item>
-    <title>DragonPhysicsFix</title>
-    <link>https://mods.vintagestory.at/show/mod/10664</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10664#10664</guid>
-    <pubDate>Fri, 31 Jul 2026 21:47:32 -0000</pubDate>
-    <description>Fixes nan crashes for dragons on my server</description>
-  </item>
-  <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Fri, 31 Jul 2026 21:37:21 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
-    <title>Benz Patent Motorwagen - Updatet</title>
-    <link>https://mods.vintagestory.at/show/mod/10697</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10697#10697</guid>
-    <pubDate>Fri, 31 Jul 2026 21:29:53 -0000</pubDate>
-    <description>Vehicle for VintageStory, orginal made by TheVerto</description>
   </item>
 </channel>
 </rss>
