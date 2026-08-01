@@ -4,20 +4,83 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 01 Aug 2026 11:18:06 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 13:26:31 +0000</lastBuildDate>
   <item>
-    <title>Animalica - Compatibility pack 1</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicac</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicac#9798</guid>
-    <pubDate>Sat, 01 Aug 2026 10:47:13 -0000</pubDate>
-    <description>Adds a small list of modded animals as players!</description>
+    <title>Dense Ground Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
+    <pubDate>Sat, 01 Aug 2026 13:25:11 -0000</pubDate>
+    <description>Place down more items per block and on chiseled blocks</description>
+  </item>
+  <item>
+    <title>Involved Farming: Fallow</title>
+    <link>https://mods.vintagestory.at/show/mod/10691</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10691#10691</guid>
+    <pubDate>Sat, 01 Aug 2026 13:18:40 -0000</pubDate>
+    <description>Adds fallow- an additional, immersive step between harvested and sowed farmland.</description>
+  </item>
+  <item>
+    <title>More animations</title>
+    <link>https://mods.vintagestory.at/show/mod/mefimations</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mefimations#9963</guid>
+    <pubDate>Sat, 01 Aug 2026 13:02:59 -0000</pubDate>
+    <description>Better body and face animations</description>
+  </item>
+  <item>
+    <title>Fablewood Foods</title>
+    <link>https://mods.vintagestory.at/show/mod/fablewoodfoods</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fablewoodfoods#10694</guid>
+    <pubDate>Sat, 01 Aug 2026 12:46:48 -0000</pubDate>
+    <description>A collection of new foods and meals to enhance your whimsy.</description>
+  </item>
+  <item>
+    <title>SlotMachine</title>
+    <link>https://mods.vintagestory.at/show/mod/slotmachine</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slotmachine#10663</guid>
+    <pubDate>Sat, 01 Aug 2026 12:41:22 -0000</pubDate>
+    <description>A configurable slot capacity system for Vintage Story.</description>
+  </item>
+  <item>
+    <title>Fix Perish Rate</title>
+    <link>https://mods.vintagestory.at/show/mod/fixperishrate</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fixperishrate#7839</guid>
+    <pubDate>Sat, 01 Aug 2026 12:23:54 -0000</pubDate>
+    <description>Fix perish rate.</description>
+  </item>
+  <item>
+    <title>Panning Machine</title>
+    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
+    <pubDate>Sat, 01 Aug 2026 12:23:43 -0000</pubDate>
+    <description>Simple machine for panning</description>
+  </item>
+  <item>
+    <title>ProjectL Gen</title>
+    <link>https://mods.vintagestory.at/show/mod/10703</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10703#10703</guid>
+    <pubDate>Sat, 01 Aug 2026 12:12:46 -0000</pubDate>
+    <description>Labyrinth Worlds, Sky Island, Cave World, the Stuff</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalsbackpacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalsbackpacks#2160</guid>
+    <pubDate>Sat, 01 Aug 2026 12:01:32 -0000</pubDate>
+    <description>Yes. New backpacks again.</description>
   </item>
   <item>
     <title>Animalica Core</title>
     <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
-    <pubDate>Sat, 01 Aug 2026 10:47:02 -0000</pubDate>
+    <pubDate>Sat, 01 Aug 2026 11:55:55 -0000</pubDate>
     <description>Core mod for playable animals. Does nothing on it's own</description>
+  </item>
+  <item>
+    <title>Animalica - Compatibility pack 1</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicac</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicac#9798</guid>
+    <pubDate>Sat, 01 Aug 2026 11:55:28 -0000</pubDate>
+    <description>Adds a small list of modded animals as players!</description>
   </item>
   <item>
     <title>VoteGui</title>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seamarks#10124</guid>
     <pubDate>Sat, 01 Aug 2026 07:15:26 -0000</pubDate>
     <description>Build lighthouses and fire beacons to help navigate the world and its oceans.</description>
-  </item>
-  <item>
-    <title>Entity Colortint</title>
-    <link>https://mods.vintagestory.at/show/mod/entitytint</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/entitytint#10705</guid>
-    <pubDate>Sat, 01 Aug 2026 06:01:35 -0000</pubDate>
-    <description>[FORK] Individual, genetic, entity colors without variants or new textures!</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Sat, 01 Aug 2026 05:35:37 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>Worm Castings Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/10231</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10231#10231</guid>
-    <pubDate>Sat, 01 Aug 2026 05:08:37 -0000</pubDate>
-    <description>A very niche addition to Primitive Survival.</description>
-  </item>
-  <item>
-    <title>Crazy Skin Customization</title>
-    <link>https://mods.vintagestory.at/show/mod/crazyskincustomization</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crazyskincustomization#1664</guid>
-    <pubDate>Sat, 01 Aug 2026 05:06:49 -0000</pubDate>
-    <description>Replaces the default skin, eye, and hair colors with a larger variety of colors.</description>
-  </item>
-  <item>
-    <title>Pickup Baby Animals Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/pickupbabyanimalsfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pickupbabyanimalsfork#10704</guid>
-    <pubDate>Sat, 01 Aug 2026 04:48:56 -0000</pubDate>
-    <description>A forked version of Pickup Animals, originally made by PureWinter</description>
-  </item>
-  <item>
-    <title>ProjectL Blocks</title>
-    <link>https://mods.vintagestory.at/show/mod/projectlblocks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/projectlblocks#9948</guid>
-    <pubDate>Sat, 01 Aug 2026 03:50:01 -0000</pubDate>
-    <description>Blocks made for ProjectL. Mainly indestructible version of vanilla blocks.</description>
-  </item>
-  <item>
-    <title>Torch Of Infinity</title>
-    <link>https://mods.vintagestory.at/show/mod/10701</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10701#10701</guid>
-    <pubDate>Sat, 01 Aug 2026 03:34:06 -0000</pubDate>
-    <description>craft the torch of Infinity</description>
-  </item>
-  <item>
-    <title>Simple No Traders</title>
-    <link>https://mods.vintagestory.at/show/mod/6288</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6288#6288</guid>
-    <pubDate>Sat, 01 Aug 2026 03:33:08 -0000</pubDate>
-    <description>Remove traders</description>
-  </item>
-  <item>
-    <title>TassHardcoreWinter</title>
-    <link>https://mods.vintagestory.at/show/mod/tasshardcorewinter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshardcorewinter#10500</guid>
-    <pubDate>Sat, 01 Aug 2026 02:50:05 -0000</pubDate>
-    <description>Deeper snow, white out blizzards, restorative spring, realistic room temperature, heat source rework</description>
   </item>
 </channel>
 </rss>
