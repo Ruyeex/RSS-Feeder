@@ -4,20 +4,83 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 01 Aug 2026 13:26:31 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 15:02:36 +0000</lastBuildDate>
+  <item>
+    <title>Pure Strata</title>
+    <link>https://mods.vintagestory.at/show/mod/10714</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10714#10714</guid>
+    <pubDate>Sat, 01 Aug 2026 15:00:50 -0000</pubDate>
+    <description>Stops bad rock types from generating, resulting in less diversity.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Poklyk</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspoklyk</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspoklyk#9074</guid>
+    <pubDate>Sat, 01 Aug 2026 14:50:30 -0000</pubDate>
+    <description>Calling progression system where specializations emerge from player actions</description>
+  </item>
+  <item>
+    <title>Ritual Apotheosis</title>
+    <link>https://mods.vintagestory.at/show/mod/8215</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8215#8215</guid>
+    <pubDate>Sat, 01 Aug 2026 14:44:39 -0000</pubDate>
+    <description>Build ancient rites from fragments. The world is your altar. Dig deep. Seek truth. Light the fires.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Administrator</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalsadmin</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalsadmin#10712</guid>
+    <pubDate>Sat, 01 Aug 2026 14:31:22 -0000</pubDate>
+    <description>Modular administration toolkit for Vintage Story servers.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
+    <pubDate>Sat, 01 Aug 2026 14:29:11 -0000</pubDate>
+    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
+  </item>
+  <item>
+    <title>Vintage Recipes</title>
+    <link>https://mods.vintagestory.at/show/mod/vsrecipes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsrecipes#2233</guid>
+    <pubDate>Sat, 01 Aug 2026 14:21:07 -0000</pubDate>
+    <description>This Vintage Story mod tweaks some crafting recipes to be more realistic.</description>
+  </item>
+  <item>
+    <title>Holdfast</title>
+    <link>https://mods.vintagestory.at/show/mod/holdfast</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/holdfast#10247</guid>
+    <pubDate>Sat, 01 Aug 2026 14:15:35 -0000</pubDate>
+    <description>Found a town. Hire workers. Watch it grow one building at a time.</description>
+  </item>
+  <item>
+    <title>Involved Farming: Fallow</title>
+    <link>https://mods.vintagestory.at/show/mod/10691</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10691#10691</guid>
+    <pubDate>Sat, 01 Aug 2026 13:54:17 -0000</pubDate>
+    <description>Adds fallow- an additional, immersive step between harvested and sowed farmland.</description>
+  </item>
+  <item>
+    <title>Realistic Rapids</title>
+    <link>https://mods.vintagestory.at/show/mod/realisticrapids</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticrapids#10227</guid>
+    <pubDate>Sat, 01 Aug 2026 13:49:48 -0000</pubDate>
+    <description>Makes rapids and waterwheels work more realistically. Official addon for Realistic Water</description>
+  </item>
+  <item>
+    <title>Realistic Water</title>
+    <link>https://mods.vintagestory.at/show/mod/realisticwater</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticwater#8297</guid>
+    <pubDate>Sat, 01 Aug 2026 13:49:34 -0000</pubDate>
+    <description>Makes water spread and flow more realistically, so that you can build aqueducts, dams, canals etc</description>
+  </item>
   <item>
     <title>Dense Ground Storage</title>
     <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
     <pubDate>Sat, 01 Aug 2026 13:25:11 -0000</pubDate>
     <description>Place down more items per block and on chiseled blocks</description>
-  </item>
-  <item>
-    <title>Involved Farming: Fallow</title>
-    <link>https://mods.vintagestory.at/show/mod/10691</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10691#10691</guid>
-    <pubDate>Sat, 01 Aug 2026 13:18:40 -0000</pubDate>
-    <description>Adds fallow- an additional, immersive step between harvested and sowed farmland.</description>
   </item>
   <item>
     <title>More animations</title>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10708#10708</guid>
     <pubDate>Sat, 01 Aug 2026 08:40:50 -0000</pubDate>
     <description>Changes drop rates of monsters and the items they drop</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sat, 01 Aug 2026 08:35:21 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Ambien's Butchery Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/9865</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9865#9865</guid>
-    <pubDate>Sat, 01 Aug 2026 08:32:12 -0000</pubDate>
-    <description>Patches butchery for my server</description>
-  </item>
-  <item>
-    <title>Bola</title>
-    <link>https://mods.vintagestory.at/show/mod/bola</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bola#3726</guid>
-    <pubDate>Sat, 01 Aug 2026 08:23:37 -0000</pubDate>
-    <description>Adds Bola - throwing weapon that immobilizes creatures!</description>
-  </item>
-  <item>
-    <title>Combat Overhaul Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/combatoverhaulforked</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/combatoverhaulforked#8415</guid>
-    <pubDate>Sat, 01 Aug 2026 08:07:48 -0000</pubDate>
-    <description>1.22 fork</description>
-  </item>
-  <item>
-    <title>Crossbows Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/crossbowsfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crossbowsfork#8403</guid>
-    <pubDate>Sat, 01 Aug 2026 08:07:28 -0000</pubDate>
-    <description>Crossbows 1.22 Fork</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sat, 01 Aug 2026 07:52:12 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Containers Bundle</title>
-    <link>https://mods.vintagestory.at/show/mod/containersbundle</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/containersbundle#4058</guid>
-    <pubDate>Sat, 01 Aug 2026 07:24:14 -0000</pubDate>
-    <description>Adds 11 new containers to enrich game's container progression! With visual display of fullness!</description>
-  </item>
-  <item>
-    <title>Benz Patent Motorwagen - Updatet</title>
-    <link>https://mods.vintagestory.at/show/mod/10697</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10697#10697</guid>
-    <pubDate>Sat, 01 Aug 2026 07:24:13 -0000</pubDate>
-    <description>Vehicle for VintageStory, orginal made by TheVerto</description>
-  </item>
-  <item>
-    <title>Seamarks -- Beacons &amp; Lighthouses</title>
-    <link>https://mods.vintagestory.at/show/mod/seamarks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seamarks#10124</guid>
-    <pubDate>Sat, 01 Aug 2026 07:15:26 -0000</pubDate>
-    <description>Build lighthouses and fire beacons to help navigate the world and its oceans.</description>
   </item>
 </channel>
 </rss>
