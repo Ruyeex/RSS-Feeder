@@ -4,7 +4,98 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 01 Aug 2026 06:31:29 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 09:07:35 +0000</lastBuildDate>
+  <item>
+    <title>ArcadiaRacePatch</title>
+    <link>https://mods.vintagestory.at/show/mod/9176</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9176#9176</guid>
+    <pubDate>Sat, 01 Aug 2026 09:01:50 -0000</pubDate>
+    <description>Tweaks de race pour le serveur FR Arcadia</description>
+  </item>
+  <item>
+    <title>Haven</title>
+    <link>https://mods.vintagestory.at/show/mod/haven</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/haven#6215</guid>
+    <pubDate>Sat, 01 Aug 2026 08:40:52 -0000</pubDate>
+    <description>Safe haven where the basic player needs are met until they are ready to venture forth.</description>
+  </item>
+  <item>
+    <title>Fantasy Creatures Reborn Spawn Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/fcrspawntweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fcrspawntweaks#10707</guid>
+    <pubDate>Sat, 01 Aug 2026 08:40:51 -0000</pubDate>
+    <description>Spawn tweaks for Fantasy Creatures Reborn</description>
+  </item>
+  <item>
+    <title>Ambien's Server Item Drop Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10708</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10708#10708</guid>
+    <pubDate>Sat, 01 Aug 2026 08:40:50 -0000</pubDate>
+    <description>Changes drop rates of monsters and the items they drop</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sat, 01 Aug 2026 08:35:21 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Ambien's Butchery Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/9865</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9865#9865</guid>
+    <pubDate>Sat, 01 Aug 2026 08:32:12 -0000</pubDate>
+    <description>Patches butchery for my server</description>
+  </item>
+  <item>
+    <title>Bola</title>
+    <link>https://mods.vintagestory.at/show/mod/bola</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bola#3726</guid>
+    <pubDate>Sat, 01 Aug 2026 08:23:37 -0000</pubDate>
+    <description>Adds Bola - throwing weapon that immobilizes creatures!</description>
+  </item>
+  <item>
+    <title>Combat Overhaul Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/combatoverhaulforked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/combatoverhaulforked#8415</guid>
+    <pubDate>Sat, 01 Aug 2026 08:07:48 -0000</pubDate>
+    <description>1.22 fork</description>
+  </item>
+  <item>
+    <title>Crossbows Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/crossbowsfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crossbowsfork#8403</guid>
+    <pubDate>Sat, 01 Aug 2026 08:07:28 -0000</pubDate>
+    <description>Crossbows 1.22 Fork</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Sat, 01 Aug 2026 07:52:12 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Containers Bundle</title>
+    <link>https://mods.vintagestory.at/show/mod/containersbundle</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/containersbundle#4058</guid>
+    <pubDate>Sat, 01 Aug 2026 07:24:14 -0000</pubDate>
+    <description>Adds 11 new containers to enrich game's container progression! With visual display of fullness!</description>
+  </item>
+  <item>
+    <title>Benz Patent Motorwagen - Updatet</title>
+    <link>https://mods.vintagestory.at/show/mod/10697</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10697#10697</guid>
+    <pubDate>Sat, 01 Aug 2026 07:24:13 -0000</pubDate>
+    <description>Vehicle for VintageStory, orginal made by TheVerto</description>
+  </item>
+  <item>
+    <title>Seamarks -- Beacons &amp; Lighthouses</title>
+    <link>https://mods.vintagestory.at/show/mod/seamarks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seamarks#10124</guid>
+    <pubDate>Sat, 01 Aug 2026 07:15:26 -0000</pubDate>
+    <description>Build lighthouses and fire beacons to help navigate the world and its oceans.</description>
+  </item>
   <item>
     <title>Entity Colortint</title>
     <link>https://mods.vintagestory.at/show/mod/entitytint</link>
@@ -69,13 +160,6 @@
     <description>Remove traders</description>
   </item>
   <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sat, 01 Aug 2026 03:24:04 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
     <title>TassHardcoreWinter</title>
     <link>https://mods.vintagestory.at/show/mod/tasshardcorewinter</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshardcorewinter#10500</guid>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
     <pubDate>Sat, 01 Aug 2026 01:23:31 -0000</pubDate>
     <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
-  </item>
-  <item>
-    <title>Custom Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10378</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
-    <pubDate>Sat, 01 Aug 2026 01:02:18 -0000</pubDate>
-    <description>A collection of tweaks for our private server.</description>
-  </item>
-  <item>
-    <title>ElectricalProgressive:ColdStore</title>
-    <link>https://mods.vintagestory.at/show/mod/10638</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10638#10638</guid>
-    <pubDate>Sat, 01 Aug 2026 00:59:18 -0000</pubDate>
-    <description>Add a cold store (room) with an internal decay rate of 0.025 times</description>
-  </item>
-  <item>
-    <title>TassHunting</title>
-    <link>https://mods.vintagestory.at/show/mod/tasshunting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshunting#10438</guid>
-    <pubDate>Sat, 01 Aug 2026 00:35:20 -0000</pubDate>
-    <description>Arrows Stick - Blood - Smarter Animal AI - Aiming Tweaks - Health Based Animal Speed</description>
-  </item>
-  <item>
-    <title>TassFactions</title>
-    <link>https://mods.vintagestory.at/show/mod/10503</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
-    <pubDate>Sat, 01 Aug 2026 00:33:58 -0000</pubDate>
-    <description>A re-creation of the ol Minecraft factions mod</description>
-  </item>
-  <item>
-    <title>TassDownedTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tassdownedtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassdownedtweaks#10700</guid>
-    <pubDate>Sat, 01 Aug 2026 00:31:57 -0000</pubDate>
-    <description>Tweaks to the downed mod to add Kenshi like behavior</description>
-  </item>
-  <item>
-    <title>Immersive Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivebackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpacks#9787</guid>
-    <pubDate>Fri, 31 Jul 2026 23:55:12 -0000</pubDate>
-    <description>An overhaul of backpack behavior and rendering in Vintage Story.</description>
-  </item>
-  <item>
-    <title>Bushmeat Recipe</title>
-    <link>https://mods.vintagestory.at/show/mod/3736</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3736#3736</guid>
-    <pubDate>Fri, 31 Jul 2026 23:51:20 -0000</pubDate>
-    <description>Adds bushmeat (raw and salted) to meals.</description>
-  </item>
-  <item>
-    <title>StirlingMotor</title>
-    <link>https://mods.vintagestory.at/show/mod/3832</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3832#3832</guid>
-    <pubDate>Fri, 31 Jul 2026 23:51:02 -0000</pubDate>
-    <description>Adds a Stirling engine (coal energy)</description>
-  </item>
-  <item>
-    <title>FuelRework</title>
-    <link>https://mods.vintagestory.at/show/mod/10428</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10428#10428</guid>
-    <pubDate>Fri, 31 Jul 2026 23:50:53 -0000</pubDate>
-    <description>Increases the burn time of most fuels.</description>
-  </item>
-  <item>
-    <title>Magnetic Crown</title>
-    <link>https://mods.vintagestory.at/show/mod/10582</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10582#10582</guid>
-    <pubDate>Fri, 31 Jul 2026 23:50:45 -0000</pubDate>
-    <description>Crown that attracts all nearby items</description>
-  </item>
-  <item>
-    <title>TitaniumTools</title>
-    <link>https://mods.vintagestory.at/show/mod/3829</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3829#3829</guid>
-    <pubDate>Fri, 31 Jul 2026 23:50:35 -0000</pubDate>
-    <description>Adds titanium tools (pickaxe, axe, shovel, etc.)</description>
-  </item>
-  <item>
-    <title>Squeezable Berries</title>
-    <link>https://mods.vintagestory.at/show/mod/squeezeberries</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/squeezeberries#8045</guid>
-    <pubDate>Fri, 31 Jul 2026 23:10:55 -0000</pubDate>
-    <description>Squeeze berries into bowls, buckets, and other water vessels like you can with honeycomb. v1.21-22</description>
   </item>
 </channel>
 </rss>
