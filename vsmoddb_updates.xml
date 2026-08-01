@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 01 Aug 2026 20:55:54 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 21:59:57 +0000</lastBuildDate>
+  <item>
+    <title>Aldi's Classes - Threadweaver Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10726</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10726#10726</guid>
+    <pubDate>Sat, 01 Aug 2026 21:36:01 -0000</pubDate>
+    <description>Changes some traits of the Threadweaver class from Aldi's Classes</description>
+  </item>
+  <item>
+    <title>Tethys Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tethysservertweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tethysservertweaks#6101</guid>
+    <pubDate>Sat, 01 Aug 2026 21:24:15 -0000</pubDate>
+    <description>Tweaks for a personal private server.</description>
+  </item>
+  <item>
+    <title>Shelf Obsessed</title>
+    <link>https://mods.vintagestory.at/show/mod/shelfobsessed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shelfobsessed#4313</guid>
+    <pubDate>Sat, 01 Aug 2026 21:16:41 -0000</pubDate>
+    <description>Put more things on bookshelves and more. When in doubt, put it on the shelf! </description>
+  </item>
   <item>
     <title>Burdened: Immersive Carrying</title>
     <link>https://mods.vintagestory.at/show/mod/burdened</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aletraders#9745</guid>
     <pubDate>Sat, 01 Aug 2026 17:28:13 -0000</pubDate>
     <description>Adds two alcohol traders, who sell start-up distilling supplies, and buy all your spirits!</description>
-  </item>
-  <item>
-    <title>Fish Trader</title>
-    <link>https://mods.vintagestory.at/show/mod/fishtrader</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fishtrader#9614</guid>
-    <pubDate>Sat, 01 Aug 2026 17:28:07 -0000</pubDate>
-    <description>Adds the fishmonger trader, who sells fishing supplies and taxidermied catches, and buys fish!</description>
-  </item>
-  <item>
-    <title>Animal Trader</title>
-    <link>https://mods.vintagestory.at/show/mod/animaltrader</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animaltrader#9531</guid>
-    <pubDate>Sat, 01 Aug 2026 17:28:00 -0000</pubDate>
-    <description>Adds the livestock trader, who sells loads of baby animals, and buys animal products!</description>
-  </item>
-  <item>
-    <title>Decal Spraycans</title>
-    <link>https://mods.vintagestory.at/show/mod/decalspraycans</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/decalspraycans#9512</guid>
-    <pubDate>Sat, 01 Aug 2026 17:27:54 -0000</pubDate>
-    <description>Patches the Creative decal spraycans to be craftable in Survival!</description>
   </item>
 </channel>
 </rss>
