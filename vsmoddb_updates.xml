@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 01 Aug 2026 21:59:57 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 23:03:09 +0000</lastBuildDate>
+  <item>
+    <title>Real Smoke &amp; QP's Chisel Tools Compatibility Patch 1.22</title>
+    <link>https://mods.vintagestory.at/show/mod/realsmokeqp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmokeqp#8322</guid>
+    <pubDate>Sat, 01 Aug 2026 22:51:49 -0000</pubDate>
+    <description>Adds compatibility between Real Smoke and QP Chisel Tools decorative blocks.</description>
+  </item>
+  <item>
+    <title>Zoom Button Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/zoombuttonpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zoombuttonpatch#10443</guid>
+    <pubDate>Sat, 01 Aug 2026 22:47:16 -0000</pubDate>
+    <description>Hides minimap, coordinates hud and chat while zooming.</description>
+  </item>
+  <item>
+    <title>Fablewood Foods</title>
+    <link>https://mods.vintagestory.at/show/mod/fablewoodfoods</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fablewoodfoods#10694</guid>
+    <pubDate>Sat, 01 Aug 2026 22:33:04 -0000</pubDate>
+    <description>A collection of new foods and meals to enhance your whimsy.</description>
+  </item>
+  <item>
+    <title>GlobalSRVEvents</title>
+    <link>https://mods.vintagestory.at/show/mod/globalsrvevents</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/globalsrvevents#7274</guid>
+    <pubDate>Sat, 01 Aug 2026 22:27:34 -0000</pubDate>
+    <description>A collection of events things for the GlobalSRV project server</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/10453</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
+    <pubDate>Sat, 01 Aug 2026 22:23:30 -0000</pubDate>
+    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>Rift Traveler</title>
+    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
+    <pubDate>Sat, 01 Aug 2026 22:23:20 -0000</pubDate>
+    <description>Explore rifts, craft temporal tech, teleport home, and transmit cargo across space</description>
+  </item>
+  <item>
+    <title>TentBag-Reworked</title>
+    <link>https://mods.vintagestory.at/show/mod/tentbagreworked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tentbagreworked#3558</guid>
+    <pubDate>Sat, 01 Aug 2026 22:22:30 -0000</pubDate>
+    <description>Adds a tent bag for Vintage Story with scaling hunger cost based on tent complexity</description>
+  </item>
+  <item>
+    <title>Animalica - Compatibility pack 1</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicac</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicac#9798</guid>
+    <pubDate>Sat, 01 Aug 2026 22:06:58 -0000</pubDate>
+    <description>Adds a small list of modded animals as players!</description>
+  </item>
+  <item>
+    <title>Animalica Core</title>
+    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
+    <pubDate>Sat, 01 Aug 2026 22:06:41 -0000</pubDate>
+    <description>Core mod for playable animals. Does nothing on it's own</description>
+  </item>
   <item>
     <title>Aldi's Classes - Threadweaver Patch</title>
     <link>https://mods.vintagestory.at/show/mod/10726</link>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10420#10420</guid>
     <pubDate>Sat, 01 Aug 2026 18:24:56 -0000</pubDate>
     <description>Increases the bulk stack quantity on a few base game resources.</description>
-  </item>
-  <item>
-    <title>Panning Machine</title>
-    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
-    <pubDate>Sat, 01 Aug 2026 18:16:46 -0000</pubDate>
-    <description>Simple machine for panning</description>
-  </item>
-  <item>
-    <title>ooh! shiny!</title>
-    <link>https://mods.vintagestory.at/show/mod/oohshiny</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oohshiny#10722</guid>
-    <pubDate>Sat, 01 Aug 2026 18:06:44 -0000</pubDate>
-    <description>Many shiny jewelry</description>
-  </item>
-  <item>
-    <title>Furio's Telescope</title>
-    <link>https://mods.vintagestory.at/show/mod/telescopemod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/telescopemod#10648</guid>
-    <pubDate>Sat, 01 Aug 2026 17:56:24 -0000</pubDate>
-    <description>(ALPHA) Telescope mod in development</description>
-  </item>
-  <item>
-    <title>CropsYieldMoreSeeds</title>
-    <link>https://mods.vintagestory.at/show/mod/10720</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10720#10720</guid>
-    <pubDate>Sat, 01 Aug 2026 17:43:03 -0000</pubDate>
-    <description>harvestable crops always yield two seeds instead of one and/or none at all </description>
-  </item>
-  <item>
-    <title>Nimbus - A Server proxy for Vintagestory.</title>
-    <link>https://mods.vintagestory.at/show/mod/nimbusproxy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nimbusproxy#9517</guid>
-    <pubDate>Sat, 01 Aug 2026 17:38:43 -0000</pubDate>
-    <description>Put many backends behind one address, move players between them on demand.</description>
-  </item>
-  <item>
-    <title>Daubweave</title>
-    <link>https://mods.vintagestory.at/show/mod/daubweave</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/daubweave#10217</guid>
-    <pubDate>Sat, 01 Aug 2026 17:28:32 -0000</pubDate>
-    <description>A simple patch to buff daub output, and adds an alternative to craft daub blocks!</description>
-  </item>
-  <item>
-    <title>Pan Seashells</title>
-    <link>https://mods.vintagestory.at/show/mod/panseashells</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panseashells#9786</guid>
-    <pubDate>Sat, 01 Aug 2026 17:28:26 -0000</pubDate>
-    <description>A simple patch to add seashells into the panning droptable (for more lime)!</description>
-  </item>
-  <item>
-    <title>Fruit Buff</title>
-    <link>https://mods.vintagestory.at/show/mod/fruitbuff</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fruitbuff#9781</guid>
-    <pubDate>Sat, 01 Aug 2026 17:28:19 -0000</pubDate>
-    <description>Changes fruit trees and berry bushes to be much less of a pain to work with!</description>
-  </item>
-  <item>
-    <title>Ale Traders</title>
-    <link>https://mods.vintagestory.at/show/mod/aletraders</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aletraders#9745</guid>
-    <pubDate>Sat, 01 Aug 2026 17:28:13 -0000</pubDate>
-    <description>Adds two alcohol traders, who sell start-up distilling supplies, and buy all your spirits!</description>
   </item>
 </channel>
 </rss>
