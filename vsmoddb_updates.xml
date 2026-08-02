@@ -4,20 +4,90 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 02 Aug 2026 11:17:52 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 02 Aug 2026 13:26:39 +0000</lastBuildDate>
+  <item>
+    <title>The Revived Lands [PATCHES]</title>
+    <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
+    <pubDate>Sun, 02 Aug 2026 13:10:44 -0000</pubDate>
+    <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
+  </item>
+  <item>
+    <title>VSA_API</title>
+    <link>https://mods.vintagestory.at/show/mod/9139</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9139#9139</guid>
+    <pubDate>Sun, 02 Aug 2026 13:06:50 -0000</pubDate>
+    <description>VSA API</description>
+  </item>
+  <item>
+    <title>VSA - Replica</title>
+    <link>https://mods.vintagestory.at/show/mod/9115</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
+    <pubDate>Sun, 02 Aug 2026 13:06:33 -0000</pubDate>
+    <description>Build block-made moving ships and structures</description>
+  </item>
+  <item>
+    <title>FrameForgeTSR</title>
+    <link>https://mods.vintagestory.at/show/mod/frameforgetsr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frameforgetsr#10733</guid>
+    <pubDate>Sun, 02 Aug 2026 12:33:54 -0000</pubDate>
+    <description>Runtime and Visual System to give back frames while looking amazing.</description>
+  </item>
+  <item>
+    <title>Equus: Wild Horses 2.0</title>
+    <link>https://mods.vintagestory.at/show/mod/equusferus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusferus#10434</guid>
+    <pubDate>Sun, 02 Aug 2026 12:29:20 -0000</pubDate>
+    <description>Adds tameable wild horses to the game, successor to Equus: Wild Horses</description>
+  </item>
+  <item>
+    <title>Temporal Vessels - A Vessel Teleportation System</title>
+    <link>https://mods.vintagestory.at/show/mod/temporalvessels</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/temporalvessels#7817</guid>
+    <pubDate>Sun, 02 Aug 2026 12:13:30 -0000</pubDate>
+    <description>Teleport a storage vessel back to your base so you can continue your looting exploration adventure</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Sun, 02 Aug 2026 11:59:33 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Grinding Wheel Rework</title>
+    <link>https://mods.vintagestory.at/show/mod/grindingwheelrework</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindingwheelrework#8252</guid>
+    <pubDate>Sun, 02 Aug 2026 11:54:27 -0000</pubDate>
+    <description>Expands grinding wheel to support more tools and turns sharpening into a lightweight repair system</description>
+  </item>
+  <item>
+    <title>EZ Translocators</title>
+    <link>https://mods.vintagestory.at/show/mod/eztranslocators</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eztranslocators#10641</guid>
+    <pubDate>Sun, 02 Aug 2026 11:29:18 -0000</pubDate>
+    <description>Break repaired translocators, place them wherever you want and use your map to teleport.</description>
+  </item>
+  <item>
+    <title>Eidolon Unchained</title>
+    <link>https://mods.vintagestory.at/show/mod/eidolon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eidolon#7329</guid>
+    <pubDate>Sun, 02 Aug 2026 11:20:29 -0000</pubDate>
+    <description>Adds a walking Eidolon with multiple devastating attacks.</description>
+  </item>
+  <item>
+    <title>Isometric Renders</title>
+    <link>https://mods.vintagestory.at/show/mod/isometricrenders</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/isometricrenders#10732</guid>
+    <pubDate>Sun, 02 Aug 2026 11:20:22 -0000</pubDate>
+    <description>High resolution orthographic and isometric renders for Vintage Story worlds, structures and objects</description>
+  </item>
   <item>
     <title>mapteleporter</title>
     <link>https://mods.vintagestory.at/show/mod/8424</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8424#8424</guid>
     <pubDate>Sun, 02 Aug 2026 10:46:34 -0000</pubDate>
     <description>Map Teleporter</description>
-  </item>
-  <item>
-    <title>EZ Translocators</title>
-    <link>https://mods.vintagestory.at/show/mod/eztranslocators</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eztranslocators#10641</guid>
-    <pubDate>Sun, 02 Aug 2026 10:43:46 -0000</pubDate>
-    <description>Break repaired translocators, place them wherever you want and use your map to teleport.</description>
   </item>
   <item>
     <title>Hexis (Beta)</title>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6964#6964</guid>
     <pubDate>Sun, 02 Aug 2026 01:28:15 -0000</pubDate>
     <description>Backpack for books and scrolls. And another for butterflies</description>
-  </item>
-  <item>
-    <title>Eternal Stew</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalstew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalstew#6196</guid>
-    <pubDate>Sun, 02 Aug 2026 00:58:39 -0000</pubDate>
-    <description>Eternal Stew: a stove and pot that keep your stew simmering forever.</description>
-  </item>
-  <item>
-    <title>Requiem of Rust UI (RoRUI)</title>
-    <link>https://mods.vintagestory.at/show/mod/rorui</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rorui#7159</guid>
-    <pubDate>Sun, 02 Aug 2026 00:54:39 -0000</pubDate>
-    <description>A redo of the background for the UI and sliders dots etc for in game this is an earthy rusty tone.</description>
-  </item>
-  <item>
-    <title>Seamless Windows</title>
-    <link>https://mods.vintagestory.at/show/mod/10495</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10495#10495</guid>
-    <pubDate>Sun, 02 Aug 2026 00:50:52 -0000</pubDate>
-    <description>An addon for Unleaded Windows that matching window panes into seamless surfaces.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/10555</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
-    <pubDate>Sun, 02 Aug 2026 00:20:50 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>Chisel Leaf</title>
-    <link>https://mods.vintagestory.at/show/mod/chiselleaf</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiselleaf#9235</guid>
-    <pubDate>Sun, 02 Aug 2026 00:10:08 -0000</pubDate>
-    <description>Adds craftable leaf blocks you can chisel</description>
-  </item>
-  <item>
-    <title>Player Corpse (Azu Modded)</title>
-    <link>https://mods.vintagestory.at/show/mod/playercorpseforkedazu</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playercorpseforkedazu#9221</guid>
-    <pubDate>Sun, 02 Aug 2026 00:09:57 -0000</pubDate>
-    <description>Creates a corpse with the player's inventory after death (1.22+)</description>
-  </item>
-  <item>
-    <title>Lunchbox</title>
-    <link>https://mods.vintagestory.at/show/mod/lunchbox</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lunchbox#6518</guid>
-    <pubDate>Sun, 02 Aug 2026 00:09:46 -0000</pubDate>
-    <description>Adds storage containers which automatically feeds the player when hungry</description>
-  </item>
-  <item>
-    <title>Furio's Telescope</title>
-    <link>https://mods.vintagestory.at/show/mod/telescopemod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/telescopemod#10648</guid>
-    <pubDate>Sun, 02 Aug 2026 00:07:11 -0000</pubDate>
-    <description>(ALPHA) Telescope mod in development</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Sat, 01 Aug 2026 23:59:22 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>Fanloid Fantweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10433</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10433#10433</guid>
-    <pubDate>Sat, 01 Aug 2026 23:53:55 -0000</pubDate>
-    <description>Misc patches.</description>
   </item>
 </channel>
 </rss>
