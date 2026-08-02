@@ -4,12 +4,47 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 02 Aug 2026 13:26:39 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 02 Aug 2026 15:04:29 +0000</lastBuildDate>
+  <item>
+    <title>Zoom Button - Reborn</title>
+    <link>https://mods.vintagestory.at/show/mod/zoombutton</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zoombutton#443</guid>
+    <pubDate>Sun, 02 Aug 2026 14:48:40 -0000</pubDate>
+    <description>Where's all that damn wolf howling coming from?  Press Z to squint and find out.</description>
+  </item>
+  <item>
+    <title>The Ultimate Mod Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/10348</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10348#10348</guid>
+    <pubDate>Sun, 02 Aug 2026 14:44:58 -0000</pubDate>
+    <description>An in-game mod manager that's suitable even for remote servers without terminal/FTP access.</description>
+  </item>
+  <item>
+    <title>Rusty Piligrimm</title>
+    <link>https://mods.vintagestory.at/show/mod/10709</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10709#10709</guid>
+    <pubDate>Sun, 02 Aug 2026 14:42:40 -0000</pubDate>
+    <description>This mod adds a new terrifying enemy to your world.</description>
+  </item>
+  <item>
+    <title>Better insulation</title>
+    <link>https://mods.vintagestory.at/show/mod/betterinsulation</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterinsulation#10734</guid>
+    <pubDate>Sun, 02 Aug 2026 14:39:40 -0000</pubDate>
+    <description>Improve insulating block face calculation for chiseled blocks</description>
+  </item>
+  <item>
+    <title>Tethys Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tethysservertweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tethysservertweaks#6101</guid>
+    <pubDate>Sun, 02 Aug 2026 14:36:21 -0000</pubDate>
+    <description>Tweaks for a personal private server.</description>
+  </item>
   <item>
     <title>The Revived Lands [PATCHES]</title>
     <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
-    <pubDate>Sun, 02 Aug 2026 13:10:44 -0000</pubDate>
+    <pubDate>Sun, 02 Aug 2026 13:51:46 -0000</pubDate>
     <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
   </item>
   <item>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
     <pubDate>Sun, 02 Aug 2026 04:31:48 -0000</pubDate>
     <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Dress to Impress</title>
-    <link>https://mods.vintagestory.at/show/mod/dresstoimpress</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dresstoimpress#9650</guid>
-    <pubDate>Sun, 02 Aug 2026 03:58:24 -0000</pubDate>
-    <description>A collection of medieval-fantasy inspired clothing for everyday use</description>
-  </item>
-  <item>
-    <title>Scribe: Notes &amp; Tasks</title>
-    <link>https://mods.vintagestory.at/show/mod/scribe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scribe#10607</guid>
-    <pubDate>Sun, 02 Aug 2026 03:34:15 -0000</pubDate>
-    <description>Take notes and track tasks in-world. Pin tasks to a persistent HUD. Multiplayer-ready.</description>
-  </item>
-  <item>
-    <title>More Bugs</title>
-    <link>https://mods.vintagestory.at/show/mod/morebugs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebugs#10729</guid>
-    <pubDate>Sun, 02 Aug 2026 01:42:22 -0000</pubDate>
-    <description>Adds termites, ants, more flies (they show you rot in containers), spiders and jumping spiders :3</description>
-  </item>
-  <item>
-    <title>Mesoamerican Drip</title>
-    <link>https://mods.vintagestory.at/show/mod/mesoamericandrip</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mesoamericandrip#10666</guid>
-    <pubDate>Sun, 02 Aug 2026 01:38:42 -0000</pubDate>
-    <description>Mesoamerican inspired clothes for vintage story!</description>
-  </item>
-  <item>
-    <title>Backpack for books and scrolls</title>
-    <link>https://mods.vintagestory.at/show/mod/6964</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6964#6964</guid>
-    <pubDate>Sun, 02 Aug 2026 01:28:15 -0000</pubDate>
-    <description>Backpack for books and scrolls. And another for butterflies</description>
   </item>
 </channel>
 </rss>
