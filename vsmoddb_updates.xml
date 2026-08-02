@@ -4,7 +4,105 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 02 Aug 2026 15:04:29 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 02 Aug 2026 17:02:19 +0000</lastBuildDate>
+  <item>
+    <title>Eternal Seraph: Poklyk</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspoklyk</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspoklyk#9074</guid>
+    <pubDate>Sun, 02 Aug 2026 16:42:34 -0000</pubDate>
+    <description>Calling progression system where specializations emerge from player actions</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Chests</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalschests</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalschests#8152</guid>
+    <pubDate>Sun, 02 Aug 2026 16:41:20 -0000</pubDate>
+    <description>These chests were created for the [UA] Eternal Seraph server</description>
+  </item>
+  <item>
+    <title>ME's Custom Mod Downloader</title>
+    <link>https://mods.vintagestory.at/show/mod/10430</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10430#10430</guid>
+    <pubDate>Sun, 02 Aug 2026 16:39:09 -0000</pubDate>
+    <description>Servers distribute their own custom mods straight to joining clients, consent-gated, hash-verified.</description>
+  </item>
+  <item>
+    <title>Better Nails</title>
+    <link>https://mods.vintagestory.at/show/mod/betternails</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betternails#5868</guid>
+    <pubDate>Sun, 02 Aug 2026 16:19:33 -0000</pubDate>
+    <description>Never thought of using higher quality metals for nails? Better metals now yields more nails.</description>
+  </item>
+  <item>
+    <title>Sortable Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/sortablestorage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sortablestorage#636</guid>
+    <pubDate>Sun, 02 Aug 2026 16:15:59 -0000</pubDate>
+    <description>Need a sort button for your storage containers?  I know I do.</description>
+  </item>
+  <item>
+    <title>Translocator Engineering - Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/translocatorengineeringredux</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/translocatorengineeringredux#673</guid>
+    <pubDate>Sun, 02 Aug 2026 16:15:37 -0000</pubDate>
+    <description>Deconstruction, construction, and linking of static translocators.</description>
+  </item>
+  <item>
+    <title>Buzzwords</title>
+    <link>https://mods.vintagestory.at/show/mod/buzzwords</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/buzzwords#686</guid>
+    <pubDate>Sun, 02 Aug 2026 16:15:22 -0000</pubDate>
+    <description>Accessibility mod that shows a 'BzZzZzZ...' text alert to notify you that bees are nearby.</description>
+  </item>
+  <item>
+    <title>Millwright</title>
+    <link>https://mods.vintagestory.at/show/mod/millwright</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/millwright#1344</guid>
+    <pubDate>Sun, 02 Aug 2026 16:15:06 -0000</pubDate>
+    <description>Building better horizontal and vertical windmills, rotors, axles, and brakes since 1386. </description>
+  </item>
+  <item>
+    <title>StepUp  (continued)</title>
+    <link>https://mods.vintagestory.at/show/mod/stepupcontinued</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stepupcontinued#2516</guid>
+    <pubDate>Sun, 02 Aug 2026 16:14:49 -0000</pubDate>
+    <description>Automatically step up single blocks without jumping.</description>
+  </item>
+  <item>
+    <title>Metallurgy Tool Compatibility for IM</title>
+    <link>https://mods.vintagestory.at/show/mod/metallurgytoolfixforim</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metallurgytoolfixforim#10735</guid>
+    <pubDate>Sun, 02 Aug 2026 16:14:47 -0000</pubDate>
+    <description>Adds required animation parameters to Improved Metallurgy tools for full Immersive Mining compat</description>
+  </item>
+  <item>
+    <title>VSA - Replica</title>
+    <link>https://mods.vintagestory.at/show/mod/9115</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
+    <pubDate>Sun, 02 Aug 2026 16:01:23 -0000</pubDate>
+    <description>Build block-made moving ships and structures</description>
+  </item>
+  <item>
+    <title>Dumbwaiter</title>
+    <link>https://mods.vintagestory.at/show/mod/9778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9778#9778</guid>
+    <pubDate>Sun, 02 Aug 2026 15:36:10 -0000</pubDate>
+    <description>A medieval-style lift for moving between vertically-separated floors and storage transport. </description>
+  </item>
+  <item>
+    <title>lhgui</title>
+    <link>https://mods.vintagestory.at/show/mod/lhgui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lhgui#4960</guid>
+    <pubDate>Sun, 02 Aug 2026 15:32:56 -0000</pubDate>
+    <description>GUI mod for lasthearth server</description>
+  </item>
+  <item>
+    <title>Primitive Survival</title>
+    <link>https://mods.vintagestory.at/show/mod/primitivesurvival</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/primitivesurvival#322</guid>
+    <pubDate>Sun, 02 Aug 2026 15:31:07 -0000</pubDate>
+    <description>Fishing, trapping, irrigation, smoker, nightcrawlers, snakes, and much more!</description>
+  </item>
   <item>
     <title>Zoom Button - Reborn</title>
     <link>https://mods.vintagestory.at/show/mod/zoombutton</link>
@@ -53,13 +151,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9139#9139</guid>
     <pubDate>Sun, 02 Aug 2026 13:06:50 -0000</pubDate>
     <description>VSA API</description>
-  </item>
-  <item>
-    <title>VSA - Replica</title>
-    <link>https://mods.vintagestory.at/show/mod/9115</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
-    <pubDate>Sun, 02 Aug 2026 13:06:33 -0000</pubDate>
-    <description>Build block-made moving ships and structures</description>
   </item>
   <item>
     <title>FrameForgeTSR</title>
@@ -123,97 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8424#8424</guid>
     <pubDate>Sun, 02 Aug 2026 10:46:34 -0000</pubDate>
     <description>Map Teleporter</description>
-  </item>
-  <item>
-    <title>Hexis (Beta)</title>
-    <link>https://mods.vintagestory.at/show/mod/hexis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexis#10623</guid>
-    <pubDate>Sun, 02 Aug 2026 10:27:56 -0000</pubDate>
-    <description>A tactical, stance-based combat system of mass and momentum, Focus-built for VS' harsh reality</description>
-  </item>
-  <item>
-    <title>Extreme Weathers [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/10098</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
-    <pubDate>Sun, 02 Aug 2026 09:34:01 -0000</pubDate>
-    <description>Introduces new extreme weather events. Blizzards, sandstorms, tornadoes, hurricanes and more!</description>
-  </item>
-  <item>
-    <title>Lumos</title>
-    <link>https://mods.vintagestory.at/show/mod/lumos</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lumos#10713</guid>
-    <pubDate>Sun, 02 Aug 2026 09:28:33 -0000</pubDate>
-    <description>Reworking the game's lighting system and fixing related bugs</description>
-  </item>
-  <item>
-    <title>Toolsmith</title>
-    <link>https://mods.vintagestory.at/show/mod/toolsmith</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/toolsmith#3752</guid>
-    <pubDate>Sun, 02 Aug 2026 09:26:46 -0000</pubDate>
-    <description>Take better care of your tools and they will last you a long time!</description>
-  </item>
-  <item>
-    <title>Ambien's Pie Everything</title>
-    <link>https://mods.vintagestory.at/show/mod/10730</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10730#10730</guid>
-    <pubDate>Sun, 02 Aug 2026 08:45:32 -0000</pubDate>
-    <description>Put whatever you want into a pie, who cares? </description>
-  </item>
-  <item>
-    <title>Easier Fruit Tree Survival</title>
-    <link>https://mods.vintagestory.at/show/mod/fruittreebuff</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fruittreebuff#10731</guid>
-    <pubDate>Sun, 02 Aug 2026 08:14:55 -0000</pubDate>
-    <description>Increases fruit tree survival chance and temperature resistance, decreases vernalization time</description>
-  </item>
-  <item>
-    <title>Nileks Craftables</title>
-    <link>https://mods.vintagestory.at/show/mod/7639</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7639#7639</guid>
-    <pubDate>Sun, 02 Aug 2026 07:58:12 -0000</pubDate>
-    <description>Adds multiple ballenced recipes to craft items such as sticks and high fertility soil.</description>
-  </item>
-  <item>
-    <title>Weapon Pack Alpha - Rebalanced</title>
-    <link>https://mods.vintagestory.at/show/mod/3314</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
-    <pubDate>Sun, 02 Aug 2026 07:41:25 -0000</pubDate>
-    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
-  </item>
-  <item>
-    <title>Vintage Canvas</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagecanvas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagecanvas#9406</guid>
-    <pubDate>Sun, 02 Aug 2026 07:29:32 -0000</pubDate>
-    <description>Craft canvases, mix paint, and use brushes to decorate your world!</description>
-  </item>
-  <item>
-    <title>Land Of Estrellas</title>
-    <link>https://mods.vintagestory.at/show/mod/loe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/loe#10629</guid>
-    <pubDate>Sun, 02 Aug 2026 06:43:05 -0000</pubDate>
-    <description>The offical modpack of The Land of Estrellas server </description>
-  </item>
-  <item>
-    <title>GiMap</title>
-    <link>https://mods.vintagestory.at/show/mod/gimap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gimap#6153</guid>
-    <pubDate>Sun, 02 Aug 2026 06:13:35 -0000</pubDate>
-    <description>Ultimative map for your Vintage Story</description>
-  </item>
-  <item>
-    <title>Zenith: Assimilation</title>
-    <link>https://mods.vintagestory.at/show/mod/7485</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7485#7485</guid>
-    <pubDate>Sun, 02 Aug 2026 05:07:31 -0000</pubDate>
-    <description>Forge your path to Apotheosis. Consume Creatures, take their traits and become the ultimate lifeform</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sun, 02 Aug 2026 04:31:48 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
 </channel>
 </rss>
