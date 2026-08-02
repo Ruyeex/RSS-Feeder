@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 02 Aug 2026 09:10:17 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 02 Aug 2026 11:17:52 +0000</lastBuildDate>
+  <item>
+    <title>mapteleporter</title>
+    <link>https://mods.vintagestory.at/show/mod/8424</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8424#8424</guid>
+    <pubDate>Sun, 02 Aug 2026 10:46:34 -0000</pubDate>
+    <description>Map Teleporter</description>
+  </item>
+  <item>
+    <title>EZ Translocators</title>
+    <link>https://mods.vintagestory.at/show/mod/eztranslocators</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eztranslocators#10641</guid>
+    <pubDate>Sun, 02 Aug 2026 10:43:46 -0000</pubDate>
+    <description>Break repaired translocators, place them wherever you want and use your map to teleport.</description>
+  </item>
+  <item>
+    <title>Hexis (Beta)</title>
+    <link>https://mods.vintagestory.at/show/mod/hexis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexis#10623</guid>
+    <pubDate>Sun, 02 Aug 2026 10:27:56 -0000</pubDate>
+    <description>A tactical, stance-based combat system of mass and momentum, Focus-built for VS' harsh reality</description>
+  </item>
+  <item>
+    <title>Extreme Weathers [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/10098</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
+    <pubDate>Sun, 02 Aug 2026 09:34:01 -0000</pubDate>
+    <description>Introduces new extreme weather events. Blizzards, sandstorms, tornadoes, hurricanes and more!</description>
+  </item>
+  <item>
+    <title>Lumos</title>
+    <link>https://mods.vintagestory.at/show/mod/lumos</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lumos#10713</guid>
+    <pubDate>Sun, 02 Aug 2026 09:28:33 -0000</pubDate>
+    <description>Reworking the game's lighting system and fixing related bugs</description>
+  </item>
+  <item>
+    <title>Toolsmith</title>
+    <link>https://mods.vintagestory.at/show/mod/toolsmith</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/toolsmith#3752</guid>
+    <pubDate>Sun, 02 Aug 2026 09:26:46 -0000</pubDate>
+    <description>Take better care of your tools and they will last you a long time!</description>
+  </item>
   <item>
     <title>Ambien's Pie Everything</title>
     <link>https://mods.vintagestory.at/show/mod/10730</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10433#10433</guid>
     <pubDate>Sat, 01 Aug 2026 23:53:55 -0000</pubDate>
     <description>Misc patches.</description>
-  </item>
-  <item>
-    <title>Leaf Litter</title>
-    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
-    <pubDate>Sat, 01 Aug 2026 23:42:12 -0000</pubDate>
-    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
-  </item>
-  <item>
-    <title>CropsYieldMoreSeeds</title>
-    <link>https://mods.vintagestory.at/show/mod/10720</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10720#10720</guid>
-    <pubDate>Sat, 01 Aug 2026 23:42:00 -0000</pubDate>
-    <description>harvestable crops always yield two seeds instead of one and/or none at all </description>
-  </item>
-  <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Sat, 01 Aug 2026 23:41:44 -0000</pubDate>
-    <description>Trees slowly shed their leaves based on temperature. Vanilla or Eco Machina compatible.</description>
-  </item>
-  <item>
-    <title>Waypointer</title>
-    <link>https://mods.vintagestory.at/show/mod/waypointer</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waypointer#9026</guid>
-    <pubDate>Sat, 01 Aug 2026 23:37:11 -0000</pubDate>
-    <description>Marker Manager. + Automatic marker installation: traders, translocators, and resin.</description>
-  </item>
-  <item>
-    <title>Tailored Society</title>
-    <link>https://mods.vintagestory.at/show/mod/tailoredsociety</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tailoredsociety#10610</guid>
-    <pubDate>Sat, 01 Aug 2026 23:15:56 -0000</pubDate>
-    <description>Adds some people npc's into the game</description>
-  </item>
-  <item>
-    <title>VS Screen Alerts</title>
-    <link>https://mods.vintagestory.at/show/mod/vsscreenalerts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsscreenalerts#7404</guid>
-    <pubDate>Sat, 01 Aug 2026 23:14:58 -0000</pubDate>
-    <description>Admin command to show arbitrary text on players screens</description>
   </item>
 </channel>
 </rss>
