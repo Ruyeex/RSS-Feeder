@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 03 Aug 2026 14:44:21 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 03 Aug 2026 17:10:16 +0000</lastBuildDate>
+  <item>
+    <title>Rusty Piligrimm</title>
+    <link>https://mods.vintagestory.at/show/mod/10709</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10709#10709</guid>
+    <pubDate>Mon, 03 Aug 2026 17:08:29 -0000</pubDate>
+    <description>This mod adds a new terrifying enemy to your world.</description>
+  </item>
+  <item>
+    <title>Aldi's Classes - Homesteader Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10754</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10754#10754</guid>
+    <pubDate>Mon, 03 Aug 2026 17:03:28 -0000</pubDate>
+    <description>Changes some traits of the homesteader class from Aldi's Classes</description>
+  </item>
+  <item>
+    <title>Aldi's Classes - Threadweaver Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10726</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10726#10726</guid>
+    <pubDate>Mon, 03 Aug 2026 16:59:53 -0000</pubDate>
+    <description>Changes some traits of the Threadweaver class from Aldi's Classes</description>
+  </item>
+  <item>
+    <title>TassHardcoreWinter</title>
+    <link>https://mods.vintagestory.at/show/mod/tasshardcorewinter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshardcorewinter#10500</guid>
+    <pubDate>Mon, 03 Aug 2026 16:56:27 -0000</pubDate>
+    <description>Deeper snow, white out blizzards, restorative spring, realistic room temperature, heat source rework</description>
+  </item>
+  <item>
+    <title>Vanilla Variants Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/vanvarcompatibility</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanvarcompatibility#9014</guid>
+    <pubDate>Mon, 03 Aug 2026 15:50:37 -0000</pubDate>
+    <description>Compatibility hotfix for Vanilla Variants 7.1.1 on Vintage Story 1.22.x</description>
+  </item>
+  <item>
+    <title>ArcadiaTraderPatch</title>
+    <link>https://mods.vintagestory.at/show/mod/9624</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9624#9624</guid>
+    <pubDate>Mon, 03 Aug 2026 15:48:05 -0000</pubDate>
+    <description>Trader patch</description>
+  </item>
+  <item>
+    <title>Arcadia Monster Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/9626</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9626#9626</guid>
+    <pubDate>Mon, 03 Aug 2026 15:47:07 -0000</pubDate>
+    <description>Arcadia Monster Patch</description>
+  </item>
+  <item>
+    <title>ArcadiaClassPatch</title>
+    <link>https://mods.vintagestory.at/show/mod/9175</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9175#9175</guid>
+    <pubDate>Mon, 03 Aug 2026 15:45:41 -0000</pubDate>
+    <description>Tweaks de classe pour le serveur FR Arcadia</description>
+  </item>
+  <item>
+    <title>Hydrate or Diedrate</title>
+    <link>https://mods.vintagestory.at/show/mod/hydrateordiedrate</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hydrateordiedrate#2282</guid>
+    <pubDate>Mon, 03 Aug 2026 15:41:01 -0000</pubDate>
+    <description>A mod that adds thirst and hydration mechanics as well as hot weather survival.</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/10453</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
+    <pubDate>Mon, 03 Aug 2026 15:14:54 -0000</pubDate>
+    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>Fablewood Foods</title>
+    <link>https://mods.vintagestory.at/show/mod/fablewoodfoods</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fablewoodfoods#10694</guid>
+    <pubDate>Mon, 03 Aug 2026 15:00:40 -0000</pubDate>
+    <description>A collection of new foods and meals to enhance your whimsy.</description>
+  </item>
   <item>
     <title>Land Of Estrellas</title>
     <link>https://mods.vintagestory.at/show/mod/loe</link>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plumastacks#10530</guid>
     <pubDate>Mon, 03 Aug 2026 10:06:20 -0000</pubDate>
     <description>Another Simple Stack Size mod because i was dissatisfied with the others</description>
-  </item>
-  <item>
-    <title>Plentiful Tree Felling</title>
-    <link>https://mods.vintagestory.at/show/mod/plentifultreefelling</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plentifultreefelling#10637</guid>
-    <pubDate>Mon, 03 Aug 2026 09:24:55 -0000</pubDate>
-    <description>Felling a tree gives a configurable amount of sticks and tree seeds</description>
-  </item>
-  <item>
-    <title>Universal Sticks</title>
-    <link>https://mods.vintagestory.at/show/mod/universalsticks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/universalsticks#10436</guid>
-    <pubDate>Mon, 03 Aug 2026 09:19:27 -0000</pubDate>
-    <description>Adds grid recipes to turn firewood into sticks and back</description>
-  </item>
-  <item>
-    <title>Claim Navigator</title>
-    <link>https://mods.vintagestory.at/show/mod/4661</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4661#4661</guid>
-    <pubDate>Mon, 03 Aug 2026 08:25:19 -0000</pubDate>
-    <description>Convenient Interface for Land Claims.</description>
-  </item>
-  <item>
-    <title>LauncherGo's ServerAuth</title>
-    <link>https://mods.vintagestory.at/show/mod/launchergoauth</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergoauth#8964</guid>
-    <pubDate>Mon, 03 Aug 2026 08:24:30 -0000</pubDate>
-    <description>服务器认证模组，提供注册登录、会话记住、Discourse SSO 与 OAuth2/OIDC 认证能力</description>
-  </item>
-  <item>
-    <title>Meliora Meadows Adjustments</title>
-    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
-    <pubDate>Mon, 03 Aug 2026 06:16:22 -0000</pubDate>
-    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
-  </item>
-  <item>
-    <title>Chinese Line Break</title>
-    <link>https://mods.vintagestory.at/show/mod/10747</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10747#10747</guid>
-    <pubDate>Mon, 03 Aug 2026 05:36:52 -0000</pubDate>
-    <description>Fix an issue with abnormal line breaks in the Chinese interface text</description>
-  </item>
-  <item>
-    <title>Immersive Backpacks Compat &amp; Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivebackpackscompattweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpackscompattweaks#10746</guid>
-    <pubDate>Mon, 03 Aug 2026 05:09:39 -0000</pubDate>
-    <description>A mod that adds compat for other mods to Immersive Backpacks and makes some tweaks!</description>
-  </item>
-  <item>
-    <title>morto</title>
-    <link>https://mods.vintagestory.at/show/mod/10745</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10745#10745</guid>
-    <pubDate>Mon, 03 Aug 2026 05:00:22 -0000</pubDate>
-    <description>Ao morrer, um cadáver com sua aparência (pele, traços, roupas e armadura) surge no local da morte, c</description>
-  </item>
-  <item>
-    <title>Larger jugs handling</title>
-    <link>https://mods.vintagestory.at/show/mod/largejugs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/largejugs#10578</guid>
-    <pubDate>Mon, 03 Aug 2026 04:52:59 -0000</pubDate>
-    <description>Transfers 0.5L of liquid when moving portions using a jug. The vanilla size is 0.3L.</description>
-  </item>
-  <item>
-    <title>Smaller jugs handling</title>
-    <link>https://mods.vintagestory.at/show/mod/10579</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10579#10579</guid>
-    <pubDate>Mon, 03 Aug 2026 04:52:16 -0000</pubDate>
-    <description>Transfers 0.25L of liquid when moving portions using a jug. The vanilla size is 0.3L.</description>
-  </item>
-  <item>
-    <title>Barbershop Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/10424</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10424#10424</guid>
-    <pubDate>Mon, 03 Aug 2026 04:21:12 -0000</pubDate>
-    <description>Re-implements Barbershop as a full-fledged profession.</description>
   </item>
 </channel>
 </rss>
