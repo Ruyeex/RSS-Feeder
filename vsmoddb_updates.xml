@@ -4,7 +4,105 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 03 Aug 2026 11:27:13 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 03 Aug 2026 14:44:21 +0000</lastBuildDate>
+  <item>
+    <title>Land Of Estrellas</title>
+    <link>https://mods.vintagestory.at/show/mod/loe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/loe#10629</guid>
+    <pubDate>Mon, 03 Aug 2026 14:08:38 -0000</pubDate>
+    <description>The offical modpack of The Land of Estrellas server </description>
+  </item>
+  <item>
+    <title>Rabies</title>
+    <link>https://mods.vintagestory.at/show/mod/rabies</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rabies#10752</guid>
+    <pubDate>Mon, 03 Aug 2026 13:46:31 -0000</pubDate>
+    <description>[FORK] Horrors of rabies.</description>
+  </item>
+  <item>
+    <title>Forager Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/8839</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8839#8839</guid>
+    <pubDate>Mon, 03 Aug 2026 13:37:49 -0000</pubDate>
+    <description>Tweaks to how starvation works and what season items can drop in.</description>
+  </item>
+  <item>
+    <title>Secret Foxfire 1.22 Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10037</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10037#10037</guid>
+    <pubDate>Mon, 03 Aug 2026 13:36:23 -0000</pubDate>
+    <description>Tweaks for my community 1.22 server.</description>
+  </item>
+  <item>
+    <title>Waxlight Launcher</title>
+    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
+    <pubDate>Mon, 03 Aug 2026 13:22:05 -0000</pubDate>
+    <description>A sleek Vintage Story launcher for instances, mods, accounts and playtime tracking.</description>
+  </item>
+  <item>
+    <title>Boat Autopilot</title>
+    <link>https://mods.vintagestory.at/show/mod/10304</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10304#10304</guid>
+    <pubDate>Mon, 03 Aug 2026 13:09:23 -0000</pubDate>
+    <description>Long boat trips in Vintage Story are beautiful… the first three times.</description>
+  </item>
+  <item>
+    <title>Dense Ground Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
+    <pubDate>Mon, 03 Aug 2026 13:02:18 -0000</pubDate>
+    <description>Place down more items per block and on chiseled blocks</description>
+  </item>
+  <item>
+    <title>Panning Machine</title>
+    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
+    <pubDate>Mon, 03 Aug 2026 12:50:49 -0000</pubDate>
+    <description>Simple machine for panning</description>
+  </item>
+  <item>
+    <title>Rock Attac - Armor Protec</title>
+    <link>https://mods.vintagestory.at/show/mod/caveinarmor</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caveinarmor#9035</guid>
+    <pubDate>Mon, 03 Aug 2026 12:29:56 -0000</pubDate>
+    <description>Enables vanilla armor to natively mitigate crushing damage from falling blocks.</description>
+  </item>
+  <item>
+    <title>Denied - fix</title>
+    <link>https://mods.vintagestory.at/show/mod/deniedfix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deniedfix#8611</guid>
+    <pubDate>Mon, 03 Aug 2026 12:29:41 -0000</pubDate>
+    <description>Unofficial Compatibility Update for Denied. Area denial block, gamemode survival only</description>
+  </item>
+  <item>
+    <title>Boat Speed Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/boatspeedtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/boatspeedtweaks#9766</guid>
+    <pubDate>Mon, 03 Aug 2026 12:22:57 -0000</pubDate>
+    <description>Multiply Sailboats and Rafts speed by the configured factor, separately (default for both = 2.0)</description>
+  </item>
+  <item>
+    <title>Secure Cooking Pots</title>
+    <link>https://mods.vintagestory.at/show/mod/securecookingpots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/securecookingpots#9942</guid>
+    <pubDate>Mon, 03 Aug 2026 12:17:08 -0000</pubDate>
+    <description>No more lost liquids while cooking. You'll get burnt if you try.</description>
+  </item>
+  <item>
+    <title>Mini's Assorted Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/9896</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9896#9896</guid>
+    <pubDate>Mon, 03 Aug 2026 12:07:55 -0000</pubDate>
+    <description>Buncha changes for a LAN</description>
+  </item>
+  <item>
+    <title>Russification For Mods</title>
+    <link>https://mods.vintagestory.at/show/mod/5312</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5312#5312</guid>
+    <pubDate>Mon, 03 Aug 2026 12:02:10 -0000</pubDate>
+    <description>Russian Translation Pack — a collection of Russian localizations for various Vintage Story mods.</description>
+  </item>
   <item>
     <title>xLib Fork</title>
     <link>https://mods.vintagestory.at/show/mod/7618</link>
@@ -116,104 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10424#10424</guid>
     <pubDate>Mon, 03 Aug 2026 04:21:12 -0000</pubDate>
     <description>Re-implements Barbershop as a full-fledged profession.</description>
-  </item>
-  <item>
-    <title>The Quire Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/10455</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
-    <pubDate>Mon, 03 Aug 2026 03:25:05 -0000</pubDate>
-    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
-  </item>
-  <item>
-    <title>CompostTweak</title>
-    <link>https://mods.vintagestory.at/show/mod/3682</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3682#3682</guid>
-    <pubDate>Mon, 03 Aug 2026 03:03:49 -0000</pubDate>
-    <description>Makes composting alot more interactive and adds more things to compost.</description>
-  </item>
-  <item>
-    <title>Messenger Pigeons</title>
-    <link>https://mods.vintagestory.at/show/mod/10423</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10423#10423</guid>
-    <pubDate>Mon, 03 Aug 2026 02:50:41 -0000</pubDate>
-    <description>Send mail across the world using distance based messenger pigeons with secure pigeon boxes.</description>
-  </item>
-  <item>
-    <title>Ritual Apotheosis</title>
-    <link>https://mods.vintagestory.at/show/mod/8215</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8215#8215</guid>
-    <pubDate>Mon, 03 Aug 2026 01:39:04 -0000</pubDate>
-    <description>The world is your altar. Now featuring the best sailing mechanics in VS.</description>
-  </item>
-  <item>
-    <title>Cairn — Modpack Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/cairn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
-    <pubDate>Mon, 03 Aug 2026 01:36:47 -0000</pubDate>
-    <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
-  </item>
-  <item>
-    <title>LoFS Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/lofsclass</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lofsclass#10241</guid>
-    <pubDate>Mon, 03 Aug 2026 01:31:41 -0000</pubDate>
-    <description>Working Classes reimagined for the Lands of the Fallen Stars RP Event! Image Unrelated</description>
-  </item>
-  <item>
-    <title>FoTSA Pack Butchering Compat</title>
-    <link>https://mods.vintagestory.at/show/mod/fotsapackbutchercompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsapackbutchercompat#10743</guid>
-    <pubDate>Mon, 03 Aug 2026 01:25:12 -0000</pubDate>
-    <description>Adds full Butchering compat for Bovinae, Felinae, and Elephantidae animals in FotSA: Packaged mod.</description>
-  </item>
-  <item>
-    <title>Everything Black Raspberries</title>
-    <link>https://mods.vintagestory.at/show/mod/blackraspberry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blackraspberry#8736</guid>
-    <pubDate>Mon, 03 Aug 2026 01:19:17 -0000</pubDate>
-    <description>Adds black raspberry bushes and their respective products. Now with Expanded Foods compatibility!</description>
-  </item>
-  <item>
-    <title>Temporal Vessels - A Vessel Teleportation System</title>
-    <link>https://mods.vintagestory.at/show/mod/temporalvessels</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/temporalvessels#7817</guid>
-    <pubDate>Mon, 03 Aug 2026 00:22:41 -0000</pubDate>
-    <description>Teleport a storage vessel back to your base so you can continue your looting exploration adventure</description>
-  </item>
-  <item>
-    <title>More Bugs</title>
-    <link>https://mods.vintagestory.at/show/mod/morebugs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebugs#10729</guid>
-    <pubDate>Mon, 03 Aug 2026 00:17:48 -0000</pubDate>
-    <description>Adds termites, ants, more flies (they show you rot in containers), spiders and jumping spiders :3</description>
-  </item>
-  <item>
-    <title>Raccoon Traits Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/racctraits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/racctraits#8742</guid>
-    <pubDate>Mon, 03 Aug 2026 00:04:26 -0000</pubDate>
-    <description>Adds 2 more traits to Raccoons from Raccoon Player Model.</description>
-  </item>
-  <item>
-    <title>The Almanac: Trades, Callings &amp; Mastery</title>
-    <link>https://mods.vintagestory.at/show/mod/10453</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
-    <pubDate>Sun, 02 Aug 2026 23:43:37 -0000</pubDate>
-    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>Wingworks</title>
-    <link>https://mods.vintagestory.at/show/mod/wingworks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wingworks#9998</guid>
-    <pubDate>Sun, 02 Aug 2026 23:34:18 -0000</pubDate>
-    <description>A mod which add flight capabilities for players with specific traits.</description>
-  </item>
-  <item>
-    <title>Glider Revamp (Drathon's Fork)</title>
-    <link>https://mods.vintagestory.at/show/mod/gliderrevampdrathon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gliderrevampdrathon#10567</guid>
-    <pubDate>Sun, 02 Aug 2026 23:33:13 -0000</pubDate>
-    <description>A fork of Hunter404's Glider Revamp updated to the most recent game version.</description>
   </item>
 </channel>
 </rss>
