@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 03 Aug 2026 19:40:34 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 03 Aug 2026 21:05:33 +0000</lastBuildDate>
+  <item>
+    <title>unHallowedPatches</title>
+    <link>https://mods.vintagestory.at/show/mod/unhallowedpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/unhallowedpatches#4328</guid>
+    <pubDate>Mon, 03 Aug 2026 21:03:55 -0000</pubDate>
+    <description>A collection of QoL patches - including increased stack sizes and recipes.</description>
+  </item>
+  <item>
+    <title>Waxlight Launcher</title>
+    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
+    <pubDate>Mon, 03 Aug 2026 20:53:00 -0000</pubDate>
+    <description>A sleek Vintage Story launcher for instances, mods, accounts and playtime tracking.</description>
+  </item>
+  <item>
+    <title>Vintage Horizons</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagehorizons</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagehorizons#10511</guid>
+    <pubDate>Mon, 03 Aug 2026 20:47:07 -0000</pubDate>
+    <description>An LOD mod inspired by Distant Horizons, Farseer, Voxy, and ChunkLOD</description>
+  </item>
+  <item>
+    <title>HybrasilRaces</title>
+    <link>https://mods.vintagestory.at/show/mod/9411</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9411#9411</guid>
+    <pubDate>Mon, 03 Aug 2026 19:49:59 -0000</pubDate>
+    <description>Races for Hybrasil server</description>
+  </item>
+  <item>
+    <title>MoreInventorys</title>
+    <link>https://mods.vintagestory.at/show/mod/moreinventorys</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreinventorys#10306</guid>
+    <pubDate>Mon, 03 Aug 2026 19:45:38 -0000</pubDate>
+    <description>The mod adds new inventories for convenient and immersive storage: Shelves, crates, racks for weapon</description>
+  </item>
   <item>
     <title>Shelf Obsessed</title>
     <link>https://mods.vintagestory.at/show/mod/shelfobsessed</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rabies#10752</guid>
     <pubDate>Mon, 03 Aug 2026 13:46:31 -0000</pubDate>
     <description>[FORK] Horrors of rabies.</description>
-  </item>
-  <item>
-    <title>Forager Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/8839</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8839#8839</guid>
-    <pubDate>Mon, 03 Aug 2026 13:37:49 -0000</pubDate>
-    <description>Tweaks to how starvation works and what season items can drop in.</description>
-  </item>
-  <item>
-    <title>Secret Foxfire 1.22 Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10037</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10037#10037</guid>
-    <pubDate>Mon, 03 Aug 2026 13:36:23 -0000</pubDate>
-    <description>Tweaks for my community 1.22 server.</description>
-  </item>
-  <item>
-    <title>Waxlight Launcher</title>
-    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
-    <pubDate>Mon, 03 Aug 2026 13:22:05 -0000</pubDate>
-    <description>A sleek Vintage Story launcher for instances, mods, accounts and playtime tracking.</description>
-  </item>
-  <item>
-    <title>Boat Autopilot</title>
-    <link>https://mods.vintagestory.at/show/mod/10304</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10304#10304</guid>
-    <pubDate>Mon, 03 Aug 2026 13:09:23 -0000</pubDate>
-    <description>Long boat trips in Vintage Story are beautiful… the first three times.</description>
-  </item>
-  <item>
-    <title>Dense Ground Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
-    <pubDate>Mon, 03 Aug 2026 13:02:18 -0000</pubDate>
-    <description>Place down more items per block and on chiseled blocks</description>
   </item>
 </channel>
 </rss>
