@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 03 Aug 2026 00:00:08 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 03 Aug 2026 03:47:18 +0000</lastBuildDate>
+  <item>
+    <title>The Quire Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/10455</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
+    <pubDate>Mon, 03 Aug 2026 03:25:05 -0000</pubDate>
+    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
+  </item>
+  <item>
+    <title>CompostTweak</title>
+    <link>https://mods.vintagestory.at/show/mod/3682</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3682#3682</guid>
+    <pubDate>Mon, 03 Aug 2026 03:03:49 -0000</pubDate>
+    <description>Makes composting alot more interactive and adds more things to compost.</description>
+  </item>
+  <item>
+    <title>Messenger Pigeons</title>
+    <link>https://mods.vintagestory.at/show/mod/10423</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10423#10423</guid>
+    <pubDate>Mon, 03 Aug 2026 02:50:41 -0000</pubDate>
+    <description>Send mail across the world using distance based messenger pigeons with secure pigeon boxes.</description>
+  </item>
+  <item>
+    <title>Ritual Apotheosis</title>
+    <link>https://mods.vintagestory.at/show/mod/8215</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8215#8215</guid>
+    <pubDate>Mon, 03 Aug 2026 01:39:04 -0000</pubDate>
+    <description>The world is your altar. Now featuring the best sailing mechanics in VS.</description>
+  </item>
+  <item>
+    <title>Cairn — Modpack Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/cairn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
+    <pubDate>Mon, 03 Aug 2026 01:36:47 -0000</pubDate>
+    <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
+  </item>
+  <item>
+    <title>LoFS Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/lofsclass</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lofsclass#10241</guid>
+    <pubDate>Mon, 03 Aug 2026 01:31:41 -0000</pubDate>
+    <description>Working Classes reimagined for the Lands of the Fallen Stars RP Event! Image Unrelated</description>
+  </item>
+  <item>
+    <title>FoTSA Pack Butchering Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/fotsapackbutchercompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsapackbutchercompat#10743</guid>
+    <pubDate>Mon, 03 Aug 2026 01:25:12 -0000</pubDate>
+    <description>Adds full Butchering compat for Bovinae, Felinae, and Elephantidae animals in FotSA: Packaged mod.</description>
+  </item>
+  <item>
+    <title>Everything Black Raspberries</title>
+    <link>https://mods.vintagestory.at/show/mod/blackraspberry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blackraspberry#8736</guid>
+    <pubDate>Mon, 03 Aug 2026 01:19:17 -0000</pubDate>
+    <description>Adds black raspberry bushes and their respective products. Now with Expanded Foods compatibility!</description>
+  </item>
+  <item>
+    <title>Temporal Vessels - A Vessel Teleportation System</title>
+    <link>https://mods.vintagestory.at/show/mod/temporalvessels</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/temporalvessels#7817</guid>
+    <pubDate>Mon, 03 Aug 2026 00:22:41 -0000</pubDate>
+    <description>Teleport a storage vessel back to your base so you can continue your looting exploration adventure</description>
+  </item>
+  <item>
+    <title>More Bugs</title>
+    <link>https://mods.vintagestory.at/show/mod/morebugs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebugs#10729</guid>
+    <pubDate>Mon, 03 Aug 2026 00:17:48 -0000</pubDate>
+    <description>Adds termites, ants, more flies (they show you rot in containers), spiders and jumping spiders :3</description>
+  </item>
+  <item>
+    <title>Raccoon Traits Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/racctraits</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/racctraits#8742</guid>
+    <pubDate>Mon, 03 Aug 2026 00:04:26 -0000</pubDate>
+    <description>Adds 2 more traits to Raccoons from Raccoon Player Model.</description>
+  </item>
   <item>
     <title>The Almanac: Trades, Callings &amp; Mastery</title>
     <link>https://mods.vintagestory.at/show/mod/10453</link>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9041#9041</guid>
     <pubDate>Sun, 02 Aug 2026 20:55:36 -0000</pubDate>
     <description>A small Vintage Story client mod that fixes the crash when a server sends you a redirect packet</description>
-  </item>
-  <item>
-    <title>Chonky Kitchenware</title>
-    <link>https://mods.vintagestory.at/show/mod/9694</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9694#9694</guid>
-    <pubDate>Sun, 02 Aug 2026 20:52:17 -0000</pubDate>
-    <description>This mod aims to make your kitchen feel more cozy, giving it a personal touch!</description>
-  </item>
-  <item>
-    <title>Just Poop It</title>
-    <link>https://mods.vintagestory.at/show/mod/9846</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9846#9846</guid>
-    <pubDate>Sun, 02 Aug 2026 20:45:48 -0000</pubDate>
-    <description>Everything poops... now your character does too.</description>
-  </item>
-  <item>
-    <title>TassHardcoreWinter</title>
-    <link>https://mods.vintagestory.at/show/mod/tasshardcorewinter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshardcorewinter#10500</guid>
-    <pubDate>Sun, 02 Aug 2026 20:45:17 -0000</pubDate>
-    <description>Deeper snow, white out blizzards, restorative spring, realistic room temperature, heat source rework</description>
-  </item>
-  <item>
-    <title>TassModFixesTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tassmodfixestweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassmodfixestweaks#10502</guid>
-    <pubDate>Sun, 02 Aug 2026 20:36:47 -0000</pubDate>
-    <description>A catch all mod for anything that does not fit my other mods - fixing bugs and tweaking mods</description>
-  </item>
-  <item>
-    <title>Minimap Waypoint List</title>
-    <link>https://mods.vintagestory.at/show/mod/mwl</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mwl#10558</guid>
-    <pubDate>Sun, 02 Aug 2026 20:36:12 -0000</pubDate>
-    <description>Displays a list of waypoints within the current minimap</description>
-  </item>
-  <item>
-    <title>Grassroots</title>
-    <link>https://mods.vintagestory.at/show/mod/grassroots</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
-    <pubDate>Sun, 02 Aug 2026 20:32:16 -0000</pubDate>
-    <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
-  </item>
-  <item>
-    <title>PALSJ's Fancy Faces</title>
-    <link>https://mods.vintagestory.at/show/mod/fancyfaces</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fancyfaces#10362</guid>
-    <pubDate>Sun, 02 Aug 2026 20:26:21 -0000</pubDate>
-    <description>Adds new faces and the ability to select pieces of each face separately.</description>
-  </item>
-  <item>
-    <title>Temporal Prospector</title>
-    <link>https://mods.vintagestory.at/show/mod/temporalprospector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/temporalprospector#336</guid>
-    <pubDate>Sun, 02 Aug 2026 20:22:32 -0000</pubDate>
-    <description>Temporal Prospector This mod adds a new prospecting pick known as the temporal prospecting pick. ...</description>
-  </item>
-  <item>
-    <title>Translocator Locator Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/translocatorlocatorredux</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/translocatorlocatorredux#7276</guid>
-    <pubDate>Sun, 02 Aug 2026 20:22:00 -0000</pubDate>
-    <description>Adds configurable, craftable locators to locate translocators. And ruins.</description>
-  </item>
-  <item>
-    <title>Weapon Pack Alpha - Rebalanced</title>
-    <link>https://mods.vintagestory.at/show/mod/3314</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
-    <pubDate>Sun, 02 Aug 2026 20:20:04 -0000</pubDate>
-    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
-  </item>
-  <item>
-    <title>IndustrialStory</title>
-    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
-    <pubDate>Sun, 02 Aug 2026 20:06:05 -0000</pubDate>
-    <description>Overhauls metalworking, chemistry, and glassworking. </description>
   </item>
 </channel>
 </rss>
