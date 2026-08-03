@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 03 Aug 2026 07:30:44 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 03 Aug 2026 11:27:13 +0000</lastBuildDate>
+  <item>
+    <title>xLib Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7618</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7618#7618</guid>
+    <pubDate>Mon, 03 Aug 2026 11:14:18 -0000</pubDate>
+    <description>XLib provides an interface to add skills, abilities and effects to the game.</description>
+  </item>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Mon, 03 Aug 2026 11:13:59 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
+  <item>
+    <title>xSkills Gilded Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/5529</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5529#5529</guid>
+    <pubDate>Mon, 03 Aug 2026 11:01:05 -0000</pubDate>
+    <description>This mod adds a beautifully designed, immersive, and user-friendly interface for xSkills. </description>
+  </item>
+  <item>
+    <title>Optimum</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Mon, 03 Aug 2026 10:48:11 -0000</pubDate>
+    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
+  </item>
+  <item>
+    <title>Plumas Customizable Stack Sizes</title>
+    <link>https://mods.vintagestory.at/show/mod/plumastacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plumastacks#10530</guid>
+    <pubDate>Mon, 03 Aug 2026 10:06:20 -0000</pubDate>
+    <description>Another Simple Stack Size mod because i was dissatisfied with the others</description>
+  </item>
+  <item>
+    <title>Plentiful Tree Felling</title>
+    <link>https://mods.vintagestory.at/show/mod/plentifultreefelling</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plentifultreefelling#10637</guid>
+    <pubDate>Mon, 03 Aug 2026 09:24:55 -0000</pubDate>
+    <description>Felling a tree gives a configurable amount of sticks and tree seeds</description>
+  </item>
+  <item>
+    <title>Universal Sticks</title>
+    <link>https://mods.vintagestory.at/show/mod/universalsticks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/universalsticks#10436</guid>
+    <pubDate>Mon, 03 Aug 2026 09:19:27 -0000</pubDate>
+    <description>Adds grid recipes to turn firewood into sticks and back</description>
+  </item>
+  <item>
+    <title>Claim Navigator</title>
+    <link>https://mods.vintagestory.at/show/mod/4661</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4661#4661</guid>
+    <pubDate>Mon, 03 Aug 2026 08:25:19 -0000</pubDate>
+    <description>Convenient Interface for Land Claims.</description>
+  </item>
+  <item>
+    <title>LauncherGo's ServerAuth</title>
+    <link>https://mods.vintagestory.at/show/mod/launchergoauth</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergoauth#8964</guid>
+    <pubDate>Mon, 03 Aug 2026 08:24:30 -0000</pubDate>
+    <description>服务器认证模组，提供注册登录、会话记住、Discourse SSO 与 OAuth2/OIDC 认证能力</description>
+  </item>
   <item>
     <title>Meliora Meadows Adjustments</title>
     <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gliderrevampdrathon#10567</guid>
     <pubDate>Sun, 02 Aug 2026 23:33:13 -0000</pubDate>
     <description>A fork of Hunter404's Glider Revamp updated to the most recent game version.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sun, 02 Aug 2026 23:15:25 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/10555</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
-    <pubDate>Sun, 02 Aug 2026 23:07:12 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>More Lanterns</title>
-    <link>https://mods.vintagestory.at/show/mod/apelanterns</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/apelanterns#2488</guid>
-    <pubDate>Sun, 02 Aug 2026 23:02:00 -0000</pubDate>
-    <description>Adds a variety of decorative and useful lanterns</description>
-  </item>
-  <item>
-    <title>Fiddleheads</title>
-    <link>https://mods.vintagestory.at/show/mod/fiddleheads</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fiddleheads#10421</guid>
-    <pubDate>Sun, 02 Aug 2026 23:00:49 -0000</pubDate>
-    <description>Fiddlehead Ferns - Harvest wild furled fronds and use them in meals as any other vegetable</description>
-  </item>
-  <item>
-    <title>More Beams</title>
-    <link>https://mods.vintagestory.at/show/mod/morebeams</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebeams#3289</guid>
-    <pubDate>Sun, 02 Aug 2026 23:00:16 -0000</pubDate>
-    <description>Create beams of various sizes and decorations.</description>
-  </item>
-  <item>
-    <title>EZ Translocators</title>
-    <link>https://mods.vintagestory.at/show/mod/eztranslocators</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eztranslocators#10641</guid>
-    <pubDate>Sun, 02 Aug 2026 22:27:18 -0000</pubDate>
-    <description>Break repaired translocators, place them wherever you want and use your map to teleport.</description>
-  </item>
-  <item>
-    <title>Ropetieable Animals</title>
-    <link>https://mods.vintagestory.at/show/mod/10741</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10741#10741</guid>
-    <pubDate>Sun, 02 Aug 2026 22:16:22 -0000</pubDate>
-    <description>allows you to ropetie all animals</description>
-  </item>
-  <item>
-    <title>Custom Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10378</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
-    <pubDate>Sun, 02 Aug 2026 22:15:21 -0000</pubDate>
-    <description>A collection of tweaks for our private server.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Sun, 02 Aug 2026 21:57:55 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
   </item>
 </channel>
 </rss>
