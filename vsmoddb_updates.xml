@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 04 Aug 2026 05:49:49 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 08:41:02 +0000</lastBuildDate>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Tue, 04 Aug 2026 07:50:48 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Panning Machine</title>
+    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
+    <pubDate>Tue, 04 Aug 2026 07:44:53 -0000</pubDate>
+    <description>Simple machine for panning</description>
+  </item>
+  <item>
+    <title>CommandHook</title>
+    <link>https://mods.vintagestory.at/show/mod/9782</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9782#9782</guid>
+    <pubDate>Tue, 04 Aug 2026 06:40:45 -0000</pubDate>
+    <description>Lets other mods hook into chat commands before and after they run.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Tue, 04 Aug 2026 06:22:36 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
   <item>
     <title>Liber Terra</title>
     <link>https://mods.vintagestory.at/show/mod/liberterra</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
     <pubDate>Mon, 03 Aug 2026 23:05:27 -0000</pubDate>
     <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
-  </item>
-  <item>
-    <title>Locusts for all</title>
-    <link>https://mods.vintagestory.at/show/mod/7730</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7730#7730</guid>
-    <pubDate>Mon, 03 Aug 2026 22:31:13 -0000</pubDate>
-    <description>Allows all classes to be able to use the tuning spear to tame multiple locusts and offer more tweaks</description>
-  </item>
-  <item>
-    <title>TassHunting</title>
-    <link>https://mods.vintagestory.at/show/mod/tasshunting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshunting#10438</guid>
-    <pubDate>Mon, 03 Aug 2026 22:26:38 -0000</pubDate>
-    <description>Arrows Stick - Blood - Smarter Animal AI - Aiming Tweaks - Health Based Animal Speed</description>
-  </item>
-  <item>
-    <title>Custom Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10378</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
-    <pubDate>Mon, 03 Aug 2026 22:21:48 -0000</pubDate>
-    <description>A collection of tweaks for our private server.</description>
-  </item>
-  <item>
-    <title>Global Player Markers</title>
-    <link>https://mods.vintagestory.at/show/mod/10508</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10508#10508</guid>
-    <pubDate>Mon, 03 Aug 2026 22:18:35 -0000</pubDate>
-    <description>Makes it so player markers are seen on the map everywhere</description>
   </item>
 </channel>
 </rss>
