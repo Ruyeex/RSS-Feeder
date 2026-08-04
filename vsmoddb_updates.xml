@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 04 Aug 2026 08:41:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 11:25:27 +0000</lastBuildDate>
+  <item>
+    <title>Secret Foxfire 1.22 Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10037</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10037#10037</guid>
+    <pubDate>Tue, 04 Aug 2026 10:27:02 -0000</pubDate>
+    <description>Tweaks for my community 1.22 server.</description>
+  </item>
+  <item>
+    <title>Forager Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/8839</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8839#8839</guid>
+    <pubDate>Tue, 04 Aug 2026 10:24:46 -0000</pubDate>
+    <description>Tweaks to how starvation works and what season items can drop in.</description>
+  </item>
+  <item>
+    <title>Better and Improved Weather Continued</title>
+    <link>https://mods.vintagestory.at/show/mod/biwc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biwc#10765</guid>
+    <pubDate>Tue, 04 Aug 2026 10:17:57 -0000</pubDate>
+    <description>Better and improved weather for Vintage Story. </description>
+  </item>
+  <item>
+    <title>Pirate</title>
+    <link>https://mods.vintagestory.at/show/mod/pirate</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pirate#2599</guid>
+    <pubDate>Tue, 04 Aug 2026 10:04:09 -0000</pubDate>
+    <description>Just simple mod to add Pirate class, Aztec gold coins, Pirate tools.</description>
+  </item>
   <item>
     <title>Solaria's Solace Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/10706</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10750#10750</guid>
     <pubDate>Mon, 03 Aug 2026 23:28:44 -0000</pubDate>
     <description>Resin Tapping for Vintage Story</description>
-  </item>
-  <item>
-    <title>Grinding Wheel Rework</title>
-    <link>https://mods.vintagestory.at/show/mod/grindingwheelrework</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindingwheelrework#8252</guid>
-    <pubDate>Mon, 03 Aug 2026 23:16:23 -0000</pubDate>
-    <description>Expands grinding wheel to support more tools and turns sharpening into a lightweight repair system</description>
-  </item>
-  <item>
-    <title>Stratum - High-performance server software.</title>
-    <link>https://mods.vintagestory.at/show/mod/stratum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stratum#9499</guid>
-    <pubDate>Mon, 03 Aug 2026 23:16:14 -0000</pubDate>
-    <description>Focused on smoother multiplayer servers, better performance under load and, practical tools.</description>
-  </item>
-  <item>
-    <title>Temporal Vessels - A Vessel Teleportation System</title>
-    <link>https://mods.vintagestory.at/show/mod/temporalvessels</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/temporalvessels#7817</guid>
-    <pubDate>Mon, 03 Aug 2026 23:15:49 -0000</pubDate>
-    <description>Teleport a storage vessel back to your base so you can continue your looting exploration adventure</description>
-  </item>
-  <item>
-    <title>The Quire Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/10455</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
-    <pubDate>Mon, 03 Aug 2026 23:05:27 -0000</pubDate>
-    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
   </item>
 </channel>
 </rss>
