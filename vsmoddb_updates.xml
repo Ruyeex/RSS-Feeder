@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 04 Aug 2026 16:53:49 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 18:39:32 +0000</lastBuildDate>
+  <item>
+    <title>The Ultimate Mod Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/10348</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10348#10348</guid>
+    <pubDate>Tue, 04 Aug 2026 17:53:57 -0000</pubDate>
+    <description>An in-game mod manager that's suitable even for remote servers without terminal/FTP access.</description>
+  </item>
+  <item>
+    <title>The Nether – A Hellish Adventure</title>
+    <link>https://mods.vintagestory.at/show/mod/nether</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nether#10772</guid>
+    <pubDate>Tue, 04 Aug 2026 17:53:44 -0000</pubDate>
+    <description>Explore a hostile new dimension filled with molten caverns, evil ores, fungi and restless spirits.</description>
+  </item>
+  <item>
+    <title>Red to Blue Clay Conversion</title>
+    <link>https://mods.vintagestory.at/show/mod/10771</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10771#10771</guid>
+    <pubDate>Tue, 04 Aug 2026 17:50:11 -0000</pubDate>
+    <description>Simple blue clay recipe made from red clay and crushed quartz</description>
+  </item>
+  <item>
+    <title>Quivers and Sheaths Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/quiversfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/quiversfork#8410</guid>
+    <pubDate>Tue, 04 Aug 2026 17:40:52 -0000</pubDate>
+    <description>1.22 Fork</description>
+  </item>
+  <item>
+    <title>Relics of Transmission - The Media Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/relicsoftransmission</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/relicsoftransmission#10534</guid>
+    <pubDate>Tue, 04 Aug 2026 17:25:13 -0000</pubDate>
+    <description>A multimedia mod, allowing you to listen to music, watch videos/livestreams and listen to the Radio.</description>
+  </item>
+  <item>
+    <title>KCs Dragon Player!</title>
+    <link>https://mods.vintagestory.at/show/mod/kcsdragons</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragons#8146</guid>
+    <pubDate>Tue, 04 Aug 2026 17:24:04 -0000</pubDate>
+    <description>Adds an anthropomorphic dragon player model to the game</description>
+  </item>
+  <item>
+    <title>Multiverse</title>
+    <link>https://mods.vintagestory.at/show/mod/themultiverse</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/themultiverse#10770</guid>
+    <pubDate>Tue, 04 Aug 2026 17:23:50 -0000</pubDate>
+    <description>A multi-dimensional framework, with crystals.</description>
+  </item>
+  <item>
+    <title>Immersive Backpacks Compat &amp; Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivebackpackscompattweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpackscompattweaks#10746</guid>
+    <pubDate>Tue, 04 Aug 2026 17:09:15 -0000</pubDate>
+    <description>A mod that adds compat for other mods to Immersive Backpacks and makes some tweaks!</description>
+  </item>
   <item>
     <title>Superflat Survival Challenge</title>
     <link>https://mods.vintagestory.at/show/mod/10769</link>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
     <pubDate>Tue, 04 Aug 2026 07:44:53 -0000</pubDate>
     <description>Simple machine for panning</description>
-  </item>
-  <item>
-    <title>CommandHook</title>
-    <link>https://mods.vintagestory.at/show/mod/9782</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9782#9782</guid>
-    <pubDate>Tue, 04 Aug 2026 06:40:45 -0000</pubDate>
-    <description>Lets other mods hook into chat commands before and after they run.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Tue, 04 Aug 2026 06:22:36 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Liber Terra</title>
-    <link>https://mods.vintagestory.at/show/mod/liberterra</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/liberterra#10763</guid>
-    <pubDate>Tue, 04 Aug 2026 04:43:00 -0000</pubDate>
-    <description>Pre-1300 CE public-domain literature as lore books in ruins and loot.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Tue, 04 Aug 2026 04:09:56 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>Furio's Telescope</title>
-    <link>https://mods.vintagestory.at/show/mod/telescopemod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/telescopemod#10648</guid>
-    <pubDate>Tue, 04 Aug 2026 03:44:34 -0000</pubDate>
-    <description>(ALPHA) Telescope mod in development</description>
-  </item>
-  <item>
-    <title>Terra Loom</title>
-    <link>https://mods.vintagestory.at/show/mod/10546</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10546#10546</guid>
-    <pubDate>Tue, 04 Aug 2026 03:27:13 -0000</pubDate>
-    <description>Replaces vanilla terrain/climate generation with a self-contained, embedded AI diffusion model.</description>
-  </item>
-  <item>
-    <title>Make Tea Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/maketeaforked</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/maketeaforked#4758</guid>
-    <pubDate>Tue, 04 Aug 2026 03:07:01 -0000</pubDate>
-    <description>Make clay teapots and mugs, brew tea and drink it.</description>
-  </item>
-  <item>
-    <title>Kobold Player Model Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/koboldrdx</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/koboldrdx#4814</guid>
-    <pubDate>Tue, 04 Aug 2026 03:03:11 -0000</pubDate>
-    <description>A complete 1.21+ remake of Soi's Kobold player model, for PlayerModelLib by Maltiez!</description>
   </item>
 </channel>
 </rss>
