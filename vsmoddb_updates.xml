@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 04 Aug 2026 11:25:27 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 14:21:27 +0000</lastBuildDate>
+  <item>
+    <title>Pirate</title>
+    <link>https://mods.vintagestory.at/show/mod/pirate</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pirate#2599</guid>
+    <pubDate>Tue, 04 Aug 2026 13:46:33 -0000</pubDate>
+    <description>Just simple mod to add Pirate class, Aztec gold coins, Pirate tools.</description>
+  </item>
+  <item>
+    <title>Fullbright Toggle</title>
+    <link>https://mods.vintagestory.at/show/mod/fbr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fbr#6117</guid>
+    <pubDate>Tue, 04 Aug 2026 13:23:32 -0000</pubDate>
+    <description>Fullbright toggle so you can always see in the dark</description>
+  </item>
+  <item>
+    <title>BetterEr Prospecting</title>
+    <link>https://mods.vintagestory.at/show/mod/bettererprospecting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettererprospecting#4916</guid>
+    <pubDate>Tue, 04 Aug 2026 13:18:06 -0000</pubDate>
+    <description>Altered prospecting experience with focus on reducing randomness</description>
+  </item>
+  <item>
+    <title>Optimum</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Tue, 04 Aug 2026 12:42:46 -0000</pubDate>
+    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
+  </item>
+  <item>
+    <title>Galeret Traits Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/10565</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10565#10565</guid>
+    <pubDate>Tue, 04 Aug 2026 12:30:40 -0000</pubDate>
+    <description>A simple mod to add Trais to my Galeret race Mod</description>
+  </item>
+  <item>
+    <title>Galeret</title>
+    <link>https://mods.vintagestory.at/show/mod/9970</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9970#9970</guid>
+    <pubDate>Tue, 04 Aug 2026 12:30:21 -0000</pubDate>
+    <description>A race of cat people based on kahjit</description>
+  </item>
+  <item>
+    <title>Hexis (Beta)</title>
+    <link>https://mods.vintagestory.at/show/mod/hexis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexis#10623</guid>
+    <pubDate>Tue, 04 Aug 2026 12:28:22 -0000</pubDate>
+    <description>A tactical, stance-based combat system of mass and momentum, Focus-built for VS' harsh reality</description>
+  </item>
   <item>
     <title>Secret Foxfire 1.22 Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/10037</link>
@@ -25,13 +74,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biwc#10765</guid>
     <pubDate>Tue, 04 Aug 2026 10:17:57 -0000</pubDate>
     <description>Better and improved weather for Vintage Story. </description>
-  </item>
-  <item>
-    <title>Pirate</title>
-    <link>https://mods.vintagestory.at/show/mod/pirate</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pirate#2599</guid>
-    <pubDate>Tue, 04 Aug 2026 10:04:09 -0000</pubDate>
-    <description>Just simple mod to add Pirate class, Aztec gold coins, Pirate tools.</description>
   </item>
   <item>
     <title>Solaria's Solace Server Tweaks</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10760#10760</guid>
     <pubDate>Tue, 04 Aug 2026 00:09:38 -0000</pubDate>
     <description>Client-side bulk waypoint manager for Vintage Story</description>
-  </item>
-  <item>
-    <title>The Almanac: Trades, Callings &amp; Mastery</title>
-    <link>https://mods.vintagestory.at/show/mod/10453</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
-    <pubDate>Tue, 04 Aug 2026 00:07:53 -0000</pubDate>
-    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>Majestic Maple</title>
-    <link>https://mods.vintagestory.at/show/mod/10529</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10529#10529</guid>
-    <pubDate>Mon, 03 Aug 2026 23:55:00 -0000</pubDate>
-    <description>Maple wood retexture</description>
-  </item>
-  <item>
-    <title>Mah Boi Hammering</title>
-    <link>https://mods.vintagestory.at/show/mod/7773</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7773#7773</guid>
-    <pubDate>Mon, 03 Aug 2026 23:51:40 -0000</pubDate>
-    <description>This mod simply replaces the infuriatingly annoying helve hammer and hammer sound with a much better</description>
-  </item>
-  <item>
-    <title>Respawn Black Screen Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/9500</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9500#9500</guid>
-    <pubDate>Mon, 03 Aug 2026 23:48:24 -0000</pubDate>
-    <description>Fixes the black screen issue after a player respawn</description>
-  </item>
-  <item>
-    <title>Weapon Pack Alpha - Rebalanced</title>
-    <link>https://mods.vintagestory.at/show/mod/3314</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
-    <pubDate>Mon, 03 Aug 2026 23:47:17 -0000</pubDate>
-    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
-  </item>
-  <item>
-    <title>Herty Cups</title>
-    <link>https://mods.vintagestory.at/show/mod/10750</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10750#10750</guid>
-    <pubDate>Mon, 03 Aug 2026 23:28:44 -0000</pubDate>
-    <description>Resin Tapping for Vintage Story</description>
   </item>
 </channel>
 </rss>
