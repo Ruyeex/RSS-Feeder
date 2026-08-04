@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 04 Aug 2026 20:26:56 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 22:14:45 +0000</lastBuildDate>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Tue, 04 Aug 2026 21:58:26 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Super Crack!</title>
+    <link>https://mods.vintagestory.at/show/mod/10777</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10777#10777</guid>
+    <pubDate>Tue, 04 Aug 2026 21:43:01 -0000</pubDate>
+    <description>Crack six eggs at once.</description>
+  </item>
+  <item>
+    <title>Peat for Charcoal</title>
+    <link>https://mods.vintagestory.at/show/mod/peatforcharcoal</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/peatforcharcoal#10384</guid>
+    <pubDate>Tue, 04 Aug 2026 21:41:38 -0000</pubDate>
+    <description>Allows using peat bricks as a substitute for firewood in the charcoal making process.</description>
+  </item>
+  <item>
+    <title>LauncherGo's ServerAuth</title>
+    <link>https://mods.vintagestory.at/show/mod/launchergoauth</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergoauth#8964</guid>
+    <pubDate>Tue, 04 Aug 2026 21:40:13 -0000</pubDate>
+    <description>服务器认证模组，提供注册登录、会话记住、Discourse SSO 与 OAuth2/OIDC 认证能力</description>
+  </item>
+  <item>
+    <title>Ghaelen's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9740</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
+    <pubDate>Tue, 04 Aug 2026 21:31:26 -0000</pubDate>
+    <description>My personal tweaks I like to play with.</description>
+  </item>
+  <item>
+    <title>Arrow Barrels</title>
+    <link>https://mods.vintagestory.at/show/mod/arrowbarrels</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arrowbarrels#4733</guid>
+    <pubDate>Tue, 04 Aug 2026 21:13:53 -0000</pubDate>
+    <description>Small barrels for storing arrows</description>
+  </item>
+  <item>
+    <title>Rot Bin</title>
+    <link>https://mods.vintagestory.at/show/mod/10779</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10779#10779</guid>
+    <pubDate>Tue, 04 Aug 2026 21:13:23 -0000</pubDate>
+    <description>Rot food and age alcohol.</description>
+  </item>
+  <item>
+    <title>Superflat Survival Challenge</title>
+    <link>https://mods.vintagestory.at/show/mod/10769</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10769#10769</guid>
+    <pubDate>Tue, 04 Aug 2026 20:55:44 -0000</pubDate>
+    <description>How long can you survive in a completely flat world with no ores, plants or food? </description>
+  </item>
+  <item>
+    <title>AstraTerra</title>
+    <link>https://mods.vintagestory.at/show/mod/8706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
+    <pubDate>Tue, 04 Aug 2026 20:37:58 -0000</pubDate>
+    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
+  </item>
+  <item>
+    <title>Metal Cooking Pots</title>
+    <link>https://mods.vintagestory.at/show/mod/metalpots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalpots#3912</guid>
+    <pubDate>Tue, 04 Aug 2026 20:30:18 -0000</pubDate>
+    <description>Adds Cooking Pots made from metal with greater serving size</description>
+  </item>
   <item>
     <title>Better Fruit Press</title>
     <link>https://mods.vintagestory.at/show/mod/10776</link>
@@ -18,13 +88,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
     <pubDate>Tue, 04 Aug 2026 19:59:03 -0000</pubDate>
     <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Superflat Survival Challenge</title>
-    <link>https://mods.vintagestory.at/show/mod/10769</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10769#10769</guid>
-    <pubDate>Tue, 04 Aug 2026 19:56:52 -0000</pubDate>
-    <description>How long can you survive in a completely flat world with no ores, plants or food? </description>
   </item>
   <item>
     <title>VS Discord Relay</title>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7730#7730</guid>
     <pubDate>Tue, 04 Aug 2026 15:41:42 -0000</pubDate>
     <description>Allows all classes to be able to use the tuning spear to tame multiple locusts and offer more tweaks</description>
-  </item>
-  <item>
-    <title>Herty Cups</title>
-    <link>https://mods.vintagestory.at/show/mod/10750</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10750#10750</guid>
-    <pubDate>Tue, 04 Aug 2026 15:41:11 -0000</pubDate>
-    <description>Resin Tapping for Vintage Story</description>
-  </item>
-  <item>
-    <title>Brickyard: Immersive Brickmaking</title>
-    <link>https://mods.vintagestory.at/show/mod/10768</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10768#10768</guid>
-    <pubDate>Tue, 04 Aug 2026 15:18:22 -0000</pubDate>
-    <description>Adds in-world brickmaking in an immersive and involved manner.</description>
-  </item>
-  <item>
-    <title>Pin Matrix - Waypoint Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/10760</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10760#10760</guid>
-    <pubDate>Tue, 04 Aug 2026 15:11:34 -0000</pubDate>
-    <description>Client-side bulk waypoint manager for Vintage Story</description>
-  </item>
-  <item>
-    <title>Banners Migration</title>
-    <link>https://mods.vintagestory.at/show/mod/bm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bm#9603</guid>
-    <pubDate>Tue, 04 Aug 2026 15:10:47 -0000</pubDate>
-    <description>Import Flags from Obsolote Banners mod to newer Heraldry Flags</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalsbackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalsbackpacks#2160</guid>
-    <pubDate>Tue, 04 Aug 2026 14:58:09 -0000</pubDate>
-    <description>Yes. New backpacks again.</description>
-  </item>
-  <item>
-    <title>Messenger Pigeons</title>
-    <link>https://mods.vintagestory.at/show/mod/10423</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10423#10423</guid>
-    <pubDate>Tue, 04 Aug 2026 14:36:05 -0000</pubDate>
-    <description>Send mail across the world using distance based messenger pigeons with secure pigeon boxes.</description>
-  </item>
-  <item>
-    <title>BetterEr Prospecting</title>
-    <link>https://mods.vintagestory.at/show/mod/bettererprospecting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettererprospecting#4916</guid>
-    <pubDate>Tue, 04 Aug 2026 14:28:31 -0000</pubDate>
-    <description>Altered prospecting experience with focus on reducing randomness</description>
-  </item>
-  <item>
-    <title>Pirate</title>
-    <link>https://mods.vintagestory.at/show/mod/pirate</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pirate#2599</guid>
-    <pubDate>Tue, 04 Aug 2026 13:46:33 -0000</pubDate>
-    <description>Just simple mod to add Pirate class, Aztec gold coins, Pirate tools.</description>
-  </item>
-  <item>
-    <title>Fullbright Toggle</title>
-    <link>https://mods.vintagestory.at/show/mod/fbr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fbr#6117</guid>
-    <pubDate>Tue, 04 Aug 2026 13:23:32 -0000</pubDate>
-    <description>Fullbright toggle so you can always see in the dark</description>
   </item>
 </channel>
 </rss>
