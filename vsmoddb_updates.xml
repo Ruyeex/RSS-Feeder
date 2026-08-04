@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 04 Aug 2026 02:45:37 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 05:49:49 +0000</lastBuildDate>
+  <item>
+    <title>Liber Terra</title>
+    <link>https://mods.vintagestory.at/show/mod/liberterra</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/liberterra#10763</guid>
+    <pubDate>Tue, 04 Aug 2026 04:43:00 -0000</pubDate>
+    <description>Pre-1300 CE public-domain literature as lore books in ruins and loot.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Tue, 04 Aug 2026 04:09:56 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Furio's Telescope</title>
+    <link>https://mods.vintagestory.at/show/mod/telescopemod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/telescopemod#10648</guid>
+    <pubDate>Tue, 04 Aug 2026 03:44:34 -0000</pubDate>
+    <description>(ALPHA) Telescope mod in development</description>
+  </item>
+  <item>
+    <title>Terra Loom</title>
+    <link>https://mods.vintagestory.at/show/mod/10546</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10546#10546</guid>
+    <pubDate>Tue, 04 Aug 2026 03:27:13 -0000</pubDate>
+    <description>Replaces vanilla terrain/climate generation with a self-contained, embedded AI diffusion model.</description>
+  </item>
+  <item>
+    <title>Make Tea Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/maketeaforked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/maketeaforked#4758</guid>
+    <pubDate>Tue, 04 Aug 2026 03:07:01 -0000</pubDate>
+    <description>Make clay teapots and mugs, brew tea and drink it.</description>
+  </item>
+  <item>
+    <title>Kobold Player Model Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/koboldrdx</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/koboldrdx#4814</guid>
+    <pubDate>Tue, 04 Aug 2026 03:03:11 -0000</pubDate>
+    <description>A complete 1.21+ remake of Soi's Kobold player model, for PlayerModelLib by Maltiez!</description>
+  </item>
+  <item>
+    <title>Chinese Line Break</title>
+    <link>https://mods.vintagestory.at/show/mod/10747</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10747#10747</guid>
+    <pubDate>Tue, 04 Aug 2026 03:03:04 -0000</pubDate>
+    <description>Fix an issue with abnormal line breaks in the Chinese interface text</description>
+  </item>
   <item>
     <title>Burdened: Immersive Carrying</title>
     <link>https://mods.vintagestory.at/show/mod/burdened</link>
@@ -74,13 +123,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
     <pubDate>Tue, 04 Aug 2026 00:07:53 -0000</pubDate>
     <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>Chiseled Blocks Always Insulate</title>
-    <link>https://mods.vintagestory.at/show/mod/10759</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10759#10759</guid>
-    <pubDate>Mon, 03 Aug 2026 23:59:52 -0000</pubDate>
-    <description>Forces microblocks to always retain heat, regardless of their shape/material/etc.</description>
   </item>
   <item>
     <title>Majestic Maple</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10508#10508</guid>
     <pubDate>Mon, 03 Aug 2026 22:18:35 -0000</pubDate>
     <description>Makes it so player markers are seen on the map everywhere</description>
-  </item>
-  <item>
-    <title>KCs Dragon Player!</title>
-    <link>https://mods.vintagestory.at/show/mod/kcsdragons</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragons#8146</guid>
-    <pubDate>Mon, 03 Aug 2026 22:17:55 -0000</pubDate>
-    <description>Adds an anthropomorphic dragon player model to the game</description>
-  </item>
-  <item>
-    <title>Brighter Berries</title>
-    <link>https://mods.vintagestory.at/show/mod/10723</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10723#10723</guid>
-    <pubDate>Mon, 03 Aug 2026 22:01:05 -0000</pubDate>
-    <description>Makes ripe berries brighter, and easier to see.</description>
-  </item>
-  <item>
-    <title>Better Hoe</title>
-    <link>https://mods.vintagestory.at/show/mod/betterhoe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhoe#1594</guid>
-    <pubDate>Mon, 03 Aug 2026 21:53:01 -0000</pubDate>
-    <description>Adds function to create paths with the hoe.</description>
-  </item>
-  <item>
-    <title>Glider Revamp (Drathon's Fork)</title>
-    <link>https://mods.vintagestory.at/show/mod/gliderrevampdrathon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gliderrevampdrathon#10567</guid>
-    <pubDate>Mon, 03 Aug 2026 21:48:58 -0000</pubDate>
-    <description>A fork of Hunter404's Glider Revamp updated to the most recent game version.</description>
-  </item>
-  <item>
-    <title>Wingworks</title>
-    <link>https://mods.vintagestory.at/show/mod/wingworks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wingworks#9998</guid>
-    <pubDate>Mon, 03 Aug 2026 21:46:24 -0000</pubDate>
-    <description>A mod which add flight capabilities for players with specific traits.</description>
-  </item>
-  <item>
-    <title>Aldi's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/aldiclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aldiclasses#5327</guid>
-    <pubDate>Mon, 03 Aug 2026 21:16:47 -0000</pubDate>
-    <description>An extremely stable, compatible and customizable classes mod!</description>
   </item>
 </channel>
 </rss>
