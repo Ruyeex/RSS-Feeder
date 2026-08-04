@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 04 Aug 2026 14:21:27 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 16:53:49 +0000</lastBuildDate>
+  <item>
+    <title>Superflat Survival Challenge</title>
+    <link>https://mods.vintagestory.at/show/mod/10769</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10769#10769</guid>
+    <pubDate>Tue, 04 Aug 2026 16:47:08 -0000</pubDate>
+    <description>How long can you survive in a completely flat world with no ores, plants or food? </description>
+  </item>
+  <item>
+    <title>Lumos</title>
+    <link>https://mods.vintagestory.at/show/mod/lumos</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lumos#10713</guid>
+    <pubDate>Tue, 04 Aug 2026 16:21:53 -0000</pubDate>
+    <description>Reworking the game's lighting system and fixing related bugs</description>
+  </item>
+  <item>
+    <title>Chinese Line Break</title>
+    <link>https://mods.vintagestory.at/show/mod/10747</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10747#10747</guid>
+    <pubDate>Tue, 04 Aug 2026 16:12:38 -0000</pubDate>
+    <description>Fix an issue with abnormal line breaks in the Chinese interface text</description>
+  </item>
+  <item>
+    <title>Locusts for all</title>
+    <link>https://mods.vintagestory.at/show/mod/7730</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7730#7730</guid>
+    <pubDate>Tue, 04 Aug 2026 15:41:42 -0000</pubDate>
+    <description>Allows all classes to be able to use the tuning spear to tame multiple locusts and offer more tweaks</description>
+  </item>
+  <item>
+    <title>Herty Cups</title>
+    <link>https://mods.vintagestory.at/show/mod/10750</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10750#10750</guid>
+    <pubDate>Tue, 04 Aug 2026 15:41:11 -0000</pubDate>
+    <description>Resin Tapping for Vintage Story</description>
+  </item>
+  <item>
+    <title>Brickyard: Immersive Brickmaking</title>
+    <link>https://mods.vintagestory.at/show/mod/10768</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10768#10768</guid>
+    <pubDate>Tue, 04 Aug 2026 15:18:22 -0000</pubDate>
+    <description>Adds in-world brickmaking in an immersive and involved manner.</description>
+  </item>
+  <item>
+    <title>Pin Matrix - Waypoint Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/10760</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10760#10760</guid>
+    <pubDate>Tue, 04 Aug 2026 15:11:34 -0000</pubDate>
+    <description>Client-side bulk waypoint manager for Vintage Story</description>
+  </item>
+  <item>
+    <title>Banners Migration</title>
+    <link>https://mods.vintagestory.at/show/mod/bm</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bm#9603</guid>
+    <pubDate>Tue, 04 Aug 2026 15:10:47 -0000</pubDate>
+    <description>Import Flags from Obsolote Banners mod to newer Heraldry Flags</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalsbackpacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalsbackpacks#2160</guid>
+    <pubDate>Tue, 04 Aug 2026 14:58:09 -0000</pubDate>
+    <description>Yes. New backpacks again.</description>
+  </item>
+  <item>
+    <title>Messenger Pigeons</title>
+    <link>https://mods.vintagestory.at/show/mod/10423</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10423#10423</guid>
+    <pubDate>Tue, 04 Aug 2026 14:36:05 -0000</pubDate>
+    <description>Send mail across the world using distance based messenger pigeons with secure pigeon boxes.</description>
+  </item>
+  <item>
+    <title>BetterEr Prospecting</title>
+    <link>https://mods.vintagestory.at/show/mod/bettererprospecting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettererprospecting#4916</guid>
+    <pubDate>Tue, 04 Aug 2026 14:28:31 -0000</pubDate>
+    <description>Altered prospecting experience with focus on reducing randomness</description>
+  </item>
   <item>
     <title>Pirate</title>
     <link>https://mods.vintagestory.at/show/mod/pirate</link>
@@ -18,13 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fbr#6117</guid>
     <pubDate>Tue, 04 Aug 2026 13:23:32 -0000</pubDate>
     <description>Fullbright toggle so you can always see in the dark</description>
-  </item>
-  <item>
-    <title>BetterEr Prospecting</title>
-    <link>https://mods.vintagestory.at/show/mod/bettererprospecting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettererprospecting#4916</guid>
-    <pubDate>Tue, 04 Aug 2026 13:18:06 -0000</pubDate>
-    <description>Altered prospecting experience with focus on reducing randomness</description>
   </item>
   <item>
     <title>Optimum</title>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/koboldrdx#4814</guid>
     <pubDate>Tue, 04 Aug 2026 03:03:11 -0000</pubDate>
     <description>A complete 1.21+ remake of Soi's Kobold player model, for PlayerModelLib by Maltiez!</description>
-  </item>
-  <item>
-    <title>Chinese Line Break</title>
-    <link>https://mods.vintagestory.at/show/mod/10747</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10747#10747</guid>
-    <pubDate>Tue, 04 Aug 2026 03:03:04 -0000</pubDate>
-    <description>Fix an issue with abnormal line breaks in the Chinese interface text</description>
-  </item>
-  <item>
-    <title>Burdened: Immersive Carrying</title>
-    <link>https://mods.vintagestory.at/show/mod/burdened</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/burdened#10391</guid>
-    <pubDate>Tue, 04 Aug 2026 02:05:29 -0000</pubDate>
-    <description>A weightier carrying experience: customizable slots, improved bag interactions, etc. Server enforced</description>
-  </item>
-  <item>
-    <title>Antique Harmony | Music Additions / Alternative Soundtrack</title>
-    <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiqueharmony#7141</guid>
-    <pubDate>Tue, 04 Aug 2026 02:01:18 -0000</pubDate>
-    <description>Adds to/replaces soundtrack with original orchestral one, written for the game.</description>
-  </item>
-  <item>
-    <title>Animalica - Body Tools &amp; Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicabtc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicabtc#9867</guid>
-    <pubDate>Tue, 04 Aug 2026 01:47:19 -0000</pubDate>
-    <description>Wearable body tools and universal classes for Animalica player species.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/10555</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
-    <pubDate>Tue, 04 Aug 2026 01:00:01 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>KFW Server Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/10761</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10761#10761</guid>
-    <pubDate>Tue, 04 Aug 2026 00:44:10 -0000</pubDate>
-    <description>Patches for KFW server modpack</description>
-  </item>
-  <item>
-    <title>Mesoamerican Drip</title>
-    <link>https://mods.vintagestory.at/show/mod/mesoamericandrip</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mesoamericandrip#10666</guid>
-    <pubDate>Tue, 04 Aug 2026 00:14:12 -0000</pubDate>
-    <description>Mesoamerican inspired clothes for vintage story!</description>
-  </item>
-  <item>
-    <title>Eternal Stew</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalstew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalstew#6196</guid>
-    <pubDate>Tue, 04 Aug 2026 00:11:28 -0000</pubDate>
-    <description>Eternal Stew: a stove and pot that keep your stew simmering forever.</description>
-  </item>
-  <item>
-    <title>The Revived Lands [PATCHES]</title>
-    <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
-    <pubDate>Tue, 04 Aug 2026 00:10:08 -0000</pubDate>
-    <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
-  </item>
-  <item>
-    <title>Pin Matrix - Waypoint Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/10760</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10760#10760</guid>
-    <pubDate>Tue, 04 Aug 2026 00:09:38 -0000</pubDate>
-    <description>Client-side bulk waypoint manager for Vintage Story</description>
   </item>
 </channel>
 </rss>
