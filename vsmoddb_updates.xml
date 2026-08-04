@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 04 Aug 2026 18:39:32 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 20:26:56 +0000</lastBuildDate>
+  <item>
+    <title>Better Fruit Press</title>
+    <link>https://mods.vintagestory.at/show/mod/10776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10776#10776</guid>
+    <pubDate>Tue, 04 Aug 2026 20:01:43 -0000</pubDate>
+    <description>Makes the fruit press quicker and allows squeezing over barrels.</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Tue, 04 Aug 2026 19:59:03 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Superflat Survival Challenge</title>
+    <link>https://mods.vintagestory.at/show/mod/10769</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10769#10769</guid>
+    <pubDate>Tue, 04 Aug 2026 19:56:52 -0000</pubDate>
+    <description>How long can you survive in a completely flat world with no ores, plants or food? </description>
+  </item>
+  <item>
+    <title>VS Discord Relay</title>
+    <link>https://mods.vintagestory.at/show/mod/10775</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10775#10775</guid>
+    <pubDate>Tue, 04 Aug 2026 19:54:03 -0000</pubDate>
+    <description>A simple discord to server chat bridge for your Vintage Story server needs!</description>
+  </item>
+  <item>
+    <title>C&amp;N Jewelry</title>
+    <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
+    <pubDate>Tue, 04 Aug 2026 19:40:39 -0000</pubDate>
+    <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
+  </item>
+  <item>
+    <title>Upgraded Berry Bush</title>
+    <link>https://mods.vintagestory.at/show/mod/upgradedberrybush</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/upgradedberrybush#10774</guid>
+    <pubDate>Tue, 04 Aug 2026 19:36:21 -0000</pubDate>
+    <description>Takes your stinky, OP legacy berry bushes and turns them into shiny new ones.</description>
+  </item>
+  <item>
+    <title>Fieldwright</title>
+    <link>https://mods.vintagestory.at/show/mod/fieldwright</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fieldwright#8879</guid>
+    <pubDate>Tue, 04 Aug 2026 19:07:24 -0000</pubDate>
+    <description>Client-side blueprint preview and build-along tool with ghost and live material checklist.</description>
+  </item>
+  <item>
+    <title>Dense Ground Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
+    <pubDate>Tue, 04 Aug 2026 18:52:32 -0000</pubDate>
+    <description>Place down more items per block and on chiseled blocks</description>
+  </item>
+  <item>
+    <title>Batch Production Molds</title>
+    <link>https://mods.vintagestory.at/show/mod/batchmolds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/batchmolds#5097</guid>
+    <pubDate>Tue, 04 Aug 2026 18:48:15 -0000</pubDate>
+    <description>Adds realistic "Vanilla+" style batch production molds to produce multiple work pieces at once.</description>
+  </item>
+  <item>
+    <title>Global Illuminator</title>
+    <link>https://mods.vintagestory.at/show/mod/10767</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10767#10767</guid>
+    <pubDate>Tue, 04 Aug 2026 18:39:52 -0000</pubDate>
+    <description>An early version of global illumination and skylighting designed to work with Sheydermod</description>
+  </item>
   <item>
     <title>The Ultimate Mod Manager</title>
     <link>https://mods.vintagestory.at/show/mod/10348</link>
@@ -60,13 +130,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpackscompattweaks#10746</guid>
     <pubDate>Tue, 04 Aug 2026 17:09:15 -0000</pubDate>
     <description>A mod that adds compat for other mods to Immersive Backpacks and makes some tweaks!</description>
-  </item>
-  <item>
-    <title>Superflat Survival Challenge</title>
-    <link>https://mods.vintagestory.at/show/mod/10769</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10769#10769</guid>
-    <pubDate>Tue, 04 Aug 2026 16:47:08 -0000</pubDate>
-    <description>How long can you survive in a completely flat world with no ores, plants or food? </description>
   </item>
   <item>
     <title>Lumos</title>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fbr#6117</guid>
     <pubDate>Tue, 04 Aug 2026 13:23:32 -0000</pubDate>
     <description>Fullbright toggle so you can always see in the dark</description>
-  </item>
-  <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Tue, 04 Aug 2026 12:42:46 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
-    <title>Galeret Traits Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/10565</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10565#10565</guid>
-    <pubDate>Tue, 04 Aug 2026 12:30:40 -0000</pubDate>
-    <description>A simple mod to add Trais to my Galeret race Mod</description>
-  </item>
-  <item>
-    <title>Galeret</title>
-    <link>https://mods.vintagestory.at/show/mod/9970</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9970#9970</guid>
-    <pubDate>Tue, 04 Aug 2026 12:30:21 -0000</pubDate>
-    <description>A race of cat people based on kahjit</description>
-  </item>
-  <item>
-    <title>Hexis (Beta)</title>
-    <link>https://mods.vintagestory.at/show/mod/hexis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexis#10623</guid>
-    <pubDate>Tue, 04 Aug 2026 12:28:22 -0000</pubDate>
-    <description>A tactical, stance-based combat system of mass and momentum, Focus-built for VS' harsh reality</description>
-  </item>
-  <item>
-    <title>Secret Foxfire 1.22 Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10037</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10037#10037</guid>
-    <pubDate>Tue, 04 Aug 2026 10:27:02 -0000</pubDate>
-    <description>Tweaks for my community 1.22 server.</description>
-  </item>
-  <item>
-    <title>Forager Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/8839</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8839#8839</guid>
-    <pubDate>Tue, 04 Aug 2026 10:24:46 -0000</pubDate>
-    <description>Tweaks to how starvation works and what season items can drop in.</description>
-  </item>
-  <item>
-    <title>Better and Improved Weather Continued</title>
-    <link>https://mods.vintagestory.at/show/mod/biwc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biwc#10765</guid>
-    <pubDate>Tue, 04 Aug 2026 10:17:57 -0000</pubDate>
-    <description>Better and improved weather for Vintage Story. </description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Tue, 04 Aug 2026 07:50:48 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Panning Machine</title>
-    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
-    <pubDate>Tue, 04 Aug 2026 07:44:53 -0000</pubDate>
-    <description>Simple machine for panning</description>
   </item>
 </channel>
 </rss>
