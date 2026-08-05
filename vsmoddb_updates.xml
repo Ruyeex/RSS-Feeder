@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 05 Aug 2026 12:54:50 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 15:15:51 +0000</lastBuildDate>
+  <item>
+    <title>Manual Bait</title>
+    <link>https://mods.vintagestory.at/show/mod/manualbait</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/manualbait#8680</guid>
+    <pubDate>Wed, 05 Aug 2026 15:15:48 -0000</pubDate>
+    <description>A small quality-of-life mod for players who want baiting rods to feel more natural.</description>
+  </item>
+  <item>
+    <title>Meliora Meadows Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
+    <pubDate>Wed, 05 Aug 2026 14:28:57 -0000</pubDate>
+    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
+  </item>
+  <item>
+    <title>Auto Walk Extended</title>
+    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
+    <pubDate>Wed, 05 Aug 2026 13:47:43 -0000</pubDate>
+    <description>Toggle walking/sprinting. Options to toggle sneaking and automatic climbing.</description>
+  </item>
+  <item>
+    <title>Pin Matrix - Waypoint Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/10760</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10760#10760</guid>
+    <pubDate>Wed, 05 Aug 2026 13:30:46 -0000</pubDate>
+    <description>Client-side bulk waypoint manager for Vintage Story</description>
+  </item>
   <item>
     <title>Boat Autopilot</title>
     <link>https://mods.vintagestory.at/show/mod/10304</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
     <pubDate>Wed, 05 Aug 2026 04:19:59 -0000</pubDate>
     <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
-  </item>
-  <item>
-    <title>Realistic Physiology and Survival</title>
-    <link>https://mods.vintagestory.at/show/mod/10784</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10784#10784</guid>
-    <pubDate>Wed, 05 Aug 2026 04:16:22 -0000</pubDate>
-    <description>Imagine if Rimworld, Project Zomboid, and Oxygen not Included survival was combined.</description>
-  </item>
-  <item>
-    <title>Bottoms Up!</title>
-    <link>https://mods.vintagestory.at/show/mod/bottomsup</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bottomsup#5472</guid>
-    <pubDate>Wed, 05 Aug 2026 04:13:42 -0000</pubDate>
-    <description>Fancy glass bottles for your bar</description>
-  </item>
-  <item>
-    <title>Furio's Telescope</title>
-    <link>https://mods.vintagestory.at/show/mod/telescopemod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/telescopemod#10648</guid>
-    <pubDate>Wed, 05 Aug 2026 03:33:59 -0000</pubDate>
-    <description>(ALPHA) Telescope mod in development, basic functionality right now.</description>
-  </item>
-  <item>
-    <title>Brass Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/brasspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/brasspatch#10783</guid>
-    <pubDate>Wed, 05 Aug 2026 03:22:57 -0000</pubDate>
-    <description>A simple patch to add brass nails &amp; strips to appropriate recipes!</description>
   </item>
 </channel>
 </rss>
