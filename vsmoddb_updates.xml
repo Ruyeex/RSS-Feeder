@@ -4,13 +4,132 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 05 Aug 2026 04:12:09 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 07:41:21 +0000</lastBuildDate>
+  <item>
+    <title>TaborServers</title>
+    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
+    <pubDate>Wed, 05 Aug 2026 07:37:07 -0000</pubDate>
+    <description>Patches fo most of Tabor servers</description>
+  </item>
+  <item>
+    <title>TassFactions</title>
+    <link>https://mods.vintagestory.at/show/mod/10503</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
+    <pubDate>Wed, 05 Aug 2026 07:08:14 -0000</pubDate>
+    <description>Factions - Raids - Sieges - Shops - Bounty</description>
+  </item>
+  <item>
+    <title>Status Hud Continued</title>
+    <link>https://mods.vintagestory.at/show/mod/statushudcont</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/statushudcont#1841</guid>
+    <pubDate>Wed, 05 Aug 2026 07:06:58 -0000</pubDate>
+    <description>Displays status information on the HUD.</description>
+  </item>
+  <item>
+    <title>TassHardcoreWinter</title>
+    <link>https://mods.vintagestory.at/show/mod/tasshardcorewinter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshardcorewinter#10500</guid>
+    <pubDate>Wed, 05 Aug 2026 06:58:54 -0000</pubDate>
+    <description>Deeper snow, white out blizzards, restorative spring, realistic room temperature, heat source rework</description>
+  </item>
+  <item>
+    <title>TassHunting</title>
+    <link>https://mods.vintagestory.at/show/mod/tasshunting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshunting#10438</guid>
+    <pubDate>Wed, 05 Aug 2026 06:49:40 -0000</pubDate>
+    <description>Arrows Stick - Blood - Smarter Animal AI - Aiming Tweaks - Health Based Animal Speed</description>
+  </item>
+  <item>
+    <title>TassModFixesTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tassmodfixestweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassmodfixestweaks#10502</guid>
+    <pubDate>Wed, 05 Aug 2026 06:47:02 -0000</pubDate>
+    <description>A catch all mod for anything that does not fit my other mods - fixing bugs and tweaking mods</description>
+  </item>
   <item>
     <title>Solaria's Solace Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/10706</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Wed, 05 Aug 2026 03:35:14 -0000</pubDate>
+    <pubDate>Wed, 05 Aug 2026 06:34:34 -0000</pubDate>
     <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Wed, 05 Aug 2026 06:33:19 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Alloy Calculator by Stuzzichino</title>
+    <link>https://mods.vintagestory.at/show/mod/alloycalc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alloycalc#9149</guid>
+    <pubDate>Wed, 05 Aug 2026 05:54:03 -0000</pubDate>
+    <description>Client-side alloy and fuel calculator for metallurgy and modded ingot configurations.</description>
+  </item>
+  <item>
+    <title>Will Is A Bear</title>
+    <link>https://mods.vintagestory.at/show/mod/willisabear</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/willisabear#7752</guid>
+    <pubDate>Wed, 05 Aug 2026 05:48:24 -0000</pubDate>
+    <description>TTS voice over Bear noises.</description>
+  </item>
+  <item>
+    <title>Louder Bears</title>
+    <link>https://mods.vintagestory.at/show/mod/louderbears</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/louderbears#7726</guid>
+    <pubDate>Wed, 05 Aug 2026 05:48:10 -0000</pubDate>
+    <description>Amplified bear noises to be more noticible.</description>
+  </item>
+  <item>
+    <title>Rename Torchholder to Sconce</title>
+    <link>https://mods.vintagestory.at/show/mod/sconce</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sconce#4560</guid>
+    <pubDate>Wed, 05 Aug 2026 05:47:29 -0000</pubDate>
+    <description>Corrects 'torchholder' to 'sconce' in game text</description>
+  </item>
+  <item>
+    <title>Female Seraph Mitsuyo's Japanese gear compat</title>
+    <link>https://mods.vintagestory.at/show/mod/mitsuyofseraph</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mitsuyofseraph#10785</guid>
+    <pubDate>Wed, 05 Aug 2026 05:46:28 -0000</pubDate>
+    <description>created by the one and only Mr. Shiver</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Wed, 05 Aug 2026 05:34:42 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Warm Gambeson</title>
+    <link>https://mods.vintagestory.at/show/mod/warmgambeson</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/warmgambeson#5325</guid>
+    <pubDate>Wed, 05 Aug 2026 04:27:59 -0000</pubDate>
+    <description>Adds warmth to gambeson armor so you can wear it in winter and benefit from it</description>
+  </item>
+  <item>
+    <title>The Quire Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/10455</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
+    <pubDate>Wed, 05 Aug 2026 04:19:59 -0000</pubDate>
+    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
+  </item>
+  <item>
+    <title>Realistic Physiology and Survival</title>
+    <link>https://mods.vintagestory.at/show/mod/10784</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10784#10784</guid>
+    <pubDate>Wed, 05 Aug 2026 04:16:22 -0000</pubDate>
+    <description>Imagine if Rimworld, Project Zomboid, and Oxygen not Included survival was combined.</description>
+  </item>
+  <item>
+    <title>Bottoms Up!</title>
+    <link>https://mods.vintagestory.at/show/mod/bottomsup</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bottomsup#5472</guid>
+    <pubDate>Wed, 05 Aug 2026 04:13:42 -0000</pubDate>
+    <description>Fancy glass bottles for your bar</description>
   </item>
   <item>
     <title>Furio's Telescope</title>
@@ -32,13 +151,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mesoamericandrip#10666</guid>
     <pubDate>Wed, 05 Aug 2026 03:07:52 -0000</pubDate>
     <description>Mesoamerican inspired clothes for vintage story!</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Wed, 05 Aug 2026 03:03:59 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
   </item>
   <item>
     <title>unHallowedPatches</title>
@@ -102,118 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/commandblockclientextmod#6764</guid>
     <pubDate>Wed, 05 Aug 2026 02:35:36 -0000</pubDate>
     <description>Enables client commands in the Command Blocks (+ some utilities!)</description>
-  </item>
-  <item>
-    <title>Antler Util</title>
-    <link>https://mods.vintagestory.at/show/mod/antlerutilmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antlerutilmod#6250</guid>
-    <pubDate>Wed, 05 Aug 2026 02:35:26 -0000</pubDate>
-    <description>Helps you collecting antlers (also would work as a workaround for the "phantom" shed antlers issue)</description>
-  </item>
-  <item>
-    <title>Scoop of Jam</title>
-    <link>https://mods.vintagestory.at/show/mod/scoopofjammod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scoopofjammod#6164</guid>
-    <pubDate>Wed, 05 Aug 2026 02:35:15 -0000</pubDate>
-    <description>Scoop jam with a spoon to make jam sandwiches and jam pies!</description>
-  </item>
-  <item>
-    <title>Fix English Font (Windows only)</title>
-    <link>https://mods.vintagestory.at/show/mod/fixenfont</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fixenfont#3329</guid>
-    <pubDate>Wed, 05 Aug 2026 02:34:21 -0000</pubDate>
-    <description>Playing VS in English but the text looks awkward? This mod fixes that! (No server install needed)</description>
-  </item>
-  <item>
-    <title>Simple Blobcat</title>
-    <link>https://mods.vintagestory.at/show/mod/blobcatmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blobcatmod#3174</guid>
-    <pubDate>Wed, 05 Aug 2026 02:33:59 -0000</pubDate>
-    <description>Adds a simple companion blobcat</description>
-  </item>
-  <item>
-    <title>No Screenshot Message</title>
-    <link>https://mods.vintagestory.at/show/mod/noscreenshotmessagemod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noscreenshotmessagemod#2953</guid>
-    <pubDate>Wed, 05 Aug 2026 02:33:48 -0000</pubDate>
-    <description>Disables "Screenshot ***.png taken." chat message (No server install needed)</description>
-  </item>
-  <item>
-    <title>Alarm Timer</title>
-    <link>https://mods.vintagestory.at/show/mod/alarmtimermod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alarmtimermod#2951</guid>
-    <pubDate>Wed, 05 Aug 2026 02:33:34 -0000</pubDate>
-    <description>Adds a simple alarm timer command `.tm` (No server install needed)</description>
-  </item>
-  <item>
-    <title>Trader Phone (Beta)</title>
-    <link>https://mods.vintagestory.at/show/mod/remotetradercheckmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/remotetradercheckmod#3223</guid>
-    <pubDate>Wed, 05 Aug 2026 02:33:14 -0000</pubDate>
-    <description>Let's make a call to traders and check their stocks!</description>
-  </item>
-  <item>
-    <title>Egg Pie (Quiche)</title>
-    <link>https://mods.vintagestory.at/show/mod/eggpiemod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eggpiemod#2882</guid>
-    <pubDate>Wed, 05 Aug 2026 02:31:29 -0000</pubDate>
-    <description>Allows eggs in pies</description>
-  </item>
-  <item>
-    <title>Self-Recording Thermometer</title>
-    <link>https://mods.vintagestory.at/show/mod/airthermomod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/airthermomod#2859</guid>
-    <pubDate>Wed, 05 Aug 2026 02:31:03 -0000</pubDate>
-    <description>Adds a self-recording thermometer</description>
-  </item>
-  <item>
-    <title>Rusty Piligrimm</title>
-    <link>https://mods.vintagestory.at/show/mod/10709</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10709#10709</guid>
-    <pubDate>Wed, 05 Aug 2026 02:08:48 -0000</pubDate>
-    <description>This mod adds a new terrifying enemy to your world.</description>
-  </item>
-  <item>
-    <title>SudoKillTraders</title>
-    <link>https://mods.vintagestory.at/show/mod/6945</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6945#6945</guid>
-    <pubDate>Wed, 05 Aug 2026 01:39:23 -0000</pubDate>
-    <description>Gets rid of those pesky traders that want to stick around</description>
-  </item>
-  <item>
-    <title>FSurfaceIndicatorKimberlite</title>
-    <link>https://mods.vintagestory.at/show/mod/10782</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10782#10782</guid>
-    <pubDate>Wed, 05 Aug 2026 01:31:52 -0000</pubDate>
-    <description>Loose Kimberlite stone surface generation, chance based</description>
-  </item>
-  <item>
-    <title>VSC-Cosmetics</title>
-    <link>https://mods.vintagestory.at/show/mod/6893</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6893#6893</guid>
-    <pubDate>Wed, 05 Aug 2026 01:31:25 -0000</pubDate>
-    <description>Cosmetics for the Vintage Story Civilization Server.</description>
-  </item>
-  <item>
-    <title>VSC More Warhorns</title>
-    <link>https://mods.vintagestory.at/show/mod/7385</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7385#7385</guid>
-    <pubDate>Wed, 05 Aug 2026 01:20:11 -0000</pubDate>
-    <description>Adds in custom audio warhorns for the Vintage Story Civilizations server.</description>
-  </item>
-  <item>
-    <title>NicknameMod</title>
-    <link>https://mods.vintagestory.at/show/mod/6565</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6565#6565</guid>
-    <pubDate>Wed, 05 Aug 2026 01:19:34 -0000</pubDate>
-    <description>A server-side mod that allows players to set custom nicknames displayed in chat, with local chat</description>
-  </item>
-  <item>
-    <title>Ding Dong!</title>
-    <link>https://mods.vintagestory.at/show/mod/dingdong</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dingdong#7784</guid>
-    <pubDate>Wed, 05 Aug 2026 01:18:36 -0000</pubDate>
-    <description>Интерактивные колокола</description>
   </item>
 </channel>
 </rss>
