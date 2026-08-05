@@ -4,13 +4,41 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 05 Aug 2026 17:41:39 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 19:38:44 +0000</lastBuildDate>
+  <item>
+    <title>Better and Improved Weather Continued</title>
+    <link>https://mods.vintagestory.at/show/mod/biwc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biwc#10765</guid>
+    <pubDate>Wed, 05 Aug 2026 19:38:37 -0000</pubDate>
+    <description>Better and improved weather for Vintage Story. </description>
+  </item>
   <item>
     <title>Hover Info</title>
     <link>https://mods.vintagestory.at/show/mod/hoverinfo</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hoverinfo#10792</guid>
-    <pubDate>Wed, 05 Aug 2026 17:34:30 -0000</pubDate>
+    <pubDate>Wed, 05 Aug 2026 18:48:56 -0000</pubDate>
     <description>A mod made for the Paw server to see the information of player held items also linkable to chat</description>
+  </item>
+  <item>
+    <title>Alchemy - Druid Only (Aldi's Classes Patch)</title>
+    <link>https://mods.vintagestory.at/show/mod/druidalchemylock</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/druidalchemylock#10793</guid>
+    <pubDate>Wed, 05 Aug 2026 18:33:54 -0000</pubDate>
+    <description>Restricts Alchemy mod crafting to the Druid class (Aldi's Classes).</description>
+  </item>
+  <item>
+    <title>PALSJ's Fancy Faces</title>
+    <link>https://mods.vintagestory.at/show/mod/fancyfaces</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fancyfaces#10362</guid>
+    <pubDate>Wed, 05 Aug 2026 18:31:36 -0000</pubDate>
+    <description>Adds new faces and the ability to select pieces of each face separately.</description>
+  </item>
+  <item>
+    <title>Superflat Survival Challenge</title>
+    <link>https://mods.vintagestory.at/show/mod/10769</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10769#10769</guid>
+    <pubDate>Wed, 05 Aug 2026 18:10:35 -0000</pubDate>
+    <description>How long can you survive in a completely flat world with no ores, plants or food? </description>
   </item>
   <item>
     <title>Viresap</title>
@@ -60,13 +88,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10750#10750</guid>
     <pubDate>Wed, 05 Aug 2026 16:56:15 -0000</pubDate>
     <description>Resin Tapping for Vintage Story</description>
-  </item>
-  <item>
-    <title>Superflat Survival Challenge</title>
-    <link>https://mods.vintagestory.at/show/mod/10769</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10769#10769</guid>
-    <pubDate>Wed, 05 Aug 2026 16:45:25 -0000</pubDate>
-    <description>How long can you survive in a completely flat world with no ores, plants or food? </description>
   </item>
   <item>
     <title>GlassDoorsandWindows</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
     <pubDate>Wed, 05 Aug 2026 08:39:09 -0000</pubDate>
     <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Might&amp;magic Fantasy server patches</title>
-    <link>https://mods.vintagestory.at/show/mod/czsurvivalmm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/czsurvivalmm#4676</guid>
-    <pubDate>Wed, 05 Aug 2026 08:23:41 -0000</pubDate>
-    <description>Patches and translations for server Tábor - Might&amp;magic fantasy server</description>
-  </item>
-  <item>
-    <title>TL Path for Translocator Paths</title>
-    <link>https://mods.vintagestory.at/show/mod/10786</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10786#10786</guid>
-    <pubDate>Wed, 05 Aug 2026 08:15:50 -0000</pubDate>
-    <description>Fork of TL Path enhanced to utilize data from Translocator Paths as well.</description>
-  </item>
-  <item>
-    <title>TaborServers</title>
-    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
-    <pubDate>Wed, 05 Aug 2026 07:37:07 -0000</pubDate>
-    <description>Patches fo most of Tabor servers</description>
   </item>
 </channel>
 </rss>
