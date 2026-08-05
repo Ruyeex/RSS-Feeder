@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 04 Aug 2026 22:14:45 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 00:05:25 +0000</lastBuildDate>
+  <item>
+    <title>Flow Field Collisions</title>
+    <link>https://mods.vintagestory.at/show/mod/7488</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7488#7488</guid>
+    <pubDate>Tue, 04 Aug 2026 23:59:01 -0000</pubDate>
+    <description>Back-Propagated Flow Field Collisions. Whatever that means.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Tue, 04 Aug 2026 23:58:57 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Isometric Renders</title>
+    <link>https://mods.vintagestory.at/show/mod/isometricrenders</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/isometricrenders#10732</guid>
+    <pubDate>Tue, 04 Aug 2026 23:16:17 -0000</pubDate>
+    <description>High resolution orthographic and isometric renders for Vintage Story worlds, structures and objects</description>
+  </item>
+  <item>
+    <title>Restart Timer</title>
+    <link>https://mods.vintagestory.at/show/mod/restarttimer</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/restarttimer#7160</guid>
+    <pubDate>Tue, 04 Aug 2026 23:04:34 -0000</pubDate>
+    <description>Announces restart times and automatically stops the server after 4 hours of uptime.</description>
+  </item>
+  <item>
+    <title>Shot Glasses</title>
+    <link>https://mods.vintagestory.at/show/mod/shotglasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shotglasses#6074</guid>
+    <pubDate>Tue, 04 Aug 2026 23:01:11 -0000</pubDate>
+    <description>Tiny colored shot glasses for 0.1L sips</description>
+  </item>
+  <item>
+    <title>ReModel</title>
+    <link>https://mods.vintagestory.at/show/mod/remodel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/remodel#10337</guid>
+    <pubDate>Tue, 04 Aug 2026 22:35:22 -0000</pubDate>
+    <description>Allows running .charsel to only swap the player model without changing class</description>
+  </item>
+  <item>
+    <title>VS Discord Relay</title>
+    <link>https://mods.vintagestory.at/show/mod/10775</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10775#10775</guid>
+    <pubDate>Tue, 04 Aug 2026 22:29:31 -0000</pubDate>
+    <description>A simple discord to server chat bridge for your Vintage Story server needs!</description>
+  </item>
   <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/9635</link>
@@ -90,13 +139,6 @@
     <description>A bunch of fixes and additions for the server.</description>
   </item>
   <item>
-    <title>VS Discord Relay</title>
-    <link>https://mods.vintagestory.at/show/mod/10775</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10775#10775</guid>
-    <pubDate>Tue, 04 Aug 2026 19:54:03 -0000</pubDate>
-    <description>A simple discord to server chat bridge for your Vintage Story server needs!</description>
-  </item>
-  <item>
     <title>C&amp;N Jewelry</title>
     <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/relicsoftransmission#10534</guid>
     <pubDate>Tue, 04 Aug 2026 17:25:13 -0000</pubDate>
     <description>A multimedia mod, allowing you to listen to music, watch videos/livestreams and listen to the Radio.</description>
-  </item>
-  <item>
-    <title>KCs Dragon Player!</title>
-    <link>https://mods.vintagestory.at/show/mod/kcsdragons</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragons#8146</guid>
-    <pubDate>Tue, 04 Aug 2026 17:24:04 -0000</pubDate>
-    <description>Adds an anthropomorphic dragon player model to the game</description>
-  </item>
-  <item>
-    <title>Multiverse</title>
-    <link>https://mods.vintagestory.at/show/mod/themultiverse</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/themultiverse#10770</guid>
-    <pubDate>Tue, 04 Aug 2026 17:23:50 -0000</pubDate>
-    <description>A multi-dimensional framework, with crystals.</description>
-  </item>
-  <item>
-    <title>Immersive Backpacks Compat &amp; Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivebackpackscompattweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpackscompattweaks#10746</guid>
-    <pubDate>Tue, 04 Aug 2026 17:09:15 -0000</pubDate>
-    <description>A mod that adds compat for other mods to Immersive Backpacks and makes some tweaks!</description>
-  </item>
-  <item>
-    <title>Lumos</title>
-    <link>https://mods.vintagestory.at/show/mod/lumos</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lumos#10713</guid>
-    <pubDate>Tue, 04 Aug 2026 16:21:53 -0000</pubDate>
-    <description>Reworking the game's lighting system and fixing related bugs</description>
-  </item>
-  <item>
-    <title>Chinese Line Break</title>
-    <link>https://mods.vintagestory.at/show/mod/10747</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10747#10747</guid>
-    <pubDate>Tue, 04 Aug 2026 16:12:38 -0000</pubDate>
-    <description>Fix an issue with abnormal line breaks in the Chinese interface text</description>
-  </item>
-  <item>
-    <title>Locusts for all</title>
-    <link>https://mods.vintagestory.at/show/mod/7730</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7730#7730</guid>
-    <pubDate>Tue, 04 Aug 2026 15:41:42 -0000</pubDate>
-    <description>Allows all classes to be able to use the tuning spear to tame multiple locusts and offer more tweaks</description>
   </item>
 </channel>
 </rss>
