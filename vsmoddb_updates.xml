@@ -4,20 +4,62 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 05 Aug 2026 19:38:44 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 21:12:50 +0000</lastBuildDate>
+  <item>
+    <title>Nimbus - A Server proxy for Vintagestory.</title>
+    <link>https://mods.vintagestory.at/show/mod/nimbusproxy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nimbusproxy#9517</guid>
+    <pubDate>Wed, 05 Aug 2026 21:04:03 -0000</pubDate>
+    <description>Put many backends behind one address, move players between them on demand.</description>
+  </item>
+  <item>
+    <title>Jeb's Inventory Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/jebsit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jebsit#2934</guid>
+    <pubDate>Wed, 05 Aug 2026 20:56:33 -0000</pubDate>
+    <description>Add some QoL inventory tweaks</description>
+  </item>
+  <item>
+    <title>Temporal Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/9869</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9869#9869</guid>
+    <pubDate>Wed, 05 Aug 2026 20:55:19 -0000</pubDate>
+    <description>A simple Storage Solution using the power of Temporal Entanglement! (Now with actual sorting~)</description>
+  </item>
+  <item>
+    <title>Custom Math Terrain</title>
+    <link>https://mods.vintagestory.at/show/mod/10795</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10795#10795</guid>
+    <pubDate>Wed, 05 Aug 2026 20:35:57 -0000</pubDate>
+    <description>Custom Math Terrain Mod for Vintage Story</description>
+  </item>
+  <item>
+    <title>Hover Info</title>
+    <link>https://mods.vintagestory.at/show/mod/hoverinfo</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hoverinfo#10792</guid>
+    <pubDate>Wed, 05 Aug 2026 20:18:23 -0000</pubDate>
+    <description>A mod made for the Paw server to see the information of player held items also linkable to chat</description>
+  </item>
+  <item>
+    <title>TassHardcoreWinter</title>
+    <link>https://mods.vintagestory.at/show/mod/tasshardcorewinter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshardcorewinter#10500</guid>
+    <pubDate>Wed, 05 Aug 2026 20:07:14 -0000</pubDate>
+    <description>Deeper snow, white out blizzards, restorative spring, realistic room temperature, heat source rework</description>
+  </item>
+  <item>
+    <title>Drinkable Interaction Ordering Patch (For Yang's Transport Tycoon)</title>
+    <link>https://mods.vintagestory.at/show/mod/8711</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8711#8711</guid>
+    <pubDate>Wed, 05 Aug 2026 19:40:13 -0000</pubDate>
+    <description>Terrible and dirty hack to allow you to feed alcohol to locomotives.</description>
+  </item>
   <item>
     <title>Better and Improved Weather Continued</title>
     <link>https://mods.vintagestory.at/show/mod/biwc</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biwc#10765</guid>
     <pubDate>Wed, 05 Aug 2026 19:38:37 -0000</pubDate>
     <description>Better and improved weather for Vintage Story. </description>
-  </item>
-  <item>
-    <title>Hover Info</title>
-    <link>https://mods.vintagestory.at/show/mod/hoverinfo</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hoverinfo#10792</guid>
-    <pubDate>Wed, 05 Aug 2026 18:48:56 -0000</pubDate>
-    <description>A mod made for the Paw server to see the information of player held items also linkable to chat</description>
   </item>
   <item>
     <title>Alchemy - Druid Only (Aldi's Classes Patch)</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9970#9970</guid>
     <pubDate>Wed, 05 Aug 2026 11:59:25 -0000</pubDate>
     <description>A race of cat people based on kahjit</description>
-  </item>
-  <item>
-    <title>Rust Creatures Reworked</title>
-    <link>https://mods.vintagestory.at/show/mod/9311</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9311#9311</guid>
-    <pubDate>Wed, 05 Aug 2026 10:51:00 -0000</pubDate>
-    <description>Improved Pathfinding. Shivers &amp; Bowtorns more dangerous. Spawn blocked by even low light. Adjustable</description>
-  </item>
-  <item>
-    <title>Chinese Line Break</title>
-    <link>https://mods.vintagestory.at/show/mod/10747</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10747#10747</guid>
-    <pubDate>Wed, 05 Aug 2026 10:19:34 -0000</pubDate>
-    <description>Fix an issue with abnormal line breaks in the Chinese interface text</description>
-  </item>
-  <item>
-    <title>Temporal Vessels - A Vessel Teleportation System</title>
-    <link>https://mods.vintagestory.at/show/mod/temporalvessels</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/temporalvessels#7817</guid>
-    <pubDate>Wed, 05 Aug 2026 09:30:51 -0000</pubDate>
-    <description>Teleport a storage vessel back to your base so you can continue your looting exploration adventure</description>
-  </item>
-  <item>
-    <title>Grindable Arrows</title>
-    <link>https://mods.vintagestory.at/show/mod/grindablearrows</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindablearrows#8419</guid>
-    <pubDate>Wed, 05 Aug 2026 09:30:29 -0000</pubDate>
-    <description>Sharpen your arrows on a grinding wheel to shoot your enemies with more powerful arrows</description>
-  </item>
-  <item>
-    <title>Catch and Release: Fish</title>
-    <link>https://mods.vintagestory.at/show/mod/crfish</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crfish#7410</guid>
-    <pubDate>Wed, 05 Aug 2026 09:28:33 -0000</pubDate>
-    <description>Catch fish live and place them in various sized aquariums.</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Wed, 05 Aug 2026 08:39:09 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
 </channel>
 </rss>
