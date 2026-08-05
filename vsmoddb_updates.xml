@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 05 Aug 2026 21:12:50 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 23:02:11 +0000</lastBuildDate>
+  <item>
+    <title>The Revived Lands [PATCHES]</title>
+    <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
+    <pubDate>Wed, 05 Aug 2026 22:54:19 -0000</pubDate>
+    <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
+  </item>
+  <item>
+    <title>Inventory Transfer</title>
+    <link>https://mods.vintagestory.at/show/mod/7383</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7383#7383</guid>
+    <pubDate>Wed, 05 Aug 2026 22:40:28 -0000</pubDate>
+    <description>Take your loot to a new world!</description>
+  </item>
+  <item>
+    <title>TassFactions</title>
+    <link>https://mods.vintagestory.at/show/mod/10503</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
+    <pubDate>Wed, 05 Aug 2026 22:30:37 -0000</pubDate>
+    <description>Factions - Raids - Sieges - Shops - Bounty</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Wed, 05 Aug 2026 22:16:58 -0000</pubDate>
+    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
+  </item>
+  <item>
+    <title>Riley's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Wed, 05 Aug 2026 22:10:11 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+  </item>
+  <item>
+    <title>Amphithere: Winged Serpent</title>
+    <link>https://mods.vintagestory.at/show/mod/amphithere</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/amphithere#10798</guid>
+    <pubDate>Wed, 05 Aug 2026 22:07:44 -0000</pubDate>
+    <description>Adds an amphithere dragon species to the world.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Wed, 05 Aug 2026 22:06:30 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Wed, 05 Aug 2026 21:22:25 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
   <item>
     <title>Nimbus - A Server proxy for Vintagestory.</title>
     <link>https://mods.vintagestory.at/show/mod/nimbusproxy</link>
@@ -139,20 +195,6 @@
     <description>Added items like glass doors, windows, sliding windows etc.</description>
   </item>
   <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Wed, 05 Aug 2026 16:14:29 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>TassFactions</title>
-    <link>https://mods.vintagestory.at/show/mod/10503</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
-    <pubDate>Wed, 05 Aug 2026 16:01:54 -0000</pubDate>
-    <description>Factions - Raids - Sieges - Shops - Bounty</description>
-  </item>
-  <item>
     <title>Waxlight Launcher</title>
     <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
     <pubDate>Wed, 05 Aug 2026 15:24:34 -0000</pubDate>
     <description>Toggle walking/sprinting. Options to toggle sneaking and automatic climbing.</description>
-  </item>
-  <item>
-    <title>Manual Bait</title>
-    <link>https://mods.vintagestory.at/show/mod/manualbait</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/manualbait#8680</guid>
-    <pubDate>Wed, 05 Aug 2026 15:15:48 -0000</pubDate>
-    <description>A small quality-of-life mod for players who want baiting rods to feel more natural.</description>
-  </item>
-  <item>
-    <title>Music Box Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/10780</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10780#10780</guid>
-    <pubDate>Wed, 05 Aug 2026 15:00:41 -0000</pubDate>
-    <description>Working Musicboxes</description>
-  </item>
-  <item>
-    <title>Meliora Meadows Adjustments</title>
-    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
-    <pubDate>Wed, 05 Aug 2026 14:28:57 -0000</pubDate>
-    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
-  </item>
-  <item>
-    <title>Pin Matrix - Waypoint Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/10760</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10760#10760</guid>
-    <pubDate>Wed, 05 Aug 2026 13:30:46 -0000</pubDate>
-    <description>Client-side bulk waypoint manager for Vintage Story</description>
-  </item>
-  <item>
-    <title>Galeret Traits Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/10565</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10565#10565</guid>
-    <pubDate>Wed, 05 Aug 2026 12:00:03 -0000</pubDate>
-    <description>A simple mod to add Trais to my Galeret race Mod</description>
-  </item>
-  <item>
-    <title>Galeret</title>
-    <link>https://mods.vintagestory.at/show/mod/9970</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9970#9970</guid>
-    <pubDate>Wed, 05 Aug 2026 11:59:25 -0000</pubDate>
-    <description>A race of cat people based on kahjit</description>
   </item>
 </channel>
 </rss>
