@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 05 Aug 2026 10:38:04 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 12:54:50 +0000</lastBuildDate>
+  <item>
+    <title>Boat Autopilot</title>
+    <link>https://mods.vintagestory.at/show/mod/10304</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10304#10304</guid>
+    <pubDate>Wed, 05 Aug 2026 12:48:02 -0000</pubDate>
+    <description>Long boat trips in Vintage Story are beautiful… the first three times.</description>
+  </item>
+  <item>
+    <title>Galeret Traits Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/10565</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10565#10565</guid>
+    <pubDate>Wed, 05 Aug 2026 12:00:03 -0000</pubDate>
+    <description>A simple mod to add Trais to my Galeret race Mod</description>
+  </item>
+  <item>
+    <title>Galeret</title>
+    <link>https://mods.vintagestory.at/show/mod/9970</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9970#9970</guid>
+    <pubDate>Wed, 05 Aug 2026 11:59:25 -0000</pubDate>
+    <description>A race of cat people based on kahjit</description>
+  </item>
+  <item>
+    <title>Rust Creatures Reworked</title>
+    <link>https://mods.vintagestory.at/show/mod/9311</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9311#9311</guid>
+    <pubDate>Wed, 05 Aug 2026 10:51:00 -0000</pubDate>
+    <description>Improved Pathfinding. Shivers &amp; Bowtorns more dangerous. Spawn blocked by even low light. Adjustable</description>
+  </item>
   <item>
     <title>Chinese Line Break</title>
     <link>https://mods.vintagestory.at/show/mod/10747</link>
@@ -178,7 +206,7 @@
     <link>https://mods.vintagestory.at/show/mod/telescopemod</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/telescopemod#10648</guid>
     <pubDate>Wed, 05 Aug 2026 03:33:59 -0000</pubDate>
-    <description>(ALPHA) Telescope mod in development</description>
+    <description>(ALPHA) Telescope mod in development, basic functionality right now.</description>
   </item>
   <item>
     <title>Brass Patch</title>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/brasspatch#10783</guid>
     <pubDate>Wed, 05 Aug 2026 03:22:57 -0000</pubDate>
     <description>A simple patch to add brass nails &amp; strips to appropriate recipes!</description>
-  </item>
-  <item>
-    <title>Mesoamerican Drip</title>
-    <link>https://mods.vintagestory.at/show/mod/mesoamericandrip</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mesoamericandrip#10666</guid>
-    <pubDate>Wed, 05 Aug 2026 03:07:52 -0000</pubDate>
-    <description>Mesoamerican inspired clothes for vintage story!</description>
-  </item>
-  <item>
-    <title>unHallowedPatches</title>
-    <link>https://mods.vintagestory.at/show/mod/unhallowedpatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/unhallowedpatches#4328</guid>
-    <pubDate>Wed, 05 Aug 2026 02:42:46 -0000</pubDate>
-    <description>A collection of QoL patches - including increased stack sizes and recipes.</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Wed, 05 Aug 2026 02:39:46 -0000</pubDate>
-    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
-  </item>
-  <item>
-    <title>Simple water tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/simplewatertweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplewatertweaks#9126</guid>
-    <pubDate>Wed, 05 Aug 2026 02:39:44 -0000</pubDate>
-    <description>This mod modifies the game's water by adding an alternative wave effect and a more vibrant color </description>
   </item>
 </channel>
 </rss>
