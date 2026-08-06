@@ -4,20 +4,111 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 06 Aug 2026 02:45:55 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 06 Aug 2026 05:51:33 +0000</lastBuildDate>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Thu, 06 Aug 2026 05:44:59 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>Hover Info</title>
+    <link>https://mods.vintagestory.at/show/mod/hoverinfo</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hoverinfo#10792</guid>
+    <pubDate>Thu, 06 Aug 2026 04:44:51 -0000</pubDate>
+    <description>A mod made for the Paw server to see the information of player held items also linkable to chat</description>
+  </item>
+  <item>
+    <title>Salty´s Immersive: Light</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivelight</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivelight#10075</guid>
+    <pubDate>Thu, 06 Aug 2026 04:37:30 -0000</pubDate>
+    <description>Makes block light respect walls and closed barriers.</description>
+  </item>
+  <item>
+    <title>Riley's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Thu, 06 Aug 2026 04:26:31 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+  </item>
+  <item>
+    <title>Metal Ladders</title>
+    <link>https://mods.vintagestory.at/show/mod/10212</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10212#10212</guid>
+    <pubDate>Thu, 06 Aug 2026 04:18:46 -0000</pubDate>
+    <description>Adds metal ladders</description>
+  </item>
+  <item>
+    <title>Wooden Wrench</title>
+    <link>https://mods.vintagestory.at/show/mod/10314</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10314#10314</guid>
+    <pubDate>Thu, 06 Aug 2026 04:18:32 -0000</pubDate>
+    <description>Adds a wooden wrench</description>
+  </item>
+  <item>
+    <title>Less Chonky Vessels</title>
+    <link>https://mods.vintagestory.at/show/mod/10418</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10418#10418</guid>
+    <pubDate>Thu, 06 Aug 2026 04:18:15 -0000</pubDate>
+    <description>Simple Rename for Chonky Vessels</description>
+  </item>
+  <item>
+    <title>Rot Bin</title>
+    <link>https://mods.vintagestory.at/show/mod/10779</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10779#10779</guid>
+    <pubDate>Thu, 06 Aug 2026 03:59:32 -0000</pubDate>
+    <description>Rot food and age alcohol.</description>
+  </item>
+  <item>
+    <title>Customizable Fruit Tree Ripeness Time</title>
+    <link>https://mods.vintagestory.at/show/mod/10806</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10806#10806</guid>
+    <pubDate>Thu, 06 Aug 2026 03:48:44 -0000</pubDate>
+    <description>Individually customize the time fruit stays ripe on fruit trees. Works with existing trees.</description>
+  </item>
+  <item>
+    <title>TDR medieval expansion tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tdrmedieval</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tdrmedieval#10352</guid>
+    <pubDate>Thu, 06 Aug 2026 03:38:51 -0000</pubDate>
+    <description>just the decorative blocks, no aurochs/cellar ice/waterwheels etc.</description>
+  </item>
+  <item>
+    <title>Pencil</title>
+    <link>https://mods.vintagestory.at/show/mod/5427</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5427#5427</guid>
+    <pubDate>Thu, 06 Aug 2026 03:35:07 -0000</pubDate>
+    <description>Adds a pencil that can be used to write on signs and in books</description>
+  </item>
+  <item>
+    <title>Tool System Overhaul</title>
+    <link>https://mods.vintagestory.at/show/mod/nodeathtoaxe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nodeathtoaxe#9057</guid>
+    <pubDate>Thu, 06 Aug 2026 03:10:31 -0000</pubDate>
+    <description>Durability system</description>
+  </item>
+  <item>
+    <title>Realistic Physiology and Survival</title>
+    <link>https://mods.vintagestory.at/show/mod/10784</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10784#10784</guid>
+    <pubDate>Thu, 06 Aug 2026 02:53:56 -0000</pubDate>
+    <description>Imagine if Rimworld, Project Zomboid, and Oxygen not Included survival was combined.</description>
+  </item>
+  <item>
+    <title>Defog</title>
+    <link>https://mods.vintagestory.at/show/mod/defog</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/defog#10805</guid>
+    <pubDate>Thu, 06 Aug 2026 02:44:10 -0000</pubDate>
+    <description>Removes the "distance fog" at the edge of your view distance.</description>
+  </item>
   <item>
     <title>Universal Wool Clothing Compatibility</title>
     <link>https://mods.vintagestory.at/show/mod/universalwoolclothingcompat</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/universalwoolclothingcompat#10799</guid>
     <pubDate>Thu, 06 Aug 2026 02:40:28 -0000</pubDate>
     <description>Adds color-matched Wool &amp; More cloth alternatives to clothing recipes from several popular clothing </description>
-  </item>
-  <item>
-    <title>Realistic Physiology and Survival</title>
-    <link>https://mods.vintagestory.at/show/mod/10784</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10784#10784</guid>
-    <pubDate>Thu, 06 Aug 2026 02:35:24 -0000</pubDate>
-    <description>Imagine if Rimworld, Project Zomboid, and Oxygen not Included survival was combined.</description>
   </item>
   <item>
     <title>Amphithere: Winged Serpent</title>
@@ -123,97 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7485#7485</guid>
     <pubDate>Thu, 06 Aug 2026 00:18:52 -0000</pubDate>
     <description> Consume Creatures, take their traits and become the ultimate lifeform</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/10555</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
-    <pubDate>Thu, 06 Aug 2026 00:18:10 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>Northern Clothing Survival Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/northernclothingsurvivalcompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/northernclothingsurvivalcompat#10800</guid>
-    <pubDate>Thu, 06 Aug 2026 00:10:12 -0000</pubDate>
-    <description>Adds wool, cured-pelt, and sinew-based alternatives for vanilla northern clothing and the American F</description>
-  </item>
-  <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Wed, 05 Aug 2026 23:57:53 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
-    <title>Inventory Transfer</title>
-    <link>https://mods.vintagestory.at/show/mod/7383</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7383#7383</guid>
-    <pubDate>Wed, 05 Aug 2026 23:43:22 -0000</pubDate>
-    <description>Take your loot to a new world!</description>
-  </item>
-  <item>
-    <title>TassFactions</title>
-    <link>https://mods.vintagestory.at/show/mod/10503</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
-    <pubDate>Wed, 05 Aug 2026 23:38:16 -0000</pubDate>
-    <description>Factions - Raids - Sieges - Shops - Bounty</description>
-  </item>
-  <item>
-    <title>Layout</title>
-    <link>https://mods.vintagestory.at/show/mod/10287</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10287#10287</guid>
-    <pubDate>Wed, 05 Aug 2026 23:34:16 -0000</pubDate>
-    <description>Layout tool that produces inert, uninteractable 2D/3D voxel guidelines in various shapes.</description>
-  </item>
-  <item>
-    <title>Jeb's Inventory Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/jebsit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jebsit#2934</guid>
-    <pubDate>Wed, 05 Aug 2026 23:33:25 -0000</pubDate>
-    <description>Add some QoL inventory tweaks</description>
-  </item>
-  <item>
-    <title>1800s Uruguayan Weaponry</title>
-    <link>https://mods.vintagestory.at/show/mod/1800suruguayanweaponry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/1800suruguayanweaponry#5972</guid>
-    <pubDate>Wed, 05 Aug 2026 23:10:25 -0000</pubDate>
-    <description>A simple mod that adds weapons, clothing and other cultural stuff from Uruguay to vintage story.</description>
-  </item>
-  <item>
-    <title>The Revived Lands [PATCHES]</title>
-    <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
-    <pubDate>Wed, 05 Aug 2026 22:54:19 -0000</pubDate>
-    <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
-  </item>
-  <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Wed, 05 Aug 2026 22:16:58 -0000</pubDate>
-    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
-  </item>
-  <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Wed, 05 Aug 2026 22:10:11 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Wed, 05 Aug 2026 22:06:30 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Wed, 05 Aug 2026 21:22:25 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
   </item>
 </channel>
 </rss>
