@@ -4,20 +4,111 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 06 Aug 2026 11:24:57 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 06 Aug 2026 14:17:23 +0000</lastBuildDate>
   <item>
-    <title>Feverstone Butchering Bag Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/10813</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10813#10813</guid>
-    <pubDate>Thu, 06 Aug 2026 11:16:02 -0000</pubDate>
-    <description>Restores Butchering Bag storage for supported Feverstone Wilds carcasses when using Butchering 1.13.</description>
+    <title>FSurfaceIndicatorKimberlite</title>
+    <link>https://mods.vintagestory.at/show/mod/10782</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10782#10782</guid>
+    <pubDate>Thu, 06 Aug 2026 14:12:47 -0000</pubDate>
+    <description>Loose Kimberlite stone surface generation, chance based</description>
+  </item>
+  <item>
+    <title>Pin Matrix - Waypoint Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/10760</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10760#10760</guid>
+    <pubDate>Thu, 06 Aug 2026 14:10:02 -0000</pubDate>
+    <description>Client-side bulk waypoint manager for Vintage Story</description>
+  </item>
+  <item>
+    <title>Waxlight Launcher</title>
+    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
+    <pubDate>Thu, 06 Aug 2026 14:03:41 -0000</pubDate>
+    <description>A sleek Vintage Story launcher for instances, mods, accounts and playtime tracking.</description>
+  </item>
+  <item>
+    <title>Chiseled Wall Mounting</title>
+    <link>https://mods.vintagestory.at/show/mod/chiseledwallmounting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseledwallmounting#10815</guid>
+    <pubDate>Thu, 06 Aug 2026 13:40:21 -0000</pubDate>
+    <description>Place wall-mounted items on chiseled blocks</description>
+  </item>
+  <item>
+    <title>TassFactions</title>
+    <link>https://mods.vintagestory.at/show/mod/10503</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
+    <pubDate>Thu, 06 Aug 2026 13:32:24 -0000</pubDate>
+    <description>Factions - Raids - Sieges - Shops - Bounty</description>
+  </item>
+  <item>
+    <title>Auto Walk Extended</title>
+    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
+    <pubDate>Thu, 06 Aug 2026 13:15:48 -0000</pubDate>
+    <description>Toggle walking/running. Options to toggle sneaking and automatic climbing.</description>
+  </item>
+  <item>
+    <title>Fablewood Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
+    <pubDate>Thu, 06 Aug 2026 13:10:02 -0000</pubDate>
+    <description>JSON content patches</description>
+  </item>
+  <item>
+    <title>Fablewood Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Thu, 06 Aug 2026 12:52:31 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
+  <item>
+    <title>Fablewood Guilds</title>
+    <link>https://mods.vintagestory.at/show/mod/9586</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9586#9586</guid>
+    <pubDate>Thu, 06 Aug 2026 12:49:25 -0000</pubDate>
+    <description>Guild mod</description>
+  </item>
+  <item>
+    <title>Fablewood Economy</title>
+    <link>https://mods.vintagestory.at/show/mod/9634</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9634#9634</guid>
+    <pubDate>Thu, 06 Aug 2026 12:45:39 -0000</pubDate>
+    <description>Economy mod</description>
+  </item>
+  <item>
+    <title>Fablewood Nametags</title>
+    <link>https://mods.vintagestory.at/show/mod/10460</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10460#10460</guid>
+    <pubDate>Thu, 06 Aug 2026 12:39:35 -0000</pubDate>
+    <description>Nametag mod for more customization</description>
   </item>
   <item>
     <title>Better and Improved Weather Continued</title>
     <link>https://mods.vintagestory.at/show/mod/biwc</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biwc#10765</guid>
-    <pubDate>Thu, 06 Aug 2026 11:11:43 -0000</pubDate>
+    <pubDate>Thu, 06 Aug 2026 12:02:35 -0000</pubDate>
     <description>Better and improved weather for Vintage Story. </description>
+  </item>
+  <item>
+    <title>Roaming Bees for Extended Beekeping</title>
+    <link>https://mods.vintagestory.at/show/mod/10811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10811#10811</guid>
+    <pubDate>Thu, 06 Aug 2026 11:57:24 -0000</pubDate>
+    <description>A simple compatibility mod for cute bees.</description>
+  </item>
+  <item>
+    <title>Hexis (Beta)</title>
+    <link>https://mods.vintagestory.at/show/mod/hexis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexis#10623</guid>
+    <pubDate>Thu, 06 Aug 2026 11:34:53 -0000</pubDate>
+    <description>A tactical, stance-based combat system of mass and momentum, Focus-built for VS' harsh reality</description>
+  </item>
+  <item>
+    <title>Feverstone Butchering Bag Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/10813</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10813#10813</guid>
+    <pubDate>Thu, 06 Aug 2026 11:32:20 -0000</pubDate>
+    <description>Restores Butchering Bag storage for supported Feverstone Wilds carcasses when using Butchering 1.13.</description>
   </item>
   <item>
     <title>Angler's Catch</title>
@@ -123,97 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10418#10418</guid>
     <pubDate>Thu, 06 Aug 2026 04:18:15 -0000</pubDate>
     <description>Simple Rename for Chonky Vessels</description>
-  </item>
-  <item>
-    <title>Rot Bin</title>
-    <link>https://mods.vintagestory.at/show/mod/10779</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10779#10779</guid>
-    <pubDate>Thu, 06 Aug 2026 03:59:32 -0000</pubDate>
-    <description>Rot food and age alcohol.</description>
-  </item>
-  <item>
-    <title>Customizable Fruit Tree Ripeness Time</title>
-    <link>https://mods.vintagestory.at/show/mod/10806</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10806#10806</guid>
-    <pubDate>Thu, 06 Aug 2026 03:48:44 -0000</pubDate>
-    <description>Individually customize the time fruit stays ripe on fruit trees. Works with existing trees.</description>
-  </item>
-  <item>
-    <title>TDR medieval expansion tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tdrmedieval</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tdrmedieval#10352</guid>
-    <pubDate>Thu, 06 Aug 2026 03:38:51 -0000</pubDate>
-    <description>just the decorative blocks, no aurochs/cellar ice/waterwheels etc.</description>
-  </item>
-  <item>
-    <title>Pencil</title>
-    <link>https://mods.vintagestory.at/show/mod/5427</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5427#5427</guid>
-    <pubDate>Thu, 06 Aug 2026 03:35:07 -0000</pubDate>
-    <description>Adds a pencil that can be used to write on signs and in books</description>
-  </item>
-  <item>
-    <title>Tool System Overhaul</title>
-    <link>https://mods.vintagestory.at/show/mod/nodeathtoaxe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nodeathtoaxe#9057</guid>
-    <pubDate>Thu, 06 Aug 2026 03:10:31 -0000</pubDate>
-    <description>Durability system</description>
-  </item>
-  <item>
-    <title>Realistic Physiology and Survival</title>
-    <link>https://mods.vintagestory.at/show/mod/10784</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10784#10784</guid>
-    <pubDate>Thu, 06 Aug 2026 02:53:56 -0000</pubDate>
-    <description>Imagine if Rimworld, Project Zomboid, and Oxygen not Included survival was combined.</description>
-  </item>
-  <item>
-    <title>Defog</title>
-    <link>https://mods.vintagestory.at/show/mod/defog</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/defog#10805</guid>
-    <pubDate>Thu, 06 Aug 2026 02:44:10 -0000</pubDate>
-    <description>Removes the "distance fog" at the edge of your view distance.</description>
-  </item>
-  <item>
-    <title>Universal Wool Clothing Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/universalwoolclothingcompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/universalwoolclothingcompat#10799</guid>
-    <pubDate>Thu, 06 Aug 2026 02:40:28 -0000</pubDate>
-    <description>Adds color-matched Wool &amp; More cloth alternatives to clothing recipes from several popular clothing </description>
-  </item>
-  <item>
-    <title>Amphithere: Winged Serpent</title>
-    <link>https://mods.vintagestory.at/show/mod/amphithere</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/amphithere#10798</guid>
-    <pubDate>Thu, 06 Aug 2026 02:26:18 -0000</pubDate>
-    <description>Adds an amphithere dragon species to the world.</description>
-  </item>
-  <item>
-    <title>Waxlight Launcher</title>
-    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
-    <pubDate>Thu, 06 Aug 2026 02:19:38 -0000</pubDate>
-    <description>A sleek Vintage Story launcher for instances, mods, accounts and playtime tracking.</description>
-  </item>
-  <item>
-    <title>Bottoms Up!</title>
-    <link>https://mods.vintagestory.at/show/mod/bottomsup</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bottomsup#5472</guid>
-    <pubDate>Thu, 06 Aug 2026 02:09:56 -0000</pubDate>
-    <description>Fancy glass bottles and glassware for your bar</description>
-  </item>
-  <item>
-    <title>Plumas Customizable Stack Sizes</title>
-    <link>https://mods.vintagestory.at/show/mod/plumastacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plumastacks#10530</guid>
-    <pubDate>Thu, 06 Aug 2026 01:45:17 -0000</pubDate>
-    <description>Another Simple Stack Size mod because i was dissatisfied with the others</description>
-  </item>
-  <item>
-    <title>Hooked On Hydro</title>
-    <link>https://mods.vintagestory.at/show/mod/10803</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10803#10803</guid>
-    <pubDate>Thu, 06 Aug 2026 01:39:19 -0000</pubDate>
-    <description>Hooked On Hydro Beta</description>
   </item>
 </channel>
 </rss>
