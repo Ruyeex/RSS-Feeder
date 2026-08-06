@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 06 Aug 2026 05:51:33 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 06 Aug 2026 08:40:14 +0000</lastBuildDate>
+  <item>
+    <title>Antique Harmony | Music Additions / Alternative Soundtrack</title>
+    <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiqueharmony#7141</guid>
+    <pubDate>Thu, 06 Aug 2026 07:22:09 -0000</pubDate>
+    <description>Adds to/replaces soundtrack with original orchestral one, written for the game.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Thu, 06 Aug 2026 06:36:02 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Scale Armor Movement Sound Replacer</title>
+    <link>https://mods.vintagestory.at/show/mod/7907</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7907#7907</guid>
+    <pubDate>Thu, 06 Aug 2026 05:59:41 -0000</pubDate>
+    <description>Replaces movement sounds for scale armor with a quieter, more ear-friendly version.</description>
+  </item>
   <item>
     <title>Ecosystem - Flora</title>
     <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10064#10064</guid>
     <pubDate>Thu, 06 Aug 2026 00:38:32 -0000</pubDate>
     <description>Adds empty villages to world generation.</description>
-  </item>
-  <item>
-    <title>Seraphs Ledger</title>
-    <link>https://mods.vintagestory.at/show/mod/9783</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9783#9783</guid>
-    <pubDate>Thu, 06 Aug 2026 00:35:42 -0000</pubDate>
-    <description>Now glacier ice cools cellars for better food storage.</description>
-  </item>
-  <item>
-    <title>Helianthus</title>
-    <link>https://mods.vintagestory.at/show/mod/10781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10781#10781</guid>
-    <pubDate>Thu, 06 Aug 2026 00:34:37 -0000</pubDate>
-    <description>Adds plants in the sunflower tribe</description>
-  </item>
-  <item>
-    <title>Zenith: Assimilation</title>
-    <link>https://mods.vintagestory.at/show/mod/7485</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7485#7485</guid>
-    <pubDate>Thu, 06 Aug 2026 00:18:52 -0000</pubDate>
-    <description> Consume Creatures, take their traits and become the ultimate lifeform</description>
   </item>
 </channel>
 </rss>
