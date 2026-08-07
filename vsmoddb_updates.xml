@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 07 Aug 2026 22:38:24 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 23:35:40 +0000</lastBuildDate>
+  <item>
+    <title>LocksAffectReinforcement</title>
+    <link>https://mods.vintagestory.at/show/mod/10846</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10846#10846</guid>
+    <pubDate>Fri, 07 Aug 2026 23:34:34 -0000</pubDate>
+    <description>Allows locks to affect reinforcement level of blocks. Better locks boost your reinforcement</description>
+  </item>
+  <item>
+    <title>The Quire Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/10455</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
+    <pubDate>Fri, 07 Aug 2026 23:16:36 -0000</pubDate>
+    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
+  </item>
+  <item>
+    <title>Scribe: Notes &amp; Tasks</title>
+    <link>https://mods.vintagestory.at/show/mod/scribe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scribe#10607</guid>
+    <pubDate>Fri, 07 Aug 2026 22:55:39 -0000</pubDate>
+    <description>Take notes and track tasks in-world. Pin tasks to a persistent HUD. Multiplayer-ready.</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Fri, 07 Aug 2026 22:45:29 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
   <item>
     <title>VS Roofing Mod</title>
     <link>https://mods.vintagestory.at/show/mod/5036</link>
@@ -17,14 +45,7 @@
     <link>https://mods.vintagestory.at/show/mod/arrowsnslings</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arrowsnslings#9546</guid>
     <pubDate>Fri, 07 Aug 2026 22:25:30 -0000</pubDate>
-    <description>Buff arrows and adds sling progression</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Fri, 07 Aug 2026 22:21:02 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
+    <description>Buff arrows, adds sling progression, and additional sling projectiles</description>
   </item>
   <item>
     <title>Andrea's Craftable Glass Variants</title>
@@ -88,13 +109,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
     <pubDate>Fri, 07 Aug 2026 20:22:53 -0000</pubDate>
     <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
-  </item>
-  <item>
-    <title>Scribe: Notes &amp; Tasks</title>
-    <link>https://mods.vintagestory.at/show/mod/scribe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scribe#10607</guid>
-    <pubDate>Fri, 07 Aug 2026 20:14:25 -0000</pubDate>
-    <description>Take notes and track tasks in-world. Pin tasks to a persistent HUD. Multiplayer-ready.</description>
   </item>
   <item>
     <title>The Ultimate Mod Manager</title>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8477#8477</guid>
     <pubDate>Fri, 07 Aug 2026 18:08:03 -0000</pubDate>
     <description>A modpack that contains custom content and server tweaks for the Whispers of Oldwood season 3.</description>
-  </item>
-  <item>
-    <title>Timewood Tree</title>
-    <link>https://mods.vintagestory.at/show/mod/10633</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10633#10633</guid>
-    <pubDate>Fri, 07 Aug 2026 18:01:28 -0000</pubDate>
-    <description>A mod that adds a rare tree and block that accelerates crop growth in a radius around it</description>
-  </item>
-  <item>
-    <title>Rebalanced Trader Prices</title>
-    <link>https://mods.vintagestory.at/show/mod/10822</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10822#10822</guid>
-    <pubDate>Fri, 07 Aug 2026 17:55:27 -0000</pubDate>
-    <description>Adjusts trader prices to hopefully be more desirable.</description>
   </item>
 </channel>
 </rss>
