@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 07 Aug 2026 21:40:57 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 22:38:24 +0000</lastBuildDate>
+  <item>
+    <title>VS Roofing Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/5036</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5036#5036</guid>
+    <pubDate>Fri, 07 Aug 2026 22:28:50 -0000</pubDate>
+    <description>Gridless roof building system with vanilla roofs + extras.</description>
+  </item>
+  <item>
+    <title>Arrows and Slings</title>
+    <link>https://mods.vintagestory.at/show/mod/arrowsnslings</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arrowsnslings#9546</guid>
+    <pubDate>Fri, 07 Aug 2026 22:25:30 -0000</pubDate>
+    <description>Buff arrows and adds sling progression</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Fri, 07 Aug 2026 22:21:02 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Andrea's Craftable Glass Variants</title>
+    <link>https://mods.vintagestory.at/show/mod/andreaglasscraft</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/andreaglasscraft#8054</guid>
+    <pubDate>Fri, 07 Aug 2026 22:14:35 -0000</pubDate>
+    <description>Lets you craft the uncraftable variants of colored glass in bloomeries</description>
+  </item>
+  <item>
+    <title>Steinbrecher</title>
+    <link>https://mods.vintagestory.at/show/mod/9234</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9234#9234</guid>
+    <pubDate>Fri, 07 Aug 2026 22:14:05 -0000</pubDate>
+    <description>This lets you turn rocks into stones.</description>
+  </item>
   <item>
     <title>Upgraded Lakes</title>
     <link>https://mods.vintagestory.at/show/mod/upgradedlakes</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10822#10822</guid>
     <pubDate>Fri, 07 Aug 2026 17:55:27 -0000</pubDate>
     <description>Adjusts trader prices to hopefully be more desirable.</description>
-  </item>
-  <item>
-    <title>Waxlight Launcher</title>
-    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
-    <pubDate>Fri, 07 Aug 2026 17:42:08 -0000</pubDate>
-    <description>A sleek Vintage Story launcher for instances, mods, accounts and playtime tracking.</description>
-  </item>
-  <item>
-    <title>Multi Hotbar !</title>
-    <link>https://mods.vintagestory.at/show/mod/10838</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10838#10838</guid>
-    <pubDate>Fri, 07 Aug 2026 17:25:02 -0000</pubDate>
-    <description>This Mod allows you to have multiple hotbars ! </description>
-  </item>
-  <item>
-    <title>vanillapackfr</title>
-    <link>https://mods.vintagestory.at/show/mod/vanillapackfr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillapackfr#10821</guid>
-    <pubDate>Fri, 07 Aug 2026 16:56:23 -0000</pubDate>
-    <description>drad for a mdpk</description>
-  </item>
-  <item>
-    <title>WOO Fantasy Additions</title>
-    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
-    <pubDate>Fri, 07 Aug 2026 16:43:41 -0000</pubDate>
-    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
-  </item>
-  <item>
-    <title>Better insulation</title>
-    <link>https://mods.vintagestory.at/show/mod/betterinsulation</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterinsulation#10734</guid>
-    <pubDate>Fri, 07 Aug 2026 16:28:53 -0000</pubDate>
-    <description>Improve insulating block face calculation for chiseled blocks</description>
   </item>
 </channel>
 </rss>
