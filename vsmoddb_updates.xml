@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 07 Aug 2026 03:51:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 05:41:56 +0000</lastBuildDate>
+  <item>
+    <title>Global Illuminator</title>
+    <link>https://mods.vintagestory.at/show/mod/10767</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10767#10767</guid>
+    <pubDate>Fri, 07 Aug 2026 05:37:55 -0000</pubDate>
+    <description>An early version of global illumination and skylighting designed to work with Sheydermod</description>
+  </item>
+  <item>
+    <title>Land Of Estrellas</title>
+    <link>https://mods.vintagestory.at/show/mod/loe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/loe#10629</guid>
+    <pubDate>Fri, 07 Aug 2026 05:24:49 -0000</pubDate>
+    <description>The offical modpack of The Land of Estrellas server </description>
+  </item>
+  <item>
+    <title>Keyring - CO Fork Compatability</title>
+    <link>https://mods.vintagestory.at/show/mod/keyringcoforkcompatability</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/keyringcoforkcompatability#10829</guid>
+    <pubDate>Fri, 07 Aug 2026 05:08:10 -0000</pubDate>
+    <description>Adds a wearable keyring capable of holding up to six keys from the Thievery mod. This release update</description>
+  </item>
+  <item>
+    <title>Auto Walk Extended</title>
+    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
+    <pubDate>Fri, 07 Aug 2026 05:02:18 -0000</pubDate>
+    <description>Toggle walking/running. Options to toggle sneaking and automatic climbing.</description>
+  </item>
+  <item>
+    <title>Smooth Rock Strata</title>
+    <link>https://mods.vintagestory.at/show/mod/9775</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9775#9775</guid>
+    <pubDate>Fri, 07 Aug 2026 04:53:56 -0000</pubDate>
+    <description>Adds smoothing to rock strata boundaries</description>
+  </item>
+  <item>
+    <title>Snowshoes Cordage Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/snowshoescordagecompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/snowshoescordagecompat#10827</guid>
+    <pubDate>Fri, 07 Aug 2026 04:03:01 -0000</pubDate>
+    <description>Adds alternative Snowshoes recipes using dry sinew or any Wool &amp; More twine.</description>
+  </item>
   <item>
     <title>Chonky Vessels</title>
     <link>https://mods.vintagestory.at/show/mod/7686</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10796#10796</guid>
     <pubDate>Thu, 06 Aug 2026 21:35:06 -0000</pubDate>
     <description>Ever wanted to ascend to squirrelhood and eat some nuts?</description>
-  </item>
-  <item>
-    <title>Rebalanced Trader Prices</title>
-    <link>https://mods.vintagestory.at/show/mod/10822</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10822#10822</guid>
-    <pubDate>Thu, 06 Aug 2026 21:34:58 -0000</pubDate>
-    <description>Adjusts trader prices to hopefully be more desirable.</description>
-  </item>
-  <item>
-    <title>Uranium Expanded (Metals and Tools)</title>
-    <link>https://mods.vintagestory.at/show/mod/uraniumexpanded</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/uraniumexpanded#5981</guid>
-    <pubDate>Thu, 06 Aug 2026 21:02:31 -0000</pubDate>
-    <description>Adds uranium based alloys, adds uranium glass, tools and uranium fever.</description>
-  </item>
-  <item>
-    <title>Jelly Bundle</title>
-    <link>https://mods.vintagestory.at/show/mod/10059</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10059#10059</guid>
-    <pubDate>Thu, 06 Aug 2026 20:54:36 -0000</pubDate>
-    <description>A compilation of tweaks for the Swamp Jelly server.</description>
-  </item>
-  <item>
-    <title>Fast Travel NPC</title>
-    <link>https://mods.vintagestory.at/show/mod/fasttravelnpc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fasttravelnpc#9686</guid>
-    <pubDate>Thu, 06 Aug 2026 20:50:46 -0000</pubDate>
-    <description>Allows players to fast travel in the world by paying rusty gears.</description>
-  </item>
-  <item>
-    <title>vanillapackfr</title>
-    <link>https://mods.vintagestory.at/show/mod/vanillapackfr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillapackfr#10821</guid>
-    <pubDate>Thu, 06 Aug 2026 20:09:24 -0000</pubDate>
-    <description>drad for a mdpk</description>
-  </item>
-  <item>
-    <title>Ballista</title>
-    <link>https://mods.vintagestory.at/show/mod/10794</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10794#10794</guid>
-    <pubDate>Thu, 06 Aug 2026 20:01:43 -0000</pubDate>
-    <description>Adds a functional ballista to the game. Currently in Beta</description>
   </item>
 </channel>
 </rss>
