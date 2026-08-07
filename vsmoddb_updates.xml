@@ -4,7 +4,21 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 07 Aug 2026 10:54:42 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 11:48:17 +0000</lastBuildDate>
+  <item>
+    <title>VS Village</title>
+    <link>https://mods.vintagestory.at/show/mod/vsvillage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsvillage#586</guid>
+    <pubDate>Fri, 07 Aug 2026 11:43:49 -0000</pubDate>
+    <description>Adds villages and villagers to the world.</description>
+  </item>
+  <item>
+    <title>CFY Simple Hotbar Refill</title>
+    <link>https://mods.vintagestory.at/show/mod/simplerefill</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplerefill#4723</guid>
+    <pubDate>Fri, 07 Aug 2026 11:32:27 -0000</pubDate>
+    <description>Automatically refills tools, blocks, and items in the hotbar.</description>
+  </item>
   <item>
     <title>Carry On</title>
     <link>https://mods.vintagestory.at/show/mod/carryon</link>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10819#10819</guid>
     <pubDate>Fri, 07 Aug 2026 01:48:54 -0000</pubDate>
     <description>Adds quests for the Fablewood server</description>
-  </item>
-  <item>
-    <title>Dar's Server Utilities</title>
-    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
-    <pubDate>Fri, 07 Aug 2026 01:20:30 -0000</pubDate>
-    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
-  </item>
-  <item>
-    <title>Seraphs Ledger</title>
-    <link>https://mods.vintagestory.at/show/mod/9783</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9783#9783</guid>
-    <pubDate>Fri, 07 Aug 2026 01:18:54 -0000</pubDate>
-    <description>Now glacier ice cools cellars for better food storage.</description>
   </item>
 </channel>
 </rss>
