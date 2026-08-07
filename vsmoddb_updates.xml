@@ -4,7 +4,21 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 07 Aug 2026 07:19:28 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 09:01:45 +0000</lastBuildDate>
+  <item>
+    <title>Antique Harmony | Music Additions / Alternative Soundtrack</title>
+    <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiqueharmony#7141</guid>
+    <pubDate>Fri, 07 Aug 2026 07:41:20 -0000</pubDate>
+    <description>Adds to/replaces soundtrack with original orchestral one, written for the game.</description>
+  </item>
+  <item>
+    <title>Ingenium</title>
+    <link>https://mods.vintagestory.at/show/mod/10824</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10824#10824</guid>
+    <pubDate>Fri, 07 Aug 2026 07:39:52 -0000</pubDate>
+    <description>Mechanical power, corrected.</description>
+  </item>
   <item>
     <title>Boric Alchemy</title>
     <link>https://mods.vintagestory.at/show/mod/5577</link>
@@ -88,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7686#7686</guid>
     <pubDate>Fri, 07 Aug 2026 03:42:55 -0000</pubDate>
     <description>Adds chonkier vessels &amp; more with better storage and spoilage properties.</description>
-  </item>
-  <item>
-    <title>Ingenium</title>
-    <link>https://mods.vintagestory.at/show/mod/10824</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10824#10824</guid>
-    <pubDate>Fri, 07 Aug 2026 03:39:59 -0000</pubDate>
-    <description>Mechanical power, corrected.</description>
   </item>
   <item>
     <title>Worm Castings Expanded</title>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/liberterra#10763</guid>
     <pubDate>Thu, 06 Aug 2026 21:56:10 -0000</pubDate>
     <description>Pre-1300 CE public-domain literature as lore books in ruins and loot. </description>
-  </item>
-  <item>
-    <title>TassFactions</title>
-    <link>https://mods.vintagestory.at/show/mod/10503</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
-    <pubDate>Thu, 06 Aug 2026 21:51:41 -0000</pubDate>
-    <description>Factions - Raids - Sieges - Shops - Bounty</description>
   </item>
 </channel>
 </rss>
