@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 07 Aug 2026 17:01:11 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 19:00:26 +0000</lastBuildDate>
+  <item>
+    <title>Too Many Tabs! Scrollable Creative Inventory Tabs</title>
+    <link>https://mods.vintagestory.at/show/mod/10835</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10835#10835</guid>
+    <pubDate>Fri, 07 Aug 2026 18:53:56 -0000</pubDate>
+    <description>Replaces the old side-tabs with a scrollable menu.</description>
+  </item>
+  <item>
+    <title>Ice Cellar</title>
+    <link>https://mods.vintagestory.at/show/mod/10837</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10837#10837</guid>
+    <pubDate>Fri, 07 Aug 2026 18:37:58 -0000</pubDate>
+    <description>Chill your cellar with ice and keep food fresh, longer.</description>
+  </item>
+  <item>
+    <title>Good Hunting</title>
+    <link>https://mods.vintagestory.at/show/mod/4050</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4050#4050</guid>
+    <pubDate>Fri, 07 Aug 2026 18:30:21 -0000</pubDate>
+    <description>Buffed and varied vanilla drops for animals for realism.</description>
+  </item>
+  <item>
+    <title>Floral Zones: Central Australian Region</title>
+    <link>https://mods.vintagestory.at/show/mod/floralzonescentralaustralianregion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescentralaustralianregion#1989</guid>
+    <pubDate>Fri, 07 Aug 2026 18:29:14 -0000</pubDate>
+    <description>Adds plants from the Central Australian Region to the game.</description>
+  </item>
+  <item>
+    <title>Chiru Tweaks: Goggle Toggle</title>
+    <link>https://mods.vintagestory.at/show/mod/ctgoggletoggle</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ctgoggletoggle#10841</guid>
+    <pubDate>Fri, 07 Aug 2026 18:27:35 -0000</pubDate>
+    <description>A small mod that allows for toggling between eye, forehead and neck positions for clockmaker glasses</description>
+  </item>
+  <item>
+    <title>bees wax fertilizer</title>
+    <link>https://mods.vintagestory.at/show/mod/10840</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10840#10840</guid>
+    <pubDate>Fri, 07 Aug 2026 18:17:33 -0000</pubDate>
+    <description>you can make fertilizer out of bees wax   you need 32 wax and 8 charcoal</description>
+  </item>
+  <item>
+    <title>Lumos</title>
+    <link>https://mods.vintagestory.at/show/mod/lumos</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lumos#10713</guid>
+    <pubDate>Fri, 07 Aug 2026 18:09:56 -0000</pubDate>
+    <description>Reworking the game's lighting system and fixing related bugs</description>
+  </item>
+  <item>
+    <title>WOO³</title>
+    <link>https://mods.vintagestory.at/show/mod/8477</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8477#8477</guid>
+    <pubDate>Fri, 07 Aug 2026 18:08:03 -0000</pubDate>
+    <description>A modpack that contains custom content and server tweaks for the Whispers of Oldwood season 3.</description>
+  </item>
+  <item>
+    <title>Timewood Tree</title>
+    <link>https://mods.vintagestory.at/show/mod/10633</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10633#10633</guid>
+    <pubDate>Fri, 07 Aug 2026 18:01:28 -0000</pubDate>
+    <description>A mod that adds a rare tree and block that accelerates crop growth in a radius around it</description>
+  </item>
+  <item>
+    <title>Rebalanced Trader Prices</title>
+    <link>https://mods.vintagestory.at/show/mod/10822</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10822#10822</guid>
+    <pubDate>Fri, 07 Aug 2026 17:55:27 -0000</pubDate>
+    <description>Adjusts trader prices to hopefully be more desirable.</description>
+  </item>
+  <item>
+    <title>Waxlight Launcher</title>
+    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
+    <pubDate>Fri, 07 Aug 2026 17:42:08 -0000</pubDate>
+    <description>A sleek Vintage Story launcher for instances, mods, accounts and playtime tracking.</description>
+  </item>
+  <item>
+    <title>Multi Hotbar !</title>
+    <link>https://mods.vintagestory.at/show/mod/10838</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10838#10838</guid>
+    <pubDate>Fri, 07 Aug 2026 17:25:02 -0000</pubDate>
+    <description>This Mod allows you to have multiple hotbars ! </description>
+  </item>
   <item>
     <title>vanillapackfr</title>
     <link>https://mods.vintagestory.at/show/mod/vanillapackfr</link>
@@ -69,13 +153,6 @@
     <description>Now glacier ice cools cellars for better food storage.</description>
   </item>
   <item>
-    <title>Ice Cellar</title>
-    <link>https://mods.vintagestory.at/show/mod/10837</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10837#10837</guid>
-    <pubDate>Fri, 07 Aug 2026 15:20:54 -0000</pubDate>
-    <description>Chill your cellar with ice and keep food fresh, longer.</description>
-  </item>
-  <item>
     <title>Liber Terra</title>
     <link>https://mods.vintagestory.at/show/mod/liberterra</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/liberterra#10763</guid>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/upholstery#2258</guid>
     <pubDate>Fri, 07 Aug 2026 12:39:38 -0000</pubDate>
     <description>Craft furniture and interior decorations.</description>
-  </item>
-  <item>
-    <title>Dressmakers</title>
-    <link>https://mods.vintagestory.at/show/mod/dressmakers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dressmakers#2189</guid>
-    <pubDate>Fri, 07 Aug 2026 12:39:14 -0000</pubDate>
-    <description>Add crafting recipes for almost all VS clothing items</description>
-  </item>
-  <item>
-    <title>Expanded Matter</title>
-    <link>https://mods.vintagestory.at/show/mod/em</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/em#496</guid>
-    <pubDate>Fri, 07 Aug 2026 12:38:36 -0000</pubDate>
-    <description>Library for ore, materials and item variants. Extends VS existing ore.</description>
-  </item>
-  <item>
-    <title>Bricklayers</title>
-    <link>https://mods.vintagestory.at/show/mod/bricklayers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricklayers#117</guid>
-    <pubDate>Fri, 07 Aug 2026 12:37:50 -0000</pubDate>
-    <description>More clay, bricks, porcelain, glazings, colored glass, luminous glass.</description>
-  </item>
-  <item>
-    <title>Wool 🙵 More</title>
-    <link>https://mods.vintagestory.at/show/mod/wool</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wool#2447</guid>
-    <pubDate>Fri, 07 Aug 2026 12:37:35 -0000</pubDate>
-    <description>Harvest, process, trade and craft with animal fleece and wool.</description>
-  </item>
-  <item>
-    <title>Tailor's Delight</title>
-    <link>https://mods.vintagestory.at/show/mod/tailorsdelight</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tailorsdelight#1624</guid>
-    <pubDate>Fri, 07 Aug 2026 12:37:20 -0000</pubDate>
-    <description>Craft and decorate with cloth, leather and hide.</description>
-  </item>
-  <item>
-    <title>VS Village</title>
-    <link>https://mods.vintagestory.at/show/mod/vsvillage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsvillage#586</guid>
-    <pubDate>Fri, 07 Aug 2026 11:43:49 -0000</pubDate>
-    <description>Adds villages and villagers to the world.</description>
-  </item>
-  <item>
-    <title>CFY Simple Hotbar Refill</title>
-    <link>https://mods.vintagestory.at/show/mod/simplerefill</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplerefill#4723</guid>
-    <pubDate>Fri, 07 Aug 2026 11:32:27 -0000</pubDate>
-    <description>Automatically refills tools, blocks, and items in the hotbar.</description>
-  </item>
-  <item>
-    <title>Carry On</title>
-    <link>https://mods.vintagestory.at/show/mod/carryon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carryon#890</guid>
-    <pubDate>Fri, 07 Aug 2026 10:22:05 -0000</pubDate>
-    <description>Adds the capability to carry various things. Replaces CarryCapacity.</description>
-  </item>
-  <item>
-    <title>Good Hunting</title>
-    <link>https://mods.vintagestory.at/show/mod/4050</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4050#4050</guid>
-    <pubDate>Fri, 07 Aug 2026 09:38:24 -0000</pubDate>
-    <description>Buffed and varied vanilla drops for animals for realism.</description>
-  </item>
-  <item>
-    <title>LauncherGo</title>
-    <link>https://mods.vintagestory.at/show/mod/launchergo</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergo#9280</guid>
-    <pubDate>Fri, 07 Aug 2026 09:18:56 -0000</pubDate>
-    <description>LauncherGo is a graphical server launcher for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Fri, 07 Aug 2026 09:11:43 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
 </channel>
 </rss>
