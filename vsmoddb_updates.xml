@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 07 Aug 2026 09:01:45 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 10:54:42 +0000</lastBuildDate>
+  <item>
+    <title>Carry On</title>
+    <link>https://mods.vintagestory.at/show/mod/carryon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carryon#890</guid>
+    <pubDate>Fri, 07 Aug 2026 10:22:05 -0000</pubDate>
+    <description>Adds the capability to carry various things. Replaces CarryCapacity.</description>
+  </item>
+  <item>
+    <title>Temporal Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/9869</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9869#9869</guid>
+    <pubDate>Fri, 07 Aug 2026 09:51:26 -0000</pubDate>
+    <description>A simple Storage Solution using the power of Temporal Entanglement! (Now with actual sorting~)</description>
+  </item>
+  <item>
+    <title>Good Hunting</title>
+    <link>https://mods.vintagestory.at/show/mod/4050</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4050#4050</guid>
+    <pubDate>Fri, 07 Aug 2026 09:38:24 -0000</pubDate>
+    <description>Buffed and varied vanilla drops for animals for realism.</description>
+  </item>
+  <item>
+    <title>LauncherGo</title>
+    <link>https://mods.vintagestory.at/show/mod/launchergo</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergo#9280</guid>
+    <pubDate>Fri, 07 Aug 2026 09:18:56 -0000</pubDate>
+    <description>LauncherGo is a graphical server launcher for Vintage Story.</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Fri, 07 Aug 2026 09:11:43 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Nimbus - A Server proxy for Vintagestory.</title>
+    <link>https://mods.vintagestory.at/show/mod/nimbusproxy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nimbusproxy#9517</guid>
+    <pubDate>Fri, 07 Aug 2026 09:06:45 -0000</pubDate>
+    <description>Put many backends behind one address, move players between them on demand.</description>
+  </item>
   <item>
     <title>Antique Harmony | Music Additions / Alternative Soundtrack</title>
     <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
@@ -39,13 +81,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/anglerscatch#10809</guid>
     <pubDate>Fri, 07 Aug 2026 06:53:02 -0000</pubDate>
     <description>Adds length and size to the vanilla fish, fish in the top 20% get a Trophy Tag</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Fri, 07 Aug 2026 06:36:57 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
   <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9783#9783</guid>
     <pubDate>Fri, 07 Aug 2026 01:18:54 -0000</pubDate>
     <description>Now glacier ice cools cellars for better food storage.</description>
-  </item>
-  <item>
-    <title>Temporal Convergence</title>
-    <link>https://mods.vintagestory.at/show/mod/9887</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9887#9887</guid>
-    <pubDate>Fri, 07 Aug 2026 00:15:14 -0000</pubDate>
-    <description>Expands the creatures emerging from temporal rifts with new eldritch entities, afflicted automatons,</description>
-  </item>
-  <item>
-    <title>beast tamer</title>
-    <link>https://mods.vintagestory.at/show/mod/10810</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10810#10810</guid>
-    <pubDate>Fri, 07 Aug 2026 00:04:14 -0000</pubDate>
-    <description>adds a new class to my server</description>
-  </item>
-  <item>
-    <title>The Revived Lands [PATCHES]</title>
-    <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
-    <pubDate>Thu, 06 Aug 2026 23:38:02 -0000</pubDate>
-    <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
-  </item>
-  <item>
-    <title>Trait Forge Restrictions</title>
-    <link>https://mods.vintagestory.at/show/mod/traitforgerestrictions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traitforgerestrictions#10823</guid>
-    <pubDate>Thu, 06 Aug 2026 22:03:42 -0000</pubDate>
-    <description>Server-controlled smithing recipe visibility and validation based on player traits</description>
-  </item>
-  <item>
-    <title>Liber Terra</title>
-    <link>https://mods.vintagestory.at/show/mod/liberterra</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/liberterra#10763</guid>
-    <pubDate>Thu, 06 Aug 2026 21:56:10 -0000</pubDate>
-    <description>Pre-1300 CE public-domain literature as lore books in ruins and loot. </description>
   </item>
 </channel>
 </rss>
