@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 07 Aug 2026 11:48:17 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 13:09:12 +0000</lastBuildDate>
+  <item>
+    <title>Temporal Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/9869</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9869#9869</guid>
+    <pubDate>Fri, 07 Aug 2026 12:53:42 -0000</pubDate>
+    <description>A simple Storage Solution using the power of Temporal Entanglement! (Now with actual sorting~)</description>
+  </item>
+  <item>
+    <title>Stacksize Tooltips</title>
+    <link>https://mods.vintagestory.at/show/mod/10836</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10836#10836</guid>
+    <pubDate>Fri, 07 Aug 2026 12:46:41 -0000</pubDate>
+    <description>Adds a tooltip for maximum stack size, mod compatible</description>
+  </item>
+  <item>
+    <title>Valley of Ashes</title>
+    <link>https://mods.vintagestory.at/show/mod/valleyofashes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/valleyofashes#2288</guid>
+    <pubDate>Fri, 07 Aug 2026 12:40:34 -0000</pubDate>
+    <description>Craft wood and plant ash, ash sludge and optional potash.</description>
+  </item>
+  <item>
+    <title>Bookbinders</title>
+    <link>https://mods.vintagestory.at/show/mod/bookbinders</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bookbinders#2393</guid>
+    <pubDate>Fri, 07 Aug 2026 12:40:04 -0000</pubDate>
+    <description>Adds new books, items and tools related to book crafting.</description>
+  </item>
+  <item>
+    <title>Dead</title>
+    <link>https://mods.vintagestory.at/show/mod/dead</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
+    <pubDate>Fri, 07 Aug 2026 12:39:59 -0000</pubDate>
+    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
+  </item>
+  <item>
+    <title>Upholstery</title>
+    <link>https://mods.vintagestory.at/show/mod/upholstery</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/upholstery#2258</guid>
+    <pubDate>Fri, 07 Aug 2026 12:39:38 -0000</pubDate>
+    <description>Craft furniture and interior decorations.</description>
+  </item>
+  <item>
+    <title>Dressmakers</title>
+    <link>https://mods.vintagestory.at/show/mod/dressmakers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dressmakers#2189</guid>
+    <pubDate>Fri, 07 Aug 2026 12:39:14 -0000</pubDate>
+    <description>Add crafting recipes for almost all VS clothing items</description>
+  </item>
+  <item>
+    <title>Expanded Matter</title>
+    <link>https://mods.vintagestory.at/show/mod/em</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/em#496</guid>
+    <pubDate>Fri, 07 Aug 2026 12:38:36 -0000</pubDate>
+    <description>Library for ore, materials and item variants. Extends VS existing ore.</description>
+  </item>
+  <item>
+    <title>Bricklayers</title>
+    <link>https://mods.vintagestory.at/show/mod/bricklayers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricklayers#117</guid>
+    <pubDate>Fri, 07 Aug 2026 12:37:50 -0000</pubDate>
+    <description>More clay, bricks, porcelain, glazings, colored glass, luminous glass.</description>
+  </item>
+  <item>
+    <title>Wool 🙵 More</title>
+    <link>https://mods.vintagestory.at/show/mod/wool</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wool#2447</guid>
+    <pubDate>Fri, 07 Aug 2026 12:37:35 -0000</pubDate>
+    <description>Harvest, process, trade and craft with animal fleece and wool.</description>
+  </item>
+  <item>
+    <title>Tailor's Delight</title>
+    <link>https://mods.vintagestory.at/show/mod/tailorsdelight</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tailorsdelight#1624</guid>
+    <pubDate>Fri, 07 Aug 2026 12:37:20 -0000</pubDate>
+    <description>Craft and decorate with cloth, leather and hide.</description>
+  </item>
   <item>
     <title>VS Village</title>
     <link>https://mods.vintagestory.at/show/mod/vsvillage</link>
@@ -25,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carryon#890</guid>
     <pubDate>Fri, 07 Aug 2026 10:22:05 -0000</pubDate>
     <description>Adds the capability to carry various things. Replaces CarryCapacity.</description>
-  </item>
-  <item>
-    <title>Temporal Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/9869</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9869#9869</guid>
-    <pubDate>Fri, 07 Aug 2026 09:51:26 -0000</pubDate>
-    <description>A simple Storage Solution using the power of Temporal Entanglement! (Now with actual sorting~)</description>
   </item>
   <item>
     <title>Good Hunting</title>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/snowshoescordagecompat#10827</guid>
     <pubDate>Fri, 07 Aug 2026 04:03:01 -0000</pubDate>
     <description>Adds alternative Snowshoes recipes using dry sinew or any Wool &amp; More twine.</description>
-  </item>
-  <item>
-    <title>Chonky Vessels</title>
-    <link>https://mods.vintagestory.at/show/mod/7686</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7686#7686</guid>
-    <pubDate>Fri, 07 Aug 2026 03:42:55 -0000</pubDate>
-    <description>Adds chonkier vessels &amp; more with better storage and spoilage properties.</description>
-  </item>
-  <item>
-    <title>Worm Castings Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/10231</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10231#10231</guid>
-    <pubDate>Fri, 07 Aug 2026 03:29:34 -0000</pubDate>
-    <description>A very niche addition to Primitive Survival.</description>
-  </item>
-  <item>
-    <title>Rot Bin</title>
-    <link>https://mods.vintagestory.at/show/mod/10779</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10779#10779</guid>
-    <pubDate>Fri, 07 Aug 2026 03:26:01 -0000</pubDate>
-    <description>Rot food and age alcohol.</description>
-  </item>
-  <item>
-    <title>Super Crack!</title>
-    <link>https://mods.vintagestory.at/show/mod/10777</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10777#10777</guid>
-    <pubDate>Fri, 07 Aug 2026 03:10:31 -0000</pubDate>
-    <description>Crack six eggs at once.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/10555</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
-    <pubDate>Fri, 07 Aug 2026 02:47:05 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux - Expansion A</title>
-    <link>https://mods.vintagestory.at/show/mod/10825</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10825#10825</guid>
-    <pubDate>Fri, 07 Aug 2026 02:46:14 -0000</pubDate>
-    <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
-  </item>
-  <item>
-    <title>Ghaelen's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9740</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
-    <pubDate>Fri, 07 Aug 2026 02:19:41 -0000</pubDate>
-    <description>My personal tweaks I like to play with.</description>
-  </item>
-  <item>
-    <title>Meliora Meadows Adjustments</title>
-    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
-    <pubDate>Fri, 07 Aug 2026 02:04:50 -0000</pubDate>
-    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
-  </item>
-  <item>
-    <title>Realistic Physiology and Survival</title>
-    <link>https://mods.vintagestory.at/show/mod/10784</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10784#10784</guid>
-    <pubDate>Fri, 07 Aug 2026 02:01:37 -0000</pubDate>
-    <description>Imagine if Rimworld, Project Zomboid, and Oxygen not Included survival was combined.</description>
-  </item>
-  <item>
-    <title>Fablewood Quests</title>
-    <link>https://mods.vintagestory.at/show/mod/10819</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10819#10819</guid>
-    <pubDate>Fri, 07 Aug 2026 01:48:54 -0000</pubDate>
-    <description>Adds quests for the Fablewood server</description>
   </item>
 </channel>
 </rss>
