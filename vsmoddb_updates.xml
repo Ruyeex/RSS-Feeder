@@ -4,20 +4,55 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 07 Aug 2026 05:41:56 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 07:19:28 +0000</lastBuildDate>
   <item>
-    <title>Global Illuminator</title>
-    <link>https://mods.vintagestory.at/show/mod/10767</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10767#10767</guid>
-    <pubDate>Fri, 07 Aug 2026 05:37:55 -0000</pubDate>
-    <description>An early version of global illumination and skylighting designed to work with Sheydermod</description>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Fri, 07 Aug 2026 07:18:34 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
   </item>
   <item>
     <title>Land Of Estrellas</title>
     <link>https://mods.vintagestory.at/show/mod/loe</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/loe#10629</guid>
-    <pubDate>Fri, 07 Aug 2026 05:24:49 -0000</pubDate>
+    <pubDate>Fri, 07 Aug 2026 06:57:39 -0000</pubDate>
     <description>The offical modpack of The Land of Estrellas server </description>
+  </item>
+  <item>
+    <title>Angler's Catch</title>
+    <link>https://mods.vintagestory.at/show/mod/anglerscatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/anglerscatch#10809</guid>
+    <pubDate>Fri, 07 Aug 2026 06:53:02 -0000</pubDate>
+    <description>Adds length and size to the vanilla fish, fish in the top 20% get a Trophy Tag</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Fri, 07 Aug 2026 06:36:57 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Fri, 07 Aug 2026 06:29:54 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Tyeia's Boat Speed Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tyeiaboatspeedtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tyeiaboatspeedtweaks#10832</guid>
+    <pubDate>Fri, 07 Aug 2026 05:52:16 -0000</pubDate>
+    <description>Adjusts the speed of boats and provides configuration for boat speed.</description>
+  </item>
+  <item>
+    <title>Global Illuminator</title>
+    <link>https://mods.vintagestory.at/show/mod/10767</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10767#10767</guid>
+    <pubDate>Fri, 07 Aug 2026 05:37:55 -0000</pubDate>
+    <description>An early version of global illumination, skylighting and parallax designed to work with Sheydermod</description>
   </item>
   <item>
     <title>Keyring - CO Fork Compatability</title>
@@ -74,13 +109,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10779#10779</guid>
     <pubDate>Fri, 07 Aug 2026 03:26:01 -0000</pubDate>
     <description>Rot food and age alcohol.</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Fri, 07 Aug 2026 03:22:09 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
   <item>
     <title>Super Crack!</title>
@@ -153,13 +181,6 @@
     <description>Expands the creatures emerging from temporal rifts with new eldritch entities, afflicted automatons,</description>
   </item>
   <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Fri, 07 Aug 2026 00:05:47 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
     <title>beast tamer</title>
     <link>https://mods.vintagestory.at/show/mod/10810</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10810#10810</guid>
@@ -167,25 +188,11 @@
     <description>adds a new class to my server</description>
   </item>
   <item>
-    <title>Angler's Catch</title>
-    <link>https://mods.vintagestory.at/show/mod/anglerscatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/anglerscatch#10809</guid>
-    <pubDate>Thu, 06 Aug 2026 23:57:34 -0000</pubDate>
-    <description>Adds length and size to the vanilla fish, fish in the top 20% get a Trophy Tag</description>
-  </item>
-  <item>
     <title>The Revived Lands [PATCHES]</title>
     <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
     <pubDate>Thu, 06 Aug 2026 23:38:02 -0000</pubDate>
     <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Thu, 06 Aug 2026 22:46:11 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
   </item>
   <item>
     <title>Trait Forge Restrictions</title>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
     <pubDate>Thu, 06 Aug 2026 21:51:41 -0000</pubDate>
     <description>Factions - Raids - Sieges - Shops - Bounty</description>
-  </item>
-  <item>
-    <title>Acorn Ascension</title>
-    <link>https://mods.vintagestory.at/show/mod/10796</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10796#10796</guid>
-    <pubDate>Thu, 06 Aug 2026 21:35:06 -0000</pubDate>
-    <description>Ever wanted to ascend to squirrelhood and eat some nuts?</description>
   </item>
 </channel>
 </rss>
