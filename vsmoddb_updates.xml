@@ -4,13 +4,76 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 07 Aug 2026 19:00:26 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 20:43:08 +0000</lastBuildDate>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
+    <pubDate>Fri, 07 Aug 2026 20:22:53 -0000</pubDate>
+    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
+  </item>
+  <item>
+    <title>Scribe: Notes &amp; Tasks</title>
+    <link>https://mods.vintagestory.at/show/mod/scribe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scribe#10607</guid>
+    <pubDate>Fri, 07 Aug 2026 20:14:25 -0000</pubDate>
+    <description>Take notes and track tasks in-world. Pin tasks to a persistent HUD. Multiplayer-ready.</description>
+  </item>
+  <item>
+    <title>The Ultimate Mod Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/10348</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10348#10348</guid>
+    <pubDate>Fri, 07 Aug 2026 20:12:42 -0000</pubDate>
+    <description>An in-game mod manager that's suitable even for remote servers without terminal/FTP access.</description>
+  </item>
+  <item>
+    <title>Simple Forge Arrows</title>
+    <link>https://mods.vintagestory.at/show/mod/sfaws</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sfaws#1271</guid>
+    <pubDate>Fri, 07 Aug 2026 20:10:38 -0000</pubDate>
+    <description>Changes the forge values for arrows from 6 to 9 and 9 to 18. Meaning 1 ingot = 9 and 2 ingots = 18.</description>
+  </item>
+  <item>
+    <title>TraderTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10569</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
+    <pubDate>Fri, 07 Aug 2026 19:47:22 -0000</pubDate>
+    <description>Allow to manage traders</description>
+  </item>
+  <item>
+    <title>Red to Blue Clay Conversion</title>
+    <link>https://mods.vintagestory.at/show/mod/10771</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10771#10771</guid>
+    <pubDate>Fri, 07 Aug 2026 19:28:16 -0000</pubDate>
+    <description>Simple blue clay recipe made from red clay and crushed quartz</description>
+  </item>
+  <item>
+    <title>TassFactions</title>
+    <link>https://mods.vintagestory.at/show/mod/10503</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
+    <pubDate>Fri, 07 Aug 2026 19:16:41 -0000</pubDate>
+    <description>Factions - Raids - Sieges - Shops - Bounty</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Fri, 07 Aug 2026 19:12:58 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>EZ Translocators</title>
+    <link>https://mods.vintagestory.at/show/mod/eztranslocators</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eztranslocators#10641</guid>
+    <pubDate>Fri, 07 Aug 2026 19:08:41 -0000</pubDate>
+    <description>Break repaired translocators, place them wherever you want and use your map to teleport.</description>
+  </item>
   <item>
     <title>Too Many Tabs! Scrollable Creative Inventory Tabs</title>
     <link>https://mods.vintagestory.at/show/mod/10835</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10835#10835</guid>
     <pubDate>Fri, 07 Aug 2026 18:53:56 -0000</pubDate>
-    <description>Replaces the old side-tabs with a scrollable menu.</description>
+    <description>Replaces the old side-tabs with a scrollable menu. Because otherwise you run out of space.</description>
   </item>
   <item>
     <title>Ice Cellar</title>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9783#9783</guid>
     <pubDate>Fri, 07 Aug 2026 15:31:38 -0000</pubDate>
     <description>Now glacier ice cools cellars for better food storage.</description>
-  </item>
-  <item>
-    <title>Liber Terra</title>
-    <link>https://mods.vintagestory.at/show/mod/liberterra</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/liberterra#10763</guid>
-    <pubDate>Fri, 07 Aug 2026 14:53:43 -0000</pubDate>
-    <description>Pre-1300 CE public-domain literature as lore books in ruins and loot. oh and books are weapons now.</description>
-  </item>
-  <item>
-    <title>Fast Crops</title>
-    <link>https://mods.vintagestory.at/show/mod/4745</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4745#4745</guid>
-    <pubDate>Fri, 07 Aug 2026 13:37:57 -0000</pubDate>
-    <description>Decreases Crop Growth time.</description>
-  </item>
-  <item>
-    <title>UnwhitelistedPlayerInventoryRecovery</title>
-    <link>https://mods.vintagestory.at/show/mod/10462</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10462#10462</guid>
-    <pubDate>Fri, 07 Aug 2026 13:19:52 -0000</pubDate>
-    <description>Sends the inventories of players that are no longer whitelisted to the Lost&amp;Found panning pool</description>
-  </item>
-  <item>
-    <title>Temporal Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/9869</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9869#9869</guid>
-    <pubDate>Fri, 07 Aug 2026 12:53:42 -0000</pubDate>
-    <description>A simple Storage Solution using the power of Temporal Entanglement! (Now with actual sorting~)</description>
-  </item>
-  <item>
-    <title>Stacksize Tooltips</title>
-    <link>https://mods.vintagestory.at/show/mod/10836</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10836#10836</guid>
-    <pubDate>Fri, 07 Aug 2026 12:46:41 -0000</pubDate>
-    <description>Adds a tooltip for maximum stack size, mod compatible</description>
-  </item>
-  <item>
-    <title>Valley of Ashes</title>
-    <link>https://mods.vintagestory.at/show/mod/valleyofashes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/valleyofashes#2288</guid>
-    <pubDate>Fri, 07 Aug 2026 12:40:34 -0000</pubDate>
-    <description>Craft wood and plant ash, ash sludge and optional potash.</description>
-  </item>
-  <item>
-    <title>Bookbinders</title>
-    <link>https://mods.vintagestory.at/show/mod/bookbinders</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bookbinders#2393</guid>
-    <pubDate>Fri, 07 Aug 2026 12:40:04 -0000</pubDate>
-    <description>Adds new books, items and tools related to book crafting.</description>
-  </item>
-  <item>
-    <title>Dead</title>
-    <link>https://mods.vintagestory.at/show/mod/dead</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
-    <pubDate>Fri, 07 Aug 2026 12:39:59 -0000</pubDate>
-    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
-  </item>
-  <item>
-    <title>Upholstery</title>
-    <link>https://mods.vintagestory.at/show/mod/upholstery</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/upholstery#2258</guid>
-    <pubDate>Fri, 07 Aug 2026 12:39:38 -0000</pubDate>
-    <description>Craft furniture and interior decorations.</description>
   </item>
 </channel>
 </rss>
