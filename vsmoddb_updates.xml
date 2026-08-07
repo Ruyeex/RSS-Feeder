@@ -4,13 +4,62 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 07 Aug 2026 15:58:16 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 17:01:11 +0000</lastBuildDate>
   <item>
     <title>vanillapackfr</title>
     <link>https://mods.vintagestory.at/show/mod/vanillapackfr</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillapackfr#10821</guid>
-    <pubDate>Fri, 07 Aug 2026 15:58:09 -0000</pubDate>
+    <pubDate>Fri, 07 Aug 2026 16:56:23 -0000</pubDate>
     <description>drad for a mdpk</description>
+  </item>
+  <item>
+    <title>WOO Fantasy Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
+    <pubDate>Fri, 07 Aug 2026 16:43:41 -0000</pubDate>
+    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
+  </item>
+  <item>
+    <title>Better insulation</title>
+    <link>https://mods.vintagestory.at/show/mod/betterinsulation</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterinsulation#10734</guid>
+    <pubDate>Fri, 07 Aug 2026 16:28:53 -0000</pubDate>
+    <description>Improve insulating block face calculation for chiseled blocks</description>
+  </item>
+  <item>
+    <title>Chiseled Wall Mounting</title>
+    <link>https://mods.vintagestory.at/show/mod/chiseledwallmounting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseledwallmounting#10815</guid>
+    <pubDate>Fri, 07 Aug 2026 16:28:47 -0000</pubDate>
+    <description>Place wall-mounted items on chiseled blocks</description>
+  </item>
+  <item>
+    <title>Dense Ground Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
+    <pubDate>Fri, 07 Aug 2026 16:25:49 -0000</pubDate>
+    <description>Place down more items per block and on chiseled blocks</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/10453</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
+    <pubDate>Fri, 07 Aug 2026 16:17:42 -0000</pubDate>
+    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>Amphithere: Winged Serpent</title>
+    <link>https://mods.vintagestory.at/show/mod/amphithere</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/amphithere#10798</guid>
+    <pubDate>Fri, 07 Aug 2026 16:09:17 -0000</pubDate>
+    <description>Adds an amphithere dragon species to the world.</description>
+  </item>
+  <item>
+    <title>Salty´s Immersive: Light</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivelight</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivelight#10075</guid>
+    <pubDate>Fri, 07 Aug 2026 16:05:45 -0000</pubDate>
+    <description>Makes block light respect walls and closed barriers.</description>
   </item>
   <item>
     <title>Seraphs Ledger</title>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
     <pubDate>Fri, 07 Aug 2026 09:11:43 -0000</pubDate>
     <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Nimbus - A Server proxy for Vintagestory.</title>
-    <link>https://mods.vintagestory.at/show/mod/nimbusproxy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nimbusproxy#9517</guid>
-    <pubDate>Fri, 07 Aug 2026 09:06:45 -0000</pubDate>
-    <description>Put many backends behind one address, move players between them on demand.</description>
-  </item>
-  <item>
-    <title>Antique Harmony | Music Additions / Alternative Soundtrack</title>
-    <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiqueharmony#7141</guid>
-    <pubDate>Fri, 07 Aug 2026 07:41:20 -0000</pubDate>
-    <description>Adds to/replaces soundtrack with original orchestral one, written for the game.</description>
-  </item>
-  <item>
-    <title>Ingenium</title>
-    <link>https://mods.vintagestory.at/show/mod/10824</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10824#10824</guid>
-    <pubDate>Fri, 07 Aug 2026 07:39:52 -0000</pubDate>
-    <description>Mechanical power, corrected.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Fri, 07 Aug 2026 07:18:34 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>Land Of Estrellas</title>
-    <link>https://mods.vintagestory.at/show/mod/loe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/loe#10629</guid>
-    <pubDate>Fri, 07 Aug 2026 06:57:39 -0000</pubDate>
-    <description>The offical modpack of The Land of Estrellas server </description>
-  </item>
-  <item>
-    <title>Angler's Catch</title>
-    <link>https://mods.vintagestory.at/show/mod/anglerscatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/anglerscatch#10809</guid>
-    <pubDate>Fri, 07 Aug 2026 06:53:02 -0000</pubDate>
-    <description>Adds length and size to the vanilla fish, fish in the top 20% get a Trophy Tag</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Fri, 07 Aug 2026 06:29:54 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
   </item>
 </channel>
 </rss>
