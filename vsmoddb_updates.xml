@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 07 Aug 2026 20:43:08 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 21:40:57 +0000</lastBuildDate>
+  <item>
+    <title>Upgraded Lakes</title>
+    <link>https://mods.vintagestory.at/show/mod/upgradedlakes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/upgradedlakes#10844</guid>
+    <pubDate>Fri, 07 Aug 2026 21:37:30 -0000</pubDate>
+    <description>FishingFix but without the command spam.</description>
+  </item>
+  <item>
+    <title>Simple VS Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevsmanager</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevsmanager#5545</guid>
+    <pubDate>Fri, 07 Aug 2026 21:34:17 -0000</pubDate>
+    <description>A simple mod manager/launcher with Mod DB Search, Update Manager and shared Modlists</description>
+  </item>
+  <item>
+    <title>Xskillsfix</title>
+    <link>https://mods.vintagestory.at/show/mod/10843</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10843#10843</guid>
+    <pubDate>Fri, 07 Aug 2026 21:25:51 -0000</pubDate>
+    <description>This mod was created to fix a bug related to the "Well Done" perk.</description>
+  </item>
+  <item>
+    <title>SheyderMod</title>
+    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
+    <pubDate>Fri, 07 Aug 2026 21:23:46 -0000</pubDate>
+    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
+  </item>
+  <item>
+    <title>The Revived Lands [PATCHES]</title>
+    <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
+    <pubDate>Fri, 07 Aug 2026 21:03:54 -0000</pubDate>
+    <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
+  </item>
+  <item>
+    <title>Fast Travel NPC</title>
+    <link>https://mods.vintagestory.at/show/mod/fasttravelnpc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fasttravelnpc#9686</guid>
+    <pubDate>Fri, 07 Aug 2026 20:53:51 -0000</pubDate>
+    <description>Allows players to fast travel in the world by paying rusty gears.</description>
+  </item>
   <item>
     <title>RKN Generic Crafting</title>
     <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterinsulation#10734</guid>
     <pubDate>Fri, 07 Aug 2026 16:28:53 -0000</pubDate>
     <description>Improve insulating block face calculation for chiseled blocks</description>
-  </item>
-  <item>
-    <title>Chiseled Wall Mounting</title>
-    <link>https://mods.vintagestory.at/show/mod/chiseledwallmounting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseledwallmounting#10815</guid>
-    <pubDate>Fri, 07 Aug 2026 16:28:47 -0000</pubDate>
-    <description>Place wall-mounted items on chiseled blocks</description>
-  </item>
-  <item>
-    <title>Dense Ground Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
-    <pubDate>Fri, 07 Aug 2026 16:25:49 -0000</pubDate>
-    <description>Place down more items per block and on chiseled blocks</description>
-  </item>
-  <item>
-    <title>The Almanac: Trades, Callings &amp; Mastery</title>
-    <link>https://mods.vintagestory.at/show/mod/10453</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
-    <pubDate>Fri, 07 Aug 2026 16:17:42 -0000</pubDate>
-    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>Amphithere: Winged Serpent</title>
-    <link>https://mods.vintagestory.at/show/mod/amphithere</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/amphithere#10798</guid>
-    <pubDate>Fri, 07 Aug 2026 16:09:17 -0000</pubDate>
-    <description>Adds an amphithere dragon species to the world.</description>
-  </item>
-  <item>
-    <title>Salty´s Immersive: Light</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivelight</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivelight#10075</guid>
-    <pubDate>Fri, 07 Aug 2026 16:05:45 -0000</pubDate>
-    <description>Makes block light respect walls and closed barriers.</description>
-  </item>
-  <item>
-    <title>Seraphs Ledger</title>
-    <link>https://mods.vintagestory.at/show/mod/9783</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9783#9783</guid>
-    <pubDate>Fri, 07 Aug 2026 15:31:38 -0000</pubDate>
-    <description>Now glacier ice cools cellars for better food storage.</description>
   </item>
 </channel>
 </rss>
