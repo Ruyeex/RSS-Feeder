@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 08 Aug 2026 14:33:57 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 15:32:09 +0000</lastBuildDate>
+  <item>
+    <title>TaborServers</title>
+    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
+    <pubDate>Sat, 08 Aug 2026 15:18:22 -0000</pubDate>
+    <description>Patches fo most of Tabor servers</description>
+  </item>
+  <item>
+    <title>MagicServerTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/magicservertweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/magicservertweaks#9791</guid>
+    <pubDate>Sat, 08 Aug 2026 14:42:02 -0000</pubDate>
+    <description>Tweaks for my magic server</description>
+  </item>
+  <item>
+    <title>Galeret Traits Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/10565</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10565#10565</guid>
+    <pubDate>Sat, 08 Aug 2026 14:36:22 -0000</pubDate>
+    <description>A simple mod to add Trais to my Galeret race Mod</description>
+  </item>
+  <item>
+    <title>Galeret</title>
+    <link>https://mods.vintagestory.at/show/mod/9970</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9970#9970</guid>
+    <pubDate>Sat, 08 Aug 2026 14:35:55 -0000</pubDate>
+    <description>A race of cat people based on kahjit</description>
+  </item>
   <item>
     <title>Fablewood Skills</title>
     <link>https://mods.vintagestory.at/show/mod/10778</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
     <pubDate>Sat, 08 Aug 2026 03:51:46 -0000</pubDate>
     <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>Resonator Overhaul </title>
-    <link>https://mods.vintagestory.at/show/mod/10009</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10009#10009</guid>
-    <pubDate>Sat, 08 Aug 2026 03:49:22 -0000</pubDate>
-    <description>Per-resonator volume, falloff and looping — saved to the world and audible with Music off.</description>
-  </item>
-  <item>
-    <title>Size To Health Bonus</title>
-    <link>https://mods.vintagestory.at/show/mod/sizetohealthbonus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sizetohealthbonus#10849</guid>
-    <pubDate>Sat, 08 Aug 2026 03:13:11 -0000</pubDate>
-    <description>HP scales with your Player Model Lib size — bigger = tougher, smaller = weaker. Configurable.</description>
-  </item>
-  <item>
-    <title>Herty Cups</title>
-    <link>https://mods.vintagestory.at/show/mod/10750</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10750#10750</guid>
-    <pubDate>Sat, 08 Aug 2026 03:10:57 -0000</pubDate>
-    <description>Resin Tapping for Vintage Story</description>
-  </item>
-  <item>
-    <title>VSVanillaPlus</title>
-    <link>https://mods.vintagestory.at/show/mod/vsvanillaplus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsvanillaplus#6710</guid>
-    <pubDate>Sat, 08 Aug 2026 03:02:38 -0000</pubDate>
-    <description>Quality of life improvements that enhance Vintage Story while keeping the core experience.</description>
   </item>
 </channel>
 </rss>
