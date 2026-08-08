@@ -4,13 +4,83 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 07 Aug 2026 23:35:40 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 01:48:20 +0000</lastBuildDate>
+  <item>
+    <title>Plumas Customizable Stack Sizes</title>
+    <link>https://mods.vintagestory.at/show/mod/plumastacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plumastacks#10530</guid>
+    <pubDate>Sat, 08 Aug 2026 01:44:15 -0000</pubDate>
+    <description>Another Simple Stack Size mod because i was dissatisfied with the others</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sat, 08 Aug 2026 01:38:24 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Liber Terra</title>
+    <link>https://mods.vintagestory.at/show/mod/liberterra</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/liberterra#10763</guid>
+    <pubDate>Sat, 08 Aug 2026 01:30:57 -0000</pubDate>
+    <description>Pre-1300 CE public-domain literature as lore books in ruins and loot. oh and books are weapons now.</description>
+  </item>
+  <item>
+    <title>Stain's Stovetop</title>
+    <link>https://mods.vintagestory.at/show/mod/stainsstovetop</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stainsstovetop#10486</guid>
+    <pubDate>Sat, 08 Aug 2026 01:29:23 -0000</pubDate>
+    <description>4 Burner Stovetop for compact cooking spaces. Only 850 gears!</description>
+  </item>
+  <item>
+    <title>Historical Armory: Warlords and Warchiefs</title>
+    <link>https://mods.vintagestory.at/show/mod/hawarlords</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hawarlords#9245</guid>
+    <pubDate>Sat, 08 Aug 2026 01:25:09 -0000</pubDate>
+    <description>A collection of equipment from the North/South American and African continents.</description>
+  </item>
+  <item>
+    <title>Armory: Core</title>
+    <link>https://mods.vintagestory.at/show/mod/hacore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hacore#9243</guid>
+    <pubDate>Sat, 08 Aug 2026 01:23:16 -0000</pubDate>
+    <description>A collection of items to be used in crafting recipes for Historical Weaponry mods.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Fri, 07 Aug 2026 23:59:17 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>WOO Fantasy Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
+    <pubDate>Fri, 07 Aug 2026 23:58:00 -0000</pubDate>
+    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
+  </item>
+  <item>
+    <title>EZ Translocators</title>
+    <link>https://mods.vintagestory.at/show/mod/eztranslocators</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eztranslocators#10641</guid>
+    <pubDate>Fri, 07 Aug 2026 23:39:44 -0000</pubDate>
+    <description>Break repaired translocators, place them wherever you want and use your map to teleport.</description>
+  </item>
   <item>
     <title>LocksAffectReinforcement</title>
     <link>https://mods.vintagestory.at/show/mod/10846</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10846#10846</guid>
     <pubDate>Fri, 07 Aug 2026 23:34:34 -0000</pubDate>
     <description>Allows locks to affect reinforcement level of blocks. Better locks boost your reinforcement</description>
+  </item>
+  <item>
+    <title>Catfolk: Felvox Player Model [WIP]</title>
+    <link>https://mods.vintagestory.at/show/mod/10847</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10847#10847</guid>
+    <pubDate>Fri, 07 Aug 2026 23:33:17 -0000</pubDate>
+    <description>Work in progress Cat race using Player Model Lib.</description>
   </item>
   <item>
     <title>The Quire Patches</title>
@@ -27,18 +97,11 @@
     <description>Take notes and track tasks in-world. Pin tasks to a persistent HUD. Multiplayer-ready.</description>
   </item>
   <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Fri, 07 Aug 2026 22:45:29 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
     <title>VS Roofing Mod</title>
     <link>https://mods.vintagestory.at/show/mod/5036</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5036#5036</guid>
     <pubDate>Fri, 07 Aug 2026 22:28:50 -0000</pubDate>
-    <description>Gridless roof building system with vanilla roofs + extras.</description>
+    <description>Gridless roof building system with vanilla style roofs, glass houses and more!</description>
   </item>
   <item>
     <title>Arrows and Slings</title>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
     <pubDate>Fri, 07 Aug 2026 19:12:58 -0000</pubDate>
     <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>EZ Translocators</title>
-    <link>https://mods.vintagestory.at/show/mod/eztranslocators</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eztranslocators#10641</guid>
-    <pubDate>Fri, 07 Aug 2026 19:08:41 -0000</pubDate>
-    <description>Break repaired translocators, place them wherever you want and use your map to teleport.</description>
-  </item>
-  <item>
-    <title>Too Many Tabs! Scrollable Creative Inventory Tabs</title>
-    <link>https://mods.vintagestory.at/show/mod/10835</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10835#10835</guid>
-    <pubDate>Fri, 07 Aug 2026 18:53:56 -0000</pubDate>
-    <description>Replaces the old side-tabs with a scrollable menu. Because otherwise you run out of space.</description>
-  </item>
-  <item>
-    <title>Ice Cellar</title>
-    <link>https://mods.vintagestory.at/show/mod/10837</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10837#10837</guid>
-    <pubDate>Fri, 07 Aug 2026 18:37:58 -0000</pubDate>
-    <description>Chill your cellar with ice and keep food fresh, longer.</description>
-  </item>
-  <item>
-    <title>Good Hunting</title>
-    <link>https://mods.vintagestory.at/show/mod/4050</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4050#4050</guid>
-    <pubDate>Fri, 07 Aug 2026 18:30:21 -0000</pubDate>
-    <description>Buffed and varied vanilla drops for animals for realism.</description>
-  </item>
-  <item>
-    <title>Floral Zones: Central Australian Region</title>
-    <link>https://mods.vintagestory.at/show/mod/floralzonescentralaustralianregion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescentralaustralianregion#1989</guid>
-    <pubDate>Fri, 07 Aug 2026 18:29:14 -0000</pubDate>
-    <description>Adds plants from the Central Australian Region to the game.</description>
-  </item>
-  <item>
-    <title>Chiru Tweaks: Goggle Toggle</title>
-    <link>https://mods.vintagestory.at/show/mod/ctgoggletoggle</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ctgoggletoggle#10841</guid>
-    <pubDate>Fri, 07 Aug 2026 18:27:35 -0000</pubDate>
-    <description>A small mod that allows for toggling between eye, forehead and neck positions for clockmaker glasses</description>
-  </item>
-  <item>
-    <title>bees wax fertilizer</title>
-    <link>https://mods.vintagestory.at/show/mod/10840</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10840#10840</guid>
-    <pubDate>Fri, 07 Aug 2026 18:17:33 -0000</pubDate>
-    <description>you can make fertilizer out of bees wax   you need 32 wax and 8 charcoal</description>
-  </item>
-  <item>
-    <title>Lumos</title>
-    <link>https://mods.vintagestory.at/show/mod/lumos</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lumos#10713</guid>
-    <pubDate>Fri, 07 Aug 2026 18:09:56 -0000</pubDate>
-    <description>Reworking the game's lighting system and fixing related bugs</description>
-  </item>
-  <item>
-    <title>WOO³</title>
-    <link>https://mods.vintagestory.at/show/mod/8477</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8477#8477</guid>
-    <pubDate>Fri, 07 Aug 2026 18:08:03 -0000</pubDate>
-    <description>A modpack that contains custom content and server tweaks for the Whispers of Oldwood season 3.</description>
   </item>
 </channel>
 </rss>
