@@ -4,13 +4,62 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 08 Aug 2026 03:34:55 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 04:58:55 +0000</lastBuildDate>
+  <item>
+    <title>No Life's Tea</title>
+    <link>https://mods.vintagestory.at/show/mod/8832</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8832#8832</guid>
+    <pubDate>Sat, 08 Aug 2026 04:37:13 -0000</pubDate>
+    <description>This mod allows you to pick and process tea leaves.</description>
+  </item>
+  <item>
+    <title>EZ Translocators</title>
+    <link>https://mods.vintagestory.at/show/mod/eztranslocators</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eztranslocators#10641</guid>
+    <pubDate>Sat, 08 Aug 2026 04:31:10 -0000</pubDate>
+    <description>Break repaired translocators, place them wherever you want and use your map to teleport.</description>
+  </item>
+  <item>
+    <title>Vow of the Unvanquished Class Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/vowunvanquishedclassmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vowunvanquishedclassmod#10848</guid>
+    <pubDate>Sat, 08 Aug 2026 04:30:45 -0000</pubDate>
+    <description>A class mod specific to the upcomoning Vow of the Unvanquished Roleplay Server</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sat, 08 Aug 2026 04:15:18 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Sat, 08 Aug 2026 04:13:51 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
+  <item>
+    <title>Resonator Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10007</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10007#10007</guid>
+    <pubDate>Sat, 08 Aug 2026 03:51:50 -0000</pubDate>
+    <description>Simple mod to play the resonator as a sound effect. Will play with music off .</description>
+  </item>
   <item>
     <title>Boric Alchemy</title>
     <link>https://mods.vintagestory.at/show/mod/5577</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Sat, 08 Aug 2026 03:33:28 -0000</pubDate>
+    <pubDate>Sat, 08 Aug 2026 03:51:46 -0000</pubDate>
     <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Resonator Overhaul </title>
+    <link>https://mods.vintagestory.at/show/mod/10009</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10009#10009</guid>
+    <pubDate>Sat, 08 Aug 2026 03:49:22 -0000</pubDate>
+    <description>Per-resonator volume, falloff and looping — saved to the world and audible with Music off.</description>
   </item>
   <item>
     <title>Size To Health Bonus</title>
@@ -32,13 +81,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsvanillaplus#6710</guid>
     <pubDate>Sat, 08 Aug 2026 03:02:38 -0000</pubDate>
     <description>Quality of life improvements that enhance Vintage Story while keeping the core experience.</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sat, 08 Aug 2026 02:49:56 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
   <item>
     <title>Plumas Customizable Stack Sizes</title>
@@ -81,13 +123,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
     <pubDate>Fri, 07 Aug 2026 23:58:00 -0000</pubDate>
     <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
-  </item>
-  <item>
-    <title>EZ Translocators</title>
-    <link>https://mods.vintagestory.at/show/mod/eztranslocators</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eztranslocators#10641</guid>
-    <pubDate>Fri, 07 Aug 2026 23:39:44 -0000</pubDate>
-    <description>Break repaired translocators, place them wherever you want and use your map to teleport.</description>
   </item>
   <item>
     <title>LocksAffectReinforcement</title>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
     <pubDate>Fri, 07 Aug 2026 21:03:54 -0000</pubDate>
     <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
-  </item>
-  <item>
-    <title>Fast Travel NPC</title>
-    <link>https://mods.vintagestory.at/show/mod/fasttravelnpc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fasttravelnpc#9686</guid>
-    <pubDate>Fri, 07 Aug 2026 20:53:51 -0000</pubDate>
-    <description>Allows players to fast travel in the world by paying rusty gears.</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
-    <pubDate>Fri, 07 Aug 2026 20:22:53 -0000</pubDate>
-    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
-  </item>
-  <item>
-    <title>The Ultimate Mod Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/10348</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10348#10348</guid>
-    <pubDate>Fri, 07 Aug 2026 20:12:42 -0000</pubDate>
-    <description>An in-game mod manager that's suitable even for remote servers without terminal/FTP access.</description>
-  </item>
-  <item>
-    <title>Simple Forge Arrows</title>
-    <link>https://mods.vintagestory.at/show/mod/sfaws</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sfaws#1271</guid>
-    <pubDate>Fri, 07 Aug 2026 20:10:38 -0000</pubDate>
-    <description>Changes the forge values for arrows from 6 to 9 and 9 to 18. Meaning 1 ingot = 9 and 2 ingots = 18.</description>
-  </item>
-  <item>
-    <title>TraderTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10569</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
-    <pubDate>Fri, 07 Aug 2026 19:47:22 -0000</pubDate>
-    <description>Allow to manage traders</description>
   </item>
 </channel>
 </rss>
