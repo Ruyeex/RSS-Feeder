@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 08 Aug 2026 22:31:55 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 23:31:26 +0000</lastBuildDate>
+  <item>
+    <title>Terra Prety</title>
+    <link>https://mods.vintagestory.at/show/mod/terraprety</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/terraprety#2347</guid>
+    <pubDate>Sat, 08 Aug 2026 23:28:58 -0000</pubDate>
+    <description>A redesign of worldgen to feel more natural, beautiful and enjoyable to traverse. By Nephelangelo.</description>
+  </item>
+  <item>
+    <title>CZ4-Tech server patches</title>
+    <link>https://mods.vintagestory.at/show/mod/cz4tech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cz4tech#8141</guid>
+    <pubDate>Sat, 08 Aug 2026 23:16:16 -0000</pubDate>
+    <description>Patches and translations for server Tábor -CZ4 server</description>
+  </item>
+  <item>
+    <title>Enriched Panning</title>
+    <link>https://mods.vintagestory.at/show/mod/10865</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10865#10865</guid>
+    <pubDate>Sat, 08 Aug 2026 23:06:42 -0000</pubDate>
+    <description>Diversifies panning loot by rock type and method, plus a craftable automated river sluice.</description>
+  </item>
+  <item>
+    <title>EZ Translocators</title>
+    <link>https://mods.vintagestory.at/show/mod/eztranslocators</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eztranslocators#10641</guid>
+    <pubDate>Sat, 08 Aug 2026 23:06:13 -0000</pubDate>
+    <description>Break repaired translocators, place them wherever you want and use your map to teleport.</description>
+  </item>
+  <item>
+    <title>Algernon's Watersheds</title>
+    <link>https://mods.vintagestory.at/show/mod/algernonswatersheds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/algernonswatersheds#7286</guid>
+    <pubDate>Sat, 08 Aug 2026 22:41:43 -0000</pubDate>
+    <description>Worldgen revamp using a Watershed model. Adds meandering streams, groundwater, and erosion</description>
+  </item>
   <item>
     <title>Seraph Atelier - Player Model Lib</title>
     <link>https://mods.vintagestory.at/show/mod/seraphatelier</link>
@@ -74,13 +109,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
     <pubDate>Sat, 08 Aug 2026 20:38:58 -0000</pubDate>
     <description>Patches fo most of Tabor servers</description>
-  </item>
-  <item>
-    <title>CZ4-Tech server patches</title>
-    <link>https://mods.vintagestory.at/show/mod/cz4tech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cz4tech#8141</guid>
-    <pubDate>Sat, 08 Aug 2026 20:38:48 -0000</pubDate>
-    <description>Patches and translations for server Tábor -CZ4 server</description>
   </item>
   <item>
     <title>Armory: Core</title>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmokeforbraziers#5073</guid>
     <pubDate>Sat, 08 Aug 2026 15:58:01 -0000</pubDate>
     <description>Compatibility patch for Real Smoke &amp; Braziers</description>
-  </item>
-  <item>
-    <title>XV Shaders</title>
-    <link>https://mods.vintagestory.at/show/mod/xvshaders</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xvshaders#5463</guid>
-    <pubDate>Sat, 08 Aug 2026 15:57:45 -0000</pubDate>
-    <description>Unique &amp; configurable shaders</description>
-  </item>
-  <item>
-    <title>SlowTox</title>
-    <link>https://mods.vintagestory.at/show/mod/slowtox</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slowtox#4443</guid>
-    <pubDate>Sat, 08 Aug 2026 15:57:37 -0000</pubDate>
-    <description>Makes alcohol useful and more realistic</description>
-  </item>
-  <item>
-    <title>Real Smoke</title>
-    <link>https://mods.vintagestory.at/show/mod/realsmoke</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmoke#4591</guid>
-    <pubDate>Sat, 08 Aug 2026 15:56:55 -0000</pubDate>
-    <description>Physics-based smoke</description>
-  </item>
-  <item>
-    <title>MagicServerTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/magicservertweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/magicservertweaks#9791</guid>
-    <pubDate>Sat, 08 Aug 2026 14:42:02 -0000</pubDate>
-    <description>Tweaks for my magic server</description>
   </item>
 </channel>
 </rss>
