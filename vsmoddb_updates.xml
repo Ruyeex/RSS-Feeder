@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 08 Aug 2026 05:50:11 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 06:57:11 +0000</lastBuildDate>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Sat, 08 Aug 2026 06:00:58 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
   <item>
     <title>No Life's Tea</title>
     <link>https://mods.vintagestory.at/show/mod/8832</link>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
     <pubDate>Fri, 07 Aug 2026 21:23:46 -0000</pubDate>
     <description>A simple SheyderMod that supports the original artstyle of the game.</description>
-  </item>
-  <item>
-    <title>The Revived Lands [PATCHES]</title>
-    <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
-    <pubDate>Fri, 07 Aug 2026 21:03:54 -0000</pubDate>
-    <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
   </item>
 </channel>
 </rss>
