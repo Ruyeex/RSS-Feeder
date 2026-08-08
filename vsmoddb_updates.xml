@@ -4,20 +4,48 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 08 Aug 2026 01:48:20 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 03:34:55 +0000</lastBuildDate>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Sat, 08 Aug 2026 03:33:28 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Size To Health Bonus</title>
+    <link>https://mods.vintagestory.at/show/mod/sizetohealthbonus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sizetohealthbonus#10849</guid>
+    <pubDate>Sat, 08 Aug 2026 03:13:11 -0000</pubDate>
+    <description>HP scales with your Player Model Lib size — bigger = tougher, smaller = weaker. Configurable.</description>
+  </item>
+  <item>
+    <title>Herty Cups</title>
+    <link>https://mods.vintagestory.at/show/mod/10750</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10750#10750</guid>
+    <pubDate>Sat, 08 Aug 2026 03:10:57 -0000</pubDate>
+    <description>Resin Tapping for Vintage Story</description>
+  </item>
+  <item>
+    <title>VSVanillaPlus</title>
+    <link>https://mods.vintagestory.at/show/mod/vsvanillaplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsvanillaplus#6710</guid>
+    <pubDate>Sat, 08 Aug 2026 03:02:38 -0000</pubDate>
+    <description>Quality of life improvements that enhance Vintage Story while keeping the core experience.</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sat, 08 Aug 2026 02:49:56 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
   <item>
     <title>Plumas Customizable Stack Sizes</title>
     <link>https://mods.vintagestory.at/show/mod/plumastacks</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plumastacks#10530</guid>
     <pubDate>Sat, 08 Aug 2026 01:44:15 -0000</pubDate>
     <description>Another Simple Stack Size mod because i was dissatisfied with the others</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sat, 08 Aug 2026 01:38:24 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
   <item>
     <title>Liber Terra</title>
@@ -46,13 +74,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hacore#9243</guid>
     <pubDate>Sat, 08 Aug 2026 01:23:16 -0000</pubDate>
     <description>A collection of items to be used in crafting recipes for Historical Weaponry mods.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Fri, 07 Aug 2026 23:59:17 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
   </item>
   <item>
     <title>WOO Fantasy Additions</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
     <pubDate>Fri, 07 Aug 2026 19:47:22 -0000</pubDate>
     <description>Allow to manage traders</description>
-  </item>
-  <item>
-    <title>Red to Blue Clay Conversion</title>
-    <link>https://mods.vintagestory.at/show/mod/10771</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10771#10771</guid>
-    <pubDate>Fri, 07 Aug 2026 19:28:16 -0000</pubDate>
-    <description>Simple blue clay recipe made from red clay and crushed quartz</description>
-  </item>
-  <item>
-    <title>TassFactions</title>
-    <link>https://mods.vintagestory.at/show/mod/10503</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
-    <pubDate>Fri, 07 Aug 2026 19:16:41 -0000</pubDate>
-    <description>Factions - Raids - Sieges - Shops - Bounty</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Fri, 07 Aug 2026 19:12:58 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
   </item>
 </channel>
 </rss>
