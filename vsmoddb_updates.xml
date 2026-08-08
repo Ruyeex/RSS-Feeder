@@ -4,7 +4,21 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 08 Aug 2026 19:32:03 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 20:32:30 +0000</lastBuildDate>
+  <item>
+    <title>Alchemical Refinement</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemicalrefinement</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemicalrefinement#3173</guid>
+    <pubDate>Sat, 08 Aug 2026 19:49:31 -0000</pubDate>
+    <description>A mod that lets you refine ore using the Alchemical Process</description>
+  </item>
+  <item>
+    <title>Tallybook</title>
+    <link>https://mods.vintagestory.at/show/mod/10864</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
+    <pubDate>Sat, 08 Aug 2026 19:32:34 -0000</pubDate>
+    <description>Crafting shopping list + villager quest tracker: live counts, map pins, HUD. Fully client-side.</description>
+  </item>
   <item>
     <title>Animalica Core</title>
     <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
@@ -18,13 +32,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
     <pubDate>Sat, 08 Aug 2026 18:36:11 -0000</pubDate>
     <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>Peat for Charcoal</title>
-    <link>https://mods.vintagestory.at/show/mod/peatforcharcoal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/peatforcharcoal#10384</guid>
-    <pubDate>Sat, 08 Aug 2026 18:33:12 -0000</pubDate>
-    <description>Allows using peat bricks as a substitute for firewood in the charcoal making process.</description>
   </item>
   <item>
     <title>Fablewood Harmony Patches</title>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
     <pubDate>Sat, 08 Aug 2026 12:18:10 -0000</pubDate>
     <description>A simple SheyderMod that supports the original artstyle of the game.</description>
-  </item>
-  <item>
-    <title>Riftworks</title>
-    <link>https://mods.vintagestory.at/show/mod/riftworks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftworks#3614</guid>
-    <pubDate>Sat, 08 Aug 2026 11:49:32 -0000</pubDate>
-    <description>Interesting and useful lategame items and machines</description>
   </item>
 </channel>
 </rss>
