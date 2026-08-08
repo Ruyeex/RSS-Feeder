@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 08 Aug 2026 15:32:09 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 16:36:04 +0000</lastBuildDate>
+  <item>
+    <title>Wind Vanes &amp; Randomized Winds</title>
+    <link>https://mods.vintagestory.at/show/mod/windvanes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windvanes#9414</guid>
+    <pubDate>Sat, 08 Aug 2026 16:01:56 -0000</pubDate>
+    <description>Wind vanes that rotate to face the wind direction and spins its rotator based on wind speed.</description>
+  </item>
+  <item>
+    <title>Real Smoke &amp; Braziers patch</title>
+    <link>https://mods.vintagestory.at/show/mod/realsmokeforbraziers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmokeforbraziers#5073</guid>
+    <pubDate>Sat, 08 Aug 2026 15:58:01 -0000</pubDate>
+    <description>Compatibility patch for Real Smoke &amp; Braziers</description>
+  </item>
+  <item>
+    <title>XV Shaders</title>
+    <link>https://mods.vintagestory.at/show/mod/xvshaders</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xvshaders#5463</guid>
+    <pubDate>Sat, 08 Aug 2026 15:57:45 -0000</pubDate>
+    <description>Unique &amp; configurable shaders</description>
+  </item>
+  <item>
+    <title>SlowTox</title>
+    <link>https://mods.vintagestory.at/show/mod/slowtox</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slowtox#4443</guid>
+    <pubDate>Sat, 08 Aug 2026 15:57:37 -0000</pubDate>
+    <description>Makes alcohol useful and more realistic</description>
+  </item>
+  <item>
+    <title>Real Smoke</title>
+    <link>https://mods.vintagestory.at/show/mod/realsmoke</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmoke#4591</guid>
+    <pubDate>Sat, 08 Aug 2026 15:56:55 -0000</pubDate>
+    <description>Physics-based smoke</description>
+  </item>
   <item>
     <title>TaborServers</title>
     <link>https://mods.vintagestory.at/show/mod/taborservers</link>
@@ -21,15 +56,15 @@
   </item>
   <item>
     <title>Galeret Traits Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/10565</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10565#10565</guid>
+    <link>https://mods.vintagestory.at/show/mod/galerettraits</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/galerettraits#10565</guid>
     <pubDate>Sat, 08 Aug 2026 14:36:22 -0000</pubDate>
     <description>A simple mod to add Trais to my Galeret race Mod</description>
   </item>
   <item>
     <title>Galeret</title>
-    <link>https://mods.vintagestory.at/show/mod/9970</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9970#9970</guid>
+    <link>https://mods.vintagestory.at/show/mod/galeret</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/galeret#9970</guid>
     <pubDate>Sat, 08 Aug 2026 14:35:55 -0000</pubDate>
     <description>A race of cat people based on kahjit</description>
   </item>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eztranslocators#10641</guid>
     <pubDate>Sat, 08 Aug 2026 04:31:10 -0000</pubDate>
     <description>Break repaired translocators, place them wherever you want and use your map to teleport.</description>
-  </item>
-  <item>
-    <title>Vow of the Unvanquished Class Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/vowunvanquishedclassmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vowunvanquishedclassmod#10848</guid>
-    <pubDate>Sat, 08 Aug 2026 04:30:45 -0000</pubDate>
-    <description>A class mod specific to the upcomoning Vow of the Unvanquished Roleplay Server</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sat, 08 Aug 2026 04:15:18 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Sat, 08 Aug 2026 04:13:51 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
-  </item>
-  <item>
-    <title>Resonator Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10007</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10007#10007</guid>
-    <pubDate>Sat, 08 Aug 2026 03:51:50 -0000</pubDate>
-    <description>Simple mod to play the resonator as a sound effect. Will play with music off .</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Sat, 08 Aug 2026 03:51:46 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
   </item>
 </channel>
 </rss>
