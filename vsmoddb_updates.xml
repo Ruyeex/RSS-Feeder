@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 08 Aug 2026 16:36:04 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 17:32:26 +0000</lastBuildDate>
+  <item>
+    <title>TITANHEIMR EYES</title>
+    <link>https://mods.vintagestory.at/show/mod/theyes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/theyes#9559</guid>
+    <pubDate>Sat, 08 Aug 2026 17:31:55 -0000</pubDate>
+    <description>Twenty four of the best eye colors from the TITANHEIMR server.</description>
+  </item>
+  <item>
+    <title>TITANHEIMR server</title>
+    <link>https://mods.vintagestory.at/show/mod/titanheimr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/titanheimr#10861</guid>
+    <pubDate>Sat, 08 Aug 2026 17:26:47 -0000</pubDate>
+    <description>Centaurs, bundled mods, and tweaks to the ''Middle-Earth Races'' mod!</description>
+  </item>
+  <item>
+    <title>The Ultimate Mod Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/10348</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10348#10348</guid>
+    <pubDate>Sat, 08 Aug 2026 17:24:17 -0000</pubDate>
+    <description>An in-game mod manager that's suitable even for remote servers without terminal/FTP access.</description>
+  </item>
+  <item>
+    <title>mapteleporter</title>
+    <link>https://mods.vintagestory.at/show/mod/8424</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8424#8424</guid>
+    <pubDate>Sat, 08 Aug 2026 16:59:16 -0000</pubDate>
+    <description>Map Teleporter</description>
+  </item>
+  <item>
+    <title>Compress Proxy</title>
+    <link>https://mods.vintagestory.at/show/mod/compressproxy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/compressproxy#10860</guid>
+    <pubDate>Sat, 08 Aug 2026 16:56:23 -0000</pubDate>
+    <description>Optional dual-end transport compression for TCP and UDP</description>
+  </item>
   <item>
     <title>Wind Vanes &amp; Randomized Winds</title>
     <link>https://mods.vintagestory.at/show/mod/windvanes</link>
@@ -111,13 +146,6 @@
     <description>Another Simple Stack Size mod because i was dissatisfied with the others</description>
   </item>
   <item>
-    <title>The Ultimate Mod Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/10348</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10348#10348</guid>
-    <pubDate>Sat, 08 Aug 2026 12:58:37 -0000</pubDate>
-    <description>An in-game mod manager that's suitable even for remote servers without terminal/FTP access.</description>
-  </item>
-  <item>
     <title>Czech Patch - Čeština do módů</title>
     <link>https://mods.vintagestory.at/show/mod/czechpatch</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/czechpatch#2800</guid>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
     <pubDate>Sat, 08 Aug 2026 08:02:08 -0000</pubDate>
     <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>Metal Bowls and Pots (Bigger Bowls)</title>
-    <link>https://mods.vintagestory.at/show/mod/metalbowlsandpots</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalbowlsandpots#10766</guid>
-    <pubDate>Sat, 08 Aug 2026 07:51:45 -0000</pubDate>
-    <description>Adds metal bowls and pots that hold more food, cook faster, and reduce food decay.</description>
-  </item>
-  <item>
-    <title>topgsmod</title>
-    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Sat, 08 Aug 2026 06:00:58 -0000</pubDate>
-    <description>TopGs Community Mod</description>
-  </item>
-  <item>
-    <title>No Life's Tea</title>
-    <link>https://mods.vintagestory.at/show/mod/8832</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8832#8832</guid>
-    <pubDate>Sat, 08 Aug 2026 04:37:13 -0000</pubDate>
-    <description>This mod allows you to pick and process tea leaves.</description>
-  </item>
-  <item>
-    <title>EZ Translocators</title>
-    <link>https://mods.vintagestory.at/show/mod/eztranslocators</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eztranslocators#10641</guid>
-    <pubDate>Sat, 08 Aug 2026 04:31:10 -0000</pubDate>
-    <description>Break repaired translocators, place them wherever you want and use your map to teleport.</description>
   </item>
 </channel>
 </rss>
