@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 08 Aug 2026 06:57:11 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 07:53:42 +0000</lastBuildDate>
+  <item>
+    <title>Metal Bowls and Pots (Bigger Bowls)</title>
+    <link>https://mods.vintagestory.at/show/mod/metalbowlsandpots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalbowlsandpots#10766</guid>
+    <pubDate>Sat, 08 Aug 2026 07:51:45 -0000</pubDate>
+    <description>Adds metal bowls and pots that hold more food, cook faster, and reduce food decay.</description>
+  </item>
   <item>
     <title>topgsmod</title>
     <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10843#10843</guid>
     <pubDate>Fri, 07 Aug 2026 21:25:51 -0000</pubDate>
     <description>This mod was created to fix a bug related to the "Well Done" perk.</description>
-  </item>
-  <item>
-    <title>SheyderMod</title>
-    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
-    <pubDate>Fri, 07 Aug 2026 21:23:46 -0000</pubDate>
-    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
   </item>
 </channel>
 </rss>
