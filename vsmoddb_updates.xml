@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 08 Aug 2026 18:40:14 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 19:32:03 +0000</lastBuildDate>
+  <item>
+    <title>Animalica Core</title>
+    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
+    <pubDate>Sat, 08 Aug 2026 19:13:55 -0000</pubDate>
+    <description>Core mod for playable animals. Does nothing on it's own</description>
+  </item>
   <item>
     <title>The Almanac: Trades, Callings &amp; Mastery</title>
     <link>https://mods.vintagestory.at/show/mod/10453</link>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftworks#3614</guid>
     <pubDate>Sat, 08 Aug 2026 11:49:32 -0000</pubDate>
     <description>Interesting and useful lategame items and machines</description>
-  </item>
-  <item>
-    <title>Starless Skies</title>
-    <link>https://mods.vintagestory.at/show/mod/starlessskies</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/starlessskies#5094</guid>
-    <pubDate>Sat, 08 Aug 2026 11:49:23 -0000</pubDate>
-    <description>Removes the sun, moon, and sky, and changes shaders to cause absolute darkness</description>
   </item>
 </channel>
 </rss>
