@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 08 Aug 2026 12:53:01 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 13:47:59 +0000</lastBuildDate>
+  <item>
+    <title>Plumas Customizable Stack Sizes</title>
+    <link>https://mods.vintagestory.at/show/mod/plumastacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plumastacks#10530</guid>
+    <pubDate>Sat, 08 Aug 2026 13:17:06 -0000</pubDate>
+    <description>Another Simple Stack Size mod because i was dissatisfied with the others</description>
+  </item>
+  <item>
+    <title>The Ultimate Mod Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/10348</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10348#10348</guid>
+    <pubDate>Sat, 08 Aug 2026 12:58:37 -0000</pubDate>
+    <description>An in-game mod manager that's suitable even for remote servers without terminal/FTP access.</description>
+  </item>
+  <item>
+    <title>Czech Patch - Čeština do módů</title>
+    <link>https://mods.vintagestory.at/show/mod/czechpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/czechpatch#2800</guid>
+    <pubDate>Sat, 08 Aug 2026 12:53:05 -0000</pubDate>
+    <description>Mod, který přidá české překlady některých módů do hry. Adds Czech translations to some mods</description>
+  </item>
   <item>
     <title>SheyderMod</title>
     <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
@@ -167,13 +188,6 @@
     <description>Quality of life improvements that enhance Vintage Story while keeping the core experience.</description>
   </item>
   <item>
-    <title>Plumas Customizable Stack Sizes</title>
-    <link>https://mods.vintagestory.at/show/mod/plumastacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plumastacks#10530</guid>
-    <pubDate>Sat, 08 Aug 2026 01:44:15 -0000</pubDate>
-    <description>Another Simple Stack Size mod because i was dissatisfied with the others</description>
-  </item>
-  <item>
     <title>Liber Terra</title>
     <link>https://mods.vintagestory.at/show/mod/liberterra</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/liberterra#10763</guid>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hacore#9243</guid>
     <pubDate>Sat, 08 Aug 2026 01:23:16 -0000</pubDate>
     <description>A collection of items to be used in crafting recipes for Historical Weaponry mods.</description>
-  </item>
-  <item>
-    <title>WOO Fantasy Additions</title>
-    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
-    <pubDate>Fri, 07 Aug 2026 23:58:00 -0000</pubDate>
-    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
-  </item>
-  <item>
-    <title>Catfolk: Felvox Player Model [WIP]</title>
-    <link>https://mods.vintagestory.at/show/mod/10847</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10847#10847</guid>
-    <pubDate>Fri, 07 Aug 2026 23:33:17 -0000</pubDate>
-    <description>Work in progress Cat race using Player Model Lib.</description>
   </item>
 </channel>
 </rss>
