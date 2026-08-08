@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 08 Aug 2026 13:47:59 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 14:33:57 +0000</lastBuildDate>
+  <item>
+    <title>Fablewood Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Sat, 08 Aug 2026 14:33:52 -0000</pubDate>
+    <description>Skill and class mod for the Fablewood server</description>
+  </item>
+  <item>
+    <title>Salty´s Workshop: Rooted Stump</title>
+    <link>https://mods.vintagestory.at/show/mod/rootedstump</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rootedstump#10851</guid>
+    <pubDate>Sat, 08 Aug 2026 14:23:55 -0000</pubDate>
+    <description>Makes bottom blocks of trees harder to chop.</description>
+  </item>
+  <item>
+    <title>VS Chunk Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/7128</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7128#7128</guid>
+    <pubDate>Sat, 08 Aug 2026 14:09:02 -0000</pubDate>
+    <description>A world management tool for selecting, regenerating and deleting chunks from the map.</description>
+  </item>
+  <item>
+    <title>Fast Crops</title>
+    <link>https://mods.vintagestory.at/show/mod/4745</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4745#4745</guid>
+    <pubDate>Sat, 08 Aug 2026 13:54:26 -0000</pubDate>
+    <description>Decreases Crop Growth time.</description>
+  </item>
+  <item>
+    <title>ME's Custom Mod Downloader</title>
+    <link>https://mods.vintagestory.at/show/mod/10430</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10430#10430</guid>
+    <pubDate>Sat, 08 Aug 2026 13:49:59 -0000</pubDate>
+    <description>Servers distribute their own custom mods straight to joining clients, consent-gated, hash-verified.</description>
+  </item>
   <item>
     <title>Plumas Customizable Stack Sizes</title>
     <link>https://mods.vintagestory.at/show/mod/plumastacks</link>
@@ -32,13 +67,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
     <pubDate>Sat, 08 Aug 2026 12:18:10 -0000</pubDate>
     <description>A simple SheyderMod that supports the original artstyle of the game.</description>
-  </item>
-  <item>
-    <title>VS Chunk Reloader</title>
-    <link>https://mods.vintagestory.at/show/mod/7128</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7128#7128</guid>
-    <pubDate>Sat, 08 Aug 2026 12:02:14 -0000</pubDate>
-    <description>A mod to reload selected chunks on the world map</description>
   </item>
   <item>
     <title>Riftworks</title>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsvanillaplus#6710</guid>
     <pubDate>Sat, 08 Aug 2026 03:02:38 -0000</pubDate>
     <description>Quality of life improvements that enhance Vintage Story while keeping the core experience.</description>
-  </item>
-  <item>
-    <title>Liber Terra</title>
-    <link>https://mods.vintagestory.at/show/mod/liberterra</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/liberterra#10763</guid>
-    <pubDate>Sat, 08 Aug 2026 01:30:57 -0000</pubDate>
-    <description>Pre-1300 CE public-domain literature as lore books in ruins and loot. oh and books are weapons now.</description>
-  </item>
-  <item>
-    <title>Stain's Stovetop</title>
-    <link>https://mods.vintagestory.at/show/mod/stainsstovetop</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stainsstovetop#10486</guid>
-    <pubDate>Sat, 08 Aug 2026 01:29:23 -0000</pubDate>
-    <description>4 Burner Stovetop for compact cooking spaces. Only 850 gears!</description>
-  </item>
-  <item>
-    <title>Historical Armory: Warlords and Warchiefs</title>
-    <link>https://mods.vintagestory.at/show/mod/hawarlords</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hawarlords#9245</guid>
-    <pubDate>Sat, 08 Aug 2026 01:25:09 -0000</pubDate>
-    <description>A collection of equipment from the North/South American and African continents.</description>
-  </item>
-  <item>
-    <title>Armory: Core</title>
-    <link>https://mods.vintagestory.at/show/mod/hacore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hacore#9243</guid>
-    <pubDate>Sat, 08 Aug 2026 01:23:16 -0000</pubDate>
-    <description>A collection of items to be used in crafting recipes for Historical Weaponry mods.</description>
   </item>
 </channel>
 </rss>
