@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 08 Aug 2026 11:31:11 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 12:53:01 +0000</lastBuildDate>
+  <item>
+    <title>SheyderMod</title>
+    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
+    <pubDate>Sat, 08 Aug 2026 12:18:10 -0000</pubDate>
+    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
+  </item>
+  <item>
+    <title>VS Chunk Reloader</title>
+    <link>https://mods.vintagestory.at/show/mod/7128</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7128#7128</guid>
+    <pubDate>Sat, 08 Aug 2026 12:02:14 -0000</pubDate>
+    <description>A mod to reload selected chunks on the world map</description>
+  </item>
+  <item>
+    <title>Riftworks</title>
+    <link>https://mods.vintagestory.at/show/mod/riftworks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftworks#3614</guid>
+    <pubDate>Sat, 08 Aug 2026 11:49:32 -0000</pubDate>
+    <description>Interesting and useful lategame items and machines</description>
+  </item>
+  <item>
+    <title>Starless Skies</title>
+    <link>https://mods.vintagestory.at/show/mod/starlessskies</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/starlessskies#5094</guid>
+    <pubDate>Sat, 08 Aug 2026 11:49:23 -0000</pubDate>
+    <description>Removes the sun, moon, and sky, and changes shaders to cause absolute darkness</description>
+  </item>
+  <item>
+    <title>Abyssal Depths</title>
+    <link>https://mods.vintagestory.at/show/mod/6290</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6290#6290</guid>
+    <pubDate>Sat, 08 Aug 2026 11:49:14 -0000</pubDate>
+    <description>Expansion of ocean exploration. Diving suits and depth mechanics.</description>
+  </item>
   <item>
     <title>Eternal Seraph: Poklyk</title>
     <link>https://mods.vintagestory.at/show/mod/eternalspoklyk</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10847#10847</guid>
     <pubDate>Fri, 07 Aug 2026 23:33:17 -0000</pubDate>
     <description>Work in progress Cat race using Player Model Lib.</description>
-  </item>
-  <item>
-    <title>The Quire Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/10455</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
-    <pubDate>Fri, 07 Aug 2026 23:16:36 -0000</pubDate>
-    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
-  </item>
-  <item>
-    <title>Scribe: Notes &amp; Tasks</title>
-    <link>https://mods.vintagestory.at/show/mod/scribe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scribe#10607</guid>
-    <pubDate>Fri, 07 Aug 2026 22:55:39 -0000</pubDate>
-    <description>Take notes and track tasks in-world. Pin tasks to a persistent HUD. Multiplayer-ready.</description>
-  </item>
-  <item>
-    <title>VS Roofing Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/5036</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5036#5036</guid>
-    <pubDate>Fri, 07 Aug 2026 22:28:50 -0000</pubDate>
-    <description>Gridless roof building system with vanilla style roofs, glass houses and more!</description>
-  </item>
-  <item>
-    <title>Arrows and Slings</title>
-    <link>https://mods.vintagestory.at/show/mod/arrowsnslings</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arrowsnslings#9546</guid>
-    <pubDate>Fri, 07 Aug 2026 22:25:30 -0000</pubDate>
-    <description>Buff arrows, adds sling progression, and additional sling projectiles</description>
-  </item>
-  <item>
-    <title>Andrea's Craftable Glass Variants</title>
-    <link>https://mods.vintagestory.at/show/mod/andreaglasscraft</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/andreaglasscraft#8054</guid>
-    <pubDate>Fri, 07 Aug 2026 22:14:35 -0000</pubDate>
-    <description>Lets you craft the uncraftable variants of colored glass in bloomeries</description>
   </item>
 </channel>
 </rss>
