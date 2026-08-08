@@ -4,12 +4,19 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 08 Aug 2026 10:36:05 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 11:31:11 +0000</lastBuildDate>
+  <item>
+    <title>Eternal Seraph: Poklyk</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspoklyk</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspoklyk#9074</guid>
+    <pubDate>Sat, 08 Aug 2026 10:49:46 -0000</pubDate>
+    <description>Calling progression system where specializations emerge from player actions</description>
+  </item>
   <item>
     <title>Frontier Claims Map</title>
     <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
-    <pubDate>Sat, 08 Aug 2026 09:11:52 -0000</pubDate>
+    <pubDate>Sat, 08 Aug 2026 10:41:20 -0000</pubDate>
     <description>test</description>
   </item>
   <item>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/andreaglasscraft#8054</guid>
     <pubDate>Fri, 07 Aug 2026 22:14:35 -0000</pubDate>
     <description>Lets you craft the uncraftable variants of colored glass in bloomeries</description>
-  </item>
-  <item>
-    <title>Steinbrecher</title>
-    <link>https://mods.vintagestory.at/show/mod/9234</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9234#9234</guid>
-    <pubDate>Fri, 07 Aug 2026 22:14:05 -0000</pubDate>
-    <description>This lets you turn rocks into stones.</description>
   </item>
 </channel>
 </rss>
