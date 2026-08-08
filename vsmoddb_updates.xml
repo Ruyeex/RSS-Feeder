@@ -4,7 +4,21 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 08 Aug 2026 07:53:42 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 08:44:30 +0000</lastBuildDate>
+  <item>
+    <title>LocksAffectReinforcement</title>
+    <link>https://mods.vintagestory.at/show/mod/10846</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10846#10846</guid>
+    <pubDate>Sat, 08 Aug 2026 08:15:53 -0000</pubDate>
+    <description>Allows locks to affect reinforcement level of blocks. Better locks boost your reinforcement</description>
+  </item>
+  <item>
+    <title>VS Instruments Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/10555</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
+    <pubDate>Sat, 08 Aug 2026 08:02:08 -0000</pubDate>
+    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
+  </item>
   <item>
     <title>Metal Bowls and Pots (Bigger Bowls)</title>
     <link>https://mods.vintagestory.at/show/mod/metalbowlsandpots</link>
@@ -139,13 +153,6 @@
     <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
   </item>
   <item>
-    <title>LocksAffectReinforcement</title>
-    <link>https://mods.vintagestory.at/show/mod/10846</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10846#10846</guid>
-    <pubDate>Fri, 07 Aug 2026 23:34:34 -0000</pubDate>
-    <description>Allows locks to affect reinforcement level of blocks. Better locks boost your reinforcement</description>
-  </item>
-  <item>
     <title>Catfolk: Felvox Player Model [WIP]</title>
     <link>https://mods.vintagestory.at/show/mod/10847</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10847#10847</guid>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevsmanager#5545</guid>
     <pubDate>Fri, 07 Aug 2026 21:34:17 -0000</pubDate>
     <description>A simple mod manager/launcher with Mod DB Search, Update Manager and shared Modlists</description>
-  </item>
-  <item>
-    <title>Xskillsfix</title>
-    <link>https://mods.vintagestory.at/show/mod/10843</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10843#10843</guid>
-    <pubDate>Fri, 07 Aug 2026 21:25:51 -0000</pubDate>
-    <description>This mod was created to fix a bug related to the "Well Done" perk.</description>
   </item>
 </channel>
 </rss>
