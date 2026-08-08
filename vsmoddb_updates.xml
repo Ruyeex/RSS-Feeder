@@ -4,7 +4,21 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 08 Aug 2026 08:44:30 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 09:39:57 +0000</lastBuildDate>
+  <item>
+    <title>Frontier Claims Map</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Sat, 08 Aug 2026 09:11:52 -0000</pubDate>
+    <description>test</description>
+  </item>
+  <item>
+    <title>MNG Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/mngtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mngtweaks#9417</guid>
+    <pubDate>Sat, 08 Aug 2026 09:11:04 -0000</pubDate>
+    <description>MNG Tweaks</description>
+  </item>
   <item>
     <title>LocksAffectReinforcement</title>
     <link>https://mods.vintagestory.at/show/mod/10846</link>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9234#9234</guid>
     <pubDate>Fri, 07 Aug 2026 22:14:05 -0000</pubDate>
     <description>This lets you turn rocks into stones.</description>
-  </item>
-  <item>
-    <title>Upgraded Lakes</title>
-    <link>https://mods.vintagestory.at/show/mod/upgradedlakes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/upgradedlakes#10844</guid>
-    <pubDate>Fri, 07 Aug 2026 21:37:30 -0000</pubDate>
-    <description>FishingFix but without the command spam.</description>
-  </item>
-  <item>
-    <title>Simple VS Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevsmanager</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevsmanager#5545</guid>
-    <pubDate>Fri, 07 Aug 2026 21:34:17 -0000</pubDate>
-    <description>A simple mod manager/launcher with Mod DB Search, Update Manager and shared Modlists</description>
   </item>
 </channel>
 </rss>
