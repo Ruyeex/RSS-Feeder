@@ -4,13 +4,48 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 09 Aug 2026 19:35:29 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 20:35:06 +0000</lastBuildDate>
   <item>
-    <title>Xskillsfix</title>
-    <link>https://mods.vintagestory.at/show/mod/10843</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10843#10843</guid>
-    <pubDate>Sun, 09 Aug 2026 19:35:12 -0000</pubDate>
-    <description>This mod was created to fix a bug related to the "Well Done" perk.</description>
+    <title>Traits and Classes lib</title>
+    <link>https://mods.vintagestory.at/show/mod/traitsandclasseslib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traitsandclasseslib#9575</guid>
+    <pubDate>Sun, 09 Aug 2026 20:23:02 -0000</pubDate>
+    <description>Framework for adding interconnected classes</description>
+  </item>
+  <item>
+    <title>TITANHEIMR server</title>
+    <link>https://mods.vintagestory.at/show/mod/titanheimr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/titanheimr#10861</guid>
+    <pubDate>Sun, 09 Aug 2026 20:22:36 -0000</pubDate>
+    <description>Centaurs (soon) and tweaks to the ''Middle-Earth Races'' mod!</description>
+  </item>
+  <item>
+    <title>WorldEngine for VS</title>
+    <link>https://mods.vintagestory.at/show/mod/10880</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10880#10880</guid>
+    <pubDate>Sun, 09 Aug 2026 20:17:46 -0000</pubDate>
+    <description>A planet-based world generator.</description>
+  </item>
+  <item>
+    <title>Jelly Bundle</title>
+    <link>https://mods.vintagestory.at/show/mod/10059</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10059#10059</guid>
+    <pubDate>Sun, 09 Aug 2026 20:06:42 -0000</pubDate>
+    <description>A compilation of tweaks for the Swamp Jelly server.</description>
+  </item>
+  <item>
+    <title>Amphithere: Winged Serpent</title>
+    <link>https://mods.vintagestory.at/show/mod/amphithere</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/amphithere#10798</guid>
+    <pubDate>Sun, 09 Aug 2026 19:59:18 -0000</pubDate>
+    <description>Adds an amphithere dragon species to the world.</description>
+  </item>
+  <item>
+    <title>neobit Vintage Server</title>
+    <link>https://mods.vintagestory.at/show/mod/5161</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5161#5161</guid>
+    <pubDate>Sun, 09 Aug 2026 19:39:08 -0000</pubDate>
+    <description>Collection of tweaks for the neobit server and playthrough.</description>
   </item>
   <item>
     <title>Downed</title>
@@ -25,13 +60,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/charcoalkiln#10807</guid>
     <pubDate>Sun, 09 Aug 2026 19:19:28 -0000</pubDate>
     <description>Charcoal Kiln adds a permanent and reusable kiln to make your endless batches of charcoal.</description>
-  </item>
-  <item>
-    <title>neobit Vintage Server</title>
-    <link>https://mods.vintagestory.at/show/mod/5161</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5161#5161</guid>
-    <pubDate>Sun, 09 Aug 2026 19:15:31 -0000</pubDate>
-    <description>Collection of tweaks for the neobit server and playthrough.</description>
   </item>
   <item>
     <title>Peat for Charcoal</title>
@@ -83,7 +111,7 @@
     <description>Adds a physical map with built-in map maker system, drawing tools and over 130 hand drawn stamps</description>
   </item>
   <item>
-    <title>WorldEngine for VS</title>
+    <title>WorldEngine for VS Toolkit</title>
     <link>https://mods.vintagestory.at/show/mod/10643</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10643#10643</guid>
     <pubDate>Sun, 09 Aug 2026 17:33:22 -0000</pubDate>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettererprospecting#4916</guid>
     <pubDate>Sun, 09 Aug 2026 13:03:58 -0000</pubDate>
     <description>Altered prospecting experience with focus on reducing randomness</description>
-  </item>
-  <item>
-    <title>Enriched Panning</title>
-    <link>https://mods.vintagestory.at/show/mod/10865</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10865#10865</guid>
-    <pubDate>Sun, 09 Aug 2026 12:28:26 -0000</pubDate>
-    <description>Diversifies panning loot by rock type and method, plus a craftable automated river sluice.</description>
-  </item>
-  <item>
-    <title>Metal Bowls and Pots (Bigger Bowls)</title>
-    <link>https://mods.vintagestory.at/show/mod/metalbowlsandpots</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalbowlsandpots#10766</guid>
-    <pubDate>Sun, 09 Aug 2026 12:01:15 -0000</pubDate>
-    <description>Adds metal bowls and pots that hold more food, cook faster, and reduce food decay.</description>
-  </item>
-  <item>
-    <title>Hexis (Beta)</title>
-    <link>https://mods.vintagestory.at/show/mod/hexis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexis#10623</guid>
-    <pubDate>Sun, 09 Aug 2026 11:52:40 -0000</pubDate>
-    <description>A tactical, stance-based combat system of mass and momentum, Focus-built for VS' harsh reality</description>
-  </item>
-  <item>
-    <title>Better Loot Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/blp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blp#10873</guid>
-    <pubDate>Sun, 09 Aug 2026 11:45:55 -0000</pubDate>
-    <description>Configurable Better loot from hostile entities like Drifters, Shivers, Bowtorns</description>
   </item>
 </channel>
 </rss>
