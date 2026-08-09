@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 09 Aug 2026 10:37:03 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 11:31:05 +0000</lastBuildDate>
+  <item>
+    <title>Tweakfactory</title>
+    <link>https://mods.vintagestory.at/show/mod/tweakfactory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tweakfactory#10875</guid>
+    <pubDate>Sun, 09 Aug 2026 11:23:56 -0000</pubDate>
+    <description>Tweakmod um Klassenspezifische Rezepte einzubinden.</description>
+  </item>
+  <item>
+    <title>Waxlight Launcher</title>
+    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
+    <pubDate>Sun, 09 Aug 2026 11:21:48 -0000</pubDate>
+    <description>A sleek Vintage Story launcher for instances, mods, accounts and playtime tracking.</description>
+  </item>
+  <item>
+    <title>Klassenkampf</title>
+    <link>https://mods.vintagestory.at/show/mod/klassenkampf</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/klassenkampf#10845</guid>
+    <pubDate>Sun, 09 Aug 2026 11:19:58 -0000</pubDate>
+    <description>Dies ist ein Klassenmod für Mut&amp;Glut 2 - Ein deutsches RP Projekt</description>
+  </item>
+  <item>
+    <title>Butchering Patch for Sonya's Quality Fowl</title>
+    <link>https://mods.vintagestory.at/show/mod/10874</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10874#10874</guid>
+    <pubDate>Sun, 09 Aug 2026 11:10:47 -0000</pubDate>
+    <description>A patch for Sonya's Quality Fowl and Butchering with non-generic models</description>
+  </item>
   <item>
     <title>Solaria's Solace Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/10706</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hoverinfo#10792</guid>
     <pubDate>Sun, 09 Aug 2026 07:31:44 -0000</pubDate>
     <description>A mod made for the Paw server to see the information of player held items also linkable to chat</description>
-  </item>
-  <item>
-    <title>The Quire Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/10455</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
-    <pubDate>Sun, 09 Aug 2026 07:27:38 -0000</pubDate>
-    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
-  </item>
-  <item>
-    <title>Ingenium</title>
-    <link>https://mods.vintagestory.at/show/mod/10824</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10824#10824</guid>
-    <pubDate>Sun, 09 Aug 2026 07:23:56 -0000</pubDate>
-    <description>Mechanical power, corrected.</description>
-  </item>
-  <item>
-    <title>Charcoal Kiln</title>
-    <link>https://mods.vintagestory.at/show/mod/charcoalkiln</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/charcoalkiln#10807</guid>
-    <pubDate>Sun, 09 Aug 2026 07:17:12 -0000</pubDate>
-    <description>Charcoal Kiln adds a permanent and reusable kiln to make your endless batches of charcoal.</description>
-  </item>
-  <item>
-    <title>Window Display</title>
-    <link>https://mods.vintagestory.at/show/mod/windowdisplay</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplay#10488</guid>
-    <pubDate>Sun, 09 Aug 2026 06:26:24 -0000</pubDate>
-    <description>Improved version of the Window Storage mod, uses Universal Display Lib</description>
   </item>
 </channel>
 </rss>
