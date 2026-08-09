@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 09 Aug 2026 08:54:19 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 09:41:54 +0000</lastBuildDate>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Sun, 09 Aug 2026 09:20:23 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>The Almanac: Illuminated</title>
+    <link>https://mods.vintagestory.at/show/mod/10454</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10454#10454</guid>
+    <pubDate>Sun, 09 Aug 2026 09:09:33 -0000</pubDate>
+    <description>A living questbook opened with Alt+J. Chapters appear only for the mods you have loaded.</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/10453</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
+    <pubDate>Sun, 09 Aug 2026 09:06:34 -0000</pubDate>
+    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>COArmoryWeaponPartRecycle</title>
+    <link>https://mods.vintagestory.at/show/mod/10872</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10872#10872</guid>
+    <pubDate>Sun, 09 Aug 2026 08:59:24 -0000</pubDate>
+    <description>Allows you to turn all weapon and armor parts back into half of the material used (in bits)</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sun, 09 Aug 2026 08:54:18 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
   <item>
     <title>Animalica - Foxes, Wolves &amp; Hyenas</title>
     <link>https://mods.vintagestory.at/show/mod/animalicafwh</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10819#10819</guid>
     <pubDate>Sun, 09 Aug 2026 05:56:20 -0000</pubDate>
     <description>Adds quests for the Fablewood server</description>
-  </item>
-  <item>
-    <title>Hunting Knife Sheath Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/huntingknifequiverscompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/huntingknifequiverscompat#10867</guid>
-    <pubDate>Sun, 09 Aug 2026 05:56:03 -0000</pubDate>
-    <description>Makes Hunting Knife display properly inside knife sheaths from Quivers and Sheaths Fork.</description>
-  </item>
-  <item>
-    <title>Fablewood Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/10778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
-    <pubDate>Sun, 09 Aug 2026 05:55:02 -0000</pubDate>
-    <description>Skill and class mod for the Fablewood server</description>
-  </item>
-  <item>
-    <title>topgsmod</title>
-    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Sun, 09 Aug 2026 05:41:39 -0000</pubDate>
-    <description>TopGs Community Mod</description>
-  </item>
-  <item>
-    <title>AoSCeramos</title>
-    <link>https://mods.vintagestory.at/show/mod/aosceramos</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aosceramos#10869</guid>
-    <pubDate>Sun, 09 Aug 2026 05:26:34 -0000</pubDate>
-    <description>Ceramic Tile mod for floors and walls</description>
-  </item>
-  <item>
-    <title>Salty´s Immersive: Light</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivelight</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivelight#10075</guid>
-    <pubDate>Sun, 09 Aug 2026 05:02:36 -0000</pubDate>
-    <description>Makes block light respect walls and closed barriers.</description>
   </item>
 </channel>
 </rss>
