@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 09 Aug 2026 16:37:58 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 17:33:41 +0000</lastBuildDate>
+  <item>
+    <title>Frontier's Map</title>
+    <link>https://mods.vintagestory.at/show/mod/9227</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9227#9227</guid>
+    <pubDate>Sun, 09 Aug 2026 17:33:26 -0000</pubDate>
+    <description>Adds a physical map with built-in map maker system, drawing tools and over 130 hand drawn stamps</description>
+  </item>
+  <item>
+    <title>C4B Traducciones-ES - MODS</title>
+    <link>https://mods.vintagestory.at/show/mod/c4btraduccionesmods</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/c4btraduccionesmods#2720</guid>
+    <pubDate>Sun, 09 Aug 2026 17:32:44 -0000</pubDate>
+    <description>Traducción de Mods en Español-ES</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Sun, 09 Aug 2026 17:22:35 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Wool 🙵 More</title>
+    <link>https://mods.vintagestory.at/show/mod/wool</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wool#2447</guid>
+    <pubDate>Sun, 09 Aug 2026 16:41:49 -0000</pubDate>
+    <description>Harvest, process, trade and craft with animal fleece and wool.</description>
+  </item>
   <item>
     <title>Tallybook</title>
     <link>https://mods.vintagestory.at/show/mod/10864</link>
@@ -181,39 +209,11 @@
     <description>Adds firearms powered by the gearlock mechanism</description>
   </item>
   <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Sun, 09 Aug 2026 09:20:23 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
     <title>The Almanac: Illuminated</title>
     <link>https://mods.vintagestory.at/show/mod/10454</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10454#10454</guid>
     <pubDate>Sun, 09 Aug 2026 09:09:33 -0000</pubDate>
     <description>A living questbook opened with Alt+J. Chapters appear only for the mods you have loaded.</description>
-  </item>
-  <item>
-    <title>The Almanac: Trades, Callings &amp; Mastery</title>
-    <link>https://mods.vintagestory.at/show/mod/10453</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
-    <pubDate>Sun, 09 Aug 2026 09:06:34 -0000</pubDate>
-    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>COArmoryWeaponPartRecycle</title>
-    <link>https://mods.vintagestory.at/show/mod/10872</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10872#10872</guid>
-    <pubDate>Sun, 09 Aug 2026 08:59:24 -0000</pubDate>
-    <description>Allows you to turn all weapon and armor parts back into half of the material used (in bits)</description>
-  </item>
-  <item>
-    <title>Animalica - Foxes, Wolves &amp; Hyenas</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicafwh</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicafwh#9794</guid>
-    <pubDate>Sun, 09 Aug 2026 08:51:20 -0000</pubDate>
-    <description>Adds Foxes, Wolves, and Hyenas as player choices!</description>
   </item>
 </channel>
 </rss>
