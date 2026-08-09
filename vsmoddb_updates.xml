@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 09 Aug 2026 06:59:53 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 07:57:18 +0000</lastBuildDate>
+  <item>
+    <title>Mod for Skyblock server</title>
+    <link>https://mods.vintagestory.at/show/mod/skyone</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skyone#2831</guid>
+    <pubDate>Sun, 09 Aug 2026 07:55:58 -0000</pubDate>
+    <description>Mod tailored for public Multiplayer Skyblock Economy server. --&gt;&gt; www.vintagestory.cz/skyblock</description>
+  </item>
+  <item>
+    <title>CZ4-Tech server patches</title>
+    <link>https://mods.vintagestory.at/show/mod/cz4tech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cz4tech#8141</guid>
+    <pubDate>Sun, 09 Aug 2026 07:50:18 -0000</pubDate>
+    <description>Patches and translations for server Tábor -CZ4 server</description>
+  </item>
+  <item>
+    <title>TaborServers</title>
+    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
+    <pubDate>Sun, 09 Aug 2026 07:47:43 -0000</pubDate>
+    <description>Patches fo most of Tabor servers</description>
+  </item>
+  <item>
+    <title>Caves N Caverns</title>
+    <link>https://mods.vintagestory.at/show/mod/cavesncaverns</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cavesncaverns#1700</guid>
+    <pubDate>Sun, 09 Aug 2026 07:45:56 -0000</pubDate>
+    <description>A simple Mod that sllows you to adjust the underground generation parameters</description>
+  </item>
+  <item>
+    <title>Hover Info</title>
+    <link>https://mods.vintagestory.at/show/mod/hoverinfo</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hoverinfo#10792</guid>
+    <pubDate>Sun, 09 Aug 2026 07:31:44 -0000</pubDate>
+    <description>A mod made for the Paw server to see the information of player held items also linkable to chat</description>
+  </item>
+  <item>
+    <title>The Quire Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/10455</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
+    <pubDate>Sun, 09 Aug 2026 07:27:38 -0000</pubDate>
+    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
+  </item>
+  <item>
+    <title>Ingenium</title>
+    <link>https://mods.vintagestory.at/show/mod/10824</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10824#10824</guid>
+    <pubDate>Sun, 09 Aug 2026 07:23:56 -0000</pubDate>
+    <description>Mechanical power, corrected.</description>
+  </item>
+  <item>
+    <title>Charcoal Kiln</title>
+    <link>https://mods.vintagestory.at/show/mod/charcoalkiln</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/charcoalkiln#10807</guid>
+    <pubDate>Sun, 09 Aug 2026 07:17:12 -0000</pubDate>
+    <description>Charcoal Kiln adds a permanent and reusable kiln to make your endless batches of charcoal.</description>
+  </item>
   <item>
     <title>Window Display</title>
     <link>https://mods.vintagestory.at/show/mod/windowdisplay</link>
@@ -125,13 +181,6 @@
     <description>Shader effects for pretty water and shadows.</description>
   </item>
   <item>
-    <title>Charcoal Kiln</title>
-    <link>https://mods.vintagestory.at/show/mod/charcoalkiln</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/charcoalkiln#10807</guid>
-    <pubDate>Sun, 09 Aug 2026 01:58:54 -0000</pubDate>
-    <description>Charcoal Kiln adds a permanent and reusable kiln to make your endless batches of charcoal.</description>
-  </item>
-  <item>
     <title>Temporals Reformed LITE</title>
     <link>https://mods.vintagestory.at/show/mod/6178</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6178#6178</guid>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/voicesofequestria#10866</guid>
     <pubDate>Sun, 09 Aug 2026 00:21:32 -0000</pubDate>
     <description>Adds 5 new MLPg4-style voices + fork of 7 voices from Shiro's Voice for use with kemono</description>
-  </item>
-  <item>
-    <title>Primitive Tools Updated</title>
-    <link>https://mods.vintagestory.at/show/mod/primitivetoolsupdated</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/primitivetoolsupdated#8625</guid>
-    <pubDate>Sun, 09 Aug 2026 00:13:32 -0000</pubDate>
-    <description>Primitive Tools Updated is an updated version of Primitive Tools.</description>
-  </item>
-  <item>
-    <title>Jelly Bundle</title>
-    <link>https://mods.vintagestory.at/show/mod/10059</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10059#10059</guid>
-    <pubDate>Sat, 08 Aug 2026 23:41:41 -0000</pubDate>
-    <description>A compilation of tweaks for the Swamp Jelly server.</description>
-  </item>
-  <item>
-    <title>TaborServers</title>
-    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
-    <pubDate>Sat, 08 Aug 2026 23:39:21 -0000</pubDate>
-    <description>Patches fo most of Tabor servers</description>
-  </item>
-  <item>
-    <title>CZ4-Tech server patches</title>
-    <link>https://mods.vintagestory.at/show/mod/cz4tech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cz4tech#8141</guid>
-    <pubDate>Sat, 08 Aug 2026 23:16:16 -0000</pubDate>
-    <description>Patches and translations for server Tábor -CZ4 server</description>
-  </item>
-  <item>
-    <title>Enriched Panning</title>
-    <link>https://mods.vintagestory.at/show/mod/10865</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10865#10865</guid>
-    <pubDate>Sat, 08 Aug 2026 23:06:42 -0000</pubDate>
-    <description>Diversifies panning loot by rock type and method, plus a craftable automated river sluice.</description>
-  </item>
-  <item>
-    <title>EZ Translocators</title>
-    <link>https://mods.vintagestory.at/show/mod/eztranslocators</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eztranslocators#10641</guid>
-    <pubDate>Sat, 08 Aug 2026 23:06:13 -0000</pubDate>
-    <description>Break repaired translocators, place them wherever you want and use your map to teleport.</description>
-  </item>
-  <item>
-    <title>Algernon's Watersheds</title>
-    <link>https://mods.vintagestory.at/show/mod/algernonswatersheds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/algernonswatersheds#7286</guid>
-    <pubDate>Sat, 08 Aug 2026 22:41:43 -0000</pubDate>
-    <description>Worldgen revamp using a Watershed model. Adds meandering streams, groundwater, and erosion</description>
   </item>
 </channel>
 </rss>
