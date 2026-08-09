@@ -4,12 +4,33 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 09 Aug 2026 13:52:08 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 14:36:56 +0000</lastBuildDate>
+  <item>
+    <title>vanillapackfr</title>
+    <link>https://mods.vintagestory.at/show/mod/vanillapackfr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillapackfr#10821</guid>
+    <pubDate>Sun, 09 Aug 2026 14:23:52 -0000</pubDate>
+    <description>drad for a mdpk</description>
+  </item>
+  <item>
+    <title>Auto Walk Extended</title>
+    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
+    <pubDate>Sun, 09 Aug 2026 14:05:36 -0000</pubDate>
+    <description>Toggle walking/running. Options to toggle sneaking and automatic climbing.</description>
+  </item>
+  <item>
+    <title>AstraTerra</title>
+    <link>https://mods.vintagestory.at/show/mod/8706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
+    <pubDate>Sun, 09 Aug 2026 14:04:23 -0000</pubDate>
+    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
+  </item>
   <item>
     <title>Emotes</title>
     <link>https://mods.vintagestory.at/show/mod/emotes</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/emotes#8235</guid>
-    <pubDate>Sun, 09 Aug 2026 13:50:06 -0000</pubDate>
+    <pubDate>Sun, 09 Aug 2026 13:53:35 -0000</pubDate>
     <description>Adds more custom emotes to the game.</description>
   </item>
   <item>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicadinos#10562</guid>
     <pubDate>Sun, 09 Aug 2026 08:48:39 -0000</pubDate>
     <description>Adds clothing-capable playable dinosaurs and marine reptiles from Legacy of the Phanerozoic modules</description>
-  </item>
-  <item>
-    <title>TITANHEIMR server</title>
-    <link>https://mods.vintagestory.at/show/mod/titanheimr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/titanheimr#10861</guid>
-    <pubDate>Sun, 09 Aug 2026 08:43:54 -0000</pubDate>
-    <description>Centaurs, bundled mods, and tweaks to the ''Middle-Earth Races'' mod!</description>
-  </item>
-  <item>
-    <title>Catch and Release: Fish</title>
-    <link>https://mods.vintagestory.at/show/mod/crfish</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crfish#7410</guid>
-    <pubDate>Sun, 09 Aug 2026 08:42:52 -0000</pubDate>
-    <description>Catch fish live and place them in various sized aquariums.</description>
-  </item>
-  <item>
-    <title>Catch and Release LIB</title>
-    <link>https://mods.vintagestory.at/show/mod/crlib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crlib#7509</guid>
-    <pubDate>Sun, 09 Aug 2026 08:40:05 -0000</pubDate>
-    <description>Shared library for Catch and Release mods.</description>
   </item>
 </channel>
 </rss>
