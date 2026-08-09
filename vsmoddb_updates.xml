@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 09 Aug 2026 09:41:54 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 10:37:03 +0000</lastBuildDate>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sun, 09 Aug 2026 10:30:40 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Lumos</title>
+    <link>https://mods.vintagestory.at/show/mod/lumos</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lumos#10713</guid>
+    <pubDate>Sun, 09 Aug 2026 10:10:48 -0000</pubDate>
+    <description>Reworking the game's lighting system and fixing related bugs</description>
+  </item>
+  <item>
+    <title>Falling blocks spawn manager</title>
+    <link>https://mods.vintagestory.at/show/mod/fallingspawnmanager</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fallingspawnmanager#7777</guid>
+    <pubDate>Sun, 09 Aug 2026 10:06:01 -0000</pubDate>
+    <description>Limits the number of blocks falling at the same time.</description>
+  </item>
+  <item>
+    <title>Use Beeswax instead of Fat</title>
+    <link>https://mods.vintagestory.at/show/mod/usewaxinsteadoffat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/usewaxinsteadoffat#5182</guid>
+    <pubDate>Sun, 09 Aug 2026 10:01:37 -0000</pubDate>
+    <description>I couldn't find the motivation for animal husbandry, but I do have many many bees.</description>
+  </item>
+  <item>
+    <title>Gearlock Firearms</title>
+    <link>https://mods.vintagestory.at/show/mod/10375</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10375#10375</guid>
+    <pubDate>Sun, 09 Aug 2026 09:42:36 -0000</pubDate>
+    <description>Adds firearms powered by the gearlock mechanism</description>
+  </item>
   <item>
     <title>Boric Alchemy</title>
     <link>https://mods.vintagestory.at/show/mod/5577</link>
@@ -32,13 +67,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10872#10872</guid>
     <pubDate>Sun, 09 Aug 2026 08:59:24 -0000</pubDate>
     <description>Allows you to turn all weapon and armor parts back into half of the material used (in bits)</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sun, 09 Aug 2026 08:54:18 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
   <item>
     <title>Animalica - Foxes, Wolves &amp; Hyenas</title>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplay#10488</guid>
     <pubDate>Sun, 09 Aug 2026 06:26:24 -0000</pubDate>
     <description>Improved version of the Window Storage mod, uses Universal Display Lib</description>
-  </item>
-  <item>
-    <title>Universal Display Lib</title>
-    <link>https://mods.vintagestory.at/show/mod/universaldisplaylib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/universaldisplaylib#10487</guid>
-    <pubDate>Sun, 09 Aug 2026 06:25:18 -0000</pubDate>
-    <description>The Lib has changed to be more than just windows so other modders can use it</description>
-  </item>
-  <item>
-    <title>Japanese Horde: Armor</title>
-    <link>https://mods.vintagestory.at/show/mod/japanesehordearmor</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/japanesehordearmor#2187</guid>
-    <pubDate>Sun, 09 Aug 2026 06:07:12 -0000</pubDate>
-    <description>Автор: POBEPT.</description>
-  </item>
-  <item>
-    <title>Frontier Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaims#10871</guid>
-    <pubDate>Sun, 09 Aug 2026 06:02:47 -0000</pubDate>
-    <description>Collect in the frontier, but build and mine only inside personal claims.</description>
-  </item>
-  <item>
-    <title>Fablewood Quests</title>
-    <link>https://mods.vintagestory.at/show/mod/10819</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10819#10819</guid>
-    <pubDate>Sun, 09 Aug 2026 05:56:20 -0000</pubDate>
-    <description>Adds quests for the Fablewood server</description>
   </item>
 </channel>
 </rss>
