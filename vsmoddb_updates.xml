@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 09 Aug 2026 12:55:40 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 13:52:08 +0000</lastBuildDate>
+  <item>
+    <title>Emotes</title>
+    <link>https://mods.vintagestory.at/show/mod/emotes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/emotes#8235</guid>
+    <pubDate>Sun, 09 Aug 2026 13:50:06 -0000</pubDate>
+    <description>Adds more custom emotes to the game.</description>
+  </item>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
+    <pubDate>Sun, 09 Aug 2026 13:15:40 -0000</pubDate>
+    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
+  </item>
+  <item>
+    <title>BetterEr Prospecting</title>
+    <link>https://mods.vintagestory.at/show/mod/bettererprospecting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettererprospecting#4916</guid>
+    <pubDate>Sun, 09 Aug 2026 13:03:58 -0000</pubDate>
+    <description>Altered prospecting experience with focus on reducing randomness</description>
+  </item>
   <item>
     <title>Enriched Panning</title>
     <link>https://mods.vintagestory.at/show/mod/10865</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crlib#7509</guid>
     <pubDate>Sun, 09 Aug 2026 08:40:05 -0000</pubDate>
     <description>Shared library for Catch and Release mods.</description>
-  </item>
-  <item>
-    <title>CZ4-Tech server patches</title>
-    <link>https://mods.vintagestory.at/show/mod/cz4tech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cz4tech#8141</guid>
-    <pubDate>Sun, 09 Aug 2026 08:12:39 -0000</pubDate>
-    <description>Patches and translations for server Tábor -CZ4 server</description>
-  </item>
-  <item>
-    <title>Pirate</title>
-    <link>https://mods.vintagestory.at/show/mod/pirate</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pirate#2599</guid>
-    <pubDate>Sun, 09 Aug 2026 08:01:59 -0000</pubDate>
-    <description>Just simple mod to add Pirate class, Aztec gold coins, Pirate tools.</description>
-  </item>
-  <item>
-    <title>Might&amp;magic Fantasy server patches</title>
-    <link>https://mods.vintagestory.at/show/mod/czsurvivalmm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/czsurvivalmm#4676</guid>
-    <pubDate>Sun, 09 Aug 2026 07:58:49 -0000</pubDate>
-    <description>Patches and translations for server Tábor - Might&amp;magic fantasy server</description>
   </item>
 </channel>
 </rss>
