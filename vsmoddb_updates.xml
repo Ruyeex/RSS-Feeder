@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 09 Aug 2026 15:34:08 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 16:37:58 +0000</lastBuildDate>
+  <item>
+    <title>Tallybook</title>
+    <link>https://mods.vintagestory.at/show/mod/10864</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
+    <pubDate>Sun, 09 Aug 2026 16:31:29 -0000</pubDate>
+    <description>Crafting shopping list, villager quest tracker, and spoiler-free story guide. Fully client-side.</description>
+  </item>
+  <item>
+    <title>GlobalSRVCore</title>
+    <link>https://mods.vintagestory.at/show/mod/globalsrvcore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/globalsrvcore#6670</guid>
+    <pubDate>Sun, 09 Aug 2026 15:58:24 -0000</pubDate>
+    <description>A collection of modified and altered mods for the GlobalSRV project server.</description>
+  </item>
+  <item>
+    <title>Rusty Piligrimm</title>
+    <link>https://mods.vintagestory.at/show/mod/10709</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10709#10709</guid>
+    <pubDate>Sun, 09 Aug 2026 15:56:33 -0000</pubDate>
+    <description>This mod adds a new terrifying enemy to your world.</description>
+  </item>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
+    <pubDate>Sun, 09 Aug 2026 15:42:03 -0000</pubDate>
+    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
+  </item>
   <item>
     <title>Algernon's Watersheds</title>
     <link>https://mods.vintagestory.at/show/mod/algernonswatersheds</link>
@@ -53,13 +81,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/emotes#8235</guid>
     <pubDate>Sun, 09 Aug 2026 13:53:35 -0000</pubDate>
     <description>Adds more custom emotes to the game.</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
-    <pubDate>Sun, 09 Aug 2026 13:15:40 -0000</pubDate>
-    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
   </item>
   <item>
     <title>BetterEr Prospecting</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicafwh#9794</guid>
     <pubDate>Sun, 09 Aug 2026 08:51:20 -0000</pubDate>
     <description>Adds Foxes, Wolves, and Hyenas as player choices!</description>
-  </item>
-  <item>
-    <title>Animalica - Bears</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicab</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicab#9795</guid>
-    <pubDate>Sun, 09 Aug 2026 08:50:59 -0000</pubDate>
-    <description>Adds Bears as player choices</description>
-  </item>
-  <item>
-    <title>Animalica - Small &amp; Odd</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicaso</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaso#9796</guid>
-    <pubDate>Sun, 09 Aug 2026 08:50:44 -0000</pubDate>
-    <description>Adds the small goober animals like raccoons, chickens, and rabbits as players</description>
-  </item>
-  <item>
-    <title>Animalica - Hooved Animals</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicah</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicah#9797</guid>
-    <pubDate>Sun, 09 Aug 2026 08:50:30 -0000</pubDate>
-    <description>Adds all the hooved animals as playable models!</description>
   </item>
 </channel>
 </rss>
