@@ -4,13 +4,48 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 09 Aug 2026 17:33:41 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 18:44:16 +0000</lastBuildDate>
+  <item>
+    <title>Tailored Brigandine: Fork + FSeraph</title>
+    <link>https://mods.vintagestory.at/show/mod/10879</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10879#10879</guid>
+    <pubDate>Sun, 09 Aug 2026 18:34:43 -0000</pubDate>
+    <description>Tailored Brigandine CO 1.22 fork now with Female Seraph support!</description>
+  </item>
+  <item>
+    <title>(Not) Just Tofu</title>
+    <link>https://mods.vintagestory.at/show/mod/justtofu</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justtofu#9542</guid>
+    <pubDate>Sun, 09 Aug 2026 18:23:05 -0000</pubDate>
+    <description>Simple tofu, miso, and tempeh making process for better vegan protein &amp; dairy food and meal options.</description>
+  </item>
+  <item>
+    <title>vanillapackfr</title>
+    <link>https://mods.vintagestory.at/show/mod/vanillapackfr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillapackfr#10821</guid>
+    <pubDate>Sun, 09 Aug 2026 17:45:03 -0000</pubDate>
+    <description>drad for a mdpk</description>
+  </item>
+  <item>
+    <title>Lupines</title>
+    <link>https://mods.vintagestory.at/show/mod/lupines</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lupines#5723</guid>
+    <pubDate>Sun, 09 Aug 2026 17:39:14 -0000</pubDate>
+    <description>Adds playable anthro wolf like player model using Player Model Lib</description>
+  </item>
   <item>
     <title>Frontier's Map</title>
     <link>https://mods.vintagestory.at/show/mod/9227</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9227#9227</guid>
     <pubDate>Sun, 09 Aug 2026 17:33:26 -0000</pubDate>
     <description>Adds a physical map with built-in map maker system, drawing tools and over 130 hand drawn stamps</description>
+  </item>
+  <item>
+    <title>WorldEngine for VS</title>
+    <link>https://mods.vintagestory.at/show/mod/10643</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10643#10643</guid>
+    <pubDate>Sun, 09 Aug 2026 17:33:22 -0000</pubDate>
+    <description>A planet-based world generation pipeline.</description>
   </item>
   <item>
     <title>C4B Traducciones-ES - MODS</title>
@@ -81,13 +116,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/defog#10805</guid>
     <pubDate>Sun, 09 Aug 2026 15:00:39 -0000</pubDate>
     <description>Removes the "distance fog" at the edge of your view distance.</description>
-  </item>
-  <item>
-    <title>vanillapackfr</title>
-    <link>https://mods.vintagestory.at/show/mod/vanillapackfr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillapackfr#10821</guid>
-    <pubDate>Sun, 09 Aug 2026 14:46:15 -0000</pubDate>
-    <description>drad for a mdpk</description>
   </item>
   <item>
     <title>Auto Walk Extended</title>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lumos#10713</guid>
     <pubDate>Sun, 09 Aug 2026 10:10:48 -0000</pubDate>
     <description>Reworking the game's lighting system and fixing related bugs</description>
-  </item>
-  <item>
-    <title>Falling blocks spawn manager</title>
-    <link>https://mods.vintagestory.at/show/mod/fallingspawnmanager</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fallingspawnmanager#7777</guid>
-    <pubDate>Sun, 09 Aug 2026 10:06:01 -0000</pubDate>
-    <description>Limits the number of blocks falling at the same time.</description>
-  </item>
-  <item>
-    <title>Use Beeswax instead of Fat</title>
-    <link>https://mods.vintagestory.at/show/mod/usewaxinsteadoffat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/usewaxinsteadoffat#5182</guid>
-    <pubDate>Sun, 09 Aug 2026 10:01:37 -0000</pubDate>
-    <description>I couldn't find the motivation for animal husbandry, but I do have many many bees.</description>
-  </item>
-  <item>
-    <title>Gearlock Firearms</title>
-    <link>https://mods.vintagestory.at/show/mod/10375</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10375#10375</guid>
-    <pubDate>Sun, 09 Aug 2026 09:42:36 -0000</pubDate>
-    <description>Adds firearms powered by the gearlock mechanism</description>
-  </item>
-  <item>
-    <title>The Almanac: Illuminated</title>
-    <link>https://mods.vintagestory.at/show/mod/10454</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10454#10454</guid>
-    <pubDate>Sun, 09 Aug 2026 09:09:33 -0000</pubDate>
-    <description>A living questbook opened with Alt+J. Chapters appear only for the mods you have loaded.</description>
   </item>
 </channel>
 </rss>
