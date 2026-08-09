@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 09 Aug 2026 21:34:36 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 22:33:22 +0000</lastBuildDate>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sun, 09 Aug 2026 22:06:38 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Better Loot Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/blp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blp#10873</guid>
+    <pubDate>Sun, 09 Aug 2026 21:49:19 -0000</pubDate>
+    <description>Configurable Better loot from hostile entities like Drifters, Shivers, Bowtorns</description>
+  </item>
+  <item>
+    <title>skincustomizationgul</title>
+    <link>https://mods.vintagestory.at/show/mod/10891</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10891#10891</guid>
+    <pubDate>Sun, 09 Aug 2026 21:39:40 -0000</pubDate>
+    <description>Expanded skin, eye, and hair colors, packaged for required multiplayer use</description>
+  </item>
+  <item>
+    <title>Simple Voice Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
+    <pubDate>Sun, 09 Aug 2026 21:38:50 -0000</pubDate>
+    <description>A  voice chat mod designed for multiplayer servers and civilization simulation events</description>
+  </item>
   <item>
     <title>Historical Armory: Warlords and Warchiefs</title>
     <link>https://mods.vintagestory.at/show/mod/hawarlords</link>
@@ -60,13 +88,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clotheshavepockets#10218</guid>
     <pubDate>Sun, 09 Aug 2026 20:35:39 -0000</pubDate>
     <description>Adds pockets (inventory slots) to various clothing items</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Sun, 09 Aug 2026 20:35:35 -0000</pubDate>
-    <description>A  voice chat mod designed for multiplayer servers and civilization simulation events</description>
   </item>
   <item>
     <title>Traits and Classes lib</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
     <pubDate>Sun, 09 Aug 2026 17:22:35 -0000</pubDate>
     <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>Wool 🙵 More</title>
-    <link>https://mods.vintagestory.at/show/mod/wool</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wool#2447</guid>
-    <pubDate>Sun, 09 Aug 2026 16:41:49 -0000</pubDate>
-    <description>Harvest, process, trade and craft with animal fleece and wool.</description>
-  </item>
-  <item>
-    <title>Tallybook</title>
-    <link>https://mods.vintagestory.at/show/mod/10864</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
-    <pubDate>Sun, 09 Aug 2026 16:31:29 -0000</pubDate>
-    <description>Crafting shopping list, villager quest tracker, and spoiler-free story guide. Fully client-side.</description>
-  </item>
-  <item>
-    <title>GlobalSRVCore</title>
-    <link>https://mods.vintagestory.at/show/mod/globalsrvcore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/globalsrvcore#6670</guid>
-    <pubDate>Sun, 09 Aug 2026 15:58:24 -0000</pubDate>
-    <description>A collection of modified and altered mods for the GlobalSRV project server.</description>
   </item>
 </channel>
 </rss>
