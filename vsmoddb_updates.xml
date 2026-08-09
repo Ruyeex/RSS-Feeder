@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 09 Aug 2026 03:45:22 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 05:07:46 +0000</lastBuildDate>
+  <item>
+    <title>Salty´s Immersive: Light</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivelight</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivelight#10075</guid>
+    <pubDate>Sun, 09 Aug 2026 05:02:36 -0000</pubDate>
+    <description>Makes block light respect walls and closed barriers.</description>
+  </item>
+  <item>
+    <title>Hunting Knife Sheath Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/huntingknifequiverscompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/huntingknifequiverscompat#10867</guid>
+    <pubDate>Sun, 09 Aug 2026 05:00:31 -0000</pubDate>
+    <description>Makes Hunting Knife display properly inside knife sheaths from Quivers and Sheaths Fork.</description>
+  </item>
+  <item>
+    <title>Tallybook</title>
+    <link>https://mods.vintagestory.at/show/mod/10864</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
+    <pubDate>Sun, 09 Aug 2026 04:49:42 -0000</pubDate>
+    <description>Crafting shopping list, villager quest tracker, and spoiler-free story guide. Fully client-side.</description>
+  </item>
+  <item>
+    <title>Terra Loom</title>
+    <link>https://mods.vintagestory.at/show/mod/10546</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10546#10546</guid>
+    <pubDate>Sun, 09 Aug 2026 03:59:05 -0000</pubDate>
+    <description>Replaces vanilla terrain/climate generation with a self-contained, embedded AI diffusion model.</description>
+  </item>
   <item>
     <title>Universal Wool Clothing Compatibility</title>
     <link>https://mods.vintagestory.at/show/mod/universalwoolclothingcompat</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hawarlords#9245</guid>
     <pubDate>Sat, 08 Aug 2026 20:39:31 -0000</pubDate>
     <description>A collection of equipment from the North/South American and African continents.</description>
-  </item>
-  <item>
-    <title>Armory: Core</title>
-    <link>https://mods.vintagestory.at/show/mod/hacore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hacore#9243</guid>
-    <pubDate>Sat, 08 Aug 2026 20:36:10 -0000</pubDate>
-    <description>A collection of items to be used in crafting recipes for Historical Weaponry mods.</description>
-  </item>
-  <item>
-    <title>Alchemical Refinement</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemicalrefinement</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemicalrefinement#3173</guid>
-    <pubDate>Sat, 08 Aug 2026 19:49:31 -0000</pubDate>
-    <description>A mod that lets you refine ore using the Alchemical Process</description>
-  </item>
-  <item>
-    <title>Tallybook</title>
-    <link>https://mods.vintagestory.at/show/mod/10864</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
-    <pubDate>Sat, 08 Aug 2026 19:32:34 -0000</pubDate>
-    <description>Crafting shopping list + villager quest tracker: live counts, map pins, HUD. Fully client-side.</description>
-  </item>
-  <item>
-    <title>Animalica Core</title>
-    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
-    <pubDate>Sat, 08 Aug 2026 19:13:55 -0000</pubDate>
-    <description>Core mod for playable animals. Does nothing on it's own</description>
   </item>
 </channel>
 </rss>
