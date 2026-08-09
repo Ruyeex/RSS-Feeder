@@ -4,12 +4,33 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 09 Aug 2026 14:36:56 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 15:34:08 +0000</lastBuildDate>
+  <item>
+    <title>Algernon's Watersheds</title>
+    <link>https://mods.vintagestory.at/show/mod/algernonswatersheds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/algernonswatersheds#7286</guid>
+    <pubDate>Sun, 09 Aug 2026 15:19:00 -0000</pubDate>
+    <description>Worldgen revamp using a Watershed model. Adds meandering streams, groundwater, and erosion</description>
+  </item>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Sun, 09 Aug 2026 15:05:41 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
+  <item>
+    <title>Defog</title>
+    <link>https://mods.vintagestory.at/show/mod/defog</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/defog#10805</guid>
+    <pubDate>Sun, 09 Aug 2026 15:00:39 -0000</pubDate>
+    <description>Removes the "distance fog" at the edge of your view distance.</description>
+  </item>
   <item>
     <title>vanillapackfr</title>
     <link>https://mods.vintagestory.at/show/mod/vanillapackfr</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillapackfr#10821</guid>
-    <pubDate>Sun, 09 Aug 2026 14:23:52 -0000</pubDate>
+    <pubDate>Sun, 09 Aug 2026 14:46:15 -0000</pubDate>
     <description>drad for a mdpk</description>
   </item>
   <item>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicah#9797</guid>
     <pubDate>Sun, 09 Aug 2026 08:50:30 -0000</pubDate>
     <description>Adds all the hooved animals as playable models!</description>
-  </item>
-  <item>
-    <title>Animalica - Compatibility pack 1</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicac</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicac#9798</guid>
-    <pubDate>Sun, 09 Aug 2026 08:49:30 -0000</pubDate>
-    <description>Adds a small list of modded animals as players!</description>
-  </item>
-  <item>
-    <title>Animalica - Compatibility pack 2: (FotSA)</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicafotsa</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicafotsa#10561</guid>
-    <pubDate>Sun, 09 Aug 2026 08:49:09 -0000</pubDate>
-    <description>Adds clothing-capable playable models for six Fauna of the Stone Age modules</description>
-  </item>
-  <item>
-    <title>Animalica - Compatibility Pack 3 (Dinosaurs)</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicadinos</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicadinos#10562</guid>
-    <pubDate>Sun, 09 Aug 2026 08:48:39 -0000</pubDate>
-    <description>Adds clothing-capable playable dinosaurs and marine reptiles from Legacy of the Phanerozoic modules</description>
   </item>
 </channel>
 </rss>
