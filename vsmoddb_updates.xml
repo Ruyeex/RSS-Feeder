@@ -4,20 +4,76 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 09 Aug 2026 05:07:46 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 06:59:53 +0000</lastBuildDate>
+  <item>
+    <title>Window Display</title>
+    <link>https://mods.vintagestory.at/show/mod/windowdisplay</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplay#10488</guid>
+    <pubDate>Sun, 09 Aug 2026 06:26:24 -0000</pubDate>
+    <description>Improved version of the Window Storage mod, uses Universal Display Lib</description>
+  </item>
+  <item>
+    <title>Universal Display Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/universaldisplaylib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/universaldisplaylib#10487</guid>
+    <pubDate>Sun, 09 Aug 2026 06:25:18 -0000</pubDate>
+    <description>The Lib has changed to be more than just windows so other modders can use it</description>
+  </item>
+  <item>
+    <title>Japanese Horde: Armor</title>
+    <link>https://mods.vintagestory.at/show/mod/japanesehordearmor</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/japanesehordearmor#2187</guid>
+    <pubDate>Sun, 09 Aug 2026 06:07:12 -0000</pubDate>
+    <description>Автор: POBEPT.</description>
+  </item>
+  <item>
+    <title>Frontier Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaims#10871</guid>
+    <pubDate>Sun, 09 Aug 2026 06:02:47 -0000</pubDate>
+    <description>Collect in the frontier, but build and mine only inside personal claims.</description>
+  </item>
+  <item>
+    <title>Fablewood Quests</title>
+    <link>https://mods.vintagestory.at/show/mod/10819</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10819#10819</guid>
+    <pubDate>Sun, 09 Aug 2026 05:56:20 -0000</pubDate>
+    <description>Adds quests for the Fablewood server</description>
+  </item>
+  <item>
+    <title>Hunting Knife Sheath Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/huntingknifequiverscompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/huntingknifequiverscompat#10867</guid>
+    <pubDate>Sun, 09 Aug 2026 05:56:03 -0000</pubDate>
+    <description>Makes Hunting Knife display properly inside knife sheaths from Quivers and Sheaths Fork.</description>
+  </item>
+  <item>
+    <title>Fablewood Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Sun, 09 Aug 2026 05:55:02 -0000</pubDate>
+    <description>Skill and class mod for the Fablewood server</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Sun, 09 Aug 2026 05:41:39 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
+  <item>
+    <title>AoSCeramos</title>
+    <link>https://mods.vintagestory.at/show/mod/aosceramos</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aosceramos#10869</guid>
+    <pubDate>Sun, 09 Aug 2026 05:26:34 -0000</pubDate>
+    <description>Ceramic Tile mod for floors and walls</description>
+  </item>
   <item>
     <title>Salty´s Immersive: Light</title>
     <link>https://mods.vintagestory.at/show/mod/immersivelight</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivelight#10075</guid>
     <pubDate>Sun, 09 Aug 2026 05:02:36 -0000</pubDate>
     <description>Makes block light respect walls and closed barriers.</description>
-  </item>
-  <item>
-    <title>Hunting Knife Sheath Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/huntingknifequiverscompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/huntingknifequiverscompat#10867</guid>
-    <pubDate>Sun, 09 Aug 2026 05:00:31 -0000</pubDate>
-    <description>Makes Hunting Knife display properly inside knife sheaths from Quivers and Sheaths Fork.</description>
   </item>
   <item>
     <title>Tallybook</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/algernonswatersheds#7286</guid>
     <pubDate>Sat, 08 Aug 2026 22:41:43 -0000</pubDate>
     <description>Worldgen revamp using a Watershed model. Adds meandering streams, groundwater, and erosion</description>
-  </item>
-  <item>
-    <title>Seraph Atelier - Player Model Lib</title>
-    <link>https://mods.vintagestory.at/show/mod/seraphatelier</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphatelier#10276</guid>
-    <pubDate>Sat, 08 Aug 2026 21:39:27 -0000</pubDate>
-    <description>Look cute while you do pottery, starve, and get hunted by horrors beyond comprehension!</description>
-  </item>
-  <item>
-    <title>Traits and Classes lib</title>
-    <link>https://mods.vintagestory.at/show/mod/traitsandclasseslib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traitsandclasseslib#9575</guid>
-    <pubDate>Sat, 08 Aug 2026 21:30:09 -0000</pubDate>
-    <description>Framework for adding interconnected classes</description>
-  </item>
-  <item>
-    <title>Custom Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10378</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
-    <pubDate>Sat, 08 Aug 2026 21:26:18 -0000</pubDate>
-    <description>A collection of tweaks for our private server.</description>
-  </item>
-  <item>
-    <title>Fablewood Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/10778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
-    <pubDate>Sat, 08 Aug 2026 21:19:02 -0000</pubDate>
-    <description>Skill and class mod for the Fablewood server</description>
-  </item>
-  <item>
-    <title>Fablewood Quests</title>
-    <link>https://mods.vintagestory.at/show/mod/10819</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10819#10819</guid>
-    <pubDate>Sat, 08 Aug 2026 21:18:19 -0000</pubDate>
-    <description>Adds quests for the Fablewood server</description>
-  </item>
-  <item>
-    <title>IndustrialStory</title>
-    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
-    <pubDate>Sat, 08 Aug 2026 20:58:34 -0000</pubDate>
-    <description>Overhauls metalworking, chemistry, and glassworking. </description>
-  </item>
-  <item>
-    <title>Peat for Charcoal</title>
-    <link>https://mods.vintagestory.at/show/mod/peatforcharcoal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/peatforcharcoal#10384</guid>
-    <pubDate>Sat, 08 Aug 2026 20:40:30 -0000</pubDate>
-    <description>Allows using peat bricks as a substitute for firewood + changes to Peat piles.</description>
-  </item>
-  <item>
-    <title>Historical Armory: Warlords and Warchiefs</title>
-    <link>https://mods.vintagestory.at/show/mod/hawarlords</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hawarlords#9245</guid>
-    <pubDate>Sat, 08 Aug 2026 20:39:31 -0000</pubDate>
-    <description>A collection of equipment from the North/South American and African continents.</description>
   </item>
 </channel>
 </rss>
