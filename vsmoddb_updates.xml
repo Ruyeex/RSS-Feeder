@@ -4,13 +4,55 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 09 Aug 2026 22:33:22 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 23:33:11 +0000</lastBuildDate>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Sun, 09 Aug 2026 23:27:29 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Steelmaking Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/smex</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smex#9254</guid>
+    <pubDate>Sun, 09 Aug 2026 23:16:11 -0000</pubDate>
+    <description>Industrial iron and steel production using Blast Furnace and Bessemer process!</description>
+  </item>
+  <item>
+    <title>Pipes and Power Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/ppex</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ppex#9568</guid>
+    <pubDate>Sun, 09 Aug 2026 23:15:59 -0000</pubDate>
+    <description>Pipe network and modular steam power machinery!</description>
+  </item>
+  <item>
+    <title>Expanded Library</title>
+    <link>https://mods.vintagestory.at/show/mod/exlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/exlib#9564</guid>
+    <pubDate>Sun, 09 Aug 2026 23:15:47 -0000</pubDate>
+    <description>Shared framework library for the Fallenstar's Expanded mods.</description>
+  </item>
+  <item>
+    <title>neobit Vintage Server</title>
+    <link>https://mods.vintagestory.at/show/mod/5161</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5161#5161</guid>
+    <pubDate>Sun, 09 Aug 2026 22:52:27 -0000</pubDate>
+    <description>Collection of tweaks for the neobit server and playthrough.</description>
+  </item>
   <item>
     <title>Solaria's Solace Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/10706</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sun, 09 Aug 2026 22:06:38 -0000</pubDate>
+    <pubDate>Sun, 09 Aug 2026 22:41:49 -0000</pubDate>
     <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Tailored Brigandine: Fork + FSeraph</title>
+    <link>https://mods.vintagestory.at/show/mod/10879</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10879#10879</guid>
+    <pubDate>Sun, 09 Aug 2026 22:34:33 -0000</pubDate>
+    <description>Tailored Brigandine CO 1.22 fork now with Female Seraph support!</description>
   </item>
   <item>
     <title>Better Loot Plus</title>
@@ -125,13 +167,6 @@
     <description>Adds an amphithere dragon species to the world.</description>
   </item>
   <item>
-    <title>neobit Vintage Server</title>
-    <link>https://mods.vintagestory.at/show/mod/5161</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5161#5161</guid>
-    <pubDate>Sun, 09 Aug 2026 19:39:08 -0000</pubDate>
-    <description>Collection of tweaks for the neobit server and playthrough.</description>
-  </item>
-  <item>
     <title>Downed</title>
     <link>https://mods.vintagestory.at/show/mod/downed</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
@@ -167,13 +202,6 @@
     <description>Many shiny jewelry</description>
   </item>
   <item>
-    <title>Tailored Brigandine: Fork + FSeraph</title>
-    <link>https://mods.vintagestory.at/show/mod/10879</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10879#10879</guid>
-    <pubDate>Sun, 09 Aug 2026 18:34:43 -0000</pubDate>
-    <description>Tailored Brigandine CO 1.22 fork now with Female Seraph support!</description>
-  </item>
-  <item>
     <title>(Not) Just Tofu</title>
     <link>https://mods.vintagestory.at/show/mod/justtofu</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justtofu#9542</guid>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillapackfr#10821</guid>
     <pubDate>Sun, 09 Aug 2026 17:45:03 -0000</pubDate>
     <description>drad for a mdpk</description>
-  </item>
-  <item>
-    <title>Frontier's Map</title>
-    <link>https://mods.vintagestory.at/show/mod/9227</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9227#9227</guid>
-    <pubDate>Sun, 09 Aug 2026 17:33:26 -0000</pubDate>
-    <description>Adds a physical map with built-in map maker system, drawing tools and over 130 hand drawn stamps</description>
-  </item>
-  <item>
-    <title>WorldEngine for VS Toolkit</title>
-    <link>https://mods.vintagestory.at/show/mod/10643</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10643#10643</guid>
-    <pubDate>Sun, 09 Aug 2026 17:33:22 -0000</pubDate>
-    <description>A planet-based world generation pipeline.</description>
-  </item>
-  <item>
-    <title>C4B Traducciones-ES - MODS</title>
-    <link>https://mods.vintagestory.at/show/mod/c4btraduccionesmods</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/c4btraduccionesmods#2720</guid>
-    <pubDate>Sun, 09 Aug 2026 17:32:44 -0000</pubDate>
-    <description>Traducción de Mods en Español-ES</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Sun, 09 Aug 2026 17:22:35 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
   </item>
 </channel>
 </rss>
