@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 09 Aug 2026 11:31:05 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 12:55:40 +0000</lastBuildDate>
+  <item>
+    <title>Enriched Panning</title>
+    <link>https://mods.vintagestory.at/show/mod/10865</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10865#10865</guid>
+    <pubDate>Sun, 09 Aug 2026 12:28:26 -0000</pubDate>
+    <description>Diversifies panning loot by rock type and method, plus a craftable automated river sluice.</description>
+  </item>
+  <item>
+    <title>Metal Bowls and Pots (Bigger Bowls)</title>
+    <link>https://mods.vintagestory.at/show/mod/metalbowlsandpots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalbowlsandpots#10766</guid>
+    <pubDate>Sun, 09 Aug 2026 12:01:15 -0000</pubDate>
+    <description>Adds metal bowls and pots that hold more food, cook faster, and reduce food decay.</description>
+  </item>
+  <item>
+    <title>Hexis (Beta)</title>
+    <link>https://mods.vintagestory.at/show/mod/hexis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexis#10623</guid>
+    <pubDate>Sun, 09 Aug 2026 11:52:40 -0000</pubDate>
+    <description>A tactical, stance-based combat system of mass and momentum, Focus-built for VS' harsh reality</description>
+  </item>
+  <item>
+    <title>Better Loot Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/blp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blp#10873</guid>
+    <pubDate>Sun, 09 Aug 2026 11:45:55 -0000</pubDate>
+    <description>Configurable Better loot from hostile entities like Drifters, Shivers, Bowtorns</description>
+  </item>
   <item>
     <title>Tweakfactory</title>
     <link>https://mods.vintagestory.at/show/mod/tweakfactory</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/czsurvivalmm#4676</guid>
     <pubDate>Sun, 09 Aug 2026 07:58:49 -0000</pubDate>
     <description>Patches and translations for server Tábor - Might&amp;magic fantasy server</description>
-  </item>
-  <item>
-    <title>Mod for Skyblock server</title>
-    <link>https://mods.vintagestory.at/show/mod/skyone</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skyone#2831</guid>
-    <pubDate>Sun, 09 Aug 2026 07:55:58 -0000</pubDate>
-    <description>Mod tailored for public Multiplayer Skyblock Economy server. --&gt;&gt; www.vintagestory.cz/skyblock</description>
-  </item>
-  <item>
-    <title>TaborServers</title>
-    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
-    <pubDate>Sun, 09 Aug 2026 07:47:43 -0000</pubDate>
-    <description>Patches fo most of Tabor servers</description>
-  </item>
-  <item>
-    <title>Caves N Caverns</title>
-    <link>https://mods.vintagestory.at/show/mod/cavesncaverns</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cavesncaverns#1700</guid>
-    <pubDate>Sun, 09 Aug 2026 07:45:56 -0000</pubDate>
-    <description>A simple Mod that expands all underground caves! No more spaghetti like caves.</description>
-  </item>
-  <item>
-    <title>Hover Info</title>
-    <link>https://mods.vintagestory.at/show/mod/hoverinfo</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hoverinfo#10792</guid>
-    <pubDate>Sun, 09 Aug 2026 07:31:44 -0000</pubDate>
-    <description>A mod made for the Paw server to see the information of player held items also linkable to chat</description>
   </item>
 </channel>
 </rss>
