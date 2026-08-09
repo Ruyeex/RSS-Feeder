@@ -4,13 +4,62 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 08 Aug 2026 23:31:26 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 01:54:30 +0000</lastBuildDate>
+  <item>
+    <title>Temporals Reformed LITE</title>
+    <link>https://mods.vintagestory.at/show/mod/6178</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6178#6178</guid>
+    <pubDate>Sun, 09 Aug 2026 01:47:30 -0000</pubDate>
+    <description>Lighter version of the Temporals Reformed mod that ONLY includes behavior changes.</description>
+  </item>
+  <item>
+    <title>Temporals Reformed - An Enemy Behavior Overhaul</title>
+    <link>https://mods.vintagestory.at/show/mod/4729</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4729#4729</guid>
+    <pubDate>Sun, 09 Aug 2026 01:46:38 -0000</pubDate>
+    <description>Overhauls enemies to be more individually imposing and unpredictable, yet fewer in numbers.</description>
+  </item>
   <item>
     <title>Terra Prety</title>
     <link>https://mods.vintagestory.at/show/mod/terraprety</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/terraprety#2347</guid>
-    <pubDate>Sat, 08 Aug 2026 23:28:58 -0000</pubDate>
+    <pubDate>Sun, 09 Aug 2026 01:13:00 -0000</pubDate>
     <description>A redesign of worldgen to feel more natural, beautiful and enjoyable to traverse. By Nephelangelo.</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sun, 09 Aug 2026 00:46:36 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Voices of Equestria (+Shiro's Voice fork)</title>
+    <link>https://mods.vintagestory.at/show/mod/voicesofequestria</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/voicesofequestria#10866</guid>
+    <pubDate>Sun, 09 Aug 2026 00:21:32 -0000</pubDate>
+    <description>Adds 5 new MLPg4-style voices + fork of 7 voices from Shiro's Voice for use with kemono</description>
+  </item>
+  <item>
+    <title>Primitive Tools Updated</title>
+    <link>https://mods.vintagestory.at/show/mod/primitivetoolsupdated</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/primitivetoolsupdated#8625</guid>
+    <pubDate>Sun, 09 Aug 2026 00:13:32 -0000</pubDate>
+    <description>Primitive Tools Updated is an updated version of Primitive Tools.</description>
+  </item>
+  <item>
+    <title>Jelly Bundle</title>
+    <link>https://mods.vintagestory.at/show/mod/10059</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10059#10059</guid>
+    <pubDate>Sat, 08 Aug 2026 23:41:41 -0000</pubDate>
+    <description>A compilation of tweaks for the Swamp Jelly server.</description>
+  </item>
+  <item>
+    <title>TaborServers</title>
+    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
+    <pubDate>Sat, 08 Aug 2026 23:39:21 -0000</pubDate>
+    <description>Patches fo most of Tabor servers</description>
   </item>
   <item>
     <title>CZ4-Tech server patches</title>
@@ -104,13 +153,6 @@
     <description>A collection of equipment from the North/South American and African continents.</description>
   </item>
   <item>
-    <title>TaborServers</title>
-    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
-    <pubDate>Sat, 08 Aug 2026 20:38:58 -0000</pubDate>
-    <description>Patches fo most of Tabor servers</description>
-  </item>
-  <item>
     <title>Armory: Core</title>
     <link>https://mods.vintagestory.at/show/mod/hacore</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hacore#9243</guid>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10760#10760</guid>
     <pubDate>Sat, 08 Aug 2026 17:32:26 -0000</pubDate>
     <description>Client-side bulk waypoint manager for Vintage Story</description>
-  </item>
-  <item>
-    <title>TITANHEIMR EYES</title>
-    <link>https://mods.vintagestory.at/show/mod/theyes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/theyes#9559</guid>
-    <pubDate>Sat, 08 Aug 2026 17:31:55 -0000</pubDate>
-    <description>Twenty four of the best eye colors from the TITANHEIMR server.</description>
-  </item>
-  <item>
-    <title>The Ultimate Mod Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/10348</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10348#10348</guid>
-    <pubDate>Sat, 08 Aug 2026 17:24:17 -0000</pubDate>
-    <description>An in-game mod manager that's suitable even for remote servers without terminal/FTP access.</description>
-  </item>
-  <item>
-    <title>mapteleporter</title>
-    <link>https://mods.vintagestory.at/show/mod/8424</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8424#8424</guid>
-    <pubDate>Sat, 08 Aug 2026 16:59:16 -0000</pubDate>
-    <description>Map Teleporter</description>
-  </item>
-  <item>
-    <title>Compress Proxy</title>
-    <link>https://mods.vintagestory.at/show/mod/compressproxy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/compressproxy#10860</guid>
-    <pubDate>Sat, 08 Aug 2026 16:56:23 -0000</pubDate>
-    <description>Optional dual-end transport compression for TCP and UDP</description>
-  </item>
-  <item>
-    <title>Wind Vanes &amp; Randomized Winds</title>
-    <link>https://mods.vintagestory.at/show/mod/windvanes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windvanes#9414</guid>
-    <pubDate>Sat, 08 Aug 2026 16:01:56 -0000</pubDate>
-    <description>Wind vanes that rotate to face the wind direction and spins its rotator based on wind speed.</description>
-  </item>
-  <item>
-    <title>Real Smoke &amp; Braziers patch</title>
-    <link>https://mods.vintagestory.at/show/mod/realsmokeforbraziers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmokeforbraziers#5073</guid>
-    <pubDate>Sat, 08 Aug 2026 15:58:01 -0000</pubDate>
-    <description>Compatibility patch for Real Smoke &amp; Braziers</description>
   </item>
 </channel>
 </rss>
