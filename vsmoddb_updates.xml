@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 10 Aug 2026 21:43:19 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 22:39:40 +0000</lastBuildDate>
+  <item>
+    <title>Involved Farming: Fallow</title>
+    <link>https://mods.vintagestory.at/show/mod/10691</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10691#10691</guid>
+    <pubDate>Mon, 10 Aug 2026 22:35:55 -0000</pubDate>
+    <description>Adds fallow- an additional, immersive step between harvested and sowed farmland.</description>
+  </item>
+  <item>
+    <title>Fablewood Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
+    <pubDate>Mon, 10 Aug 2026 22:34:11 -0000</pubDate>
+    <description>JSON content patches</description>
+  </item>
+  <item>
+    <title>Fablewood Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Mon, 10 Aug 2026 22:33:08 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
+  <item>
+    <title>Fablewood Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Mon, 10 Aug 2026 22:32:15 -0000</pubDate>
+    <description>Skill and class mod for the Fablewood server</description>
+  </item>
+  <item>
+    <title>NDL Villagers</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlvillagers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlvillagers#3429</guid>
+    <pubDate>Mon, 10 Aug 2026 22:13:33 -0000</pubDate>
+    <description>Adds Villagers/Guards/Clerics to populate your builds and also a way to get traders in your builds!</description>
+  </item>
+  <item>
+    <title>Hooked On Hydro</title>
+    <link>https://mods.vintagestory.at/show/mod/10803</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10803#10803</guid>
+    <pubDate>Mon, 10 Aug 2026 22:08:48 -0000</pubDate>
+    <description>Hooked On Hydro </description>
+  </item>
+  <item>
+    <title>Antique Harmony | Music Additions / Alternative Soundtrack</title>
+    <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiqueharmony#7141</guid>
+    <pubDate>Mon, 10 Aug 2026 22:03:34 -0000</pubDate>
+    <description>Adds to/replaces soundtrack with original orchestral one, written for the game.</description>
+  </item>
+  <item>
+    <title>Vein Miner Revamp</title>
+    <link>https://mods.vintagestory.at/show/mod/veinminerrevamp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/veinminerrevamp#9516</guid>
+    <pubDate>Mon, 10 Aug 2026 21:52:08 -0000</pubDate>
+    <description>Hold sneak while breaking an ore to mine the entire connected vein at once. </description>
+  </item>
+  <item>
+    <title>ChunkLOD</title>
+    <link>https://mods.vintagestory.at/show/mod/chunklod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chunklod#7929</guid>
+    <pubDate>Mon, 10 Aug 2026 21:48:38 -0000</pubDate>
+    <description>A Heavily Modified Fork of Farseer, representing terrain, rock type, forestation, and water as LOD's</description>
+  </item>
   <item>
     <title>Ambien's Easy Chunk Claim</title>
     <link>https://mods.vintagestory.at/show/mod/9368</link>
@@ -39,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10231#10231</guid>
     <pubDate>Mon, 10 Aug 2026 20:27:33 -0000</pubDate>
     <description>A very niche addition to Primitive Survival.</description>
-  </item>
-  <item>
-    <title>Antique Harmony | Music Additions / Alternative Soundtrack</title>
-    <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiqueharmony#7141</guid>
-    <pubDate>Mon, 10 Aug 2026 20:07:03 -0000</pubDate>
-    <description>Adds to/replaces soundtrack with original orchestral one, written for the game.</description>
   </item>
   <item>
     <title>C&amp;N Events</title>
@@ -125,13 +181,6 @@
     <description>Storage Drawers functionality in VS!</description>
   </item>
   <item>
-    <title>Hooked On Hydro</title>
-    <link>https://mods.vintagestory.at/show/mod/10803</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10803#10803</guid>
-    <pubDate>Mon, 10 Aug 2026 18:19:07 -0000</pubDate>
-    <description>Hooked On Hydro </description>
-  </item>
-  <item>
     <title>Lumos</title>
     <link>https://mods.vintagestory.at/show/mod/lumos</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lumos#10713</guid>
@@ -153,13 +202,6 @@
     <description>Late-game Tech and automation mod.</description>
   </item>
   <item>
-    <title>NDL Villagers</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlvillagers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlvillagers#3429</guid>
-    <pubDate>Mon, 10 Aug 2026 17:51:41 -0000</pubDate>
-    <description>Adds Villagers/Guards/Clerics to populate your builds and also a way to get traders in your builds!</description>
-  </item>
-  <item>
     <title>Forgotten Armory: Greenwich style</title>
     <link>https://mods.vintagestory.at/show/mod/4321</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4321#4321</guid>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
     <pubDate>Mon, 10 Aug 2026 17:24:35 -0000</pubDate>
     <description>Crafting shopping list, villager quest tracker, and spoiler-free story guide. Fully client-side.</description>
-  </item>
-  <item>
-    <title>Better Loot Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/blp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blp#10873</guid>
-    <pubDate>Mon, 10 Aug 2026 17:20:14 -0000</pubDate>
-    <description>Configurable Better loot from hostile entities like Drifters, Shivers, Bowtorns</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Mon, 10 Aug 2026 16:38:01 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Frontier Claims Map</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
-    <pubDate>Mon, 10 Aug 2026 16:26:56 -0000</pubDate>
-    <description>Claim map and access controls for internal testing on a private server.</description>
-  </item>
-  <item>
-    <title>Dead</title>
-    <link>https://mods.vintagestory.at/show/mod/dead</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
-    <pubDate>Mon, 10 Aug 2026 15:52:29 -0000</pubDate>
-    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
-  </item>
-  <item>
-    <title>Fablewood Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Mon, 10 Aug 2026 15:43:41 -0000</pubDate>
-    <description>Harmony patches for compatibility.</description>
-  </item>
-  <item>
-    <title>VS Village</title>
-    <link>https://mods.vintagestory.at/show/mod/vsvillage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsvillage#586</guid>
-    <pubDate>Mon, 10 Aug 2026 15:35:26 -0000</pubDate>
-    <description>Adds villages and villagers to the world.</description>
   </item>
 </channel>
 </rss>
