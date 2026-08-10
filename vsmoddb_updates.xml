@@ -4,20 +4,62 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 10 Aug 2026 17:53:24 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 19:00:11 +0000</lastBuildDate>
+  <item>
+    <title> No Traits Required</title>
+    <link>https://mods.vintagestory.at/show/mod/10915</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10915#10915</guid>
+    <pubDate>Mon, 10 Aug 2026 18:58:39 -0000</pubDate>
+    <description>Removes all trait grid crafting requirements</description>
+  </item>
+  <item>
+    <title>vintagedrawers</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagedrawers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagedrawers#10914</guid>
+    <pubDate>Mon, 10 Aug 2026 18:51:58 -0000</pubDate>
+    <description>Storage Drawers functionality in VS!</description>
+  </item>
+  <item>
+    <title>Hooked On Hydro</title>
+    <link>https://mods.vintagestory.at/show/mod/10803</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10803#10803</guid>
+    <pubDate>Mon, 10 Aug 2026 18:19:07 -0000</pubDate>
+    <description>Hooked On Hydro </description>
+  </item>
+  <item>
+    <title>Lumos</title>
+    <link>https://mods.vintagestory.at/show/mod/lumos</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lumos#10713</guid>
+    <pubDate>Mon, 10 Aug 2026 18:15:43 -0000</pubDate>
+    <description>Reworking the game's lighting system and fixing related bugs</description>
+  </item>
+  <item>
+    <title>VoteGui</title>
+    <link>https://mods.vintagestory.at/show/mod/votegui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/votegui#10547</guid>
+    <pubDate>Mon, 10 Aug 2026 18:08:06 -0000</pubDate>
+    <description>Vote gui for vsserverlist.com</description>
+  </item>
+  <item>
+    <title>TaborServers</title>
+    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
+    <pubDate>Mon, 10 Aug 2026 18:02:34 -0000</pubDate>
+    <description>Patches fo most of Tabor servers</description>
+  </item>
+  <item>
+    <title>Vintage Engineering</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageengineering</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageengineering#1978</guid>
+    <pubDate>Mon, 10 Aug 2026 18:01:05 -0000</pubDate>
+    <description>Late-game Tech and automation mod.</description>
+  </item>
   <item>
     <title>NDL Villagers</title>
     <link>https://mods.vintagestory.at/show/mod/ndlvillagers</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlvillagers#3429</guid>
     <pubDate>Mon, 10 Aug 2026 17:51:41 -0000</pubDate>
     <description>Adds Villagers/Guards/Clerics to populate your builds and also a way to get traders in your builds!</description>
-  </item>
-  <item>
-    <title>Hooked On Hydro</title>
-    <link>https://mods.vintagestory.at/show/mod/10803</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10803#10803</guid>
-    <pubDate>Mon, 10 Aug 2026 17:41:07 -0000</pubDate>
-    <description>Hooked On Hydro </description>
   </item>
   <item>
     <title>Forgotten Armory: Greenwich style</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7205#7205</guid>
     <pubDate>Mon, 10 Aug 2026 11:50:31 -0000</pubDate>
     <description>A small mod to add Basic Capes for remaining season of COT.</description>
-  </item>
-  <item>
-    <title>topgsmod</title>
-    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Mon, 10 Aug 2026 11:49:54 -0000</pubDate>
-    <description>TopGs Community Mod</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Mon, 10 Aug 2026 11:41:03 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Ambien's Butchery Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/9865</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9865#9865</guid>
-    <pubDate>Mon, 10 Aug 2026 11:12:01 -0000</pubDate>
-    <description>Patches butchery for my server</description>
-  </item>
-  <item>
-    <title>MNG Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/mngtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mngtweaks#9417</guid>
-    <pubDate>Mon, 10 Aug 2026 09:12:13 -0000</pubDate>
-    <description>MNG Tweaks</description>
-  </item>
-  <item>
-    <title>Caves N Caverns</title>
-    <link>https://mods.vintagestory.at/show/mod/cavesncaverns</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cavesncaverns#1700</guid>
-    <pubDate>Mon, 10 Aug 2026 09:08:54 -0000</pubDate>
-    <description>A simple Mod that expands all underground caves! No more spaghetti like caves.</description>
-  </item>
-  <item>
-    <title>TitaniumTools</title>
-    <link>https://mods.vintagestory.at/show/mod/3829</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3829#3829</guid>
-    <pubDate>Mon, 10 Aug 2026 08:21:07 -0000</pubDate>
-    <description>Adds titanium tools (pickaxe, axe, shovel, etc.)</description>
   </item>
 </channel>
 </rss>
