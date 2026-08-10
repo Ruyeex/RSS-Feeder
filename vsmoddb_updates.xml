@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 10 Aug 2026 08:40:30 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 10:18:49 +0000</lastBuildDate>
+  <item>
+    <title>Acorn Ascension</title>
+    <link>https://mods.vintagestory.at/show/mod/10796</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10796#10796</guid>
+    <pubDate>Mon, 10 Aug 2026 09:31:27 -0000</pubDate>
+    <description>Ever wanted to ascend to squirrelhood and eat some nuts?</description>
+  </item>
+  <item>
+    <title>Ambien's Butchery Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/9865</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9865#9865</guid>
+    <pubDate>Mon, 10 Aug 2026 09:17:49 -0000</pubDate>
+    <description>Patches butchery for my server</description>
+  </item>
+  <item>
+    <title>MNG Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/mngtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mngtweaks#9417</guid>
+    <pubDate>Mon, 10 Aug 2026 09:12:13 -0000</pubDate>
+    <description>MNG Tweaks</description>
+  </item>
+  <item>
+    <title>Caves N Caverns</title>
+    <link>https://mods.vintagestory.at/show/mod/cavesncaverns</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cavesncaverns#1700</guid>
+    <pubDate>Mon, 10 Aug 2026 09:08:54 -0000</pubDate>
+    <description>A simple Mod that expands all underground caves! No more spaghetti like caves.</description>
+  </item>
   <item>
     <title>Solaria's Solace Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/10706</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gliderrevampdrathon#10567</guid>
     <pubDate>Mon, 10 Aug 2026 03:30:29 -0000</pubDate>
     <description>A fork of Hunter404's Glider Revamp updated to the most recent game version.</description>
-  </item>
-  <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Mon, 10 Aug 2026 02:57:08 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
-    <title>WorldEngine for VS Toolkit</title>
-    <link>https://mods.vintagestory.at/show/mod/10643</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10643#10643</guid>
-    <pubDate>Mon, 10 Aug 2026 02:55:22 -0000</pubDate>
-    <description>A planet-based world generation pipeline.</description>
-  </item>
-  <item>
-    <title>Armory: Core</title>
-    <link>https://mods.vintagestory.at/show/mod/hacore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hacore#9243</guid>
-    <pubDate>Mon, 10 Aug 2026 02:33:05 -0000</pubDate>
-    <description>A collection of items to be used in crafting recipes for Historical Weaponry mods.</description>
-  </item>
-  <item>
-    <title>IndustrialStory</title>
-    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
-    <pubDate>Mon, 10 Aug 2026 02:00:22 -0000</pubDate>
-    <description>Overhauls metalworking, chemistry, and glassworking. </description>
   </item>
 </channel>
 </rss>
