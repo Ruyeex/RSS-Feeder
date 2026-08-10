@@ -4,13 +4,41 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 10 Aug 2026 16:55:34 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 17:53:24 +0000</lastBuildDate>
+  <item>
+    <title>NDL Villagers</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlvillagers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlvillagers#3429</guid>
+    <pubDate>Mon, 10 Aug 2026 17:51:41 -0000</pubDate>
+    <description>Adds Villagers/Guards/Clerics to populate your builds and also a way to get traders in your builds!</description>
+  </item>
   <item>
     <title>Hooked On Hydro</title>
     <link>https://mods.vintagestory.at/show/mod/10803</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10803#10803</guid>
-    <pubDate>Mon, 10 Aug 2026 16:45:28 -0000</pubDate>
+    <pubDate>Mon, 10 Aug 2026 17:41:07 -0000</pubDate>
     <description>Hooked On Hydro </description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Greenwich style</title>
+    <link>https://mods.vintagestory.at/show/mod/4321</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4321#4321</guid>
+    <pubDate>Mon, 10 Aug 2026 17:37:26 -0000</pubDate>
+    <description>Mod adding multiple iron and beyond plate armor variations inspired by Greenwich blacksmiths style</description>
+  </item>
+  <item>
+    <title>Tallybook</title>
+    <link>https://mods.vintagestory.at/show/mod/10864</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
+    <pubDate>Mon, 10 Aug 2026 17:24:35 -0000</pubDate>
+    <description>Crafting shopping list, villager quest tracker, and spoiler-free story guide. Fully client-side.</description>
+  </item>
+  <item>
+    <title>Better Loot Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/blp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blp#10873</guid>
+    <pubDate>Mon, 10 Aug 2026 17:20:14 -0000</pubDate>
+    <description>Configurable Better loot from hostile entities like Drifters, Shivers, Bowtorns</description>
   </item>
   <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3829#3829</guid>
     <pubDate>Mon, 10 Aug 2026 08:21:07 -0000</pubDate>
     <description>Adds titanium tools (pickaxe, axe, shovel, etc.)</description>
-  </item>
-  <item>
-    <title>Transform Designer | Improved TFEdit</title>
-    <link>https://mods.vintagestory.at/show/mod/vsmctfdesigner</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsmctfdesigner#9066</guid>
-    <pubDate>Mon, 10 Aug 2026 07:43:42 -0000</pubDate>
-    <description>3D Gizmos for TFEditing. No more computer numerical control era UI tools!</description>
-  </item>
-  <item>
-    <title>LauncherGo's ServerAuth</title>
-    <link>https://mods.vintagestory.at/show/mod/launchergoauth</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergoauth#8964</guid>
-    <pubDate>Mon, 10 Aug 2026 07:11:41 -0000</pubDate>
-    <description>服务器认证模组，提供注册登录、会话记住、Discourse SSO 与 OAuth2/OIDC 认证能力</description>
-  </item>
-  <item>
-    <title>Catch and Release: Fish</title>
-    <link>https://mods.vintagestory.at/show/mod/crfish</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crfish#7410</guid>
-    <pubDate>Mon, 10 Aug 2026 07:02:35 -0000</pubDate>
-    <description>Catch fish live and place them in various sized aquariums.</description>
-  </item>
-  <item>
-    <title>Catch and Release: Butterflies</title>
-    <link>https://mods.vintagestory.at/show/mod/crbutterflies</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crbutterflies#7409</guid>
-    <pubDate>Mon, 10 Aug 2026 07:02:22 -0000</pubDate>
-    <description>Catch butterflies live and set them free or place them in terrariums.</description>
   </item>
 </channel>
 </rss>
