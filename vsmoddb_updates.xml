@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 10 Aug 2026 13:13:59 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 15:00:49 +0000</lastBuildDate>
+  <item>
+    <title>Less Armor Negatives (updated for 1.22)</title>
+    <link>https://mods.vintagestory.at/show/mod/10906</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10906#10906</guid>
+    <pubDate>Mon, 10 Aug 2026 14:56:19 -0000</pubDate>
+    <description>Update to mod Less Armor Negatives to support version 1.22</description>
+  </item>
+  <item>
+    <title>Fablewood Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Mon, 10 Aug 2026 14:55:35 -0000</pubDate>
+    <description>Skill and class mod for the Fablewood server</description>
+  </item>
+  <item>
+    <title>Fablewood Nametags</title>
+    <link>https://mods.vintagestory.at/show/mod/10460</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10460#10460</guid>
+    <pubDate>Mon, 10 Aug 2026 14:51:15 -0000</pubDate>
+    <description>Nametag mod for more customization</description>
+  </item>
+  <item>
+    <title>Fablewood Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Mon, 10 Aug 2026 14:43:01 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
+  <item>
+    <title>To Rule Them All: Middle-Earth Races</title>
+    <link>https://mods.vintagestory.at/show/mod/7155</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7155#7155</guid>
+    <pubDate>Mon, 10 Aug 2026 14:18:03 -0000</pubDate>
+    <description>Races and Subraces from the Lord of the Rings</description>
+  </item>
+  <item>
+    <title>Holdfast</title>
+    <link>https://mods.vintagestory.at/show/mod/holdfast</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/holdfast#10247</guid>
+    <pubDate>Mon, 10 Aug 2026 13:57:59 -0000</pubDate>
+    <description>Found a town. Hire workers. Watch it grow one building at a time.</description>
+  </item>
+  <item>
+    <title>Fablewood Foods</title>
+    <link>https://mods.vintagestory.at/show/mod/fablewoodfoods</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fablewoodfoods#10694</guid>
+    <pubDate>Mon, 10 Aug 2026 13:29:33 -0000</pubDate>
+    <description>A collection of new foods and meals to enhance your whimsy.</description>
+  </item>
   <item>
     <title>VS Chunk Manager</title>
     <link>https://mods.vintagestory.at/show/mod/7128</link>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oneroof#1842</guid>
     <pubDate>Mon, 10 Aug 2026 05:56:41 -0000</pubDate>
     <description>Single block multi roofing mod.</description>
-  </item>
-  <item>
-    <title>TerraFirmaStory</title>
-    <link>https://mods.vintagestory.at/show/mod/terrafirmastory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/terrafirmastory#9951</guid>
-    <pubDate>Mon, 10 Aug 2026 05:37:00 -0000</pubDate>
-    <description>Ports TerraFirmaCraft 1.21 world generation to Vintage Story</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux - Expansion A</title>
-    <link>https://mods.vintagestory.at/show/mod/10825</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10825#10825</guid>
-    <pubDate>Mon, 10 Aug 2026 05:31:32 -0000</pubDate>
-    <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/10555</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
-    <pubDate>Mon, 10 Aug 2026 05:30:48 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>(Not) Just Tofu</title>
-    <link>https://mods.vintagestory.at/show/mod/justtofu</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justtofu#9542</guid>
-    <pubDate>Mon, 10 Aug 2026 05:19:39 -0000</pubDate>
-    <description>Simple tofu, miso, and tempeh making process for better vegan protein &amp; dairy food and meal options.</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Mon, 10 Aug 2026 05:00:51 -0000</pubDate>
-    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
-  </item>
-  <item>
-    <title>Hooked On Hydro</title>
-    <link>https://mods.vintagestory.at/show/mod/10803</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10803#10803</guid>
-    <pubDate>Mon, 10 Aug 2026 04:56:14 -0000</pubDate>
-    <description>Hooked On Hydro </description>
-  </item>
-  <item>
-    <title>C&amp;N Events</title>
-    <link>https://mods.vintagestory.at/show/mod/canevents</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
-    <pubDate>Mon, 10 Aug 2026 04:25:58 -0000</pubDate>
-    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
   </item>
 </channel>
 </rss>
