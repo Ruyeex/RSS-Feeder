@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 10 Aug 2026 11:49:13 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 13:13:59 +0000</lastBuildDate>
+  <item>
+    <title>VS Chunk Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/7128</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7128#7128</guid>
+    <pubDate>Mon, 10 Aug 2026 13:11:08 -0000</pubDate>
+    <description>A world management tool for selecting, regenerating and deleting chunks from the map.</description>
+  </item>
+  <item>
+    <title>Acorn Ascension</title>
+    <link>https://mods.vintagestory.at/show/mod/10796</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10796#10796</guid>
+    <pubDate>Mon, 10 Aug 2026 13:07:58 -0000</pubDate>
+    <description>Ever wanted to ascend to squirrelhood and eat some nuts?</description>
+  </item>
+  <item>
+    <title>Dragons of Land and Sea</title>
+    <link>https://mods.vintagestory.at/show/mod/8079</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8079#8079</guid>
+    <pubDate>Mon, 10 Aug 2026 12:38:33 -0000</pubDate>
+    <description>Adds five wild dragons to the game</description>
+  </item>
+  <item>
+    <title>Larch Tannin</title>
+    <link>https://mods.vintagestory.at/show/mod/10904</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10904#10904</guid>
+    <pubDate>Mon, 10 Aug 2026 12:05:27 -0000</pubDate>
+    <description>Lets you make tannin from larch.</description>
+  </item>
+  <item>
+    <title>Multi BedSpawn</title>
+    <link>https://mods.vintagestory.at/show/mod/multibedspawn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/multibedspawn#10905</guid>
+    <pubDate>Mon, 10 Aug 2026 12:03:30 -0000</pubDate>
+    <description>Set multiple beds as respawn points. Respawn at the closest one.</description>
+  </item>
+  <item>
+    <title>CoT Capes</title>
+    <link>https://mods.vintagestory.at/show/mod/7205</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7205#7205</guid>
+    <pubDate>Mon, 10 Aug 2026 11:50:31 -0000</pubDate>
+    <description>A small mod to add Basic Capes for remaining season of COT.</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Mon, 10 Aug 2026 11:49:54 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
   <item>
     <title>Solaria's Solace Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/10706</link>
@@ -18,13 +67,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9865#9865</guid>
     <pubDate>Mon, 10 Aug 2026 11:12:01 -0000</pubDate>
     <description>Patches butchery for my server</description>
-  </item>
-  <item>
-    <title>Acorn Ascension</title>
-    <link>https://mods.vintagestory.at/show/mod/10796</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10796#10796</guid>
-    <pubDate>Mon, 10 Aug 2026 09:31:27 -0000</pubDate>
-    <description>Ever wanted to ascend to squirrelhood and eat some nuts?</description>
   </item>
   <item>
     <title>MNG Tweaks</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
     <pubDate>Mon, 10 Aug 2026 04:25:58 -0000</pubDate>
     <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
-  </item>
-  <item>
-    <title>Catfolk: Felvox Player Model [WIP]</title>
-    <link>https://mods.vintagestory.at/show/mod/10847</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10847#10847</guid>
-    <pubDate>Mon, 10 Aug 2026 04:24:46 -0000</pubDate>
-    <description>Work in progress Cat race using Player Model Lib.</description>
-  </item>
-  <item>
-    <title>Fieldwright</title>
-    <link>https://mods.vintagestory.at/show/mod/fieldwright</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fieldwright#8879</guid>
-    <pubDate>Mon, 10 Aug 2026 04:21:53 -0000</pubDate>
-    <description>Client-side blueprint preview and build-along tool with ghost and live material checklist.</description>
-  </item>
-  <item>
-    <title>(TESTING) No Offhand Pickups (Universal)</title>
-    <link>https://mods.vintagestory.at/show/mod/nooffhandpickupsuniversal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nooffhandpickupsuniversal#10902</guid>
-    <pubDate>Mon, 10 Aug 2026 04:20:38 -0000</pubDate>
-    <description>Blocks automatic pickup of items into the offhand slot. Patches both server and client side</description>
-  </item>
-  <item>
-    <title>VR_SC</title>
-    <link>https://mods.vintagestory.at/show/mod/10901</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10901#10901</guid>
-    <pubDate>Mon, 10 Aug 2026 04:12:59 -0000</pubDate>
-    <description>sc tweak</description>
-  </item>
-  <item>
-    <title>Helianthus</title>
-    <link>https://mods.vintagestory.at/show/mod/10781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10781#10781</guid>
-    <pubDate>Mon, 10 Aug 2026 03:44:51 -0000</pubDate>
-    <description>Adds plants in the sunflower tribe</description>
-  </item>
-  <item>
-    <title>Glider Revamp (Drathon's Fork)</title>
-    <link>https://mods.vintagestory.at/show/mod/gliderrevampdrathon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gliderrevampdrathon#10567</guid>
-    <pubDate>Mon, 10 Aug 2026 03:30:29 -0000</pubDate>
-    <description>A fork of Hunter404's Glider Revamp updated to the most recent game version.</description>
   </item>
 </channel>
 </rss>
