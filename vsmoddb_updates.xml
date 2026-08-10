@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 10 Aug 2026 19:00:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 19:57:56 +0000</lastBuildDate>
+  <item>
+    <title>Frontier's Map</title>
+    <link>https://mods.vintagestory.at/show/mod/9227</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9227#9227</guid>
+    <pubDate>Mon, 10 Aug 2026 19:50:48 -0000</pubDate>
+    <description>Adds a physical map with built-in map maker system, drawing tools and over 130 hand drawn stamps</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Poklyk</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspoklyk</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspoklyk#9074</guid>
+    <pubDate>Mon, 10 Aug 2026 19:49:02 -0000</pubDate>
+    <description>Calling progression system where specializations emerge from player actions</description>
+  </item>
+  <item>
+    <title>Klassenkampf</title>
+    <link>https://mods.vintagestory.at/show/mod/klassenkampf</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/klassenkampf#10845</guid>
+    <pubDate>Mon, 10 Aug 2026 19:43:48 -0000</pubDate>
+    <description>Dies ist ein Klassenmod für Mut&amp;Glut 2 - Ein deutsches RP Projekt</description>
+  </item>
+  <item>
+    <title>Tweakfactory</title>
+    <link>https://mods.vintagestory.at/show/mod/tweakfactory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tweakfactory#10875</guid>
+    <pubDate>Mon, 10 Aug 2026 19:43:27 -0000</pubDate>
+    <description>Tweakmod um Klassenspezifische Rezepte einzubinden.</description>
+  </item>
+  <item>
+    <title>TaborServers</title>
+    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
+    <pubDate>Mon, 10 Aug 2026 19:35:34 -0000</pubDate>
+    <description>Patches fo most of Tabor servers</description>
+  </item>
+  <item>
+    <title>RespawnInfo</title>
+    <link>https://mods.vintagestory.at/show/mod/respawninfo</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/respawninfo#1369</guid>
+    <pubDate>Mon, 10 Aug 2026 19:17:28 -0000</pubDate>
+    <description>Adds a command and a small GUI to check your respawn count and coordinates.</description>
+  </item>
+  <item>
+    <title>Terra Prety</title>
+    <link>https://mods.vintagestory.at/show/mod/terraprety</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/terraprety#2347</guid>
+    <pubDate>Mon, 10 Aug 2026 19:17:19 -0000</pubDate>
+    <description>A redesign of worldgen to feel more natural, beautiful and enjoyable to traverse. By Nephelangelo.</description>
+  </item>
   <item>
     <title> No Traits Required</title>
     <link>https://mods.vintagestory.at/show/mod/10915</link>
@@ -39,13 +88,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/votegui#10547</guid>
     <pubDate>Mon, 10 Aug 2026 18:08:06 -0000</pubDate>
     <description>Vote gui for vsserverlist.com</description>
-  </item>
-  <item>
-    <title>TaborServers</title>
-    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
-    <pubDate>Mon, 10 Aug 2026 18:02:34 -0000</pubDate>
-    <description>Patches fo most of Tabor servers</description>
   </item>
   <item>
     <title>Vintage Engineering</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fablewoodfoods#10694</guid>
     <pubDate>Mon, 10 Aug 2026 13:29:33 -0000</pubDate>
     <description>A collection of new foods and meals to enhance your whimsy.</description>
-  </item>
-  <item>
-    <title>VS Chunk Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/7128</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7128#7128</guid>
-    <pubDate>Mon, 10 Aug 2026 13:11:08 -0000</pubDate>
-    <description>A world management tool for selecting, regenerating and deleting chunks from the map.</description>
-  </item>
-  <item>
-    <title>Acorn Ascension</title>
-    <link>https://mods.vintagestory.at/show/mod/10796</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10796#10796</guid>
-    <pubDate>Mon, 10 Aug 2026 13:07:58 -0000</pubDate>
-    <description>Ever wanted to ascend to squirrelhood and eat some nuts?</description>
-  </item>
-  <item>
-    <title>Dragons of Land and Sea</title>
-    <link>https://mods.vintagestory.at/show/mod/8079</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8079#8079</guid>
-    <pubDate>Mon, 10 Aug 2026 12:38:33 -0000</pubDate>
-    <description>Adds five wild dragons to the game</description>
-  </item>
-  <item>
-    <title>Larch Tannin</title>
-    <link>https://mods.vintagestory.at/show/mod/10904</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10904#10904</guid>
-    <pubDate>Mon, 10 Aug 2026 12:05:27 -0000</pubDate>
-    <description>Lets you make tannin from larch.</description>
-  </item>
-  <item>
-    <title>Multi BedSpawn</title>
-    <link>https://mods.vintagestory.at/show/mod/multibedspawn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/multibedspawn#10905</guid>
-    <pubDate>Mon, 10 Aug 2026 12:03:30 -0000</pubDate>
-    <description>Set multiple beds as respawn points. Respawn at the closest one.</description>
-  </item>
-  <item>
-    <title>CoT Capes</title>
-    <link>https://mods.vintagestory.at/show/mod/7205</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7205#7205</guid>
-    <pubDate>Mon, 10 Aug 2026 11:50:31 -0000</pubDate>
-    <description>A small mod to add Basic Capes for remaining season of COT.</description>
   </item>
 </channel>
 </rss>
