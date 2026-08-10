@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 10 Aug 2026 01:59:32 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 04:04:29 +0000</lastBuildDate>
+  <item>
+    <title>Helianthus</title>
+    <link>https://mods.vintagestory.at/show/mod/10781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10781#10781</guid>
+    <pubDate>Mon, 10 Aug 2026 03:44:51 -0000</pubDate>
+    <description>Adds plants in the sunflower tribe</description>
+  </item>
+  <item>
+    <title>Glider Revamp (Drathon's Fork)</title>
+    <link>https://mods.vintagestory.at/show/mod/gliderrevampdrathon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gliderrevampdrathon#10567</guid>
+    <pubDate>Mon, 10 Aug 2026 03:30:29 -0000</pubDate>
+    <description>A fork of Hunter404's Glider Revamp updated to the most recent game version.</description>
+  </item>
+  <item>
+    <title>Hooked On Hydro</title>
+    <link>https://mods.vintagestory.at/show/mod/10803</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10803#10803</guid>
+    <pubDate>Mon, 10 Aug 2026 03:14:55 -0000</pubDate>
+    <description>Hooked On Hydro Beta</description>
+  </item>
+  <item>
+    <title>Riley's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Mon, 10 Aug 2026 02:57:08 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+  </item>
+  <item>
+    <title>WorldEngine for VS Toolkit</title>
+    <link>https://mods.vintagestory.at/show/mod/10643</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10643#10643</guid>
+    <pubDate>Mon, 10 Aug 2026 02:55:22 -0000</pubDate>
+    <description>A planet-based world generation pipeline.</description>
+  </item>
+  <item>
+    <title>Armory: Core</title>
+    <link>https://mods.vintagestory.at/show/mod/hacore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hacore#9243</guid>
+    <pubDate>Mon, 10 Aug 2026 02:33:05 -0000</pubDate>
+    <description>A collection of items to be used in crafting recipes for Historical Weaponry mods.</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Mon, 10 Aug 2026 02:13:24 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>IndustrialStory</title>
+    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
+    <pubDate>Mon, 10 Aug 2026 02:00:22 -0000</pubDate>
+    <description>Overhauls metalworking, chemistry, and glassworking. </description>
+  </item>
   <item>
     <title>Mallow's Sticks from Firewood (no knife)</title>
     <link>https://mods.vintagestory.at/show/mod/10898</link>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/klassenkampf#10845</guid>
     <pubDate>Sun, 09 Aug 2026 23:39:41 -0000</pubDate>
     <description>Dies ist ein Klassenmod für Mut&amp;Glut 2 - Ein deutsches RP Projekt</description>
-  </item>
-  <item>
-    <title>Tweakfactory</title>
-    <link>https://mods.vintagestory.at/show/mod/tweakfactory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tweakfactory#10875</guid>
-    <pubDate>Sun, 09 Aug 2026 23:39:15 -0000</pubDate>
-    <description>Tweakmod um Klassenspezifische Rezepte einzubinden.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sun, 09 Aug 2026 23:27:29 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Steelmaking Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/smex</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smex#9254</guid>
-    <pubDate>Sun, 09 Aug 2026 23:16:11 -0000</pubDate>
-    <description>Industrial iron and steel production using Blast Furnace and Bessemer process!</description>
-  </item>
-  <item>
-    <title>Pipes and Power Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/ppex</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ppex#9568</guid>
-    <pubDate>Sun, 09 Aug 2026 23:15:59 -0000</pubDate>
-    <description>Pipe network and modular steam power machinery!</description>
-  </item>
-  <item>
-    <title>Expanded Library</title>
-    <link>https://mods.vintagestory.at/show/mod/exlib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/exlib#9564</guid>
-    <pubDate>Sun, 09 Aug 2026 23:15:47 -0000</pubDate>
-    <description>Shared framework library for the Fallenstar's Expanded mods.</description>
-  </item>
-  <item>
-    <title>neobit Vintage Server</title>
-    <link>https://mods.vintagestory.at/show/mod/5161</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5161#5161</guid>
-    <pubDate>Sun, 09 Aug 2026 22:52:27 -0000</pubDate>
-    <description>Collection of tweaks for the neobit server and playthrough.</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sun, 09 Aug 2026 22:41:49 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Tailored Brigandine: Fork + FSeraph</title>
-    <link>https://mods.vintagestory.at/show/mod/10879</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10879#10879</guid>
-    <pubDate>Sun, 09 Aug 2026 22:34:33 -0000</pubDate>
-    <description>Tailored Brigandine CO 1.22 fork now with Female Seraph support!</description>
   </item>
 </channel>
 </rss>
