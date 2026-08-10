@@ -4,7 +4,168 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 09 Aug 2026 23:33:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 01:59:32 +0000</lastBuildDate>
+  <item>
+    <title>Mallow's Sticks from Firewood (no knife)</title>
+    <link>https://mods.vintagestory.at/show/mod/10898</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10898#10898</guid>
+    <pubDate>Mon, 10 Aug 2026 01:58:59 -0000</pubDate>
+    <description>Mallow's mod, minus the knife</description>
+  </item>
+  <item>
+    <title>Fablewood Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Mon, 10 Aug 2026 01:54:11 -0000</pubDate>
+    <description>Skill and class mod for the Fablewood server</description>
+  </item>
+  <item>
+    <title>Low Fertility Soil to Forest Floor</title>
+    <link>https://mods.vintagestory.at/show/mod/forestfloorrecipe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/forestfloorrecipe#10897</guid>
+    <pubDate>Mon, 10 Aug 2026 01:51:05 -0000</pubDate>
+    <description>Adds a recipe to convert Low Fertility Soil into Forest Floor blocks and their variants.</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/10453</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10453#10453</guid>
+    <pubDate>Mon, 10 Aug 2026 01:29:14 -0000</pubDate>
+    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>The Quire Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/10455</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10455#10455</guid>
+    <pubDate>Mon, 10 Aug 2026 01:28:33 -0000</pubDate>
+    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
+  </item>
+  <item>
+    <title>Fablewood Nametags</title>
+    <link>https://mods.vintagestory.at/show/mod/10460</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10460#10460</guid>
+    <pubDate>Mon, 10 Aug 2026 01:25:02 -0000</pubDate>
+    <description>Nametag mod for more customization</description>
+  </item>
+  <item>
+    <title>Fablewood Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
+    <pubDate>Mon, 10 Aug 2026 01:23:11 -0000</pubDate>
+    <description>JSON content patches</description>
+  </item>
+  <item>
+    <title>Cellar Door (Port)</title>
+    <link>https://mods.vintagestory.at/show/mod/cellardoorport</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cellardoorport#10895</guid>
+    <pubDate>Mon, 10 Aug 2026 01:20:00 -0000</pubDate>
+    <description>A port of the Cellar Door mod with support for the new ceramic colors.</description>
+  </item>
+  <item>
+    <title>Fablewood Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Mon, 10 Aug 2026 01:19:29 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
+  <item>
+    <title>TerraFirmaStory</title>
+    <link>https://mods.vintagestory.at/show/mod/terrafirmastory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/terrafirmastory#9951</guid>
+    <pubDate>Mon, 10 Aug 2026 01:17:47 -0000</pubDate>
+    <description>Ports TerraFirmaCraft 1.21 world generation to Vintage Story</description>
+  </item>
+  <item>
+    <title>Snoopy's Recipe Select</title>
+    <link>https://mods.vintagestory.at/show/mod/9818</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9818#9818</guid>
+    <pubDate>Mon, 10 Aug 2026 01:16:38 -0000</pubDate>
+    <description>Adds pagination to crafting recipe result for duplicate recipes that result in the different output.</description>
+  </item>
+  <item>
+    <title>Free Immersive Craft</title>
+    <link>https://mods.vintagestory.at/show/mod/freeimmersivecraft</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/freeimmersivecraft#8749</guid>
+    <pubDate>Mon, 10 Aug 2026 01:13:53 -0000</pubDate>
+    <description>Craft single-ingredient recipes in-world… Ghost recipe overlay, cycling recipes, server-safe.</description>
+  </item>
+  <item>
+    <title>Coriaender Shaders</title>
+    <link>https://mods.vintagestory.at/show/mod/coriaendershaders</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/coriaendershaders#6242</guid>
+    <pubDate>Mon, 10 Aug 2026 01:03:42 -0000</pubDate>
+    <description>Shader effects for pretty water and shadows.</description>
+  </item>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Mon, 10 Aug 2026 01:02:35 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
+  <item>
+    <title>ChaosCast</title>
+    <link>https://mods.vintagestory.at/show/mod/chaoscast</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chaoscast#8236</guid>
+    <pubDate>Mon, 10 Aug 2026 01:02:08 -0000</pubDate>
+    <description>A server-side Twitch integration mod that turns chat into a "chaos engine."</description>
+  </item>
+  <item>
+    <title>Buddy Beacon</title>
+    <link>https://mods.vintagestory.at/show/mod/vsbuddybeacon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsbuddybeacon#6151</guid>
+    <pubDate>Mon, 10 Aug 2026 00:58:07 -0000</pubDate>
+    <description>Useful tools to play with buddies - Teleport/Summon to Target Player with Consent &amp; Beacon system.</description>
+  </item>
+  <item>
+    <title>Animalica Core</title>
+    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
+    <pubDate>Mon, 10 Aug 2026 00:50:59 -0000</pubDate>
+    <description>Core mod for playable animals. Does nothing on it's own</description>
+  </item>
+  <item>
+    <title>Animalica - Enemies</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicae#10894</guid>
+    <pubDate>Mon, 10 Aug 2026 00:49:41 -0000</pubDate>
+    <description>Play as 23 hostile Vintage Story enemies with native animations, traits, clothing, and carry modes.</description>
+  </item>
+  <item>
+    <title>Ghaelen's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9740</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
+    <pubDate>Mon, 10 Aug 2026 00:30:25 -0000</pubDate>
+    <description>My personal tweaks I like to play with.</description>
+  </item>
+  <item>
+    <title>Elk Adornments</title>
+    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
+    <pubDate>Sun, 09 Aug 2026 23:54:27 -0000</pubDate>
+    <description>Masks for you and your elk with Modular Elk Armor!</description>
+  </item>
+  <item>
+    <title>Meliora Meadows Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
+    <pubDate>Sun, 09 Aug 2026 23:51:13 -0000</pubDate>
+    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
+  </item>
+  <item>
+    <title>Klassenkampf</title>
+    <link>https://mods.vintagestory.at/show/mod/klassenkampf</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/klassenkampf#10845</guid>
+    <pubDate>Sun, 09 Aug 2026 23:39:41 -0000</pubDate>
+    <description>Dies ist ein Klassenmod für Mut&amp;Glut 2 - Ein deutsches RP Projekt</description>
+  </item>
+  <item>
+    <title>Tweakfactory</title>
+    <link>https://mods.vintagestory.at/show/mod/tweakfactory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tweakfactory#10875</guid>
+    <pubDate>Sun, 09 Aug 2026 23:39:15 -0000</pubDate>
+    <description>Tweakmod um Klassenspezifische Rezepte einzubinden.</description>
+  </item>
   <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/9635</link>
@@ -53,167 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10879#10879</guid>
     <pubDate>Sun, 09 Aug 2026 22:34:33 -0000</pubDate>
     <description>Tailored Brigandine CO 1.22 fork now with Female Seraph support!</description>
-  </item>
-  <item>
-    <title>Better Loot Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/blp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blp#10873</guid>
-    <pubDate>Sun, 09 Aug 2026 21:49:19 -0000</pubDate>
-    <description>Configurable Better loot from hostile entities like Drifters, Shivers, Bowtorns</description>
-  </item>
-  <item>
-    <title>skincustomizationgul</title>
-    <link>https://mods.vintagestory.at/show/mod/10891</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10891#10891</guid>
-    <pubDate>Sun, 09 Aug 2026 21:39:40 -0000</pubDate>
-    <description>Expanded skin, eye, and hair colors, packaged for required multiplayer use</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Sun, 09 Aug 2026 21:38:50 -0000</pubDate>
-    <description>A  voice chat mod designed for multiplayer servers and civilization simulation events</description>
-  </item>
-  <item>
-    <title>Historical Armory: Warlords and Warchiefs</title>
-    <link>https://mods.vintagestory.at/show/mod/hawarlords</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hawarlords#9245</guid>
-    <pubDate>Sun, 09 Aug 2026 21:31:33 -0000</pubDate>
-    <description>A collection of equipment from the North/South American and African continents.</description>
-  </item>
-  <item>
-    <title>Custom Server Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10378</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10378#10378</guid>
-    <pubDate>Sun, 09 Aug 2026 21:25:24 -0000</pubDate>
-    <description>A collection of tweaks for our private server.</description>
-  </item>
-  <item>
-    <title>GamepadCompanionVS</title>
-    <link>https://mods.vintagestory.at/show/mod/8669</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8669#8669</guid>
-    <pubDate>Sun, 09 Aug 2026 21:16:02 -0000</pubDate>
-    <description>Native gamepad support for Vintage Story 1.22+ — 12-slot radial menu, virtual cursor for GUI, etc. </description>
-  </item>
-  <item>
-    <title>MoreSaltPeter</title>
-    <link>https://mods.vintagestory.at/show/mod/3683</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3683#3683</guid>
-    <pubDate>Sun, 09 Aug 2026 21:13:34 -0000</pubDate>
-    <description>Each saltpeter mined now drop 2-3 instead of 1.</description>
-  </item>
-  <item>
-    <title>PickleTweak</title>
-    <link>https://mods.vintagestory.at/show/mod/3702</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3702#3702</guid>
-    <pubDate>Sun, 09 Aug 2026 21:12:45 -0000</pubDate>
-    <description>Shortens time to pickle or cure things to 5 days. Increases amount of curable vegetables to 64.</description>
-  </item>
-  <item>
-    <title>Simple VS Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevsmanager</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevsmanager#5545</guid>
-    <pubDate>Sun, 09 Aug 2026 21:11:02 -0000</pubDate>
-    <description>A simple mod manager/launcher with Mod DB Search, Update Manager and shared Modlists</description>
-  </item>
-  <item>
-    <title>Armory: Core</title>
-    <link>https://mods.vintagestory.at/show/mod/hacore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hacore#9243</guid>
-    <pubDate>Sun, 09 Aug 2026 20:38:22 -0000</pubDate>
-    <description>A collection of items to be used in crafting recipes for Historical Weaponry mods.</description>
-  </item>
-  <item>
-    <title>Clothes Have Pockets</title>
-    <link>https://mods.vintagestory.at/show/mod/clotheshavepockets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clotheshavepockets#10218</guid>
-    <pubDate>Sun, 09 Aug 2026 20:35:39 -0000</pubDate>
-    <description>Adds pockets (inventory slots) to various clothing items</description>
-  </item>
-  <item>
-    <title>Traits and Classes lib</title>
-    <link>https://mods.vintagestory.at/show/mod/traitsandclasseslib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traitsandclasseslib#9575</guid>
-    <pubDate>Sun, 09 Aug 2026 20:23:02 -0000</pubDate>
-    <description>Framework for adding interconnected classes</description>
-  </item>
-  <item>
-    <title>TITANHEIMR server</title>
-    <link>https://mods.vintagestory.at/show/mod/titanheimr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/titanheimr#10861</guid>
-    <pubDate>Sun, 09 Aug 2026 20:22:36 -0000</pubDate>
-    <description>Centaurs (soon) and tweaks to the ''Middle-Earth Races'' mod!</description>
-  </item>
-  <item>
-    <title>WorldEngine for VS</title>
-    <link>https://mods.vintagestory.at/show/mod/10880</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10880#10880</guid>
-    <pubDate>Sun, 09 Aug 2026 20:17:46 -0000</pubDate>
-    <description>A planet-based world generator.</description>
-  </item>
-  <item>
-    <title>Jelly Bundle</title>
-    <link>https://mods.vintagestory.at/show/mod/10059</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10059#10059</guid>
-    <pubDate>Sun, 09 Aug 2026 20:06:42 -0000</pubDate>
-    <description>A compilation of tweaks for the Swamp Jelly server.</description>
-  </item>
-  <item>
-    <title>Amphithere: Winged Serpent</title>
-    <link>https://mods.vintagestory.at/show/mod/amphithere</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/amphithere#10798</guid>
-    <pubDate>Sun, 09 Aug 2026 19:59:18 -0000</pubDate>
-    <description>Adds an amphithere dragon species to the world.</description>
-  </item>
-  <item>
-    <title>Downed</title>
-    <link>https://mods.vintagestory.at/show/mod/downed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
-    <pubDate>Sun, 09 Aug 2026 19:26:33 -0000</pubDate>
-    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
-  </item>
-  <item>
-    <title>Charcoal Kiln</title>
-    <link>https://mods.vintagestory.at/show/mod/charcoalkiln</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/charcoalkiln#10807</guid>
-    <pubDate>Sun, 09 Aug 2026 19:19:28 -0000</pubDate>
-    <description>Charcoal Kiln adds a permanent and reusable kiln to make your endless batches of charcoal.</description>
-  </item>
-  <item>
-    <title>Peat for Charcoal</title>
-    <link>https://mods.vintagestory.at/show/mod/peatforcharcoal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/peatforcharcoal#10384</guid>
-    <pubDate>Sun, 09 Aug 2026 19:11:46 -0000</pubDate>
-    <description>Allows using peat bricks as a substitute for firewood + changes to Peat piles.</description>
-  </item>
-  <item>
-    <title>Lupines</title>
-    <link>https://mods.vintagestory.at/show/mod/lupines</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lupines#5723</guid>
-    <pubDate>Sun, 09 Aug 2026 19:10:10 -0000</pubDate>
-    <description>Adds playable anthro wolf like player model using Player Model Lib</description>
-  </item>
-  <item>
-    <title>ooh! shiny!</title>
-    <link>https://mods.vintagestory.at/show/mod/oohshiny</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oohshiny#10722</guid>
-    <pubDate>Sun, 09 Aug 2026 19:01:23 -0000</pubDate>
-    <description>Many shiny jewelry</description>
-  </item>
-  <item>
-    <title>(Not) Just Tofu</title>
-    <link>https://mods.vintagestory.at/show/mod/justtofu</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justtofu#9542</guid>
-    <pubDate>Sun, 09 Aug 2026 18:23:05 -0000</pubDate>
-    <description>Simple tofu, miso, and tempeh making process for better vegan protein &amp; dairy food and meal options.</description>
-  </item>
-  <item>
-    <title>vanillapackfr</title>
-    <link>https://mods.vintagestory.at/show/mod/vanillapackfr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillapackfr#10821</guid>
-    <pubDate>Sun, 09 Aug 2026 17:45:03 -0000</pubDate>
-    <description>drad for a mdpk</description>
   </item>
 </channel>
 </rss>
