@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 11 Aug 2026 07:11:39 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 08:59:48 +0000</lastBuildDate>
+  <item>
+    <title>Steelmaking Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/smex</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smex#9254</guid>
+    <pubDate>Tue, 11 Aug 2026 08:57:21 -0000</pubDate>
+    <description>Industrial iron and steel production using Blast Furnace and Bessemer process!</description>
+  </item>
+  <item>
+    <title>Pipes and Power Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/ppex</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ppex#9568</guid>
+    <pubDate>Tue, 11 Aug 2026 08:56:46 -0000</pubDate>
+    <description>Pipe network and modular steam power machinery!</description>
+  </item>
+  <item>
+    <title>Age of Flax Fork Break Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/ageofflaxforkbreakpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ageofflaxforkbreakpatch#10928</guid>
+    <pubDate>Tue, 11 Aug 2026 08:31:39 -0000</pubDate>
+    <description>A small patch that changes the Break from AgeOfFlax Fork recipe to use raw or rendered fat</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Tue, 11 Aug 2026 07:59:52 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
+  <item>
+    <title>Nymph race</title>
+    <link>https://mods.vintagestory.at/show/mod/10657</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10657#10657</guid>
+    <pubDate>Tue, 11 Aug 2026 07:38:31 -0000</pubDate>
+    <description>A mod that adds a new player model, the Nymph race.</description>
+  </item>
   <item>
     <title>Animal Kinship</title>
     <link>https://mods.vintagestory.at/show/mod/animalkinship</link>
@@ -132,13 +167,6 @@
     <description>A simple clothing mod, this is my first attempt at modding so don't expect it to be that good.</description>
   </item>
   <item>
-    <title>topgsmod</title>
-    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Tue, 11 Aug 2026 03:59:27 -0000</pubDate>
-    <description>TopGs Community Mod</description>
-  </item>
-  <item>
     <title>Rudiments</title>
     <link>https://mods.vintagestory.at/show/mod/9305</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10231#10231</guid>
     <pubDate>Tue, 11 Aug 2026 02:39:27 -0000</pubDate>
     <description>A very niche addition to Primitive Survival.</description>
-  </item>
-  <item>
-    <title>BNI Essentials</title>
-    <link>https://mods.vintagestory.at/show/mod/bniessentials</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bniessentials#10690</guid>
-    <pubDate>Tue, 11 Aug 2026 01:37:49 -0000</pubDate>
-    <description>Essential game play enhancing features and tweaks for the Batteries Not Included community server.</description>
-  </item>
-  <item>
-    <title>Electrical Progressive: Basics No Gen</title>
-    <link>https://mods.vintagestory.at/show/mod/10195</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10195#10195</guid>
-    <pubDate>Tue, 11 Aug 2026 01:10:08 -0000</pubDate>
-    <description>Basic electrical devices... but without the Generators.</description>
-  </item>
-  <item>
-    <title>VR_SC</title>
-    <link>https://mods.vintagestory.at/show/mod/10901</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10901#10901</guid>
-    <pubDate>Tue, 11 Aug 2026 00:49:15 -0000</pubDate>
-    <description>sc tweak</description>
-  </item>
-  <item>
-    <title>Hooked On Hydro</title>
-    <link>https://mods.vintagestory.at/show/mod/10803</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10803#10803</guid>
-    <pubDate>Tue, 11 Aug 2026 00:47:45 -0000</pubDate>
-    <description>Hooked On Hydro </description>
   </item>
 </channel>
 </rss>
