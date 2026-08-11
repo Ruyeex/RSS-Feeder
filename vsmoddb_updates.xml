@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 11 Aug 2026 16:07:06 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 17:58:51 +0000</lastBuildDate>
+  <item>
+    <title>Hydrate or Diedrate</title>
+    <link>https://mods.vintagestory.at/show/mod/hydrateordiedrate</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hydrateordiedrate#2282</guid>
+    <pubDate>Tue, 11 Aug 2026 17:55:45 -0000</pubDate>
+    <description>A mod that adds thirst and hydration mechanics as well as hot weather survival.</description>
+  </item>
+  <item>
+    <title>Auto Walk Extended</title>
+    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
+    <pubDate>Tue, 11 Aug 2026 17:49:25 -0000</pubDate>
+    <description>Toggle walking/running. Options to toggle sneaking and automatic climbing.</description>
+  </item>
+  <item>
+    <title>FancyHUD</title>
+    <link>https://mods.vintagestory.at/show/mod/10935</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10935#10935</guid>
+    <pubDate>Tue, 11 Aug 2026 17:44:40 -0000</pubDate>
+    <description>Informative fancy HUD</description>
+  </item>
+  <item>
+    <title>VS Instruments Redux - Expansion A</title>
+    <link>https://mods.vintagestory.at/show/mod/10825</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10825#10825</guid>
+    <pubDate>Tue, 11 Aug 2026 17:26:42 -0000</pubDate>
+    <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
+  </item>
+  <item>
+    <title>Butterfly display frame</title>
+    <link>https://mods.vintagestory.at/show/mod/10936</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10936#10936</guid>
+    <pubDate>Tue, 11 Aug 2026 17:01:39 -0000</pubDate>
+    <description>Adds wall-mounted butterfly display frames.</description>
+  </item>
+  <item>
+    <title>Emotes</title>
+    <link>https://mods.vintagestory.at/show/mod/emotes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/emotes#8235</guid>
+    <pubDate>Tue, 11 Aug 2026 16:31:01 -0000</pubDate>
+    <description>Adds more custom emotes to the game.</description>
+  </item>
+  <item>
+    <title>AE Portals Net</title>
+    <link>https://mods.vintagestory.at/show/mod/aeportalsnet</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aeportalsnet#7595</guid>
+    <pubDate>Tue, 11 Aug 2026 16:20:56 -0000</pubDate>
+    <description>Adds portals to your survival that can be connected into a network.</description>
+  </item>
+  <item>
+    <title>AEAutoSmithing</title>
+    <link>https://mods.vintagestory.at/show/mod/aeautosmithing</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aeautosmithing#7693</guid>
+    <pubDate>Tue, 11 Aug 2026 16:20:42 -0000</pubDate>
+    <description>Automatic forging of items using a mechanical hammer.</description>
+  </item>
+  <item>
+    <title>AECrate</title>
+    <link>https://mods.vintagestory.at/show/mod/aecrate</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aecrate#7832</guid>
+    <pubDate>Tue, 11 Aug 2026 16:20:27 -0000</pubDate>
+    <description>Shalker box in the Vintage Story world</description>
+  </item>
+  <item>
+    <title>Frontier Claims Map</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Tue, 11 Aug 2026 16:14:40 -0000</pubDate>
+    <description>Claim map and access controls for internal testing on a private server.</description>
+  </item>
+  <item>
+    <title>Better Pyrolysis</title>
+    <link>https://mods.vintagestory.at/show/mod/10228</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10228#10228</guid>
+    <pubDate>Tue, 11 Aug 2026 16:11:23 -0000</pubDate>
+    <description>Adds several new features regarding pyrolyzing different fuels. </description>
+  </item>
   <item>
     <title>Coconut Elk Hoof Sounds</title>
     <link>https://mods.vintagestory.at/show/mod/6128</link>
@@ -25,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
     <pubDate>Tue, 11 Aug 2026 16:05:59 -0000</pubDate>
     <description>Skill and class mod for the Fablewood server</description>
-  </item>
-  <item>
-    <title>Better Pyrolysis</title>
-    <link>https://mods.vintagestory.at/show/mod/10228</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10228#10228</guid>
-    <pubDate>Tue, 11 Aug 2026 16:02:56 -0000</pubDate>
-    <description>Adds several new features regarding pyrolyzing different fuels. </description>
   </item>
   <item>
     <title>Fablewood Harmony Patches</title>
@@ -104,13 +174,6 @@
     <description>Misc patches.</description>
   </item>
   <item>
-    <title>FancyHUD</title>
-    <link>https://mods.vintagestory.at/show/mod/10935</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10935#10935</guid>
-    <pubDate>Tue, 11 Aug 2026 14:49:59 -0000</pubDate>
-    <description>Informative fancy HUD</description>
-  </item>
-  <item>
     <title>Free Immersive Craft</title>
     <link>https://mods.vintagestory.at/show/mod/freeimmersivecraft</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/freeimmersivecraft#8749</guid>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9661#9661</guid>
     <pubDate>Tue, 11 Aug 2026 13:20:14 -0000</pubDate>
     <description>Mastodon Trunk fixed</description>
-  </item>
-  <item>
-    <title>Fablewood Feverstone Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/10907</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10907#10907</guid>
-    <pubDate>Tue, 11 Aug 2026 13:15:37 -0000</pubDate>
-    <description>Compatibility mod for Feverstone Wilds with our other mods.</description>
-  </item>
-  <item>
-    <title>KFW Server Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/10761</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10761#10761</guid>
-    <pubDate>Tue, 11 Aug 2026 13:13:25 -0000</pubDate>
-    <description>Patches for KFW server modpack</description>
-  </item>
-  <item>
-    <title>The Working Classes - Whetstone Bug-Fix Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/theworkingclasseswspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/theworkingclasseswspatch#10474</guid>
-    <pubDate>Tue, 11 Aug 2026 12:58:58 -0000</pubDate>
-    <description>A focused compatibility and bug-fix fork of The Working Classes for Vintage Story</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Tue, 11 Aug 2026 12:58:18 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Tue, 11 Aug 2026 12:21:27 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>Tailored Brigandine: Fork + FSeraph</title>
-    <link>https://mods.vintagestory.at/show/mod/10879</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10879#10879</guid>
-    <pubDate>Tue, 11 Aug 2026 12:03:22 -0000</pubDate>
-    <description>Tailored Brigandine CO 1.22 fork now with Female Seraph support!</description>
-  </item>
-  <item>
-    <title>Scrolled</title>
-    <link>https://mods.vintagestory.at/show/mod/6888</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6888#6888</guid>
-    <pubDate>Tue, 11 Aug 2026 11:56:35 -0000</pubDate>
-    <description>This mod allows vanilla schematics and mod schematics to be rolled up and be scroll rackable.</description>
-  </item>
-  <item>
-    <title>topgsmod</title>
-    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Tue, 11 Aug 2026 11:51:05 -0000</pubDate>
-    <description>TopGs Community Mod</description>
-  </item>
-  <item>
-    <title>VS Village</title>
-    <link>https://mods.vintagestory.at/show/mod/vsvillage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsvillage#586</guid>
-    <pubDate>Tue, 11 Aug 2026 11:36:20 -0000</pubDate>
-    <description>Adds villages and villagers to the world.</description>
   </item>
 </channel>
 </rss>
