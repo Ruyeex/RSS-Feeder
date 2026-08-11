@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 11 Aug 2026 21:51:13 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 22:44:43 +0000</lastBuildDate>
+  <item>
+    <title>Bacon Bacon Bacon</title>
+    <link>https://mods.vintagestory.at/show/mod/baconbaconbacon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/baconbaconbacon#6895</guid>
+    <pubDate>Tue, 11 Aug 2026 22:31:27 -0000</pubDate>
+    <description>The first and (so far) only entirely and ridiculously bacon-centric mod for Vintage Story</description>
+  </item>
+  <item>
+    <title>Gearlock Firearms</title>
+    <link>https://mods.vintagestory.at/show/mod/10375</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10375#10375</guid>
+    <pubDate>Tue, 11 Aug 2026 22:27:00 -0000</pubDate>
+    <description>Adds firearms powered by the gearlock mechanism</description>
+  </item>
+  <item>
+    <title>Castaways Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/castawaystweak</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/castawaystweak#10941</guid>
+    <pubDate>Tue, 11 Aug 2026 22:11:41 -0000</pubDate>
+    <description>Tweaks to Improved Metallurgy</description>
+  </item>
   <item>
     <title>TerraFirmaStory</title>
     <link>https://mods.vintagestory.at/show/mod/terrafirmastory</link>
@@ -74,13 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
     <pubDate>Tue, 11 Aug 2026 19:35:31 -0000</pubDate>
     <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
-  </item>
-  <item>
-    <title>Castaways Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/castawaystweak</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/castawaystweak#10941</guid>
-    <pubDate>Tue, 11 Aug 2026 19:18:30 -0000</pubDate>
-    <description>Tweaks to Improved Metallurgy</description>
   </item>
   <item>
     <title>Cats</title>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aeportalsnet#7595</guid>
     <pubDate>Tue, 11 Aug 2026 16:20:56 -0000</pubDate>
     <description>Adds portals to your survival that can be connected into a network.</description>
-  </item>
-  <item>
-    <title>AEAutoSmithing</title>
-    <link>https://mods.vintagestory.at/show/mod/aeautosmithing</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aeautosmithing#7693</guid>
-    <pubDate>Tue, 11 Aug 2026 16:20:42 -0000</pubDate>
-    <description>Automatic forging of items using a mechanical hammer.</description>
-  </item>
-  <item>
-    <title>AECrate</title>
-    <link>https://mods.vintagestory.at/show/mod/aecrate</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aecrate#7832</guid>
-    <pubDate>Tue, 11 Aug 2026 16:20:27 -0000</pubDate>
-    <description>Shalker box in the Vintage Story world</description>
   </item>
 </channel>
 </rss>
