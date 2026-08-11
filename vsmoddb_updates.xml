@@ -4,20 +4,76 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 11 Aug 2026 19:13:50 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 20:48:46 +0000</lastBuildDate>
+  <item>
+    <title>Locust Drider Player Model (Drocust)</title>
+    <link>https://mods.vintagestory.at/show/mod/drocust</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drocust#7918</guid>
+    <pubDate>Tue, 11 Aug 2026 20:43:21 -0000</pubDate>
+    <description>D&amp;D drider, but turned into locust instead of spider</description>
+  </item>
+  <item>
+    <title>Threnkal</title>
+    <link>https://mods.vintagestory.at/show/mod/threnkal</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/threnkal#10944</guid>
+    <pubDate>Tue, 11 Aug 2026 20:38:51 -0000</pubDate>
+    <description>A race of cow folks based on minotaurs and taurens from WoW.</description>
+  </item>
+  <item>
+    <title>Inventory Colors</title>
+    <link>https://mods.vintagestory.at/show/mod/inventorycolors</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/inventorycolors#10943</guid>
+    <pubDate>Tue, 11 Aug 2026 20:33:12 -0000</pubDate>
+    <description>Color-codes equipped bags and their inventory slots for clearer portable storage.</description>
+  </item>
+  <item>
+    <title>VS Instruments Redux Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/vsinstrumentsreduxfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsinstrumentsreduxfork#10939</guid>
+    <pubDate>Tue, 11 Aug 2026 20:05:37 -0000</pubDate>
+    <description>Redux 1.4.4 fork with native MIDI playback and all Core and Expansion A instruments.</description>
+  </item>
+  <item>
+    <title>Locks &amp; Keys</title>
+    <link>https://mods.vintagestory.at/show/mod/locksandkeys</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/locksandkeys#10917</guid>
+    <pubDate>Tue, 11 Aug 2026 19:56:40 -0000</pubDate>
+    <description>Adds keys for your locks, key crafting, and using stolen keys.</description>
+  </item>
+  <item>
+    <title>Combat Overhaul Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/combatoverhaulforked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/combatoverhaulforked#8415</guid>
+    <pubDate>Tue, 11 Aug 2026 19:47:26 -0000</pubDate>
+    <description>1.22 fork</description>
+  </item>
+  <item>
+    <title>MetaView</title>
+    <link>https://mods.vintagestory.at/show/mod/mv</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mv#10942</guid>
+    <pubDate>Tue, 11 Aug 2026 19:36:30 -0000</pubDate>
+    <description>Gui for separate view of meta blocks in the game</description>
+  </item>
+  <item>
+    <title>C&amp;N Events</title>
+    <link>https://mods.vintagestory.at/show/mod/canevents</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
+    <pubDate>Tue, 11 Aug 2026 19:35:31 -0000</pubDate>
+    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
+  </item>
+  <item>
+    <title>Castaways Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/castawaystweak</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/castawaystweak#10941</guid>
+    <pubDate>Tue, 11 Aug 2026 19:18:30 -0000</pubDate>
+    <description>Tweaks to Improved Metallurgy</description>
+  </item>
   <item>
     <title>Cats</title>
     <link>https://mods.vintagestory.at/show/mod/cats</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cats#400</guid>
     <pubDate>Tue, 11 Aug 2026 19:13:27 -0000</pubDate>
     <description>Adds tameable cats to the game. Requires PetAI.</description>
-  </item>
-  <item>
-    <title>Castaways Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10941</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10941#10941</guid>
-    <pubDate>Tue, 11 Aug 2026 19:00:37 -0000</pubDate>
-    <description>Tweaks to Improved Metallurgy</description>
   </item>
   <item>
     <title>Animal cages</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10228#10228</guid>
     <pubDate>Tue, 11 Aug 2026 16:11:23 -0000</pubDate>
     <description>Adds several new features regarding pyrolyzing different fuels. </description>
-  </item>
-  <item>
-    <title>Coconut Elk Hoof Sounds</title>
-    <link>https://mods.vintagestory.at/show/mod/6128</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6128#6128</guid>
-    <pubDate>Tue, 11 Aug 2026 16:06:35 -0000</pubDate>
-    <description>Changes the trot and gallop sound effects for home recorded coconut ones</description>
-  </item>
-  <item>
-    <title>Alternate Elk Hoof Sounds</title>
-    <link>https://mods.vintagestory.at/show/mod/5691</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5691#5691</guid>
-    <pubDate>Tue, 11 Aug 2026 16:06:17 -0000</pubDate>
-    <description>Changes the trot and gallop sound effects for sharper ones</description>
-  </item>
-  <item>
-    <title>Fablewood Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/10778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
-    <pubDate>Tue, 11 Aug 2026 16:05:59 -0000</pubDate>
-    <description>Skill and class mod for the Fablewood server</description>
-  </item>
-  <item>
-    <title>Fablewood Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Tue, 11 Aug 2026 16:00:28 -0000</pubDate>
-    <description>Harmony patches for compatibility.</description>
-  </item>
-  <item>
-    <title>Player Corpse (Azu Modded)</title>
-    <link>https://mods.vintagestory.at/show/mod/playercorpseforkedazu</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playercorpseforkedazu#9221</guid>
-    <pubDate>Tue, 11 Aug 2026 16:00:15 -0000</pubDate>
-    <description>Creates a corpse with the player's inventory after death (1.22+)</description>
-  </item>
-  <item>
-    <title>LauncherGo</title>
-    <link>https://mods.vintagestory.at/show/mod/launchergo</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergo#9280</guid>
-    <pubDate>Tue, 11 Aug 2026 15:55:02 -0000</pubDate>
-    <description>LauncherGo is a graphical server launcher for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Arcadia Monster Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/9626</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9626#9626</guid>
-    <pubDate>Tue, 11 Aug 2026 15:44:10 -0000</pubDate>
-    <description>Arcadia Monster Patch</description>
-  </item>
-  <item>
-    <title>Jazzberry's Cool Cooking Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/cookingtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cookingtweaks#4132</guid>
-    <pubDate>Tue, 11 Aug 2026 15:36:54 -0000</pubDate>
-    <description>Various tweaks to various cooking mods - for your culinary pleasure!</description>
   </item>
 </channel>
 </rss>
