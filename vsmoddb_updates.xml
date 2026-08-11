@@ -4,20 +4,97 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 11 Aug 2026 17:58:51 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 19:13:50 +0000</lastBuildDate>
+  <item>
+    <title>Cats</title>
+    <link>https://mods.vintagestory.at/show/mod/cats</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cats#400</guid>
+    <pubDate>Tue, 11 Aug 2026 19:13:27 -0000</pubDate>
+    <description>Adds tameable cats to the game. Requires PetAI.</description>
+  </item>
+  <item>
+    <title>Castaways Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10941</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10941#10941</guid>
+    <pubDate>Tue, 11 Aug 2026 19:00:37 -0000</pubDate>
+    <description>Tweaks to Improved Metallurgy</description>
+  </item>
+  <item>
+    <title>Animal cages</title>
+    <link>https://mods.vintagestory.at/show/mod/animalcages</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalcages#306</guid>
+    <pubDate>Tue, 11 Aug 2026 18:58:43 -0000</pubDate>
+    <description>Adds cages to the game for capturing animals.</description>
+  </item>
+  <item>
+    <title>Ballista</title>
+    <link>https://mods.vintagestory.at/show/mod/10794</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10794#10794</guid>
+    <pubDate>Tue, 11 Aug 2026 18:53:14 -0000</pubDate>
+    <description>Adds a functional ballista to the game. Currently in Beta</description>
+  </item>
+  <item>
+    <title>Tweakfactory</title>
+    <link>https://mods.vintagestory.at/show/mod/tweakfactory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tweakfactory#10875</guid>
+    <pubDate>Tue, 11 Aug 2026 18:50:41 -0000</pubDate>
+    <description>Tweakmod um Klassenspezifische Rezepte einzubinden.</description>
+  </item>
+  <item>
+    <title>Directional Bombs</title>
+    <link>https://mods.vintagestory.at/show/mod/directionalbombs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/directionalbombs#10940</guid>
+    <pubDate>Tue, 11 Aug 2026 18:38:53 -0000</pubDate>
+    <description>Ever wanted to dig a tunel with bombs? A moat? Anything more line-shaped than sphere? So did I!</description>
+  </item>
+  <item>
+    <title>Tallybook</title>
+    <link>https://mods.vintagestory.at/show/mod/10864</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
+    <pubDate>Tue, 11 Aug 2026 18:29:22 -0000</pubDate>
+    <description>Crafting shopping list, villager quest tracker, and spoiler-free story guide. Fully client-side.</description>
+  </item>
+  <item>
+    <title>Better Loot Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/blp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blp#10873</guid>
+    <pubDate>Tue, 11 Aug 2026 18:29:16 -0000</pubDate>
+    <description>Configurable Better loot from hostile entities like Drifters, Shivers, Bowtorns</description>
+  </item>
+  <item>
+    <title>Amphithere: Winged Serpent</title>
+    <link>https://mods.vintagestory.at/show/mod/amphithere</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/amphithere#10798</guid>
+    <pubDate>Tue, 11 Aug 2026 18:21:34 -0000</pubDate>
+    <description>Adds an amphithere dragon species to the world.</description>
+  </item>
+  <item>
+    <title>Better and Improved Weather Continued</title>
+    <link>https://mods.vintagestory.at/show/mod/biwc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biwc#10765</guid>
+    <pubDate>Tue, 11 Aug 2026 18:20:48 -0000</pubDate>
+    <description>Better and improved weather for Vintage Story. </description>
+  </item>
+  <item>
+    <title>Fablewood Feverstone Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/10907</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10907#10907</guid>
+    <pubDate>Tue, 11 Aug 2026 18:14:02 -0000</pubDate>
+    <description>Compatibility mod for Feverstone Wilds with our other mods.</description>
+  </item>
+  <item>
+    <title>Auto Walk Extended</title>
+    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
+    <pubDate>Tue, 11 Aug 2026 18:12:49 -0000</pubDate>
+    <description>Toggle walking/running. Options for sneak toggle, stepup and mouse button lock.</description>
+  </item>
   <item>
     <title>Hydrate or Diedrate</title>
     <link>https://mods.vintagestory.at/show/mod/hydrateordiedrate</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hydrateordiedrate#2282</guid>
     <pubDate>Tue, 11 Aug 2026 17:55:45 -0000</pubDate>
     <description>A mod that adds thirst and hydration mechanics as well as hot weather survival.</description>
-  </item>
-  <item>
-    <title>Auto Walk Extended</title>
-    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
-    <pubDate>Tue, 11 Aug 2026 17:49:25 -0000</pubDate>
-    <description>Toggle walking/running. Options to toggle sneaking and automatic climbing.</description>
   </item>
   <item>
     <title>FancyHUD</title>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cookingtweaks#4132</guid>
     <pubDate>Tue, 11 Aug 2026 15:36:54 -0000</pubDate>
     <description>Various tweaks to various cooking mods - for your culinary pleasure!</description>
-  </item>
-  <item>
-    <title>Locks &amp; Keys</title>
-    <link>https://mods.vintagestory.at/show/mod/locksandkeys</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/locksandkeys#10917</guid>
-    <pubDate>Tue, 11 Aug 2026 15:14:54 -0000</pubDate>
-    <description>Adds keys for your locks, key crafting, and using stolen keys.</description>
-  </item>
-  <item>
-    <title>Rapid Water Divert Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/rapidwaterdivertfix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rapidwaterdivertfix#10938</guid>
-    <pubDate>Tue, 11 Aug 2026 15:12:31 -0000</pubDate>
-    <description>Prevents ordinary water from sustaining or creating diverted rapid-water paths.</description>
-  </item>
-  <item>
-    <title>PPG Gaming RP Server Companion Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/ppgrp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ppgrp#3327</guid>
-    <pubDate>Tue, 11 Aug 2026 15:12:07 -0000</pubDate>
-    <description>Mod containing customizations for the PPG RP Server</description>
-  </item>
-  <item>
-    <title>Fun Ways To Dye</title>
-    <link>https://mods.vintagestory.at/show/mod/10937</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10937#10937</guid>
-    <pubDate>Tue, 11 Aug 2026 15:06:38 -0000</pubDate>
-    <description>Adds more ways to make dye, with more accessible ingredients.</description>
-  </item>
-  <item>
-    <title>Fanloid Fantweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10433</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10433#10433</guid>
-    <pubDate>Tue, 11 Aug 2026 15:00:06 -0000</pubDate>
-    <description>Misc patches.</description>
-  </item>
-  <item>
-    <title>Free Immersive Craft</title>
-    <link>https://mods.vintagestory.at/show/mod/freeimmersivecraft</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/freeimmersivecraft#8749</guid>
-    <pubDate>Tue, 11 Aug 2026 14:45:33 -0000</pubDate>
-    <description>Craft single-ingredient recipes in-world… Ghost recipe overlay, cycling recipes, server-safe.</description>
-  </item>
-  <item>
-    <title>JSON Patches lib</title>
-    <link>https://mods.vintagestory.at/show/mod/jsonpatcheslib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jsonpatcheslib#7185</guid>
-    <pubDate>Tue, 11 Aug 2026 14:42:25 -0000</pubDate>
-    <description>Implements more convinient syntax and more functionality for patching JSON assets.</description>
-  </item>
-  <item>
-    <title>Tweakfactory</title>
-    <link>https://mods.vintagestory.at/show/mod/tweakfactory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tweakfactory#10875</guid>
-    <pubDate>Tue, 11 Aug 2026 14:32:07 -0000</pubDate>
-    <description>Tweakmod um Klassenspezifische Rezepte einzubinden.</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Tue, 11 Aug 2026 14:28:22 -0000</pubDate>
-    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
-  </item>
-  <item>
-    <title>Better Scrap fix</title>
-    <link>https://mods.vintagestory.at/show/mod/8320</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8320#8320</guid>
-    <pubDate>Tue, 11 Aug 2026 13:20:31 -0000</pubDate>
-    <description>Jonas's helmet fixed</description>
-  </item>
-  <item>
-    <title>Mastodon Trunk fix</title>
-    <link>https://mods.vintagestory.at/show/mod/9661</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9661#9661</guid>
-    <pubDate>Tue, 11 Aug 2026 13:20:14 -0000</pubDate>
-    <description>Mastodon Trunk fixed</description>
   </item>
 </channel>
 </rss>
