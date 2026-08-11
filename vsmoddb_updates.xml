@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 11 Aug 2026 03:47:05 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 05:11:36 +0000</lastBuildDate>
+  <item>
+    <title>Starter Kit Bundle</title>
+    <link>https://mods.vintagestory.at/show/mod/vsstarterkit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsstarterkit#10924</guid>
+    <pubDate>Tue, 11 Aug 2026 05:04:36 -0000</pubDate>
+    <description>New players get a deployable bundle that unpacks into a stocked starter container.</description>
+  </item>
+  <item>
+    <title>Animal Kinship</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinship</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinship#9647</guid>
+    <pubDate>Tue, 11 Aug 2026 05:04:20 -0000</pubDate>
+    <description>Animals recognize their feral kin, with simple taming for supported wildlife.</description>
+  </item>
+  <item>
+    <title>Grassroots</title>
+    <link>https://mods.vintagestory.at/show/mod/grassroots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
+    <pubDate>Tue, 11 Aug 2026 04:38:20 -0000</pubDate>
+    <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
+  </item>
+  <item>
+    <title>VR_XSxACA</title>
+    <link>https://mods.vintagestory.at/show/mod/10923</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10923#10923</guid>
+    <pubDate>Tue, 11 Aug 2026 04:34:54 -0000</pubDate>
+    <description>tweak</description>
+  </item>
+  <item>
+    <title>Frontier Claims Map</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Tue, 11 Aug 2026 04:18:57 -0000</pubDate>
+    <description>Claim map and access controls for internal testing on a private server.</description>
+  </item>
+  <item>
+    <title>Ozzie's Clothing</title>
+    <link>https://mods.vintagestory.at/show/mod/ozziesclothing</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ozziesclothing#10026</guid>
+    <pubDate>Tue, 11 Aug 2026 04:09:34 -0000</pubDate>
+    <description>A simple clothing mod, this is my first attempt at modding so don't expect it to be that good.</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Tue, 11 Aug 2026 03:59:27 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
+  <item>
+    <title>Rudiments</title>
+    <link>https://mods.vintagestory.at/show/mod/9305</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
+    <pubDate>Tue, 11 Aug 2026 03:47:44 -0000</pubDate>
+    <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
+  </item>
   <item>
     <title>VR_BS</title>
     <link>https://mods.vintagestory.at/show/mod/10661</link>
@@ -27,13 +83,6 @@
     <description>Coca farming. Grow, dry, leech, refine, and recrystalize. Aim for the purest product.</description>
   </item>
   <item>
-    <title>Grassroots</title>
-    <link>https://mods.vintagestory.at/show/mod/grassroots</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
-    <pubDate>Tue, 11 Aug 2026 03:13:24 -0000</pubDate>
-    <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
-  </item>
-  <item>
     <title>Tethys Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/tethysservertweaks</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tethysservertweaks#6101</guid>
@@ -46,13 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/freeimmersivecraft#8749</guid>
     <pubDate>Tue, 11 Aug 2026 03:11:16 -0000</pubDate>
     <description>Craft single-ingredient recipes in-world… Ghost recipe overlay, cycling recipes, server-safe.</description>
-  </item>
-  <item>
-    <title>Ozzie's Clothing</title>
-    <link>https://mods.vintagestory.at/show/mod/ozziesclothing</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ozziesclothing#10026</guid>
-    <pubDate>Tue, 11 Aug 2026 03:09:11 -0000</pubDate>
-    <description>A simple clothing mod, this is my first attempt at modding so don't expect it to be that good.</description>
   </item>
   <item>
     <title>Worm Castings Expanded</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/locksandkeys#10917</guid>
     <pubDate>Mon, 10 Aug 2026 22:51:48 -0000</pubDate>
     <description>Adds keys for your locks, key crafting, and using stolen keys.</description>
-  </item>
-  <item>
-    <title>Novak the bug [Tetsune's Insectoid Player Model]</title>
-    <link>https://mods.vintagestory.at/show/mod/10916</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10916#10916</guid>
-    <pubDate>Mon, 10 Aug 2026 22:39:10 -0000</pubDate>
-    <description>Adds custom parts for my friend's character</description>
-  </item>
-  <item>
-    <title>Involved Farming: Fallow</title>
-    <link>https://mods.vintagestory.at/show/mod/10691</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10691#10691</guid>
-    <pubDate>Mon, 10 Aug 2026 22:35:55 -0000</pubDate>
-    <description>Adds fallow- an additional, immersive step between harvested and sowed farmland.</description>
-  </item>
-  <item>
-    <title>Fablewood Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Mon, 10 Aug 2026 22:34:11 -0000</pubDate>
-    <description>JSON content patches</description>
-  </item>
-  <item>
-    <title>Fablewood Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Mon, 10 Aug 2026 22:33:08 -0000</pubDate>
-    <description>Harmony patches for compatibility.</description>
-  </item>
-  <item>
-    <title>Fablewood Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/10778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
-    <pubDate>Mon, 10 Aug 2026 22:32:15 -0000</pubDate>
-    <description>Skill and class mod for the Fablewood server</description>
-  </item>
-  <item>
-    <title>NDL Villagers</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlvillagers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlvillagers#3429</guid>
-    <pubDate>Mon, 10 Aug 2026 22:13:33 -0000</pubDate>
-    <description>Adds Villagers/Guards/Clerics to populate your builds and also a way to get traders in your builds!</description>
   </item>
 </channel>
 </rss>
