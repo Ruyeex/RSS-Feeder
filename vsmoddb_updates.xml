@@ -4,20 +4,104 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 11 Aug 2026 05:11:36 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 07:11:39 +0000</lastBuildDate>
+  <item>
+    <title>Animal Kinship</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinship</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinship#9647</guid>
+    <pubDate>Tue, 11 Aug 2026 06:35:04 -0000</pubDate>
+    <description>Animals recognize their feral kin, with simple taming for supported wildlife.</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Tue, 11 Aug 2026 06:25:20 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
+  <item>
+    <title>Snoopy's Recipe Select</title>
+    <link>https://mods.vintagestory.at/show/mod/9818</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9818#9818</guid>
+    <pubDate>Tue, 11 Aug 2026 06:14:03 -0000</pubDate>
+    <description>Adds pagination to crafting recipe result for duplicate recipes that result in the different output.</description>
+  </item>
+  <item>
+    <title>Fablewood Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
+    <pubDate>Tue, 11 Aug 2026 06:11:31 -0000</pubDate>
+    <description>JSON content patches</description>
+  </item>
+  <item>
+    <title>Fablewood Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Tue, 11 Aug 2026 06:10:43 -0000</pubDate>
+    <description>Skill and class mod for the Fablewood server</description>
+  </item>
+  <item>
+    <title>Hostile Zones</title>
+    <link>https://mods.vintagestory.at/show/mod/vshostilezones</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vshostilezones#10927</guid>
+    <pubDate>Tue, 11 Aug 2026 06:05:21 -0000</pubDate>
+    <description>Passive world, dangerous places. Mark areas where creatures turn hostile.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Tue, 11 Aug 2026 05:46:07 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Rustique: Vintage Story Mod Manager - Linux</title>
+    <link>https://mods.vintagestory.at/show/mod/rustique</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustique#3972</guid>
+    <pubDate>Tue, 11 Aug 2026 05:45:41 -0000</pubDate>
+    <description>A fast AF mod manager &amp; updater that handles dependencies and has modpack support!</description>
+  </item>
+  <item>
+    <title>Rustique: Vintage Story Mod Manager - Windows</title>
+    <link>https://mods.vintagestory.at/show/mod/rustiquewindows</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustiquewindows#4019</guid>
+    <pubDate>Tue, 11 Aug 2026 05:44:57 -0000</pubDate>
+    <description>A fast AF mod manager &amp; updater that handles dependencies and has modpack support!</description>
+  </item>
+  <item>
+    <title>Invisible Chunk Bug Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/nomoreinvisiblechunks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nomoreinvisiblechunks#10926</guid>
+    <pubDate>Tue, 11 Aug 2026 05:37:24 -0000</pubDate>
+    <description>Fixes invisible chunks. Mostly.</description>
+  </item>
+  <item>
+    <title>Angler's Catch</title>
+    <link>https://mods.vintagestory.at/show/mod/anglerscatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/anglerscatch#10809</guid>
+    <pubDate>Tue, 11 Aug 2026 05:24:46 -0000</pubDate>
+    <description>Adds length and size to the vanilla fish, fish in the top 20% get a Trophy Tag</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Tue, 11 Aug 2026 05:18:46 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Realistic Physiology and Survival</title>
+    <link>https://mods.vintagestory.at/show/mod/10784</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10784#10784</guid>
+    <pubDate>Tue, 11 Aug 2026 05:15:38 -0000</pubDate>
+    <description>Imagine if Rimworld, Project Zomboid, and Oxygen not Included survival was combined.</description>
+  </item>
   <item>
     <title>Starter Kit Bundle</title>
     <link>https://mods.vintagestory.at/show/mod/vsstarterkit</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsstarterkit#10924</guid>
     <pubDate>Tue, 11 Aug 2026 05:04:36 -0000</pubDate>
     <description>New players get a deployable bundle that unpacks into a stocked starter container.</description>
-  </item>
-  <item>
-    <title>Animal Kinship</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinship</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinship#9647</guid>
-    <pubDate>Tue, 11 Aug 2026 05:04:20 -0000</pubDate>
-    <description>Animals recognize their feral kin, with simple taming for supported wildlife.</description>
   </item>
   <item>
     <title>Grassroots</title>
@@ -104,13 +188,6 @@
     <description>A very niche addition to Primitive Survival.</description>
   </item>
   <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Tue, 11 Aug 2026 02:08:11 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
     <title>BNI Essentials</title>
     <link>https://mods.vintagestory.at/show/mod/bniessentials</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bniessentials#10690</guid>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10803#10803</guid>
     <pubDate>Tue, 11 Aug 2026 00:47:45 -0000</pubDate>
     <description>Hooked On Hydro </description>
-  </item>
-  <item>
-    <title>Cellar Door (Port)</title>
-    <link>https://mods.vintagestory.at/show/mod/cellardoorport</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cellardoorport#10895</guid>
-    <pubDate>Tue, 11 Aug 2026 00:45:54 -0000</pubDate>
-    <description>A port of the Cellar Door mod with support for the new ceramic colors.</description>
-  </item>
-  <item>
-    <title>Holdfast Theme Pack: GB's Simple Builds</title>
-    <link>https://mods.vintagestory.at/show/mod/10715</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10715#10715</guid>
-    <pubDate>Tue, 11 Aug 2026 00:36:55 -0000</pubDate>
-    <description>Earlygame theme pack for the Holdfast mod.</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Tue, 11 Aug 2026 00:24:49 -0000</pubDate>
-    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
-  </item>
-  <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Tue, 11 Aug 2026 00:21:20 -0000</pubDate>
-    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
-  </item>
-  <item>
-    <title>Slightly more vanilla Kobolds</title>
-    <link>https://mods.vintagestory.at/show/mod/10919</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10919#10919</guid>
-    <pubDate>Tue, 11 Aug 2026 00:09:27 -0000</pubDate>
-    <description>Edits for Caliber's Kobold Player Model Redux mod</description>
-  </item>
-  <item>
-    <title>VS Discord Relay</title>
-    <link>https://mods.vintagestory.at/show/mod/10775</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10775#10775</guid>
-    <pubDate>Mon, 10 Aug 2026 23:52:00 -0000</pubDate>
-    <description>A simple discord to server chat bridge for your Vintage Story server needs!</description>
-  </item>
-  <item>
-    <title>VS Terrain Diffusion</title>
-    <link>https://mods.vintagestory.at/show/mod/vsterraindiffusion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsterraindiffusion#10918</guid>
-    <pubDate>Mon, 10 Aug 2026 23:37:23 -0000</pubDate>
-    <description>Generate terrain with a neural heightmap model trained on real Earth topography</description>
-  </item>
-  <item>
-    <title>Amphithere: Winged Serpent</title>
-    <link>https://mods.vintagestory.at/show/mod/amphithere</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/amphithere#10798</guid>
-    <pubDate>Mon, 10 Aug 2026 23:26:13 -0000</pubDate>
-    <description>Adds an amphithere dragon species to the world.</description>
-  </item>
-  <item>
-    <title>Tallybook</title>
-    <link>https://mods.vintagestory.at/show/mod/10864</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
-    <pubDate>Mon, 10 Aug 2026 23:24:57 -0000</pubDate>
-    <description>Crafting shopping list, villager quest tracker, and spoiler-free story guide. Fully client-side.</description>
-  </item>
-  <item>
-    <title>Extra Shelves</title>
-    <link>https://mods.vintagestory.at/show/mod/7546</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7546#7546</guid>
-    <pubDate>Mon, 10 Aug 2026 23:21:51 -0000</pubDate>
-    <description>Adds a few variant of shelves like the game's shelves.</description>
-  </item>
-  <item>
-    <title>Locks &amp; Keys</title>
-    <link>https://mods.vintagestory.at/show/mod/locksandkeys</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/locksandkeys#10917</guid>
-    <pubDate>Mon, 10 Aug 2026 22:51:48 -0000</pubDate>
-    <description>Adds keys for your locks, key crafting, and using stolen keys.</description>
   </item>
 </channel>
 </rss>
