@@ -4,34 +4,76 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 11 Aug 2026 01:54:50 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 03:47:05 +0000</lastBuildDate>
+  <item>
+    <title>VR_BS</title>
+    <link>https://mods.vintagestory.at/show/mod/10661</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10661#10661</guid>
+    <pubDate>Tue, 11 Aug 2026 03:38:05 -0000</pubDate>
+    <description>tweak</description>
+  </item>
+  <item>
+    <title>VSNH Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/vsnhtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsnhtweaks#8336</guid>
+    <pubDate>Tue, 11 Aug 2026 03:22:09 -0000</pubDate>
+    <description>Tweaks and modifications for the Vintage Story New Horizons server.</description>
+  </item>
+  <item>
+    <title>Grassroots Coca</title>
+    <link>https://mods.vintagestory.at/show/mod/grassrootscoca</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassrootscoca#10921</guid>
+    <pubDate>Tue, 11 Aug 2026 03:14:35 -0000</pubDate>
+    <description>Coca farming. Grow, dry, leech, refine, and recrystalize. Aim for the purest product.</description>
+  </item>
+  <item>
+    <title>Grassroots</title>
+    <link>https://mods.vintagestory.at/show/mod/grassroots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
+    <pubDate>Tue, 11 Aug 2026 03:13:24 -0000</pubDate>
+    <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
+  </item>
+  <item>
+    <title>Tethys Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tethysservertweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tethysservertweaks#6101</guid>
+    <pubDate>Tue, 11 Aug 2026 03:12:42 -0000</pubDate>
+    <description>Tweaks for a personal private server.</description>
+  </item>
+  <item>
+    <title>Free Immersive Craft</title>
+    <link>https://mods.vintagestory.at/show/mod/freeimmersivecraft</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/freeimmersivecraft#8749</guid>
+    <pubDate>Tue, 11 Aug 2026 03:11:16 -0000</pubDate>
+    <description>Craft single-ingredient recipes in-world… Ghost recipe overlay, cycling recipes, server-safe.</description>
+  </item>
+  <item>
+    <title>Ozzie's Clothing</title>
+    <link>https://mods.vintagestory.at/show/mod/ozziesclothing</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ozziesclothing#10026</guid>
+    <pubDate>Tue, 11 Aug 2026 03:09:11 -0000</pubDate>
+    <description>A simple clothing mod, this is my first attempt at modding so don't expect it to be that good.</description>
+  </item>
+  <item>
+    <title>Worm Castings Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/10231</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10231#10231</guid>
+    <pubDate>Tue, 11 Aug 2026 02:39:27 -0000</pubDate>
+    <description>A very niche addition to Primitive Survival.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Tue, 11 Aug 2026 02:08:11 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
   <item>
     <title>BNI Essentials</title>
     <link>https://mods.vintagestory.at/show/mod/bniessentials</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bniessentials#10690</guid>
     <pubDate>Tue, 11 Aug 2026 01:37:49 -0000</pubDate>
     <description>Essential game play enhancing features and tweaks for the Batteries Not Included community server.</description>
-  </item>
-  <item>
-    <title>VSNH Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/vsnhtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsnhtweaks#8336</guid>
-    <pubDate>Tue, 11 Aug 2026 01:34:48 -0000</pubDate>
-    <description>Tweaks and modifications for the Vintage Story New Horizons server.</description>
-  </item>
-  <item>
-    <title>Worm Castings Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/10231</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10231#10231</guid>
-    <pubDate>Tue, 11 Aug 2026 01:32:29 -0000</pubDate>
-    <description>A very niche addition to Primitive Survival.</description>
-  </item>
-  <item>
-    <title>Tethys Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tethysservertweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tethysservertweaks#6101</guid>
-    <pubDate>Tue, 11 Aug 2026 01:23:24 -0000</pubDate>
-    <description>Tweaks for a personal private server.</description>
   </item>
   <item>
     <title>Electrical Progressive: Basics No Gen</title>
@@ -95,13 +137,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10775#10775</guid>
     <pubDate>Mon, 10 Aug 2026 23:52:00 -0000</pubDate>
     <description>A simple discord to server chat bridge for your Vintage Story server needs!</description>
-  </item>
-  <item>
-    <title>VR_BS</title>
-    <link>https://mods.vintagestory.at/show/mod/10661</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10661#10661</guid>
-    <pubDate>Mon, 10 Aug 2026 23:46:32 -0000</pubDate>
-    <description>tweak</description>
   </item>
   <item>
     <title>VS Terrain Diffusion</title>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlvillagers#3429</guid>
     <pubDate>Mon, 10 Aug 2026 22:13:33 -0000</pubDate>
     <description>Adds Villagers/Guards/Clerics to populate your builds and also a way to get traders in your builds!</description>
-  </item>
-  <item>
-    <title>Antique Harmony | Music Additions / Alternative Soundtrack</title>
-    <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiqueharmony#7141</guid>
-    <pubDate>Mon, 10 Aug 2026 22:03:34 -0000</pubDate>
-    <description>Adds to/replaces soundtrack with original orchestral one, written for the game.</description>
-  </item>
-  <item>
-    <title>Vein Miner Revamp</title>
-    <link>https://mods.vintagestory.at/show/mod/veinminerrevamp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/veinminerrevamp#9516</guid>
-    <pubDate>Mon, 10 Aug 2026 21:52:08 -0000</pubDate>
-    <description>Hold sneak while breaking an ore to mine the entire connected vein at once. </description>
-  </item>
-  <item>
-    <title>ChunkLOD</title>
-    <link>https://mods.vintagestory.at/show/mod/chunklod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chunklod#7929</guid>
-    <pubDate>Mon, 10 Aug 2026 21:48:38 -0000</pubDate>
-    <description>A Heavily Modified Fork of Farseer, representing terrain, rock type, forestation, and water as LOD's</description>
-  </item>
-  <item>
-    <title>Ambien's Easy Chunk Claim</title>
-    <link>https://mods.vintagestory.at/show/mod/9368</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9368#9368</guid>
-    <pubDate>Mon, 10 Aug 2026 21:39:47 -0000</pubDate>
-    <description>Simple chunk claiming made for servers</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Mon, 10 Aug 2026 21:38:20 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
 </channel>
 </rss>
