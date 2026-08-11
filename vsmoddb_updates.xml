@@ -4,13 +4,48 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 11 Aug 2026 10:07:14 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 11:45:44 +0000</lastBuildDate>
+  <item>
+    <title>VS Village</title>
+    <link>https://mods.vintagestory.at/show/mod/vsvillage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsvillage#586</guid>
+    <pubDate>Tue, 11 Aug 2026 11:36:20 -0000</pubDate>
+    <description>Adds villages and villagers to the world.</description>
+  </item>
   <item>
     <title>topgsmod</title>
     <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Tue, 11 Aug 2026 09:25:01 -0000</pubDate>
+    <pubDate>Tue, 11 Aug 2026 11:31:04 -0000</pubDate>
     <description>TopGs Community Mod</description>
+  </item>
+  <item>
+    <title>Realms 0.3.4</title>
+    <link>https://mods.vintagestory.at/show/mod/realms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realms#10484</guid>
+    <pubDate>Tue, 11 Aug 2026 11:28:20 -0000</pubDate>
+    <description>Realms a full multimap portal system</description>
+  </item>
+  <item>
+    <title>Quiet Starvation</title>
+    <link>https://mods.vintagestory.at/show/mod/quietstarvation</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/quietstarvation#10933</guid>
+    <pubDate>Tue, 11 Aug 2026 11:23:13 -0000</pubDate>
+    <description>Reduces the frequency of hunger damage (6s in vanilla) to be less annoying to listen to.</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Tue, 11 Aug 2026 10:32:06 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Tweakfactory</title>
+    <link>https://mods.vintagestory.at/show/mod/tweakfactory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tweakfactory#10875</guid>
+    <pubDate>Tue, 11 Aug 2026 10:28:41 -0000</pubDate>
+    <description>Tweakmod um Klassenspezifische Rezepte einzubinden.</description>
   </item>
   <item>
     <title>Steelmaking Expanded</title>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10661#10661</guid>
     <pubDate>Tue, 11 Aug 2026 03:38:05 -0000</pubDate>
     <description>tweak</description>
-  </item>
-  <item>
-    <title>VSNH Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/vsnhtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsnhtweaks#8336</guid>
-    <pubDate>Tue, 11 Aug 2026 03:22:09 -0000</pubDate>
-    <description>Tweaks and modifications for the Vintage Story New Horizons server.</description>
-  </item>
-  <item>
-    <title>Grassroots Coca</title>
-    <link>https://mods.vintagestory.at/show/mod/grassrootscoca</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassrootscoca#10921</guid>
-    <pubDate>Tue, 11 Aug 2026 03:14:35 -0000</pubDate>
-    <description>Coca farming. Grow, dry, leech, refine, and recrystalize. Aim for the purest product.</description>
-  </item>
-  <item>
-    <title>Tethys Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tethysservertweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tethysservertweaks#6101</guid>
-    <pubDate>Tue, 11 Aug 2026 03:12:42 -0000</pubDate>
-    <description>Tweaks for a personal private server.</description>
-  </item>
-  <item>
-    <title>Free Immersive Craft</title>
-    <link>https://mods.vintagestory.at/show/mod/freeimmersivecraft</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/freeimmersivecraft#8749</guid>
-    <pubDate>Tue, 11 Aug 2026 03:11:16 -0000</pubDate>
-    <description>Craft single-ingredient recipes in-world… Ghost recipe overlay, cycling recipes, server-safe.</description>
-  </item>
-  <item>
-    <title>Worm Castings Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/10231</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10231#10231</guid>
-    <pubDate>Tue, 11 Aug 2026 02:39:27 -0000</pubDate>
-    <description>A very niche addition to Primitive Survival.</description>
   </item>
 </channel>
 </rss>
