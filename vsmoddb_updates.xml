@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 11 Aug 2026 13:10:45 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 14:59:51 +0000</lastBuildDate>
+  <item>
+    <title>Fanloid Fantweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10433</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10433#10433</guid>
+    <pubDate>Tue, 11 Aug 2026 14:54:10 -0000</pubDate>
+    <description>Misc patches.</description>
+  </item>
+  <item>
+    <title>FancyHUD</title>
+    <link>https://mods.vintagestory.at/show/mod/10935</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10935#10935</guid>
+    <pubDate>Tue, 11 Aug 2026 14:49:59 -0000</pubDate>
+    <description>Informative fancy HUD</description>
+  </item>
+  <item>
+    <title>Free Immersive Craft</title>
+    <link>https://mods.vintagestory.at/show/mod/freeimmersivecraft</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/freeimmersivecraft#8749</guid>
+    <pubDate>Tue, 11 Aug 2026 14:45:33 -0000</pubDate>
+    <description>Craft single-ingredient recipes in-world… Ghost recipe overlay, cycling recipes, server-safe.</description>
+  </item>
+  <item>
+    <title>JSON Patches lib</title>
+    <link>https://mods.vintagestory.at/show/mod/jsonpatcheslib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jsonpatcheslib#7185</guid>
+    <pubDate>Tue, 11 Aug 2026 14:42:25 -0000</pubDate>
+    <description>Implements more convinient syntax and more functionality for patching JSON assets.</description>
+  </item>
+  <item>
+    <title>Tweakfactory</title>
+    <link>https://mods.vintagestory.at/show/mod/tweakfactory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tweakfactory#10875</guid>
+    <pubDate>Tue, 11 Aug 2026 14:32:07 -0000</pubDate>
+    <description>Tweakmod um Klassenspezifische Rezepte einzubinden.</description>
+  </item>
+  <item>
+    <title>Simple Voice Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
+    <pubDate>Tue, 11 Aug 2026 14:28:22 -0000</pubDate>
+    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
+  </item>
+  <item>
+    <title>Better Scrap fix</title>
+    <link>https://mods.vintagestory.at/show/mod/8320</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8320#8320</guid>
+    <pubDate>Tue, 11 Aug 2026 13:20:31 -0000</pubDate>
+    <description>Jonas's helmet fixed</description>
+  </item>
+  <item>
+    <title>Mastodon Trunk fix</title>
+    <link>https://mods.vintagestory.at/show/mod/9661</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9661#9661</guid>
+    <pubDate>Tue, 11 Aug 2026 13:20:14 -0000</pubDate>
+    <description>Mastodon Trunk fixed</description>
+  </item>
+  <item>
+    <title>Fablewood Feverstone Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/10907</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10907#10907</guid>
+    <pubDate>Tue, 11 Aug 2026 13:15:37 -0000</pubDate>
+    <description>Compatibility mod for Feverstone Wilds with our other mods.</description>
+  </item>
+  <item>
+    <title>KFW Server Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/10761</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10761#10761</guid>
+    <pubDate>Tue, 11 Aug 2026 13:13:25 -0000</pubDate>
+    <description>Patches for KFW server modpack</description>
+  </item>
   <item>
     <title>The Working Classes - Whetstone Bug-Fix Fork</title>
     <link>https://mods.vintagestory.at/show/mod/theworkingclasseswspatch</link>
@@ -76,13 +146,6 @@
     <description>A bunch of fixes and additions for the server.</description>
   </item>
   <item>
-    <title>Tweakfactory</title>
-    <link>https://mods.vintagestory.at/show/mod/tweakfactory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tweakfactory#10875</guid>
-    <pubDate>Tue, 11 Aug 2026 10:28:41 -0000</pubDate>
-    <description>Tweakmod um Klassenspezifische Rezepte einzubinden.</description>
-  </item>
-  <item>
     <title>Steelmaking Expanded</title>
     <link>https://mods.vintagestory.at/show/mod/smex</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smex#9254</guid>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vshostilezones#10927</guid>
     <pubDate>Tue, 11 Aug 2026 06:05:21 -0000</pubDate>
     <description>Passive world, dangerous places. Mark areas where creatures turn hostile.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Tue, 11 Aug 2026 05:46:07 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Rustique: Vintage Story Mod Manager - Linux</title>
-    <link>https://mods.vintagestory.at/show/mod/rustique</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustique#3972</guid>
-    <pubDate>Tue, 11 Aug 2026 05:45:41 -0000</pubDate>
-    <description>A fast AF mod manager &amp; updater that handles dependencies and has modpack support!</description>
-  </item>
-  <item>
-    <title>Rustique: Vintage Story Mod Manager - Windows</title>
-    <link>https://mods.vintagestory.at/show/mod/rustiquewindows</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustiquewindows#4019</guid>
-    <pubDate>Tue, 11 Aug 2026 05:44:57 -0000</pubDate>
-    <description>A fast AF mod manager &amp; updater that handles dependencies and has modpack support!</description>
-  </item>
-  <item>
-    <title>Invisible Chunk Bug Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/nomoreinvisiblechunks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nomoreinvisiblechunks#10926</guid>
-    <pubDate>Tue, 11 Aug 2026 05:37:24 -0000</pubDate>
-    <description>Fixes invisible chunks. Mostly.</description>
-  </item>
-  <item>
-    <title>Angler's Catch</title>
-    <link>https://mods.vintagestory.at/show/mod/anglerscatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/anglerscatch#10809</guid>
-    <pubDate>Tue, 11 Aug 2026 05:24:46 -0000</pubDate>
-    <description>Adds length and size to the vanilla fish, fish in the top 20% get a Trophy Tag</description>
-  </item>
-  <item>
-    <title>Realistic Physiology and Survival</title>
-    <link>https://mods.vintagestory.at/show/mod/10784</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10784#10784</guid>
-    <pubDate>Tue, 11 Aug 2026 05:15:38 -0000</pubDate>
-    <description>Imagine if Rimworld, Project Zomboid, and Oxygen not Included survival was combined.</description>
-  </item>
-  <item>
-    <title>Starter Kit Bundle</title>
-    <link>https://mods.vintagestory.at/show/mod/vsstarterkit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsstarterkit#10924</guid>
-    <pubDate>Tue, 11 Aug 2026 05:04:36 -0000</pubDate>
-    <description>New players get a deployable bundle that unpacks into a stocked starter container.</description>
-  </item>
-  <item>
-    <title>Grassroots</title>
-    <link>https://mods.vintagestory.at/show/mod/grassroots</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
-    <pubDate>Tue, 11 Aug 2026 04:38:20 -0000</pubDate>
-    <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
-  </item>
-  <item>
-    <title>VR_XSxACA</title>
-    <link>https://mods.vintagestory.at/show/mod/10923</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10923#10923</guid>
-    <pubDate>Tue, 11 Aug 2026 04:34:54 -0000</pubDate>
-    <description>tweak</description>
   </item>
 </channel>
 </rss>
