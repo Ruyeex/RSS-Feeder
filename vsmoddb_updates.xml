@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 11 Aug 2026 22:44:43 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 23:42:24 +0000</lastBuildDate>
+  <item>
+    <title>Klassenkampf</title>
+    <link>https://mods.vintagestory.at/show/mod/klassenkampf</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/klassenkampf#10845</guid>
+    <pubDate>Tue, 11 Aug 2026 23:42:12 -0000</pubDate>
+    <description>Dies ist ein Klassenmod für Mut&amp;Glut 2 - Ein deutsches RP Projekt</description>
+  </item>
+  <item>
+    <title>Tweakfactory</title>
+    <link>https://mods.vintagestory.at/show/mod/tweakfactory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tweakfactory#10875</guid>
+    <pubDate>Tue, 11 Aug 2026 23:41:32 -0000</pubDate>
+    <description>Tweakmod um Klassenspezifische Rezepte einzubinden.</description>
+  </item>
+  <item>
+    <title>Salty´s TerraTag</title>
+    <link>https://mods.vintagestory.at/show/mod/terratag</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/terratag#6787</guid>
+    <pubDate>Tue, 11 Aug 2026 23:39:13 -0000</pubDate>
+    <description>Create named landmarks on your world map. Perfect for map freaks and kingdom servers!</description>
+  </item>
+  <item>
+    <title>River Flow Control</title>
+    <link>https://mods.vintagestory.at/show/mod/vsriverflow</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsriverflow#10948</guid>
+    <pubDate>Tue, 11 Aug 2026 23:31:17 -0000</pubDate>
+    <description>Settle Rivers' water current server-wide instead of asking every player to edit their config.</description>
+  </item>
+  <item>
+    <title>KCs Dragon Player!</title>
+    <link>https://mods.vintagestory.at/show/mod/kcsdragons</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragons#8146</guid>
+    <pubDate>Tue, 11 Aug 2026 23:18:07 -0000</pubDate>
+    <description>Adds an anthropomorphic dragon player model to the game</description>
+  </item>
+  <item>
+    <title>Brick-by-Brick</title>
+    <link>https://mods.vintagestory.at/show/mod/brickbybrick</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/brickbybrick#9808</guid>
+    <pubDate>Tue, 11 Aug 2026 23:14:48 -0000</pubDate>
+    <description>Add immersive mechanics for buildilng stone, brick and similar block types with trowels and pieces.</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Tue, 11 Aug 2026 22:48:24 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
   <item>
     <title>Bacon Bacon Bacon</title>
     <link>https://mods.vintagestory.at/show/mod/baconbaconbacon</link>
@@ -118,13 +167,6 @@
     <description>Adds a functional ballista to the game. Currently in Beta</description>
   </item>
   <item>
-    <title>Tweakfactory</title>
-    <link>https://mods.vintagestory.at/show/mod/tweakfactory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tweakfactory#10875</guid>
-    <pubDate>Tue, 11 Aug 2026 18:50:41 -0000</pubDate>
-    <description>Tweakmod um Klassenspezifische Rezepte einzubinden.</description>
-  </item>
-  <item>
     <title>Directional Bombs</title>
     <link>https://mods.vintagestory.at/show/mod/directionalbombs</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/directionalbombs#10940</guid>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
     <pubDate>Tue, 11 Aug 2026 18:12:49 -0000</pubDate>
     <description>Toggle walking/running. Options for sneak toggle, stepup and mouse button lock.</description>
-  </item>
-  <item>
-    <title>Hydrate or Diedrate</title>
-    <link>https://mods.vintagestory.at/show/mod/hydrateordiedrate</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hydrateordiedrate#2282</guid>
-    <pubDate>Tue, 11 Aug 2026 17:55:45 -0000</pubDate>
-    <description>A mod that adds thirst and hydration mechanics as well as hot weather survival.</description>
-  </item>
-  <item>
-    <title>FancyHUD</title>
-    <link>https://mods.vintagestory.at/show/mod/10935</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10935#10935</guid>
-    <pubDate>Tue, 11 Aug 2026 17:44:40 -0000</pubDate>
-    <description>Informative fancy HUD</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux - Expansion A</title>
-    <link>https://mods.vintagestory.at/show/mod/10825</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10825#10825</guid>
-    <pubDate>Tue, 11 Aug 2026 17:26:42 -0000</pubDate>
-    <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
-  </item>
-  <item>
-    <title>Butterfly display frame</title>
-    <link>https://mods.vintagestory.at/show/mod/10936</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10936#10936</guid>
-    <pubDate>Tue, 11 Aug 2026 17:01:39 -0000</pubDate>
-    <description>Adds wall-mounted butterfly display frames.</description>
-  </item>
-  <item>
-    <title>Emotes</title>
-    <link>https://mods.vintagestory.at/show/mod/emotes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/emotes#8235</guid>
-    <pubDate>Tue, 11 Aug 2026 16:31:01 -0000</pubDate>
-    <description>Adds more custom emotes to the game.</description>
-  </item>
-  <item>
-    <title>AE Portals Net</title>
-    <link>https://mods.vintagestory.at/show/mod/aeportalsnet</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aeportalsnet#7595</guid>
-    <pubDate>Tue, 11 Aug 2026 16:20:56 -0000</pubDate>
-    <description>Adds portals to your survival that can be connected into a network.</description>
   </item>
 </channel>
 </rss>
