@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 12 Aug 2026 14:59:06 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 16:04:46 +0000</lastBuildDate>
+  <item>
+    <title>Fablewood Guilds</title>
+    <link>https://mods.vintagestory.at/show/mod/9586</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9586#9586</guid>
+    <pubDate>Wed, 12 Aug 2026 16:04:41 -0000</pubDate>
+    <description>Guild mod</description>
+  </item>
+  <item>
+    <title>TaborServers</title>
+    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
+    <pubDate>Wed, 12 Aug 2026 15:56:09 -0000</pubDate>
+    <description>Patches fo most of Tabor servers</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Chisel32</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalschisel32</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalschisel32#8883</guid>
+    <pubDate>Wed, 12 Aug 2026 15:50:21 -0000</pubDate>
+    <description>Chisel32 adds high-detail 32x32x32 chiseling with a dedicated Fine Chisel tool</description>
+  </item>
+  <item>
+    <title>Fablewood Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Wed, 12 Aug 2026 15:43:26 -0000</pubDate>
+    <description>Skill and class mod for the Fablewood server</description>
+  </item>
+  <item>
+    <title>Fanloid Fantweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10433</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10433#10433</guid>
+    <pubDate>Wed, 12 Aug 2026 15:37:00 -0000</pubDate>
+    <description>Misc patches.</description>
+  </item>
+  <item>
+    <title>Hover Info</title>
+    <link>https://mods.vintagestory.at/show/mod/hoverinfo</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hoverinfo#10792</guid>
+    <pubDate>Wed, 12 Aug 2026 15:22:09 -0000</pubDate>
+    <description>A mod made for the Paw server to see the information of player held items also linkable to chat</description>
+  </item>
   <item>
     <title>WeaponDamageProficiencies</title>
     <link>https://mods.vintagestory.at/show/mod/6810</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
     <pubDate>Wed, 12 Aug 2026 05:23:03 -0000</pubDate>
     <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Rustbound Magic XSkills Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/rustboundmagicxskills</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustboundmagicxskills#3598</guid>
-    <pubDate>Wed, 12 Aug 2026 05:20:50 -0000</pubDate>
-    <description>Adds XSkills XP when killing mobs from the Rustbound Magic mod.</description>
-  </item>
-  <item>
-    <title>Rustbound Magic Easy Mode</title>
-    <link>https://mods.vintagestory.at/show/mod/3633</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3633#3633</guid>
-    <pubDate>Wed, 12 Aug 2026 05:20:20 -0000</pubDate>
-    <description>Make Rustbound Magic mobs easier to handle</description>
-  </item>
-  <item>
-    <title>Primitive Survival</title>
-    <link>https://mods.vintagestory.at/show/mod/primitivesurvival</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/primitivesurvival#322</guid>
-    <pubDate>Wed, 12 Aug 2026 05:20:09 -0000</pubDate>
-    <description>Fishing, trapping, irrigation, smoker, nightcrawlers, snakes, and much more!</description>
-  </item>
-  <item>
-    <title>Carry On</title>
-    <link>https://mods.vintagestory.at/show/mod/carryon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carryon#890</guid>
-    <pubDate>Wed, 12 Aug 2026 05:03:34 -0000</pubDate>
-    <description>Adds the capability to carry various things. Replaces CarryCapacity.</description>
-  </item>
-  <item>
-    <title>Advanced Geology</title>
-    <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedgeology#7167</guid>
-    <pubDate>Wed, 12 Aug 2026 04:58:10 -0000</pubDate>
-    <description>Adds new, realistic ores and stones with heavy IOG compatibility</description>
-  </item>
-  <item>
-    <title>Frontier Claims Map</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
-    <pubDate>Wed, 12 Aug 2026 04:25:42 -0000</pubDate>
-    <description>Claim map and access controls for internal testing on a private server.</description>
   </item>
 </channel>
 </rss>
