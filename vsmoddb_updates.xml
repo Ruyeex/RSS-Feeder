@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 11 Aug 2026 23:42:24 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 02:07:44 +0000</lastBuildDate>
+  <item>
+    <title>Size To Health Bonus</title>
+    <link>https://mods.vintagestory.at/show/mod/sizetohealthbonus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sizetohealthbonus#10849</guid>
+    <pubDate>Wed, 12 Aug 2026 01:47:44 -0000</pubDate>
+    <description>HP scales with your Player Model Lib size — bigger = tougher, smaller = weaker. Configurable.</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Wed, 12 Aug 2026 01:41:47 -0000</pubDate>
+    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
+  </item>
+  <item>
+    <title>Vanilla armory</title>
+    <link>https://mods.vintagestory.at/show/mod/3927</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3927#3927</guid>
+    <pubDate>Wed, 12 Aug 2026 01:36:15 -0000</pubDate>
+    <description>Implements unused vanilla weapons and some armor in vanilla style</description>
+  </item>
+  <item>
+    <title>Castaways Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/castawaystweak</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/castawaystweak#10941</guid>
+    <pubDate>Wed, 12 Aug 2026 01:33:47 -0000</pubDate>
+    <description>Tweaks to Improved Metallurgy</description>
+  </item>
+  <item>
+    <title>Tankards, Goblets and More!</title>
+    <link>https://mods.vintagestory.at/show/mod/tankardsandgoblets</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tankardsandgoblets#3905</guid>
+    <pubDate>Wed, 12 Aug 2026 00:44:31 -0000</pubDate>
+    <description>Drink in style! Adds a variety of tankards and goblets into Vintage Story.  </description>
+  </item>
+  <item>
+    <title>Tailored Brigandine: Fork + FSeraph</title>
+    <link>https://mods.vintagestory.at/show/mod/10879</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10879#10879</guid>
+    <pubDate>Wed, 12 Aug 2026 00:43:29 -0000</pubDate>
+    <description>Tailored Brigandine CO 1.22 fork now with Female Seraph support!</description>
+  </item>
+  <item>
+    <title>Dar's Commands</title>
+    <link>https://mods.vintagestory.at/show/mod/darscommands</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darscommands#7005</guid>
+    <pubDate>Wed, 12 Aug 2026 00:37:51 -0000</pubDate>
+    <description>Some fun admin commands.</description>
+  </item>
+  <item>
+    <title>Immersive Firewood</title>
+    <link>https://mods.vintagestory.at/show/mod/imfw</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/imfw#10947</guid>
+    <pubDate>Wed, 12 Aug 2026 00:03:02 -0000</pubDate>
+    <description>Wet/Drying + Species based Charcoal progression. better wood = better firewood</description>
+  </item>
+  <item>
+    <title>Novak the bug [Tetsune's Insectoid Player Model]</title>
+    <link>https://mods.vintagestory.at/show/mod/10916</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10916#10916</guid>
+    <pubDate>Wed, 12 Aug 2026 00:02:37 -0000</pubDate>
+    <description>Adds custom parts for my friend's character</description>
+  </item>
+  <item>
+    <title>Animalica - Abilities</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicaa</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaa#10949</guid>
+    <pubDate>Tue, 11 Aug 2026 23:57:44 -0000</pubDate>
+    <description>Species-gated Scent and Night Sight for Animalica and compatible player models. (more soon)</description>
+  </item>
   <item>
     <title>Klassenkampf</title>
     <link>https://mods.vintagestory.at/show/mod/klassenkampf</link>
@@ -69,11 +139,11 @@
     <description>Adds firearms powered by the gearlock mechanism</description>
   </item>
   <item>
-    <title>Castaways Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/castawaystweak</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/castawaystweak#10941</guid>
-    <pubDate>Tue, 11 Aug 2026 22:11:41 -0000</pubDate>
-    <description>Tweaks to Improved Metallurgy</description>
+    <title>Winter Sledge</title>
+    <link>https://mods.vintagestory.at/show/mod/10946</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10946#10946</guid>
+    <pubDate>Tue, 11 Aug 2026 22:13:02 -0000</pubDate>
+    <description>A winter sledge for carrying items across snow and ice as an extended backpack</description>
   </item>
   <item>
     <title>TerraFirmaStory</title>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
     <pubDate>Tue, 11 Aug 2026 19:35:31 -0000</pubDate>
     <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
-  </item>
-  <item>
-    <title>Cats</title>
-    <link>https://mods.vintagestory.at/show/mod/cats</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cats#400</guid>
-    <pubDate>Tue, 11 Aug 2026 19:13:27 -0000</pubDate>
-    <description>Adds tameable cats to the game. Requires PetAI.</description>
-  </item>
-  <item>
-    <title>Animal cages</title>
-    <link>https://mods.vintagestory.at/show/mod/animalcages</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalcages#306</guid>
-    <pubDate>Tue, 11 Aug 2026 18:58:43 -0000</pubDate>
-    <description>Adds cages to the game for capturing animals.</description>
-  </item>
-  <item>
-    <title>Ballista</title>
-    <link>https://mods.vintagestory.at/show/mod/10794</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10794#10794</guid>
-    <pubDate>Tue, 11 Aug 2026 18:53:14 -0000</pubDate>
-    <description>Adds a functional ballista to the game. Currently in Beta</description>
-  </item>
-  <item>
-    <title>Directional Bombs</title>
-    <link>https://mods.vintagestory.at/show/mod/directionalbombs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/directionalbombs#10940</guid>
-    <pubDate>Tue, 11 Aug 2026 18:38:53 -0000</pubDate>
-    <description>Ever wanted to dig a tunel with bombs? A moat? Anything more line-shaped than sphere? So did I!</description>
-  </item>
-  <item>
-    <title>Tallybook</title>
-    <link>https://mods.vintagestory.at/show/mod/10864</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
-    <pubDate>Tue, 11 Aug 2026 18:29:22 -0000</pubDate>
-    <description>Crafting shopping list, villager quest tracker, and spoiler-free story guide. Fully client-side.</description>
-  </item>
-  <item>
-    <title>Better Loot Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/blp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blp#10873</guid>
-    <pubDate>Tue, 11 Aug 2026 18:29:16 -0000</pubDate>
-    <description>Configurable Better loot from hostile entities like Drifters, Shivers, Bowtorns</description>
-  </item>
-  <item>
-    <title>Amphithere: Winged Serpent</title>
-    <link>https://mods.vintagestory.at/show/mod/amphithere</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/amphithere#10798</guid>
-    <pubDate>Tue, 11 Aug 2026 18:21:34 -0000</pubDate>
-    <description>Adds an amphithere dragon species to the world.</description>
-  </item>
-  <item>
-    <title>Better and Improved Weather Continued</title>
-    <link>https://mods.vintagestory.at/show/mod/biwc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biwc#10765</guid>
-    <pubDate>Tue, 11 Aug 2026 18:20:48 -0000</pubDate>
-    <description>Better and improved weather for Vintage Story. </description>
-  </item>
-  <item>
-    <title>Fablewood Feverstone Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/10907</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10907#10907</guid>
-    <pubDate>Tue, 11 Aug 2026 18:14:02 -0000</pubDate>
-    <description>Compatibility mod for Feverstone Wilds with our other mods.</description>
-  </item>
-  <item>
-    <title>Auto Walk Extended</title>
-    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
-    <pubDate>Tue, 11 Aug 2026 18:12:49 -0000</pubDate>
-    <description>Toggle walking/running. Options for sneak toggle, stepup and mouse button lock.</description>
   </item>
 </channel>
 </rss>
