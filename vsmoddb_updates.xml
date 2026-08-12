@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 12 Aug 2026 10:08:28 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 11:48:29 +0000</lastBuildDate>
+  <item>
+    <title>Boat Autopilot</title>
+    <link>https://mods.vintagestory.at/show/mod/10304</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10304#10304</guid>
+    <pubDate>Wed, 12 Aug 2026 10:16:53 -0000</pubDate>
+    <description>Long boat trips in Vintage Story are beautiful… the first three times.</description>
+  </item>
   <item>
     <title>Lumos</title>
     <link>https://mods.vintagestory.at/show/mod/lumos</link>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10307#10307</guid>
     <pubDate>Wed, 12 Aug 2026 03:59:30 -0000</pubDate>
     <description>Makes tuning cyliders show their color on the bottom as well as the top.</description>
-  </item>
-  <item>
-    <title>Fablewood Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Wed, 12 Aug 2026 03:58:42 -0000</pubDate>
-    <description>JSON content patches</description>
   </item>
 </channel>
 </rss>
