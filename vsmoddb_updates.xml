@@ -4,7 +4,105 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 12 Aug 2026 06:15:59 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 08:19:17 +0000</lastBuildDate>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Wed, 12 Aug 2026 08:05:55 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Wed, 12 Aug 2026 08:04:51 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>IndustrialStory</title>
+    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
+    <pubDate>Wed, 12 Aug 2026 08:00:31 -0000</pubDate>
+    <description>Overhauls metalworking, chemistry, and glassworking. </description>
+  </item>
+  <item>
+    <title>Blood is Egg</title>
+    <link>https://mods.vintagestory.at/show/mod/bloodisegg</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bloodisegg#4214</guid>
+    <pubDate>Wed, 12 Aug 2026 07:25:58 -0000</pubDate>
+    <description>Butchering Blood can be used as a liquid egg substitute in Expanded Food baking/cooking recipes</description>
+  </item>
+  <item>
+    <title>Just The Pepper</title>
+    <link>https://mods.vintagestory.at/show/mod/justthepepper</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justthepepper#4347</guid>
+    <pubDate>Wed, 12 Aug 2026 07:24:33 -0000</pubDate>
+    <description>Adds the ability to grow vanilla bell peppers</description>
+  </item>
+  <item>
+    <title>Wilderlands Rustbound Drops</title>
+    <link>https://mods.vintagestory.at/show/mod/wilderlandsrustbounddrops</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wilderlandsrustbounddrops#4457</guid>
+    <pubDate>Wed, 12 Aug 2026 07:24:20 -0000</pubDate>
+    <description>Adds loot to some Wilderlands Rustbound mobs</description>
+  </item>
+  <item>
+    <title>Wilderlands Rustbound Improvements</title>
+    <link>https://mods.vintagestory.at/show/mod/xwilderlands</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xwilderlands#4474</guid>
+    <pubDate>Wed, 12 Aug 2026 07:24:10 -0000</pubDate>
+    <description>XSkills and Cats compat for Wilderlands Rustbound</description>
+  </item>
+  <item>
+    <title>Pools of Brimstone</title>
+    <link>https://mods.vintagestory.at/show/mod/poolsofbrimstone</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/poolsofbrimstone#4907</guid>
+    <pubDate>Wed, 12 Aug 2026 07:23:58 -0000</pubDate>
+    <description>A Fields of Salt addon that uses the evaporation pond to turn hot spring water into sulfur</description>
+  </item>
+  <item>
+    <title>Earthfed - More Fertilizers</title>
+    <link>https://mods.vintagestory.at/show/mod/earthfed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/earthfed#9238</guid>
+    <pubDate>Wed, 12 Aug 2026 07:23:45 -0000</pubDate>
+    <description>Realistic fertilizers made from feathers, seaweed, fish, and blood</description>
+  </item>
+  <item>
+    <title>Rust Drops</title>
+    <link>https://mods.vintagestory.at/show/mod/rustdrops</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustdrops#4101</guid>
+    <pubDate>Wed, 12 Aug 2026 07:23:33 -0000</pubDate>
+    <description>Rust/temporal corpses auto-drop loot and decay quickly (modded drops compatible)</description>
+  </item>
+  <item>
+    <title>Arctic Survival</title>
+    <link>https://mods.vintagestory.at/show/mod/arcticsurvival</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arcticsurvival#4908</guid>
+    <pubDate>Wed, 12 Aug 2026 07:22:46 -0000</pubDate>
+    <description>Tweaks for colder climate / Snowball Earth playthroughs</description>
+  </item>
+  <item>
+    <title>Ambien's Butchery Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/9865</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9865#9865</guid>
+    <pubDate>Wed, 12 Aug 2026 07:12:05 -0000</pubDate>
+    <description>Patches butchery for my server</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Wed, 12 Aug 2026 06:59:32 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
+  <item>
+    <title>Animalica - Abilities</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicaa</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaa#10949</guid>
+    <pubDate>Wed, 12 Aug 2026 06:30:09 -0000</pubDate>
+    <description>Species-gated Scent and Night Sight for Animalica and compatible player models. (more soon)</description>
+  </item>
   <item>
     <title>Translocator</title>
     <link>https://mods.vintagestory.at/show/mod/translocator</link>
@@ -116,104 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10776#10776</guid>
     <pubDate>Wed, 12 Aug 2026 03:47:26 -0000</pubDate>
     <description>Makes the fruit press quicker and allows squeezing over barrels.</description>
-  </item>
-  <item>
-    <title>Drolic Mounds Soundtrack</title>
-    <link>https://mods.vintagestory.at/show/mod/10316</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10316#10316</guid>
-    <pubDate>Wed, 12 Aug 2026 03:46:41 -0000</pubDate>
-    <description>Adding some songs for a friend's server</description>
-  </item>
-  <item>
-    <title>Majestic Maple</title>
-    <link>https://mods.vintagestory.at/show/mod/10529</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10529#10529</guid>
-    <pubDate>Wed, 12 Aug 2026 03:33:00 -0000</pubDate>
-    <description>Maple wood retexture</description>
-  </item>
-  <item>
-    <title>Extended Skin Colors</title>
-    <link>https://mods.vintagestory.at/show/mod/10437</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10437#10437</guid>
-    <pubDate>Wed, 12 Aug 2026 03:06:52 -0000</pubDate>
-    <description>Adds a hex color scroller to most humanoid races!</description>
-  </item>
-  <item>
-    <title>Grassroots</title>
-    <link>https://mods.vintagestory.at/show/mod/grassroots</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
-    <pubDate>Wed, 12 Aug 2026 03:03:10 -0000</pubDate>
-    <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
-  </item>
-  <item>
-    <title>Grassroots Coca</title>
-    <link>https://mods.vintagestory.at/show/mod/grassrootscoca</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassrootscoca#10921</guid>
-    <pubDate>Wed, 12 Aug 2026 03:02:20 -0000</pubDate>
-    <description>Coca farming. Grow, dry, leech, refine, and recrystalize. Aim for the purest product.</description>
-  </item>
-  <item>
-    <title>Drinkable Interaction Ordering Patch (For Yang's Transport Tycoon)</title>
-    <link>https://mods.vintagestory.at/show/mod/8711</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8711#8711</guid>
-    <pubDate>Wed, 12 Aug 2026 02:56:31 -0000</pubDate>
-    <description>Terrible and dirty hack to allow you to feed alcohol to locomotives.</description>
-  </item>
-  <item>
-    <title>unHallowedPatches</title>
-    <link>https://mods.vintagestory.at/show/mod/unhallowedpatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/unhallowedpatches#4328</guid>
-    <pubDate>Wed, 12 Aug 2026 02:53:33 -0000</pubDate>
-    <description>A collection of QoL patches - including increased stack sizes and recipes.</description>
-  </item>
-  <item>
-    <title>TassHardcoreWinter</title>
-    <link>https://mods.vintagestory.at/show/mod/tasshardcorewinter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshardcorewinter#10500</guid>
-    <pubDate>Wed, 12 Aug 2026 02:19:02 -0000</pubDate>
-    <description>Deeper snow, white out blizzards, restorative spring, realistic room temperature, heat source rework</description>
-  </item>
-  <item>
-    <title>Additional Hair Colors</title>
-    <link>https://mods.vintagestory.at/show/mod/8950</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8950#8950</guid>
-    <pubDate>Wed, 12 Aug 2026 02:17:51 -0000</pubDate>
-    <description>Gives the player a lot more options for hair colors, should work with modded races.</description>
-  </item>
-  <item>
-    <title>TassFactions</title>
-    <link>https://mods.vintagestory.at/show/mod/10503</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
-    <pubDate>Wed, 12 Aug 2026 02:12:21 -0000</pubDate>
-    <description>Factions - Raids - Sieges - Shops - Bounty</description>
-  </item>
-  <item>
-    <title>TassModFixesTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tassmodfixestweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassmodfixestweaks#10502</guid>
-    <pubDate>Wed, 12 Aug 2026 02:10:58 -0000</pubDate>
-    <description>A catch all mod for anything that does not fit my other mods - fixing bugs and tweaking mods</description>
-  </item>
-  <item>
-    <title>Size To Health Bonus</title>
-    <link>https://mods.vintagestory.at/show/mod/sizetohealthbonus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sizetohealthbonus#10849</guid>
-    <pubDate>Wed, 12 Aug 2026 01:47:44 -0000</pubDate>
-    <description>HP scales with your Player Model Lib size — bigger = tougher, smaller = weaker. Configurable.</description>
-  </item>
-  <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Wed, 12 Aug 2026 01:41:47 -0000</pubDate>
-    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
-  </item>
-  <item>
-    <title>Vanilla armory</title>
-    <link>https://mods.vintagestory.at/show/mod/3927</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3927#3927</guid>
-    <pubDate>Wed, 12 Aug 2026 01:36:15 -0000</pubDate>
-    <description>Implements unused vanilla weapons and some armor in vanilla style</description>
   </item>
 </channel>
 </rss>
