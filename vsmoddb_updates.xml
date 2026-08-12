@@ -4,20 +4,55 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 12 Aug 2026 21:49:27 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 22:42:45 +0000</lastBuildDate>
+  <item>
+    <title>Worms and Compost Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/10231</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10231#10231</guid>
+    <pubDate>Wed, 12 Aug 2026 22:41:02 -0000</pubDate>
+    <description>A very niche addition to Primitive Survival.</description>
+  </item>
+  <item>
+    <title>Immersive Firewood</title>
+    <link>https://mods.vintagestory.at/show/mod/imfw</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/imfw#10947</guid>
+    <pubDate>Wed, 12 Aug 2026 22:31:58 -0000</pubDate>
+    <description>Wet/Drying + Species based Charcoal progression. better wood = better firewood</description>
+  </item>
+  <item>
+    <title>Winter Sledge</title>
+    <link>https://mods.vintagestory.at/show/mod/10946</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10946#10946</guid>
+    <pubDate>Wed, 12 Aug 2026 22:25:02 -0000</pubDate>
+    <description>A winter sledge for carrying items across snow and ice as an extended backpack</description>
+  </item>
+  <item>
+    <title>VR_RBM</title>
+    <link>https://mods.vintagestory.at/show/mod/10955</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10955#10955</guid>
+    <pubDate>Wed, 12 Aug 2026 22:24:07 -0000</pubDate>
+    <description>rbm cleanup</description>
+  </item>
+  <item>
+    <title>NDL ExpandedGrowth (Mushroom Growth Module)</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthmushrooms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthmushrooms#5922</guid>
+    <pubDate>Wed, 12 Aug 2026 22:20:26 -0000</pubDate>
+    <description>Adds a method for growing mushrooms!</description>
+  </item>
+  <item>
+    <title>Akira's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/akiratweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/akiratweaks#10138</guid>
+    <pubDate>Wed, 12 Aug 2026 22:09:24 -0000</pubDate>
+    <description>Collection of patches for a personal server.</description>
+  </item>
   <item>
     <title>RP Voice Chat</title>
     <link>https://mods.vintagestory.at/show/mod/rpvoicechat</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rpvoicechat#1371</guid>
     <pubDate>Wed, 12 Aug 2026 21:42:20 -0000</pubDate>
     <description>A mod for proximity VoIP. Shout at your friends!</description>
-  </item>
-  <item>
-    <title>VR_RBM</title>
-    <link>https://mods.vintagestory.at/show/mod/10955</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10955#10955</guid>
-    <pubDate>Wed, 12 Aug 2026 21:39:13 -0000</pubDate>
-    <description>rbm cleanup</description>
   </item>
   <item>
     <title>ArcadiaTraderPatch</title>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
     <pubDate>Wed, 12 Aug 2026 15:56:09 -0000</pubDate>
     <description>Patches fo most of Tabor servers</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Chisel32</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalschisel32</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalschisel32#8883</guid>
-    <pubDate>Wed, 12 Aug 2026 15:50:21 -0000</pubDate>
-    <description>Chisel32 adds high-detail 32x32x32 chiseling with a dedicated Fine Chisel tool</description>
-  </item>
-  <item>
-    <title>Fablewood Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/10778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
-    <pubDate>Wed, 12 Aug 2026 15:43:26 -0000</pubDate>
-    <description>Skill and class mod for the Fablewood server</description>
-  </item>
-  <item>
-    <title>Fanloid Fantweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10433</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10433#10433</guid>
-    <pubDate>Wed, 12 Aug 2026 15:37:00 -0000</pubDate>
-    <description>Misc patches.</description>
-  </item>
-  <item>
-    <title>Hover Info</title>
-    <link>https://mods.vintagestory.at/show/mod/hoverinfo</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hoverinfo#10792</guid>
-    <pubDate>Wed, 12 Aug 2026 15:22:09 -0000</pubDate>
-    <description>A mod made for the Paw server to see the information of player held items also linkable to chat</description>
-  </item>
-  <item>
-    <title>WeaponDamageProficiencies</title>
-    <link>https://mods.vintagestory.at/show/mod/6810</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6810#6810</guid>
-    <pubDate>Wed, 12 Aug 2026 14:58:47 -0000</pubDate>
-    <description>Converts weapon proficiencies in Combat Overhaul from attack speed to damage</description>
   </item>
 </channel>
 </rss>
