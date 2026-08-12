@@ -4,7 +4,147 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 12 Aug 2026 02:07:44 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 04:48:31 +0000</lastBuildDate>
+  <item>
+    <title>Frontier Claims Map</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Wed, 12 Aug 2026 04:25:42 -0000</pubDate>
+    <description>Claim map and access controls for internal testing on a private server.</description>
+  </item>
+  <item>
+    <title>ChandelierCraft</title>
+    <link>https://mods.vintagestory.at/show/mod/chandeliercraft</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chandeliercraft#6002</guid>
+    <pubDate>Wed, 12 Aug 2026 04:15:57 -0000</pubDate>
+    <description>For more than rust-coloured chandeliers</description>
+  </item>
+  <item>
+    <title>Fablewood Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Wed, 12 Aug 2026 04:11:16 -0000</pubDate>
+    <description>Skill and class mod for the Fablewood server</description>
+  </item>
+  <item>
+    <title>DRRP Caveshrooms</title>
+    <link>https://mods.vintagestory.at/show/mod/caveshrooms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caveshrooms#10922</guid>
+    <pubDate>Wed, 12 Aug 2026 03:59:47 -0000</pubDate>
+    <description>Adds a mushroom that fruits from patches of temporally unstable substrate deep in caves.</description>
+  </item>
+  <item>
+    <title>Tuning Cylinder Color Top &amp; Bottom</title>
+    <link>https://mods.vintagestory.at/show/mod/10307</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10307#10307</guid>
+    <pubDate>Wed, 12 Aug 2026 03:59:30 -0000</pubDate>
+    <description>Makes tuning cyliders show their color on the bottom as well as the top.</description>
+  </item>
+  <item>
+    <title>Fablewood Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
+    <pubDate>Wed, 12 Aug 2026 03:58:42 -0000</pubDate>
+    <description>JSON content patches</description>
+  </item>
+  <item>
+    <title>Worms and Compost Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/10231</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10231#10231</guid>
+    <pubDate>Wed, 12 Aug 2026 03:53:13 -0000</pubDate>
+    <description>A very niche addition to Primitive Survival.</description>
+  </item>
+  <item>
+    <title>Immersive Heat Sources</title>
+    <link>https://mods.vintagestory.at/show/mod/iheat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/iheat#10640</guid>
+    <pubDate>Wed, 12 Aug 2026 03:50:23 -0000</pubDate>
+    <description>Heat sources melt snow and ice around them, and have a dynamic heating radius.</description>
+  </item>
+  <item>
+    <title>Better Fruit Press</title>
+    <link>https://mods.vintagestory.at/show/mod/10776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10776#10776</guid>
+    <pubDate>Wed, 12 Aug 2026 03:47:26 -0000</pubDate>
+    <description>Makes the fruit press quicker and allows squeezing over barrels.</description>
+  </item>
+  <item>
+    <title>Drolic Mounds Soundtrack</title>
+    <link>https://mods.vintagestory.at/show/mod/10316</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10316#10316</guid>
+    <pubDate>Wed, 12 Aug 2026 03:46:41 -0000</pubDate>
+    <description>Adding some songs for a friend's server</description>
+  </item>
+  <item>
+    <title>Majestic Maple</title>
+    <link>https://mods.vintagestory.at/show/mod/10529</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10529#10529</guid>
+    <pubDate>Wed, 12 Aug 2026 03:33:00 -0000</pubDate>
+    <description>Maple wood retexture</description>
+  </item>
+  <item>
+    <title>Extended Skin Colors</title>
+    <link>https://mods.vintagestory.at/show/mod/10437</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10437#10437</guid>
+    <pubDate>Wed, 12 Aug 2026 03:06:52 -0000</pubDate>
+    <description>Adds a hex color scroller to most humanoid races!</description>
+  </item>
+  <item>
+    <title>Grassroots</title>
+    <link>https://mods.vintagestory.at/show/mod/grassroots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
+    <pubDate>Wed, 12 Aug 2026 03:03:10 -0000</pubDate>
+    <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
+  </item>
+  <item>
+    <title>Grassroots Coca</title>
+    <link>https://mods.vintagestory.at/show/mod/grassrootscoca</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassrootscoca#10921</guid>
+    <pubDate>Wed, 12 Aug 2026 03:02:20 -0000</pubDate>
+    <description>Coca farming. Grow, dry, leech, refine, and recrystalize. Aim for the purest product.</description>
+  </item>
+  <item>
+    <title>Drinkable Interaction Ordering Patch (For Yang's Transport Tycoon)</title>
+    <link>https://mods.vintagestory.at/show/mod/8711</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8711#8711</guid>
+    <pubDate>Wed, 12 Aug 2026 02:56:31 -0000</pubDate>
+    <description>Terrible and dirty hack to allow you to feed alcohol to locomotives.</description>
+  </item>
+  <item>
+    <title>unHallowedPatches</title>
+    <link>https://mods.vintagestory.at/show/mod/unhallowedpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/unhallowedpatches#4328</guid>
+    <pubDate>Wed, 12 Aug 2026 02:53:33 -0000</pubDate>
+    <description>A collection of QoL patches - including increased stack sizes and recipes.</description>
+  </item>
+  <item>
+    <title>TassHardcoreWinter</title>
+    <link>https://mods.vintagestory.at/show/mod/tasshardcorewinter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshardcorewinter#10500</guid>
+    <pubDate>Wed, 12 Aug 2026 02:19:02 -0000</pubDate>
+    <description>Deeper snow, white out blizzards, restorative spring, realistic room temperature, heat source rework</description>
+  </item>
+  <item>
+    <title>Additional Hair Colors</title>
+    <link>https://mods.vintagestory.at/show/mod/8950</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8950#8950</guid>
+    <pubDate>Wed, 12 Aug 2026 02:17:51 -0000</pubDate>
+    <description>Gives the player a lot more options for hair colors, should work with modded races.</description>
+  </item>
+  <item>
+    <title>TassFactions</title>
+    <link>https://mods.vintagestory.at/show/mod/10503</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
+    <pubDate>Wed, 12 Aug 2026 02:12:21 -0000</pubDate>
+    <description>Factions - Raids - Sieges - Shops - Bounty</description>
+  </item>
+  <item>
+    <title>TassModFixesTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tassmodfixestweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassmodfixestweaks#10502</guid>
+    <pubDate>Wed, 12 Aug 2026 02:10:58 -0000</pubDate>
+    <description>A catch all mod for anything that does not fit my other mods - fixing bugs and tweaking mods</description>
+  </item>
   <item>
     <title>Size To Health Bonus</title>
     <link>https://mods.vintagestory.at/show/mod/sizetohealthbonus</link>
@@ -74,146 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaa#10949</guid>
     <pubDate>Tue, 11 Aug 2026 23:57:44 -0000</pubDate>
     <description>Species-gated Scent and Night Sight for Animalica and compatible player models. (more soon)</description>
-  </item>
-  <item>
-    <title>Klassenkampf</title>
-    <link>https://mods.vintagestory.at/show/mod/klassenkampf</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/klassenkampf#10845</guid>
-    <pubDate>Tue, 11 Aug 2026 23:42:12 -0000</pubDate>
-    <description>Dies ist ein Klassenmod für Mut&amp;Glut 2 - Ein deutsches RP Projekt</description>
-  </item>
-  <item>
-    <title>Tweakfactory</title>
-    <link>https://mods.vintagestory.at/show/mod/tweakfactory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tweakfactory#10875</guid>
-    <pubDate>Tue, 11 Aug 2026 23:41:32 -0000</pubDate>
-    <description>Tweakmod um Klassenspezifische Rezepte einzubinden.</description>
-  </item>
-  <item>
-    <title>Salty´s TerraTag</title>
-    <link>https://mods.vintagestory.at/show/mod/terratag</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/terratag#6787</guid>
-    <pubDate>Tue, 11 Aug 2026 23:39:13 -0000</pubDate>
-    <description>Create named landmarks on your world map. Perfect for map freaks and kingdom servers!</description>
-  </item>
-  <item>
-    <title>River Flow Control</title>
-    <link>https://mods.vintagestory.at/show/mod/vsriverflow</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsriverflow#10948</guid>
-    <pubDate>Tue, 11 Aug 2026 23:31:17 -0000</pubDate>
-    <description>Settle Rivers' water current server-wide instead of asking every player to edit their config.</description>
-  </item>
-  <item>
-    <title>KCs Dragon Player!</title>
-    <link>https://mods.vintagestory.at/show/mod/kcsdragons</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragons#8146</guid>
-    <pubDate>Tue, 11 Aug 2026 23:18:07 -0000</pubDate>
-    <description>Adds an anthropomorphic dragon player model to the game</description>
-  </item>
-  <item>
-    <title>Brick-by-Brick</title>
-    <link>https://mods.vintagestory.at/show/mod/brickbybrick</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/brickbybrick#9808</guid>
-    <pubDate>Tue, 11 Aug 2026 23:14:48 -0000</pubDate>
-    <description>Add immersive mechanics for buildilng stone, brick and similar block types with trowels and pieces.</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Tue, 11 Aug 2026 22:48:24 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>Bacon Bacon Bacon</title>
-    <link>https://mods.vintagestory.at/show/mod/baconbaconbacon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/baconbaconbacon#6895</guid>
-    <pubDate>Tue, 11 Aug 2026 22:31:27 -0000</pubDate>
-    <description>The first and (so far) only entirely and ridiculously bacon-centric mod for Vintage Story</description>
-  </item>
-  <item>
-    <title>Gearlock Firearms</title>
-    <link>https://mods.vintagestory.at/show/mod/10375</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10375#10375</guid>
-    <pubDate>Tue, 11 Aug 2026 22:27:00 -0000</pubDate>
-    <description>Adds firearms powered by the gearlock mechanism</description>
-  </item>
-  <item>
-    <title>Winter Sledge</title>
-    <link>https://mods.vintagestory.at/show/mod/10946</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10946#10946</guid>
-    <pubDate>Tue, 11 Aug 2026 22:13:02 -0000</pubDate>
-    <description>A winter sledge for carrying items across snow and ice as an extended backpack</description>
-  </item>
-  <item>
-    <title>TerraFirmaStory</title>
-    <link>https://mods.vintagestory.at/show/mod/terrafirmastory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/terrafirmastory#9951</guid>
-    <pubDate>Tue, 11 Aug 2026 21:11:41 -0000</pubDate>
-    <description>Ports TerraFirmaCraft 1.21 world generation to Vintage Story</description>
-  </item>
-  <item>
-    <title>Fanloid Fantweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10433</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10433#10433</guid>
-    <pubDate>Tue, 11 Aug 2026 21:07:46 -0000</pubDate>
-    <description>Misc patches.</description>
-  </item>
-  <item>
-    <title>Locust Drider Player Model (Drocust)</title>
-    <link>https://mods.vintagestory.at/show/mod/drocust</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drocust#7918</guid>
-    <pubDate>Tue, 11 Aug 2026 20:43:21 -0000</pubDate>
-    <description>D&amp;D drider, but turned into locust instead of spider</description>
-  </item>
-  <item>
-    <title>Threnkal</title>
-    <link>https://mods.vintagestory.at/show/mod/threnkal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/threnkal#10944</guid>
-    <pubDate>Tue, 11 Aug 2026 20:38:51 -0000</pubDate>
-    <description>A race of cow folks based on minotaurs and taurens from WoW.</description>
-  </item>
-  <item>
-    <title>Inventory Colors</title>
-    <link>https://mods.vintagestory.at/show/mod/inventorycolors</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/inventorycolors#10943</guid>
-    <pubDate>Tue, 11 Aug 2026 20:33:12 -0000</pubDate>
-    <description>Color-codes equipped bags and their inventory slots for clearer portable storage.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/vsinstrumentsreduxfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsinstrumentsreduxfork#10939</guid>
-    <pubDate>Tue, 11 Aug 2026 20:05:37 -0000</pubDate>
-    <description>Redux 1.4.4 fork with native MIDI playback and all Core and Expansion A instruments.</description>
-  </item>
-  <item>
-    <title>Locks &amp; Keys</title>
-    <link>https://mods.vintagestory.at/show/mod/locksandkeys</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/locksandkeys#10917</guid>
-    <pubDate>Tue, 11 Aug 2026 19:56:40 -0000</pubDate>
-    <description>Adds keys for your locks, key crafting, and using stolen keys.</description>
-  </item>
-  <item>
-    <title>Combat Overhaul Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/combatoverhaulforked</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/combatoverhaulforked#8415</guid>
-    <pubDate>Tue, 11 Aug 2026 19:47:26 -0000</pubDate>
-    <description>1.22 fork</description>
-  </item>
-  <item>
-    <title>MetaView</title>
-    <link>https://mods.vintagestory.at/show/mod/mv</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mv#10942</guid>
-    <pubDate>Tue, 11 Aug 2026 19:36:30 -0000</pubDate>
-    <description>Gui for separate view of meta blocks in the game</description>
-  </item>
-  <item>
-    <title>C&amp;N Events</title>
-    <link>https://mods.vintagestory.at/show/mod/canevents</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
-    <pubDate>Tue, 11 Aug 2026 19:35:31 -0000</pubDate>
-    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
   </item>
 </channel>
 </rss>
