@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 12 Aug 2026 08:19:17 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 10:08:28 +0000</lastBuildDate>
+  <item>
+    <title>Lumos</title>
+    <link>https://mods.vintagestory.at/show/mod/lumos</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lumos#10713</guid>
+    <pubDate>Wed, 12 Aug 2026 10:03:26 -0000</pubDate>
+    <description>Reworking the game's lighting system and fixing related bugs</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Wed, 12 Aug 2026 09:16:34 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>FancyHUD</title>
+    <link>https://mods.vintagestory.at/show/mod/10935</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10935#10935</guid>
+    <pubDate>Wed, 12 Aug 2026 08:23:52 -0000</pubDate>
+    <description>Informative fancy HUD</description>
+  </item>
   <item>
     <title>Solaria's Solace Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/10706</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
     <pubDate>Wed, 12 Aug 2026 03:58:42 -0000</pubDate>
     <description>JSON content patches</description>
-  </item>
-  <item>
-    <title>Worms and Compost Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/10231</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10231#10231</guid>
-    <pubDate>Wed, 12 Aug 2026 03:53:13 -0000</pubDate>
-    <description>A very niche addition to Primitive Survival.</description>
-  </item>
-  <item>
-    <title>Immersive Heat Sources</title>
-    <link>https://mods.vintagestory.at/show/mod/iheat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/iheat#10640</guid>
-    <pubDate>Wed, 12 Aug 2026 03:50:23 -0000</pubDate>
-    <description>Heat sources melt snow and ice around them, and have a dynamic heating radius.</description>
-  </item>
-  <item>
-    <title>Better Fruit Press</title>
-    <link>https://mods.vintagestory.at/show/mod/10776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10776#10776</guid>
-    <pubDate>Wed, 12 Aug 2026 03:47:26 -0000</pubDate>
-    <description>Makes the fruit press quicker and allows squeezing over barrels.</description>
   </item>
 </channel>
 </rss>
