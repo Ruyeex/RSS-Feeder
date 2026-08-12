@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 12 Aug 2026 22:42:45 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 23:43:41 +0000</lastBuildDate>
+  <item>
+    <title>Seraphs Ledger</title>
+    <link>https://mods.vintagestory.at/show/mod/9783</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9783#9783</guid>
+    <pubDate>Wed, 12 Aug 2026 23:35:36 -0000</pubDate>
+    <description>Swap one building material for another across an entire selection.</description>
+  </item>
+  <item>
+    <title>Algernon's Watersheds</title>
+    <link>https://mods.vintagestory.at/show/mod/algernonswatersheds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/algernonswatersheds#7286</guid>
+    <pubDate>Wed, 12 Aug 2026 23:25:21 -0000</pubDate>
+    <description>Worldgen revamp using a Watershed model. Adds meandering streams, groundwater, and erosion</description>
+  </item>
+  <item>
+    <title>VS Terrain Diffusion</title>
+    <link>https://mods.vintagestory.at/show/mod/vsterraindiffusion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsterraindiffusion#10918</guid>
+    <pubDate>Wed, 12 Aug 2026 23:18:00 -0000</pubDate>
+    <description>Generate terrain with a neural heightmap model trained on real Earth topography</description>
+  </item>
+  <item>
+    <title>SuperPixel Text Antialiasing</title>
+    <link>https://mods.vintagestory.at/show/mod/6433</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6433#6433</guid>
+    <pubDate>Wed, 12 Aug 2026 23:12:05 -0000</pubDate>
+    <description>Changes the text antialiasing from subpixel to grayscale (or whatever you like).</description>
+  </item>
   <item>
     <title>Worms and Compost Expanded</title>
     <link>https://mods.vintagestory.at/show/mod/10231</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
     <pubDate>Wed, 12 Aug 2026 17:00:13 -0000</pubDate>
     <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
-  </item>
-  <item>
-    <title>JSON Patches lib</title>
-    <link>https://mods.vintagestory.at/show/mod/jsonpatcheslib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jsonpatcheslib#7185</guid>
-    <pubDate>Wed, 12 Aug 2026 16:52:22 -0000</pubDate>
-    <description>Implements more convinient syntax and more functionality for patching JSON assets.</description>
-  </item>
-  <item>
-    <title>C&amp;N Events</title>
-    <link>https://mods.vintagestory.at/show/mod/canevents</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
-    <pubDate>Wed, 12 Aug 2026 16:20:52 -0000</pubDate>
-    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
-  </item>
-  <item>
-    <title>Fablewood Guilds</title>
-    <link>https://mods.vintagestory.at/show/mod/9586</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9586#9586</guid>
-    <pubDate>Wed, 12 Aug 2026 16:04:41 -0000</pubDate>
-    <description>Guild mod</description>
-  </item>
-  <item>
-    <title>TaborServers</title>
-    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
-    <pubDate>Wed, 12 Aug 2026 15:56:09 -0000</pubDate>
-    <description>Patches fo most of Tabor servers</description>
   </item>
 </channel>
 </rss>
