@@ -4,13 +4,41 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 13 Aug 2026 13:16:32 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 14:59:42 +0000</lastBuildDate>
   <item>
     <title>AnanLa's Quenching Prediction</title>
     <link>https://mods.vintagestory.at/show/mod/ananlaquenchingprediction</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ananlaquenchingprediction#10658</guid>
-    <pubDate>Thu, 13 Aug 2026 13:07:08 -0000</pubDate>
+    <pubDate>Thu, 13 Aug 2026 14:48:15 -0000</pubDate>
     <description>一个 Vintage Story 模组，在淬火即将碎裂时发出预警，减少反复烧铁搓工具的精神损耗。A Vintage Story mod that warns you when an item is a</description>
+  </item>
+  <item>
+    <title>Locks &amp; Keys</title>
+    <link>https://mods.vintagestory.at/show/mod/locksandkeys</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/locksandkeys#10917</guid>
+    <pubDate>Thu, 13 Aug 2026 14:30:23 -0000</pubDate>
+    <description>Adds keys for your locks, key crafting, and using stolen keys.</description>
+  </item>
+  <item>
+    <title>Layout</title>
+    <link>https://mods.vintagestory.at/show/mod/10287</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10287#10287</guid>
+    <pubDate>Thu, 13 Aug 2026 14:28:23 -0000</pubDate>
+    <description>Layout tool that produces inert, uninteractable 2D/3D voxel guidelines in various shapes.</description>
+  </item>
+  <item>
+    <title>NDL ExpandedGrowth (Mushroom Growth Module)</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthmushrooms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthmushrooms#5922</guid>
+    <pubDate>Thu, 13 Aug 2026 14:22:32 -0000</pubDate>
+    <description>Adds a method for growing mushrooms!</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Thu, 13 Aug 2026 14:03:37 -0000</pubDate>
+    <description>TopGs Community Mod</description>
   </item>
   <item>
     <title>Immersive Firewood</title>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hacore#9243</guid>
     <pubDate>Thu, 13 Aug 2026 03:35:56 -0000</pubDate>
     <description>A collection of items to be used in crafting recipes for Historical Weaponry mods.</description>
-  </item>
-  <item>
-    <title>Simple Voice Voice Changer</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicevoicechanger</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicevoicechanger#10962</guid>
-    <pubDate>Thu, 13 Aug 2026 03:23:23 -0000</pubDate>
-    <description>Client-side real-time voice effects studio for Simple Voice Chat.</description>
-  </item>
-  <item>
-    <title>More Blood Thingies!</title>
-    <link>https://mods.vintagestory.at/show/mod/10959</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
-    <pubDate>Thu, 13 Aug 2026 03:16:50 -0000</pubDate>
-    <description>Adds all the features for bloodbread that should have been.</description>
-  </item>
-  <item>
-    <title>Better Pyrolysis</title>
-    <link>https://mods.vintagestory.at/show/mod/10228</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10228#10228</guid>
-    <pubDate>Thu, 13 Aug 2026 02:36:51 -0000</pubDate>
-    <description>Adds several new features regarding pyrolyzing different fuels in coke ovens.</description>
-  </item>
-  <item>
-    <title>Animalica - Enemies</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicae#10894</guid>
-    <pubDate>Thu, 13 Aug 2026 01:42:32 -0000</pubDate>
-    <description>Play as 23 hostile Vintage Story enemies with native animations, traits, clothing, and carry modes.</description>
   </item>
 </channel>
 </rss>
