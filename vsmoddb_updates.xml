@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 13 Aug 2026 14:59:42 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 16:05:11 +0000</lastBuildDate>
+  <item>
+    <title>Chiseled Ground Placement</title>
+    <link>https://mods.vintagestory.at/show/mod/chiseledgroundplacement</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseledgroundplacement#10973</guid>
+    <pubDate>Thu, 13 Aug 2026 15:18:34 -0000</pubDate>
+    <description>Place down things on chiseled surfaces</description>
+  </item>
   <item>
     <title>AnanLa's Quenching Prediction</title>
     <link>https://mods.vintagestory.at/show/mod/ananlaquenchingprediction</link>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hawarlords#9245</guid>
     <pubDate>Thu, 13 Aug 2026 03:37:47 -0000</pubDate>
     <description>A collection of equipment from the North/South American and African continents.</description>
-  </item>
-  <item>
-    <title>Armory: Core</title>
-    <link>https://mods.vintagestory.at/show/mod/hacore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hacore#9243</guid>
-    <pubDate>Thu, 13 Aug 2026 03:35:56 -0000</pubDate>
-    <description>A collection of items to be used in crafting recipes for Historical Weaponry mods.</description>
   </item>
 </channel>
 </rss>
