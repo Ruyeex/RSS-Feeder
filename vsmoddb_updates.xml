@@ -4,7 +4,21 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 13 Aug 2026 22:44:34 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 23:43:30 +0000</lastBuildDate>
+  <item>
+    <title>Fablewood Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Thu, 13 Aug 2026 23:30:08 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
+  <item>
+    <title>Realistic Soap</title>
+    <link>https://mods.vintagestory.at/show/mod/realisticsoap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticsoap#10983</guid>
+    <pubDate>Thu, 13 Aug 2026 23:05:26 -0000</pubDate>
+    <description>Leach wood ash into lye, boil it with fat, cure the bars, then wash, because being filthy now costs</description>
+  </item>
   <item>
     <title>Fablewood Skills</title>
     <link>https://mods.vintagestory.at/show/mod/10778</link>
@@ -25,13 +39,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zipline#10982</guid>
     <pubDate>Thu, 13 Aug 2026 22:33:52 -0000</pubDate>
     <description>Build ziplines to get down a hill faster.</description>
-  </item>
-  <item>
-    <title>Fablewood Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Thu, 13 Aug 2026 22:32:38 -0000</pubDate>
-    <description>Harmony patches for compatibility.</description>
   </item>
   <item>
     <title>Fablewood Patches</title>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smex#9254</guid>
     <pubDate>Thu, 13 Aug 2026 16:53:11 -0000</pubDate>
     <description>Industrial iron and steel production using Blast Furnace and Bessemer process!</description>
-  </item>
-  <item>
-    <title>Pipes and Power Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/ppex</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ppex#9568</guid>
-    <pubDate>Thu, 13 Aug 2026 16:52:22 -0000</pubDate>
-    <description>Pipe network and modular steam power machinery!</description>
   </item>
 </channel>
 </rss>
