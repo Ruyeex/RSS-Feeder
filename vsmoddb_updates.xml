@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 13 Aug 2026 08:22:44 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 10:09:19 +0000</lastBuildDate>
+  <item>
+    <title>Eternal Seraph: Chisel32</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalschisel32</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalschisel32#8883</guid>
+    <pubDate>Thu, 13 Aug 2026 09:48:20 -0000</pubDate>
+    <description>Chisel32 adds high-detail 32x32x32 chiseling with a dedicated Fine Chisel tool</description>
+  </item>
+  <item>
+    <title>NDL Mushrooms x Mycodiversity Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlxmycodiversitycompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlxmycodiversitycompat#10971</guid>
+    <pubDate>Thu, 13 Aug 2026 09:27:37 -0000</pubDate>
+    <description>Enables farming Mycodiversity mushroom varieties in NDL Mushroom troughs.</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Thu, 13 Aug 2026 09:24:23 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
+  <item>
+    <title>Lumos</title>
+    <link>https://mods.vintagestory.at/show/mod/lumos</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lumos#10713</guid>
+    <pubDate>Thu, 13 Aug 2026 09:21:40 -0000</pubDate>
+    <description>Reworking the game's lighting system and fixing related bugs</description>
+  </item>
+  <item>
+    <title>Cold Vegetables</title>
+    <link>https://mods.vintagestory.at/show/mod/coldveg</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/coldveg#10969</guid>
+    <pubDate>Thu, 13 Aug 2026 09:01:11 -0000</pubDate>
+    <description>Bumps down minimum temp for the main vegetables so they can be found in colder climates.</description>
+  </item>
   <item>
     <title>Galeret Traits Mod</title>
     <link>https://mods.vintagestory.at/show/mod/galerettraits</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
     <pubDate>Wed, 12 Aug 2026 23:54:12 -0000</pubDate>
     <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>Seraphs Ledger</title>
-    <link>https://mods.vintagestory.at/show/mod/9783</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9783#9783</guid>
-    <pubDate>Wed, 12 Aug 2026 23:35:36 -0000</pubDate>
-    <description>Swap one building material for another across an entire selection.</description>
-  </item>
-  <item>
-    <title>Algernon's Watersheds</title>
-    <link>https://mods.vintagestory.at/show/mod/algernonswatersheds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/algernonswatersheds#7286</guid>
-    <pubDate>Wed, 12 Aug 2026 23:25:21 -0000</pubDate>
-    <description>Worldgen revamp using a Watershed model. Adds meandering streams, groundwater, and erosion</description>
-  </item>
-  <item>
-    <title>VS Terrain Diffusion</title>
-    <link>https://mods.vintagestory.at/show/mod/vsterraindiffusion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsterraindiffusion#10918</guid>
-    <pubDate>Wed, 12 Aug 2026 23:18:00 -0000</pubDate>
-    <description>Generate terrain with a neural heightmap model trained on real Earth topography</description>
-  </item>
-  <item>
-    <title>SuperPixel Text Antialiasing</title>
-    <link>https://mods.vintagestory.at/show/mod/6433</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6433#6433</guid>
-    <pubDate>Wed, 12 Aug 2026 23:12:05 -0000</pubDate>
-    <description>Changes the text antialiasing from subpixel to grayscale (or whatever you like).</description>
-  </item>
-  <item>
-    <title>Worms and Compost Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/10231</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10231#10231</guid>
-    <pubDate>Wed, 12 Aug 2026 22:41:02 -0000</pubDate>
-    <description>A very niche addition to Primitive Survival.</description>
   </item>
 </channel>
 </rss>
