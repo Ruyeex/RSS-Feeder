@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 13 Aug 2026 20:46:38 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 21:49:18 +0000</lastBuildDate>
+  <item>
+    <title>Rooted Forests</title>
+    <link>https://mods.vintagestory.at/show/mod/rootedforests</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rootedforests#10980</guid>
+    <pubDate>Thu, 13 Aug 2026 21:32:35 -0000</pubDate>
+    <description>More natural, grounded forests with handcrafted voxel trunks and rooted tree bases.</description>
+  </item>
+  <item>
+    <title>vsRoofing + Jacks Stone Chisels Compat Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/10981</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10981#10981</guid>
+    <pubDate>Thu, 13 Aug 2026 21:26:05 -0000</pubDate>
+    <description>Adds compatability between VsRoofing and Jacks Stone Chisels</description>
+  </item>
+  <item>
+    <title>Animal Cages Crash Guard</title>
+    <link>https://mods.vintagestory.at/show/mod/10968</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10968#10968</guid>
+    <pubDate>Thu, 13 Aug 2026 21:11:36 -0000</pubDate>
+    <description>possible fix for animal cages causing crashes when releasing</description>
+  </item>
+  <item>
+    <title>Tallybook</title>
+    <link>https://mods.vintagestory.at/show/mod/10864</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
+    <pubDate>Thu, 13 Aug 2026 20:57:42 -0000</pubDate>
+    <description>Crafting shopping list, villager quest tracker, and spoiler-free story guide. Fully client-side.</description>
+  </item>
+  <item>
+    <title>Better Hoe</title>
+    <link>https://mods.vintagestory.at/show/mod/betterhoe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhoe#1594</guid>
+    <pubDate>Thu, 13 Aug 2026 20:50:37 -0000</pubDate>
+    <description>Adds function to create paths with the hoe.</description>
+  </item>
   <item>
     <title>Hex's Mechworks</title>
     <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
     <pubDate>Thu, 13 Aug 2026 14:03:37 -0000</pubDate>
     <description>TopGs Community Mod</description>
-  </item>
-  <item>
-    <title>Clay Press</title>
-    <link>https://mods.vintagestory.at/show/mod/claypress</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claypress#9456</guid>
-    <pubDate>Thu, 13 Aug 2026 12:07:59 -0000</pubDate>
-    <description>A simple patch to allow the pulverizer to "press" clay into tiles &amp; shingles (no more clayforming)!</description>
-  </item>
-  <item>
-    <title>Daubweave</title>
-    <link>https://mods.vintagestory.at/show/mod/daubweave</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/daubweave#10217</guid>
-    <pubDate>Thu, 13 Aug 2026 12:07:14 -0000</pubDate>
-    <description>A simple patch to buff daub output, and adds an alternative to craft daub blocks!</description>
-  </item>
-  <item>
-    <title>Ale Traders</title>
-    <link>https://mods.vintagestory.at/show/mod/aletraders</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aletraders#9745</guid>
-    <pubDate>Thu, 13 Aug 2026 12:05:58 -0000</pubDate>
-    <description>Adds two alcohol traders, who sell start-up distilling supplies, and buy all your spirits!</description>
-  </item>
-  <item>
-    <title>Fish Trader</title>
-    <link>https://mods.vintagestory.at/show/mod/fishtrader</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fishtrader#9614</guid>
-    <pubDate>Thu, 13 Aug 2026 11:58:04 -0000</pubDate>
-    <description>Adds the fishmonger trader, who sells fishing supplies and taxidermied catches, and buys fish!</description>
-  </item>
-  <item>
-    <title>Animal Trader</title>
-    <link>https://mods.vintagestory.at/show/mod/animaltrader</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animaltrader#9531</guid>
-    <pubDate>Thu, 13 Aug 2026 11:51:35 -0000</pubDate>
-    <description>Adds the livestock trader, who sells loads of baby animals, and buys animal products!</description>
   </item>
 </channel>
 </rss>
