@@ -4,20 +4,34 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 13 Aug 2026 06:18:27 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 08:22:44 +0000</lastBuildDate>
   <item>
-    <title>VR_Wool</title>
-    <link>https://mods.vintagestory.at/show/mod/10966</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10966#10966</guid>
-    <pubDate>Thu, 13 Aug 2026 06:12:59 -0000</pubDate>
-    <description>.</description>
+    <title>Galeret Traits Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/galerettraits</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/galerettraits#10565</guid>
+    <pubDate>Thu, 13 Aug 2026 08:19:00 -0000</pubDate>
+    <description>A simple mod to add Trais to my Galeret race Mod</description>
+  </item>
+  <item>
+    <title>Galeret</title>
+    <link>https://mods.vintagestory.at/show/mod/galeret</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/galeret#9970</guid>
+    <pubDate>Thu, 13 Aug 2026 08:18:00 -0000</pubDate>
+    <description>A race of cat people based on kahjit</description>
   </item>
   <item>
     <title>Boric Alchemy</title>
     <link>https://mods.vintagestory.at/show/mod/5577</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Thu, 13 Aug 2026 05:07:29 -0000</pubDate>
+    <pubDate>Thu, 13 Aug 2026 07:47:08 -0000</pubDate>
     <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Thu, 13 Aug 2026 06:55:20 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
   </item>
   <item>
     <title>Snoopy's Time Control</title>
@@ -32,13 +46,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/columns#2678</guid>
     <pubDate>Thu, 13 Aug 2026 04:56:24 -0000</pubDate>
     <description>Literally just columns.</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Thu, 13 Aug 2026 04:35:31 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
   </item>
   <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
@@ -116,13 +123,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10228#10228</guid>
     <pubDate>Thu, 13 Aug 2026 02:36:51 -0000</pubDate>
     <description>Adds several new features regarding pyrolyzing different fuels in coke ovens.</description>
-  </item>
-  <item>
-    <title>VR_RBM</title>
-    <link>https://mods.vintagestory.at/show/mod/10955</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10955#10955</guid>
-    <pubDate>Thu, 13 Aug 2026 01:56:05 -0000</pubDate>
-    <description>rbm cleanup</description>
   </item>
   <item>
     <title>Animalica - Enemies</title>
