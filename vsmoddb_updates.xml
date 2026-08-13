@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 12 Aug 2026 23:43:41 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 02:09:37 +0000</lastBuildDate>
+  <item>
+    <title>VR_RBM</title>
+    <link>https://mods.vintagestory.at/show/mod/10955</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10955#10955</guid>
+    <pubDate>Thu, 13 Aug 2026 01:56:05 -0000</pubDate>
+    <description>rbm cleanup</description>
+  </item>
+  <item>
+    <title>Animalica - Enemies</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicae#10894</guid>
+    <pubDate>Thu, 13 Aug 2026 01:42:32 -0000</pubDate>
+    <description>Play as 23 hostile Vintage Story enemies with native animations, traits, clothing, and carry modes.</description>
+  </item>
+  <item>
+    <title>AECrate</title>
+    <link>https://mods.vintagestory.at/show/mod/aecrate</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aecrate#7832</guid>
+    <pubDate>Thu, 13 Aug 2026 01:42:04 -0000</pubDate>
+    <description>Shalker box in the Vintage Story world</description>
+  </item>
+  <item>
+    <title>Lunchbox</title>
+    <link>https://mods.vintagestory.at/show/mod/lunchbox</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lunchbox#6518</guid>
+    <pubDate>Thu, 13 Aug 2026 01:22:33 -0000</pubDate>
+    <description>Adds storage containers which automatically feeds the player when hungry</description>
+  </item>
+  <item>
+    <title>Bigger Backpacks Ithania Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/biggerbackpacksithaniapatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biggerbackpacksithaniapatch#10960</guid>
+    <pubDate>Thu, 13 Aug 2026 01:17:53 -0000</pubDate>
+    <description>Quick patch that doubles the inventory size of all Ithania Backpacks and Pouches.</description>
+  </item>
+  <item>
+    <title>Winter Sledge</title>
+    <link>https://mods.vintagestory.at/show/mod/10946</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10946#10946</guid>
+    <pubDate>Thu, 13 Aug 2026 01:11:46 -0000</pubDate>
+    <description>A winter sledge for carrying items across snow and ice as an extended backpack</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
+    <pubDate>Thu, 13 Aug 2026 00:30:50 -0000</pubDate>
+    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Doctor</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalsdoctor</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalsdoctor#10712</guid>
+    <pubDate>Thu, 13 Aug 2026 00:29:19 -0000</pubDate>
+    <description>EternalS Doctor is a server-side diagnostics and repair toolkit for Vintage Story servers.</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Wed, 12 Aug 2026 23:54:12 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
   <item>
     <title>Seraphs Ledger</title>
     <link>https://mods.vintagestory.at/show/mod/9783</link>
@@ -46,20 +109,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/imfw#10947</guid>
     <pubDate>Wed, 12 Aug 2026 22:31:58 -0000</pubDate>
     <description>Wet/Drying + Species based Charcoal progression. better wood = better firewood</description>
-  </item>
-  <item>
-    <title>Winter Sledge</title>
-    <link>https://mods.vintagestory.at/show/mod/10946</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10946#10946</guid>
-    <pubDate>Wed, 12 Aug 2026 22:25:02 -0000</pubDate>
-    <description>A winter sledge for carrying items across snow and ice as an extended backpack</description>
-  </item>
-  <item>
-    <title>VR_RBM</title>
-    <link>https://mods.vintagestory.at/show/mod/10955</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10955#10955</guid>
-    <pubDate>Wed, 12 Aug 2026 22:24:07 -0000</pubDate>
-    <description>rbm cleanup</description>
   </item>
   <item>
     <title>NDL ExpandedGrowth (Mushroom Growth Module)</title>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
     <pubDate>Wed, 12 Aug 2026 19:31:24 -0000</pubDate>
     <description>Track prey, follow blood, carry carcasses, compost dung, and have smarter wolves.</description>
-  </item>
-  <item>
-    <title>The Basics - Roleplay (RP) Proximity Chat and more!</title>
-    <link>https://mods.vintagestory.at/show/mod/thebasics</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thebasics#640</guid>
-    <pubDate>Wed, 12 Aug 2026 19:21:04 -0000</pubDate>
-    <description>Configurable Roleplay (RP) proximity chat system, various QoL features, and more!</description>
-  </item>
-  <item>
-    <title>Pemmican and Tofu</title>
-    <link>https://mods.vintagestory.at/show/mod/pemmicantofu</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pemmicantofu#5404</guid>
-    <pubDate>Wed, 12 Aug 2026 18:40:15 -0000</pubDate>
-    <description>Adds pemmican, soymilk and tofu, can be used in meals.</description>
-  </item>
-  <item>
-    <title>Translocator</title>
-    <link>https://mods.vintagestory.at/show/mod/translocator</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/translocator#10952</guid>
-    <pubDate>Wed, 12 Aug 2026 18:37:37 -0000</pubDate>
-    <description>A Vintage Story launcher: modpacks that prove who signed them, updates that say what changed.</description>
-  </item>
-  <item>
-    <title>Directional Bombs</title>
-    <link>https://mods.vintagestory.at/show/mod/directionalbombs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/directionalbombs#10940</guid>
-    <pubDate>Wed, 12 Aug 2026 18:36:24 -0000</pubDate>
-    <description>Ever wanted to dig a tunel with bombs? A moat? Anything more line-shaped than sphere? So did I!</description>
-  </item>
-  <item>
-    <title>Helianthus</title>
-    <link>https://mods.vintagestory.at/show/mod/10781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10781#10781</guid>
-    <pubDate>Wed, 12 Aug 2026 18:27:15 -0000</pubDate>
-    <description>Adds plants in the sunflower tribe</description>
-  </item>
-  <item>
-    <title>Auto Walk Extended</title>
-    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
-    <pubDate>Wed, 12 Aug 2026 17:24:14 -0000</pubDate>
-    <description>Toggle walking/running. Options for sneak toggle, stepup and mouse button lock.</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
-    <pubDate>Wed, 12 Aug 2026 17:00:13 -0000</pubDate>
-    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
   </item>
 </channel>
 </rss>
