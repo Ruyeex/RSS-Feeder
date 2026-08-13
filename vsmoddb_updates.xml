@@ -4,20 +4,41 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 13 Aug 2026 04:52:59 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 06:18:27 +0000</lastBuildDate>
+  <item>
+    <title>VR_Wool</title>
+    <link>https://mods.vintagestory.at/show/mod/10966</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10966#10966</guid>
+    <pubDate>Thu, 13 Aug 2026 06:12:59 -0000</pubDate>
+    <description>.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Thu, 13 Aug 2026 05:07:29 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Snoopy's Time Control</title>
+    <link>https://mods.vintagestory.at/show/mod/timecontrol</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/timecontrol#10964</guid>
+    <pubDate>Thu, 13 Aug 2026 05:00:34 -0000</pubDate>
+    <description>Client-side mod to change and freeze the time of day</description>
+  </item>
+  <item>
+    <title>Columns</title>
+    <link>https://mods.vintagestory.at/show/mod/columns</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/columns#2678</guid>
+    <pubDate>Thu, 13 Aug 2026 04:56:24 -0000</pubDate>
+    <description>Literally just columns.</description>
+  </item>
   <item>
     <title>Feral Kinship: Companions</title>
     <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
     <pubDate>Thu, 13 Aug 2026 04:35:31 -0000</pubDate>
     <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Thu, 13 Aug 2026 04:07:26 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
   </item>
   <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10231#10231</guid>
     <pubDate>Wed, 12 Aug 2026 22:41:02 -0000</pubDate>
     <description>A very niche addition to Primitive Survival.</description>
-  </item>
-  <item>
-    <title>Immersive Firewood</title>
-    <link>https://mods.vintagestory.at/show/mod/imfw</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/imfw#10947</guid>
-    <pubDate>Wed, 12 Aug 2026 22:31:58 -0000</pubDate>
-    <description>Wet/Drying + Species based Charcoal progression. better wood = better firewood</description>
-  </item>
-  <item>
-    <title>NDL ExpandedGrowth (Mushroom Growth Module)</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthmushrooms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthmushrooms#5922</guid>
-    <pubDate>Wed, 12 Aug 2026 22:20:26 -0000</pubDate>
-    <description>Adds a method for growing mushrooms!</description>
-  </item>
-  <item>
-    <title>Akira's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/akiratweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/akiratweaks#10138</guid>
-    <pubDate>Wed, 12 Aug 2026 22:09:24 -0000</pubDate>
-    <description>Collection of patches for a personal server.</description>
   </item>
 </channel>
 </rss>
