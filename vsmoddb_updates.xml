@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 13 Aug 2026 21:49:18 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 22:44:34 +0000</lastBuildDate>
+  <item>
+    <title>Fablewood Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Thu, 13 Aug 2026 22:42:58 -0000</pubDate>
+    <description>Skill and class mod for the Fablewood server</description>
+  </item>
+  <item>
+    <title>Fablewood Nametags</title>
+    <link>https://mods.vintagestory.at/show/mod/10460</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10460#10460</guid>
+    <pubDate>Thu, 13 Aug 2026 22:35:20 -0000</pubDate>
+    <description>Nametag mod for more customization</description>
+  </item>
+  <item>
+    <title>Zipline</title>
+    <link>https://mods.vintagestory.at/show/mod/zipline</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zipline#10982</guid>
+    <pubDate>Thu, 13 Aug 2026 22:33:52 -0000</pubDate>
+    <description>Build ziplines to get down a hill faster.</description>
+  </item>
+  <item>
+    <title>Fablewood Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Thu, 13 Aug 2026 22:32:38 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
+  <item>
+    <title>Fablewood Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
+    <pubDate>Thu, 13 Aug 2026 22:27:19 -0000</pubDate>
+    <description>JSON content patches</description>
+  </item>
+  <item>
+    <title>Fablewood Guilds</title>
+    <link>https://mods.vintagestory.at/show/mod/9586</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9586#9586</guid>
+    <pubDate>Thu, 13 Aug 2026 22:25:42 -0000</pubDate>
+    <description>Guild mod</description>
+  </item>
+  <item>
+    <title>DRRP Caveshrooms</title>
+    <link>https://mods.vintagestory.at/show/mod/caveshrooms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caveshrooms#10922</guid>
+    <pubDate>Thu, 13 Aug 2026 22:21:56 -0000</pubDate>
+    <description>Adds a mushroom that fruits from patches of temporally unstable substrate deep in caves.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Thu, 13 Aug 2026 22:08:07 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Meliora Meadows Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
+    <pubDate>Thu, 13 Aug 2026 21:59:52 -0000</pubDate>
+    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
+  </item>
   <item>
     <title>Rooted Forests</title>
     <link>https://mods.vintagestory.at/show/mod/rootedforests</link>
@@ -76,13 +139,6 @@
     <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
   </item>
   <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Thu, 13 Aug 2026 19:43:49 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
     <title>Eternal Seraph: Doctor</title>
     <link>https://mods.vintagestory.at/show/mod/eternalsdoctor</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalsdoctor#10712</guid>
@@ -139,13 +195,6 @@
     <description>Adds frames that can be placed on chests or walls, and used to display an item</description>
   </item>
   <item>
-    <title>Meliora Meadows Adjustments</title>
-    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
-    <pubDate>Thu, 13 Aug 2026 17:48:04 -0000</pubDate>
-    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
-  </item>
-  <item>
     <title>Scrolled</title>
     <link>https://mods.vintagestory.at/show/mod/6888</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6888#6888</guid>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ppex#9568</guid>
     <pubDate>Thu, 13 Aug 2026 16:52:22 -0000</pubDate>
     <description>Pipe network and modular steam power machinery!</description>
-  </item>
-  <item>
-    <title>Expanded Library</title>
-    <link>https://mods.vintagestory.at/show/mod/exlib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/exlib#9564</guid>
-    <pubDate>Thu, 13 Aug 2026 16:51:58 -0000</pubDate>
-    <description>Shared framework library for the Fallenstar's Expanded mods.</description>
-  </item>
-  <item>
-    <title>Chiseled Ground Placement</title>
-    <link>https://mods.vintagestory.at/show/mod/chiseledgroundplacement</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseledgroundplacement#10973</guid>
-    <pubDate>Thu, 13 Aug 2026 15:18:34 -0000</pubDate>
-    <description>Place down things on chiseled surfaces</description>
-  </item>
-  <item>
-    <title>AnanLa's Quenching Prediction</title>
-    <link>https://mods.vintagestory.at/show/mod/ananlaquenchingprediction</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ananlaquenchingprediction#10658</guid>
-    <pubDate>Thu, 13 Aug 2026 14:48:15 -0000</pubDate>
-    <description>一个 Vintage Story 模组，在淬火即将碎裂时发出预警，减少反复烧铁搓工具的精神损耗。A Vintage Story mod that warns you when an item is a</description>
-  </item>
-  <item>
-    <title>Locks &amp; Keys</title>
-    <link>https://mods.vintagestory.at/show/mod/locksandkeys</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/locksandkeys#10917</guid>
-    <pubDate>Thu, 13 Aug 2026 14:30:23 -0000</pubDate>
-    <description>Adds keys for your locks, key crafting, and using stolen keys.</description>
-  </item>
-  <item>
-    <title>Layout</title>
-    <link>https://mods.vintagestory.at/show/mod/10287</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10287#10287</guid>
-    <pubDate>Thu, 13 Aug 2026 14:28:23 -0000</pubDate>
-    <description>Layout tool that produces inert, uninteractable 2D/3D voxel guidelines in various shapes.</description>
-  </item>
-  <item>
-    <title>NDL ExpandedGrowth (Mushroom Growth Module)</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthmushrooms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthmushrooms#5922</guid>
-    <pubDate>Thu, 13 Aug 2026 14:22:32 -0000</pubDate>
-    <description>Adds a method for growing mushrooms!</description>
-  </item>
-  <item>
-    <title>topgsmod</title>
-    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Thu, 13 Aug 2026 14:03:37 -0000</pubDate>
-    <description>TopGs Community Mod</description>
   </item>
 </channel>
 </rss>
