@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 13 Aug 2026 16:05:11 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 17:58:52 +0000</lastBuildDate>
+  <item>
+    <title>Item Frames</title>
+    <link>https://mods.vintagestory.at/show/mod/itemframes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/itemframes#10977</guid>
+    <pubDate>Thu, 13 Aug 2026 17:50:49 -0000</pubDate>
+    <description>Adds frames that can be placed on chests or walls, and used to display an item</description>
+  </item>
+  <item>
+    <title>Meliora Meadows Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
+    <pubDate>Thu, 13 Aug 2026 17:48:04 -0000</pubDate>
+    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
+  </item>
+  <item>
+    <title>Scrolled</title>
+    <link>https://mods.vintagestory.at/show/mod/6888</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6888#6888</guid>
+    <pubDate>Thu, 13 Aug 2026 17:18:45 -0000</pubDate>
+    <description>This mod allows vanilla schematics and mod schematics to be rolled up and be scroll rackable.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Thu, 13 Aug 2026 17:05:57 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Steelmaking Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/smex</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smex#9254</guid>
+    <pubDate>Thu, 13 Aug 2026 16:53:11 -0000</pubDate>
+    <description>Industrial iron and steel production using Blast Furnace and Bessemer process!</description>
+  </item>
+  <item>
+    <title>Pipes and Power Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/ppex</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ppex#9568</guid>
+    <pubDate>Thu, 13 Aug 2026 16:52:22 -0000</pubDate>
+    <description>Pipe network and modular steam power machinery!</description>
+  </item>
+  <item>
+    <title>Expanded Library</title>
+    <link>https://mods.vintagestory.at/show/mod/exlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/exlib#9564</guid>
+    <pubDate>Thu, 13 Aug 2026 16:51:58 -0000</pubDate>
+    <description>Shared framework library for the Fallenstar's Expanded mods.</description>
+  </item>
   <item>
     <title>Chiseled Ground Placement</title>
     <link>https://mods.vintagestory.at/show/mod/chiseledgroundplacement</link>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/timecontrol#10964</guid>
     <pubDate>Thu, 13 Aug 2026 05:00:34 -0000</pubDate>
     <description>Client-side mod to change and freeze the time of day</description>
-  </item>
-  <item>
-    <title>Columns</title>
-    <link>https://mods.vintagestory.at/show/mod/columns</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/columns#2678</guid>
-    <pubDate>Thu, 13 Aug 2026 04:56:24 -0000</pubDate>
-    <description>Literally just columns.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Thu, 13 Aug 2026 03:56:40 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Animal Kinship</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinship</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinship#9647</guid>
-    <pubDate>Thu, 13 Aug 2026 03:43:26 -0000</pubDate>
-    <description>Animals recognize their feral kin, with simple taming for supported wildlife.</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Thu, 13 Aug 2026 03:42:36 -0000</pubDate>
-    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Thu, 13 Aug 2026 03:42:31 -0000</pubDate>
-    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
-  </item>
-  <item>
-    <title>Realistic Physiology and Survival</title>
-    <link>https://mods.vintagestory.at/show/mod/10784</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10784#10784</guid>
-    <pubDate>Thu, 13 Aug 2026 03:39:37 -0000</pubDate>
-    <description>Imagine if Rimworld, Project Zomboid, and Oxygen not Included survival was combined.</description>
-  </item>
-  <item>
-    <title>Historical Armory: Warlords and Warchiefs</title>
-    <link>https://mods.vintagestory.at/show/mod/hawarlords</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hawarlords#9245</guid>
-    <pubDate>Thu, 13 Aug 2026 03:37:47 -0000</pubDate>
-    <description>A collection of equipment from the North/South American and African continents.</description>
   </item>
 </channel>
 </rss>
