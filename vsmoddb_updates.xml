@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 14 Aug 2026 19:50:58 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 20:33:09 +0000</lastBuildDate>
+  <item>
+    <title>C&amp;N Events</title>
+    <link>https://mods.vintagestory.at/show/mod/canevents</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
+    <pubDate>Fri, 14 Aug 2026 20:22:48 -0000</pubDate>
+    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
+  </item>
+  <item>
+    <title>Vintage Rift - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
+    <pubDate>Fri, 14 Aug 2026 20:15:47 -0000</pubDate>
+    <description>Client only code for the Vintage Rift server</description>
+  </item>
+  <item>
+    <title>Tallybook</title>
+    <link>https://mods.vintagestory.at/show/mod/10864</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
+    <pubDate>Fri, 14 Aug 2026 19:57:52 -0000</pubDate>
+    <description>Crafting shopping list, villager quest tracker, and spoiler-free story guide. Fully client-side.</description>
+  </item>
+  <item>
+    <title>wotpatches</title>
+    <link>https://mods.vintagestory.at/show/mod/wotpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wotpatches#10513</guid>
+    <pubDate>Fri, 14 Aug 2026 19:56:19 -0000</pubDate>
+    <description>Patches for World of Thalorim.</description>
+  </item>
   <item>
     <title>Weapon Pack Alpha - Rebalanced</title>
     <link>https://mods.vintagestory.at/show/mod/3314</link>
@@ -32,6 +60,13 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalpots#3912</guid>
     <pubDate>Fri, 14 Aug 2026 19:16:36 -0000</pubDate>
     <description>Adds Cooking Pots made from metal with greater serving size</description>
+  </item>
+  <item>
+    <title>Magical Moon - FRustyMagic (Beta)</title>
+    <link>https://mods.vintagestory.at/show/mod/10975</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10975#10975</guid>
+    <pubDate>Fri, 14 Aug 2026 19:06:08 -0000</pubDate>
+    <description>An entirely in-world, small, moon magic mod. Play around with beams of light!</description>
   </item>
   <item>
     <title>Helianthus</title>
@@ -74,13 +109,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cartwrightscaravan#3539</guid>
     <pubDate>Fri, 14 Aug 2026 18:11:43 -0000</pubDate>
     <description>Adds seraph-pulled/pushed carts, sleds, and market stalls with storage and decoration options.</description>
-  </item>
-  <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Fri, 14 Aug 2026 17:32:32 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
   </item>
   <item>
     <title>Grinding Wheel Rework</title>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/viverridae#3334</guid>
     <pubDate>Fri, 14 Aug 2026 16:17:22 -0000</pubDate>
     <description>A collection of civets, genets and oyans from the Holocene.</description>
-  </item>
-  <item>
-    <title>Animalica Core</title>
-    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
-    <pubDate>Fri, 14 Aug 2026 16:05:09 -0000</pubDate>
-    <description>Core mod for playable animals. Does nothing on it's own</description>
-  </item>
-  <item>
-    <title>Boomerang</title>
-    <link>https://mods.vintagestory.at/show/mod/boomerang</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/boomerang#10978</guid>
-    <pubDate>Fri, 14 Aug 2026 16:02:35 -0000</pubDate>
-    <description>An early game wooden boomerang. Throw it at small game, if it misses, it curves back into your hand</description>
-  </item>
-  <item>
-    <title>Japanese Horde: Armor</title>
-    <link>https://mods.vintagestory.at/show/mod/japanesehordearmor</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/japanesehordearmor#2187</guid>
-    <pubDate>Fri, 14 Aug 2026 15:48:28 -0000</pubDate>
-    <description>Автор: POBEPT.</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Fri, 14 Aug 2026 15:41:54 -0000</pubDate>
-    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
   </item>
 </channel>
 </rss>
