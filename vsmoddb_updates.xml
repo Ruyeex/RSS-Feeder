@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 14 Aug 2026 16:55:38 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 17:54:57 +0000</lastBuildDate>
+  <item>
+    <title>Weapon Pack Alpha - Rebalanced</title>
+    <link>https://mods.vintagestory.at/show/mod/3314</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
+    <pubDate>Fri, 14 Aug 2026 17:49:16 -0000</pubDate>
+    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
+  </item>
+  <item>
+    <title>Vintage Rift - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
+    <pubDate>Fri, 14 Aug 2026 17:32:32 -0000</pubDate>
+    <description>Client only code for the Vintage Rift server</description>
+  </item>
+  <item>
+    <title>Grinding Wheel Rework</title>
+    <link>https://mods.vintagestory.at/show/mod/grindingwheelrework</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindingwheelrework#8252</guid>
+    <pubDate>Fri, 14 Aug 2026 17:30:24 -0000</pubDate>
+    <description>Expands grinding wheel to support more tools and turns sharpening into a lightweight repair system</description>
+  </item>
+  <item>
+    <title>Chiseled Wall Mounting</title>
+    <link>https://mods.vintagestory.at/show/mod/chiseledwallmounting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseledwallmounting#10815</guid>
+    <pubDate>Fri, 14 Aug 2026 17:11:53 -0000</pubDate>
+    <description>Place wall-mounted items on chiseled blocks</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Bovinae</title>
+    <link>https://mods.vintagestory.at/show/mod/bovinae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bovinae#3103</guid>
+    <pubDate>Fri, 14 Aug 2026 17:08:42 -0000</pubDate>
+    <description>A collection of antelopes, bison, buffalo and cattle from the Holocene.</description>
+  </item>
+  <item>
+    <title>Dense Ground Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
+    <pubDate>Fri, 14 Aug 2026 16:58:35 -0000</pubDate>
+    <description>Place down more items per block and on chiseled blocks</description>
+  </item>
   <item>
     <title>Fauna of the Stone Age: Chelonioidea</title>
     <link>https://mods.vintagestory.at/show/mod/chelonioidea</link>
@@ -67,6 +109,13 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindablearrows#8419</guid>
     <pubDate>Fri, 14 Aug 2026 16:28:30 -0000</pubDate>
     <description>Sharpen your arrows on a grinding wheel to shoot your enemies with more powerful arrows</description>
+  </item>
+  <item>
+    <title>Sound Physics Adapted</title>
+    <link>https://mods.vintagestory.at/show/mod/10996</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10996#10996</guid>
+    <pubDate>Fri, 14 Aug 2026 16:26:29 -0000</pubDate>
+    <description>Realistic Raytraced Audio. Walls depending on thickness and material muffle sounds and much more!</description>
   </item>
   <item>
     <title>Fauna of the Stone Age: Viverridae Plus</title>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
     <pubDate>Fri, 14 Aug 2026 15:15:52 -0000</pubDate>
     <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Spheniscidae</title>
-    <link>https://mods.vintagestory.at/show/mod/spheniscidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spheniscidae#2711</guid>
-    <pubDate>Fri, 14 Aug 2026 15:15:34 -0000</pubDate>
-    <description>A collection of penguins from the Holocene.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Dinornithiformes Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/dinornithidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dinornithidae#2195</guid>
-    <pubDate>Fri, 14 Aug 2026 15:12:05 -0000</pubDate>
-    <description>A collection of Moa and other New Zealand flightless birds from the Holocene.</description>
-  </item>
-  <item>
-    <title>Jelly Bundle</title>
-    <link>https://mods.vintagestory.at/show/mod/10059</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10059#10059</guid>
-    <pubDate>Fri, 14 Aug 2026 15:10:57 -0000</pubDate>
-    <description>A compilation of tweaks for the Swamp Jelly server.</description>
-  </item>
-  <item>
-    <title>Chiseled Block Retention</title>
-    <link>https://mods.vintagestory.at/show/mod/cbr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cbr#4343</guid>
-    <pubDate>Fri, 14 Aug 2026 15:08:45 -0000</pubDate>
-    <description>Chiseled blocks will ALWAYS retain heat and make a room valid.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Manidae</title>
-    <link>https://mods.vintagestory.at/show/mod/manidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/manidae#2150</guid>
-    <pubDate>Fri, 14 Aug 2026 15:08:10 -0000</pubDate>
-    <description>A collection of pangolins from the Holocene.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Rhinocerotidae</title>
-    <link>https://mods.vintagestory.at/show/mod/rhinocerotidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rhinocerotidae#2130</guid>
-    <pubDate>Fri, 14 Aug 2026 15:02:36 -0000</pubDate>
-    <description>A collection of rhinos from the Holocene.</description>
-  </item>
-  <item>
-    <title>Scribe: Notes &amp; Tasks</title>
-    <link>https://mods.vintagestory.at/show/mod/scribe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scribe#10607</guid>
-    <pubDate>Fri, 14 Aug 2026 14:48:24 -0000</pubDate>
-    <description>Take notes and track tasks in-world. Pin tasks to a persistent HUD. Multiplayer-ready.</description>
   </item>
 </channel>
 </rss>
