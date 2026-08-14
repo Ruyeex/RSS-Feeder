@@ -4,20 +4,41 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 14 Aug 2026 18:57:34 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 19:50:58 +0000</lastBuildDate>
+  <item>
+    <title>Weapon Pack Alpha - Rebalanced</title>
+    <link>https://mods.vintagestory.at/show/mod/3314</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
+    <pubDate>Fri, 14 Aug 2026 19:39:46 -0000</pubDate>
+    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
+  </item>
+  <item>
+    <title>Zipline</title>
+    <link>https://mods.vintagestory.at/show/mod/zipline</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zipline#10982</guid>
+    <pubDate>Fri, 14 Aug 2026 19:36:09 -0000</pubDate>
+    <description>Build ziplines to get down a hill faster.</description>
+  </item>
+  <item>
+    <title>AstraTerra</title>
+    <link>https://mods.vintagestory.at/show/mod/8706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
+    <pubDate>Fri, 14 Aug 2026 19:33:01 -0000</pubDate>
+    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
+  </item>
+  <item>
+    <title>Metal Cooking Pots</title>
+    <link>https://mods.vintagestory.at/show/mod/metalpots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalpots#3912</guid>
+    <pubDate>Fri, 14 Aug 2026 19:16:36 -0000</pubDate>
+    <description>Adds Cooking Pots made from metal with greater serving size</description>
+  </item>
   <item>
     <title>Helianthus</title>
     <link>https://mods.vintagestory.at/show/mod/10781</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10781#10781</guid>
     <pubDate>Fri, 14 Aug 2026 18:52:57 -0000</pubDate>
     <description>Adds plants in the sunflower tribe</description>
-  </item>
-  <item>
-    <title>Weapon Pack Alpha - Rebalanced</title>
-    <link>https://mods.vintagestory.at/show/mod/3314</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
-    <pubDate>Fri, 14 Aug 2026 18:37:38 -0000</pubDate>
-    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
   </item>
   <item>
     <title>Layout</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
     <pubDate>Fri, 14 Aug 2026 15:41:54 -0000</pubDate>
     <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Meiolaniidae</title>
-    <link>https://mods.vintagestory.at/show/mod/meiolaniidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/meiolaniidae#3142</guid>
-    <pubDate>Fri, 14 Aug 2026 15:37:08 -0000</pubDate>
-    <description>A collection of horned turtles from human history.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Vombatidae Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/vombatidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vombatidae#3048</guid>
-    <pubDate>Fri, 14 Aug 2026 15:33:43 -0000</pubDate>
-    <description>A collection of wombats and relatives from the Holocene</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Elephantidae</title>
-    <link>https://mods.vintagestory.at/show/mod/elephantidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elephantidae#2989</guid>
-    <pubDate>Fri, 14 Aug 2026 15:28:30 -0000</pubDate>
-    <description>A collection of elephants from the Holocene.</description>
   </item>
 </channel>
 </rss>
