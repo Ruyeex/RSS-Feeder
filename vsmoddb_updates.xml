@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 14 Aug 2026 10:05:29 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 11:45:37 +0000</lastBuildDate>
+  <item>
+    <title>AccessoryTab</title>
+    <link>https://mods.vintagestory.at/show/mod/accessorytab</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/accessorytab#8002</guid>
+    <pubDate>Fri, 14 Aug 2026 11:35:11 -0000</pubDate>
+    <description>Adds an accessory tab with synced extra equipment slots for cosmetic and wearable items</description>
+  </item>
+  <item>
+    <title>Accessorize</title>
+    <link>https://mods.vintagestory.at/show/mod/accessorize</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/accessorize#6455</guid>
+    <pubDate>Fri, 14 Aug 2026 11:28:15 -0000</pubDate>
+    <description>A mod for more wearable and craftable accessories </description>
+  </item>
+  <item>
+    <title>Fablewood Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Fri, 14 Aug 2026 11:05:58 -0000</pubDate>
+    <description>Skill and class mod for the Fablewood server</description>
+  </item>
+  <item>
+    <title>Sauna</title>
+    <link>https://mods.vintagestory.at/show/mod/10992</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10992#10992</guid>
+    <pubDate>Fri, 14 Aug 2026 10:51:42 -0000</pubDate>
+    <description>Seal a room, light the iron stove, splash a watering can over the hot stones, and you have a sauna</description>
+  </item>
+  <item>
+    <title>Offline No Spoil [Server-side Only]</title>
+    <link>https://mods.vintagestory.at/show/mod/offlinenospoil</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/offlinenospoil#10816</guid>
+    <pubDate>Fri, 14 Aug 2026 10:17:06 -0000</pubDate>
+    <description>Preserves perishable food in offline inventories and configured containers.【服务端离线防腐模组】</description>
+  </item>
   <item>
     <title>Land Of Estrellas</title>
     <link>https://mods.vintagestory.at/show/mod/loe</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ruinlootgallery#10986</guid>
     <pubDate>Fri, 14 Aug 2026 01:25:07 -0000</pubDate>
     <description>Browse and spawn every vanilla structure, or generate a world of loot-bearing ruins near spawn.</description>
-  </item>
-  <item>
-    <title>Immersive Heat Sources</title>
-    <link>https://mods.vintagestory.at/show/mod/iheat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/iheat#10640</guid>
-    <pubDate>Fri, 14 Aug 2026 01:00:35 -0000</pubDate>
-    <description>Heat sources melt snow and ice around them, and have a dynamic heating radius.</description>
-  </item>
-  <item>
-    <title>Rooted Forests</title>
-    <link>https://mods.vintagestory.at/show/mod/rootedforests</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rootedforests#10980</guid>
-    <pubDate>Fri, 14 Aug 2026 00:58:28 -0000</pubDate>
-    <description>More natural, grounded forests with handcrafted voxel trunks and rooted tree bases.</description>
-  </item>
-  <item>
-    <title>More Grass From Knives</title>
-    <link>https://mods.vintagestory.at/show/mod/10985</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10985#10985</guid>
-    <pubDate>Fri, 14 Aug 2026 00:53:54 -0000</pubDate>
-    <description>Tall grass now drops 2 grass items instead of one using knives and scythes</description>
-  </item>
-  <item>
-    <title>Need Polished Rocks</title>
-    <link>https://mods.vintagestory.at/show/mod/needpolishedrocks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/needpolishedrocks#8971</guid>
-    <pubDate>Fri, 14 Aug 2026 00:47:03 -0000</pubDate>
-    <description>Adds support for Material Needs Geology's stone types to More Polished Rocks.</description>
-  </item>
-  <item>
-    <title>Locusts for all</title>
-    <link>https://mods.vintagestory.at/show/mod/7730</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7730#7730</guid>
-    <pubDate>Fri, 14 Aug 2026 00:35:15 -0000</pubDate>
-    <description>Allows all classes to be able to use the tuning spear to tame multiple locusts and offer more tweaks</description>
   </item>
 </channel>
 </rss>
