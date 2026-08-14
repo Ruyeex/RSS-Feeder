@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 14 Aug 2026 08:17:39 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 10:05:29 +0000</lastBuildDate>
+  <item>
+    <title>Land Of Estrellas</title>
+    <link>https://mods.vintagestory.at/show/mod/loe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/loe#10629</guid>
+    <pubDate>Fri, 14 Aug 2026 09:30:48 -0000</pubDate>
+    <description>The offical modpack of The Land of Estrellas server </description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Poklyk</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspoklyk</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspoklyk#9074</guid>
+    <pubDate>Fri, 14 Aug 2026 09:18:44 -0000</pubDate>
+    <description>Calling progression system where specializations emerge from player actions</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Fri, 14 Aug 2026 08:50:58 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Roaming Bees for Extended Beekeping</title>
+    <link>https://mods.vintagestory.at/show/mod/10811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10811#10811</guid>
+    <pubDate>Fri, 14 Aug 2026 08:37:04 -0000</pubDate>
+    <description>A simple compatibility mod for cute bees.</description>
+  </item>
   <item>
     <title>topgsmod</title>
     <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
@@ -74,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
     <pubDate>Fri, 14 Aug 2026 05:22:55 -0000</pubDate>
     <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Fri, 14 Aug 2026 05:13:48 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
   <item>
     <title>Centipede insectoid addition</title>
@@ -160,13 +181,6 @@
     <description>Browse and spawn every vanilla structure, or generate a world of loot-bearing ruins near spawn.</description>
   </item>
   <item>
-    <title>Roaming Bees for Extended Beekeping</title>
-    <link>https://mods.vintagestory.at/show/mod/10811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10811#10811</guid>
-    <pubDate>Fri, 14 Aug 2026 01:01:56 -0000</pubDate>
-    <description>A simple compatibility mod for cute bees.</description>
-  </item>
-  <item>
     <title>Immersive Heat Sources</title>
     <link>https://mods.vintagestory.at/show/mod/iheat</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/iheat#10640</guid>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7730#7730</guid>
     <pubDate>Fri, 14 Aug 2026 00:35:15 -0000</pubDate>
     <description>Allows all classes to be able to use the tuning spear to tame multiple locusts and offer more tweaks</description>
-  </item>
-  <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Fri, 14 Aug 2026 00:20:04 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
-    <title>Dar's Server Utilities</title>
-    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
-    <pubDate>Fri, 14 Aug 2026 00:18:55 -0000</pubDate>
-    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
   </item>
 </channel>
 </rss>
