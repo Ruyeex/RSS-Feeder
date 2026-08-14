@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 14 Aug 2026 02:07:47 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 04:49:34 +0000</lastBuildDate>
+  <item>
+    <title>Centipede insectoid addition</title>
+    <link>https://mods.vintagestory.at/show/mod/10979</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10979#10979</guid>
+    <pubDate>Fri, 14 Aug 2026 04:37:06 -0000</pubDate>
+    <description>Edit/addon to the insectoid mod that adds a centipede varient</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Fri, 14 Aug 2026 04:35:47 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Immersive Firewood</title>
+    <link>https://mods.vintagestory.at/show/mod/imfw</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/imfw#10947</guid>
+    <pubDate>Fri, 14 Aug 2026 04:20:52 -0000</pubDate>
+    <description>Wet/Drying + Species based Charcoal progression. better wood = better firewood</description>
+  </item>
+  <item>
+    <title>Arrows and Slings</title>
+    <link>https://mods.vintagestory.at/show/mod/arrowsnslings</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arrowsnslings#9546</guid>
+    <pubDate>Fri, 14 Aug 2026 03:02:38 -0000</pubDate>
+    <description>Buff arrows, adds sling progression, and additional sling projectiles</description>
+  </item>
+  <item>
+    <title>Cheap Dirt Path</title>
+    <link>https://mods.vintagestory.at/show/mod/6783</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6783#6783</guid>
+    <pubDate>Fri, 14 Aug 2026 02:32:02 -0000</pubDate>
+    <description>A mod that adds cheaper paths, made with compact dirt.</description>
+  </item>
+  <item>
+    <title>Cairn — Modpack Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/cairn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
+    <pubDate>Fri, 14 Aug 2026 02:28:30 -0000</pubDate>
+    <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
+  </item>
+  <item>
+    <title>FotSA Butchering Compat Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/fotsabutcheringcompatplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsabutcheringcompatplus#10987</guid>
+    <pubDate>Fri, 14 Aug 2026 02:26:04 -0000</pubDate>
+    <description>Adds support for the rest of the FotSA mods that Butchering and FotSA Butchering Compat did not</description>
+  </item>
+  <item>
+    <title>Milk or be Milked</title>
+    <link>https://mods.vintagestory.at/show/mod/milkorbemilked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/milkorbemilked#10988</guid>
+    <pubDate>Fri, 14 Aug 2026 02:23:41 -0000</pubDate>
+    <description>Enables milking various playermodellib races using Yang's milkable players mod. Thanks Yang.</description>
+  </item>
+  <item>
+    <title>TITANHEIMR EYES</title>
+    <link>https://mods.vintagestory.at/show/mod/theyes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/theyes#9559</guid>
+    <pubDate>Fri, 14 Aug 2026 02:17:18 -0000</pubDate>
+    <description>Twenty four of the best eye colors from the TITANHEIMR server.</description>
+  </item>
+  <item>
+    <title>TITANHEIMR server</title>
+    <link>https://mods.vintagestory.at/show/mod/titanheimr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/titanheimr#10861</guid>
+    <pubDate>Fri, 14 Aug 2026 02:15:50 -0000</pubDate>
+    <description>Centaurs (soon) and tweaks to the ''Middle-Earth Races'' mod!</description>
+  </item>
   <item>
     <title>More Blood Thingies!</title>
     <link>https://mods.vintagestory.at/show/mod/10959</link>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
     <pubDate>Thu, 13 Aug 2026 22:08:07 -0000</pubDate>
     <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Meliora Meadows Adjustments</title>
-    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
-    <pubDate>Thu, 13 Aug 2026 21:59:52 -0000</pubDate>
-    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
-  </item>
-  <item>
-    <title>vsRoofing + Jacks Stone Chisels Compat Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/10981</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10981#10981</guid>
-    <pubDate>Thu, 13 Aug 2026 21:26:05 -0000</pubDate>
-    <description>Adds compatability between VsRoofing and Jacks Stone Chisels</description>
-  </item>
-  <item>
-    <title>Animal Cages Crash Guard</title>
-    <link>https://mods.vintagestory.at/show/mod/10968</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10968#10968</guid>
-    <pubDate>Thu, 13 Aug 2026 21:11:36 -0000</pubDate>
-    <description>possible fix for animal cages causing crashes when releasing</description>
-  </item>
-  <item>
-    <title>Tallybook</title>
-    <link>https://mods.vintagestory.at/show/mod/10864</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
-    <pubDate>Thu, 13 Aug 2026 20:57:42 -0000</pubDate>
-    <description>Crafting shopping list, villager quest tracker, and spoiler-free story guide. Fully client-side.</description>
-  </item>
-  <item>
-    <title>Better Hoe</title>
-    <link>https://mods.vintagestory.at/show/mod/betterhoe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhoe#1594</guid>
-    <pubDate>Thu, 13 Aug 2026 20:50:37 -0000</pubDate>
-    <description>Adds function to create paths with the hoe.</description>
-  </item>
-  <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Thu, 13 Aug 2026 20:37:09 -0000</pubDate>
-    <description>The factory must grow!</description>
-  </item>
-  <item>
-    <title>Hooked On Hydro</title>
-    <link>https://mods.vintagestory.at/show/mod/10803</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10803#10803</guid>
-    <pubDate>Thu, 13 Aug 2026 20:22:07 -0000</pubDate>
-    <description>Hooked On Hydro </description>
-  </item>
-  <item>
-    <title>Tweakfactory</title>
-    <link>https://mods.vintagestory.at/show/mod/tweakfactory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tweakfactory#10875</guid>
-    <pubDate>Thu, 13 Aug 2026 20:17:43 -0000</pubDate>
-    <description>Tweakmod um Klassenspezifische Rezepte einzubinden.</description>
-  </item>
-  <item>
-    <title>Centipede insectoid addition</title>
-    <link>https://mods.vintagestory.at/show/mod/10979</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10979#10979</guid>
-    <pubDate>Thu, 13 Aug 2026 20:15:28 -0000</pubDate>
-    <description>Edit/addon to the insectoid mod that adds a centipede varient</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Doctor</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalsdoctor</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalsdoctor#10712</guid>
-    <pubDate>Thu, 13 Aug 2026 19:34:33 -0000</pubDate>
-    <description>EternalS Doctor is a server-side diagnostics and repair toolkit for Vintage Story servers.</description>
   </item>
 </channel>
 </rss>
