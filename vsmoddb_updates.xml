@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 14 Aug 2026 21:26:59 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 22:25:49 +0000</lastBuildDate>
+  <item>
+    <title>Quarter Logs To Planks</title>
+    <link>https://mods.vintagestory.at/show/mod/quarterlogstoplanks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/quarterlogstoplanks#11000</guid>
+    <pubDate>Fri, 14 Aug 2026 21:29:58 -0000</pubDate>
+    <description>Adds the log + saw = planks grid recipes to all quarter logs, barked, debarked, and corner variants.</description>
+  </item>
   <item>
     <title>Gondola Cable Car</title>
     <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
@@ -60,6 +67,13 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
     <pubDate>Fri, 14 Aug 2026 20:15:47 -0000</pubDate>
     <description>Client only code for the Vintage Rift server</description>
+  </item>
+  <item>
+    <title>Kingdoms and Clans Base Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/kingandclanbase</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kingandclanbase#11001</guid>
+    <pubDate>Fri, 14 Aug 2026 20:08:16 -0000</pubDate>
+    <description>Mod for whitelisted server Kingdoms and Clans</description>
   </item>
   <item>
     <title>Tallybook</title>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/europeanhordearmor#2096</guid>
     <pubDate>Fri, 14 Aug 2026 16:45:43 -0000</pubDate>
     <description>Авторы: POBEPT, Aul</description>
-  </item>
-  <item>
-    <title>Pemmican and Tofu</title>
-    <link>https://mods.vintagestory.at/show/mod/pemmicantofu</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pemmicantofu#5404</guid>
-    <pubDate>Fri, 14 Aug 2026 16:45:04 -0000</pubDate>
-    <description>Adds pemmican, soymilk and tofu, can be used in meals.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Iniidae Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/iniidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/iniidae#3853</guid>
-    <pubDate>Fri, 14 Aug 2026 16:44:20 -0000</pubDate>
-    <description>A collection of freshwater dolphins from the Holocene.</description>
   </item>
 </channel>
 </rss>
