@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 14 Aug 2026 22:25:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 23:23:53 +0000</lastBuildDate>
+  <item>
+    <title>VS Terrain Diffusion</title>
+    <link>https://mods.vintagestory.at/show/mod/vsterraindiffusion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsterraindiffusion#10918</guid>
+    <pubDate>Fri, 14 Aug 2026 23:17:11 -0000</pubDate>
+    <description>Generate terrain with a neural heightmap model trained on real Earth topography</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Fri, 14 Aug 2026 22:51:31 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Fablewood Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Fri, 14 Aug 2026 22:35:56 -0000</pubDate>
+    <description>Skill and class mod for the Fablewood server</description>
+  </item>
+  <item>
+    <title>Fablewood Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
+    <pubDate>Fri, 14 Aug 2026 22:33:37 -0000</pubDate>
+    <description>JSON content patches</description>
+  </item>
+  <item>
+    <title>Scribe: Notes &amp; Tasks</title>
+    <link>https://mods.vintagestory.at/show/mod/scribe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scribe#10607</guid>
+    <pubDate>Fri, 14 Aug 2026 22:32:41 -0000</pubDate>
+    <description>Take notes and track tasks in-world. Pin tasks to a persistent HUD. Multiplayer-ready.</description>
+  </item>
+  <item>
+    <title>Fablewood Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Fri, 14 Aug 2026 22:32:29 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
   <item>
     <title>Quarter Logs To Planks</title>
     <link>https://mods.vintagestory.at/show/mod/quarterlogstoplanks</link>
@@ -139,13 +181,6 @@
     <description>Layout tool that produces inert, uninteractable 2D/3D voxel guidelines in various shapes.</description>
   </item>
   <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Fri, 14 Aug 2026 18:26:16 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
     <title>Liber Terra</title>
     <link>https://mods.vintagestory.at/show/mod/liberterra</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/liberterra#10763</guid>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bovinae#3103</guid>
     <pubDate>Fri, 14 Aug 2026 17:08:42 -0000</pubDate>
     <description>A collection of antelopes, bison, buffalo and cattle from the Holocene.</description>
-  </item>
-  <item>
-    <title>Dense Ground Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
-    <pubDate>Fri, 14 Aug 2026 16:58:35 -0000</pubDate>
-    <description>Place down more items per block and on chiseled blocks</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Chelonioidea</title>
-    <link>https://mods.vintagestory.at/show/mod/chelonioidea</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chelonioidea#4054</guid>
-    <pubDate>Fri, 14 Aug 2026 16:51:17 -0000</pubDate>
-    <description>A collection of sea turtles from the Holocene.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Thylacinidae Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/thylacinidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thylacinidae#3920</guid>
-    <pubDate>Fri, 14 Aug 2026 16:46:59 -0000</pubDate>
-    <description>A collection of carnivorous Marsupials from Human history.</description>
-  </item>
-  <item>
-    <title>Cuman Horde: Armor</title>
-    <link>https://mods.vintagestory.at/show/mod/cumanhordearmor</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cumanhordearmor#1794</guid>
-    <pubDate>Fri, 14 Aug 2026 16:46:51 -0000</pubDate>
-    <description>Станьте частью половецкой орды!  Become a part of the Cuman horde!</description>
-  </item>
-  <item>
-    <title>European Horde: Armor</title>
-    <link>https://mods.vintagestory.at/show/mod/europeanhordearmor</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/europeanhordearmor#2096</guid>
-    <pubDate>Fri, 14 Aug 2026 16:45:43 -0000</pubDate>
-    <description>Авторы: POBEPT, Aul</description>
   </item>
 </channel>
 </rss>
