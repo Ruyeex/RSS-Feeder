@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 13 Aug 2026 23:43:30 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 02:07:47 +0000</lastBuildDate>
+  <item>
+    <title>More Blood Thingies!</title>
+    <link>https://mods.vintagestory.at/show/mod/10959</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
+    <pubDate>Fri, 14 Aug 2026 02:05:15 -0000</pubDate>
+    <description>Adds all the features for bloodbread that should have been.</description>
+  </item>
+  <item>
+    <title>Ruin Loot Gallery</title>
+    <link>https://mods.vintagestory.at/show/mod/ruinlootgallery</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ruinlootgallery#10986</guid>
+    <pubDate>Fri, 14 Aug 2026 01:25:07 -0000</pubDate>
+    <description>Browse and spawn every vanilla structure, or generate a world of loot-bearing ruins near spawn.</description>
+  </item>
+  <item>
+    <title>Roaming Bees for Extended Beekeping</title>
+    <link>https://mods.vintagestory.at/show/mod/10811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10811#10811</guid>
+    <pubDate>Fri, 14 Aug 2026 01:01:56 -0000</pubDate>
+    <description>A simple compatibility mod for cute bees.</description>
+  </item>
+  <item>
+    <title>Immersive Heat Sources</title>
+    <link>https://mods.vintagestory.at/show/mod/iheat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/iheat#10640</guid>
+    <pubDate>Fri, 14 Aug 2026 01:00:35 -0000</pubDate>
+    <description>Heat sources melt snow and ice around them, and have a dynamic heating radius.</description>
+  </item>
+  <item>
+    <title>Rooted Forests</title>
+    <link>https://mods.vintagestory.at/show/mod/rootedforests</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rootedforests#10980</guid>
+    <pubDate>Fri, 14 Aug 2026 00:58:28 -0000</pubDate>
+    <description>More natural, grounded forests with handcrafted voxel trunks and rooted tree bases.</description>
+  </item>
+  <item>
+    <title>More Grass From Knives</title>
+    <link>https://mods.vintagestory.at/show/mod/10985</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10985#10985</guid>
+    <pubDate>Fri, 14 Aug 2026 00:53:54 -0000</pubDate>
+    <description>Tall grass now drops 2 grass items instead of one using knives and scythes</description>
+  </item>
+  <item>
+    <title>Need Polished Rocks</title>
+    <link>https://mods.vintagestory.at/show/mod/needpolishedrocks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/needpolishedrocks#8971</guid>
+    <pubDate>Fri, 14 Aug 2026 00:47:03 -0000</pubDate>
+    <description>Adds support for Material Needs Geology's stone types to More Polished Rocks.</description>
+  </item>
+  <item>
+    <title>Locusts for all</title>
+    <link>https://mods.vintagestory.at/show/mod/7730</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7730#7730</guid>
+    <pubDate>Fri, 14 Aug 2026 00:35:15 -0000</pubDate>
+    <description>Allows all classes to be able to use the tuning spear to tame multiple locusts and offer more tweaks</description>
+  </item>
+  <item>
+    <title>Riley's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Fri, 14 Aug 2026 00:20:04 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+  </item>
+  <item>
+    <title>Dar's Server Utilities</title>
+    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
+    <pubDate>Fri, 14 Aug 2026 00:18:55 -0000</pubDate>
+    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
+  </item>
+  <item>
+    <title>The Revived Lands [PATCHES]</title>
+    <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
+    <pubDate>Thu, 13 Aug 2026 23:51:43 -0000</pubDate>
+    <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
+  </item>
   <item>
     <title>Fablewood Harmony Patches</title>
     <link>https://mods.vintagestory.at/show/mod/8811</link>
@@ -76,13 +153,6 @@
     <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
   </item>
   <item>
-    <title>Rooted Forests</title>
-    <link>https://mods.vintagestory.at/show/mod/rootedforests</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rootedforests#10980</guid>
-    <pubDate>Thu, 13 Aug 2026 21:32:35 -0000</pubDate>
-    <description>More natural, grounded forests with handcrafted voxel trunks and rooted tree bases.</description>
-  </item>
-  <item>
     <title>vsRoofing + Jacks Stone Chisels Compat Mod</title>
     <link>https://mods.vintagestory.at/show/mod/10981</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10981#10981</guid>
@@ -139,81 +209,11 @@
     <description>Edit/addon to the insectoid mod that adds a centipede varient</description>
   </item>
   <item>
-    <title>The Revived Lands [PATCHES]</title>
-    <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
-    <pubDate>Thu, 13 Aug 2026 20:04:52 -0000</pubDate>
-    <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
-  </item>
-  <item>
     <title>Eternal Seraph: Doctor</title>
     <link>https://mods.vintagestory.at/show/mod/eternalsdoctor</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalsdoctor#10712</guid>
     <pubDate>Thu, 13 Aug 2026 19:34:33 -0000</pubDate>
     <description>EternalS Doctor is a server-side diagnostics and repair toolkit for Vintage Story servers.</description>
-  </item>
-  <item>
-    <title>Immersive Firewood</title>
-    <link>https://mods.vintagestory.at/show/mod/imfw</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/imfw#10947</guid>
-    <pubDate>Thu, 13 Aug 2026 19:33:45 -0000</pubDate>
-    <description>Wet/Drying + Species based Charcoal progression. better wood = better firewood</description>
-  </item>
-  <item>
-    <title>Winter Sledge</title>
-    <link>https://mods.vintagestory.at/show/mod/10946</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10946#10946</guid>
-    <pubDate>Thu, 13 Aug 2026 19:27:28 -0000</pubDate>
-    <description>A winter sledge for carrying items across snow and ice as an extended backpack</description>
-  </item>
-  <item>
-    <title>Dreamcatchers</title>
-    <link>https://mods.vintagestory.at/show/mod/dreamcatchers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dreamcatchers#858</guid>
-    <pubDate>Thu, 13 Aug 2026 19:27:01 -0000</pubDate>
-    <description>It can make creepy temporal storms and long nights a little bit lighter...</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Thu, 13 Aug 2026 19:26:43 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>Boomerang</title>
-    <link>https://mods.vintagestory.at/show/mod/boomerang</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/boomerang#10978</guid>
-    <pubDate>Thu, 13 Aug 2026 19:14:01 -0000</pubDate>
-    <description>An early game wooden boomerang. Throw it at small game, if it misses, it curves back into your hand</description>
-  </item>
-  <item>
-    <title>Galeret Traits Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/galerettraits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/galerettraits#10565</guid>
-    <pubDate>Thu, 13 Aug 2026 18:37:21 -0000</pubDate>
-    <description>A simple mod to add Trais to my Galeret race Mod</description>
-  </item>
-  <item>
-    <title>Item Frames</title>
-    <link>https://mods.vintagestory.at/show/mod/itemframes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/itemframes#10977</guid>
-    <pubDate>Thu, 13 Aug 2026 17:50:49 -0000</pubDate>
-    <description>Adds frames that can be placed on chests or walls, and used to display an item</description>
-  </item>
-  <item>
-    <title>Scrolled</title>
-    <link>https://mods.vintagestory.at/show/mod/6888</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6888#6888</guid>
-    <pubDate>Thu, 13 Aug 2026 17:18:45 -0000</pubDate>
-    <description>This mod allows vanilla schematics and mod schematics to be rolled up and be scroll rackable.</description>
-  </item>
-  <item>
-    <title>Steelmaking Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/smex</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smex#9254</guid>
-    <pubDate>Thu, 13 Aug 2026 16:53:11 -0000</pubDate>
-    <description>Industrial iron and steel production using Blast Furnace and Bessemer process!</description>
   </item>
 </channel>
 </rss>
