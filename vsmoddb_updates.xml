@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 14 Aug 2026 15:54:04 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 16:55:38 +0000</lastBuildDate>
+  <item>
+    <title>Fauna of the Stone Age: Chelonioidea</title>
+    <link>https://mods.vintagestory.at/show/mod/chelonioidea</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chelonioidea#4054</guid>
+    <pubDate>Fri, 14 Aug 2026 16:51:17 -0000</pubDate>
+    <description>A collection of sea turtles from the Holocene.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Thylacinidae Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/thylacinidae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thylacinidae#3920</guid>
+    <pubDate>Fri, 14 Aug 2026 16:46:59 -0000</pubDate>
+    <description>A collection of carnivorous Marsupials from Human history.</description>
+  </item>
+  <item>
+    <title>Cuman Horde: Armor</title>
+    <link>https://mods.vintagestory.at/show/mod/cumanhordearmor</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cumanhordearmor#1794</guid>
+    <pubDate>Fri, 14 Aug 2026 16:46:51 -0000</pubDate>
+    <description>Станьте частью половецкой орды!  Become a part of the Cuman horde!</description>
+  </item>
+  <item>
+    <title>European Horde: Armor</title>
+    <link>https://mods.vintagestory.at/show/mod/europeanhordearmor</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/europeanhordearmor#2096</guid>
+    <pubDate>Fri, 14 Aug 2026 16:45:43 -0000</pubDate>
+    <description>Авторы: POBEPT, Aul</description>
+  </item>
+  <item>
+    <title>Pemmican and Tofu</title>
+    <link>https://mods.vintagestory.at/show/mod/pemmicantofu</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pemmicantofu#5404</guid>
+    <pubDate>Fri, 14 Aug 2026 16:45:04 -0000</pubDate>
+    <description>Adds pemmican, soymilk and tofu, can be used in meals.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Iniidae Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/iniidae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/iniidae#3853</guid>
+    <pubDate>Fri, 14 Aug 2026 16:44:20 -0000</pubDate>
+    <description>A collection of freshwater dolphins from the Holocene.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Cervinae</title>
+    <link>https://mods.vintagestory.at/show/mod/cervinae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cervinae#3424</guid>
+    <pubDate>Fri, 14 Aug 2026 16:41:10 -0000</pubDate>
+    <description>A collection of Old World deer from the Holocene</description>
+  </item>
+  <item>
+    <title>Road network - connected curved roads and bridges</title>
+    <link>https://mods.vintagestory.at/show/mod/10739</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10739#10739</guid>
+    <pubDate>Fri, 14 Aug 2026 16:30:52 -0000</pubDate>
+    <description>Road Network allows you to spawn roads automatically, which snuggle to the terrain.</description>
+  </item>
+  <item>
+    <title>Grindable Arrows and Bolts</title>
+    <link>https://mods.vintagestory.at/show/mod/grindablearrows</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindablearrows#8419</guid>
+    <pubDate>Fri, 14 Aug 2026 16:28:30 -0000</pubDate>
+    <description>Sharpen your arrows on a grinding wheel to shoot your enemies with more powerful arrows</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Viverridae Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/viverridae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/viverridae#3334</guid>
+    <pubDate>Fri, 14 Aug 2026 16:17:22 -0000</pubDate>
+    <description>A collection of civets, genets and oyans from the Holocene.</description>
+  </item>
+  <item>
+    <title>Animalica Core</title>
+    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
+    <pubDate>Fri, 14 Aug 2026 16:05:09 -0000</pubDate>
+    <description>Core mod for playable animals. Does nothing on it's own</description>
+  </item>
+  <item>
+    <title>Boomerang</title>
+    <link>https://mods.vintagestory.at/show/mod/boomerang</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/boomerang#10978</guid>
+    <pubDate>Fri, 14 Aug 2026 16:02:35 -0000</pubDate>
+    <description>An early game wooden boomerang. Throw it at small game, if it misses, it curves back into your hand</description>
+  </item>
   <item>
     <title>Japanese Horde: Armor</title>
     <link>https://mods.vintagestory.at/show/mod/japanesehordearmor</link>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scribe#10607</guid>
     <pubDate>Fri, 14 Aug 2026 14:48:24 -0000</pubDate>
     <description>Take notes and track tasks in-world. Pin tasks to a persistent HUD. Multiplayer-ready.</description>
-  </item>
-  <item>
-    <title>Snoopy's Recipe Select</title>
-    <link>https://mods.vintagestory.at/show/mod/9818</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9818#9818</guid>
-    <pubDate>Fri, 14 Aug 2026 14:45:23 -0000</pubDate>
-    <description>Adds pagination to crafting recipe result for duplicate recipes that result in the different output.</description>
-  </item>
-  <item>
-    <title>Immersive Body Temperature</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivebodytemperature</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebodytemperature#7966</guid>
-    <pubDate>Fri, 14 Aug 2026 14:36:16 -0000</pubDate>
-    <description>Prepare for summer! Makes hot climates as challenging as cold ones.</description>
-  </item>
-  <item>
-    <title>topgsmod</title>
-    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Fri, 14 Aug 2026 14:34:42 -0000</pubDate>
-    <description>TopGs Community Mod</description>
-  </item>
-  <item>
-    <title>Realistic Rapids</title>
-    <link>https://mods.vintagestory.at/show/mod/realisticrapids</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticrapids#10227</guid>
-    <pubDate>Fri, 14 Aug 2026 14:12:39 -0000</pubDate>
-    <description>Makes rapids and waterwheels work more realistically. Official addon for Realistic Water</description>
-  </item>
-  <item>
-    <title>Realistic Water</title>
-    <link>https://mods.vintagestory.at/show/mod/realisticwater</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticwater#8297</guid>
-    <pubDate>Fri, 14 Aug 2026 14:12:06 -0000</pubDate>
-    <description>Makes water spread and flow more realistically, so that you can build aqueducts, dams, canals etc</description>
-  </item>
-  <item>
-    <title>Precision Knapping</title>
-    <link>https://mods.vintagestory.at/show/mod/precisionknapping</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/precisionknapping#6346</guid>
-    <pubDate>Fri, 14 Aug 2026 14:02:45 -0000</pubDate>
-    <description>Simply breaks Knapping Surfaces when clicking Voxels that you need for Recipes. Now Configurable!</description>
-  </item>
-  <item>
-    <title>Tailored Weapons: Rapiers</title>
-    <link>https://mods.vintagestory.at/show/mod/twrapiers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/twrapiers#10995</guid>
-    <pubDate>Fri, 14 Aug 2026 14:01:08 -0000</pubDate>
-    <description>Adds customizable rapiers allowing any guard type with matching blade and guard metal</description>
-  </item>
-  <item>
-    <title>Better insulation</title>
-    <link>https://mods.vintagestory.at/show/mod/betterinsulation</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterinsulation#10734</guid>
-    <pubDate>Fri, 14 Aug 2026 13:32:28 -0000</pubDate>
-    <description>Improve insulating block face calculation for chiseled blocks</description>
-  </item>
-  <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Fri, 14 Aug 2026 13:29:29 -0000</pubDate>
-    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
-  </item>
-  <item>
-    <title>Tweakfactory</title>
-    <link>https://mods.vintagestory.at/show/mod/tweakfactory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tweakfactory#10875</guid>
-    <pubDate>Fri, 14 Aug 2026 13:01:29 -0000</pubDate>
-    <description>Tweakmod um Klassenspezifische Rezepte einzubinden.</description>
-  </item>
-  <item>
-    <title>Metal Pots &amp; Chiseled Ground Placement Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10993</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10993#10993</guid>
-    <pubDate>Fri, 14 Aug 2026 12:02:24 -0000</pubDate>
-    <description>Patch to add extra compatibility between Metal Cooking Pots and Chiseled Ground Placement.</description>
-  </item>
-  <item>
-    <title>AccessoryTab</title>
-    <link>https://mods.vintagestory.at/show/mod/accessorytab</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/accessorytab#8002</guid>
-    <pubDate>Fri, 14 Aug 2026 11:35:11 -0000</pubDate>
-    <description>Adds an accessory tab with synced extra equipment slots for cosmetic and wearable items</description>
   </item>
 </channel>
 </rss>
