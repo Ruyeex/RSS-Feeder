@@ -4,20 +4,41 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 14 Aug 2026 04:49:34 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 06:15:48 +0000</lastBuildDate>
+  <item>
+    <title>DRRP Caveshrooms</title>
+    <link>https://mods.vintagestory.at/show/mod/caveshrooms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caveshrooms#10922</guid>
+    <pubDate>Fri, 14 Aug 2026 06:12:07 -0000</pubDate>
+    <description>Adds a mushroom that fruits from patches of temporally unstable substrate deep in caves.</description>
+  </item>
+  <item>
+    <title>Better Fruit Press</title>
+    <link>https://mods.vintagestory.at/show/mod/10776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10776#10776</guid>
+    <pubDate>Fri, 14 Aug 2026 05:52:29 -0000</pubDate>
+    <description>Makes the fruit press quicker and allows squeezing over barrels.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Fri, 14 Aug 2026 05:22:55 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Fri, 14 Aug 2026 05:13:48 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
   <item>
     <title>Centipede insectoid addition</title>
     <link>https://mods.vintagestory.at/show/mod/10979</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10979#10979</guid>
     <pubDate>Fri, 14 Aug 2026 04:37:06 -0000</pubDate>
     <description>Edit/addon to the insectoid mod that adds a centipede varient</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Fri, 14 Aug 2026 04:35:47 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
   <item>
     <title>Immersive Firewood</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
     <pubDate>Thu, 13 Aug 2026 22:27:19 -0000</pubDate>
     <description>JSON content patches</description>
-  </item>
-  <item>
-    <title>Fablewood Guilds</title>
-    <link>https://mods.vintagestory.at/show/mod/9586</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9586#9586</guid>
-    <pubDate>Thu, 13 Aug 2026 22:25:42 -0000</pubDate>
-    <description>Guild mod</description>
-  </item>
-  <item>
-    <title>DRRP Caveshrooms</title>
-    <link>https://mods.vintagestory.at/show/mod/caveshrooms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caveshrooms#10922</guid>
-    <pubDate>Thu, 13 Aug 2026 22:21:56 -0000</pubDate>
-    <description>Adds a mushroom that fruits from patches of temporally unstable substrate deep in caves.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Thu, 13 Aug 2026 22:08:07 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
   </item>
 </channel>
 </rss>
