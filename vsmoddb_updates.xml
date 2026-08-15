@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 15 Aug 2026 18:32:19 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 19:22:20 +0000</lastBuildDate>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Sat, 15 Aug 2026 19:21:38 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>C&amp;N Events</title>
+    <link>https://mods.vintagestory.at/show/mod/canevents</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
+    <pubDate>Sat, 15 Aug 2026 19:18:40 -0000</pubDate>
+    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
+  </item>
+  <item>
+    <title>ESFS</title>
+    <link>https://mods.vintagestory.at/show/mod/esfs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/esfs#11034</guid>
+    <pubDate>Sat, 15 Aug 2026 19:16:06 -0000</pubDate>
+    <description>Ecosystem — Flower Seeds</description>
+  </item>
+  <item>
+    <title>TaborServers</title>
+    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
+    <pubDate>Sat, 15 Aug 2026 18:57:55 -0000</pubDate>
+    <description>Patches fo most of Tabor servers</description>
+  </item>
+  <item>
+    <title>Rift Traveler</title>
+    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
+    <pubDate>Sat, 15 Aug 2026 18:55:27 -0000</pubDate>
+    <description>Explore rifts, craft temporal tech, teleport home, and transmit cargo across space</description>
+  </item>
+  <item>
+    <title>Salty´s Effortless Structures</title>
+    <link>https://mods.vintagestory.at/show/mod/effortlesstructures</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/effortlesstructures#6732</guid>
+    <pubDate>Sat, 15 Aug 2026 18:44:59 -0000</pubDate>
+    <description>It's Effortless Building for Vintage Story!</description>
+  </item>
+  <item>
+    <title>KCs Synth Player</title>
+    <link>https://mods.vintagestory.at/show/mod/kcssynths</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcssynths#10386</guid>
+    <pubDate>Sat, 15 Aug 2026 18:34:57 -0000</pubDate>
+    <description>Adds a synth player model to the game</description>
+  </item>
   <item>
     <title>Waxlight Launcher</title>
     <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traduccionestroll#9299</guid>
     <pubDate>Sat, 15 Aug 2026 12:17:47 -0000</pubDate>
     <description>traducciones al español de españa hechas por ia de varios mods</description>
-  </item>
-  <item>
-    <title>Magical Moon - FRustyMagic (Beta)</title>
-    <link>https://mods.vintagestory.at/show/mod/10975</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10975#10975</guid>
-    <pubDate>Sat, 15 Aug 2026 12:10:05 -0000</pubDate>
-    <description>An entirely in-world, small, moon magic mod. Play around with beams of light!</description>
-  </item>
-  <item>
-    <title>LauncherGo</title>
-    <link>https://mods.vintagestory.at/show/mod/launchergo</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergo#9280</guid>
-    <pubDate>Sat, 15 Aug 2026 12:08:29 -0000</pubDate>
-    <description>LauncherGo is a graphical server launcher for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Shadehouse</title>
-    <link>https://mods.vintagestory.at/show/mod/shadehouse</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shadehouse#8698</guid>
-    <pubDate>Sat, 15 Aug 2026 12:05:12 -0000</pubDate>
-    <description>Adds a way to build a 'shadehouse', to grow crops in hot temperatures.</description>
-  </item>
-  <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Sat, 15 Aug 2026 11:52:00 -0000</pubDate>
-    <description>The factory must grow!</description>
-  </item>
-  <item>
-    <title>Dead</title>
-    <link>https://mods.vintagestory.at/show/mod/dead</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
-    <pubDate>Sat, 15 Aug 2026 10:58:36 -0000</pubDate>
-    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
-  </item>
-  <item>
-    <title>Clothing Visually Degrades</title>
-    <link>https://mods.vintagestory.at/show/mod/6376</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6376#6376</guid>
-    <pubDate>Sat, 15 Aug 2026 10:39:06 -0000</pubDate>
-    <description>Makes clothing degrade visually like armor </description>
-  </item>
-  <item>
-    <title>Frontier Claims Map</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
-    <pubDate>Sat, 15 Aug 2026 10:31:34 -0000</pubDate>
-    <description>Claim map and access controls for internal testing on a private server.</description>
   </item>
 </channel>
 </rss>
