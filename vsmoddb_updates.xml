@@ -4,7 +4,21 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 15 Aug 2026 07:32:17 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 08:31:29 +0000</lastBuildDate>
+  <item>
+    <title>Smol Furniture</title>
+    <link>https://mods.vintagestory.at/show/mod/smolfurniture</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smolfurniture#10958</guid>
+    <pubDate>Sat, 15 Aug 2026 08:12:30 -0000</pubDate>
+    <description>FOR THE SMOL</description>
+  </item>
+  <item>
+    <title>Bigger backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/biggerbackpacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biggerbackpacks#3073</guid>
+    <pubDate>Sat, 15 Aug 2026 08:03:34 -0000</pubDate>
+    <description>Doubles the inventory size of backpacks and saddlebags.</description>
+  </item>
   <item>
     <title>Animal Kinship</title>
     <link>https://mods.vintagestory.at/show/mod/animalkinship</link>
@@ -60,13 +74,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/1984liek#10972</guid>
     <pubDate>Sat, 15 Aug 2026 06:06:27 -0000</pubDate>
     <description>if you nkow, you know! </description>
-  </item>
-  <item>
-    <title>Smol Furniture</title>
-    <link>https://mods.vintagestory.at/show/mod/smolfurniture</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smolfurniture#10958</guid>
-    <pubDate>Sat, 15 Aug 2026 05:46:19 -0000</pubDate>
-    <description>FOR THE SMOL</description>
   </item>
   <item>
     <title>Ancient Weaponry Fix</title>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/quarterlogstoplanks#11000</guid>
     <pubDate>Fri, 14 Aug 2026 21:29:58 -0000</pubDate>
     <description>Adds the log + saw = planks grid recipes to all quarter logs, barked, debarked, and corner variants.</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Fri, 14 Aug 2026 21:17:09 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
   </item>
 </channel>
 </rss>
