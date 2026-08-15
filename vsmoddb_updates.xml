@@ -4,13 +4,27 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 15 Aug 2026 04:33:46 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 05:26:33 +0000</lastBuildDate>
   <item>
     <title>Hex's Mechworks</title>
     <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Sat, 15 Aug 2026 04:26:50 -0000</pubDate>
+    <pubDate>Sat, 15 Aug 2026 05:20:30 -0000</pubDate>
     <description>The factory must grow!</description>
+  </item>
+  <item>
+    <title>Riley's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Sat, 15 Aug 2026 04:53:41 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+  </item>
+  <item>
+    <title>Riley's RP Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysrpadditions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysrpadditions#11006</guid>
+    <pubDate>Sat, 15 Aug 2026 04:51:05 -0000</pubDate>
+    <description>This is a mod that uses Quivers and Sheaths to add some RP-related items!</description>
   </item>
   <item>
     <title>Skillbooks: Stats</title>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wotpatches#10513</guid>
     <pubDate>Fri, 14 Aug 2026 19:56:19 -0000</pubDate>
     <description>Patches for World of Thalorim.</description>
-  </item>
-  <item>
-    <title>Weapon Pack Alpha - Rebalanced</title>
-    <link>https://mods.vintagestory.at/show/mod/3314</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
-    <pubDate>Fri, 14 Aug 2026 19:39:46 -0000</pubDate>
-    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
-  </item>
-  <item>
-    <title>Zipline</title>
-    <link>https://mods.vintagestory.at/show/mod/zipline</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zipline#10982</guid>
-    <pubDate>Fri, 14 Aug 2026 19:36:09 -0000</pubDate>
-    <description>Build ziplines to get down a hill faster.</description>
   </item>
 </channel>
 </rss>
