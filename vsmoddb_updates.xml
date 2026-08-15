@@ -4,20 +4,55 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 14 Aug 2026 23:23:53 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 01:21:36 +0000</lastBuildDate>
+  <item>
+    <title>Scraps Revived</title>
+    <link>https://mods.vintagestory.at/show/mod/5091</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5091#5091</guid>
+    <pubDate>Sat, 15 Aug 2026 01:14:44 -0000</pubDate>
+    <description>Restore and recycle the clutter from the ruins.</description>
+  </item>
+  <item>
+    <title>Algernon's Watersheds</title>
+    <link>https://mods.vintagestory.at/show/mod/algernonswatersheds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/algernonswatersheds#7286</guid>
+    <pubDate>Sat, 15 Aug 2026 00:17:12 -0000</pubDate>
+    <description>Worldgen revamp using a Watershed model. Adds meandering streams, groundwater, and erosion</description>
+  </item>
+  <item>
+    <title>Road network - connected curved roads and bridges</title>
+    <link>https://mods.vintagestory.at/show/mod/10739</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10739#10739</guid>
+    <pubDate>Sat, 15 Aug 2026 00:14:18 -0000</pubDate>
+    <description>Road Network allows you to spawn roads automatically, which snuggle to the terrain.</description>
+  </item>
+  <item>
+    <title>More Blood Thingies!</title>
+    <link>https://mods.vintagestory.at/show/mod/10959</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
+    <pubDate>Sat, 15 Aug 2026 00:13:49 -0000</pubDate>
+    <description>Adds all the features for bloodbread that should have been.</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Sat, 15 Aug 2026 00:07:48 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Fri, 14 Aug 2026 23:41:12 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
   <item>
     <title>VS Terrain Diffusion</title>
     <link>https://mods.vintagestory.at/show/mod/vsterraindiffusion</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsterraindiffusion#10918</guid>
     <pubDate>Fri, 14 Aug 2026 23:17:11 -0000</pubDate>
     <description>Generate terrain with a neural heightmap model trained on real Earth topography</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Fri, 14 Aug 2026 22:51:31 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
   </item>
   <item>
     <title>Fablewood Skills</title>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10287#10287</guid>
     <pubDate>Fri, 14 Aug 2026 18:36:22 -0000</pubDate>
     <description>Layout tool that produces inert, uninteractable 2D/3D voxel guidelines in various shapes.</description>
-  </item>
-  <item>
-    <title>Liber Terra</title>
-    <link>https://mods.vintagestory.at/show/mod/liberterra</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/liberterra#10763</guid>
-    <pubDate>Fri, 14 Aug 2026 18:20:46 -0000</pubDate>
-    <description>Pre-1300 CE public-domain literature as lore books in ruins and loot. oh and books are weapons now.</description>
-  </item>
-  <item>
-    <title>Cartwright´s Caravan</title>
-    <link>https://mods.vintagestory.at/show/mod/cartwrightscaravan</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cartwrightscaravan#3539</guid>
-    <pubDate>Fri, 14 Aug 2026 18:11:43 -0000</pubDate>
-    <description>Adds seraph-pulled/pushed carts, sleds, and market stalls with storage and decoration options.</description>
-  </item>
-  <item>
-    <title>Grinding Wheel Rework</title>
-    <link>https://mods.vintagestory.at/show/mod/grindingwheelrework</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindingwheelrework#8252</guid>
-    <pubDate>Fri, 14 Aug 2026 17:30:24 -0000</pubDate>
-    <description>Expands grinding wheel to support more tools and turns sharpening into a lightweight repair system</description>
-  </item>
-  <item>
-    <title>Chiseled Wall Mounting</title>
-    <link>https://mods.vintagestory.at/show/mod/chiseledwallmounting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseledwallmounting#10815</guid>
-    <pubDate>Fri, 14 Aug 2026 17:11:53 -0000</pubDate>
-    <description>Place wall-mounted items on chiseled blocks</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Bovinae</title>
-    <link>https://mods.vintagestory.at/show/mod/bovinae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bovinae#3103</guid>
-    <pubDate>Fri, 14 Aug 2026 17:08:42 -0000</pubDate>
-    <description>A collection of antelopes, bison, buffalo and cattle from the Holocene.</description>
   </item>
 </channel>
 </rss>
