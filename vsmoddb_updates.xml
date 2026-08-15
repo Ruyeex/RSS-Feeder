@@ -4,13 +4,97 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 15 Aug 2026 21:23:00 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 22:24:19 +0000</lastBuildDate>
+  <item>
+    <title>Rudiments</title>
+    <link>https://mods.vintagestory.at/show/mod/9305</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
+    <pubDate>Sat, 15 Aug 2026 22:19:26 -0000</pubDate>
+    <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
+  </item>
+  <item>
+    <title>More Grass From Knives</title>
+    <link>https://mods.vintagestory.at/show/mod/10985</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10985#10985</guid>
+    <pubDate>Sat, 15 Aug 2026 22:18:56 -0000</pubDate>
+    <description>Tall grass now drops twice as much when using knives and scythes</description>
+  </item>
+  <item>
+    <title>RedLight [1.22]</title>
+    <link>https://mods.vintagestory.at/show/mod/redlight</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/redlight#8478</guid>
+    <pubDate>Sat, 15 Aug 2026 22:18:28 -0000</pubDate>
+    <description>No more LED lanterns.</description>
+  </item>
   <item>
     <title>TaborServers</title>
     <link>https://mods.vintagestory.at/show/mod/taborservers</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
-    <pubDate>Sat, 15 Aug 2026 21:17:36 -0000</pubDate>
+    <pubDate>Sat, 15 Aug 2026 22:15:36 -0000</pubDate>
     <description>Patches fo most of Tabor servers</description>
+  </item>
+  <item>
+    <title>LibGUI - Toolsmith patch</title>
+    <link>https://mods.vintagestory.at/show/mod/11022</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11022#11022</guid>
+    <pubDate>Sat, 15 Aug 2026 22:08:00 -0000</pubDate>
+    <description>A LibGUI patch for Toolsmith sharpness</description>
+  </item>
+  <item>
+    <title>Calendar Handbook</title>
+    <link>https://mods.vintagestory.at/show/mod/calendarhandbook</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/calendarhandbook#11003</guid>
+    <pubDate>Sat, 15 Aug 2026 22:01:10 -0000</pubDate>
+    <description>Adds a calender showing your progress through the year and how far away winter is.</description>
+  </item>
+  <item>
+    <title>FancyHUD</title>
+    <link>https://mods.vintagestory.at/show/mod/10935</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10935#10935</guid>
+    <pubDate>Sat, 15 Aug 2026 21:58:51 -0000</pubDate>
+    <description>Informative fancy HUD</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sat, 15 Aug 2026 21:55:49 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Universal Display Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/universaldisplaylib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/universaldisplaylib#10487</guid>
+    <pubDate>Sat, 15 Aug 2026 21:46:58 -0000</pubDate>
+    <description>The Lib has changed to be more than just windows so other modders can use it</description>
+  </item>
+  <item>
+    <title>Window Display - Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/windowdisplaypatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplaypatches#10532</guid>
+    <pubDate>Sat, 15 Aug 2026 21:45:23 -0000</pubDate>
+    <description>Used to add custom transforms and to enable the particles of items on display</description>
+  </item>
+  <item>
+    <title>Tile 'n All</title>
+    <link>https://mods.vintagestory.at/show/mod/tilenall</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tilenall#10537</guid>
+    <pubDate>Sat, 15 Aug 2026 21:42:35 -0000</pubDate>
+    <description>Spicing up the bathroom floor? Redecorating the kitchen? look no further, friend.</description>
+  </item>
+  <item>
+    <title>Magical Moon - FRustyMagic (Beta)</title>
+    <link>https://mods.vintagestory.at/show/mod/10975</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10975#10975</guid>
+    <pubDate>Sat, 15 Aug 2026 21:39:23 -0000</pubDate>
+    <description>An entirely in-world, small, moon magic mod. Play around with beams of light!</description>
+  </item>
+  <item>
+    <title>Claytile backport (1.22 -&gt; 1.21) </title>
+    <link>https://mods.vintagestory.at/show/mod/tilebackport</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tilebackport#10550</guid>
+    <pubDate>Sat, 15 Aug 2026 21:38:52 -0000</pubDate>
+    <description>[Sloppy ceramic noises]</description>
   </item>
   <item>
     <title>Calm's Collectibles</title>
@@ -25,13 +109,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagehorizons#10511</guid>
     <pubDate>Sat, 15 Aug 2026 20:59:29 -0000</pubDate>
     <description>An LOD mod inspired by Distant Horizons, Farseer, Voxy, and ChunkLOD</description>
-  </item>
-  <item>
-    <title>Rudiments</title>
-    <link>https://mods.vintagestory.at/show/mod/9305</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
-    <pubDate>Sat, 15 Aug 2026 20:53:18 -0000</pubDate>
-    <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
   </item>
   <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zipline#10982</guid>
     <pubDate>Sat, 15 Aug 2026 18:07:25 -0000</pubDate>
     <description>Build ziplines to get down a hill faster.</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Sat, 15 Aug 2026 18:07:09 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>CharacterCustomizer</title>
-    <link>https://mods.vintagestory.at/show/mod/11031</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11031#11031</guid>
-    <pubDate>Sat, 15 Aug 2026 17:55:00 -0000</pubDate>
-    <description>Greyhaven SMP Character Customizer</description>
-  </item>
-  <item>
-    <title>More Blood Thingies!</title>
-    <link>https://mods.vintagestory.at/show/mod/10959</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
-    <pubDate>Sat, 15 Aug 2026 17:53:48 -0000</pubDate>
-    <description>Adds all the features for bloodbread that should have been.</description>
-  </item>
-  <item>
-    <title>Vegan Fat</title>
-    <link>https://mods.vintagestory.at/show/mod/veganfat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/veganfat#11012</guid>
-    <pubDate>Sat, 15 Aug 2026 17:33:07 -0000</pubDate>
-    <description>Grind sunflower seeds into real vanilla rendered fat. No stand-in item, works in every fat recipe.</description>
-  </item>
-  <item>
-    <title>Underdark</title>
-    <link>https://mods.vintagestory.at/show/mod/underdark</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/underdark#11029</guid>
-    <pubDate>Sat, 15 Aug 2026 17:31:49 -0000</pubDate>
-    <description>There is an endless expanse below... The ancient structures will guide you.</description>
-  </item>
-  <item>
-    <title>Shader Cache</title>
-    <link>https://mods.vintagestory.at/show/mod/pomshadercache</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pomshadercache#1610</guid>
-    <pubDate>Sat, 15 Aug 2026 17:27:49 -0000</pubDate>
-    <description>Slightly speeds up world loading by caching shaders</description>
-  </item>
-  <item>
-    <title>Glassmaking</title>
-    <link>https://mods.vintagestory.at/show/mod/glassmaking</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glassmaking#535</guid>
-    <pubDate>Sat, 15 Aug 2026 17:18:03 -0000</pubDate>
-    <description>A set of mechanics for creating glass-related recipes</description>
-  </item>
-  <item>
-    <title>Ruin Loot Gallery</title>
-    <link>https://mods.vintagestory.at/show/mod/ruinlootgallery</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ruinlootgallery#10986</guid>
-    <pubDate>Sat, 15 Aug 2026 17:09:15 -0000</pubDate>
-    <description>Browse and spawn every structure, or generate a world of loot-bearing ruins near spawn.</description>
-  </item>
-  <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Sat, 15 Aug 2026 17:05:59 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
-    <title>BetterRuins</title>
-    <link>https://mods.vintagestory.at/show/mod/betterruins</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterruins#792</guid>
-    <pubDate>Sat, 15 Aug 2026 16:53:23 -0000</pubDate>
-    <description>Adds many new ruins over and underground to your survival game world.</description>
-  </item>
-  <item>
-    <title>Moartar</title>
-    <link>https://mods.vintagestory.at/show/mod/11027</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11027#11027</guid>
-    <pubDate>Sat, 15 Aug 2026 16:52:42 -0000</pubDate>
-    <description>Restores the original mortar recipe (512 mortar per stack of sand instead of 256).</description>
   </item>
 </channel>
 </rss>
