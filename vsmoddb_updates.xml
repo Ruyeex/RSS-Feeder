@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 15 Aug 2026 19:22:20 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 20:24:50 +0000</lastBuildDate>
+  <item>
+    <title>Bookends</title>
+    <link>https://mods.vintagestory.at/show/mod/bookends</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bookends#5329</guid>
+    <pubDate>Sat, 15 Aug 2026 20:01:07 -0000</pubDate>
+    <description>This adds Bookends, to use on bookshelves</description>
+  </item>
+  <item>
+    <title>Figurines</title>
+    <link>https://mods.vintagestory.at/show/mod/figurines</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/figurines#4792</guid>
+    <pubDate>Sat, 15 Aug 2026 19:52:49 -0000</pubDate>
+    <description>This mod adds Figurines</description>
+  </item>
+  <item>
+    <title>Racial Classes Overhaul</title>
+    <link>https://mods.vintagestory.at/show/mod/racialclassesoverhaul</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/racialclassesoverhaul#7007</guid>
+    <pubDate>Sat, 15 Aug 2026 19:50:12 -0000</pubDate>
+    <description>I am not a modder. This was made using Google Antigravity. I have no idea what I'm doing.</description>
+  </item>
+  <item>
+    <title>Holdfast Theme Pack: GB's Simple Builds</title>
+    <link>https://mods.vintagestory.at/show/mod/10715</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10715#10715</guid>
+    <pubDate>Sat, 15 Aug 2026 19:48:08 -0000</pubDate>
+    <description>Earlygame theme pack for the Holdfast mod.</description>
+  </item>
+  <item>
+    <title>Desk Picture Frame Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/deskpictureframe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deskpictureframe#5163</guid>
+    <pubDate>Sat, 15 Aug 2026 19:45:14 -0000</pubDate>
+    <description>Adds Desk Picture Frames and Wall Frames - Can add your own images via the mod config folder</description>
+  </item>
   <item>
     <title>Ecosystem - Flora</title>
     <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
     <pubDate>Sat, 15 Aug 2026 15:56:00 -0000</pubDate>
     <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
-  </item>
-  <item>
-    <title>VL Economy</title>
-    <link>https://mods.vintagestory.at/show/mod/vleconomy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vleconomy#11017</guid>
-    <pubDate>Sat, 15 Aug 2026 14:16:05 -0000</pubDate>
-    <description>Economic mod for the Vintage Lands server / Экономический мод для сервера Vintage Lands</description>
-  </item>
-  <item>
-    <title>Thaumatology (Alpha)</title>
-    <link>https://mods.vintagestory.at/show/mod/thaumatology</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thaumatology#512</guid>
-    <pubDate>Sat, 15 Aug 2026 12:57:43 -0000</pubDate>
-    <description>Thaumatology lets you harness the essence inherent in the world around you.</description>
-  </item>
-  <item>
-    <title>Chiseled Ground Placement</title>
-    <link>https://mods.vintagestory.at/show/mod/chiseledgroundplacement</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseledgroundplacement#10973</guid>
-    <pubDate>Sat, 15 Aug 2026 12:38:59 -0000</pubDate>
-    <description>Place down things on chiseled surfaces</description>
-  </item>
-  <item>
-    <title>Chiseled Wall Mounting</title>
-    <link>https://mods.vintagestory.at/show/mod/chiseledwallmounting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseledwallmounting#10815</guid>
-    <pubDate>Sat, 15 Aug 2026 12:38:11 -0000</pubDate>
-    <description>Place wall-mounted items on chiseled blocks</description>
-  </item>
-  <item>
-    <title>Traducciones de mods vidatroll</title>
-    <link>https://mods.vintagestory.at/show/mod/traduccionestroll</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traduccionestroll#9299</guid>
-    <pubDate>Sat, 15 Aug 2026 12:17:47 -0000</pubDate>
-    <description>traducciones al español de españa hechas por ia de varios mods</description>
   </item>
 </channel>
 </rss>
