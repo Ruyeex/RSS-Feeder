@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 15 Aug 2026 01:21:36 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 02:53:24 +0000</lastBuildDate>
+  <item>
+    <title>More Blood Thingies!</title>
+    <link>https://mods.vintagestory.at/show/mod/10959</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
+    <pubDate>Sat, 15 Aug 2026 02:47:32 -0000</pubDate>
+    <description>Adds all the features for bloodbread that should have been.</description>
+  </item>
+  <item>
+    <title>Skillbooks Core</title>
+    <link>https://mods.vintagestory.at/show/mod/11002</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11002#11002</guid>
+    <pubDate>Sat, 15 Aug 2026 02:37:44 -0000</pubDate>
+    <description>Single-use books that permanently grant a crafting trait when read, discovered from any mod.</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Sat, 15 Aug 2026 02:13:03 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
+  <item>
+    <title>Meliora Meadows Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
+    <pubDate>Sat, 15 Aug 2026 02:03:19 -0000</pubDate>
+    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
+  </item>
   <item>
     <title>Scraps Revived</title>
     <link>https://mods.vintagestory.at/show/mod/5091</link>
@@ -25,20 +53,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10739#10739</guid>
     <pubDate>Sat, 15 Aug 2026 00:14:18 -0000</pubDate>
     <description>Road Network allows you to spawn roads automatically, which snuggle to the terrain.</description>
-  </item>
-  <item>
-    <title>More Blood Thingies!</title>
-    <link>https://mods.vintagestory.at/show/mod/10959</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
-    <pubDate>Sat, 15 Aug 2026 00:13:49 -0000</pubDate>
-    <description>Adds all the features for bloodbread that should have been.</description>
-  </item>
-  <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Sat, 15 Aug 2026 00:07:48 -0000</pubDate>
-    <description>The factory must grow!</description>
   </item>
   <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10975#10975</guid>
     <pubDate>Fri, 14 Aug 2026 19:06:08 -0000</pubDate>
     <description>An entirely in-world, small, moon magic mod. Play around with beams of light!</description>
-  </item>
-  <item>
-    <title>Helianthus</title>
-    <link>https://mods.vintagestory.at/show/mod/10781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10781#10781</guid>
-    <pubDate>Fri, 14 Aug 2026 18:52:57 -0000</pubDate>
-    <description>Adds plants in the sunflower tribe</description>
-  </item>
-  <item>
-    <title>Layout</title>
-    <link>https://mods.vintagestory.at/show/mod/10287</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10287#10287</guid>
-    <pubDate>Fri, 14 Aug 2026 18:36:22 -0000</pubDate>
-    <description>Layout tool that produces inert, uninteractable 2D/3D voxel guidelines in various shapes.</description>
   </item>
 </channel>
 </rss>
