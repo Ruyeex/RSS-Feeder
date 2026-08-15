@@ -4,20 +4,76 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 15 Aug 2026 17:22:11 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 18:32:19 +0000</lastBuildDate>
+  <item>
+    <title>Waxlight Launcher</title>
+    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
+    <pubDate>Sat, 15 Aug 2026 18:26:20 -0000</pubDate>
+    <description>A sleek Vintage Story launcher for instances, mods, accounts and playtime tracking.</description>
+  </item>
+  <item>
+    <title>LauncherGo Command Bridge</title>
+    <link>https://mods.vintagestory.at/show/mod/launchergocommandbridge</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergocommandbridge#11033</guid>
+    <pubDate>Sat, 15 Aug 2026 18:13:52 -0000</pubDate>
+    <description>Authenticated local command bridge for LauncherGo.</description>
+  </item>
+  <item>
+    <title>Zipline</title>
+    <link>https://mods.vintagestory.at/show/mod/zipline</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zipline#10982</guid>
+    <pubDate>Sat, 15 Aug 2026 18:07:25 -0000</pubDate>
+    <description>Build ziplines to get down a hill faster.</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Sat, 15 Aug 2026 18:07:09 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>CharacterCustomizer</title>
+    <link>https://mods.vintagestory.at/show/mod/11031</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11031#11031</guid>
+    <pubDate>Sat, 15 Aug 2026 17:55:00 -0000</pubDate>
+    <description>Greyhaven SMP Character Customizer</description>
+  </item>
+  <item>
+    <title>More Blood Thingies!</title>
+    <link>https://mods.vintagestory.at/show/mod/10959</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
+    <pubDate>Sat, 15 Aug 2026 17:53:48 -0000</pubDate>
+    <description>Adds all the features for bloodbread that should have been.</description>
+  </item>
+  <item>
+    <title>Vegan Fat</title>
+    <link>https://mods.vintagestory.at/show/mod/veganfat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/veganfat#11012</guid>
+    <pubDate>Sat, 15 Aug 2026 17:33:07 -0000</pubDate>
+    <description>Grind sunflower seeds into real vanilla rendered fat. No stand-in item, works in every fat recipe.</description>
+  </item>
+  <item>
+    <title>Underdark</title>
+    <link>https://mods.vintagestory.at/show/mod/underdark</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/underdark#11029</guid>
+    <pubDate>Sat, 15 Aug 2026 17:31:49 -0000</pubDate>
+    <description>There is an endless expanse below... The ancient structures will guide you.</description>
+  </item>
+  <item>
+    <title>Shader Cache</title>
+    <link>https://mods.vintagestory.at/show/mod/pomshadercache</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pomshadercache#1610</guid>
+    <pubDate>Sat, 15 Aug 2026 17:27:49 -0000</pubDate>
+    <description>Slightly speeds up world loading by caching shaders</description>
+  </item>
   <item>
     <title>Glassmaking</title>
     <link>https://mods.vintagestory.at/show/mod/glassmaking</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glassmaking#535</guid>
     <pubDate>Sat, 15 Aug 2026 17:18:03 -0000</pubDate>
     <description>A set of mechanics for creating glass-related recipes</description>
-  </item>
-  <item>
-    <title>Vegan Fat</title>
-    <link>https://mods.vintagestory.at/show/mod/veganfat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/veganfat#11012</guid>
-    <pubDate>Sat, 15 Aug 2026 17:11:33 -0000</pubDate>
-    <description>Grind sunflower seeds into real vanilla rendered fat. No stand-in item, works in every fat recipe.</description>
   </item>
   <item>
     <title>Ruin Loot Gallery</title>
@@ -41,6 +97,27 @@
     <description>Adds many new ruins over and underground to your survival game world.</description>
   </item>
   <item>
+    <title>Moartar</title>
+    <link>https://mods.vintagestory.at/show/mod/11027</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11027#11027</guid>
+    <pubDate>Sat, 15 Aug 2026 16:52:42 -0000</pubDate>
+    <description>Restores the original mortar recipe (512 mortar per stack of sand instead of 256).</description>
+  </item>
+  <item>
+    <title>Dye Hard</title>
+    <link>https://mods.vintagestory.at/show/mod/11026</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11026#11026</guid>
+    <pubDate>Sat, 15 Aug 2026 16:46:59 -0000</pubDate>
+    <description>Dyed leather costs a fifth of the usual dye amount (1 litre per piece instead of 5).</description>
+  </item>
+  <item>
+    <title>Bear Bones</title>
+    <link>https://mods.vintagestory.at/show/mod/11024</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11024#11024</guid>
+    <pubDate>Sat, 15 Aug 2026 16:39:49 -0000</pubDate>
+    <description>Repair your bear hide armour with bones and rope.</description>
+  </item>
+  <item>
     <title>LibGUI - Toolsmith patch</title>
     <link>https://mods.vintagestory.at/show/mod/11022</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11022#11022</guid>
@@ -53,6 +130,13 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
     <pubDate>Sat, 15 Aug 2026 15:56:00 -0000</pubDate>
     <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
+  </item>
+  <item>
+    <title>VL Economy</title>
+    <link>https://mods.vintagestory.at/show/mod/vleconomy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vleconomy#11017</guid>
+    <pubDate>Sat, 15 Aug 2026 14:16:05 -0000</pubDate>
+    <description>Economic mod for the Vintage Lands server / Экономический мод для сервера Vintage Lands</description>
   </item>
   <item>
     <title>Thaumatology (Alpha)</title>
@@ -118,13 +202,6 @@
     <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
   </item>
   <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Sat, 15 Aug 2026 10:55:47 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
     <title>Clothing Visually Degrades</title>
     <link>https://mods.vintagestory.at/show/mod/6376</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6376#6376</guid>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
     <pubDate>Sat, 15 Aug 2026 10:31:34 -0000</pubDate>
     <description>Claim map and access controls for internal testing on a private server.</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
-    <pubDate>Sat, 15 Aug 2026 10:29:39 -0000</pubDate>
-    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
-  </item>
-  <item>
-    <title>Schema Saved</title>
-    <link>https://mods.vintagestory.at/show/mod/schemasaved</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/schemasaved#11013</guid>
-    <pubDate>Sat, 15 Aug 2026 10:09:19 -0000</pubDate>
-    <description>Adds magic wand which saved selected building</description>
-  </item>
-  <item>
-    <title>Entity removal</title>
-    <link>https://mods.vintagestory.at/show/mod/er</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/er#11014</guid>
-    <pubDate>Sat, 15 Aug 2026 10:06:40 -0000</pubDate>
-    <description>Add Magic wand then with that on one click remove entity</description>
-  </item>
-  <item>
-    <title>Toolsmith</title>
-    <link>https://mods.vintagestory.at/show/mod/toolsmith</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/toolsmith#3752</guid>
-    <pubDate>Sat, 15 Aug 2026 09:54:14 -0000</pubDate>
-    <description>Take better care of your tools and they will last you a long time!</description>
-  </item>
-  <item>
-    <title>Tool System Overhaul</title>
-    <link>https://mods.vintagestory.at/show/mod/nodeathtoaxe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nodeathtoaxe#9057</guid>
-    <pubDate>Sat, 15 Aug 2026 09:53:04 -0000</pubDate>
-    <description>Durability system</description>
-  </item>
-  <item>
-    <title>Smol Furniture</title>
-    <link>https://mods.vintagestory.at/show/mod/smolfurniture</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smolfurniture#10958</guid>
-    <pubDate>Sat, 15 Aug 2026 08:12:30 -0000</pubDate>
-    <description>FOR THE SMOL</description>
-  </item>
-  <item>
-    <title>Arts and Crafts Wallpapers</title>
-    <link>https://mods.vintagestory.at/show/mod/acwallpapers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/acwallpapers#11010</guid>
-    <pubDate>Sat, 15 Aug 2026 08:07:42 -0000</pubDate>
-    <description>10 New wallpapers inspired by the 1800's arts and crafts movement. </description>
-  </item>
-  <item>
-    <title>Bigger backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/biggerbackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biggerbackpacks#3073</guid>
-    <pubDate>Sat, 15 Aug 2026 08:03:34 -0000</pubDate>
-    <description>Doubles the inventory size of backpacks and saddlebags.</description>
-  </item>
-  <item>
-    <title>Animal Kinship</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinship</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinship#9647</guid>
-    <pubDate>Sat, 15 Aug 2026 07:18:04 -0000</pubDate>
-    <description>Animals recognize their feral kin, with simple taming for supported wildlife.</description>
-  </item>
-  <item>
-    <title>Rift Traveler</title>
-    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
-    <pubDate>Sat, 15 Aug 2026 07:16:58 -0000</pubDate>
-    <description>Explore rifts, craft temporal tech, teleport home, and transmit cargo across space</description>
-  </item>
-  <item>
-    <title>TITANHEIMR RACES</title>
-    <link>https://mods.vintagestory.at/show/mod/titanheimr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/titanheimr#10861</guid>
-    <pubDate>Sat, 15 Aug 2026 06:45:06 -0000</pubDate>
-    <description>Centaurs (soon) and tweaks to the ''Middle-Earth Races'' mod!</description>
   </item>
 </channel>
 </rss>
