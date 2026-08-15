@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 15 Aug 2026 15:22:57 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 16:27:07 +0000</lastBuildDate>
+  <item>
+    <title>LibGUI - Toolsmith patch</title>
+    <link>https://mods.vintagestory.at/show/mod/11022</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11022#11022</guid>
+    <pubDate>Sat, 15 Aug 2026 16:18:18 -0000</pubDate>
+    <description>A LibGUI patch for Toolsmith sharpness</description>
+  </item>
+  <item>
+    <title>Vintage Rift - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
+    <pubDate>Sat, 15 Aug 2026 16:05:21 -0000</pubDate>
+    <description>Client only code for the Vintage Rift server</description>
+  </item>
+  <item>
+    <title>Cairn — Modpack Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/cairn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
+    <pubDate>Sat, 15 Aug 2026 15:56:00 -0000</pubDate>
+    <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
+  </item>
   <item>
     <title>VL Economy</title>
     <link>https://mods.vintagestory.at/show/mod/vleconomy</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
     <pubDate>Sat, 15 Aug 2026 06:12:08 -0000</pubDate>
     <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
-  </item>
-  <item>
-    <title>1984liek</title>
-    <link>https://mods.vintagestory.at/show/mod/1984liek</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/1984liek#10972</guid>
-    <pubDate>Sat, 15 Aug 2026 06:06:27 -0000</pubDate>
-    <description>if you nkow, you know! </description>
-  </item>
-  <item>
-    <title>Ancient Weaponry Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/11008</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11008#11008</guid>
-    <pubDate>Sat, 15 Aug 2026 05:39:25 -0000</pubDate>
-    <description>Fix for Ancient Weaponry</description>
-  </item>
-  <item>
-    <title>LauncherGo Gateway Redirect</title>
-    <link>https://mods.vintagestory.at/show/mod/launchergoredirect</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergoredirect#11007</guid>
-    <pubDate>Sat, 15 Aug 2026 05:33:19 -0000</pubDate>
-    <description>This mod is deployed by LauncherGo to gateway-associated server instances</description>
   </item>
 </channel>
 </rss>
