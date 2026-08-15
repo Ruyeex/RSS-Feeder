@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 15 Aug 2026 05:26:33 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 06:41:11 +0000</lastBuildDate>
+  <item>
+    <title>More Blood Thingies!</title>
+    <link>https://mods.vintagestory.at/show/mod/10959</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
+    <pubDate>Sat, 15 Aug 2026 06:33:28 -0000</pubDate>
+    <description>Adds all the features for bloodbread that should have been.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Sat, 15 Aug 2026 06:32:19 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Clothes Have Pockets</title>
+    <link>https://mods.vintagestory.at/show/mod/clotheshavepockets</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clotheshavepockets#10218</guid>
+    <pubDate>Sat, 15 Aug 2026 06:16:56 -0000</pubDate>
+    <description>Adds pockets (inventory slots) to various clothing items</description>
+  </item>
+  <item>
+    <title>Age of Seraphs Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
+    <pubDate>Sat, 15 Aug 2026 06:12:08 -0000</pubDate>
+    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
+  </item>
+  <item>
+    <title>1984liek</title>
+    <link>https://mods.vintagestory.at/show/mod/1984liek</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/1984liek#10972</guid>
+    <pubDate>Sat, 15 Aug 2026 06:06:27 -0000</pubDate>
+    <description>if you nkow, you know! </description>
+  </item>
+  <item>
+    <title>Smol Furniture</title>
+    <link>https://mods.vintagestory.at/show/mod/smolfurniture</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smolfurniture#10958</guid>
+    <pubDate>Sat, 15 Aug 2026 05:46:19 -0000</pubDate>
+    <description>FOR THE SMOL</description>
+  </item>
+  <item>
+    <title>Ancient Weaponry Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/11008</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11008#11008</guid>
+    <pubDate>Sat, 15 Aug 2026 05:39:25 -0000</pubDate>
+    <description>Fix for Ancient Weaponry</description>
+  </item>
+  <item>
+    <title>LauncherGo Gateway Redirect</title>
+    <link>https://mods.vintagestory.at/show/mod/launchergoredirect</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergoredirect#11007</guid>
+    <pubDate>Sat, 15 Aug 2026 05:33:19 -0000</pubDate>
+    <description>This mod is deployed by LauncherGo to gateway-associated server instances</description>
+  </item>
   <item>
     <title>Hex's Mechworks</title>
     <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
@@ -46,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11004#11004</guid>
     <pubDate>Sat, 15 Aug 2026 03:07:44 -0000</pubDate>
     <description>Enables chiseling roof blocks.</description>
-  </item>
-  <item>
-    <title>More Blood Thingies!</title>
-    <link>https://mods.vintagestory.at/show/mod/10959</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
-    <pubDate>Sat, 15 Aug 2026 02:47:32 -0000</pubDate>
-    <description>Adds all the features for bloodbread that should have been.</description>
   </item>
   <item>
     <title>Calendar Handbook</title>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
     <pubDate>Fri, 14 Aug 2026 20:52:09 -0000</pubDate>
     <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Fri, 14 Aug 2026 20:46:51 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
-    <title>C&amp;N Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/canclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canclaims#589</guid>
-    <pubDate>Fri, 14 Aug 2026 20:38:06 -0000</pubDate>
-    <description>Land protection mod.</description>
-  </item>
-  <item>
-    <title>C&amp;N Events</title>
-    <link>https://mods.vintagestory.at/show/mod/canevents</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
-    <pubDate>Fri, 14 Aug 2026 20:22:48 -0000</pubDate>
-    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
-  </item>
-  <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Fri, 14 Aug 2026 20:15:47 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
-    <title>Kingdoms and Clans Base Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/kingandclanbase</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kingandclanbase#11001</guid>
-    <pubDate>Fri, 14 Aug 2026 20:08:16 -0000</pubDate>
-    <description>Mod for whitelisted server Kingdoms and Clans</description>
-  </item>
-  <item>
-    <title>Tallybook</title>
-    <link>https://mods.vintagestory.at/show/mod/10864</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
-    <pubDate>Fri, 14 Aug 2026 19:57:52 -0000</pubDate>
-    <description>Crafting shopping list, villager quest tracker, and spoiler-free story guide. Fully client-side.</description>
-  </item>
-  <item>
-    <title>wotpatches</title>
-    <link>https://mods.vintagestory.at/show/mod/wotpatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wotpatches#10513</guid>
-    <pubDate>Fri, 14 Aug 2026 19:56:19 -0000</pubDate>
-    <description>Patches for World of Thalorim.</description>
   </item>
 </channel>
 </rss>
