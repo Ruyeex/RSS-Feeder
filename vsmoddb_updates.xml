@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 15 Aug 2026 06:41:11 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 07:32:17 +0000</lastBuildDate>
+  <item>
+    <title>Animal Kinship</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinship</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinship#9647</guid>
+    <pubDate>Sat, 15 Aug 2026 07:18:04 -0000</pubDate>
+    <description>Animals recognize their feral kin, with simple taming for supported wildlife.</description>
+  </item>
+  <item>
+    <title>Rift Traveler</title>
+    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
+    <pubDate>Sat, 15 Aug 2026 07:16:58 -0000</pubDate>
+    <description>Explore rifts, craft temporal tech, teleport home, and transmit cargo across space</description>
+  </item>
+  <item>
+    <title>TITANHEIMR RACES</title>
+    <link>https://mods.vintagestory.at/show/mod/titanheimr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/titanheimr#10861</guid>
+    <pubDate>Sat, 15 Aug 2026 06:45:06 -0000</pubDate>
+    <description>Centaurs (soon) and tweaks to the ''Middle-Earth Races'' mod!</description>
+  </item>
   <item>
     <title>More Blood Thingies!</title>
     <link>https://mods.vintagestory.at/show/mod/10959</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
     <pubDate>Fri, 14 Aug 2026 21:17:09 -0000</pubDate>
     <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>Cairn — Modpack Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/cairn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
-    <pubDate>Fri, 14 Aug 2026 21:05:42 -0000</pubDate>
-    <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
-  </item>
-  <item>
-    <title>ModernAtlas</title>
-    <link>https://mods.vintagestory.at/show/mod/modernatlas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modernatlas#10999</guid>
-    <pubDate>Fri, 14 Aug 2026 21:03:59 -0000</pubDate>
-    <description>Pull out a detailed 3D atlas and explore your loaded world from above</description>
-  </item>
-  <item>
-    <title>Dead</title>
-    <link>https://mods.vintagestory.at/show/mod/dead</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
-    <pubDate>Fri, 14 Aug 2026 20:52:09 -0000</pubDate>
-    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
   </item>
 </channel>
 </rss>
