@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 15 Aug 2026 09:27:41 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 10:24:44 +0000</lastBuildDate>
+  <item>
+    <title>Schema Saved</title>
+    <link>https://mods.vintagestory.at/show/mod/schemasaved</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/schemasaved#11013</guid>
+    <pubDate>Sat, 15 Aug 2026 10:09:19 -0000</pubDate>
+    <description>Adds magic wand which saved selected building</description>
+  </item>
+  <item>
+    <title>Entity removal</title>
+    <link>https://mods.vintagestory.at/show/mod/er</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/er#11014</guid>
+    <pubDate>Sat, 15 Aug 2026 10:06:40 -0000</pubDate>
+    <description>Add Magic wand then with that on one click remove entity</description>
+  </item>
+  <item>
+    <title>Toolsmith</title>
+    <link>https://mods.vintagestory.at/show/mod/toolsmith</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/toolsmith#3752</guid>
+    <pubDate>Sat, 15 Aug 2026 09:54:14 -0000</pubDate>
+    <description>Take better care of your tools and they will last you a long time!</description>
+  </item>
+  <item>
+    <title>Tool System Overhaul</title>
+    <link>https://mods.vintagestory.at/show/mod/nodeathtoaxe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nodeathtoaxe#9057</guid>
+    <pubDate>Sat, 15 Aug 2026 09:53:04 -0000</pubDate>
+    <description>Durability system</description>
+  </item>
   <item>
     <title>Smol Furniture</title>
     <link>https://mods.vintagestory.at/show/mod/smolfurniture</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
     <pubDate>Fri, 14 Aug 2026 22:35:56 -0000</pubDate>
     <description>Skill and class mod for the Fablewood server</description>
-  </item>
-  <item>
-    <title>Fablewood Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Fri, 14 Aug 2026 22:33:37 -0000</pubDate>
-    <description>JSON content patches</description>
-  </item>
-  <item>
-    <title>Scribe: Notes &amp; Tasks</title>
-    <link>https://mods.vintagestory.at/show/mod/scribe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scribe#10607</guid>
-    <pubDate>Fri, 14 Aug 2026 22:32:41 -0000</pubDate>
-    <description>Take notes and track tasks in-world. Pin tasks to a persistent HUD. Multiplayer-ready.</description>
-  </item>
-  <item>
-    <title>Fablewood Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Fri, 14 Aug 2026 22:32:29 -0000</pubDate>
-    <description>Harmony patches for compatibility.</description>
-  </item>
-  <item>
-    <title>Quarter Logs To Planks</title>
-    <link>https://mods.vintagestory.at/show/mod/quarterlogstoplanks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/quarterlogstoplanks#11000</guid>
-    <pubDate>Fri, 14 Aug 2026 21:29:58 -0000</pubDate>
-    <description>Adds the log + saw = planks grid recipes to all quarter logs, barked, debarked, and corner variants.</description>
   </item>
 </channel>
 </rss>
