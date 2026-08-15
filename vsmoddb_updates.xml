@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 15 Aug 2026 16:27:07 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 17:22:11 +0000</lastBuildDate>
+  <item>
+    <title>Glassmaking</title>
+    <link>https://mods.vintagestory.at/show/mod/glassmaking</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glassmaking#535</guid>
+    <pubDate>Sat, 15 Aug 2026 17:18:03 -0000</pubDate>
+    <description>A set of mechanics for creating glass-related recipes</description>
+  </item>
+  <item>
+    <title>Vegan Fat</title>
+    <link>https://mods.vintagestory.at/show/mod/veganfat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/veganfat#11012</guid>
+    <pubDate>Sat, 15 Aug 2026 17:11:33 -0000</pubDate>
+    <description>Grind sunflower seeds into real vanilla rendered fat. No stand-in item, works in every fat recipe.</description>
+  </item>
+  <item>
+    <title>Ruin Loot Gallery</title>
+    <link>https://mods.vintagestory.at/show/mod/ruinlootgallery</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ruinlootgallery#10986</guid>
+    <pubDate>Sat, 15 Aug 2026 17:09:15 -0000</pubDate>
+    <description>Browse and spawn every structure, or generate a world of loot-bearing ruins near spawn.</description>
+  </item>
+  <item>
+    <title>Vintage Rift - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
+    <pubDate>Sat, 15 Aug 2026 17:05:59 -0000</pubDate>
+    <description>Client only code for the Vintage Rift server</description>
+  </item>
+  <item>
+    <title>BetterRuins</title>
+    <link>https://mods.vintagestory.at/show/mod/betterruins</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterruins#792</guid>
+    <pubDate>Sat, 15 Aug 2026 16:53:23 -0000</pubDate>
+    <description>Adds many new ruins over and underground to your survival game world.</description>
+  </item>
   <item>
     <title>LibGUI - Toolsmith patch</title>
     <link>https://mods.vintagestory.at/show/mod/11022</link>
@@ -13,25 +48,11 @@
     <description>A LibGUI patch for Toolsmith sharpness</description>
   </item>
   <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Sat, 15 Aug 2026 16:05:21 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
     <title>Cairn — Modpack Manager</title>
     <link>https://mods.vintagestory.at/show/mod/cairn</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
     <pubDate>Sat, 15 Aug 2026 15:56:00 -0000</pubDate>
     <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
-  </item>
-  <item>
-    <title>VL Economy</title>
-    <link>https://mods.vintagestory.at/show/mod/vleconomy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vleconomy#11017</guid>
-    <pubDate>Sat, 15 Aug 2026 14:16:05 -0000</pubDate>
-    <description>Экономический мод для сервера Vintage Lands</description>
   </item>
   <item>
     <title>Thaumatology (Alpha)</title>
@@ -160,6 +181,13 @@
     <description>FOR THE SMOL</description>
   </item>
   <item>
+    <title>Arts and Crafts Wallpapers</title>
+    <link>https://mods.vintagestory.at/show/mod/acwallpapers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/acwallpapers#11010</guid>
+    <pubDate>Sat, 15 Aug 2026 08:07:42 -0000</pubDate>
+    <description>10 New wallpapers inspired by the 1800's arts and crafts movement. </description>
+  </item>
+  <item>
     <title>Bigger backpacks</title>
     <link>https://mods.vintagestory.at/show/mod/biggerbackpacks</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biggerbackpacks#3073</guid>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/titanheimr#10861</guid>
     <pubDate>Sat, 15 Aug 2026 06:45:06 -0000</pubDate>
     <description>Centaurs (soon) and tweaks to the ''Middle-Earth Races'' mod!</description>
-  </item>
-  <item>
-    <title>More Blood Thingies!</title>
-    <link>https://mods.vintagestory.at/show/mod/10959</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
-    <pubDate>Sat, 15 Aug 2026 06:33:28 -0000</pubDate>
-    <description>Adds all the features for bloodbread that should have been.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Sat, 15 Aug 2026 06:32:19 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
-    <title>Clothes Have Pockets</title>
-    <link>https://mods.vintagestory.at/show/mod/clotheshavepockets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clotheshavepockets#10218</guid>
-    <pubDate>Sat, 15 Aug 2026 06:16:56 -0000</pubDate>
-    <description>Adds pockets (inventory slots) to various clothing items</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Sat, 15 Aug 2026 06:12:08 -0000</pubDate>
-    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
   </item>
 </channel>
 </rss>
