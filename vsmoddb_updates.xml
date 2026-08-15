@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 15 Aug 2026 13:31:48 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 14:24:59 +0000</lastBuildDate>
+  <item>
+    <title>VL Economy</title>
+    <link>https://mods.vintagestory.at/show/mod/vleconomy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vleconomy#11017</guid>
+    <pubDate>Sat, 15 Aug 2026 14:16:05 -0000</pubDate>
+    <description>Экономический мод для сервера Vintage Lands</description>
+  </item>
   <item>
     <title>Thaumatology (Alpha)</title>
     <link>https://mods.vintagestory.at/show/mod/thaumatology</link>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergoredirect#11007</guid>
     <pubDate>Sat, 15 Aug 2026 05:33:19 -0000</pubDate>
     <description>This mod is deployed by LauncherGo to gateway-associated server instances</description>
-  </item>
-  <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Sat, 15 Aug 2026 04:53:41 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
   </item>
 </channel>
 </rss>
