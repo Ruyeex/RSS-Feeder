@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 15 Aug 2026 03:40:56 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 04:33:46 +0000</lastBuildDate>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Sat, 15 Aug 2026 04:26:50 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
   <item>
     <title>Skillbooks: Stats</title>
     <link>https://mods.vintagestory.at/show/mod/11005</link>
@@ -34,11 +41,11 @@
     <description>Adds all the features for bloodbread that should have been.</description>
   </item>
   <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Sat, 15 Aug 2026 02:13:03 -0000</pubDate>
-    <description>The factory must grow!</description>
+    <title>Calendar Handbook</title>
+    <link>https://mods.vintagestory.at/show/mod/calendarhandbook</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/calendarhandbook#11003</guid>
+    <pubDate>Sat, 15 Aug 2026 02:13:15 -0000</pubDate>
+    <description>Adds a calender showing your progress through the year and how far away winter is.</description>
   </item>
   <item>
     <title>Meliora Meadows Adjustments</title>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zipline#10982</guid>
     <pubDate>Fri, 14 Aug 2026 19:36:09 -0000</pubDate>
     <description>Build ziplines to get down a hill faster.</description>
-  </item>
-  <item>
-    <title>AstraTerra</title>
-    <link>https://mods.vintagestory.at/show/mod/8706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
-    <pubDate>Fri, 14 Aug 2026 19:33:01 -0000</pubDate>
-    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
   </item>
 </channel>
 </rss>
