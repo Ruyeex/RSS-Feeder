@@ -4,20 +4,34 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 15 Aug 2026 02:53:24 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 03:40:56 +0000</lastBuildDate>
+  <item>
+    <title>Skillbooks: Stats</title>
+    <link>https://mods.vintagestory.at/show/mod/11005</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11005#11005</guid>
+    <pubDate>Sat, 15 Aug 2026 03:15:24 -0000</pubDate>
+    <description>Single-use books that permanently grant a stat trait when read. Works standalone or with core.</description>
+  </item>
+  <item>
+    <title>Skillbooks Core</title>
+    <link>https://mods.vintagestory.at/show/mod/11002</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11002#11002</guid>
+    <pubDate>Sat, 15 Aug 2026 03:14:45 -0000</pubDate>
+    <description>Single-use books that permanently grant a crafting trait when read, discovered from any mod.</description>
+  </item>
+  <item>
+    <title>Chisel Roof Blocks</title>
+    <link>https://mods.vintagestory.at/show/mod/11004</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11004#11004</guid>
+    <pubDate>Sat, 15 Aug 2026 03:07:44 -0000</pubDate>
+    <description>Enables chiseling roof blocks.</description>
+  </item>
   <item>
     <title>More Blood Thingies!</title>
     <link>https://mods.vintagestory.at/show/mod/10959</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
     <pubDate>Sat, 15 Aug 2026 02:47:32 -0000</pubDate>
     <description>Adds all the features for bloodbread that should have been.</description>
-  </item>
-  <item>
-    <title>Skillbooks Core</title>
-    <link>https://mods.vintagestory.at/show/mod/11002</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11002#11002</guid>
-    <pubDate>Sat, 15 Aug 2026 02:37:44 -0000</pubDate>
-    <description>Single-use books that permanently grant a crafting trait when read, discovered from any mod.</description>
   </item>
   <item>
     <title>Hex's Mechworks</title>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
     <pubDate>Fri, 14 Aug 2026 19:33:01 -0000</pubDate>
     <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
-  </item>
-  <item>
-    <title>Metal Cooking Pots</title>
-    <link>https://mods.vintagestory.at/show/mod/metalpots</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalpots#3912</guid>
-    <pubDate>Fri, 14 Aug 2026 19:16:36 -0000</pubDate>
-    <description>Adds Cooking Pots made from metal with greater serving size</description>
-  </item>
-  <item>
-    <title>Magical Moon - FRustyMagic (Beta)</title>
-    <link>https://mods.vintagestory.at/show/mod/10975</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10975#10975</guid>
-    <pubDate>Fri, 14 Aug 2026 19:06:08 -0000</pubDate>
-    <description>An entirely in-world, small, moon magic mod. Play around with beams of light!</description>
   </item>
 </channel>
 </rss>
