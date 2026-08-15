@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 15 Aug 2026 10:24:44 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 11:22:17 +0000</lastBuildDate>
+  <item>
+    <title>Thaumatology (Alpha)</title>
+    <link>https://mods.vintagestory.at/show/mod/thaumatology</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thaumatology#512</guid>
+    <pubDate>Sat, 15 Aug 2026 11:04:57 -0000</pubDate>
+    <description>Thaumatology lets you harness the essence inherent in the world around you.</description>
+  </item>
+  <item>
+    <title>Dead</title>
+    <link>https://mods.vintagestory.at/show/mod/dead</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
+    <pubDate>Sat, 15 Aug 2026 10:58:36 -0000</pubDate>
+    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Sat, 15 Aug 2026 10:55:47 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>Clothing Visually Degrades</title>
+    <link>https://mods.vintagestory.at/show/mod/6376</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6376#6376</guid>
+    <pubDate>Sat, 15 Aug 2026 10:39:06 -0000</pubDate>
+    <description>Makes clothing degrade visually like armor </description>
+  </item>
+  <item>
+    <title>Frontier Claims Map</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Sat, 15 Aug 2026 10:31:34 -0000</pubDate>
+    <description>Claim map and access controls for internal testing on a private server.</description>
+  </item>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
+    <pubDate>Sat, 15 Aug 2026 10:29:39 -0000</pubDate>
+    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
+  </item>
   <item>
     <title>Schema Saved</title>
     <link>https://mods.vintagestory.at/show/mod/schemasaved</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
     <pubDate>Sat, 15 Aug 2026 02:03:19 -0000</pubDate>
     <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
-  </item>
-  <item>
-    <title>Scraps Revived</title>
-    <link>https://mods.vintagestory.at/show/mod/5091</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5091#5091</guid>
-    <pubDate>Sat, 15 Aug 2026 01:14:44 -0000</pubDate>
-    <description>Restore and recycle the clutter from the ruins.</description>
-  </item>
-  <item>
-    <title>Algernon's Watersheds</title>
-    <link>https://mods.vintagestory.at/show/mod/algernonswatersheds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/algernonswatersheds#7286</guid>
-    <pubDate>Sat, 15 Aug 2026 00:17:12 -0000</pubDate>
-    <description>Worldgen revamp using a Watershed model. Adds meandering streams, groundwater, and erosion</description>
-  </item>
-  <item>
-    <title>Road network - connected curved roads and bridges</title>
-    <link>https://mods.vintagestory.at/show/mod/10739</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10739#10739</guid>
-    <pubDate>Sat, 15 Aug 2026 00:14:18 -0000</pubDate>
-    <description>Road Network allows you to spawn roads automatically, which snuggle to the terrain.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Fri, 14 Aug 2026 23:41:12 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>VS Terrain Diffusion</title>
-    <link>https://mods.vintagestory.at/show/mod/vsterraindiffusion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsterraindiffusion#10918</guid>
-    <pubDate>Fri, 14 Aug 2026 23:17:11 -0000</pubDate>
-    <description>Generate terrain with a neural heightmap model trained on real Earth topography</description>
-  </item>
-  <item>
-    <title>Fablewood Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/10778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
-    <pubDate>Fri, 14 Aug 2026 22:35:56 -0000</pubDate>
-    <description>Skill and class mod for the Fablewood server</description>
   </item>
 </channel>
 </rss>
