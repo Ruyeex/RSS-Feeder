@@ -4,12 +4,33 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 15 Aug 2026 22:24:19 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 23:22:08 +0000</lastBuildDate>
+  <item>
+    <title>Animalica - Abilities</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicaa</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaa#10949</guid>
+    <pubDate>Sat, 15 Aug 2026 23:14:16 -0000</pubDate>
+    <description>Species-gated Scent and Night Sight for Animalica and compatible player models. (more soon)</description>
+  </item>
+  <item>
+    <title>Combat Overhaul Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/combatoverhaulforked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/combatoverhaulforked#8415</guid>
+    <pubDate>Sat, 15 Aug 2026 22:53:54 -0000</pubDate>
+    <description>1.22 fork</description>
+  </item>
+  <item>
+    <title>RedLight [1.22]</title>
+    <link>https://mods.vintagestory.at/show/mod/redlight</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/redlight#8478</guid>
+    <pubDate>Sat, 15 Aug 2026 22:44:24 -0000</pubDate>
+    <description>No more LED lanterns.</description>
+  </item>
   <item>
     <title>Rudiments</title>
     <link>https://mods.vintagestory.at/show/mod/9305</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
-    <pubDate>Sat, 15 Aug 2026 22:19:26 -0000</pubDate>
+    <pubDate>Sat, 15 Aug 2026 22:36:47 -0000</pubDate>
     <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
   </item>
   <item>
@@ -18,13 +39,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10985#10985</guid>
     <pubDate>Sat, 15 Aug 2026 22:18:56 -0000</pubDate>
     <description>Tall grass now drops twice as much when using knives and scythes</description>
-  </item>
-  <item>
-    <title>RedLight [1.22]</title>
-    <link>https://mods.vintagestory.at/show/mod/redlight</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/redlight#8478</guid>
-    <pubDate>Sat, 15 Aug 2026 22:18:28 -0000</pubDate>
-    <description>No more LED lanterns.</description>
   </item>
   <item>
     <title>TaborServers</title>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
     <pubDate>Sat, 15 Aug 2026 18:26:20 -0000</pubDate>
     <description>A sleek Vintage Story launcher for instances, mods, accounts and playtime tracking.</description>
-  </item>
-  <item>
-    <title>LauncherGo Command Bridge</title>
-    <link>https://mods.vintagestory.at/show/mod/launchergocommandbridge</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergocommandbridge#11033</guid>
-    <pubDate>Sat, 15 Aug 2026 18:13:52 -0000</pubDate>
-    <description>Authenticated local command bridge for LauncherGo.</description>
-  </item>
-  <item>
-    <title>Zipline</title>
-    <link>https://mods.vintagestory.at/show/mod/zipline</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zipline#10982</guid>
-    <pubDate>Sat, 15 Aug 2026 18:07:25 -0000</pubDate>
-    <description>Build ziplines to get down a hill faster.</description>
   </item>
 </channel>
 </rss>
