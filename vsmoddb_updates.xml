@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 15 Aug 2026 20:24:50 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 21:23:00 +0000</lastBuildDate>
+  <item>
+    <title>TaborServers</title>
+    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
+    <pubDate>Sat, 15 Aug 2026 21:17:36 -0000</pubDate>
+    <description>Patches fo most of Tabor servers</description>
+  </item>
+  <item>
+    <title>Calm's Collectibles</title>
+    <link>https://mods.vintagestory.at/show/mod/calmscollectibles</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/calmscollectibles#11035</guid>
+    <pubDate>Sat, 15 Aug 2026 21:04:22 -0000</pubDate>
+    <description>Bookends, Figurines and Desk Picture Frame Plus, This mod places them in one settlement </description>
+  </item>
+  <item>
+    <title>Vintage Horizons</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagehorizons</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagehorizons#10511</guid>
+    <pubDate>Sat, 15 Aug 2026 20:59:29 -0000</pubDate>
+    <description>An LOD mod inspired by Distant Horizons, Farseer, Voxy, and ChunkLOD</description>
+  </item>
+  <item>
+    <title>Rudiments</title>
+    <link>https://mods.vintagestory.at/show/mod/9305</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
+    <pubDate>Sat, 15 Aug 2026 20:53:18 -0000</pubDate>
+    <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Sat, 15 Aug 2026 20:50:28 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
   <item>
     <title>Bookends</title>
     <link>https://mods.vintagestory.at/show/mod/bookends</link>
@@ -60,13 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/esfs#11034</guid>
     <pubDate>Sat, 15 Aug 2026 19:16:06 -0000</pubDate>
     <description>Ecosystem — Flower Seeds</description>
-  </item>
-  <item>
-    <title>TaborServers</title>
-    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
-    <pubDate>Sat, 15 Aug 2026 18:57:55 -0000</pubDate>
-    <description>Patches fo most of Tabor servers</description>
   </item>
   <item>
     <title>Rift Traveler</title>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11027#11027</guid>
     <pubDate>Sat, 15 Aug 2026 16:52:42 -0000</pubDate>
     <description>Restores the original mortar recipe (512 mortar per stack of sand instead of 256).</description>
-  </item>
-  <item>
-    <title>Dye Hard</title>
-    <link>https://mods.vintagestory.at/show/mod/11026</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11026#11026</guid>
-    <pubDate>Sat, 15 Aug 2026 16:46:59 -0000</pubDate>
-    <description>Dyed leather costs a fifth of the usual dye amount (1 litre per piece instead of 5).</description>
-  </item>
-  <item>
-    <title>Bear Bones</title>
-    <link>https://mods.vintagestory.at/show/mod/11024</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11024#11024</guid>
-    <pubDate>Sat, 15 Aug 2026 16:39:49 -0000</pubDate>
-    <description>Repair your bear hide armour with bones and rope.</description>
-  </item>
-  <item>
-    <title>LibGUI - Toolsmith patch</title>
-    <link>https://mods.vintagestory.at/show/mod/11022</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11022#11022</guid>
-    <pubDate>Sat, 15 Aug 2026 16:18:18 -0000</pubDate>
-    <description>A LibGUI patch for Toolsmith sharpness</description>
-  </item>
-  <item>
-    <title>Cairn — Modpack Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/cairn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
-    <pubDate>Sat, 15 Aug 2026 15:56:00 -0000</pubDate>
-    <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
   </item>
 </channel>
 </rss>
