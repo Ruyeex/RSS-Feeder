@@ -4,7 +4,21 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 16 Aug 2026 10:25:18 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 11:22:24 +0000</lastBuildDate>
+  <item>
+    <title>Vintage Canvas</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagecanvas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagecanvas#9406</guid>
+    <pubDate>Sun, 16 Aug 2026 11:21:13 -0000</pubDate>
+    <description>Craft canvases, mix paint, and use brushes to decorate your world!</description>
+  </item>
+  <item>
+    <title>Temporally Stable Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tstweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tstweaks#5193</guid>
+    <pubDate>Sun, 16 Aug 2026 10:35:08 -0000</pubDate>
+    <description>Various tweaks for the Temporally Stable server.</description>
+  </item>
   <item>
     <title>Downed</title>
     <link>https://mods.vintagestory.at/show/mod/downed</link>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
     <pubDate>Sun, 16 Aug 2026 03:39:01 -0000</pubDate>
     <description>JSON content patches</description>
-  </item>
-  <item>
-    <title>Fablewood Economy</title>
-    <link>https://mods.vintagestory.at/show/mod/9634</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9634#9634</guid>
-    <pubDate>Sun, 16 Aug 2026 03:38:00 -0000</pubDate>
-    <description>Economy mod</description>
-  </item>
-  <item>
-    <title>TassDownedTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tassdownedtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassdownedtweaks#10700</guid>
-    <pubDate>Sun, 16 Aug 2026 03:24:17 -0000</pubDate>
-    <description>Tweaks to the downed mod to add Kenshi like behavior</description>
   </item>
 </channel>
 </rss>
