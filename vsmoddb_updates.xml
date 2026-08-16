@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 16 Aug 2026 19:22:21 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 20:24:56 +0000</lastBuildDate>
+  <item>
+    <title>Olendril Toolsmith and IME Compat Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/11065</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11065#11065</guid>
+    <pubDate>Sun, 16 Aug 2026 20:23:55 -0000</pubDate>
+    <description>Toolsmith Interesting Mining and Extraction Compatibility</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Sun, 16 Aug 2026 20:20:33 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>unHallowedPatches</title>
+    <link>https://mods.vintagestory.at/show/mod/unhallowedpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/unhallowedpatches#4328</guid>
+    <pubDate>Sun, 16 Aug 2026 20:10:13 -0000</pubDate>
+    <description>A collection of QoL patches - including increased stack sizes and recipes.</description>
+  </item>
+  <item>
+    <title>Auto Walk Extended</title>
+    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
+    <pubDate>Sun, 16 Aug 2026 19:33:22 -0000</pubDate>
+    <description>Toggle walking/running. Options for sneak toggle, stepup and mouse button lock.</description>
+  </item>
+  <item>
+    <title>Meliora Meadows Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
+    <pubDate>Sun, 16 Aug 2026 19:25:21 -0000</pubDate>
+    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
+  </item>
   <item>
     <title>Tile 'n All</title>
     <link>https://mods.vintagestory.at/show/mod/tilenall</link>
@@ -74,6 +109,13 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/primitivesurvival#322</guid>
     <pubDate>Sun, 16 Aug 2026 18:03:13 -0000</pubDate>
     <description>Fishing, trapping, irrigation, smoker, nightcrawlers, snakes, and much more!</description>
+  </item>
+  <item>
+    <title>Olendril IME Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/11060</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11060#11060</guid>
+    <pubDate>Sun, 16 Aug 2026 17:32:25 -0000</pubDate>
+    <description>  A focused compatibility and quality-of-life patch for Interesting Mining &amp; Extraction.</description>
   </item>
   <item>
     <title>VS Instruments Redux</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grapplinghook#11050</guid>
     <pubDate>Sun, 16 Aug 2026 15:02:55 -0000</pubDate>
     <description>Swing, climb and interact with entities while traversing the world.</description>
-  </item>
-  <item>
-    <title>Project Merezha - Client Preview</title>
-    <link>https://mods.vintagestory.at/show/mod/merezha</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/merezha#10240</guid>
-    <pubDate>Sun, 16 Aug 2026 15:02:10 -0000</pubDate>
-    <description>Early client support for an upcoming Vintage Story multiplayer games network.</description>
-  </item>
-  <item>
-    <title>Zipline</title>
-    <link>https://mods.vintagestory.at/show/mod/zipline</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zipline#10982</guid>
-    <pubDate>Sun, 16 Aug 2026 14:33:50 -0000</pubDate>
-    <description>Build ziplines to get down a hill faster.</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Sun, 16 Aug 2026 14:33:34 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>Offline No Spoil</title>
-    <link>https://mods.vintagestory.at/show/mod/offlinenospoil</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/offlinenospoil#10816</guid>
-    <pubDate>Sun, 16 Aug 2026 14:12:41 -0000</pubDate>
-    <description>Preserves perishable food in offline inventories and configured containers.</description>
-  </item>
-  <item>
-    <title>Realistic Biome Generation</title>
-    <link>https://mods.vintagestory.at/show/mod/8326</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8326#8326</guid>
-    <pubDate>Sun, 16 Aug 2026 14:10:56 -0000</pubDate>
-    <description>ONE Equator. ONE North Pole. ONE South Pole. On ANY world size. Plus custom spawn latitude.</description>
-  </item>
-  <item>
-    <title>Cave-Only Ore Spawns</title>
-    <link>https://mods.vintagestory.at/show/mod/8157</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8157#8157</guid>
-    <pubDate>Sun, 16 Aug 2026 14:10:37 -0000</pubDate>
-    <description>Ore spawns only in caves, on the cave walls, plus new modes for more efficent prospecting.</description>
   </item>
 </channel>
 </rss>
