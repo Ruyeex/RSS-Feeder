@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 16 Aug 2026 09:29:48 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 10:25:18 +0000</lastBuildDate>
+  <item>
+    <title>Downed</title>
+    <link>https://mods.vintagestory.at/show/mod/downed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
+    <pubDate>Sun, 16 Aug 2026 09:49:50 -0000</pubDate>
+    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Sun, 16 Aug 2026 09:41:23 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
+  <item>
+    <title>Immersive Clay Working</title>
+    <link>https://mods.vintagestory.at/show/mod/immersiveclayworking</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersiveclayworking#11044</guid>
+    <pubDate>Sun, 16 Aug 2026 09:33:30 -0000</pubDate>
+    <description>Adds break chance when firing clay items in the pitkiln and beehive kiln. Manage break risk by using</description>
+  </item>
   <item>
     <title>TreadWheel</title>
     <link>https://mods.vintagestory.at/show/mod/treadwheel</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassdownedtweaks#10700</guid>
     <pubDate>Sun, 16 Aug 2026 03:24:17 -0000</pubDate>
     <description>Tweaks to the downed mod to add Kenshi like behavior</description>
-  </item>
-  <item>
-    <title>TassFactions</title>
-    <link>https://mods.vintagestory.at/show/mod/10503</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
-    <pubDate>Sun, 16 Aug 2026 03:21:26 -0000</pubDate>
-    <description>Factions - Raids - Sieges - Shops - Bounty</description>
-  </item>
-  <item>
-    <title>RedLight [1.22]</title>
-    <link>https://mods.vintagestory.at/show/mod/redlight</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/redlight#8478</guid>
-    <pubDate>Sun, 16 Aug 2026 03:17:34 -0000</pubDate>
-    <description>No more LED lanterns.</description>
-  </item>
-  <item>
-    <title>TassHardcoreWinter</title>
-    <link>https://mods.vintagestory.at/show/mod/tasshardcorewinter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshardcorewinter#10500</guid>
-    <pubDate>Sun, 16 Aug 2026 03:16:03 -0000</pubDate>
-    <description>Deeper snow, white out blizzards, restorative spring, realistic room temperature, heat source rework</description>
   </item>
 </channel>
 </rss>
