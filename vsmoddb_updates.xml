@@ -4,12 +4,33 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 16 Aug 2026 08:32:16 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 09:29:48 +0000</lastBuildDate>
+  <item>
+    <title>TreadWheel</title>
+    <link>https://mods.vintagestory.at/show/mod/treadwheel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/treadwheel#11045</guid>
+    <pubDate>Sun, 16 Aug 2026 09:16:14 -0000</pubDate>
+    <description>No wind? No river? Walk inside the wheel and power your machines with your own legs.</description>
+  </item>
+  <item>
+    <title>Fablewood Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Sun, 16 Aug 2026 09:05:57 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
+  <item>
+    <title>Chisel Wiz - Powerful chisel shortcuts</title>
+    <link>https://mods.vintagestory.at/show/mod/chiselwiz</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiselwiz#4864</guid>
+    <pubDate>Sun, 16 Aug 2026 08:46:27 -0000</pubDate>
+    <description>Copy + paste chiselled blocks. Works on un-modded servers!</description>
+  </item>
   <item>
     <title>ChunkLOD</title>
     <link>https://mods.vintagestory.at/show/mod/chunklod</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chunklod#7929</guid>
-    <pubDate>Sun, 16 Aug 2026 08:31:42 -0000</pubDate>
+    <pubDate>Sun, 16 Aug 2026 08:33:57 -0000</pubDate>
     <description>A Heavily Modified Fork of Farseer, representing terrain, rock type, forestation, and water as LOD's</description>
   </item>
   <item>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshardcorewinter#10500</guid>
     <pubDate>Sun, 16 Aug 2026 03:16:03 -0000</pubDate>
     <description>Deeper snow, white out blizzards, restorative spring, realistic room temperature, heat source rework</description>
-  </item>
-  <item>
-    <title>LibGUI - Toolsmith patch</title>
-    <link>https://mods.vintagestory.at/show/mod/11022</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11022#11022</guid>
-    <pubDate>Sun, 16 Aug 2026 03:15:17 -0000</pubDate>
-    <description>A LibGUI patch for Toolsmith sharpness</description>
-  </item>
-  <item>
-    <title>Prospector's Instinct</title>
-    <link>https://mods.vintagestory.at/show/mod/prospectorsinstinct</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/prospectorsinstinct#10192</guid>
-    <pubDate>Sun, 16 Aug 2026 03:10:01 -0000</pubDate>
-    <description>Subtle particle guidance that helps locate nearby ore while preserving the spirit of prospecting.</description>
-  </item>
-  <item>
-    <title>LauncherGo</title>
-    <link>https://mods.vintagestory.at/show/mod/launchergo</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergo#9280</guid>
-    <pubDate>Sun, 16 Aug 2026 02:48:52 -0000</pubDate>
-    <description>LauncherGo is a graphical server launcher for Vintage Story.</description>
   </item>
 </channel>
 </rss>
