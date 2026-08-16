@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 16 Aug 2026 12:42:35 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 13:33:08 +0000</lastBuildDate>
+  <item>
+    <title>SheyderMod</title>
+    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
+    <pubDate>Sun, 16 Aug 2026 13:18:29 -0000</pubDate>
+    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
+  </item>
+  <item>
+    <title>Clothes Have Pockets</title>
+    <link>https://mods.vintagestory.at/show/mod/clotheshavepockets</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clotheshavepockets#10218</guid>
+    <pubDate>Sun, 16 Aug 2026 13:11:02 -0000</pubDate>
+    <description>Adds pockets (inventory slots) to various clothing items</description>
+  </item>
+  <item>
+    <title>Lupines</title>
+    <link>https://mods.vintagestory.at/show/mod/lupines</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lupines#5723</guid>
+    <pubDate>Sun, 16 Aug 2026 13:07:01 -0000</pubDate>
+    <description>Adds playable anthro wolf like player model using Player Model Lib</description>
+  </item>
+  <item>
+    <title>Recipebook - Trait-locked recipes tab</title>
+    <link>https://mods.vintagestory.at/show/mod/11047</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11047#11047</guid>
+    <pubDate>Sun, 16 Aug 2026 12:56:14 -0000</pubDate>
+    <description>Adds a Recipes tab to the survival handbook, listing every trait-locked recipe grouped by trait.</description>
+  </item>
   <item>
     <title>Waypoints NextGen</title>
     <link>https://mods.vintagestory.at/show/mod/waypointsnextgen</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
     <pubDate>Sun, 16 Aug 2026 06:49:22 -0000</pubDate>
     <description>Adds all the features for bloodbread that should have been.</description>
-  </item>
-  <item>
-    <title>Frogs &amp; Rain Thingamabobers</title>
-    <link>https://mods.vintagestory.at/show/mod/7389</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7389#7389</guid>
-    <pubDate>Sun, 16 Aug 2026 06:49:03 -0000</pubDate>
-    <description>Rain themed clothing, with lots of frogs and much more rain/weather gear to come!</description>
-  </item>
-  <item>
-    <title>Waxlight Launcher</title>
-    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
-    <pubDate>Sun, 16 Aug 2026 06:42:55 -0000</pubDate>
-    <description>A sleek Vintage Story launcher for instances, mods, accounts and playtime tracking.</description>
-  </item>
-  <item>
-    <title>Fablewood Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/10778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
-    <pubDate>Sun, 16 Aug 2026 06:16:31 -0000</pubDate>
-    <description>Skill and class mod for the Fablewood server</description>
-  </item>
-  <item>
-    <title>VSCN Language Pack Updater</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnlangpackupdater</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpackupdater#10107</guid>
-    <pubDate>Sun, 16 Aug 2026 06:16:27 -0000</pubDate>
-    <description>中文汉化包自动更新器 VintageStory-Chinese-Language-Package Updater</description>
   </item>
 </channel>
 </rss>
