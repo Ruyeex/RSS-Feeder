@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 16 Aug 2026 01:26:58 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 03:02:26 +0000</lastBuildDate>
+  <item>
+    <title>KRPG Enchantment</title>
+    <link>https://mods.vintagestory.at/show/mod/krpgenchantment</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krpgenchantment#2216</guid>
+    <pubDate>Sun, 16 Aug 2026 02:53:27 -0000</pubDate>
+    <description>Adds MC-like enchantment system to VS.</description>
+  </item>
+  <item>
+    <title>LauncherGo</title>
+    <link>https://mods.vintagestory.at/show/mod/launchergo</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergo#9280</guid>
+    <pubDate>Sun, 16 Aug 2026 02:48:52 -0000</pubDate>
+    <description>LauncherGo is a graphical server launcher for Vintage Story.</description>
+  </item>
+  <item>
+    <title>Offline No Spoil [Server-side Only]</title>
+    <link>https://mods.vintagestory.at/show/mod/offlinenospoil</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/offlinenospoil#10816</guid>
+    <pubDate>Sun, 16 Aug 2026 02:04:33 -0000</pubDate>
+    <description>Preserves perishable food in offline inventories and configured containers.</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Sun, 16 Aug 2026 01:56:43 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sun, 16 Aug 2026 01:45:33 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Full Sailboat Refund</title>
+    <link>https://mods.vintagestory.at/show/mod/8435</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8435#8435</guid>
+    <pubDate>Sun, 16 Aug 2026 01:27:33 -0000</pubDate>
+    <description>Get 100% of your sailboat back when you deconstruct it with a saw</description>
+  </item>
+  <item>
+    <title>Extra Ruins</title>
+    <link>https://mods.vintagestory.at/show/mod/8073</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8073#8073</guid>
+    <pubDate>Sun, 16 Aug 2026 01:27:22 -0000</pubDate>
+    <description>Adds extra vanilla-friendly ruins to the world, inspired by BetterRuins</description>
+  </item>
   <item>
     <title>Ores Drop Rocks</title>
     <link>https://mods.vintagestory.at/show/mod/7853</link>
@@ -55,6 +104,13 @@
     <description>Coils of rope can be made from flax twine and are cheaper</description>
   </item>
   <item>
+    <title>The PanserbjornStory (updated)</title>
+    <link>https://mods.vintagestory.at/show/mod/11015</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11015#11015</guid>
+    <pubDate>Sun, 16 Aug 2026 01:19:31 -0000</pubDate>
+    <description> (updated, NOT MY MOD)</description>
+  </item>
+  <item>
     <title>Algernon's Watersheds</title>
     <link>https://mods.vintagestory.at/show/mod/algernonswatersheds</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/algernonswatersheds#7286</guid>
@@ -67,13 +123,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/veganfat#11012</guid>
     <pubDate>Sun, 16 Aug 2026 00:51:44 -0000</pubDate>
     <description>Grind sunflower seeds into real vanilla rendered fat. No stand-in item, works in every fat recipe.</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sun, 16 Aug 2026 00:02:21 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
   <item>
     <title>Eggs Give Dairy</title>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/universaldisplaylib#10487</guid>
     <pubDate>Sat, 15 Aug 2026 21:46:58 -0000</pubDate>
     <description>The Lib has changed to be more than just windows so other modders can use it</description>
-  </item>
-  <item>
-    <title>Window Display - Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/windowdisplaypatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplaypatches#10532</guid>
-    <pubDate>Sat, 15 Aug 2026 21:45:23 -0000</pubDate>
-    <description>Used to add custom transforms and to enable the particles of items on display</description>
-  </item>
-  <item>
-    <title>Tile 'n All</title>
-    <link>https://mods.vintagestory.at/show/mod/tilenall</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tilenall#10537</guid>
-    <pubDate>Sat, 15 Aug 2026 21:42:35 -0000</pubDate>
-    <description>Spicing up the bathroom floor? Redecorating the kitchen? look no further, friend.</description>
-  </item>
-  <item>
-    <title>Magical Moon - FRustyMagic (Beta)</title>
-    <link>https://mods.vintagestory.at/show/mod/10975</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10975#10975</guid>
-    <pubDate>Sat, 15 Aug 2026 21:39:23 -0000</pubDate>
-    <description>An entirely in-world, small, moon magic mod. Play around with beams of light!</description>
-  </item>
-  <item>
-    <title>Claytile backport (1.22 -&gt; 1.21) </title>
-    <link>https://mods.vintagestory.at/show/mod/tilebackport</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tilebackport#10550</guid>
-    <pubDate>Sat, 15 Aug 2026 21:38:52 -0000</pubDate>
-    <description>[Sloppy ceramic noises]</description>
-  </item>
-  <item>
-    <title>Calm's Collectibles</title>
-    <link>https://mods.vintagestory.at/show/mod/calmscollectibles</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/calmscollectibles#11035</guid>
-    <pubDate>Sat, 15 Aug 2026 21:04:22 -0000</pubDate>
-    <description>Bookends, Figurines and Desk Picture Frame Plus, This mod places them in one settlement </description>
-  </item>
-  <item>
-    <title>Vintage Horizons</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagehorizons</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagehorizons#10511</guid>
-    <pubDate>Sat, 15 Aug 2026 20:59:29 -0000</pubDate>
-    <description>An LOD mod inspired by Distant Horizons, Farseer, Voxy, and ChunkLOD</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sat, 15 Aug 2026 20:50:28 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
   </item>
 </channel>
 </rss>
