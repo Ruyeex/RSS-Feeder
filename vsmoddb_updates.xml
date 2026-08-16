@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 16 Aug 2026 13:33:08 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 14:25:12 +0000</lastBuildDate>
+  <item>
+    <title>Offline No Spoil</title>
+    <link>https://mods.vintagestory.at/show/mod/offlinenospoil</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/offlinenospoil#10816</guid>
+    <pubDate>Sun, 16 Aug 2026 14:12:41 -0000</pubDate>
+    <description>Preserves perishable food in offline inventories and configured containers.</description>
+  </item>
+  <item>
+    <title>Realistic Biome Generation</title>
+    <link>https://mods.vintagestory.at/show/mod/8326</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8326#8326</guid>
+    <pubDate>Sun, 16 Aug 2026 14:10:56 -0000</pubDate>
+    <description>ONE Equator. ONE North Pole. ONE South Pole. On ANY world size. Plus custom spawn latitude.</description>
+  </item>
+  <item>
+    <title>Cave-Only Ore Spawns</title>
+    <link>https://mods.vintagestory.at/show/mod/8157</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8157#8157</guid>
+    <pubDate>Sun, 16 Aug 2026 14:10:37 -0000</pubDate>
+    <description>Ore spawns only in caves, on the cave walls, plus new modes for more efficent prospecting.</description>
+  </item>
+  <item>
+    <title>Rust Creatures Can Destroy Obstacles</title>
+    <link>https://mods.vintagestory.at/show/mod/8285</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8285#8285</guid>
+    <pubDate>Sun, 16 Aug 2026 14:10:09 -0000</pubDate>
+    <description>By default, they break blocks only during temporal storms and in caves. Highly configurable.</description>
+  </item>
+  <item>
+    <title>Fablewood Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Sun, 16 Aug 2026 13:58:37 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
+  <item>
+    <title>Dense Ground Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
+    <pubDate>Sun, 16 Aug 2026 13:51:28 -0000</pubDate>
+    <description>Place down more items per block and on chiseled blocks</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Sun, 16 Aug 2026 13:49:16 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title> Auto Map Markers (Client-Side Only)</title>
+    <link>https://mods.vintagestory.at/show/mod/automapmarkersclientside</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/automapmarkersclientside#11048</guid>
+    <pubDate>Sun, 16 Aug 2026 13:38:28 -0000</pubDate>
+    <description>Fork of Auto Map Markers — works with no server-side install required.</description>
+  </item>
   <item>
     <title>SheyderMod</title>
     <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
@@ -104,13 +160,6 @@
     <description>No wind? No river? Walk inside the wheel and power your machines with your own legs.</description>
   </item>
   <item>
-    <title>Fablewood Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Sun, 16 Aug 2026 09:05:57 -0000</pubDate>
-    <description>Harmony patches for compatibility.</description>
-  </item>
-  <item>
     <title>Chisel Wiz - Powerful chisel shortcuts</title>
     <link>https://mods.vintagestory.at/show/mod/chiselwiz</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiselwiz#4864</guid>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
     <pubDate>Sun, 16 Aug 2026 07:27:48 -0000</pubDate>
     <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>AECrate</title>
-    <link>https://mods.vintagestory.at/show/mod/aecrate</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aecrate#7832</guid>
-    <pubDate>Sun, 16 Aug 2026 07:12:18 -0000</pubDate>
-    <description>Shalker box in the Vintage Story world</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/10555</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
-    <pubDate>Sun, 16 Aug 2026 07:11:59 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>Compatibility Ecosystem Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemfloracompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemfloracompat#10091</guid>
-    <pubDate>Sun, 16 Aug 2026 07:10:10 -0000</pubDate>
-    <description>Supports for any participants in ecology patches</description>
-  </item>
-  <item>
-    <title>Achievements</title>
-    <link>https://mods.vintagestory.at/show/mod/achievements</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/achievements#8202</guid>
-    <pubDate>Sun, 16 Aug 2026 07:09:11 -0000</pubDate>
-    <description>Adds vanilla, lore, AllClasses, Hod and Primitive Survival Achievements and random rewards</description>
-  </item>
-  <item>
-    <title>KRPG Enchantment</title>
-    <link>https://mods.vintagestory.at/show/mod/krpgenchantment</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krpgenchantment#2216</guid>
-    <pubDate>Sun, 16 Aug 2026 06:59:43 -0000</pubDate>
-    <description>Adds MC-like enchantment system to VS.</description>
-  </item>
-  <item>
-    <title>C&amp;N Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/canclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canclaims#589</guid>
-    <pubDate>Sun, 16 Aug 2026 06:55:37 -0000</pubDate>
-    <description>Land protection mod.</description>
-  </item>
-  <item>
-    <title>More Blood Thingies!</title>
-    <link>https://mods.vintagestory.at/show/mod/10959</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
-    <pubDate>Sun, 16 Aug 2026 06:49:22 -0000</pubDate>
-    <description>Adds all the features for bloodbread that should have been.</description>
   </item>
 </channel>
 </rss>
