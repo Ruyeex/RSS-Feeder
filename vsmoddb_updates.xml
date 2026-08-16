@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 16 Aug 2026 11:22:24 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 12:42:35 +0000</lastBuildDate>
+  <item>
+    <title>Waypoints NextGen</title>
+    <link>https://mods.vintagestory.at/show/mod/waypointsnextgen</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waypointsnextgen#8373</guid>
+    <pubDate>Sun, 16 Aug 2026 12:29:31 -0000</pubDate>
+    <description>Adds +200 waypoint icons: food, ores, traders, craft buildings, conveyors, and more.</description>
+  </item>
+  <item>
+    <title>QP's Chisel Tools</title>
+    <link>https://mods.vintagestory.at/show/mod/chiseltools</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseltools#604</guid>
+    <pubDate>Sun, 16 Aug 2026 12:16:09 -0000</pubDate>
+    <description>Unleash your creativity while chiseling! Invaluable, survival friendly tool set for chiselers!</description>
+  </item>
+  <item>
+    <title>Sky's TerraTag SoundPack</title>
+    <link>https://mods.vintagestory.at/show/mod/skysterratagsoundpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skysterratagsoundpack#11046</guid>
+    <pubDate>Sun, 16 Aug 2026 11:54:41 -0000</pubDate>
+    <description>Various sounds and music for TerraTag.</description>
+  </item>
+  <item>
+    <title>Free Immersive Craft</title>
+    <link>https://mods.vintagestory.at/show/mod/freeimmersivecraft</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/freeimmersivecraft#8749</guid>
+    <pubDate>Sun, 16 Aug 2026 11:42:21 -0000</pubDate>
+    <description>Craft single-ingredient recipes in-world… Ghost recipe overlay, cycling recipes, server-safe.</description>
+  </item>
   <item>
     <title>Vintage Canvas</title>
     <link>https://mods.vintagestory.at/show/mod/vintagecanvas</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpackupdater#10107</guid>
     <pubDate>Sun, 16 Aug 2026 06:16:27 -0000</pubDate>
     <description>中文汉化包自动更新器 VintageStory-Chinese-Language-Package Updater</description>
-  </item>
-  <item>
-    <title>Tyeia's Boat Speed Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tyeiaboatspeedtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tyeiaboatspeedtweaks#10832</guid>
-    <pubDate>Sun, 16 Aug 2026 05:31:01 -0000</pubDate>
-    <description>Adjusts the speed of boats and provides configuration for boat speed.</description>
-  </item>
-  <item>
-    <title>Better Husbandry</title>
-    <link>https://mods.vintagestory.at/show/mod/betterhusbandry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhusbandry#11009</guid>
-    <pubDate>Sun, 16 Aug 2026 04:59:41 -0000</pubDate>
-    <description>Changes animal husbandry by rewarding players for petting and feeding their animals.</description>
-  </item>
-  <item>
-    <title>Rift Traveler</title>
-    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
-    <pubDate>Sun, 16 Aug 2026 04:04:30 -0000</pubDate>
-    <description>Explore rifts, craft temporal tech, teleport home, and transmit cargo across space</description>
-  </item>
-  <item>
-    <title>Fablewood Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Sun, 16 Aug 2026 03:39:01 -0000</pubDate>
-    <description>JSON content patches</description>
   </item>
 </channel>
 </rss>
