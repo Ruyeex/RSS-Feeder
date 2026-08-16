@@ -4,13 +4,34 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 16 Aug 2026 16:27:50 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 17:21:23 +0000</lastBuildDate>
+  <item>
+    <title>TaborServers</title>
+    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
+    <pubDate>Sun, 16 Aug 2026 17:16:55 -0000</pubDate>
+    <description>Patches fo most of Tabor servers</description>
+  </item>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Sun, 16 Aug 2026 16:57:06 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>EternalDice</title>
+    <link>https://mods.vintagestory.at/show/mod/eternaldice</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternaldice#11023</guid>
+    <pubDate>Sun, 16 Aug 2026 16:37:02 -0000</pubDate>
+    <description>Roll the dice!</description>
+  </item>
   <item>
     <title>Boric Alchemy</title>
     <link>https://mods.vintagestory.at/show/mod/5577</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
     <pubDate>Sun, 16 Aug 2026 16:18:34 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
   </item>
   <item>
     <title>Fablewood Skills</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waypointsnextgen#8373</guid>
     <pubDate>Sun, 16 Aug 2026 12:29:31 -0000</pubDate>
     <description>Adds +200 waypoint icons: food, ores, traders, craft buildings, conveyors, and more.</description>
-  </item>
-  <item>
-    <title>QP's Chisel Tools</title>
-    <link>https://mods.vintagestory.at/show/mod/chiseltools</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseltools#604</guid>
-    <pubDate>Sun, 16 Aug 2026 12:16:09 -0000</pubDate>
-    <description>Unleash your creativity while chiseling! Invaluable, survival friendly tool set for chiselers!</description>
-  </item>
-  <item>
-    <title>Sky's TerraTag SoundPack</title>
-    <link>https://mods.vintagestory.at/show/mod/skysterratagsoundpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skysterratagsoundpack#11046</guid>
-    <pubDate>Sun, 16 Aug 2026 11:54:41 -0000</pubDate>
-    <description>Various sounds and music for TerraTag.</description>
-  </item>
-  <item>
-    <title>Free Immersive Craft</title>
-    <link>https://mods.vintagestory.at/show/mod/freeimmersivecraft</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/freeimmersivecraft#8749</guid>
-    <pubDate>Sun, 16 Aug 2026 11:42:21 -0000</pubDate>
-    <description>Craft single-ingredient recipes in-world… Ghost recipe overlay, cycling recipes, server-safe.</description>
   </item>
 </channel>
 </rss>
