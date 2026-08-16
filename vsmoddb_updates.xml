@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 16 Aug 2026 15:23:49 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 16:27:50 +0000</lastBuildDate>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Sun, 16 Aug 2026 16:18:34 -0000</pubDate>
+    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
+  </item>
+  <item>
+    <title>Fablewood Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Sun, 16 Aug 2026 16:14:48 -0000</pubDate>
+    <description>Skill and class mod for the Fablewood server</description>
+  </item>
+  <item>
+    <title>Primitive Survival</title>
+    <link>https://mods.vintagestory.at/show/mod/primitivesurvival</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/primitivesurvival#322</guid>
+    <pubDate>Sun, 16 Aug 2026 16:13:07 -0000</pubDate>
+    <description>Fishing, trapping, irrigation, smoker, nightcrawlers, snakes, and much more!</description>
+  </item>
+  <item>
+    <title>Starting Kits</title>
+    <link>https://mods.vintagestory.at/show/mod/startingkits</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/startingkits#11057</guid>
+    <pubDate>Sun, 16 Aug 2026 16:01:54 -0000</pubDate>
+    <description>Starting Kits to enhance your start of the game by giving you extra items.</description>
+  </item>
+  <item>
+    <title>All Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/allclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/allclasses#2689</guid>
+    <pubDate>Sun, 16 Aug 2026 15:52:50 -0000</pubDate>
+    <description>All classes mod adds 13 more (RP) classes. New metal pots, pans and more..</description>
+  </item>
+  <item>
+    <title>Uranium Expanded (Metals and Tools)</title>
+    <link>https://mods.vintagestory.at/show/mod/uraniumexpanded</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/uraniumexpanded#5981</guid>
+    <pubDate>Sun, 16 Aug 2026 15:49:53 -0000</pubDate>
+    <description>Adds uranium based alloys, adds uranium glass, tools and uranium fever.</description>
+  </item>
+  <item>
+    <title>Mod Menu</title>
+    <link>https://mods.vintagestory.at/show/mod/modmenu</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modmenu#11055</guid>
+    <pubDate>Sun, 16 Aug 2026 15:35:50 -0000</pubDate>
+    <description>Mod Menu with alot of useful features.</description>
+  </item>
   <item>
     <title>SteamworksElectricalProgressive</title>
     <link>https://mods.vintagestory.at/show/mod/11053</link>
@@ -17,7 +66,7 @@
     <link>https://mods.vintagestory.at/show/mod/plumastacks</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plumastacks#10530</guid>
     <pubDate>Sun, 16 Aug 2026 15:11:07 -0000</pubDate>
-    <description>Another Simple Stack Size mod because i was dissatisfied with the others</description>
+    <description>Another Simple Stack Size mod because I was dissatisfied with the others</description>
   </item>
   <item>
     <title>GamepadCompanionVS</title>
@@ -104,13 +153,6 @@
     <description>Place down more items per block and on chiseled blocks</description>
   </item>
   <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Sun, 16 Aug 2026 13:49:16 -0000</pubDate>
-    <description>Boric Alchemy adds chemical routes to create and refine resources, and create alchemical marvels!</description>
-  </item>
-  <item>
     <title> Auto Map Markers (Client-Side Only)</title>
     <link>https://mods.vintagestory.at/show/mod/automapmarkersclientside</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/automapmarkersclientside#11048</guid>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/freeimmersivecraft#8749</guid>
     <pubDate>Sun, 16 Aug 2026 11:42:21 -0000</pubDate>
     <description>Craft single-ingredient recipes in-world… Ghost recipe overlay, cycling recipes, server-safe.</description>
-  </item>
-  <item>
-    <title>Vintage Canvas</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagecanvas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagecanvas#9406</guid>
-    <pubDate>Sun, 16 Aug 2026 11:21:13 -0000</pubDate>
-    <description>Craft canvases, mix paint, and use brushes to decorate your world!</description>
-  </item>
-  <item>
-    <title>Temporally Stable Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tstweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tstweaks#5193</guid>
-    <pubDate>Sun, 16 Aug 2026 10:35:08 -0000</pubDate>
-    <description>Various tweaks for the Temporally Stable server.</description>
-  </item>
-  <item>
-    <title>Downed</title>
-    <link>https://mods.vintagestory.at/show/mod/downed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
-    <pubDate>Sun, 16 Aug 2026 09:49:50 -0000</pubDate>
-    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Sun, 16 Aug 2026 09:41:23 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
-    <title>Immersive Clay Working</title>
-    <link>https://mods.vintagestory.at/show/mod/immersiveclayworking</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersiveclayworking#11044</guid>
-    <pubDate>Sun, 16 Aug 2026 09:33:30 -0000</pubDate>
-    <description>Adds break chance when firing clay items in the pitkiln and beehive kiln. Manage break risk by using</description>
-  </item>
-  <item>
-    <title>TreadWheel</title>
-    <link>https://mods.vintagestory.at/show/mod/treadwheel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/treadwheel#11045</guid>
-    <pubDate>Sun, 16 Aug 2026 09:16:14 -0000</pubDate>
-    <description>No wind? No river? Walk inside the wheel and power your machines with your own legs.</description>
   </item>
 </channel>
 </rss>
