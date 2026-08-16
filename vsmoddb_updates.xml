@@ -4,7 +4,98 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 15 Aug 2026 23:22:08 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 01:26:58 +0000</lastBuildDate>
+  <item>
+    <title>Ores Drop Rocks</title>
+    <link>https://mods.vintagestory.at/show/mod/7853</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7853#7853</guid>
+    <pubDate>Sun, 16 Aug 2026 01:26:15 -0000</pubDate>
+    <description>Ore blocks drop stones from their host material as well as more realistic stone mining speeds.</description>
+  </item>
+  <item>
+    <title>Realistic Monster Loot</title>
+    <link>https://mods.vintagestory.at/show/mod/7630</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7630#7630</guid>
+    <pubDate>Sun, 16 Aug 2026 01:26:03 -0000</pubDate>
+    <description>Adds new realistic item drops to Drifters, Shivers, Bowtorns, and Locusts</description>
+  </item>
+  <item>
+    <title>Cheaper Metal Blocks</title>
+    <link>https://mods.vintagestory.at/show/mod/7610</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7610#7610</guid>
+    <pubDate>Sun, 16 Aug 2026 01:25:53 -0000</pubDate>
+    <description>Riveted metal blocks cost less metal plates</description>
+  </item>
+  <item>
+    <title>Realistic Panning Loot</title>
+    <link>https://mods.vintagestory.at/show/mod/7581</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7581#7581</guid>
+    <pubDate>Sun, 16 Aug 2026 01:25:42 -0000</pubDate>
+    <description>Adds new realistic loot from panning</description>
+  </item>
+  <item>
+    <title>Bronze Meteoric Mining</title>
+    <link>https://mods.vintagestory.at/show/mod/7580</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7580#7580</guid>
+    <pubDate>Sun, 16 Aug 2026 01:25:30 -0000</pubDate>
+    <description>Meteoric Iron can be mined with a pickaxe, worked on a bronze anvil, and more.</description>
+  </item>
+  <item>
+    <title>Rust Iron into Scrap</title>
+    <link>https://mods.vintagestory.at/show/mod/7548</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7548#7548</guid>
+    <pubDate>Sun, 16 Aug 2026 01:25:09 -0000</pubDate>
+    <description>Iron items sealed in barrels rust and produce metal scrap</description>
+  </item>
+  <item>
+    <title>Coils of Rope from Flax</title>
+    <link>https://mods.vintagestory.at/show/mod/coilsofropefromflax</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/coilsofropefromflax#7251</guid>
+    <pubDate>Sun, 16 Aug 2026 01:24:54 -0000</pubDate>
+    <description>Coils of rope can be made from flax twine and are cheaper</description>
+  </item>
+  <item>
+    <title>Algernon's Watersheds</title>
+    <link>https://mods.vintagestory.at/show/mod/algernonswatersheds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/algernonswatersheds#7286</guid>
+    <pubDate>Sun, 16 Aug 2026 01:03:22 -0000</pubDate>
+    <description>Worldgen revamp using a Watershed model. Adds meandering streams, groundwater, and erosion</description>
+  </item>
+  <item>
+    <title>Vegan Fat</title>
+    <link>https://mods.vintagestory.at/show/mod/veganfat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/veganfat#11012</guid>
+    <pubDate>Sun, 16 Aug 2026 00:51:44 -0000</pubDate>
+    <description>Grind sunflower seeds into real vanilla rendered fat. No stand-in item, works in every fat recipe.</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sun, 16 Aug 2026 00:02:21 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Eggs Give Dairy</title>
+    <link>https://mods.vintagestory.at/show/mod/11038</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11038#11038</guid>
+    <pubDate>Sat, 15 Aug 2026 23:39:04 -0000</pubDate>
+    <description>Changes egg nutrition from protein to dairy.</description>
+  </item>
+  <item>
+    <title>Wafuku</title>
+    <link>https://mods.vintagestory.at/show/mod/11037</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11037#11037</guid>
+    <pubDate>Sat, 15 Aug 2026 23:27:58 -0000</pubDate>
+    <description>Garments and masks inspired by traditional Japanese clothing</description>
+  </item>
+  <item>
+    <title>Tallybook</title>
+    <link>https://mods.vintagestory.at/show/mod/10864</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
+    <pubDate>Sat, 15 Aug 2026 23:25:35 -0000</pubDate>
+    <description>Crafting shopping list, quest tracker, story guide, and world/player reference. Fully client-side.</description>
+  </item>
   <item>
     <title>Animalica - Abilities</title>
     <link>https://mods.vintagestory.at/show/mod/animalicaa</link>
@@ -69,13 +160,6 @@
     <description>Informative fancy HUD</description>
   </item>
   <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sat, 15 Aug 2026 21:55:49 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
     <title>Universal Display Lib</title>
     <link>https://mods.vintagestory.at/show/mod/universaldisplaylib</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/universaldisplaylib#10487</guid>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
     <pubDate>Sat, 15 Aug 2026 20:50:28 -0000</pubDate>
     <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Bookends</title>
-    <link>https://mods.vintagestory.at/show/mod/bookends</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bookends#5329</guid>
-    <pubDate>Sat, 15 Aug 2026 20:01:07 -0000</pubDate>
-    <description>This adds Bookends, to use on bookshelves</description>
-  </item>
-  <item>
-    <title>Figurines</title>
-    <link>https://mods.vintagestory.at/show/mod/figurines</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/figurines#4792</guid>
-    <pubDate>Sat, 15 Aug 2026 19:52:49 -0000</pubDate>
-    <description>This mod adds Figurines</description>
-  </item>
-  <item>
-    <title>Racial Classes Overhaul</title>
-    <link>https://mods.vintagestory.at/show/mod/racialclassesoverhaul</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/racialclassesoverhaul#7007</guid>
-    <pubDate>Sat, 15 Aug 2026 19:50:12 -0000</pubDate>
-    <description>I am not a modder. This was made using Google Antigravity. I have no idea what I'm doing.</description>
-  </item>
-  <item>
-    <title>Holdfast Theme Pack: GB's Simple Builds</title>
-    <link>https://mods.vintagestory.at/show/mod/10715</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10715#10715</guid>
-    <pubDate>Sat, 15 Aug 2026 19:48:08 -0000</pubDate>
-    <description>Earlygame theme pack for the Holdfast mod.</description>
-  </item>
-  <item>
-    <title>Desk Picture Frame Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/deskpictureframe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deskpictureframe#5163</guid>
-    <pubDate>Sat, 15 Aug 2026 19:45:14 -0000</pubDate>
-    <description>Adds Desk Picture Frames and Wall Frames - Can add your own images via the mod config folder</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Sat, 15 Aug 2026 19:21:38 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
-    <title>C&amp;N Events</title>
-    <link>https://mods.vintagestory.at/show/mod/canevents</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
-    <pubDate>Sat, 15 Aug 2026 19:18:40 -0000</pubDate>
-    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
-  </item>
-  <item>
-    <title>ESFS</title>
-    <link>https://mods.vintagestory.at/show/mod/esfs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/esfs#11034</guid>
-    <pubDate>Sat, 15 Aug 2026 19:16:06 -0000</pubDate>
-    <description>Ecosystem — Flower Seeds</description>
-  </item>
-  <item>
-    <title>Rift Traveler</title>
-    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
-    <pubDate>Sat, 15 Aug 2026 18:55:27 -0000</pubDate>
-    <description>Explore rifts, craft temporal tech, teleport home, and transmit cargo across space</description>
-  </item>
-  <item>
-    <title>Salty´s Effortless Structures</title>
-    <link>https://mods.vintagestory.at/show/mod/effortlesstructures</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/effortlesstructures#6732</guid>
-    <pubDate>Sat, 15 Aug 2026 18:44:59 -0000</pubDate>
-    <description>It's Effortless Building for Vintage Story!</description>
-  </item>
-  <item>
-    <title>KCs Synth Player</title>
-    <link>https://mods.vintagestory.at/show/mod/kcssynths</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcssynths#10386</guid>
-    <pubDate>Sat, 15 Aug 2026 18:34:57 -0000</pubDate>
-    <description>Adds a synth player model to the game</description>
-  </item>
-  <item>
-    <title>Waxlight Launcher</title>
-    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
-    <pubDate>Sat, 15 Aug 2026 18:26:20 -0000</pubDate>
-    <description>A sleek Vintage Story launcher for instances, mods, accounts and playtime tracking.</description>
   </item>
 </channel>
 </rss>
