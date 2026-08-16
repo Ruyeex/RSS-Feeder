@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 16 Aug 2026 18:31:51 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 19:22:21 +0000</lastBuildDate>
+  <item>
+    <title>Tile 'n All</title>
+    <link>https://mods.vintagestory.at/show/mod/tilenall</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tilenall#10537</guid>
+    <pubDate>Sun, 16 Aug 2026 19:14:25 -0000</pubDate>
+    <description>Spicing up the bathroom floor? Redecorating the kitchen? look no further, friend.</description>
+  </item>
+  <item>
+    <title>Claytile backport (1.22 -&gt; 1.21) </title>
+    <link>https://mods.vintagestory.at/show/mod/tilebackport</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tilebackport#10550</guid>
+    <pubDate>Sun, 16 Aug 2026 19:13:03 -0000</pubDate>
+    <description>[Sloppy ceramic noises]</description>
+  </item>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Sun, 16 Aug 2026 19:08:45 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>RLMoonSun</title>
+    <link>https://mods.vintagestory.at/show/mod/rlmoonsun</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rlmoonsun#735</guid>
+    <pubDate>Sun, 16 Aug 2026 18:56:38 -0000</pubDate>
+    <description>Changes the texture from the sun and moon to a more realistic one.</description>
+  </item>
+  <item>
+    <title>BetterTraders</title>
+    <link>https://mods.vintagestory.at/show/mod/bettertraders</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettertraders#1183</guid>
+    <pubDate>Sun, 16 Aug 2026 18:56:27 -0000</pubDate>
+    <description>Replaces vanilla traders with new trader structures.</description>
+  </item>
+  <item>
+    <title>BetterRuins</title>
+    <link>https://mods.vintagestory.at/show/mod/betterruins</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterruins#792</guid>
+    <pubDate>Sun, 16 Aug 2026 18:56:15 -0000</pubDate>
+    <description>Adds many new ruins over and underground to your survival game world.</description>
+  </item>
+  <item>
+    <title>PlantAnythingAPI</title>
+    <link>https://mods.vintagestory.at/show/mod/plantanythingapi</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plantanythingapi#11062</guid>
+    <pubDate>Sun, 16 Aug 2026 18:55:15 -0000</pubDate>
+    <description>API that allows other mods to give items the ability to be planted. Only requires simple json patch.</description>
+  </item>
   <item>
     <title>Bacon Bacon Bacon</title>
     <link>https://mods.vintagestory.at/show/mod/baconbaconbacon</link>
@@ -39,13 +88,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
     <pubDate>Sun, 16 Aug 2026 17:16:55 -0000</pubDate>
     <description>Patches fo most of Tabor servers</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Sun, 16 Aug 2026 16:57:06 -0000</pubDate>
-    <description>Making flora living</description>
   </item>
   <item>
     <title>EternalDice</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8157#8157</guid>
     <pubDate>Sun, 16 Aug 2026 14:10:37 -0000</pubDate>
     <description>Ore spawns only in caves, on the cave walls, plus new modes for more efficent prospecting.</description>
-  </item>
-  <item>
-    <title>Rust Creatures Can Destroy Obstacles</title>
-    <link>https://mods.vintagestory.at/show/mod/8285</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8285#8285</guid>
-    <pubDate>Sun, 16 Aug 2026 14:10:09 -0000</pubDate>
-    <description>By default, they break blocks only during temporal storms and in caves. Highly configurable.</description>
-  </item>
-  <item>
-    <title>Fablewood Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Sun, 16 Aug 2026 13:58:37 -0000</pubDate>
-    <description>Harmony patches for compatibility.</description>
-  </item>
-  <item>
-    <title>Dense Ground Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
-    <pubDate>Sun, 16 Aug 2026 13:51:28 -0000</pubDate>
-    <description>Place down more items per block and on chiseled blocks</description>
-  </item>
-  <item>
-    <title> Auto Map Markers (Client-Side Only)</title>
-    <link>https://mods.vintagestory.at/show/mod/automapmarkersclientside</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/automapmarkersclientside#11048</guid>
-    <pubDate>Sun, 16 Aug 2026 13:38:28 -0000</pubDate>
-    <description>Fork of Auto Map Markers — works with no server-side install required.</description>
-  </item>
-  <item>
-    <title>SheyderMod</title>
-    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
-    <pubDate>Sun, 16 Aug 2026 13:18:29 -0000</pubDate>
-    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
-  </item>
-  <item>
-    <title>Clothes Have Pockets</title>
-    <link>https://mods.vintagestory.at/show/mod/clotheshavepockets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clotheshavepockets#10218</guid>
-    <pubDate>Sun, 16 Aug 2026 13:11:02 -0000</pubDate>
-    <description>Adds pockets (inventory slots) to various clothing items</description>
   </item>
 </channel>
 </rss>
