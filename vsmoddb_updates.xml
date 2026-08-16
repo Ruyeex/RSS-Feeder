@@ -4,13 +4,97 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 16 Aug 2026 03:02:26 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 04:37:58 +0000</lastBuildDate>
+  <item>
+    <title>Rift Traveler</title>
+    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
+    <pubDate>Sun, 16 Aug 2026 04:04:30 -0000</pubDate>
+    <description>Explore rifts, craft temporal tech, teleport home, and transmit cargo across space</description>
+  </item>
   <item>
     <title>KRPG Enchantment</title>
     <link>https://mods.vintagestory.at/show/mod/krpgenchantment</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krpgenchantment#2216</guid>
-    <pubDate>Sun, 16 Aug 2026 02:53:27 -0000</pubDate>
+    <pubDate>Sun, 16 Aug 2026 03:42:15 -0000</pubDate>
     <description>Adds MC-like enchantment system to VS.</description>
+  </item>
+  <item>
+    <title>Fablewood Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
+    <pubDate>Sun, 16 Aug 2026 03:39:01 -0000</pubDate>
+    <description>JSON content patches</description>
+  </item>
+  <item>
+    <title>Fablewood Economy</title>
+    <link>https://mods.vintagestory.at/show/mod/9634</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9634#9634</guid>
+    <pubDate>Sun, 16 Aug 2026 03:38:00 -0000</pubDate>
+    <description>Economy mod</description>
+  </item>
+  <item>
+    <title>Fablewood Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Sun, 16 Aug 2026 03:35:55 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
+  <item>
+    <title>Fablewood Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Sun, 16 Aug 2026 03:34:10 -0000</pubDate>
+    <description>Skill and class mod for the Fablewood server</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sun, 16 Aug 2026 03:27:11 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>TassDownedTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tassdownedtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassdownedtweaks#10700</guid>
+    <pubDate>Sun, 16 Aug 2026 03:24:17 -0000</pubDate>
+    <description>Tweaks to the downed mod to add Kenshi like behavior</description>
+  </item>
+  <item>
+    <title>TassFactions</title>
+    <link>https://mods.vintagestory.at/show/mod/10503</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
+    <pubDate>Sun, 16 Aug 2026 03:21:26 -0000</pubDate>
+    <description>Factions - Raids - Sieges - Shops - Bounty</description>
+  </item>
+  <item>
+    <title>RedLight [1.22]</title>
+    <link>https://mods.vintagestory.at/show/mod/redlight</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/redlight#8478</guid>
+    <pubDate>Sun, 16 Aug 2026 03:17:34 -0000</pubDate>
+    <description>No more LED lanterns.</description>
+  </item>
+  <item>
+    <title>TassHardcoreWinter</title>
+    <link>https://mods.vintagestory.at/show/mod/tasshardcorewinter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshardcorewinter#10500</guid>
+    <pubDate>Sun, 16 Aug 2026 03:16:03 -0000</pubDate>
+    <description>Deeper snow, white out blizzards, restorative spring, realistic room temperature, heat source rework</description>
+  </item>
+  <item>
+    <title>LibGUI - Toolsmith patch</title>
+    <link>https://mods.vintagestory.at/show/mod/11022</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11022#11022</guid>
+    <pubDate>Sun, 16 Aug 2026 03:15:17 -0000</pubDate>
+    <description>A LibGUI patch for Toolsmith sharpness</description>
+  </item>
+  <item>
+    <title>Prospector's Instinct</title>
+    <link>https://mods.vintagestory.at/show/mod/prospectorsinstinct</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/prospectorsinstinct#10192</guid>
+    <pubDate>Sun, 16 Aug 2026 03:10:01 -0000</pubDate>
+    <description>Subtle particle guidance that helps locate nearby ore while preserving the spirit of prospecting.</description>
   </item>
   <item>
     <title>LauncherGo</title>
@@ -32,13 +116,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
     <pubDate>Sun, 16 Aug 2026 01:56:43 -0000</pubDate>
     <description>The factory must grow!</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sun, 16 Aug 2026 01:45:33 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
   <item>
     <title>Full Sailboat Refund</title>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11037#11037</guid>
     <pubDate>Sat, 15 Aug 2026 23:27:58 -0000</pubDate>
     <description>Garments and masks inspired by traditional Japanese clothing</description>
-  </item>
-  <item>
-    <title>Tallybook</title>
-    <link>https://mods.vintagestory.at/show/mod/10864</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
-    <pubDate>Sat, 15 Aug 2026 23:25:35 -0000</pubDate>
-    <description>Crafting shopping list, quest tracker, story guide, and world/player reference. Fully client-side.</description>
-  </item>
-  <item>
-    <title>Animalica - Abilities</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicaa</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaa#10949</guid>
-    <pubDate>Sat, 15 Aug 2026 23:14:16 -0000</pubDate>
-    <description>Species-gated Scent and Night Sight for Animalica and compatible player models. (more soon)</description>
-  </item>
-  <item>
-    <title>Combat Overhaul Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/combatoverhaulforked</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/combatoverhaulforked#8415</guid>
-    <pubDate>Sat, 15 Aug 2026 22:53:54 -0000</pubDate>
-    <description>1.22 fork</description>
-  </item>
-  <item>
-    <title>RedLight [1.22]</title>
-    <link>https://mods.vintagestory.at/show/mod/redlight</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/redlight#8478</guid>
-    <pubDate>Sat, 15 Aug 2026 22:44:24 -0000</pubDate>
-    <description>No more LED lanterns.</description>
-  </item>
-  <item>
-    <title>Rudiments</title>
-    <link>https://mods.vintagestory.at/show/mod/9305</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
-    <pubDate>Sat, 15 Aug 2026 22:36:47 -0000</pubDate>
-    <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
-  </item>
-  <item>
-    <title>More Grass From Knives</title>
-    <link>https://mods.vintagestory.at/show/mod/10985</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10985#10985</guid>
-    <pubDate>Sat, 15 Aug 2026 22:18:56 -0000</pubDate>
-    <description>Tall grass now drops twice as much when using knives and scythes</description>
-  </item>
-  <item>
-    <title>TaborServers</title>
-    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
-    <pubDate>Sat, 15 Aug 2026 22:15:36 -0000</pubDate>
-    <description>Patches fo most of Tabor servers</description>
-  </item>
-  <item>
-    <title>LibGUI - Toolsmith patch</title>
-    <link>https://mods.vintagestory.at/show/mod/11022</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11022#11022</guid>
-    <pubDate>Sat, 15 Aug 2026 22:08:00 -0000</pubDate>
-    <description>A LibGUI patch for Toolsmith sharpness</description>
-  </item>
-  <item>
-    <title>Calendar Handbook</title>
-    <link>https://mods.vintagestory.at/show/mod/calendarhandbook</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/calendarhandbook#11003</guid>
-    <pubDate>Sat, 15 Aug 2026 22:01:10 -0000</pubDate>
-    <description>Adds a calender showing your progress through the year and how far away winter is.</description>
-  </item>
-  <item>
-    <title>FancyHUD</title>
-    <link>https://mods.vintagestory.at/show/mod/10935</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10935#10935</guid>
-    <pubDate>Sat, 15 Aug 2026 21:58:51 -0000</pubDate>
-    <description>Informative fancy HUD</description>
-  </item>
-  <item>
-    <title>Universal Display Lib</title>
-    <link>https://mods.vintagestory.at/show/mod/universaldisplaylib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/universaldisplaylib#10487</guid>
-    <pubDate>Sat, 15 Aug 2026 21:46:58 -0000</pubDate>
-    <description>The Lib has changed to be more than just windows so other modders can use it</description>
   </item>
 </channel>
 </rss>
