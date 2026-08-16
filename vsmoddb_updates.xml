@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 16 Aug 2026 05:30:29 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 06:42:20 +0000</lastBuildDate>
+  <item>
+    <title>Fablewood Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Sun, 16 Aug 2026 06:16:31 -0000</pubDate>
+    <description>Skill and class mod for the Fablewood server</description>
+  </item>
+  <item>
+    <title>VSCN Language Pack Updater</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnlangpackupdater</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpackupdater#10107</guid>
+    <pubDate>Sun, 16 Aug 2026 06:16:27 -0000</pubDate>
+    <description>中文汉化包自动更新器 VintageStory-Chinese-Language-Package Updater</description>
+  </item>
+  <item>
+    <title>Fablewood Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Sun, 16 Aug 2026 06:14:53 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
+  <item>
+    <title>VS Instruments Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/10555</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
+    <pubDate>Sun, 16 Aug 2026 05:44:39 -0000</pubDate>
+    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
+  </item>
+  <item>
+    <title>Tyeia's Boat Speed Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tyeiaboatspeedtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tyeiaboatspeedtweaks#10832</guid>
+    <pubDate>Sun, 16 Aug 2026 05:31:01 -0000</pubDate>
+    <description>Adjusts the speed of boats and provides configuration for boat speed.</description>
+  </item>
   <item>
     <title>Better Husbandry</title>
     <link>https://mods.vintagestory.at/show/mod/betterhusbandry</link>
@@ -39,20 +74,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9634#9634</guid>
     <pubDate>Sun, 16 Aug 2026 03:38:00 -0000</pubDate>
     <description>Economy mod</description>
-  </item>
-  <item>
-    <title>Fablewood Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Sun, 16 Aug 2026 03:35:55 -0000</pubDate>
-    <description>Harmony patches for compatibility.</description>
-  </item>
-  <item>
-    <title>Fablewood Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/10778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
-    <pubDate>Sun, 16 Aug 2026 03:34:10 -0000</pubDate>
-    <description>Skill and class mod for the Fablewood server</description>
   </item>
   <item>
     <title>Solaria's Solace Server Tweaks</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11015#11015</guid>
     <pubDate>Sun, 16 Aug 2026 01:19:31 -0000</pubDate>
     <description> (updated, NOT MY MOD)</description>
-  </item>
-  <item>
-    <title>Algernon's Watersheds</title>
-    <link>https://mods.vintagestory.at/show/mod/algernonswatersheds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/algernonswatersheds#7286</guid>
-    <pubDate>Sun, 16 Aug 2026 01:03:22 -0000</pubDate>
-    <description>Worldgen revamp using a Watershed model. Adds meandering streams, groundwater, and erosion</description>
-  </item>
-  <item>
-    <title>Vegan Fat</title>
-    <link>https://mods.vintagestory.at/show/mod/veganfat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/veganfat#11012</guid>
-    <pubDate>Sun, 16 Aug 2026 00:51:44 -0000</pubDate>
-    <description>Grind sunflower seeds into real vanilla rendered fat. No stand-in item, works in every fat recipe.</description>
-  </item>
-  <item>
-    <title>Eggs Give Dairy</title>
-    <link>https://mods.vintagestory.at/show/mod/11038</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11038#11038</guid>
-    <pubDate>Sat, 15 Aug 2026 23:39:04 -0000</pubDate>
-    <description>Changes egg nutrition from protein to dairy.</description>
   </item>
 </channel>
 </rss>
