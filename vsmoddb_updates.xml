@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 16 Aug 2026 14:25:12 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 15:23:49 +0000</lastBuildDate>
+  <item>
+    <title>SteamworksElectricalProgressive</title>
+    <link>https://mods.vintagestory.at/show/mod/11053</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11053#11053</guid>
+    <pubDate>Sun, 16 Aug 2026 15:21:57 -0000</pubDate>
+    <description>This mod builds hands-on steam systems, bridging dangerous boilers and early electric power.</description>
+  </item>
+  <item>
+    <title>Plumas Customizable Stack Sizes</title>
+    <link>https://mods.vintagestory.at/show/mod/plumastacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plumastacks#10530</guid>
+    <pubDate>Sun, 16 Aug 2026 15:11:07 -0000</pubDate>
+    <description>Another Simple Stack Size mod because i was dissatisfied with the others</description>
+  </item>
+  <item>
+    <title>GamepadCompanionVS</title>
+    <link>https://mods.vintagestory.at/show/mod/8669</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8669#8669</guid>
+    <pubDate>Sun, 16 Aug 2026 15:09:53 -0000</pubDate>
+    <description>Native gamepad support for Vintage Story 1.22+ — 12-slot radial menu, virtual cursor for GUI, etc. </description>
+  </item>
+  <item>
+    <title>steamworks</title>
+    <link>https://mods.vintagestory.at/show/mod/9040</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9040#9040</guid>
+    <pubDate>Sun, 16 Aug 2026 15:04:30 -0000</pubDate>
+    <description>Steamworks adds late‑game steam power: boilers, engines, pumps, pipes, and a powered sawmill.</description>
+  </item>
+  <item>
+    <title>Grappling Hook. </title>
+    <link>https://mods.vintagestory.at/show/mod/grapplinghook</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grapplinghook#11050</guid>
+    <pubDate>Sun, 16 Aug 2026 15:02:55 -0000</pubDate>
+    <description>Swing, climb and interact with entities while traversing the world.</description>
+  </item>
+  <item>
+    <title>Project Merezha - Client Preview</title>
+    <link>https://mods.vintagestory.at/show/mod/merezha</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/merezha#10240</guid>
+    <pubDate>Sun, 16 Aug 2026 15:02:10 -0000</pubDate>
+    <description>Early client support for an upcoming Vintage Story multiplayer games network.</description>
+  </item>
+  <item>
+    <title>Zipline</title>
+    <link>https://mods.vintagestory.at/show/mod/zipline</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zipline#10982</guid>
+    <pubDate>Sun, 16 Aug 2026 14:33:50 -0000</pubDate>
+    <description>Build ziplines to get down a hill faster.</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Sun, 16 Aug 2026 14:33:34 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
   <item>
     <title>Offline No Spoil</title>
     <link>https://mods.vintagestory.at/show/mod/offlinenospoil</link>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/treadwheel#11045</guid>
     <pubDate>Sun, 16 Aug 2026 09:16:14 -0000</pubDate>
     <description>No wind? No river? Walk inside the wheel and power your machines with your own legs.</description>
-  </item>
-  <item>
-    <title>Chisel Wiz - Powerful chisel shortcuts</title>
-    <link>https://mods.vintagestory.at/show/mod/chiselwiz</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiselwiz#4864</guid>
-    <pubDate>Sun, 16 Aug 2026 08:46:27 -0000</pubDate>
-    <description>Copy + paste chiselled blocks. Works on un-modded servers!</description>
-  </item>
-  <item>
-    <title>ChunkLOD</title>
-    <link>https://mods.vintagestory.at/show/mod/chunklod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chunklod#7929</guid>
-    <pubDate>Sun, 16 Aug 2026 08:33:57 -0000</pubDate>
-    <description>A Heavily Modified Fork of Farseer, representing terrain, rock type, forestation, and water as LOD's</description>
-  </item>
-  <item>
-    <title>Fish Breeding</title>
-    <link>https://mods.vintagestory.at/show/mod/11043</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11043#11043</guid>
-    <pubDate>Sun, 16 Aug 2026 08:27:06 -0000</pubDate>
-    <description>A patch for my server that allows all fish to be bred with specific pellets for them</description>
-  </item>
-  <item>
-    <title>Shadehouse</title>
-    <link>https://mods.vintagestory.at/show/mod/shadehouse</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shadehouse#8698</guid>
-    <pubDate>Sun, 16 Aug 2026 08:22:45 -0000</pubDate>
-    <description>Adds a way to build a 'shadehouse', to grow crops in hot temperatures.</description>
-  </item>
-  <item>
-    <title>Plumas Customizable Stack Sizes</title>
-    <link>https://mods.vintagestory.at/show/mod/plumastacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plumastacks#10530</guid>
-    <pubDate>Sun, 16 Aug 2026 08:22:32 -0000</pubDate>
-    <description>Another Simple Stack Size mod because i was dissatisfied with the others</description>
-  </item>
-  <item>
-    <title>Grassroots Coca</title>
-    <link>https://mods.vintagestory.at/show/mod/grassrootscoca</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassrootscoca#10921</guid>
-    <pubDate>Sun, 16 Aug 2026 07:54:53 -0000</pubDate>
-    <description>Coca farming. Grow, dry, leech, refine, and recrystalize. Aim for the purest product.</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Sun, 16 Aug 2026 07:49:16 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sun, 16 Aug 2026 07:27:48 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
 </channel>
 </rss>
