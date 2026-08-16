@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 16 Aug 2026 21:22:03 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 22:23:20 +0000</lastBuildDate>
+  <item>
+    <title>SimpleCloth Compatibility Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/simpleclothcompatibility</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simpleclothcompatibility#5136</guid>
+    <pubDate>Sun, 16 Aug 2026 22:07:30 -0000</pubDate>
+    <description>A collection of patches for SimpleCloth Updated and Tailor's Delight, Wool &amp; More, and Butchering.</description>
+  </item>
+  <item>
+    <title>SheyderMod</title>
+    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
+    <pubDate>Sun, 16 Aug 2026 21:59:10 -0000</pubDate>
+    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/almanactcm</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanactcm#10453</guid>
+    <pubDate>Sun, 16 Aug 2026 21:59:10 -0000</pubDate>
+    <description>Twenty-one trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>The Quire Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/tqp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tqp#10455</guid>
+    <pubDate>Sun, 16 Aug 2026 21:56:56 -0000</pubDate>
+    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
+  </item>
+  <item>
+    <title>Real Smoke &amp; QP's Chisel Tools Compatibility Patch 1.22</title>
+    <link>https://mods.vintagestory.at/show/mod/realsmokeqp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmokeqp#8322</guid>
+    <pubDate>Sun, 16 Aug 2026 21:53:32 -0000</pubDate>
+    <description>Adds compatibility between Real Smoke and QP Chisel Tools decorative blocks.</description>
+  </item>
+  <item>
+    <title>Simple Voice Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
+    <pubDate>Sun, 16 Aug 2026 21:48:32 -0000</pubDate>
+    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
+  </item>
+  <item>
+    <title>Sauna</title>
+    <link>https://mods.vintagestory.at/show/mod/10992</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10992#10992</guid>
+    <pubDate>Sun, 16 Aug 2026 21:37:34 -0000</pubDate>
+    <description>Seal a room, light the iron stove, splash a watering can over the hot stones, and you have a sauna</description>
+  </item>
+  <item>
+    <title>unHallowedPatches</title>
+    <link>https://mods.vintagestory.at/show/mod/unhallowedpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/unhallowedpatches#4328</guid>
+    <pubDate>Sun, 16 Aug 2026 21:34:17 -0000</pubDate>
+    <description>A collection of QoL patches - including increased stack sizes and recipes.</description>
+  </item>
   <item>
     <title>Road network - connected curved roads and bridges</title>
     <link>https://mods.vintagestory.at/show/mod/10739</link>
@@ -25,13 +81,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
     <pubDate>Sun, 16 Aug 2026 21:09:28 -0000</pubDate>
     <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
-    <title>SimpleCloth Compatibility Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/simpleclothcompatibility</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simpleclothcompatibility#5136</guid>
-    <pubDate>Sun, 16 Aug 2026 21:07:47 -0000</pubDate>
-    <description>A collection of patches for SimpleCloth Updated and Tailor's Delight, Wool &amp; More, and Butchering.</description>
   </item>
   <item>
     <title>Purposeful Storage</title>
@@ -67,13 +116,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
     <pubDate>Sun, 16 Aug 2026 20:20:33 -0000</pubDate>
     <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>unHallowedPatches</title>
-    <link>https://mods.vintagestory.at/show/mod/unhallowedpatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/unhallowedpatches#4328</guid>
-    <pubDate>Sun, 16 Aug 2026 20:10:13 -0000</pubDate>
-    <description>A collection of QoL patches - including increased stack sizes and recipes.</description>
   </item>
   <item>
     <title>Auto Walk Extended</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
     <pubDate>Sun, 16 Aug 2026 17:25:26 -0000</pubDate>
     <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>TaborServers</title>
-    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
-    <pubDate>Sun, 16 Aug 2026 17:16:55 -0000</pubDate>
-    <description>Patches fo most of Tabor servers</description>
-  </item>
-  <item>
-    <title>EternalDice</title>
-    <link>https://mods.vintagestory.at/show/mod/eternaldice</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternaldice#11023</guid>
-    <pubDate>Sun, 16 Aug 2026 16:37:02 -0000</pubDate>
-    <description>Roll the dice!</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Sun, 16 Aug 2026 16:18:34 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
-  </item>
-  <item>
-    <title>Fablewood Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/10778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
-    <pubDate>Sun, 16 Aug 2026 16:14:48 -0000</pubDate>
-    <description>Skill and class mod for the Fablewood server</description>
-  </item>
-  <item>
-    <title>Starting Kits</title>
-    <link>https://mods.vintagestory.at/show/mod/startingkits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/startingkits#11057</guid>
-    <pubDate>Sun, 16 Aug 2026 16:01:54 -0000</pubDate>
-    <description>Starting Kits to enhance your start of the game by giving you extra items.</description>
-  </item>
-  <item>
-    <title>All Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/allclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/allclasses#2689</guid>
-    <pubDate>Sun, 16 Aug 2026 15:52:50 -0000</pubDate>
-    <description>All classes mod adds 13 more (RP) classes. New metal pots, pans and more..</description>
   </item>
 </channel>
 </rss>
