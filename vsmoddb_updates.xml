@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 16 Aug 2026 04:37:58 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 05:30:29 +0000</lastBuildDate>
+  <item>
+    <title>Better Husbandry</title>
+    <link>https://mods.vintagestory.at/show/mod/betterhusbandry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhusbandry#11009</guid>
+    <pubDate>Sun, 16 Aug 2026 04:59:41 -0000</pubDate>
+    <description>Changes animal husbandry by rewarding players for petting and feeding their animals.</description>
+  </item>
   <item>
     <title>Rift Traveler</title>
     <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11038#11038</guid>
     <pubDate>Sat, 15 Aug 2026 23:39:04 -0000</pubDate>
     <description>Changes egg nutrition from protein to dairy.</description>
-  </item>
-  <item>
-    <title>Wafuku</title>
-    <link>https://mods.vintagestory.at/show/mod/11037</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11037#11037</guid>
-    <pubDate>Sat, 15 Aug 2026 23:27:58 -0000</pubDate>
-    <description>Garments and masks inspired by traditional Japanese clothing</description>
   </item>
 </channel>
 </rss>
