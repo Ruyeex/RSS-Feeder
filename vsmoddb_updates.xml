@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 17 Aug 2026 01:23:26 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 03:02:08 +0000</lastBuildDate>
+  <item>
+    <title>vsbackup</title>
+    <link>https://mods.vintagestory.at/show/mod/vsbackup</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsbackup#10756</guid>
+    <pubDate>Mon, 17 Aug 2026 03:00:49 -0000</pubDate>
+    <description>Vinstage Story Backup utility for Linux</description>
+  </item>
+  <item>
+    <title>Immersive Backpacks Compat &amp; Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivebackpackscompattweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpackscompattweaks#10746</guid>
+    <pubDate>Mon, 17 Aug 2026 02:52:43 -0000</pubDate>
+    <description>A mod that adds compat for other mods to Immersive Backpacks and makes some tweaks!</description>
+  </item>
+  <item>
+    <title>WootingAnalogVS</title>
+    <link>https://mods.vintagestory.at/show/mod/wootinganalogvs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wootinganalogvs#7685</guid>
+    <pubDate>Mon, 17 Aug 2026 02:45:52 -0000</pubDate>
+    <description>Support analog movement using a Wooting keyboard.</description>
+  </item>
+  <item>
+    <title>AnalogMovementVS</title>
+    <link>https://mods.vintagestory.at/show/mod/analogmovementvs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/analogmovementvs#7662</guid>
+    <pubDate>Mon, 17 Aug 2026 02:45:44 -0000</pubDate>
+    <description>Adds support for moving in any direction at any speed.</description>
+  </item>
+  <item>
+    <title>ControllerMovementVS</title>
+    <link>https://mods.vintagestory.at/show/mod/controllermovementvs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/controllermovementvs#7747</guid>
+    <pubDate>Mon, 17 Aug 2026 02:45:32 -0000</pubDate>
+    <description>Use a controller to move.</description>
+  </item>
+  <item>
+    <title>Riley's RP Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysrpadditions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysrpadditions#11006</guid>
+    <pubDate>Mon, 17 Aug 2026 02:39:12 -0000</pubDate>
+    <description>This is a mod that uses Quivers and Sheaths to add some RP-related items!</description>
+  </item>
+  <item>
+    <title>Dairy Plus Fruit Vinegar Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/11070</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11070#11070</guid>
+    <pubDate>Mon, 17 Aug 2026 02:13:04 -0000</pubDate>
+    <description>Fixes Dairy Plus' fruit vinegar bug.</description>
+  </item>
+  <item>
+    <title>Immersive Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivebackpacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpacks#9787</guid>
+    <pubDate>Mon, 17 Aug 2026 02:03:30 -0000</pubDate>
+    <description>An overhaul of backpack behavior and rendering in Vintage Story.</description>
+  </item>
+  <item>
+    <title>Rebalanced Trader Prices</title>
+    <link>https://mods.vintagestory.at/show/mod/10822</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10822#10822</guid>
+    <pubDate>Mon, 17 Aug 2026 01:54:35 -0000</pubDate>
+    <description>Adjusts trader prices to hopefully be more desirable.</description>
+  </item>
+  <item>
+    <title>Pin Matrix - Waypoint Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/10760</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10760#10760</guid>
+    <pubDate>Mon, 17 Aug 2026 01:49:33 -0000</pubDate>
+    <description>Client-side bulk waypoint manager for Vintage Story</description>
+  </item>
+  <item>
+    <title>Tallybook</title>
+    <link>https://mods.vintagestory.at/show/mod/10864</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
+    <pubDate>Mon, 17 Aug 2026 01:43:18 -0000</pubDate>
+    <description>Crafting shopping list, quest tracker, story guide, and world/player reference. Fully client-side.</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Mon, 17 Aug 2026 01:25:11 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
   <item>
     <title>Interesting Ore Gen Balance Patch</title>
     <link>https://mods.vintagestory.at/show/mod/iogbalancepatch</link>
@@ -62,7 +146,7 @@
     <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
   </item>
   <item>
-    <title>No off-hand hunger penalty</title>
+    <title>No Off-hand Hunger Penalty</title>
     <link>https://mods.vintagestory.at/show/mod/11069</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11069#11069</guid>
     <pubDate>Sun, 16 Aug 2026 23:38:50 -0000</pubDate>
@@ -88,13 +172,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicabtc#9867</guid>
     <pubDate>Sun, 16 Aug 2026 22:35:26 -0000</pubDate>
     <description>Wearable body tools and universal classes for Animalica player species.</description>
-  </item>
-  <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Sun, 16 Aug 2026 22:33:08 -0000</pubDate>
-    <description>The factory must grow!</description>
   </item>
   <item>
     <title>Fablewood Harmony Patches</title>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmokeqp#8322</guid>
     <pubDate>Sun, 16 Aug 2026 21:53:32 -0000</pubDate>
     <description>Adds compatibility between Real Smoke and QP Chisel Tools decorative blocks.</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Sun, 16 Aug 2026 21:48:32 -0000</pubDate>
-    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
-  </item>
-  <item>
-    <title>Sauna</title>
-    <link>https://mods.vintagestory.at/show/mod/10992</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10992#10992</guid>
-    <pubDate>Sun, 16 Aug 2026 21:37:34 -0000</pubDate>
-    <description>Seal a room, light the iron stove, splash a watering can over the hot stones, and you have a sauna</description>
-  </item>
-  <item>
-    <title>unHallowedPatches</title>
-    <link>https://mods.vintagestory.at/show/mod/unhallowedpatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/unhallowedpatches#4328</guid>
-    <pubDate>Sun, 16 Aug 2026 21:34:17 -0000</pubDate>
-    <description>A collection of QoL patches - including increased stack sizes and recipes.</description>
-  </item>
-  <item>
-    <title>Road network - connected curved roads and bridges</title>
-    <link>https://mods.vintagestory.at/show/mod/10739</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10739#10739</guid>
-    <pubDate>Sun, 16 Aug 2026 21:15:04 -0000</pubDate>
-    <description>Road Network allows you to spawn roads automatically, which snuggle to the terrain.</description>
-  </item>
-  <item>
-    <title>SimpleCloth Updated</title>
-    <link>https://mods.vintagestory.at/show/mod/simpleclothupdated</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simpleclothupdated#4975</guid>
-    <pubDate>Sun, 16 Aug 2026 21:11:51 -0000</pubDate>
-    <description>A "quick" update to KA3NMNP's SimpleCloth mod to work in 1.20+, with brand new models.</description>
-  </item>
-  <item>
-    <title>Purposeful Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/purposefulstorage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/purposefulstorage#4286</guid>
-    <pubDate>Sun, 16 Aug 2026 20:54:50 -0000</pubDate>
-    <description>Adds a variety of storage blocks designed for both aesthetic appeal and functional item organization</description>
-  </item>
-  <item>
-    <title>Boat Autopilot</title>
-    <link>https://mods.vintagestory.at/show/mod/10304</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10304#10304</guid>
-    <pubDate>Sun, 16 Aug 2026 20:40:01 -0000</pubDate>
-    <description>Long boat trips in Vintage Story are beautiful… the first three times.</description>
-  </item>
-  <item>
-    <title>IndustrialStory</title>
-    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
-    <pubDate>Sun, 16 Aug 2026 20:25:02 -0000</pubDate>
-    <description>Overhauls metalworking, chemistry, and glassworking. </description>
-  </item>
-  <item>
-    <title>Olendril Toolsmith and IME Compat Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/11065</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11065#11065</guid>
-    <pubDate>Sun, 16 Aug 2026 20:23:55 -0000</pubDate>
-    <description>Toolsmith Interesting Mining and Extraction Compatibility</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sun, 16 Aug 2026 20:20:33 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Auto Walk Extended</title>
-    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
-    <pubDate>Sun, 16 Aug 2026 19:33:22 -0000</pubDate>
-    <description>Toggle walking/running. Options for sneak toggle, stepup and mouse button lock.</description>
   </item>
 </channel>
 </rss>
