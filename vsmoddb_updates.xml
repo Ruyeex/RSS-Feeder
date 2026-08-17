@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 17 Aug 2026 12:48:21 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 13:40:48 +0000</lastBuildDate>
+  <item>
+    <title>PinyinSearch</title>
+    <link>https://mods.vintagestory.at/show/mod/pinyinsearch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pinyinsearch#8888</guid>
+    <pubDate>Mon, 17 Aug 2026 13:08:55 -0000</pubDate>
+    <description>在复古物语中使用拼音搜索信息</description>
+  </item>
+  <item>
+    <title>Targeted Prospecting</title>
+    <link>https://mods.vintagestory.at/show/mod/targetedprospecting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/targetedprospecting#11073</guid>
+    <pubDate>Mon, 17 Aug 2026 13:07:07 -0000</pubDate>
+    <description>Targeted ore prospecting with off-hand samples, waypoint marking and prospecting pick recycling.</description>
+  </item>
+  <item>
+    <title>SheyderMod</title>
+    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
+    <pubDate>Mon, 17 Aug 2026 13:04:00 -0000</pubDate>
+    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
+  </item>
   <item>
     <title>Boric Alchemy</title>
     <link>https://mods.vintagestory.at/show/mod/5577</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpacks#9787</guid>
     <pubDate>Mon, 17 Aug 2026 02:03:30 -0000</pubDate>
     <description>An overhaul of backpack behavior and rendering in Vintage Story.</description>
-  </item>
-  <item>
-    <title>Rebalanced Trader Prices</title>
-    <link>https://mods.vintagestory.at/show/mod/10822</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10822#10822</guid>
-    <pubDate>Mon, 17 Aug 2026 01:54:35 -0000</pubDate>
-    <description>Adjusts trader prices to hopefully be more desirable.</description>
-  </item>
-  <item>
-    <title>Tallybook</title>
-    <link>https://mods.vintagestory.at/show/mod/10864</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
-    <pubDate>Mon, 17 Aug 2026 01:43:18 -0000</pubDate>
-    <description>Crafting shopping list, quest tracker, story guide, and world/player reference. Fully client-side.</description>
-  </item>
-  <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Mon, 17 Aug 2026 01:25:11 -0000</pubDate>
-    <description>The factory must grow!</description>
   </item>
 </channel>
 </rss>
