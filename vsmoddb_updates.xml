@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 17 Aug 2026 13:40:48 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 14:30:11 +0000</lastBuildDate>
+  <item>
+    <title>The Nether – A Hellish Adventure</title>
+    <link>https://mods.vintagestory.at/show/mod/nether</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nether#10772</guid>
+    <pubDate>Mon, 17 Aug 2026 13:54:19 -0000</pubDate>
+    <description>Explore a hostile new dimension filled with molten caverns, evil ores, fungi and restless spirits.</description>
+  </item>
+  <item>
+    <title>Multiverse</title>
+    <link>https://mods.vintagestory.at/show/mod/themultiverse</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/themultiverse#10770</guid>
+    <pubDate>Mon, 17 Aug 2026 13:50:06 -0000</pubDate>
+    <description>A multi-dimensional framework, with crystals.</description>
+  </item>
+  <item>
+    <title>MoreInventorys</title>
+    <link>https://mods.vintagestory.at/show/mod/moreinventorys</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreinventorys#10306</guid>
+    <pubDate>Mon, 17 Aug 2026 13:43:09 -0000</pubDate>
+    <description>The mod adds new inventories for convenient and immersive storage: Shelves, crates, racks for weapon</description>
+  </item>
   <item>
     <title>PinyinSearch</title>
     <link>https://mods.vintagestory.at/show/mod/pinyinsearch</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/controllermovementvs#7747</guid>
     <pubDate>Mon, 17 Aug 2026 02:45:32 -0000</pubDate>
     <description>Use a controller to move.</description>
-  </item>
-  <item>
-    <title>Riley's RP Additions</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysrpadditions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysrpadditions#11006</guid>
-    <pubDate>Mon, 17 Aug 2026 02:39:12 -0000</pubDate>
-    <description>This is a mod that uses Quivers and Sheaths to add some RP-related items!</description>
-  </item>
-  <item>
-    <title>Dairy Plus Fruit Vinegar Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/11070</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11070#11070</guid>
-    <pubDate>Mon, 17 Aug 2026 02:13:04 -0000</pubDate>
-    <description>Fixes Dairy Plus' fruit vinegar bug.</description>
-  </item>
-  <item>
-    <title>Immersive Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivebackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpacks#9787</guid>
-    <pubDate>Mon, 17 Aug 2026 02:03:30 -0000</pubDate>
-    <description>An overhaul of backpack behavior and rendering in Vintage Story.</description>
   </item>
 </channel>
 </rss>
