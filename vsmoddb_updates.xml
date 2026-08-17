@@ -4,20 +4,34 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 17 Aug 2026 09:44:01 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 10:34:05 +0000</lastBuildDate>
+  <item>
+    <title>Grappling Hook. </title>
+    <link>https://mods.vintagestory.at/show/mod/grapplinghook</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grapplinghook#11050</guid>
+    <pubDate>Mon, 17 Aug 2026 10:21:49 -0000</pubDate>
+    <description>Swing, climb and interact with entities while traversing the world.</description>
+  </item>
+  <item>
+    <title>Bookbound Classes Combat Overhaul Compatability Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/11071</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11071#11071</guid>
+    <pubDate>Mon, 17 Aug 2026 10:12:35 -0000</pubDate>
+    <description>I made this mode to combine Bookbound Classes by KardaLove</description>
+  </item>
+  <item>
+    <title>Calendar Handbook</title>
+    <link>https://mods.vintagestory.at/show/mod/calendarhandbook</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/calendarhandbook#11003</guid>
+    <pubDate>Mon, 17 Aug 2026 09:48:22 -0000</pubDate>
+    <description>Adds a calender showing your progress through the year and how far away winter is.</description>
+  </item>
   <item>
     <title>Bow Patch</title>
     <link>https://mods.vintagestory.at/show/mod/bowpatch</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bowpatch#10613</guid>
     <pubDate>Mon, 17 Aug 2026 09:38:53 -0000</pubDate>
     <description>Cleaner UI while aiming. Now compatible with Combat Overhaul Fork!</description>
-  </item>
-  <item>
-    <title>Bookbound Classes Combat Overhaul Compatability Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/11071</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11071#11071</guid>
-    <pubDate>Mon, 17 Aug 2026 09:30:00 -0000</pubDate>
-    <description>I made this mode to combine Bookbound Classes by KardaLove</description>
   </item>
   <item>
     <title>Alternative armor designs</title>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krispatchmaterialneeds#10489</guid>
     <pubDate>Mon, 17 Aug 2026 01:09:16 -0000</pubDate>
     <description>A small content-only fix that brings back Aged Wood and Very Aged Wood after the Material Needs 2.0.</description>
-  </item>
-  <item>
-    <title>Critcher's Calculator</title>
-    <link>https://mods.vintagestory.at/show/mod/calculator</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/calculator#6465</guid>
-    <pubDate>Mon, 17 Aug 2026 00:51:14 -0000</pubDate>
-    <description>An in game ingot creation calculator, press F9 to use</description>
-  </item>
-  <item>
-    <title>Chisel Leaf</title>
-    <link>https://mods.vintagestory.at/show/mod/chiselleaf</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiselleaf#9235</guid>
-    <pubDate>Mon, 17 Aug 2026 00:11:10 -0000</pubDate>
-    <description>Adds craftable leaf blocks you can chisel</description>
   </item>
 </channel>
 </rss>
