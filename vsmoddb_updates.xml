@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 17 Aug 2026 17:28:30 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 18:42:03 +0000</lastBuildDate>
+  <item>
+    <title>VSDS · Vintage Story Dockerized Server</title>
+    <link>https://mods.vintagestory.at/show/mod/vsds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsds#4516</guid>
+    <pubDate>Mon, 17 Aug 2026 18:35:00 -0000</pubDate>
+    <description>Vintage Story Dockerized Server to easily deploy a Vintage Story Server anywhere!</description>
+  </item>
+  <item>
+    <title>Will Is A Bear</title>
+    <link>https://mods.vintagestory.at/show/mod/willisabear</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/willisabear#7752</guid>
+    <pubDate>Mon, 17 Aug 2026 17:53:13 -0000</pubDate>
+    <description>TTS voice over Bear noises.</description>
+  </item>
+  <item>
+    <title>Targeted Prospecting</title>
+    <link>https://mods.vintagestory.at/show/mod/targetedprospecting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/targetedprospecting#11073</guid>
+    <pubDate>Mon, 17 Aug 2026 17:52:59 -0000</pubDate>
+    <description>Targeted ore prospecting with off-hand samples, waypoint marking and prospecting pick recycling.</description>
+  </item>
+  <item>
+    <title>Louder Bears</title>
+    <link>https://mods.vintagestory.at/show/mod/louderbears</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/louderbears#7726</guid>
+    <pubDate>Mon, 17 Aug 2026 17:52:39 -0000</pubDate>
+    <description>Amplified bear noises to be more noticible.</description>
+  </item>
+  <item>
+    <title>Rename Torchholder to Sconce</title>
+    <link>https://mods.vintagestory.at/show/mod/sconce</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sconce#4560</guid>
+    <pubDate>Mon, 17 Aug 2026 17:51:37 -0000</pubDate>
+    <description>Corrects 'torchholder' to 'sconce' in game text</description>
+  </item>
+  <item>
+    <title>All Player Markers 1.0.0</title>
+    <link>https://mods.vintagestory.at/show/mod/11075</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11075#11075</guid>
+    <pubDate>Mon, 17 Aug 2026 17:35:52 -0000</pubDate>
+    <description>Fixes odd interactions between mods and the map that cause player markers to dissapear</description>
+  </item>
   <item>
     <title>AoS | Armor Female Seraphs Compatability</title>
     <link>https://mods.vintagestory.at/show/mod/8914</link>
@@ -132,13 +174,6 @@
     <description>在复古物语中使用拼音搜索信息</description>
   </item>
   <item>
-    <title>Targeted Prospecting</title>
-    <link>https://mods.vintagestory.at/show/mod/targetedprospecting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/targetedprospecting#11073</guid>
-    <pubDate>Mon, 17 Aug 2026 13:07:07 -0000</pubDate>
-    <description>Targeted ore prospecting with off-hand samples, waypoint marking and prospecting pick recycling.</description>
-  </item>
-  <item>
     <title>SheyderMod</title>
     <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bowpatch#10613</guid>
     <pubDate>Mon, 17 Aug 2026 09:38:53 -0000</pubDate>
     <description>Cleaner UI while aiming. Now compatible with Combat Overhaul Fork!</description>
-  </item>
-  <item>
-    <title>Alternative armor designs</title>
-    <link>https://mods.vintagestory.at/show/mod/5597</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5597#5597</guid>
-    <pubDate>Mon, 17 Aug 2026 09:18:26 -0000</pubDate>
-    <description>With this mod, you can make use of all vanilla armor designs for each respective armor pieces.</description>
-  </item>
-  <item>
-    <title>FotSA Butchering Compat</title>
-    <link>https://mods.vintagestory.at/show/mod/fotsabutcheringcompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsabutcheringcompat#9501</guid>
-    <pubDate>Mon, 17 Aug 2026 09:15:05 -0000</pubDate>
-    <description>Butchering compatibility for FotSA mods</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Mon, 17 Aug 2026 09:14:02 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
-    <title>Magical Moon - FRustyMagic (Beta)</title>
-    <link>https://mods.vintagestory.at/show/mod/10975</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10975#10975</guid>
-    <pubDate>Mon, 17 Aug 2026 08:51:42 -0000</pubDate>
-    <description>An entirely in-world, small, moon magic mod. Play around with beams of light!</description>
-  </item>
-  <item>
-    <title>Panning Machine</title>
-    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
-    <pubDate>Mon, 17 Aug 2026 08:17:58 -0000</pubDate>
-    <description>Simple machine for panning</description>
   </item>
 </channel>
 </rss>
