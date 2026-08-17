@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 17 Aug 2026 15:27:06 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 16:29:36 +0000</lastBuildDate>
+  <item>
+    <title>JSON Patches lib</title>
+    <link>https://mods.vintagestory.at/show/mod/jsonpatcheslib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jsonpatcheslib#7185</guid>
+    <pubDate>Mon, 17 Aug 2026 16:27:21 -0000</pubDate>
+    <description>Implements more convinient syntax and more functionality for patching JSON assets.</description>
+  </item>
+  <item>
+    <title>All Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/allclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/allclasses#2689</guid>
+    <pubDate>Mon, 17 Aug 2026 16:21:33 -0000</pubDate>
+    <description>All classes mod adds 13 more (RP) classes. New metal pots, pans and more..</description>
+  </item>
+  <item>
+    <title>Inventory Colors</title>
+    <link>https://mods.vintagestory.at/show/mod/inventorycolors</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/inventorycolors#10943</guid>
+    <pubDate>Mon, 17 Aug 2026 16:19:40 -0000</pubDate>
+    <description>Color-codes equipped bags and their inventory slots for clearer portable storage.</description>
+  </item>
+  <item>
+    <title>Equus: Medieval Horses</title>
+    <link>https://mods.vintagestory.at/show/mod/equusdestrier</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusdestrier#9959</guid>
+    <pubDate>Mon, 17 Aug 2026 16:14:40 -0000</pubDate>
+    <description>Adds a medieval warhorse to the game that can be purchased from a new horse trader</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Mon, 17 Aug 2026 16:03:59 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
   <item>
     <title>Tardis</title>
     <link>https://mods.vintagestory.at/show/mod/tardis</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plumastacks#10530</guid>
     <pubDate>Mon, 17 Aug 2026 04:43:57 -0000</pubDate>
     <description>Another Simple Stack Size mod because I was dissatisfied with the others</description>
-  </item>
-  <item>
-    <title>Pin Matrix - Waypoint Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/10760</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10760#10760</guid>
-    <pubDate>Mon, 17 Aug 2026 04:27:21 -0000</pubDate>
-    <description>Client-side bulk waypoint manager for Vintage Story</description>
-  </item>
-  <item>
-    <title>Vegan Fat</title>
-    <link>https://mods.vintagestory.at/show/mod/veganfat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/veganfat#11012</guid>
-    <pubDate>Mon, 17 Aug 2026 03:36:45 -0000</pubDate>
-    <description>Grind sunflower seeds into real vanilla rendered fat. No stand-in item, works in every fat recipe.</description>
-  </item>
-  <item>
-    <title>vsbackup</title>
-    <link>https://mods.vintagestory.at/show/mod/vsbackup</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsbackup#10756</guid>
-    <pubDate>Mon, 17 Aug 2026 03:00:49 -0000</pubDate>
-    <description>Vinstage Story Backup utility for Linux</description>
-  </item>
-  <item>
-    <title>Immersive Backpacks Compat &amp; Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivebackpackscompattweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpackscompattweaks#10746</guid>
-    <pubDate>Mon, 17 Aug 2026 02:52:43 -0000</pubDate>
-    <description>A mod that adds compat for other mods to Immersive Backpacks and makes some tweaks!</description>
-  </item>
-  <item>
-    <title>WootingAnalogVS</title>
-    <link>https://mods.vintagestory.at/show/mod/wootinganalogvs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wootinganalogvs#7685</guid>
-    <pubDate>Mon, 17 Aug 2026 02:45:52 -0000</pubDate>
-    <description>Support analog movement using a Wooting keyboard.</description>
   </item>
 </channel>
 </rss>
