@@ -4,12 +4,33 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 18 Aug 2026 12:50:41 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 13:43:27 +0000</lastBuildDate>
+  <item>
+    <title>Dressed to Kill: REDUX</title>
+    <link>https://mods.vintagestory.at/show/mod/dressedtokillredux</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dressedtokillredux#5767</guid>
+    <pubDate>Tue, 18 Aug 2026 13:41:58 -0000</pubDate>
+    <description>A recreation of the original Dressed to Kill mod by Aloysia, compatable with 1.21+</description>
+  </item>
+  <item>
+    <title>Dress to Impress: Fragments Edition</title>
+    <link>https://mods.vintagestory.at/show/mod/dtifragments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dtifragments#11097</guid>
+    <pubDate>Tue, 18 Aug 2026 13:28:54 -0000</pubDate>
+    <description>A fork of various Dress to Impress items, curated for an early medieval aesthetic.</description>
+  </item>
+  <item>
+    <title>WildcraftNutAndDryFruitFix</title>
+    <link>https://mods.vintagestory.at/show/mod/11096</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11096#11096</guid>
+    <pubDate>Tue, 18 Aug 2026 13:19:20 -0000</pubDate>
+    <description>Fixes the wildcraft recipes for certain dry fruits and nuts for the expanded foods fork 1.7.6-pre107</description>
+  </item>
   <item>
     <title>Muppers Arcana</title>
     <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Tue, 18 Aug 2026 12:46:23 -0000</pubDate>
+    <pubDate>Tue, 18 Aug 2026 13:14:58 -0000</pubDate>
     <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
   </item>
   <item>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalsdoctor#10712</guid>
     <pubDate>Tue, 18 Aug 2026 05:46:42 -0000</pubDate>
     <description>EternalS Doctor is a server-side diagnostics and repair toolkit for Vintage Story servers.</description>
-  </item>
-  <item>
-    <title>Specialized Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/7245</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7245#7245</guid>
-    <pubDate>Tue, 18 Aug 2026 04:50:55 -0000</pubDate>
-    <description>Extra specialty bags to go with your mining bag!</description>
-  </item>
-  <item>
-    <title>Seraph Leveling</title>
-    <link>https://mods.vintagestory.at/show/mod/6523</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6523#6523</guid>
-    <pubDate>Tue, 18 Aug 2026 04:37:32 -0000</pubDate>
-    <description>Level-up and gain traits in a vanilla friendly way</description>
-  </item>
-  <item>
-    <title>Tardis</title>
-    <link>https://mods.vintagestory.at/show/mod/tardis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tardis#11072</guid>
-    <pubDate>Tue, 18 Aug 2026 04:31:41 -0000</pubDate>
-    <description>A working TARDIS with a bigger-on-the-inside interior, flight, rooms, keys and a sonic.</description>
   </item>
 </channel>
 </rss>
