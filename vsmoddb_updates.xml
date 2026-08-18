@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 18 Aug 2026 08:39:17 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 09:36:01 +0000</lastBuildDate>
+  <item>
+    <title>Vanilla More Molds 2.2.0</title>
+    <link>https://mods.vintagestory.at/show/mod/vanillamoremolds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillamoremolds#2948</guid>
+    <pubDate>Tue, 18 Aug 2026 09:35:14 -0000</pubDate>
+    <description>Adds new molds while staying true to the spirit and mechanics of the base game!</description>
+  </item>
+  <item>
+    <title>Chiseled Block Retention</title>
+    <link>https://mods.vintagestory.at/show/mod/cbr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cbr#4343</guid>
+    <pubDate>Tue, 18 Aug 2026 09:32:22 -0000</pubDate>
+    <description>Chiseled blocks will ALWAYS retain heat and make a room valid.</description>
+  </item>
+  <item>
+    <title>Fish Breeding</title>
+    <link>https://mods.vintagestory.at/show/mod/11043</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11043#11043</guid>
+    <pubDate>Tue, 18 Aug 2026 09:26:39 -0000</pubDate>
+    <description>A patch for my server that allows all fish to be bred with specific pellets for them</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Tue, 18 Aug 2026 09:24:54 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>More Backpack Colors</title>
+    <link>https://mods.vintagestory.at/show/mod/mbpc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mbpc#1494</guid>
+    <pubDate>Tue, 18 Aug 2026 09:11:17 -0000</pubDate>
+    <description>Adds unique variants of backpacks for each type of leather!</description>
+  </item>
   <item>
     <title>Scribe: Notes &amp; Tasks</title>
     <link>https://mods.vintagestory.at/show/mod/scribe</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicevoicechanger#10962</guid>
     <pubDate>Tue, 18 Aug 2026 02:28:21 -0000</pubDate>
     <description>Client-side real-time voice effects studio for Simple Voice Chat.</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Tue, 18 Aug 2026 02:26:47 -0000</pubDate>
-    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
-  </item>
-  <item>
-    <title>Lockable Cabinets</title>
-    <link>https://mods.vintagestory.at/show/mod/lockablecabinets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lockablecabinets#11086</guid>
-    <pubDate>Tue, 18 Aug 2026 02:00:30 -0000</pubDate>
-    <description>Makes Cabinets Lockable!</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat: Captions</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechatcaptions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechatcaptions#11085</guid>
-    <pubDate>Tue, 18 Aug 2026 01:26:34 -0000</pubDate>
-    <description>Client-side directional captions for game sounds and Simple Voice Chat speech.</description>
-  </item>
-  <item>
-    <title>Brass Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/brasspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/brasspatch#10783</guid>
-    <pubDate>Tue, 18 Aug 2026 01:22:36 -0000</pubDate>
-    <description>A simple patch to add brass nails &amp; strips to appropriate recipes!</description>
-  </item>
-  <item>
-    <title>Daubweave</title>
-    <link>https://mods.vintagestory.at/show/mod/daubweave</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/daubweave#10217</guid>
-    <pubDate>Tue, 18 Aug 2026 01:22:29 -0000</pubDate>
-    <description>A simple patch to buff daub output, and adds an alternative to craft daub blocks!</description>
   </item>
 </channel>
 </rss>
