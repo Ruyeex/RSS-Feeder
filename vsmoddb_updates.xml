@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 18 Aug 2026 10:30:37 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 11:26:58 +0000</lastBuildDate>
+  <item>
+    <title>Crazy Skin Customization</title>
+    <link>https://mods.vintagestory.at/show/mod/crazyskincustomization</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crazyskincustomization#1664</guid>
+    <pubDate>Tue, 18 Aug 2026 10:40:55 -0000</pubDate>
+    <description>Replaces the default skin, eye, and hair colors with a larger variety of colors.</description>
+  </item>
+  <item>
+    <title>Multiverse</title>
+    <link>https://mods.vintagestory.at/show/mod/themultiverse</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/themultiverse#10770</guid>
+    <pubDate>Tue, 18 Aug 2026 10:40:26 -0000</pubDate>
+    <description>A multi-dimensional framework, with crystals.</description>
+  </item>
+  <item>
+    <title>The Nether – A Hellish Adventure</title>
+    <link>https://mods.vintagestory.at/show/mod/nether</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nether#10772</guid>
+    <pubDate>Tue, 18 Aug 2026 10:38:46 -0000</pubDate>
+    <description>Explore a hostile new dimension filled with molten caverns, evil ores, fungi and restless spirits.</description>
+  </item>
+  <item>
+    <title>Bookbound Classes Combat Overhaul Compatability Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/tafebbclass</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tafebbclass#11071</guid>
+    <pubDate>Tue, 18 Aug 2026 10:35:32 -0000</pubDate>
+    <description>I made this mode to combine Bookbound Classes by KardaLove</description>
+  </item>
+  <item>
+    <title>Hibiskus Kilts</title>
+    <link>https://mods.vintagestory.at/show/mod/hibiskuskilts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hibiskuskilts#11094</guid>
+    <pubDate>Tue, 18 Aug 2026 10:09:51 -0000</pubDate>
+    <description>Adds different kilts based on real tartan patterns to the game.</description>
+  </item>
   <item>
     <title>Boric Alchemy</title>
     <link>https://mods.vintagestory.at/show/mod/5577</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
     <pubDate>Tue, 18 Aug 2026 03:29:45 -0000</pubDate>
     <description>Crafting shopping list, quest tracker, story guide, and world/player reference. Fully client-side.</description>
-  </item>
-  <item>
-    <title>Conquest VS Patch: VOM &amp; TS</title>
-    <link>https://mods.vintagestory.at/show/mod/11088</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11088#11088</guid>
-    <pubDate>Tue, 18 Aug 2026 03:02:19 -0000</pubDate>
-    <description>Patches Conquest VS to support mods: Terrain Slabs &amp; Visible Ores and Minerals</description>
-  </item>
-  <item>
-    <title>Bookbound Classes Combat Overhaul Compatability Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/tafebbclass</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tafebbclass#11071</guid>
-    <pubDate>Tue, 18 Aug 2026 03:01:30 -0000</pubDate>
-    <description>I made this mode to combine Bookbound Classes by KardaLove</description>
-  </item>
-  <item>
-    <title>Stamina Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/staminamod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/staminamod#10151</guid>
-    <pubDate>Tue, 18 Aug 2026 03:00:55 -0000</pubDate>
-    <description>Adds stamina to animals. Exhaustion slows them. Tired predators give up the chase.</description>
-  </item>
-  <item>
-    <title>Vintage Vampirism</title>
-    <link>https://mods.vintagestory.at/show/mod/10330</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10330#10330</guid>
-    <pubDate>Tue, 18 Aug 2026 02:51:24 -0000</pubDate>
-    <description>Opt-in vampirism class-independent system built on top of the Vintage Aging mod.</description>
-  </item>
-  <item>
-    <title>Wilderlands Onus Moderatus</title>
-    <link>https://mods.vintagestory.at/show/mod/8790</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8790#8790</guid>
-    <pubDate>Tue, 18 Aug 2026 02:45:25 -0000</pubDate>
-    <description>- Using One Hand as a dependancy, creates three inventory bar slots with one backpack slot open.</description>
   </item>
 </channel>
 </rss>
