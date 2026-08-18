@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 18 Aug 2026 03:50:27 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 04:38:01 +0000</lastBuildDate>
+  <item>
+    <title>Seraph Leveling</title>
+    <link>https://mods.vintagestory.at/show/mod/6523</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6523#6523</guid>
+    <pubDate>Tue, 18 Aug 2026 04:37:32 -0000</pubDate>
+    <description>Level-up and gain traits in a vanilla friendly way</description>
+  </item>
+  <item>
+    <title>Tardis</title>
+    <link>https://mods.vintagestory.at/show/mod/tardis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tardis#11072</guid>
+    <pubDate>Tue, 18 Aug 2026 04:31:41 -0000</pubDate>
+    <description>A working TARDIS with a bigger-on-the-inside interior, flight, rooms, keys and a sonic.</description>
+  </item>
+  <item>
+    <title>ElectricalProgressive:ColdStore</title>
+    <link>https://mods.vintagestory.at/show/mod/10638</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10638#10638</guid>
+    <pubDate>Tue, 18 Aug 2026 04:30:29 -0000</pubDate>
+    <description>Add a cold store (room) with an internal decay rate of 0.025 times</description>
+  </item>
+  <item>
+    <title>More Blood Thingies!</title>
+    <link>https://mods.vintagestory.at/show/mod/10959</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
+    <pubDate>Tue, 18 Aug 2026 04:18:10 -0000</pubDate>
+    <description>Adds all the features for bloodbread that should have been.</description>
+  </item>
+  <item>
+    <title>Better Husbandry</title>
+    <link>https://mods.vintagestory.at/show/mod/betterhusbandry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhusbandry#11009</guid>
+    <pubDate>Tue, 18 Aug 2026 04:12:03 -0000</pubDate>
+    <description>Changes animal husbandry by rewarding players for petting and feeding their animals.</description>
+  </item>
   <item>
     <title>Tallybook</title>
     <link>https://mods.vintagestory.at/show/mod/10864</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drocustclasses#9295</guid>
     <pubDate>Tue, 18 Aug 2026 01:21:21 -0000</pubDate>
     <description>Adds 5 new, exclusive classes to Wulk's Drocust race!</description>
-  </item>
-  <item>
-    <title>Recycle Sails</title>
-    <link>https://mods.vintagestory.at/show/mod/recyclesails</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/recyclesails#9250</guid>
-    <pubDate>Tue, 18 Aug 2026 01:21:15 -0000</pubDate>
-    <description>A simple recipe patch that lets you cut up small and large windmill sails to get your linen back!</description>
-  </item>
-  <item>
-    <title>Smash Metal Parts</title>
-    <link>https://mods.vintagestory.at/show/mod/smashmetalparts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smashmetalparts#9193</guid>
-    <pubDate>Tue, 18 Aug 2026 01:21:09 -0000</pubDate>
-    <description>A simple recipe patch to smash metal &amp; Jonas parts into cupronickel (with a hammer)!</description>
-  </item>
-  <item>
-    <title>Feed from Seed</title>
-    <link>https://mods.vintagestory.at/show/mod/feedfromseed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feedfromseed#9020</guid>
-    <pubDate>Tue, 18 Aug 2026 01:21:02 -0000</pubDate>
-    <description>A simple recipe patch that lets you turn your hoard of excess (appropriate) seedbags into food! </description>
-  </item>
-  <item>
-    <title>Flow Field Collisions</title>
-    <link>https://mods.vintagestory.at/show/mod/7488</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7488#7488</guid>
-    <pubDate>Tue, 18 Aug 2026 00:59:33 -0000</pubDate>
-    <description>Back-Propagated Flow Field Collisions. Whatever that means.</description>
-  </item>
-  <item>
-    <title>A Panserbjørn Story: Rebjørn</title>
-    <link>https://mods.vintagestory.at/show/mod/panserbjornrebjorn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panserbjornrebjorn#9761</guid>
-    <pubDate>Tue, 18 Aug 2026 00:52:01 -0000</pubDate>
-    <description>A Panserbjørn Story fork for the newest versions, improved it a bit.</description>
   </item>
 </channel>
 </rss>
