@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 18 Aug 2026 20:26:41 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 21:26:40 +0000</lastBuildDate>
+  <item>
+    <title>Waxlight Launcher</title>
+    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
+    <pubDate>Tue, 18 Aug 2026 21:26:04 -0000</pubDate>
+    <description>A sleek Vintage Story launcher for instances, mods, accounts and playtime tracking.</description>
+  </item>
   <item>
     <title>Immersive Heat Sources</title>
     <link>https://mods.vintagestory.at/show/mod/iheat</link>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalsdoctor#10712</guid>
     <pubDate>Tue, 18 Aug 2026 16:35:42 -0000</pubDate>
     <description>EternalS Doctor is a server-side diagnostics and repair toolkit for Vintage Story servers.</description>
-  </item>
-  <item>
-    <title>Rustbound Magic Easy Mode</title>
-    <link>https://mods.vintagestory.at/show/mod/3633</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3633#3633</guid>
-    <pubDate>Tue, 18 Aug 2026 16:30:10 -0000</pubDate>
-    <description>Make Rustbound Magic mobs easier to handle</description>
   </item>
 </channel>
 </rss>
