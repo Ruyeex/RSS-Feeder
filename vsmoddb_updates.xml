@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 18 Aug 2026 11:26:58 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 12:50:41 +0000</lastBuildDate>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Tue, 18 Aug 2026 12:46:23 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>Darce's Drifters Redone</title>
+    <link>https://mods.vintagestory.at/show/mod/darcesdriftersredone</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darcesdriftersredone#4257</guid>
+    <pubDate>Tue, 18 Aug 2026 12:42:34 -0000</pubDate>
+    <description>Complete visual overhaul of the original Darce's Drifters.</description>
+  </item>
+  <item>
+    <title>Better Jungles (and survival modpack)</title>
+    <link>https://mods.vintagestory.at/show/mod/betterjungles</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterjungles#7602</guid>
+    <pubDate>Tue, 18 Aug 2026 12:21:24 -0000</pubDate>
+    <description>More realistic Jungles, some survival gameplay changes - ideally as part of the modpack listed below</description>
+  </item>
+  <item>
+    <title>Holdfast</title>
+    <link>https://mods.vintagestory.at/show/mod/holdfast</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/holdfast#10247</guid>
+    <pubDate>Tue, 18 Aug 2026 11:58:39 -0000</pubDate>
+    <description>Found a town. Hire workers. Watch it grow one building at a time.</description>
+  </item>
   <item>
     <title>Crazy Skin Customization</title>
     <link>https://mods.vintagestory.at/show/mod/crazyskincustomization</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tardis#11072</guid>
     <pubDate>Tue, 18 Aug 2026 04:31:41 -0000</pubDate>
     <description>A working TARDIS with a bigger-on-the-inside interior, flight, rooms, keys and a sonic.</description>
-  </item>
-  <item>
-    <title>ElectricalProgressive:ColdStore</title>
-    <link>https://mods.vintagestory.at/show/mod/10638</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10638#10638</guid>
-    <pubDate>Tue, 18 Aug 2026 04:30:29 -0000</pubDate>
-    <description>Add a cold store (room) with an internal decay rate of 0.025 times</description>
-  </item>
-  <item>
-    <title>More Blood Thingies!</title>
-    <link>https://mods.vintagestory.at/show/mod/10959</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
-    <pubDate>Tue, 18 Aug 2026 04:18:10 -0000</pubDate>
-    <description>Adds all the features for bloodbread that should have been.</description>
-  </item>
-  <item>
-    <title>Better Husbandry</title>
-    <link>https://mods.vintagestory.at/show/mod/betterhusbandry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhusbandry#11009</guid>
-    <pubDate>Tue, 18 Aug 2026 04:12:03 -0000</pubDate>
-    <description>Changes animal husbandry by rewarding players for petting and feeding their animals.</description>
-  </item>
-  <item>
-    <title>Tallybook</title>
-    <link>https://mods.vintagestory.at/show/mod/10864</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
-    <pubDate>Tue, 18 Aug 2026 03:29:45 -0000</pubDate>
-    <description>Crafting shopping list, quest tracker, story guide, and world/player reference. Fully client-side.</description>
   </item>
 </channel>
 </rss>
