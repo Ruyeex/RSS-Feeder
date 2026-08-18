@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 18 Aug 2026 04:38:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 05:31:43 +0000</lastBuildDate>
+  <item>
+    <title>Specialized Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/7245</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7245#7245</guid>
+    <pubDate>Tue, 18 Aug 2026 04:50:55 -0000</pubDate>
+    <description>Extra specialty bags to go with your mining bag!</description>
+  </item>
   <item>
     <title>Seraph Leveling</title>
     <link>https://mods.vintagestory.at/show/mod/6523</link>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crushzincnuggets#9334</guid>
     <pubDate>Tue, 18 Aug 2026 01:21:28 -0000</pubDate>
     <description>A simple patch that lets you (finally) pulverize sphalerite nuggets into powder!</description>
-  </item>
-  <item>
-    <title>Locust Drider Classes (Drocust)</title>
-    <link>https://mods.vintagestory.at/show/mod/drocustclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drocustclasses#9295</guid>
-    <pubDate>Tue, 18 Aug 2026 01:21:21 -0000</pubDate>
-    <description>Adds 5 new, exclusive classes to Wulk's Drocust race!</description>
   </item>
 </channel>
 </rss>
