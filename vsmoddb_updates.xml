@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 18 Aug 2026 22:25:44 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 23:24:08 +0000</lastBuildDate>
+  <item>
+    <title>Expanded Foods: Chef's Tricks 1.0.0-dev.4</title>
+    <link>https://mods.vintagestory.at/show/mod/efchefstricks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/efchefstricks#9585</guid>
+    <pubDate>Tue, 18 Aug 2026 23:17:32 -0000</pubDate>
+    <description>Put your leftovers to good use!</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Tue, 18 Aug 2026 23:15:10 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
+  <item>
+    <title>BagsPlus</title>
+    <link>https://mods.vintagestory.at/show/mod/10268</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10268#10268</guid>
+    <pubDate>Tue, 18 Aug 2026 22:58:57 -0000</pubDate>
+    <description>This a fork of  SpecializedBags Revived with a few things from BackPackPlus for my personal server.</description>
+  </item>
+  <item>
+    <title>Updated Hieronymus's reptiles collection</title>
+    <link>https://mods.vintagestory.at/show/mod/hieronymusreptiles</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hieronymusreptiles#3503</guid>
+    <pubDate>Tue, 18 Aug 2026 22:56:24 -0000</pubDate>
+    <description>An unofficial update of Hieronymus's various mobs</description>
+  </item>
+  <item>
+    <title>Expanded Foods: Meals Module 1.0.0-dev.6</title>
+    <link>https://mods.vintagestory.at/show/mod/efmealsmodule</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/efmealsmodule#9270</guid>
+    <pubDate>Tue, 18 Aug 2026 22:37:40 -0000</pubDate>
+    <description>Fancy new meals for the discerning palate. </description>
+  </item>
+  <item>
+    <title>Expanded Foods: Core 2.0.0-dev.13</title>
+    <link>https://mods.vintagestory.at/show/mod/expandedfoods</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/expandedfoods#16</guid>
+    <pubDate>Tue, 18 Aug 2026 22:36:55 -0000</pubDate>
+    <description>Adds a variety of new uses for existing foods.</description>
+  </item>
+  <item>
+    <title>A Culinary Artillery 2.0.0-dev.22</title>
+    <link>https://mods.vintagestory.at/show/mod/aculinaryartillery</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aculinaryartillery#843</guid>
+    <pubDate>Tue, 18 Aug 2026 22:35:31 -0000</pubDate>
+    <description>Adds an arsenal of tools to enhance the culinary experience.</description>
+  </item>
+  <item>
+    <title>Scarcity and Avoidance</title>
+    <link>https://mods.vintagestory.at/show/mod/11119</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11119#11119</guid>
+    <pubDate>Tue, 18 Aug 2026 22:31:16 -0000</pubDate>
+    <description>Scarcity and Avoidance is a wildlife ecology and behaviour mod intended to make encounters with wild</description>
+  </item>
   <item>
     <title>The Hunter</title>
     <link>https://mods.vintagestory.at/show/mod/thehunter</link>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreelevatorcommands#11109</guid>
     <pubDate>Tue, 18 Aug 2026 18:18:00 -0000</pubDate>
     <description>The elevator god giveth, and now the elevator god can also taketh away.</description>
-  </item>
-  <item>
-    <title>Expanded Matter</title>
-    <link>https://mods.vintagestory.at/show/mod/em</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/em#496</guid>
-    <pubDate>Tue, 18 Aug 2026 17:58:25 -0000</pubDate>
-    <description>Library for ore, materials and item variants. Extends VS existing ore.</description>
-  </item>
-  <item>
-    <title>Lupines</title>
-    <link>https://mods.vintagestory.at/show/mod/lupines</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lupines#5723</guid>
-    <pubDate>Tue, 18 Aug 2026 17:50:05 -0000</pubDate>
-    <description>Adds playable anthro wolf like player model using Player Model Lib</description>
-  </item>
-  <item>
-    <title>KRPG Enchantment</title>
-    <link>https://mods.vintagestory.at/show/mod/krpgenchantment</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krpgenchantment#2216</guid>
-    <pubDate>Tue, 18 Aug 2026 17:43:29 -0000</pubDate>
-    <description>Adds MC-like enchantment system to VS.</description>
-  </item>
-  <item>
-    <title>SoundTuner</title>
-    <link>https://mods.vintagestory.at/show/mod/11104</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11104#11104</guid>
-    <pubDate>Tue, 18 Aug 2026 17:21:13 -0000</pubDate>
-    <description>SoundTuner</description>
-  </item>
-  <item>
-    <title>ShearLib</title>
-    <link>https://mods.vintagestory.at/show/mod/shearlib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shearlib#2527</guid>
-    <pubDate>Tue, 18 Aug 2026 16:46:15 -0000</pubDate>
-    <description>A library adding a shearable behaviour. Does nothing on its own.</description>
-  </item>
-  <item>
-    <title>Bookbinders</title>
-    <link>https://mods.vintagestory.at/show/mod/bookbinders</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bookbinders#2393</guid>
-    <pubDate>Tue, 18 Aug 2026 16:46:01 -0000</pubDate>
-    <description>Adds new books, items and tools related to book crafting.</description>
-  </item>
-  <item>
-    <title>Upholstery</title>
-    <link>https://mods.vintagestory.at/show/mod/upholstery</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/upholstery#2258</guid>
-    <pubDate>Tue, 18 Aug 2026 16:45:49 -0000</pubDate>
-    <description>Craft furniture and interior decorations.</description>
-  </item>
-  <item>
-    <title>Tailor's Delight</title>
-    <link>https://mods.vintagestory.at/show/mod/tailorsdelight</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tailorsdelight#1624</guid>
-    <pubDate>Tue, 18 Aug 2026 16:45:34 -0000</pubDate>
-    <description>Craft and decorate with cloth, leather and hide.</description>
   </item>
 </channel>
 </rss>
