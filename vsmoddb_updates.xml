@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 18 Aug 2026 15:33:42 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 16:33:50 +0000</lastBuildDate>
+  <item>
+    <title>Rustbound Magic Easy Mode</title>
+    <link>https://mods.vintagestory.at/show/mod/3633</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3633#3633</guid>
+    <pubDate>Tue, 18 Aug 2026 16:30:10 -0000</pubDate>
+    <description>Make Rustbound Magic mobs easier to handle</description>
+  </item>
+  <item>
+    <title>Rustbound Magic XSkills Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/rustboundmagicxskills</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustboundmagicxskills#3598</guid>
+    <pubDate>Tue, 18 Aug 2026 16:28:03 -0000</pubDate>
+    <description>Adds XSkills XP when killing mobs from the Rustbound Magic mod.</description>
+  </item>
+  <item>
+    <title>Char Planks</title>
+    <link>https://mods.vintagestory.at/show/mod/charplanks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/charplanks#11101</guid>
+    <pubDate>Tue, 18 Aug 2026 15:55:48 -0000</pubDate>
+    <description>Craftable scorched, burned, and charred planks.</description>
+  </item>
+  <item>
+    <title>Zippy's Sky Steel Re-compiled</title>
+    <link>https://mods.vintagestory.at/show/mod/11100</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11100#11100</guid>
+    <pubDate>Tue, 18 Aug 2026 15:55:24 -0000</pubDate>
+    <description>A recompile of Zippy's Sky Steel for 1.22.x (tested in 1.22.5)</description>
+  </item>
+  <item>
+    <title>Chuteable Querns v2</title>
+    <link>https://mods.vintagestory.at/show/mod/7367</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7367#7367</guid>
+    <pubDate>Tue, 18 Aug 2026 15:55:09 -0000</pubDate>
+    <description>Allows chutes to pull items from your quern.</description>
+  </item>
+  <item>
+    <title>Improved Handbook Recipe Helper</title>
+    <link>https://mods.vintagestory.at/show/mod/8240</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8240#8240</guid>
+    <pubDate>Tue, 18 Aug 2026 15:49:02 -0000</pubDate>
+    <description>Makes recipes easier to complete by adding auto-population, conflict cycling, and missing component </description>
+  </item>
+  <item>
+    <title>Animalica Core</title>
+    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
+    <pubDate>Tue, 18 Aug 2026 15:43:29 -0000</pubDate>
+    <description>Core mod for playable animals. Does nothing on it's own</description>
+  </item>
+  <item>
+    <title>Animalica - Compatibility pack 1</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicac</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicac#9798</guid>
+    <pubDate>Tue, 18 Aug 2026 15:42:37 -0000</pubDate>
+    <description>Adds a small list of modded animals as players!</description>
+  </item>
   <item>
     <title>VS Instruments Redux</title>
     <link>https://mods.vintagestory.at/show/mod/10555</link>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nether#10772</guid>
     <pubDate>Tue, 18 Aug 2026 10:38:46 -0000</pubDate>
     <description>Explore a hostile new dimension filled with molten caverns, evil ores, fungi and restless spirits.</description>
-  </item>
-  <item>
-    <title>Bookbound Classes Combat Overhaul Compatability Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/tafebbclass</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tafebbclass#11071</guid>
-    <pubDate>Tue, 18 Aug 2026 10:35:32 -0000</pubDate>
-    <description>I made this mode to combine Bookbound Classes by KardaLove</description>
-  </item>
-  <item>
-    <title>Hibiskus Kilts</title>
-    <link>https://mods.vintagestory.at/show/mod/hibiskuskilts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hibiskuskilts#11094</guid>
-    <pubDate>Tue, 18 Aug 2026 10:09:51 -0000</pubDate>
-    <description>Adds different kilts based on real tartan patterns to the game.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Tue, 18 Aug 2026 10:00:48 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
-  </item>
-  <item>
-    <title>Fish Breeding</title>
-    <link>https://mods.vintagestory.at/show/mod/11043</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11043#11043</guid>
-    <pubDate>Tue, 18 Aug 2026 09:48:58 -0000</pubDate>
-    <description>A patch for my server that allows all fish to be bred with specific pellets for them</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Tue, 18 Aug 2026 09:48:08 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Fullbright Toggle</title>
-    <link>https://mods.vintagestory.at/show/mod/fbr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fbr#6117</guid>
-    <pubDate>Tue, 18 Aug 2026 09:39:05 -0000</pubDate>
-    <description>Fullbright toggle so you can always see in the dark</description>
-  </item>
-  <item>
-    <title>Vanilla More Molds 2.2.0</title>
-    <link>https://mods.vintagestory.at/show/mod/vanillamoremolds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillamoremolds#2948</guid>
-    <pubDate>Tue, 18 Aug 2026 09:35:14 -0000</pubDate>
-    <description>Adds new molds while staying true to the spirit and mechanics of the base game!</description>
-  </item>
-  <item>
-    <title>Chiseled Block Retention</title>
-    <link>https://mods.vintagestory.at/show/mod/cbr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cbr#4343</guid>
-    <pubDate>Tue, 18 Aug 2026 09:32:22 -0000</pubDate>
-    <description>Chiseled blocks will ALWAYS retain heat and make a room valid.</description>
   </item>
 </channel>
 </rss>
