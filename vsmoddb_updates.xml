@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 18 Aug 2026 16:33:50 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 17:29:09 +0000</lastBuildDate>
+  <item>
+    <title>SoundTuner</title>
+    <link>https://mods.vintagestory.at/show/mod/11104</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11104#11104</guid>
+    <pubDate>Tue, 18 Aug 2026 17:21:13 -0000</pubDate>
+    <description>SoundTuner</description>
+  </item>
+  <item>
+    <title>ShearLib</title>
+    <link>https://mods.vintagestory.at/show/mod/shearlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shearlib#2527</guid>
+    <pubDate>Tue, 18 Aug 2026 16:46:15 -0000</pubDate>
+    <description>A library adding a shearable behaviour. Does nothing on its own.</description>
+  </item>
+  <item>
+    <title>Bookbinders</title>
+    <link>https://mods.vintagestory.at/show/mod/bookbinders</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bookbinders#2393</guid>
+    <pubDate>Tue, 18 Aug 2026 16:46:01 -0000</pubDate>
+    <description>Adds new books, items and tools related to book crafting.</description>
+  </item>
+  <item>
+    <title>Upholstery</title>
+    <link>https://mods.vintagestory.at/show/mod/upholstery</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/upholstery#2258</guid>
+    <pubDate>Tue, 18 Aug 2026 16:45:49 -0000</pubDate>
+    <description>Craft furniture and interior decorations.</description>
+  </item>
+  <item>
+    <title>Tailor's Delight</title>
+    <link>https://mods.vintagestory.at/show/mod/tailorsdelight</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tailorsdelight#1624</guid>
+    <pubDate>Tue, 18 Aug 2026 16:45:34 -0000</pubDate>
+    <description>Craft and decorate with cloth, leather and hide.</description>
+  </item>
+  <item>
+    <title>Expanded Matter</title>
+    <link>https://mods.vintagestory.at/show/mod/em</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/em#496</guid>
+    <pubDate>Tue, 18 Aug 2026 16:45:15 -0000</pubDate>
+    <description>Library for ore, materials and item variants. Extends VS existing ore.</description>
+  </item>
+  <item>
+    <title>Dressmakers</title>
+    <link>https://mods.vintagestory.at/show/mod/dressmakers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dressmakers#2189</guid>
+    <pubDate>Tue, 18 Aug 2026 16:45:02 -0000</pubDate>
+    <description>Add crafting recipes for almost all VS clothing items</description>
+  </item>
+  <item>
+    <title>Vintage Recipes</title>
+    <link>https://mods.vintagestory.at/show/mod/vsrecipes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsrecipes#2233</guid>
+    <pubDate>Tue, 18 Aug 2026 16:44:51 -0000</pubDate>
+    <description>This Vintage Story mod tweaks some crafting recipes to be more realistic.</description>
+  </item>
+  <item>
+    <title>Valley of Ashes</title>
+    <link>https://mods.vintagestory.at/show/mod/valleyofashes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/valleyofashes#2288</guid>
+    <pubDate>Tue, 18 Aug 2026 16:44:34 -0000</pubDate>
+    <description>Craft wood and plant ash, ash sludge and optional potash.</description>
+  </item>
+  <item>
+    <title>Bricklayers</title>
+    <link>https://mods.vintagestory.at/show/mod/bricklayers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricklayers#117</guid>
+    <pubDate>Tue, 18 Aug 2026 16:44:22 -0000</pubDate>
+    <description>More clay, bricks, porcelain, glazings, colored glass, luminous glass.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Doctor</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalsdoctor</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalsdoctor#10712</guid>
+    <pubDate>Tue, 18 Aug 2026 16:35:42 -0000</pubDate>
+    <description>EternalS Doctor is a server-side diagnostics and repair toolkit for Vintage Story servers.</description>
+  </item>
   <item>
     <title>Rustbound Magic Easy Mode</title>
     <link>https://mods.vintagestory.at/show/mod/3633</link>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8277#8277</guid>
     <pubDate>Tue, 18 Aug 2026 14:00:37 -0000</pubDate>
     <description>aldiclasses Dragonia Tweak Server</description>
-  </item>
-  <item>
-    <title>Dressed to Kill: REDUX</title>
-    <link>https://mods.vintagestory.at/show/mod/dressedtokillredux</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dressedtokillredux#5767</guid>
-    <pubDate>Tue, 18 Aug 2026 13:41:58 -0000</pubDate>
-    <description>A recreation of the original Dressed to Kill mod by Aloysia, compatable with 1.21+</description>
-  </item>
-  <item>
-    <title>Firewood Buff</title>
-    <link>https://mods.vintagestory.at/show/mod/scorch1out</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scorch1out#11098</guid>
-    <pubDate>Tue, 18 Aug 2026 13:41:30 -0000</pubDate>
-    <description>Buffs vanilla firewood crafting recipe </description>
-  </item>
-  <item>
-    <title>Dress to Impress: Fragments Edition</title>
-    <link>https://mods.vintagestory.at/show/mod/dtifragments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dtifragments#11097</guid>
-    <pubDate>Tue, 18 Aug 2026 13:28:54 -0000</pubDate>
-    <description>A fork of various Dress to Impress items, curated for an early medieval aesthetic.</description>
-  </item>
-  <item>
-    <title>WildcraftNutAndDryFruitFix</title>
-    <link>https://mods.vintagestory.at/show/mod/11096</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11096#11096</guid>
-    <pubDate>Tue, 18 Aug 2026 13:19:20 -0000</pubDate>
-    <description>Fixes the wildcraft recipes for certain dry fruits and nuts for the expanded foods fork 1.7.6-pre107</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Tue, 18 Aug 2026 13:14:58 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
-  </item>
-  <item>
-    <title>Darce's Drifters Redone</title>
-    <link>https://mods.vintagestory.at/show/mod/darcesdriftersredone</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darcesdriftersredone#4257</guid>
-    <pubDate>Tue, 18 Aug 2026 12:42:34 -0000</pubDate>
-    <description>Complete visual overhaul of the original Darce's Drifters.</description>
-  </item>
-  <item>
-    <title>Better Jungles (and survival modpack)</title>
-    <link>https://mods.vintagestory.at/show/mod/betterjungles</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterjungles#7602</guid>
-    <pubDate>Tue, 18 Aug 2026 12:21:24 -0000</pubDate>
-    <description>More realistic Jungles, some survival gameplay changes - ideally as part of the modpack listed below</description>
-  </item>
-  <item>
-    <title>Holdfast</title>
-    <link>https://mods.vintagestory.at/show/mod/holdfast</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/holdfast#10247</guid>
-    <pubDate>Tue, 18 Aug 2026 11:58:39 -0000</pubDate>
-    <description>Found a town. Hire workers. Watch it grow one building at a time.</description>
-  </item>
-  <item>
-    <title>Crazy Skin Customization</title>
-    <link>https://mods.vintagestory.at/show/mod/crazyskincustomization</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crazyskincustomization#1664</guid>
-    <pubDate>Tue, 18 Aug 2026 10:40:55 -0000</pubDate>
-    <description>Replaces the default skin, eye, and hair colors with a larger variety of colors.</description>
-  </item>
-  <item>
-    <title>Multiverse</title>
-    <link>https://mods.vintagestory.at/show/mod/themultiverse</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/themultiverse#10770</guid>
-    <pubDate>Tue, 18 Aug 2026 10:40:26 -0000</pubDate>
-    <description>A multi-dimensional framework, with crystals.</description>
-  </item>
-  <item>
-    <title>The Nether – A Hellish Adventure</title>
-    <link>https://mods.vintagestory.at/show/mod/nether</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nether#10772</guid>
-    <pubDate>Tue, 18 Aug 2026 10:38:46 -0000</pubDate>
-    <description>Explore a hostile new dimension filled with molten caverns, evil ores, fungi and restless spirits.</description>
   </item>
 </channel>
 </rss>
