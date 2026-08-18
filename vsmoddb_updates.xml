@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 17 Aug 2026 23:24:38 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 01:20:33 +0000</lastBuildDate>
+  <item>
+    <title>Flow Field Collisions</title>
+    <link>https://mods.vintagestory.at/show/mod/7488</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7488#7488</guid>
+    <pubDate>Tue, 18 Aug 2026 00:59:33 -0000</pubDate>
+    <description>Back-Propagated Flow Field Collisions. Whatever that means.</description>
+  </item>
+  <item>
+    <title>A Panserbjørn Story: Rebjørn</title>
+    <link>https://mods.vintagestory.at/show/mod/panserbjornrebjorn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panserbjornrebjorn#9761</guid>
+    <pubDate>Tue, 18 Aug 2026 00:52:01 -0000</pubDate>
+    <description>A Panserbjørn Story fork for the newest versions, improved it a bit.</description>
+  </item>
+  <item>
+    <title>Herbarium</title>
+    <link>https://mods.vintagestory.at/show/mod/herbarium</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/herbarium#1602</guid>
+    <pubDate>Tue, 18 Aug 2026 00:27:26 -0000</pubDate>
+    <description>A library of useful plant clases to be implemented by other mods. Does nothing on its own</description>
+  </item>
+  <item>
+    <title>Tankards, Goblets and More!</title>
+    <link>https://mods.vintagestory.at/show/mod/tankardsandgoblets</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tankardsandgoblets#3905</guid>
+    <pubDate>Tue, 18 Aug 2026 00:17:07 -0000</pubDate>
+    <description>Drink in style! Adds a variety of tankards and goblets into Vintage Story.  </description>
+  </item>
+  <item>
+    <title>Cairn — Modpack Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/cairn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
+    <pubDate>Mon, 17 Aug 2026 23:42:24 -0000</pubDate>
+    <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
+  </item>
+  <item>
+    <title>Flower Seeds</title>
+    <link>https://mods.vintagestory.at/show/mod/10407</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10407#10407</guid>
+    <pubDate>Mon, 17 Aug 2026 23:36:44 -0000</pubDate>
+    <description>Use a knife to turn flowers into seeds!</description>
+  </item>
+  <item>
+    <title>Additional Hair Colors</title>
+    <link>https://mods.vintagestory.at/show/mod/8950</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8950#8950</guid>
+    <pubDate>Mon, 17 Aug 2026 23:34:37 -0000</pubDate>
+    <description>Gives the player a lot more options for hair colors, should work with modded races.</description>
+  </item>
+  <item>
+    <title>Extended Skin Colors</title>
+    <link>https://mods.vintagestory.at/show/mod/10437</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10437#10437</guid>
+    <pubDate>Mon, 17 Aug 2026 23:31:44 -0000</pubDate>
+    <description>Adds a hex color scroller to most humanoid races!</description>
+  </item>
   <item>
     <title>Fish Breeding</title>
     <link>https://mods.vintagestory.at/show/mod/11043</link>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jsonpatcheslib#7185</guid>
     <pubDate>Mon, 17 Aug 2026 16:27:21 -0000</pubDate>
     <description>Implements more convinient syntax and more functionality for patching JSON assets.</description>
-  </item>
-  <item>
-    <title>All Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/allclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/allclasses#2689</guid>
-    <pubDate>Mon, 17 Aug 2026 16:21:33 -0000</pubDate>
-    <description>All classes mod adds 13 more (RP) classes. New metal pots, pans and more..</description>
-  </item>
-  <item>
-    <title>Inventory Colors</title>
-    <link>https://mods.vintagestory.at/show/mod/inventorycolors</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/inventorycolors#10943</guid>
-    <pubDate>Mon, 17 Aug 2026 16:19:40 -0000</pubDate>
-    <description>Color-codes equipped bags and their inventory slots for clearer portable storage.</description>
-  </item>
-  <item>
-    <title>Equus: Medieval Horses</title>
-    <link>https://mods.vintagestory.at/show/mod/equusdestrier</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusdestrier#9959</guid>
-    <pubDate>Mon, 17 Aug 2026 16:14:40 -0000</pubDate>
-    <description>Adds a medieval warhorse to the game that can be purchased from a new horse trader</description>
-  </item>
-  <item>
-    <title>topgsmod</title>
-    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Mon, 17 Aug 2026 16:03:59 -0000</pubDate>
-    <description>TopGs Community Mod</description>
-  </item>
-  <item>
-    <title>Tardis</title>
-    <link>https://mods.vintagestory.at/show/mod/tardis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tardis#11072</guid>
-    <pubDate>Mon, 17 Aug 2026 15:03:38 -0000</pubDate>
-    <description>A working TARDIS with a bigger-on-the-inside interior, flight, rooms, keys and a sonic.</description>
-  </item>
-  <item>
-    <title>Sound Physics Adapted</title>
-    <link>https://mods.vintagestory.at/show/mod/10996</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10996#10996</guid>
-    <pubDate>Mon, 17 Aug 2026 15:01:34 -0000</pubDate>
-    <description>Realistic Raytraced Audio. Walls depending on thickness and material muffle sounds and much more!</description>
-  </item>
-  <item>
-    <title>Olendril IME Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/11060</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11060#11060</guid>
-    <pubDate>Mon, 17 Aug 2026 14:45:33 -0000</pubDate>
-    <description>  A focused compatibility and quality-of-life patch for Interesting Mining &amp; Extraction.</description>
-  </item>
-  <item>
-    <title>The Nether – A Hellish Adventure</title>
-    <link>https://mods.vintagestory.at/show/mod/nether</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nether#10772</guid>
-    <pubDate>Mon, 17 Aug 2026 13:54:19 -0000</pubDate>
-    <description>Explore a hostile new dimension filled with molten caverns, evil ores, fungi and restless spirits.</description>
   </item>
 </channel>
 </rss>
