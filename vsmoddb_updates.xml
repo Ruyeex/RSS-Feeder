@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 18 Aug 2026 17:29:09 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 18:40:31 +0000</lastBuildDate>
+  <item>
+    <title>Regalia</title>
+    <link>https://mods.vintagestory.at/show/mod/regalia</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/regalia#5174</guid>
+    <pubDate>Tue, 18 Aug 2026 18:37:35 -0000</pubDate>
+    <description>Fancy clothing items for all seraphs, craftable by skilled tailors</description>
+  </item>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
+    <pubDate>Tue, 18 Aug 2026 18:32:22 -0000</pubDate>
+    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Tue, 18 Aug 2026 18:32:04 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Jack's Stone Chisels</title>
+    <link>https://mods.vintagestory.at/show/mod/jacksstonechisels</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jacksstonechisels#5319</guid>
+    <pubDate>Tue, 18 Aug 2026 18:27:28 -0000</pubDate>
+    <description>Adds a stone-age form of chisel while utilizing the club as a hammer for it.</description>
+  </item>
+  <item>
+    <title>More Elevator commands</title>
+    <link>https://mods.vintagestory.at/show/mod/moreelevatorcommands</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreelevatorcommands#11109</guid>
+    <pubDate>Tue, 18 Aug 2026 18:18:00 -0000</pubDate>
+    <description>The elevator god giveth, and now the elevator god can also taketh away.</description>
+  </item>
+  <item>
+    <title>Expanded Matter</title>
+    <link>https://mods.vintagestory.at/show/mod/em</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/em#496</guid>
+    <pubDate>Tue, 18 Aug 2026 17:58:25 -0000</pubDate>
+    <description>Library for ore, materials and item variants. Extends VS existing ore.</description>
+  </item>
+  <item>
+    <title>Lupines</title>
+    <link>https://mods.vintagestory.at/show/mod/lupines</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lupines#5723</guid>
+    <pubDate>Tue, 18 Aug 2026 17:50:05 -0000</pubDate>
+    <description>Adds playable anthro wolf like player model using Player Model Lib</description>
+  </item>
+  <item>
+    <title>KRPG Enchantment</title>
+    <link>https://mods.vintagestory.at/show/mod/krpgenchantment</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krpgenchantment#2216</guid>
+    <pubDate>Tue, 18 Aug 2026 17:43:29 -0000</pubDate>
+    <description>Adds MC-like enchantment system to VS.</description>
+  </item>
   <item>
     <title>SoundTuner</title>
     <link>https://mods.vintagestory.at/show/mod/11104</link>
@@ -39,13 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tailorsdelight#1624</guid>
     <pubDate>Tue, 18 Aug 2026 16:45:34 -0000</pubDate>
     <description>Craft and decorate with cloth, leather and hide.</description>
-  </item>
-  <item>
-    <title>Expanded Matter</title>
-    <link>https://mods.vintagestory.at/show/mod/em</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/em#496</guid>
-    <pubDate>Tue, 18 Aug 2026 16:45:15 -0000</pubDate>
-    <description>Library for ore, materials and item variants. Extends VS existing ore.</description>
   </item>
   <item>
     <title>Dressmakers</title>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10737#10737</guid>
     <pubDate>Tue, 18 Aug 2026 14:56:41 -0000</pubDate>
     <description>Quests from server Dragonia from based on alegacy base.</description>
-  </item>
-  <item>
-    <title>Wildcraft: Fruits and Nuts</title>
-    <link>https://mods.vintagestory.at/show/mod/wildcraftfruit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wildcraftfruit#1606</guid>
-    <pubDate>Tue, 18 Aug 2026 14:52:14 -0000</pubDate>
-    <description>Adds more than 200 new fruit, berry and nut plants for a variety of climate zones</description>
-  </item>
-  <item>
-    <title>Vintage Story Chinese Language Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnlangpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpack#9660</guid>
-    <pubDate>Tue, 18 Aug 2026 14:39:48 -0000</pubDate>
-    <description>Vintage Story Chinese Language Pack（复古物语模组汉化包）</description>
-  </item>
-  <item>
-    <title>Dragonia Translations</title>
-    <link>https://mods.vintagestory.at/show/mod/10016</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10016#10016</guid>
-    <pubDate>Tue, 18 Aug 2026 14:17:09 -0000</pubDate>
-    <description>Переводы и отредактированные переводы под стиль сервера. </description>
-  </item>
-  <item>
-    <title>ElectricalProgressive:ColdStore</title>
-    <link>https://mods.vintagestory.at/show/mod/10638</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10638#10638</guid>
-    <pubDate>Tue, 18 Aug 2026 14:16:37 -0000</pubDate>
-    <description>Add a cold store (room) with an internal decay rate of 0.025 times</description>
-  </item>
-  <item>
-    <title>Better Scrap fix</title>
-    <link>https://mods.vintagestory.at/show/mod/8320</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8320#8320</guid>
-    <pubDate>Tue, 18 Aug 2026 14:14:23 -0000</pubDate>
-    <description>Jonas's helmet fixed</description>
-  </item>
-  <item>
-    <title>Mastodon Trunk fix</title>
-    <link>https://mods.vintagestory.at/show/mod/9661</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9661#9661</guid>
-    <pubDate>Tue, 18 Aug 2026 14:13:31 -0000</pubDate>
-    <description>Mastodon Trunk fixed</description>
-  </item>
-  <item>
-    <title>aldiclasses Dragonia Tweak Server</title>
-    <link>https://mods.vintagestory.at/show/mod/8277</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8277#8277</guid>
-    <pubDate>Tue, 18 Aug 2026 14:00:37 -0000</pubDate>
-    <description>aldiclasses Dragonia Tweak Server</description>
   </item>
 </channel>
 </rss>
