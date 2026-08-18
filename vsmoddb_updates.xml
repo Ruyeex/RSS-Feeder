@@ -4,7 +4,182 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 18 Aug 2026 01:20:33 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 02:57:23 +0000</lastBuildDate>
+  <item>
+    <title>Vintage Vampirism</title>
+    <link>https://mods.vintagestory.at/show/mod/10330</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10330#10330</guid>
+    <pubDate>Tue, 18 Aug 2026 02:51:24 -0000</pubDate>
+    <description>Opt-in vampirism class-independent system built on top of the Vintage Aging mod.</description>
+  </item>
+  <item>
+    <title>Wilderlands Onus Moderatus</title>
+    <link>https://mods.vintagestory.at/show/mod/8790</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8790#8790</guid>
+    <pubDate>Tue, 18 Aug 2026 02:45:25 -0000</pubDate>
+    <description>- Using One Hand as a dependancy, creates three inventory bar slots with one backpack slot open.</description>
+  </item>
+  <item>
+    <title>Bookbound Classes Combat Overhaul Compatability Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/tafebbclass</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tafebbclass#11071</guid>
+    <pubDate>Tue, 18 Aug 2026 02:41:39 -0000</pubDate>
+    <description>I made this mode to combine Bookbound Classes by KardaLove</description>
+  </item>
+  <item>
+    <title>TassFactions</title>
+    <link>https://mods.vintagestory.at/show/mod/10503</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
+    <pubDate>Tue, 18 Aug 2026 02:37:05 -0000</pubDate>
+    <description>Factions - Raids - Sieges - Shops - Bounty</description>
+  </item>
+  <item>
+    <title>Freedom Units [The Reupload]</title>
+    <link>https://mods.vintagestory.at/show/mod/6554</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6554#6554</guid>
+    <pubDate>Tue, 18 Aug 2026 02:36:44 -0000</pubDate>
+    <description>Patriots use Fahrenheit</description>
+  </item>
+  <item>
+    <title>Simple Voice Chat: Voice Changer</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicevoicechanger</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicevoicechanger#10962</guid>
+    <pubDate>Tue, 18 Aug 2026 02:28:21 -0000</pubDate>
+    <description>Client-side real-time voice effects studio for Simple Voice Chat.</description>
+  </item>
+  <item>
+    <title>Simple Voice Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
+    <pubDate>Tue, 18 Aug 2026 02:26:47 -0000</pubDate>
+    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
+  </item>
+  <item>
+    <title>Lockable Cabinets</title>
+    <link>https://mods.vintagestory.at/show/mod/lockablecabinets</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lockablecabinets#11086</guid>
+    <pubDate>Tue, 18 Aug 2026 02:00:30 -0000</pubDate>
+    <description>Makes Cabinets Lockable!</description>
+  </item>
+  <item>
+    <title>Simple Voice Chat: Captions</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechatcaptions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechatcaptions#11085</guid>
+    <pubDate>Tue, 18 Aug 2026 01:26:34 -0000</pubDate>
+    <description>Client-side directional captions for game sounds and Simple Voice Chat speech.</description>
+  </item>
+  <item>
+    <title>Brass Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/brasspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/brasspatch#10783</guid>
+    <pubDate>Tue, 18 Aug 2026 01:22:36 -0000</pubDate>
+    <description>A simple patch to add brass nails &amp; strips to appropriate recipes!</description>
+  </item>
+  <item>
+    <title>Daubweave</title>
+    <link>https://mods.vintagestory.at/show/mod/daubweave</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/daubweave#10217</guid>
+    <pubDate>Tue, 18 Aug 2026 01:22:29 -0000</pubDate>
+    <description>A simple patch to buff daub output, and adds an alternative to craft daub blocks!</description>
+  </item>
+  <item>
+    <title>Pan Seashells</title>
+    <link>https://mods.vintagestory.at/show/mod/panseashells</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panseashells#9786</guid>
+    <pubDate>Tue, 18 Aug 2026 01:22:24 -0000</pubDate>
+    <description>A simple patch to add seashells into the panning droptable (for more lime)!</description>
+  </item>
+  <item>
+    <title>Fruit Buff</title>
+    <link>https://mods.vintagestory.at/show/mod/fruitbuff</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fruitbuff#9781</guid>
+    <pubDate>Tue, 18 Aug 2026 01:22:18 -0000</pubDate>
+    <description>Changes fruit trees and berry bushes to be much less of a pain to work with!</description>
+  </item>
+  <item>
+    <title>Ale Traders</title>
+    <link>https://mods.vintagestory.at/show/mod/aletraders</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aletraders#9745</guid>
+    <pubDate>Tue, 18 Aug 2026 01:22:14 -0000</pubDate>
+    <description>Adds two alcohol traders, who sell start-up distilling supplies, and buy all your spirits!</description>
+  </item>
+  <item>
+    <title>Fish Trader</title>
+    <link>https://mods.vintagestory.at/show/mod/fishtrader</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fishtrader#9614</guid>
+    <pubDate>Tue, 18 Aug 2026 01:22:08 -0000</pubDate>
+    <description>Adds the fishmonger trader, who sells fishing supplies and taxidermied catches, and buys fish!</description>
+  </item>
+  <item>
+    <title>Animal Trader</title>
+    <link>https://mods.vintagestory.at/show/mod/animaltrader</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animaltrader#9531</guid>
+    <pubDate>Tue, 18 Aug 2026 01:21:58 -0000</pubDate>
+    <description>Adds the livestock trader, who sells loads of baby animals, and buys animal products!</description>
+  </item>
+  <item>
+    <title>Decal Spraycans</title>
+    <link>https://mods.vintagestory.at/show/mod/decalspraycans</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/decalspraycans#9512</guid>
+    <pubDate>Tue, 18 Aug 2026 01:21:52 -0000</pubDate>
+    <description>Patches the Creative decal spraycans to be craftable in Survival!</description>
+  </item>
+  <item>
+    <title>Clay Press</title>
+    <link>https://mods.vintagestory.at/show/mod/claypress</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claypress#9456</guid>
+    <pubDate>Tue, 18 Aug 2026 01:21:47 -0000</pubDate>
+    <description>A simple patch to allow the pulverizer to "press" clay into tiles &amp; shingles (no more clayforming)!</description>
+  </item>
+  <item>
+    <title>Cupronickel Lanterns</title>
+    <link>https://mods.vintagestory.at/show/mod/cuprolamp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cuprolamp#9413</guid>
+    <pubDate>Tue, 18 Aug 2026 01:21:41 -0000</pubDate>
+    <description>Adds large and small cupronickel lanterns (coke not included)!</description>
+  </item>
+  <item>
+    <title>MORE GOAT</title>
+    <link>https://mods.vintagestory.at/show/mod/moregoat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moregoat#9396</guid>
+    <pubDate>Tue, 18 Aug 2026 01:21:35 -0000</pubDate>
+    <description>A simple patch to increase the maximum number of kids goats can have!</description>
+  </item>
+  <item>
+    <title>Crush Zinc Nuggets</title>
+    <link>https://mods.vintagestory.at/show/mod/crushzincnuggets</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crushzincnuggets#9334</guid>
+    <pubDate>Tue, 18 Aug 2026 01:21:28 -0000</pubDate>
+    <description>A simple patch that lets you (finally) pulverize sphalerite nuggets into powder!</description>
+  </item>
+  <item>
+    <title>Locust Drider Classes (Drocust)</title>
+    <link>https://mods.vintagestory.at/show/mod/drocustclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drocustclasses#9295</guid>
+    <pubDate>Tue, 18 Aug 2026 01:21:21 -0000</pubDate>
+    <description>Adds 5 new, exclusive classes to Wulk's Drocust race!</description>
+  </item>
+  <item>
+    <title>Recycle Sails</title>
+    <link>https://mods.vintagestory.at/show/mod/recyclesails</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/recyclesails#9250</guid>
+    <pubDate>Tue, 18 Aug 2026 01:21:15 -0000</pubDate>
+    <description>A simple recipe patch that lets you cut up small and large windmill sails to get your linen back!</description>
+  </item>
+  <item>
+    <title>Smash Metal Parts</title>
+    <link>https://mods.vintagestory.at/show/mod/smashmetalparts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smashmetalparts#9193</guid>
+    <pubDate>Tue, 18 Aug 2026 01:21:09 -0000</pubDate>
+    <description>A simple recipe patch to smash metal &amp; Jonas parts into cupronickel (with a hammer)!</description>
+  </item>
+  <item>
+    <title>Feed from Seed</title>
+    <link>https://mods.vintagestory.at/show/mod/feedfromseed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feedfromseed#9020</guid>
+    <pubDate>Tue, 18 Aug 2026 01:21:02 -0000</pubDate>
+    <description>A simple recipe patch that lets you turn your hoard of excess (appropriate) seedbags into food! </description>
+  </item>
   <item>
     <title>Flow Field Collisions</title>
     <link>https://mods.vintagestory.at/show/mod/7488</link>
@@ -39,181 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
     <pubDate>Mon, 17 Aug 2026 23:42:24 -0000</pubDate>
     <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
-  </item>
-  <item>
-    <title>Flower Seeds</title>
-    <link>https://mods.vintagestory.at/show/mod/10407</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10407#10407</guid>
-    <pubDate>Mon, 17 Aug 2026 23:36:44 -0000</pubDate>
-    <description>Use a knife to turn flowers into seeds!</description>
-  </item>
-  <item>
-    <title>Additional Hair Colors</title>
-    <link>https://mods.vintagestory.at/show/mod/8950</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8950#8950</guid>
-    <pubDate>Mon, 17 Aug 2026 23:34:37 -0000</pubDate>
-    <description>Gives the player a lot more options for hair colors, should work with modded races.</description>
-  </item>
-  <item>
-    <title>Extended Skin Colors</title>
-    <link>https://mods.vintagestory.at/show/mod/10437</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10437#10437</guid>
-    <pubDate>Mon, 17 Aug 2026 23:31:44 -0000</pubDate>
-    <description>Adds a hex color scroller to most humanoid races!</description>
-  </item>
-  <item>
-    <title>Fish Breeding</title>
-    <link>https://mods.vintagestory.at/show/mod/11043</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11043#11043</guid>
-    <pubDate>Mon, 17 Aug 2026 23:06:23 -0000</pubDate>
-    <description>A patch for my server that allows all fish to be bred with specific pellets for them</description>
-  </item>
-  <item>
-    <title>Bacon Bacon Bacon</title>
-    <link>https://mods.vintagestory.at/show/mod/baconbaconbacon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/baconbaconbacon#6895</guid>
-    <pubDate>Mon, 17 Aug 2026 22:59:42 -0000</pubDate>
-    <description>The first and (so far) only entirely and ridiculously bacon-centric mod for Vintage Story</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/10555</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
-    <pubDate>Mon, 17 Aug 2026 22:58:07 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>Calendar Handbook</title>
-    <link>https://mods.vintagestory.at/show/mod/calendarhandbook</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/calendarhandbook#11003</guid>
-    <pubDate>Mon, 17 Aug 2026 21:07:47 -0000</pubDate>
-    <description>Adds a calender showing your progress through the year and how far away winter is.</description>
-  </item>
-  <item>
-    <title>GoFogYourself</title>
-    <link>https://mods.vintagestory.at/show/mod/8072</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8072#8072</guid>
-    <pubDate>Mon, 17 Aug 2026 20:37:44 -0000</pubDate>
-    <description>GoFogYourself a standalone fog control with that "other Foggy spooky game settings too"</description>
-  </item>
-  <item>
-    <title>C&amp;N Jewelry/XSkills</title>
-    <link>https://mods.vintagestory.at/show/mod/canjewelryxskill</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelryxskill#8593</guid>
-    <pubDate>Mon, 17 Aug 2026 19:44:26 -0000</pubDate>
-    <description>Lapidary &amp; Jeweler XSkills trees for CAN Jewelry — perks for cutting, panning, encrusting and gem ex</description>
-  </item>
-  <item>
-    <title>PinyinSearch</title>
-    <link>https://mods.vintagestory.at/show/mod/pinyinsearch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pinyinsearch#8888</guid>
-    <pubDate>Mon, 17 Aug 2026 19:19:44 -0000</pubDate>
-    <description>在复古物语中使用拼音搜索信息</description>
-  </item>
-  <item>
-    <title>No Cave Music</title>
-    <link>https://mods.vintagestory.at/show/mod/7628</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7628#7628</guid>
-    <pubDate>Mon, 17 Aug 2026 18:53:10 -0000</pubDate>
-    <description>Removes cave music and doesn't stop regular music when entering caves or deep cellars.</description>
-  </item>
-  <item>
-    <title>Swixy JourneyMap</title>
-    <link>https://mods.vintagestory.at/show/mod/swixyjourneymap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swixyjourneymap#11076</guid>
-    <pubDate>Mon, 17 Aug 2026 18:52:40 -0000</pubDate>
-    <description>Swixy JourneyMap - Universal map and minimap for your gameplay.</description>
-  </item>
-  <item>
-    <title>VSDS · Vintage Story Dockerized Server</title>
-    <link>https://mods.vintagestory.at/show/mod/vsds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsds#4516</guid>
-    <pubDate>Mon, 17 Aug 2026 18:35:00 -0000</pubDate>
-    <description>Vintage Story Dockerized Server to easily deploy a Vintage Story Server anywhere!</description>
-  </item>
-  <item>
-    <title>Will Is A Bear</title>
-    <link>https://mods.vintagestory.at/show/mod/willisabear</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/willisabear#7752</guid>
-    <pubDate>Mon, 17 Aug 2026 17:53:13 -0000</pubDate>
-    <description>TTS voice over Bear noises.</description>
-  </item>
-  <item>
-    <title>Targeted Prospecting</title>
-    <link>https://mods.vintagestory.at/show/mod/targetedprospecting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/targetedprospecting#11073</guid>
-    <pubDate>Mon, 17 Aug 2026 17:52:59 -0000</pubDate>
-    <description>Targeted ore prospecting with off-hand samples, waypoint marking and prospecting pick recycling.</description>
-  </item>
-  <item>
-    <title>Louder Bears</title>
-    <link>https://mods.vintagestory.at/show/mod/louderbears</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/louderbears#7726</guid>
-    <pubDate>Mon, 17 Aug 2026 17:52:39 -0000</pubDate>
-    <description>Amplified bear noises to be more noticible.</description>
-  </item>
-  <item>
-    <title>Rename Torchholder to Sconce</title>
-    <link>https://mods.vintagestory.at/show/mod/sconce</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sconce#4560</guid>
-    <pubDate>Mon, 17 Aug 2026 17:51:37 -0000</pubDate>
-    <description>Corrects 'torchholder' to 'sconce' in game text</description>
-  </item>
-  <item>
-    <title>All Player Markers 1.0.0</title>
-    <link>https://mods.vintagestory.at/show/mod/11075</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11075#11075</guid>
-    <pubDate>Mon, 17 Aug 2026 17:35:52 -0000</pubDate>
-    <description>Fixes odd interactions between mods and the map that cause player markers to dissapear</description>
-  </item>
-  <item>
-    <title>AoS | Armor Female Seraphs Compatability</title>
-    <link>https://mods.vintagestory.at/show/mod/8914</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8914#8914</guid>
-    <pubDate>Mon, 17 Aug 2026 17:25:13 -0000</pubDate>
-    <description>Provides armor compatibility between female seraphs and various armor mods.</description>
-  </item>
-  <item>
-    <title>VS Server Panel</title>
-    <link>https://mods.vintagestory.at/show/mod/vsserverpanel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsserverpanel#2115</guid>
-    <pubDate>Mon, 17 Aug 2026 17:22:19 -0000</pubDate>
-    <description>Shows players a server panel upon loading with a server config for customization.</description>
-  </item>
-  <item>
-    <title>Common APIs</title>
-    <link>https://mods.vintagestory.at/show/mod/commonapis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/commonapis#6673</guid>
-    <pubDate>Mon, 17 Aug 2026 17:08:54 -0000</pubDate>
-    <description>A set of usefull apis/utilities for modders</description>
-  </item>
-  <item>
-    <title>Stone Age Hominina: Homo sapiens</title>
-    <link>https://mods.vintagestory.at/show/mod/sahsapiens</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sahsapiens#4483</guid>
-    <pubDate>Mon, 17 Aug 2026 17:00:53 -0000</pubDate>
-    <description>A Stone Age inspired mod that resizes all players to the average height of Stone Age Homo sapiens.</description>
-  </item>
-  <item>
-    <title>Stone Age Hominina: Homo floresiensis</title>
-    <link>https://mods.vintagestory.at/show/mod/sahfloresiensis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sahfloresiensis#4198</guid>
-    <pubDate>Mon, 17 Aug 2026 16:59:40 -0000</pubDate>
-    <description>A Stone Age inspired mod that resizes all players to the average height of Homo floresiensis.</description>
-  </item>
-  <item>
-    <title>Better and Improved Weather Continued</title>
-    <link>https://mods.vintagestory.at/show/mod/biwc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biwc#10765</guid>
-    <pubDate>Mon, 17 Aug 2026 16:35:27 -0000</pubDate>
-    <description>Better and improved weather for Vintage Story. </description>
-  </item>
-  <item>
-    <title>JSON Patches lib</title>
-    <link>https://mods.vintagestory.at/show/mod/jsonpatcheslib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jsonpatcheslib#7185</guid>
-    <pubDate>Mon, 17 Aug 2026 16:27:21 -0000</pubDate>
-    <description>Implements more convinient syntax and more functionality for patching JSON assets.</description>
   </item>
 </channel>
 </rss>
