@@ -4,20 +4,48 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 19 Aug 2026 04:39:07 +0000</lastBuildDate>
-  <item>
-    <title>AoSCeramos</title>
-    <link>https://mods.vintagestory.at/show/mod/aosceramos</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aosceramos#10869</guid>
-    <pubDate>Wed, 19 Aug 2026 04:30:17 -0000</pubDate>
-    <description>Ceramic Tile mod for floors and walls</description>
-  </item>
+  <lastBuildDate>Wed, 19 Aug 2026 05:32:39 +0000</lastBuildDate>
   <item>
     <title>Farmland Drops Soil (Updated)</title>
     <link>https://mods.vintagestory.at/show/mod/soildropsupdated</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/soildropsupdated#8396</guid>
-    <pubDate>Wed, 19 Aug 2026 04:18:17 -0000</pubDate>
+    <pubDate>Wed, 19 Aug 2026 05:32:23 -0000</pubDate>
     <description>Farmland has a chance to drop soil when broken, based on nutrient levels.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Wed, 19 Aug 2026 05:24:12 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
+  </item>
+  <item>
+    <title>AoSCeramos</title>
+    <link>https://mods.vintagestory.at/show/mod/aosceramos</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aosceramos#10869</guid>
+    <pubDate>Wed, 19 Aug 2026 05:21:55 -0000</pubDate>
+    <description>Ceramic Tile mod for floors and walls</description>
+  </item>
+  <item>
+    <title>Vintage Vampirism</title>
+    <link>https://mods.vintagestory.at/show/mod/10330</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10330#10330</guid>
+    <pubDate>Wed, 19 Aug 2026 04:58:39 -0000</pubDate>
+    <description>Opt-in vampirism class-independent system built on top of the Vintage Aging mod.</description>
+  </item>
+  <item>
+    <title>Vintage Aging</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageaging</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageaging#10206</guid>
+    <pubDate>Wed, 19 Aug 2026 04:54:23 -0000</pubDate>
+    <description>Tracks player in-game age, applies a probabilistic death-roll system and lives system.</description>
+  </item>
+  <item>
+    <title>World Edge Ward</title>
+    <link>https://mods.vintagestory.at/show/mod/11128</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11128#11128</guid>
+    <pubDate>Wed, 19 Aug 2026 04:46:08 -0000</pubDate>
+    <description>Prevent players from approaching the world edge by killing them :)</description>
   </item>
   <item>
     <title>Deep Storage Chest (Hot Guy Edition)</title>
@@ -146,13 +174,6 @@
     <description>Implements unused vanilla weapons and some armor in vanilla style</description>
   </item>
   <item>
-    <title>Vintage Aging</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageaging</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageaging#10206</guid>
-    <pubDate>Wed, 19 Aug 2026 00:14:36 -0000</pubDate>
-    <description>Tracks player in-game age, applies a probabilistic death-roll system and lives system.</description>
-  </item>
-  <item>
     <title>Expanded Foods: Chef's Tricks 1.0.0-dev.4</title>
     <link>https://mods.vintagestory.at/show/mod/efchefstricks</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/efchefstricks#9585</guid>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/expandedfoods#16</guid>
     <pubDate>Tue, 18 Aug 2026 22:36:55 -0000</pubDate>
     <description>Adds a variety of new uses for existing foods.</description>
-  </item>
-  <item>
-    <title>A Culinary Artillery 2.0.0-dev.22</title>
-    <link>https://mods.vintagestory.at/show/mod/aculinaryartillery</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aculinaryartillery#843</guid>
-    <pubDate>Tue, 18 Aug 2026 22:35:31 -0000</pubDate>
-    <description>Adds an arsenal of tools to enhance the culinary experience.</description>
-  </item>
-  <item>
-    <title>Scarcity and Avoidance</title>
-    <link>https://mods.vintagestory.at/show/mod/scarcityandavoidance</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scarcityandavoidance#11119</guid>
-    <pubDate>Tue, 18 Aug 2026 22:31:16 -0000</pubDate>
-    <description>Makes wildlife scarcer, warier and ecologically persistent for more meaningful hunting.</description>
-  </item>
-  <item>
-    <title>The Hunter</title>
-    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
-    <pubDate>Tue, 18 Aug 2026 22:13:36 -0000</pubDate>
-    <description>Track prey, follow blood, carry carcasses, compost dung, and have smarter wolves.</description>
   </item>
 </channel>
 </rss>
