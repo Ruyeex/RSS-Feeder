@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 19 Aug 2026 11:27:27 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 12:51:42 +0000</lastBuildDate>
+  <item>
+    <title>Sauna</title>
+    <link>https://mods.vintagestory.at/show/mod/10992</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10992#10992</guid>
+    <pubDate>Wed, 19 Aug 2026 12:44:45 -0000</pubDate>
+    <description>Seal a room, light the iron stove, splash a watering can over the hot stones, and you have a sauna</description>
+  </item>
+  <item>
+    <title>The Hunter</title>
+    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
+    <pubDate>Wed, 19 Aug 2026 12:04:05 -0000</pubDate>
+    <description>Track prey, follow blood, carry carcasses, compost dung, and have smarter wolves.</description>
+  </item>
+  <item>
+    <title>Keep Rapids</title>
+    <link>https://mods.vintagestory.at/show/mod/keeprapids</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/keeprapids#9904</guid>
+    <pubDate>Wed, 19 Aug 2026 11:58:05 -0000</pubDate>
+    <description>Allows placing multiple water wheels on a single rapid stream by keeping the water as rapids.</description>
+  </item>
+  <item>
+    <title>Metal Pots &amp; Chiseled Ground Placement Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/10993</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10993#10993</guid>
+    <pubDate>Wed, 19 Aug 2026 11:57:50 -0000</pubDate>
+    <description>Patch to add extra compatibility between Metal Cooking Pots and Chiseled Ground Placement.</description>
+  </item>
+  <item>
+    <title>Peat for Charcoal</title>
+    <link>https://mods.vintagestory.at/show/mod/peatforcharcoal</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/peatforcharcoal#10384</guid>
+    <pubDate>Wed, 19 Aug 2026 11:57:38 -0000</pubDate>
+    <description>Allows using peat bricks as a substitute for firewood + changes to Peat piles.</description>
+  </item>
+  <item>
+    <title>Colored Sashes</title>
+    <link>https://mods.vintagestory.at/show/mod/coloredsashes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/coloredsashes#2632</guid>
+    <pubDate>Wed, 19 Aug 2026 11:52:03 -0000</pubDate>
+    <description>Adds a full set of craftable sashes like the malefactor's in different cloth colors.</description>
+  </item>
   <item>
     <title>Shovel that Muck</title>
     <link>https://mods.vintagestory.at/show/mod/shoveledmuck</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hotguyedition#4192</guid>
     <pubDate>Wed, 19 Aug 2026 04:00:56 -0000</pubDate>
     <description>Spend a temporal gear, gain certified freshness </description>
-  </item>
-  <item>
-    <title>The Nether – A Hellish Adventure</title>
-    <link>https://mods.vintagestory.at/show/mod/nether</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nether#10772</guid>
-    <pubDate>Wed, 19 Aug 2026 03:37:03 -0000</pubDate>
-    <description>Explore a hostile new dimension filled with molten caverns, evil ores, fungi and restless spirits.</description>
-  </item>
-  <item>
-    <title>No Indoor Fog Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/noindoorfog</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noindoorfog#6064</guid>
-    <pubDate>Wed, 19 Aug 2026 02:57:55 -0000</pubDate>
-    <description>Get rid of fog in your home! Removes fog from indoors!</description>
-  </item>
-  <item>
-    <title>Floating Landmasses</title>
-    <link>https://mods.vintagestory.at/show/mod/floatinglandmasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floatinglandmasses#346</guid>
-    <pubDate>Wed, 19 Aug 2026 02:49:10 -0000</pubDate>
-    <description>Adds in huge floating islands that rarely spawn ingame! These islands can have many things atop o...</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Wed, 19 Aug 2026 02:48:59 -0000</pubDate>
-    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Wed, 19 Aug 2026 02:45:51 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>GlobalQualityGears</title>
-    <link>https://mods.vintagestory.at/show/mod/11125</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11125#11125</guid>
-    <pubDate>Wed, 19 Aug 2026 02:37:30 -0000</pubDate>
-    <description>All Things RPG Server Patch for other mods</description>
   </item>
 </channel>
 </rss>
