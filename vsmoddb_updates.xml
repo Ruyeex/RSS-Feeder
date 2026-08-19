@@ -4,13 +4,62 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 19 Aug 2026 16:33:51 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 17:28:16 +0000</lastBuildDate>
+  <item>
+    <title>VSA - BeamQoL</title>
+    <link>https://mods.vintagestory.at/show/mod/10475</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10475#10475</guid>
+    <pubDate>Wed, 19 Aug 2026 17:21:00 -0000</pubDate>
+    <description>Survival-compatible, symmetric &amp; systematic beam placement, clean snap logic. Updates will follow</description>
+  </item>
+  <item>
+    <title>GlobalSRVCore</title>
+    <link>https://mods.vintagestory.at/show/mod/globalsrvcore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/globalsrvcore#6670</guid>
+    <pubDate>Wed, 19 Aug 2026 16:55:56 -0000</pubDate>
+    <description>A collection of modified and altered mods for the GlobalSRV project server.</description>
+  </item>
+  <item>
+    <title>Cycle of Life: RealFauna Pack</title>
+    <link>https://mods.vintagestory.at/show/mod/colrealfauna</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/colrealfauna#11140</guid>
+    <pubDate>Wed, 19 Aug 2026 16:39:56 -0000</pubDate>
+    <description>A realistic overlay pack for Cycle of Life.</description>
+  </item>
+  <item>
+    <title>Fablewood Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Wed, 19 Aug 2026 16:39:18 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
+  <item>
+    <title>C&amp;N Auction</title>
+    <link>https://mods.vintagestory.at/show/mod/canauction</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canauction#11099</guid>
+    <pubDate>Wed, 19 Aug 2026 16:38:50 -0000</pubDate>
+    <description>Player-driven auction house with bids, buyouts, standing buy offers and an optional price-reactive m</description>
+  </item>
+  <item>
+    <title>Fablewood Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Wed, 19 Aug 2026 16:38:07 -0000</pubDate>
+    <description>Skill and class mod for the Fablewood server</description>
+  </item>
   <item>
     <title>Muppers Arcana</title>
     <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
     <pubDate>Wed, 19 Aug 2026 16:31:04 -0000</pubDate>
     <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>Cycle of Life</title>
+    <link>https://mods.vintagestory.at/show/mod/cycleoflife</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cycleoflife#11139</guid>
+    <pubDate>Wed, 19 Aug 2026 16:30:58 -0000</pubDate>
+    <description>A realistic simulated fauna ecosystem.</description>
   </item>
   <item>
     <title>Cairn — Modpack Manager</title>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
     <pubDate>Wed, 19 Aug 2026 12:04:05 -0000</pubDate>
     <description>Track prey, follow blood, carry carcasses, compost dung, and have smarter wolves.</description>
-  </item>
-  <item>
-    <title>Keep Rapids</title>
-    <link>https://mods.vintagestory.at/show/mod/keeprapids</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/keeprapids#9904</guid>
-    <pubDate>Wed, 19 Aug 2026 11:58:05 -0000</pubDate>
-    <description>Allows placing multiple water wheels on a single rapid stream by keeping the water as rapids.</description>
-  </item>
-  <item>
-    <title>Metal Pots &amp; Chiseled Ground Placement Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/10993</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10993#10993</guid>
-    <pubDate>Wed, 19 Aug 2026 11:57:50 -0000</pubDate>
-    <description>Patch to add extra compatibility between Metal Cooking Pots and Chiseled Ground Placement.</description>
-  </item>
-  <item>
-    <title>Peat for Charcoal</title>
-    <link>https://mods.vintagestory.at/show/mod/peatforcharcoal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/peatforcharcoal#10384</guid>
-    <pubDate>Wed, 19 Aug 2026 11:57:38 -0000</pubDate>
-    <description>Allows using peat bricks as a substitute for firewood + changes to Peat piles.</description>
-  </item>
-  <item>
-    <title>Colored Sashes</title>
-    <link>https://mods.vintagestory.at/show/mod/coloredsashes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/coloredsashes#2632</guid>
-    <pubDate>Wed, 19 Aug 2026 11:52:03 -0000</pubDate>
-    <description>Adds a full set of craftable sashes like the malefactor's in different cloth colors.</description>
-  </item>
-  <item>
-    <title>Shovel that Muck</title>
-    <link>https://mods.vintagestory.at/show/mod/shoveledmuck</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shoveledmuck#11134</guid>
-    <pubDate>Wed, 19 Aug 2026 11:13:05 -0000</pubDate>
-    <description>Makes Muck Shovels from IME use durability based on actual amount collected</description>
-  </item>
-  <item>
-    <title>Boat Autopilot</title>
-    <link>https://mods.vintagestory.at/show/mod/10304</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10304#10304</guid>
-    <pubDate>Wed, 19 Aug 2026 11:02:46 -0000</pubDate>
-    <description>Long boat trips in Vintage Story are beautiful… the first three times.</description>
-  </item>
-  <item>
-    <title>Rudiments</title>
-    <link>https://mods.vintagestory.at/show/mod/9305</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
-    <pubDate>Wed, 19 Aug 2026 11:01:03 -0000</pubDate>
-    <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
   </item>
 </channel>
 </rss>
