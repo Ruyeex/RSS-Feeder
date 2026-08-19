@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 19 Aug 2026 12:51:42 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 13:46:14 +0000</lastBuildDate>
+  <item>
+    <title>The Revived Lands [PATCHES]</title>
+    <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
+    <pubDate>Wed, 19 Aug 2026 13:40:14 -0000</pubDate>
+    <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
+  </item>
+  <item>
+    <title>Burnable roofs</title>
+    <link>https://mods.vintagestory.at/show/mod/burnableroofs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/burnableroofs#4951</guid>
+    <pubDate>Wed, 19 Aug 2026 13:39:07 -0000</pubDate>
+    <description>Allow all flammable roofing to be used as fuel. That's it</description>
+  </item>
+  <item>
+    <title>Splittable stone paths</title>
+    <link>https://mods.vintagestory.at/show/mod/splittablestonepaths</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/splittablestonepaths#5064</guid>
+    <pubDate>Wed, 19 Aug 2026 13:32:44 -0000</pubDate>
+    <description>Split stone path blocks into stairs, slabs and quarters, or combine them back into full blocks</description>
+  </item>
+  <item>
+    <title>Vintage Menu</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagemenu</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagemenu#11132</guid>
+    <pubDate>Wed, 19 Aug 2026 13:29:50 -0000</pubDate>
+    <description>Reverts the main menu backgrounds to those from 1.21!</description>
+  </item>
+  <item>
+    <title>Fruit in troughs</title>
+    <link>https://mods.vintagestory.at/show/mod/fruitintroughs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fruitintroughs#5863</guid>
+    <pubDate>Wed, 19 Aug 2026 13:28:38 -0000</pubDate>
+    <description>Allows all fruit types to be placed in troughs</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Wed, 19 Aug 2026 13:21:40 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>Threnkal</title>
+    <link>https://mods.vintagestory.at/show/mod/threnkal</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/threnkal#10944</guid>
+    <pubDate>Wed, 19 Aug 2026 13:21:23 -0000</pubDate>
+    <description>A race of cow folks based on minotaurs and taurens from WoW.</description>
+  </item>
+  <item>
+    <title>Furio's Telescope</title>
+    <link>https://mods.vintagestory.at/show/mod/telescopemod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/telescopemod#10648</guid>
+    <pubDate>Wed, 19 Aug 2026 13:18:24 -0000</pubDate>
+    <description>Functional Telescopes with celestial body Observation Mechanic. More features in development.</description>
+  </item>
+  <item>
+    <title>Better Jungles (and survival modpack)</title>
+    <link>https://mods.vintagestory.at/show/mod/betterjungles</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterjungles#7602</guid>
+    <pubDate>Wed, 19 Aug 2026 12:54:43 -0000</pubDate>
+    <description>More realistic Jungles, some survival gameplay changes - ideally as part of the modpack listed below</description>
+  </item>
   <item>
     <title>Sauna</title>
     <link>https://mods.vintagestory.at/show/mod/10992</link>
@@ -74,13 +137,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/purprill#11133</guid>
     <pubDate>Wed, 19 Aug 2026 10:59:53 -0000</pubDate>
     <description>Makes it possible to put prill from IME into resource bins from Purposeful Storage</description>
-  </item>
-  <item>
-    <title>Vintage Menu</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagemenu</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagemenu#11132</guid>
-    <pubDate>Wed, 19 Aug 2026 10:48:40 -0000</pubDate>
-    <description>Reverts the main menu backgrounds to those from 1.21!</description>
   </item>
   <item>
     <title>Dana Can Cook and Butchering Patch</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
     <pubDate>Wed, 19 Aug 2026 06:05:50 -0000</pubDate>
     <description>Harmony patches for compatibility.</description>
-  </item>
-  <item>
-    <title>Fablewood Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Wed, 19 Aug 2026 06:05:06 -0000</pubDate>
-    <description>JSON content patches</description>
-  </item>
-  <item>
-    <title>Farmland Drops Soil (Updated)</title>
-    <link>https://mods.vintagestory.at/show/mod/soildropsupdated</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/soildropsupdated#8396</guid>
-    <pubDate>Wed, 19 Aug 2026 05:32:23 -0000</pubDate>
-    <description>Farmland has a chance to drop soil when broken, based on nutrient levels.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Wed, 19 Aug 2026 05:24:12 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
-  </item>
-  <item>
-    <title>AoSCeramos</title>
-    <link>https://mods.vintagestory.at/show/mod/aosceramos</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aosceramos#10869</guid>
-    <pubDate>Wed, 19 Aug 2026 05:21:55 -0000</pubDate>
-    <description>Ceramic Tile mod for floors and walls</description>
-  </item>
-  <item>
-    <title>Vintage Vampirism</title>
-    <link>https://mods.vintagestory.at/show/mod/10330</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10330#10330</guid>
-    <pubDate>Wed, 19 Aug 2026 04:58:39 -0000</pubDate>
-    <description>Opt-in vampirism class-independent system built on top of the Vintage Aging mod.</description>
-  </item>
-  <item>
-    <title>Vintage Aging</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageaging</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageaging#10206</guid>
-    <pubDate>Wed, 19 Aug 2026 04:54:23 -0000</pubDate>
-    <description>Tracks player in-game age, applies a probabilistic death-roll system and lives system.</description>
-  </item>
-  <item>
-    <title>World Edge Ward</title>
-    <link>https://mods.vintagestory.at/show/mod/11128</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11128#11128</guid>
-    <pubDate>Wed, 19 Aug 2026 04:46:08 -0000</pubDate>
-    <description>Prevent players from approaching the world edge by killing them :)</description>
-  </item>
-  <item>
-    <title>Deep Storage Chest (Hot Guy Edition)</title>
-    <link>https://mods.vintagestory.at/show/mod/hotguyedition</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hotguyedition#4192</guid>
-    <pubDate>Wed, 19 Aug 2026 04:00:56 -0000</pubDate>
-    <description>Spend a temporal gear, gain certified freshness </description>
   </item>
 </channel>
 </rss>
