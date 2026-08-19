@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 19 Aug 2026 19:27:33 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 20:30:34 +0000</lastBuildDate>
+  <item>
+    <title>Liber Terra</title>
+    <link>https://mods.vintagestory.at/show/mod/liberterra</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/liberterra#10763</guid>
+    <pubDate>Wed, 19 Aug 2026 20:25:34 -0000</pubDate>
+    <description>Pre-1300 CE public-domain literature as lore books, pile &amp; stack books,oh and books are weapons now.</description>
+  </item>
+  <item>
+    <title>Hibiskus Kilts</title>
+    <link>https://mods.vintagestory.at/show/mod/hibiskuskilts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hibiskuskilts#11094</guid>
+    <pubDate>Wed, 19 Aug 2026 20:23:43 -0000</pubDate>
+    <description>Adds different kilts based on real tartan patterns to the game.</description>
+  </item>
+  <item>
+    <title>TentBag-Reworked</title>
+    <link>https://mods.vintagestory.at/show/mod/tentbagreworked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tentbagreworked#3558</guid>
+    <pubDate>Wed, 19 Aug 2026 20:17:39 -0000</pubDate>
+    <description>Adds a tent bag for Vintage Story with scaling hunger cost based on tent complexity</description>
+  </item>
+  <item>
+    <title>xSkills Gilded Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/5529</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5529#5529</guid>
+    <pubDate>Wed, 19 Aug 2026 20:17:26 -0000</pubDate>
+    <description>This mod adds a beautifully designed, immersive, and user-friendly interface for xSkills. </description>
+  </item>
+  <item>
+    <title>xLib Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7618</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7618#7618</guid>
+    <pubDate>Wed, 19 Aug 2026 20:17:14 -0000</pubDate>
+    <description>XLib provides an interface to add skills, abilities and effects to the game.</description>
+  </item>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Wed, 19 Aug 2026 20:17:07 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
+  <item>
+    <title>Nadilion Server Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/5684</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5684#5684</guid>
+    <pubDate>Wed, 19 Aug 2026 20:12:45 -0000</pubDate>
+    <description>Tweaks for the Nadilion gaming server</description>
+  </item>
+  <item>
+    <title>Spiderbeaks Crossbow Plank Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/scpp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scpp#11143</guid>
+    <pubDate>Wed, 19 Aug 2026 20:11:06 -0000</pubDate>
+    <description>The mod simply patches the crossbow bolts in maltiez's crossbows to use planks from any mod</description>
+  </item>
+  <item>
+    <title>Optimum</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Wed, 19 Aug 2026 20:08:18 -0000</pubDate>
+    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
+  </item>
+  <item>
+    <title>Skillbooks: Stats</title>
+    <link>https://mods.vintagestory.at/show/mod/11005</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11005#11005</guid>
+    <pubDate>Wed, 19 Aug 2026 20:06:16 -0000</pubDate>
+    <description>Single-use books that permanently grant a stat trait when read. Works standalone or with core.</description>
+  </item>
+  <item>
+    <title>Skillbooks Core</title>
+    <link>https://mods.vintagestory.at/show/mod/11002</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11002#11002</guid>
+    <pubDate>Wed, 19 Aug 2026 20:05:12 -0000</pubDate>
+    <description>Single-use books that permanently grant a crafting trait when read, discovered from any mod.</description>
+  </item>
+  <item>
+    <title>BetterHandbook</title>
+    <link>https://mods.vintagestory.at/show/mod/8762</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8762#8762</guid>
+    <pubDate>Wed, 19 Aug 2026 19:52:26 -0000</pubDate>
+    <description>A faster, smarter handbook with mod tabs, recipe lookups, and crafting auto fill.</description>
+  </item>
   <item>
     <title>All Classes</title>
     <link>https://mods.vintagestory.at/show/mod/allclasses</link>
@@ -32,20 +116,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10784#10784</guid>
     <pubDate>Wed, 19 Aug 2026 19:04:56 -0000</pubDate>
     <description>Imagine if Rimworld, Project Zomboid, and Oxygen not Included survival was combined.</description>
-  </item>
-  <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Wed, 19 Aug 2026 18:59:02 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
-    <title>Hibiskus Kilts</title>
-    <link>https://mods.vintagestory.at/show/mod/hibiskuskilts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hibiskuskilts#11094</guid>
-    <pubDate>Wed, 19 Aug 2026 18:57:49 -0000</pubDate>
-    <description>Adds different kilts based on real tartan patterns to the game.</description>
   </item>
   <item>
     <title>Red's Realm Classes</title>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canauction#11099</guid>
     <pubDate>Wed, 19 Aug 2026 16:38:50 -0000</pubDate>
     <description>Player-driven auction house with bids, buyouts, standing buy offers and an optional price-reactive m</description>
-  </item>
-  <item>
-    <title>Fablewood Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/10778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
-    <pubDate>Wed, 19 Aug 2026 16:38:07 -0000</pubDate>
-    <description>Skill and class mod for the Fablewood server</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Wed, 19 Aug 2026 16:31:04 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
-  </item>
-  <item>
-    <title>Cycle of Life</title>
-    <link>https://mods.vintagestory.at/show/mod/cycleoflife</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cycleoflife#11139</guid>
-    <pubDate>Wed, 19 Aug 2026 16:30:58 -0000</pubDate>
-    <description>A realistic simulated fauna ecosystem.</description>
-  </item>
-  <item>
-    <title>Hirelings</title>
-    <link>https://mods.vintagestory.at/show/mod/11138</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11138#11138</guid>
-    <pubDate>Wed, 19 Aug 2026 15:51:41 -0000</pubDate>
-    <description>NPCs for hire</description>
-  </item>
-  <item>
-    <title>Cairn — Modpack Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/cairn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
-    <pubDate>Wed, 19 Aug 2026 15:35:15 -0000</pubDate>
-    <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
-  </item>
-  <item>
-    <title>Swixy JourneyMap</title>
-    <link>https://mods.vintagestory.at/show/mod/swixyjourneymap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swixyjourneymap#11076</guid>
-    <pubDate>Wed, 19 Aug 2026 15:31:28 -0000</pubDate>
-    <description>Swixy JourneyMap - Universal map and minimap for your gameplay.</description>
-  </item>
-  <item>
-    <title>Dead</title>
-    <link>https://mods.vintagestory.at/show/mod/dead</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
-    <pubDate>Wed, 19 Aug 2026 15:20:04 -0000</pubDate>
-    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
-  </item>
-  <item>
-    <title>Frontier Claims Map</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
-    <pubDate>Wed, 19 Aug 2026 15:03:37 -0000</pubDate>
-    <description>Claim map and access controls for internal testing on a private server.</description>
-  </item>
-  <item>
-    <title>Fablewood Armory</title>
-    <link>https://mods.vintagestory.at/show/mod/11137</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11137#11137</guid>
-    <pubDate>Wed, 19 Aug 2026 14:53:37 -0000</pubDate>
-    <description>Pack of armor sets</description>
-  </item>
-  <item>
-    <title>Pin Matrix - Waypoint Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/10760</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10760#10760</guid>
-    <pubDate>Wed, 19 Aug 2026 14:45:51 -0000</pubDate>
-    <description>Client-side bulk waypoint manager for Vintage Story</description>
   </item>
 </channel>
 </rss>
