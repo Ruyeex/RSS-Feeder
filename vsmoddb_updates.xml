@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 19 Aug 2026 10:30:56 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 11:27:27 +0000</lastBuildDate>
+  <item>
+    <title>Shovel that Muck</title>
+    <link>https://mods.vintagestory.at/show/mod/shoveledmuck</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shoveledmuck#11134</guid>
+    <pubDate>Wed, 19 Aug 2026 11:13:05 -0000</pubDate>
+    <description>Makes Muck Shovels from IME use durability based on actual amount collected</description>
+  </item>
+  <item>
+    <title>Boat Autopilot</title>
+    <link>https://mods.vintagestory.at/show/mod/10304</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10304#10304</guid>
+    <pubDate>Wed, 19 Aug 2026 11:02:46 -0000</pubDate>
+    <description>Long boat trips in Vintage Story are beautiful… the first three times.</description>
+  </item>
+  <item>
+    <title>Rudiments</title>
+    <link>https://mods.vintagestory.at/show/mod/9305</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
+    <pubDate>Wed, 19 Aug 2026 11:01:03 -0000</pubDate>
+    <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
+  </item>
+  <item>
+    <title>Purposefull Prill</title>
+    <link>https://mods.vintagestory.at/show/mod/purprill</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/purprill#11133</guid>
+    <pubDate>Wed, 19 Aug 2026 10:59:53 -0000</pubDate>
+    <description>Makes it possible to put prill from IME into resource bins from Purposeful Storage</description>
+  </item>
+  <item>
+    <title>Vintage Menu</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagemenu</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagemenu#11132</guid>
+    <pubDate>Wed, 19 Aug 2026 10:48:40 -0000</pubDate>
+    <description>Reverts the main menu backgrounds to those from 1.21!</description>
+  </item>
+  <item>
+    <title>Dana Can Cook and Butchering Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/11131</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11131#11131</guid>
+    <pubDate>Wed, 19 Aug 2026 10:34:58 -0000</pubDate>
+    <description>Adds bloodbreads from Butchering as a valid source for bread slices</description>
+  </item>
   <item>
     <title>topgsmod</title>
     <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11125#11125</guid>
     <pubDate>Wed, 19 Aug 2026 02:37:30 -0000</pubDate>
     <description>All Things RPG Server Patch for other mods</description>
-  </item>
-  <item>
-    <title>ItemRarityLevelUpFix</title>
-    <link>https://mods.vintagestory.at/show/mod/11126</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11126#11126</guid>
-    <pubDate>Wed, 19 Aug 2026 02:24:27 -0000</pubDate>
-    <description>Another Patch for All Things RPG server</description>
-  </item>
-  <item>
-    <title>GlobalLevelUpPatch</title>
-    <link>https://mods.vintagestory.at/show/mod/11124</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11124#11124</guid>
-    <pubDate>Wed, 19 Aug 2026 02:23:13 -0000</pubDate>
-    <description>Patch for skills for All Things RPG Server</description>
-  </item>
-  <item>
-    <title>CrashGuard</title>
-    <link>https://mods.vintagestory.at/show/mod/11123</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11123#11123</guid>
-    <pubDate>Wed, 19 Aug 2026 02:22:31 -0000</pubDate>
-    <description>Handbook crashguard and etc for All Things RPG server</description>
-  </item>
-  <item>
-    <title>BowQualityRarityMod</title>
-    <link>https://mods.vintagestory.at/show/mod/11122</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11122#11122</guid>
-    <pubDate>Wed, 19 Aug 2026 02:21:29 -0000</pubDate>
-    <description>A Patch for All Things RPG server. Fixes bows and other items</description>
-  </item>
-  <item>
-    <title>YTT Save Updater Utility</title>
-    <link>https://mods.vintagestory.at/show/mod/yttsaveupgrader</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yttsaveupgrader#11121</guid>
-    <pubDate>Wed, 19 Aug 2026 01:36:18 -0000</pubDate>
-    <description>Updates saves from the last version to the one that matches the save updated version.</description>
-  </item>
-  <item>
-    <title>Eternal Stew</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalstew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalstew#6196</guid>
-    <pubDate>Wed, 19 Aug 2026 01:34:41 -0000</pubDate>
-    <description>Eternal Stew: a stove and pot that keep your stew simmering forever.</description>
   </item>
 </channel>
 </rss>
