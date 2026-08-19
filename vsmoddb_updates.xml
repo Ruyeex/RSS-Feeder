@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 19 Aug 2026 05:32:39 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 06:48:07 +0000</lastBuildDate>
+  <item>
+    <title>Fablewood Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Wed, 19 Aug 2026 06:06:58 -0000</pubDate>
+    <description>Skill and class mod for the Fablewood server</description>
+  </item>
+  <item>
+    <title>Fablewood Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Wed, 19 Aug 2026 06:05:50 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
+  <item>
+    <title>Fablewood Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
+    <pubDate>Wed, 19 Aug 2026 06:05:06 -0000</pubDate>
+    <description>JSON content patches</description>
+  </item>
   <item>
     <title>Farmland Drops Soil (Updated)</title>
     <link>https://mods.vintagestory.at/show/mod/soildropsupdated</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10268#10268</guid>
     <pubDate>Tue, 18 Aug 2026 22:58:57 -0000</pubDate>
     <description>This a fork of  SpecializedBags Revived with a few things from BackPackPlus for my personal server.</description>
-  </item>
-  <item>
-    <title>Updated Hieronymus's reptiles collection</title>
-    <link>https://mods.vintagestory.at/show/mod/hieronymusreptiles</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hieronymusreptiles#3503</guid>
-    <pubDate>Tue, 18 Aug 2026 22:56:24 -0000</pubDate>
-    <description>An unofficial update of Hieronymus's various mobs</description>
-  </item>
-  <item>
-    <title>Expanded Foods: Meals Module 1.0.0-dev.6</title>
-    <link>https://mods.vintagestory.at/show/mod/efmealsmodule</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/efmealsmodule#9270</guid>
-    <pubDate>Tue, 18 Aug 2026 22:37:40 -0000</pubDate>
-    <description>Fancy new meals for the discerning palate. </description>
-  </item>
-  <item>
-    <title>Expanded Foods: Core 2.0.0-dev.13</title>
-    <link>https://mods.vintagestory.at/show/mod/expandedfoods</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/expandedfoods#16</guid>
-    <pubDate>Tue, 18 Aug 2026 22:36:55 -0000</pubDate>
-    <description>Adds a variety of new uses for existing foods.</description>
   </item>
 </channel>
 </rss>
