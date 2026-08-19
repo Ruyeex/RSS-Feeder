@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 18 Aug 2026 23:24:08 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 01:22:22 +0000</lastBuildDate>
+  <item>
+    <title>Realistic Soap</title>
+    <link>https://mods.vintagestory.at/show/mod/realisticsoap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticsoap#10983</guid>
+    <pubDate>Wed, 19 Aug 2026 01:20:23 -0000</pubDate>
+    <description>Leach wood ash into lye, boil it with fat, cure the bars, then wash, because being filthy now costs</description>
+  </item>
+  <item>
+    <title>Adjacent Ignition</title>
+    <link>https://mods.vintagestory.at/show/mod/adjacentignition</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/adjacentignition#11117</guid>
+    <pubDate>Wed, 19 Aug 2026 01:16:54 -0000</pubDate>
+    <description>Fire spreads between adjacent fire-based workstations (ovens, bloomeries, etc.) for bulk ignition.</description>
+  </item>
+  <item>
+    <title>Animal Kinship</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinship</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinship#9647</guid>
+    <pubDate>Wed, 19 Aug 2026 01:15:34 -0000</pubDate>
+    <description>Animals recognize their feral kin, with simple taming for supported wildlife.</description>
+  </item>
+  <item>
+    <title>Furio's Telescope</title>
+    <link>https://mods.vintagestory.at/show/mod/telescopemod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/telescopemod#10648</guid>
+    <pubDate>Wed, 19 Aug 2026 01:14:05 -0000</pubDate>
+    <description>(ALPHA) Telescope mod in development, basic functionality right now.</description>
+  </item>
+  <item>
+    <title>Vanilla armory</title>
+    <link>https://mods.vintagestory.at/show/mod/3927</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3927#3927</guid>
+    <pubDate>Wed, 19 Aug 2026 00:19:01 -0000</pubDate>
+    <description>Implements unused vanilla weapons and some armor in vanilla style</description>
+  </item>
+  <item>
+    <title>Vintage Aging</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageaging</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageaging#10206</guid>
+    <pubDate>Wed, 19 Aug 2026 00:14:36 -0000</pubDate>
+    <description>Tracks player in-game age, applies a probabilistic death-roll system and lives system.</description>
+  </item>
   <item>
     <title>Expanded Foods: Chef's Tricks 1.0.0-dev.4</title>
     <link>https://mods.vintagestory.at/show/mod/efchefstricks</link>
@@ -104,7 +146,7 @@
     <description>A sleek Vintage Story launcher for instances, mods, accounts and playtime tracking.</description>
   </item>
   <item>
-    <title>Immersive Heat Sources</title>
+    <title>Immersive Heat</title>
     <link>https://mods.vintagestory.at/show/mod/iheat</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/iheat#10640</guid>
     <pubDate>Tue, 18 Aug 2026 20:08:24 -0000</pubDate>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canclaims#589</guid>
     <pubDate>Tue, 18 Aug 2026 19:09:55 -0000</pubDate>
     <description>Land protection mod.</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
-    <pubDate>Tue, 18 Aug 2026 18:48:53 -0000</pubDate>
-    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
-  </item>
-  <item>
-    <title>Regalia</title>
-    <link>https://mods.vintagestory.at/show/mod/regalia</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/regalia#5174</guid>
-    <pubDate>Tue, 18 Aug 2026 18:37:35 -0000</pubDate>
-    <description>Fancy clothing items for all seraphs, craftable by skilled tailors</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
-    <pubDate>Tue, 18 Aug 2026 18:32:22 -0000</pubDate>
-    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Tue, 18 Aug 2026 18:32:04 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Jack's Stone Chisels</title>
-    <link>https://mods.vintagestory.at/show/mod/jacksstonechisels</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jacksstonechisels#5319</guid>
-    <pubDate>Tue, 18 Aug 2026 18:27:28 -0000</pubDate>
-    <description>Adds a stone-age form of chisel while utilizing the club as a hammer for it.</description>
-  </item>
-  <item>
-    <title>More Elevator commands</title>
-    <link>https://mods.vintagestory.at/show/mod/moreelevatorcommands</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreelevatorcommands#11109</guid>
-    <pubDate>Tue, 18 Aug 2026 18:18:00 -0000</pubDate>
-    <description>The elevator god giveth, and now the elevator god can also taketh away.</description>
   </item>
 </channel>
 </rss>
