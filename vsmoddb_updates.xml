@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 19 Aug 2026 02:59:28 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 03:53:02 +0000</lastBuildDate>
+  <item>
+    <title>The Nether – A Hellish Adventure</title>
+    <link>https://mods.vintagestory.at/show/mod/nether</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nether#10772</guid>
+    <pubDate>Wed, 19 Aug 2026 03:37:03 -0000</pubDate>
+    <description>Explore a hostile new dimension filled with molten caverns, evil ores, fungi and restless spirits.</description>
+  </item>
   <item>
     <title>No Indoor Fog Fix</title>
     <link>https://mods.vintagestory.at/show/mod/noindoorfog</link>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11118#11118</guid>
     <pubDate>Tue, 18 Aug 2026 22:09:30 -0000</pubDate>
     <description>Displays a breakdown of player stats on hover</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Tue, 18 Aug 2026 21:45:39 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
   </item>
 </channel>
 </rss>
