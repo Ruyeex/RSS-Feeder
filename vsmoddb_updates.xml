@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 19 Aug 2026 03:53:02 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 04:39:07 +0000</lastBuildDate>
+  <item>
+    <title>AoSCeramos</title>
+    <link>https://mods.vintagestory.at/show/mod/aosceramos</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aosceramos#10869</guid>
+    <pubDate>Wed, 19 Aug 2026 04:30:17 -0000</pubDate>
+    <description>Ceramic Tile mod for floors and walls</description>
+  </item>
+  <item>
+    <title>Farmland Drops Soil (Updated)</title>
+    <link>https://mods.vintagestory.at/show/mod/soildropsupdated</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/soildropsupdated#8396</guid>
+    <pubDate>Wed, 19 Aug 2026 04:18:17 -0000</pubDate>
+    <description>Farmland has a chance to drop soil when broken, based on nutrient levels.</description>
+  </item>
+  <item>
+    <title>Deep Storage Chest (Hot Guy Edition)</title>
+    <link>https://mods.vintagestory.at/show/mod/hotguyedition</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hotguyedition#4192</guid>
+    <pubDate>Wed, 19 Aug 2026 04:00:56 -0000</pubDate>
+    <description>Spend a temporal gear, gain certified freshness </description>
+  </item>
   <item>
     <title>The Nether – A Hellish Adventure</title>
     <link>https://mods.vintagestory.at/show/mod/nether</link>
@@ -32,13 +53,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
     <pubDate>Wed, 19 Aug 2026 02:48:59 -0000</pubDate>
     <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
-  </item>
-  <item>
-    <title>AoSCeramos</title>
-    <link>https://mods.vintagestory.at/show/mod/aosceramos</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aosceramos#10869</guid>
-    <pubDate>Wed, 19 Aug 2026 02:46:45 -0000</pubDate>
-    <description>Ceramic Tile mod for floors and walls</description>
   </item>
   <item>
     <title>Solaria's Solace Server Tweaks</title>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
     <pubDate>Tue, 18 Aug 2026 22:13:36 -0000</pubDate>
     <description>Track prey, follow blood, carry carcasses, compost dung, and have smarter wolves.</description>
-  </item>
-  <item>
-    <title>Kobold Player Model Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/koboldrdx</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/koboldrdx#4814</guid>
-    <pubDate>Tue, 18 Aug 2026 22:10:20 -0000</pubDate>
-    <description>A complete 1.21+ remake of Soi's Kobold player model, for PlayerModelLib by Maltiez!</description>
-  </item>
-  <item>
-    <title>Stats Breakdown</title>
-    <link>https://mods.vintagestory.at/show/mod/11118</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11118#11118</guid>
-    <pubDate>Tue, 18 Aug 2026 22:09:30 -0000</pubDate>
-    <description>Displays a breakdown of player stats on hover</description>
   </item>
 </channel>
 </rss>
