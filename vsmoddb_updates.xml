@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 19 Aug 2026 18:38:04 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 19:27:33 +0000</lastBuildDate>
+  <item>
+    <title>All Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/allclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/allclasses#2689</guid>
+    <pubDate>Wed, 19 Aug 2026 19:26:58 -0000</pubDate>
+    <description>All classes mod adds 13 more (RP) classes. New metal pots, pans and more..</description>
+  </item>
+  <item>
+    <title>Dana Can Cook and Butchering Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/11131</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11131#11131</guid>
+    <pubDate>Wed, 19 Aug 2026 19:24:45 -0000</pubDate>
+    <description>Adds bloodbreads from Butchering as a valid source for bread slices</description>
+  </item>
+  <item>
+    <title>Not So Tasty: Wax Foods</title>
+    <link>https://mods.vintagestory.at/show/mod/notsotastywax</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/notsotastywax#9721</guid>
+    <pubDate>Wed, 19 Aug 2026 19:05:32 -0000</pubDate>
+    <description>A mod to provide wax replicas of produce for display purposes only.</description>
+  </item>
+  <item>
+    <title>Realistic Physiology and Survival Sim</title>
+    <link>https://mods.vintagestory.at/show/mod/10784</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10784#10784</guid>
+    <pubDate>Wed, 19 Aug 2026 19:04:56 -0000</pubDate>
+    <description>Imagine if Rimworld, Project Zomboid, and Oxygen not Included survival was combined.</description>
+  </item>
+  <item>
+    <title>Optimum</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Wed, 19 Aug 2026 18:59:02 -0000</pubDate>
+    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
+  </item>
+  <item>
+    <title>Hibiskus Kilts</title>
+    <link>https://mods.vintagestory.at/show/mod/hibiskuskilts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hibiskuskilts#11094</guid>
+    <pubDate>Wed, 19 Aug 2026 18:57:49 -0000</pubDate>
+    <description>Adds different kilts based on real tartan patterns to the game.</description>
+  </item>
+  <item>
+    <title>Red's Realm Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/moreclassesred</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreclassesred#2526</guid>
+    <pubDate>Wed, 19 Aug 2026 18:53:19 -0000</pubDate>
+    <description>changed some stuff</description>
+  </item>
   <item>
     <title>Sound Physics Adapted</title>
     <link>https://mods.vintagestory.at/show/mod/10996</link>
@@ -60,13 +109,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/classesofequestria#3696</guid>
     <pubDate>Wed, 19 Aug 2026 17:43:23 -0000</pubDate>
     <description>DEMO</description>
-  </item>
-  <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Wed, 19 Aug 2026 17:40:26 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
   </item>
   <item>
     <title>VSA - BeamQoL</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10760#10760</guid>
     <pubDate>Wed, 19 Aug 2026 14:45:51 -0000</pubDate>
     <description>Client-side bulk waypoint manager for Vintage Story</description>
-  </item>
-  <item>
-    <title>Temporal Vessels - A Vessel Teleportation System</title>
-    <link>https://mods.vintagestory.at/show/mod/temporalvessels</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/temporalvessels#7817</guid>
-    <pubDate>Wed, 19 Aug 2026 14:31:45 -0000</pubDate>
-    <description>Teleport a storage vessel back to your base so you can continue your looting exploration adventure</description>
-  </item>
-  <item>
-    <title>Bark blocks</title>
-    <link>https://mods.vintagestory.at/show/mod/barkblocks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/barkblocks#11136</guid>
-    <pubDate>Wed, 19 Aug 2026 14:29:40 -0000</pubDate>
-    <description>A simple content mod that adds bark blocks made from vanilla logs</description>
-  </item>
-  <item>
-    <title>Handy Daub</title>
-    <link>https://mods.vintagestory.at/show/mod/handydaub</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/handydaub#4377</guid>
-    <pubDate>Wed, 19 Aug 2026 14:25:19 -0000</pubDate>
-    <description>Makes adding daub to wattle fences easier by automatically swapping it to the hotbar</description>
-  </item>
-  <item>
-    <title>Craftable Wattle and Daub</title>
-    <link>https://mods.vintagestory.at/show/mod/craftablewad</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/craftablewad#4378</guid>
-    <pubDate>Wed, 19 Aug 2026 14:20:36 -0000</pubDate>
-    <description>Adds a recipe for crafting wattle and daub blocks</description>
-  </item>
-  <item>
-    <title>Aluminum From Bauxite</title>
-    <link>https://mods.vintagestory.at/show/mod/bauxitealuminum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bauxitealuminum#4611</guid>
-    <pubDate>Wed, 19 Aug 2026 14:13:13 -0000</pubDate>
-    <description>Adds aluminum metal to the game, as well as recipes to refine it from bauxite rock</description>
-  </item>
-  <item>
-    <title>The Revived Lands [PATCHES]</title>
-    <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
-    <pubDate>Wed, 19 Aug 2026 13:40:14 -0000</pubDate>
-    <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
   </item>
 </channel>
 </rss>
