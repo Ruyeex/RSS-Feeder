@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 19 Aug 2026 20:30:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 21:27:08 +0000</lastBuildDate>
+  <item>
+    <title>PPG Gaming RP Server Companion Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/ppgrp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ppgrp#3327</guid>
+    <pubDate>Wed, 19 Aug 2026 21:17:17 -0000</pubDate>
+    <description>Mod containing customizations for the PPG RP Server</description>
+  </item>
+  <item>
+    <title>Sound Physics Adapted</title>
+    <link>https://mods.vintagestory.at/show/mod/10996</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10996#10996</guid>
+    <pubDate>Wed, 19 Aug 2026 21:13:31 -0000</pubDate>
+    <description>Realistic Raytraced Audio. Walls depending on thickness and material muffle sounds and much more!</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Wed, 19 Aug 2026 21:06:17 -0000</pubDate>
+    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
+  </item>
+  <item>
+    <title>[Addon] Between Two Worlds | Temporal Symphony Storm Music</title>
+    <link>https://mods.vintagestory.at/show/mod/betweentwoworlds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betweentwoworlds#11145</guid>
+    <pubDate>Wed, 19 Aug 2026 20:58:58 -0000</pubDate>
+    <description>found a sunny spot</description>
+  </item>
+  <item>
+    <title>VS Roofing Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/5036</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5036#5036</guid>
+    <pubDate>Wed, 19 Aug 2026 20:50:09 -0000</pubDate>
+    <description>Gridless roof building system with vanilla style roofs, glass houses and more!</description>
+  </item>
+  <item>
+    <title>Compatibility Lunchbox - Immersive Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/11144</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11144#11144</guid>
+    <pubDate>Wed, 19 Aug 2026 20:33:07 -0000</pubDate>
+    <description>Lunchboxes and Coolers fit in Immersive Backpacks side slots.</description>
+  </item>
+  <item>
+    <title>AstraTerra</title>
+    <link>https://mods.vintagestory.at/show/mod/8706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
+    <pubDate>Wed, 19 Aug 2026 20:31:00 -0000</pubDate>
+    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
+  </item>
   <item>
     <title>Liber Terra</title>
     <link>https://mods.vintagestory.at/show/mod/liberterra</link>
@@ -125,13 +174,6 @@
     <description>changed some stuff</description>
   </item>
   <item>
-    <title>Sound Physics Adapted</title>
-    <link>https://mods.vintagestory.at/show/mod/10996</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10996#10996</guid>
-    <pubDate>Wed, 19 Aug 2026 18:32:03 -0000</pubDate>
-    <description>Realistic Raytraced Audio. Walls depending on thickness and material muffle sounds and much more!</description>
-  </item>
-  <item>
     <title>Electrical Progressive: Transport</title>
     <link>https://mods.vintagestory.at/show/mod/electricalprogressivetransport</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/electricalprogressivetransport#7837</guid>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/electricalprogressivecore#3691</guid>
     <pubDate>Wed, 19 Aug 2026 17:57:29 -0000</pubDate>
     <description>Electrical logic library</description>
-  </item>
-  <item>
-    <title>❖ Classes of Equestria ❖</title>
-    <link>https://mods.vintagestory.at/show/mod/classesofequestria</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/classesofequestria#3696</guid>
-    <pubDate>Wed, 19 Aug 2026 17:43:23 -0000</pubDate>
-    <description>DEMO</description>
-  </item>
-  <item>
-    <title>VSA - BeamQoL</title>
-    <link>https://mods.vintagestory.at/show/mod/10475</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10475#10475</guid>
-    <pubDate>Wed, 19 Aug 2026 17:21:00 -0000</pubDate>
-    <description>Survival-compatible, symmetric &amp; systematic beam placement, clean snap logic. Updates will follow</description>
-  </item>
-  <item>
-    <title>GlobalSRVCore</title>
-    <link>https://mods.vintagestory.at/show/mod/globalsrvcore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/globalsrvcore#6670</guid>
-    <pubDate>Wed, 19 Aug 2026 16:55:56 -0000</pubDate>
-    <description>A collection of modified and altered mods for the GlobalSRV project server.</description>
-  </item>
-  <item>
-    <title>Cycle of Life: RealFauna Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/colrealfauna</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/colrealfauna#11140</guid>
-    <pubDate>Wed, 19 Aug 2026 16:39:56 -0000</pubDate>
-    <description>A realistic overlay pack for Cycle of Life.</description>
-  </item>
-  <item>
-    <title>Fablewood Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Wed, 19 Aug 2026 16:39:18 -0000</pubDate>
-    <description>Harmony patches for compatibility.</description>
-  </item>
-  <item>
-    <title>C&amp;N Auction</title>
-    <link>https://mods.vintagestory.at/show/mod/canauction</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canauction#11099</guid>
-    <pubDate>Wed, 19 Aug 2026 16:38:50 -0000</pubDate>
-    <description>Player-driven auction house with bids, buyouts, standing buy offers and an optional price-reactive m</description>
   </item>
 </channel>
 </rss>
