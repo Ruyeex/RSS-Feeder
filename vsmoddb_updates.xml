@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 19 Aug 2026 06:48:07 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 08:39:51 +0000</lastBuildDate>
+  <item>
+    <title>Carry Reinforced</title>
+    <link>https://mods.vintagestory.at/show/mod/carryreinforced</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carryreinforced#11129</guid>
+    <pubDate>Wed, 19 Aug 2026 08:38:01 -0000</pubDate>
+    <description>Carry On, but you can move your own reinforced and locked blocks. Reinforcement travels too.</description>
+  </item>
+  <item>
+    <title>Starter Kit Bundle</title>
+    <link>https://mods.vintagestory.at/show/mod/vsstarterkit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsstarterkit#10924</guid>
+    <pubDate>Wed, 19 Aug 2026 08:15:33 -0000</pubDate>
+    <description>New players get a deployable bundle that unpacks into a stocked starter container.</description>
+  </item>
+  <item>
+    <title>Veganized</title>
+    <link>https://mods.vintagestory.at/show/mod/veganfat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/veganfat#11012</guid>
+    <pubDate>Wed, 19 Aug 2026 08:08:08 -0000</pubDate>
+    <description>Plants make the real vanilla fat and wax items, so every recipe that wants them just works.</description>
+  </item>
+  <item>
+    <title>Bookbound Classes Combat Overhaul Compatability Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/tafebbclass</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tafebbclass#11071</guid>
+    <pubDate>Wed, 19 Aug 2026 07:27:48 -0000</pubDate>
+    <description>I made this mode to combine Bookbound Classes by KardaLove</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Wed, 19 Aug 2026 06:58:29 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
   <item>
     <title>Fablewood Skills</title>
     <link>https://mods.vintagestory.at/show/mod/10778</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinship#9647</guid>
     <pubDate>Wed, 19 Aug 2026 01:15:34 -0000</pubDate>
     <description>Animals recognize their feral kin, with simple taming for supported wildlife.</description>
-  </item>
-  <item>
-    <title>Furio's Telescope</title>
-    <link>https://mods.vintagestory.at/show/mod/telescopemod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/telescopemod#10648</guid>
-    <pubDate>Wed, 19 Aug 2026 01:14:05 -0000</pubDate>
-    <description>(ALPHA) Telescope mod in development, basic functionality right now.</description>
-  </item>
-  <item>
-    <title>Vanilla armory</title>
-    <link>https://mods.vintagestory.at/show/mod/3927</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3927#3927</guid>
-    <pubDate>Wed, 19 Aug 2026 00:19:01 -0000</pubDate>
-    <description>Implements unused vanilla weapons and some armor in vanilla style</description>
-  </item>
-  <item>
-    <title>Expanded Foods: Chef's Tricks 1.0.0-dev.4</title>
-    <link>https://mods.vintagestory.at/show/mod/efchefstricks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/efchefstricks#9585</guid>
-    <pubDate>Tue, 18 Aug 2026 23:17:32 -0000</pubDate>
-    <description>Put your leftovers to good use!</description>
-  </item>
-  <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Tue, 18 Aug 2026 23:15:10 -0000</pubDate>
-    <description>The factory must grow!</description>
-  </item>
-  <item>
-    <title>BagsPlus</title>
-    <link>https://mods.vintagestory.at/show/mod/10268</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10268#10268</guid>
-    <pubDate>Tue, 18 Aug 2026 22:58:57 -0000</pubDate>
-    <description>This a fork of  SpecializedBags Revived with a few things from BackPackPlus for my personal server.</description>
   </item>
 </channel>
 </rss>
