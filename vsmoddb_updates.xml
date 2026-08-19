@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 19 Aug 2026 22:27:06 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 23:24:41 +0000</lastBuildDate>
+  <item>
+    <title>Cycle of Life: RealFauna Pack</title>
+    <link>https://mods.vintagestory.at/show/mod/colrealfauna</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/colrealfauna#11140</guid>
+    <pubDate>Wed, 19 Aug 2026 23:19:05 -0000</pubDate>
+    <description>A realistic overlay pack for Cycle of Life.</description>
+  </item>
+  <item>
+    <title>Cycle of Life</title>
+    <link>https://mods.vintagestory.at/show/mod/cycleoflife</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cycleoflife#11139</guid>
+    <pubDate>Wed, 19 Aug 2026 23:16:07 -0000</pubDate>
+    <description>A realistic simulated fauna ecosystem.</description>
+  </item>
+  <item>
+    <title>Cairn — Modpack Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/cairn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
+    <pubDate>Wed, 19 Aug 2026 23:11:06 -0000</pubDate>
+    <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
+  </item>
+  <item>
+    <title>LauncherGo Auth</title>
+    <link>https://mods.vintagestory.at/show/mod/launchergoauth</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergoauth#8964</guid>
+    <pubDate>Wed, 19 Aug 2026 23:00:02 -0000</pubDate>
+    <description>服务器认证模组，提供注册登录、会话记住、Discourse SSO 与 OAuth2/OIDC 认证能力</description>
+  </item>
+  <item>
+    <title>Dar's Server Utilities</title>
+    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
+    <pubDate>Wed, 19 Aug 2026 22:46:23 -0000</pubDate>
+    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
+  </item>
+  <item>
+    <title>Bottoms Up!</title>
+    <link>https://mods.vintagestory.at/show/mod/bottomsup</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bottomsup#5472</guid>
+    <pubDate>Wed, 19 Aug 2026 22:32:12 -0000</pubDate>
+    <description>Fancy glass bottles and glassware for your bar</description>
+  </item>
   <item>
     <title>Extended Eye Colors</title>
     <link>https://mods.vintagestory.at/show/mod/10402</link>
@@ -18,6 +60,13 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
     <pubDate>Wed, 19 Aug 2026 22:18:02 -0000</pubDate>
     <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Eternal Stew x Hydrate or Dydrate Compatibility </title>
+    <link>https://mods.vintagestory.at/show/mod/11146</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11146#11146</guid>
+    <pubDate>Wed, 19 Aug 2026 22:10:09 -0000</pubDate>
+    <description>Ingredient-based hydration compatibility between Eternal Stew and Hydrate Or Diedrate.</description>
   </item>
   <item>
     <title>PPG Gaming RP Server Companion Mod</title>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11131#11131</guid>
     <pubDate>Wed, 19 Aug 2026 19:24:45 -0000</pubDate>
     <description>Adds bloodbreads from Butchering as a valid source for bread slices</description>
-  </item>
-  <item>
-    <title>Not So Tasty: Wax Foods</title>
-    <link>https://mods.vintagestory.at/show/mod/notsotastywax</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/notsotastywax#9721</guid>
-    <pubDate>Wed, 19 Aug 2026 19:05:32 -0000</pubDate>
-    <description>A mod to provide wax replicas of produce for display purposes only.</description>
-  </item>
-  <item>
-    <title>Realistic Physiology and Survival Sim</title>
-    <link>https://mods.vintagestory.at/show/mod/10784</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10784#10784</guid>
-    <pubDate>Wed, 19 Aug 2026 19:04:56 -0000</pubDate>
-    <description>Imagine if Rimworld, Project Zomboid, and Oxygen not Included survival was combined.</description>
-  </item>
-  <item>
-    <title>Red's Realm Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/moreclassesred</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreclassesred#2526</guid>
-    <pubDate>Wed, 19 Aug 2026 18:53:19 -0000</pubDate>
-    <description>changed some stuff</description>
-  </item>
-  <item>
-    <title>Electrical Progressive: Transport</title>
-    <link>https://mods.vintagestory.at/show/mod/electricalprogressivetransport</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/electricalprogressivetransport#7837</guid>
-    <pubDate>Wed, 19 Aug 2026 17:58:59 -0000</pubDate>
-    <description>Pipeline transport system</description>
-  </item>
-  <item>
-    <title>Electrical Progressive: Industry</title>
-    <link>https://mods.vintagestory.at/show/mod/electricalprogressiveindustry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/electricalprogressiveindustry#5096</guid>
-    <pubDate>Wed, 19 Aug 2026 17:58:49 -0000</pubDate>
-    <description>Adds industrial devices</description>
-  </item>
-  <item>
-    <title>Electrical Progressive: Equipment</title>
-    <link>https://mods.vintagestory.at/show/mod/electricalprogressiveequipment</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/electricalprogressiveequipment#3694</guid>
-    <pubDate>Wed, 19 Aug 2026 17:58:29 -0000</pubDate>
-    <description>Electric weapons, armor and tools</description>
-  </item>
-  <item>
-    <title>Electrical Progressive: QOL</title>
-    <link>https://mods.vintagestory.at/show/mod/electricalprogressiveqol</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/electricalprogressiveqol#3693</guid>
-    <pubDate>Wed, 19 Aug 2026 17:58:13 -0000</pubDate>
-    <description>Additional electrical devices</description>
   </item>
 </channel>
 </rss>
