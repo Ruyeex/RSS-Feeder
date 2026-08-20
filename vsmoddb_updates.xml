@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 20 Aug 2026 02:58:47 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 03:52:57 +0000</lastBuildDate>
+  <item>
+    <title>Age of Seraphs Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
+    <pubDate>Thu, 20 Aug 2026 03:18:36 -0000</pubDate>
+    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
+  </item>
   <item>
     <title>Realistic Soap</title>
     <link>https://mods.vintagestory.at/show/mod/realisticsoap</link>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
     <pubDate>Wed, 19 Aug 2026 21:06:17 -0000</pubDate>
     <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
-  </item>
-  <item>
-    <title>[Addon] Between Two Worlds | Temporal Symphony Storm Music</title>
-    <link>https://mods.vintagestory.at/show/mod/betweentwoworlds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betweentwoworlds#11145</guid>
-    <pubDate>Wed, 19 Aug 2026 20:58:58 -0000</pubDate>
-    <description>found a sunny spot</description>
   </item>
 </channel>
 </rss>
