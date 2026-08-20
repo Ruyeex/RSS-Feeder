@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 20 Aug 2026 18:41:55 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 19:32:59 +0000</lastBuildDate>
+  <item>
+    <title>Vintage Canvas</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagecanvas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagecanvas#9406</guid>
+    <pubDate>Thu, 20 Aug 2026 19:07:32 -0000</pubDate>
+    <description>Craft canvases, mix paint, and use brushes to decorate your world!</description>
+  </item>
   <item>
     <title>Peat for Charcoal</title>
     <link>https://mods.vintagestory.at/show/mod/peatforcharcoal</link>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
     <pubDate>Thu, 20 Aug 2026 12:07:26 -0000</pubDate>
     <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
-  </item>
-  <item>
-    <title>Grid for Beams</title>
-    <link>https://mods.vintagestory.at/show/mod/gridforbeams</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gridforbeams#11157</guid>
-    <pubDate>Thu, 20 Aug 2026 12:03:25 -0000</pubDate>
-    <description>Adds a grid for beams and shows the cube where the beam's hitbox will be when placed.</description>
   </item>
 </channel>
 </rss>
