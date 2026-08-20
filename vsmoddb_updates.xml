@@ -4,13 +4,55 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 20 Aug 2026 16:37:13 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 17:31:38 +0000</lastBuildDate>
+  <item>
+    <title>DarkGirlStuff</title>
+    <link>https://mods.vintagestory.at/show/mod/11165</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11165#11165</guid>
+    <pubDate>Thu, 20 Aug 2026 17:24:01 -0000</pubDate>
+    <description>ADD some stuff, items, cloths for an server</description>
+  </item>
+  <item>
+    <title>TraderTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10569</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
+    <pubDate>Thu, 20 Aug 2026 17:19:16 -0000</pubDate>
+    <description>Allow to manage traders</description>
+  </item>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
+    <pubDate>Thu, 20 Aug 2026 17:08:40 -0000</pubDate>
+    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
+  </item>
+  <item>
+    <title>VintageStory D'Août</title>
+    <link>https://mods.vintagestory.at/show/mod/vinstagestoryaout</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vinstagestoryaout#11164</guid>
+    <pubDate>Thu, 20 Aug 2026 17:07:04 -0000</pubDate>
+    <description> This modpack contains all the mods used on the Vintage Story server hosted by Pressea.</description>
+  </item>
+  <item>
+    <title>Optimum</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Thu, 20 Aug 2026 16:54:15 -0000</pubDate>
+    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
+  </item>
   <item>
     <title>The Revived Lands [PATCHES]</title>
     <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
-    <pubDate>Thu, 20 Aug 2026 16:33:10 -0000</pubDate>
+    <pubDate>Thu, 20 Aug 2026 16:50:22 -0000</pubDate>
     <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
+    <pubDate>Thu, 20 Aug 2026 16:38:35 -0000</pubDate>
+    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
   </item>
   <item>
     <title>❖ Classes of Equestria ❖</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9733#9733</guid>
     <pubDate>Thu, 20 Aug 2026 09:41:57 -0000</pubDate>
     <description>Use worms to convert soils to higher teirs..</description>
-  </item>
-  <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Thu, 20 Aug 2026 09:35:55 -0000</pubDate>
-    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
-  </item>
-  <item>
-    <title>Tweakfactory</title>
-    <link>https://mods.vintagestory.at/show/mod/tweakfactory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tweakfactory#10875</guid>
-    <pubDate>Thu, 20 Aug 2026 09:35:18 -0000</pubDate>
-    <description>Tweakmod um Klassenspezifische Rezepte einzubinden.</description>
-  </item>
-  <item>
-    <title>Aldi's HarmoClasses Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/harmoclassestweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/harmoclassestweaks#11156</guid>
-    <pubDate>Thu, 20 Aug 2026 09:07:58 -0000</pubDate>
-    <description>Aldi's Classes mod tweaked for a community server.</description>
-  </item>
-  <item>
-    <title>Grinding Wheel Rework</title>
-    <link>https://mods.vintagestory.at/show/mod/grindingwheelrework</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindingwheelrework#8252</guid>
-    <pubDate>Thu, 20 Aug 2026 08:06:29 -0000</pubDate>
-    <description>Expands grinding wheel to support more tools and turns sharpening into a lightweight repair system</description>
-  </item>
-  <item>
-    <title>Roleplay Character Creator</title>
-    <link>https://mods.vintagestory.at/show/mod/rpcharcreator</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rpcharcreator#10074</guid>
-    <pubDate>Thu, 20 Aug 2026 07:07:31 -0000</pubDate>
-    <description>Create custom character creation windows for your roleplay server!</description>
-  </item>
-  <item>
-    <title>Mount Logout Guard</title>
-    <link>https://mods.vintagestory.at/show/mod/mountlogoutguard</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mountlogoutguard#11152</guid>
-    <pubDate>Thu, 20 Aug 2026 06:12:10 -0000</pubDate>
-    <description>Prevents the 1.22.3 tamed elk mounted-logout crash by dismounting riders during join and disconnect.</description>
   </item>
 </channel>
 </rss>
