@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 20 Aug 2026 06:50:17 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 07:42:16 +0000</lastBuildDate>
+  <item>
+    <title>Roleplay Character Creator</title>
+    <link>https://mods.vintagestory.at/show/mod/rpcharcreator</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rpcharcreator#10074</guid>
+    <pubDate>Thu, 20 Aug 2026 07:07:31 -0000</pubDate>
+    <description>Create custom character creation windows for your roleplay server!</description>
+  </item>
   <item>
     <title>Mount Logout Guard</title>
     <link>https://mods.vintagestory.at/show/mod/mountlogoutguard</link>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11037#11037</guid>
     <pubDate>Wed, 19 Aug 2026 23:44:20 -0000</pubDate>
     <description>Garments and masks inspired by traditional Japanese clothing</description>
-  </item>
-  <item>
-    <title>Cycle of Life: RealFauna Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/colrealfauna</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/colrealfauna#11140</guid>
-    <pubDate>Wed, 19 Aug 2026 23:19:05 -0000</pubDate>
-    <description>A realistic overlay pack for Cycle of Life.</description>
   </item>
 </channel>
 </rss>
