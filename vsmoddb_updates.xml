@@ -4,20 +4,48 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 20 Aug 2026 17:31:38 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 18:41:55 +0000</lastBuildDate>
+  <item>
+    <title>Peat for Charcoal</title>
+    <link>https://mods.vintagestory.at/show/mod/peatforcharcoal</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/peatforcharcoal#10384</guid>
+    <pubDate>Thu, 20 Aug 2026 18:32:58 -0000</pubDate>
+    <description>Allows using peat bricks as a substitute for firewood + changes to Peat piles.</description>
+  </item>
+  <item>
+    <title>TraderTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10569</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
+    <pubDate>Thu, 20 Aug 2026 18:31:48 -0000</pubDate>
+    <description>Allow to manage traders</description>
+  </item>
+  <item>
+    <title>Magical Moon - FRustyMagic (Beta)</title>
+    <link>https://mods.vintagestory.at/show/mod/10975</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10975#10975</guid>
+    <pubDate>Thu, 20 Aug 2026 18:20:00 -0000</pubDate>
+    <description>An entirely in-world, small, moon magic mod. Play around with beams of light!</description>
+  </item>
+  <item>
+    <title>Light Fantasy Traits</title>
+    <link>https://mods.vintagestory.at/show/mod/9853</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9853#9853</guid>
+    <pubDate>Thu, 20 Aug 2026 18:14:44 -0000</pubDate>
+    <description>Vanilla-esque race traits for the racial equality and skeletons mods.</description>
+  </item>
+  <item>
+    <title>Rooted Forests</title>
+    <link>https://mods.vintagestory.at/show/mod/rootedforests</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rootedforests#10980</guid>
+    <pubDate>Thu, 20 Aug 2026 17:33:58 -0000</pubDate>
+    <description>More natural, grounded forests with handcrafted voxel trunks and rooted tree bases.</description>
+  </item>
   <item>
     <title>DarkGirlStuff</title>
     <link>https://mods.vintagestory.at/show/mod/11165</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11165#11165</guid>
     <pubDate>Thu, 20 Aug 2026 17:24:01 -0000</pubDate>
     <description>ADD some stuff, items, cloths for an server</description>
-  </item>
-  <item>
-    <title>TraderTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10569</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
-    <pubDate>Thu, 20 Aug 2026 17:19:16 -0000</pubDate>
-    <description>Allow to manage traders</description>
   </item>
   <item>
     <title>RKN Generic Crafting</title>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gridforbeams#11157</guid>
     <pubDate>Thu, 20 Aug 2026 12:03:25 -0000</pubDate>
     <description>Adds a grid for beams and shows the cube where the beam's hitbox will be when placed.</description>
-  </item>
-  <item>
-    <title>Lumos</title>
-    <link>https://mods.vintagestory.at/show/mod/lumos</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lumos#10713</guid>
-    <pubDate>Thu, 20 Aug 2026 11:47:43 -0000</pubDate>
-    <description>Reworking the game's lighting system and fixing related bugs</description>
-  </item>
-  <item>
-    <title>Fast Packed Dirt Paths</title>
-    <link>https://mods.vintagestory.at/show/mod/fastpackeddirtpaths</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fastpackeddirtpaths#6807</guid>
-    <pubDate>Thu, 20 Aug 2026 11:34:23 -0000</pubDate>
-    <description>Increases player speed when walking on packed dirt</description>
-  </item>
-  <item>
-    <title>De Artibus Rusticis</title>
-    <link>https://mods.vintagestory.at/show/mod/deartibusrusticis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deartibusrusticis#11159</guid>
-    <pubDate>Thu, 20 Aug 2026 10:35:20 -0000</pubDate>
-    <description>Adds 19 new crops and 4 meals inspired by medieval European agriculture.</description>
-  </item>
-  <item>
-    <title>Vermicomposting</title>
-    <link>https://mods.vintagestory.at/show/mod/9733</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9733#9733</guid>
-    <pubDate>Thu, 20 Aug 2026 09:41:57 -0000</pubDate>
-    <description>Use worms to convert soils to higher teirs..</description>
   </item>
 </channel>
 </rss>
