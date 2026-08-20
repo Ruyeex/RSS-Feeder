@@ -4,7 +4,21 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 20 Aug 2026 01:21:26 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 02:58:47 +0000</lastBuildDate>
+  <item>
+    <title>Realistic Soap</title>
+    <link>https://mods.vintagestory.at/show/mod/realisticsoap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticsoap#10983</guid>
+    <pubDate>Thu, 20 Aug 2026 02:34:03 -0000</pubDate>
+    <description>Leach wood ash into lye, boil it with fat, cure the bars, then wash, because being filthy now costs</description>
+  </item>
+  <item>
+    <title>Fablewood Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Thu, 20 Aug 2026 02:22:48 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
   <item>
     <title>VS Instruments Redux - Expansion A</title>
     <link>https://mods.vintagestory.at/show/mod/10825</link>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betweentwoworlds#11145</guid>
     <pubDate>Wed, 19 Aug 2026 20:58:58 -0000</pubDate>
     <description>found a sunny spot</description>
-  </item>
-  <item>
-    <title>VS Roofing Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/5036</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5036#5036</guid>
-    <pubDate>Wed, 19 Aug 2026 20:50:09 -0000</pubDate>
-    <description>Gridless roof building system with vanilla style roofs, glass houses and more!</description>
-  </item>
-  <item>
-    <title>Compatibility Lunchbox - Immersive Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/11144</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11144#11144</guid>
-    <pubDate>Wed, 19 Aug 2026 20:33:07 -0000</pubDate>
-    <description>Lunchboxes and Coolers fit in Immersive Backpacks side slots.</description>
   </item>
 </channel>
 </rss>
