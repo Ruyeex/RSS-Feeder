@@ -4,13 +4,104 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 20 Aug 2026 22:29:59 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 23:27:14 +0000</lastBuildDate>
+  <item>
+    <title>Stats Breakdown</title>
+    <link>https://mods.vintagestory.at/show/mod/11118</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11118#11118</guid>
+    <pubDate>Thu, 20 Aug 2026 23:26:51 -0000</pubDate>
+    <description>Displays a breakdown of player stats on hover</description>
+  </item>
+  <item>
+    <title>Isometric Renders</title>
+    <link>https://mods.vintagestory.at/show/mod/isometricrenders</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/isometricrenders#10732</guid>
+    <pubDate>Thu, 20 Aug 2026 23:24:40 -0000</pubDate>
+    <description>High resolution orthographic and isometric renders for Vihntage Story worlds, structures and objects</description>
+  </item>
+  <item>
+    <title>Dar's Server Utilities</title>
+    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
+    <pubDate>Thu, 20 Aug 2026 23:19:32 -0000</pubDate>
+    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
+  </item>
+  <item>
+    <title>AstraTerra</title>
+    <link>https://mods.vintagestory.at/show/mod/8706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
+    <pubDate>Thu, 20 Aug 2026 23:14:24 -0000</pubDate>
+    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
+  </item>
+  <item>
+    <title>Grid for Beams</title>
+    <link>https://mods.vintagestory.at/show/mod/gridforbeams</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gridforbeams#11157</guid>
+    <pubDate>Thu, 20 Aug 2026 23:06:30 -0000</pubDate>
+    <description>Adds a grid for beams and shows the cube where the beam's hitbox will be when placed.</description>
+  </item>
+  <item>
+    <title>Cycle of Life: RealFauna Pack</title>
+    <link>https://mods.vintagestory.at/show/mod/colrealfauna</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/colrealfauna#11140</guid>
+    <pubDate>Thu, 20 Aug 2026 23:00:51 -0000</pubDate>
+    <description>A realistic overlay pack for Cycle of Life.</description>
+  </item>
+  <item>
+    <title>Recipe Fix for Tile 'n All</title>
+    <link>https://mods.vintagestory.at/show/mod/tnarecipefix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tnarecipefix#11172</guid>
+    <pubDate>Thu, 20 Aug 2026 22:57:35 -0000</pubDate>
+    <description>Allows you to craft the tiles from the mod Tiles 'n All</description>
+  </item>
+  <item>
+    <title>Cycle of Life</title>
+    <link>https://mods.vintagestory.at/show/mod/cycleoflife</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cycleoflife#11139</guid>
+    <pubDate>Thu, 20 Aug 2026 22:57:31 -0000</pubDate>
+    <description>A realistic simulated fauna ecosystem.</description>
+  </item>
+  <item>
+    <title>Tarot Cards</title>
+    <link>https://mods.vintagestory.at/show/mod/tarotcards</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tarotcards#11171</guid>
+    <pubDate>Thu, 20 Aug 2026 22:57:04 -0000</pubDate>
+    <description>Beautiful tarot cards with the art done by Thiago Lehmann. Requires Tabletop Games</description>
+  </item>
+  <item>
+    <title>Traders Expansion</title>
+    <link>https://mods.vintagestory.at/show/mod/tradie</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tradie#3400</guid>
+    <pubDate>Thu, 20 Aug 2026 22:53:40 -0000</pubDate>
+    <description>6 new traders and ways to make money</description>
+  </item>
+  <item>
+    <title>Dense Ground Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
+    <pubDate>Thu, 20 Aug 2026 22:47:02 -0000</pubDate>
+    <description>Place down more items per block and on chiseled blocks</description>
+  </item>
+  <item>
+    <title>Skis and Snowboards</title>
+    <link>https://mods.vintagestory.at/show/mod/skisandsnowboards</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skisandsnowboards#11170</guid>
+    <pubDate>Thu, 20 Aug 2026 22:33:16 -0000</pubDate>
+    <description>Craft skis and snowboards and carve across snow and ice. </description>
+  </item>
   <item>
     <title>ModernAtlas</title>
     <link>https://mods.vintagestory.at/show/mod/modernatlas</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modernatlas#10999</guid>
     <pubDate>Thu, 20 Aug 2026 22:26:41 -0000</pubDate>
     <description>Pull out a detailed 3D atlas and explore your loaded world from above</description>
+  </item>
+  <item>
+    <title>UwU Cards</title>
+    <link>https://mods.vintagestory.at/show/mod/uwucards</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/uwucards#11169</guid>
+    <pubDate>Thu, 20 Aug 2026 22:26:04 -0000</pubDate>
+    <description>A simple FUN game to play with friends and enemies.</description>
   </item>
   <item>
     <title>Cellar Door (Port)</title>
@@ -46,13 +137,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/healingmalk#10341</guid>
     <pubDate>Thu, 20 Aug 2026 21:05:48 -0000</pubDate>
     <description>milk know heals you for 1 hp ૮꒰ ˶• ༝ •˶꒱ა</description>
-  </item>
-  <item>
-    <title>Grid for Beams</title>
-    <link>https://mods.vintagestory.at/show/mod/gridforbeams</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gridforbeams#11157</guid>
-    <pubDate>Thu, 20 Aug 2026 20:58:51 -0000</pubDate>
-    <description>Adds a grid for beams and shows the cube where the beam's hitbox will be when placed.</description>
   </item>
   <item>
     <title>Tardis</title>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hideawayofharmony#11167</guid>
     <pubDate>Thu, 20 Aug 2026 19:44:12 -0000</pubDate>
     <description>Adds 27 tent variants, ranging from rough to fabric and leather tents with a storage</description>
-  </item>
-  <item>
-    <title>Vintage Canvas</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagecanvas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagecanvas#9406</guid>
-    <pubDate>Thu, 20 Aug 2026 19:07:32 -0000</pubDate>
-    <description>Craft canvases, mix paint, and use brushes to decorate your world!</description>
-  </item>
-  <item>
-    <title>Peat for Charcoal</title>
-    <link>https://mods.vintagestory.at/show/mod/peatforcharcoal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/peatforcharcoal#10384</guid>
-    <pubDate>Thu, 20 Aug 2026 18:32:58 -0000</pubDate>
-    <description>Allows using peat bricks as a substitute for firewood + changes to Peat piles.</description>
-  </item>
-  <item>
-    <title>TraderTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10569</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
-    <pubDate>Thu, 20 Aug 2026 18:31:48 -0000</pubDate>
-    <description>Allow to manage traders</description>
-  </item>
-  <item>
-    <title>Magical Moon - FRustyMagic (Beta)</title>
-    <link>https://mods.vintagestory.at/show/mod/10975</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10975#10975</guid>
-    <pubDate>Thu, 20 Aug 2026 18:20:00 -0000</pubDate>
-    <description>An entirely in-world, small, moon magic mod. Play around with beams of light!</description>
-  </item>
-  <item>
-    <title>Light Fantasy Traits</title>
-    <link>https://mods.vintagestory.at/show/mod/9853</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9853#9853</guid>
-    <pubDate>Thu, 20 Aug 2026 18:14:44 -0000</pubDate>
-    <description>Vanilla-esque race traits for the racial equality and skeletons mods.</description>
-  </item>
-  <item>
-    <title>Rooted Forests</title>
-    <link>https://mods.vintagestory.at/show/mod/rootedforests</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rootedforests#10980</guid>
-    <pubDate>Thu, 20 Aug 2026 17:33:58 -0000</pubDate>
-    <description>More natural, grounded forests with handcrafted voxel trunks and rooted tree bases.</description>
-  </item>
-  <item>
-    <title>DarkGirlStuff</title>
-    <link>https://mods.vintagestory.at/show/mod/11165</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11165#11165</guid>
-    <pubDate>Thu, 20 Aug 2026 17:24:01 -0000</pubDate>
-    <description>ADD some stuff, items, cloths for an server</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
-    <pubDate>Thu, 20 Aug 2026 17:08:40 -0000</pubDate>
-    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
-  </item>
-  <item>
-    <title>VintageStory D'Août</title>
-    <link>https://mods.vintagestory.at/show/mod/vinstagestoryaout</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vinstagestoryaout#11164</guid>
-    <pubDate>Thu, 20 Aug 2026 17:07:04 -0000</pubDate>
-    <description> This modpack contains all the mods used on the Vintage Story server hosted by Pressea.</description>
-  </item>
-  <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Thu, 20 Aug 2026 16:54:15 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
-    <title>The Revived Lands [PATCHES]</title>
-    <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
-    <pubDate>Thu, 20 Aug 2026 16:50:22 -0000</pubDate>
-    <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
-    <pubDate>Thu, 20 Aug 2026 16:38:35 -0000</pubDate>
-    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
   </item>
 </channel>
 </rss>
