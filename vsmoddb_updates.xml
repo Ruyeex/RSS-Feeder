@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 20 Aug 2026 21:30:08 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 22:29:59 +0000</lastBuildDate>
+  <item>
+    <title>ModernAtlas</title>
+    <link>https://mods.vintagestory.at/show/mod/modernatlas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modernatlas#10999</guid>
+    <pubDate>Thu, 20 Aug 2026 22:26:41 -0000</pubDate>
+    <description>Pull out a detailed 3D atlas and explore your loaded world from above</description>
+  </item>
+  <item>
+    <title>Cellar Door (Port)</title>
+    <link>https://mods.vintagestory.at/show/mod/cellardoorport</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cellardoorport#10895</guid>
+    <pubDate>Thu, 20 Aug 2026 22:25:30 -0000</pubDate>
+    <description>A port of the Cellar Door mod with support for the new ceramic colors.</description>
+  </item>
+  <item>
+    <title>Eternal Stew x XSkills-Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/11168</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11168#11168</guid>
+    <pubDate>Thu, 20 Aug 2026 21:50:56 -0000</pubDate>
+    <description>Eternal Stew actions give Cooking EXP and use Cooking Skill Buffs!</description>
+  </item>
   <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/9635</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
     <pubDate>Thu, 20 Aug 2026 16:38:35 -0000</pubDate>
     <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
-  </item>
-  <item>
-    <title>❖ Classes of Equestria ❖</title>
-    <link>https://mods.vintagestory.at/show/mod/classesofequestria</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/classesofequestria#3696</guid>
-    <pubDate>Thu, 20 Aug 2026 16:21:45 -0000</pubDate>
-    <description>DEMO</description>
-  </item>
-  <item>
-    <title>Kaschperle Class Mix </title>
-    <link>https://mods.vintagestory.at/show/mod/8517</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8517#8517</guid>
-    <pubDate>Thu, 20 Aug 2026 16:00:19 -0000</pubDate>
-    <description>A revision mix from the popular class mod Aldi classes and Agi's Classes</description>
-  </item>
-  <item>
-    <title>Player Model NPCs </title>
-    <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
-    <pubDate>Thu, 20 Aug 2026 15:32:56 -0000</pubDate>
-    <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
   </item>
 </channel>
 </rss>
