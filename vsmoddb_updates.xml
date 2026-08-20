@@ -4,20 +4,76 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 20 Aug 2026 20:31:07 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 21:30:08 +0000</lastBuildDate>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Thu, 20 Aug 2026 21:23:37 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Dyed Wood</title>
+    <link>https://mods.vintagestory.at/show/mod/dyedwood</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dyedwood#10405</guid>
+    <pubDate>Thu, 20 Aug 2026 21:19:24 -0000</pubDate>
+    <description>Adds dyed planks, slabs, and stairs for every vanilla wood while preserving natural grain.</description>
+  </item>
+  <item>
+    <title>Healing Malk</title>
+    <link>https://mods.vintagestory.at/show/mod/healingmalk</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/healingmalk#10341</guid>
+    <pubDate>Thu, 20 Aug 2026 21:05:48 -0000</pubDate>
+    <description>milk know heals you for 1 hp ૮꒰ ˶• ༝ •˶꒱ა</description>
+  </item>
+  <item>
+    <title>Grid for Beams</title>
+    <link>https://mods.vintagestory.at/show/mod/gridforbeams</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gridforbeams#11157</guid>
+    <pubDate>Thu, 20 Aug 2026 20:58:51 -0000</pubDate>
+    <description>Adds a grid for beams and shows the cube where the beam's hitbox will be when placed.</description>
+  </item>
+  <item>
+    <title>Tardis</title>
+    <link>https://mods.vintagestory.at/show/mod/tardis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tardis#11072</guid>
+    <pubDate>Thu, 20 Aug 2026 20:56:24 -0000</pubDate>
+    <description>A working TARDIS with a bigger-on-the-inside interior, flight, rooms, keys and a sonic.</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Thu, 20 Aug 2026 20:56:15 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>More Grass From Knives</title>
+    <link>https://mods.vintagestory.at/show/mod/10985</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10985#10985</guid>
+    <pubDate>Thu, 20 Aug 2026 20:46:27 -0000</pubDate>
+    <description>Tall grass now drops twice as much when using knives and scythes</description>
+  </item>
+  <item>
+    <title>Involved Farming: Fallow</title>
+    <link>https://mods.vintagestory.at/show/mod/10691</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10691#10691</guid>
+    <pubDate>Thu, 20 Aug 2026 20:41:41 -0000</pubDate>
+    <description>Adds fallow- an additional, immersive step between harvested and sowed farmland.</description>
+  </item>
+  <item>
+    <title>Valley of Ashes</title>
+    <link>https://mods.vintagestory.at/show/mod/valleyofashes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/valleyofashes#2288</guid>
+    <pubDate>Thu, 20 Aug 2026 20:37:10 -0000</pubDate>
+    <description>Craft wood and plant ash, ash sludge and optional potash.</description>
+  </item>
   <item>
     <title>Waypoints NextGen</title>
     <link>https://mods.vintagestory.at/show/mod/waypointsnextgen</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waypointsnextgen#8373</guid>
     <pubDate>Thu, 20 Aug 2026 20:23:29 -0000</pubDate>
     <description>Adds +200 new waypoint icons: food, ores, traders, craft buildings, conveyors, and more.</description>
-  </item>
-  <item>
-    <title>More Grass From Knives</title>
-    <link>https://mods.vintagestory.at/show/mod/10985</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10985#10985</guid>
-    <pubDate>Thu, 20 Aug 2026 20:21:58 -0000</pubDate>
-    <description>Tall grass now drops twice as much when using knives and scythes</description>
   </item>
   <item>
     <title>Fablewood Harmony Patches</title>
@@ -53,13 +109,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hideawayofharmony#11167</guid>
     <pubDate>Thu, 20 Aug 2026 19:44:12 -0000</pubDate>
     <description>Adds 27 tent variants, ranging from rough to fabric and leather tents with a storage</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Thu, 20 Aug 2026 19:40:08 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
   </item>
   <item>
     <title>Vintage Canvas</title>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
     <pubDate>Thu, 20 Aug 2026 15:32:56 -0000</pubDate>
     <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
-  </item>
-  <item>
-    <title>Pin Matrix - Waypoint Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/10760</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10760#10760</guid>
-    <pubDate>Thu, 20 Aug 2026 15:29:16 -0000</pubDate>
-    <description>Client-side bulk waypoint manager for Vintage Story</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Thu, 20 Aug 2026 15:25:22 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
-  </item>
-  <item>
-    <title>Olendril IME Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/11060</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11060#11060</guid>
-    <pubDate>Thu, 20 Aug 2026 14:41:15 -0000</pubDate>
-    <description>  A focused compatibility and quality-of-life patch for Interesting Mining &amp; Extraction.</description>
-  </item>
-  <item>
-    <title>Grindable Arrows and Bolts</title>
-    <link>https://mods.vintagestory.at/show/mod/grindablearrows</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindablearrows#8419</guid>
-    <pubDate>Thu, 20 Aug 2026 14:28:27 -0000</pubDate>
-    <description>Sharpen your arrows on a grinding wheel to shoot your enemies with more powerful arrows</description>
-  </item>
-  <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Thu, 20 Aug 2026 14:22:34 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
-    <title>Wildgrass Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/wildgrassfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wildgrassfork#8650</guid>
-    <pubDate>Thu, 20 Aug 2026 13:57:43 -0000</pubDate>
-    <description>Wildgrass Fork for 1.22.2</description>
-  </item>
-  <item>
-    <title>Method Gaming Core</title>
-    <link>https://mods.vintagestory.at/show/mod/methodgamingcore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/methodgamingcore#11074</guid>
-    <pubDate>Thu, 20 Aug 2026 13:17:04 -0000</pubDate>
-    <description>The Official Method Gaming Core mod, required to connect to Method Gaming: Conquest</description>
   </item>
 </channel>
 </rss>
