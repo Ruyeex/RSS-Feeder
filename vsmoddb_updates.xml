@@ -4,7 +4,126 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 19 Aug 2026 23:24:41 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 01:21:26 +0000</lastBuildDate>
+  <item>
+    <title>VS Instruments Redux - Expansion A</title>
+    <link>https://mods.vintagestory.at/show/mod/10825</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10825#10825</guid>
+    <pubDate>Thu, 20 Aug 2026 01:19:52 -0000</pubDate>
+    <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
+  </item>
+  <item>
+    <title>VS Instruments Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/10555</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
+    <pubDate>Thu, 20 Aug 2026 01:19:07 -0000</pubDate>
+    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
+  </item>
+  <item>
+    <title>vsbackup</title>
+    <link>https://mods.vintagestory.at/show/mod/vsbackup</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsbackup#10756</guid>
+    <pubDate>Thu, 20 Aug 2026 01:13:56 -0000</pubDate>
+    <description>Vinstage Story Backup utility for Linux</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Thu, 20 Aug 2026 00:52:53 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Bovinaddon</title>
+    <link>https://mods.vintagestory.at/show/mod/6390</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6390#6390</guid>
+    <pubDate>Thu, 20 Aug 2026 00:46:32 -0000</pubDate>
+    <description>Currently a tiny mod that adds slight improvements to FOTSA Bovinae.</description>
+  </item>
+  <item>
+    <title>Nadilion Server Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/5684</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5684#5684</guid>
+    <pubDate>Thu, 20 Aug 2026 00:38:54 -0000</pubDate>
+    <description>Tweaks for the Nadilion gaming server</description>
+  </item>
+  <item>
+    <title>WOO Fantasy Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
+    <pubDate>Thu, 20 Aug 2026 00:27:34 -0000</pubDate>
+    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
+  </item>
+  <item>
+    <title>Optimum</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Thu, 20 Aug 2026 00:25:46 -0000</pubDate>
+    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
+  </item>
+  <item>
+    <title>Fast Mushroom Harvesting</title>
+    <link>https://mods.vintagestory.at/show/mod/fastmushroomharvesting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fastmushroomharvesting#9974</guid>
+    <pubDate>Thu, 20 Aug 2026 00:22:00 -0000</pubDate>
+    <description>You don't need tools to pick mushrooms, it's easy and quick to pick them by hand - now with sound!</description>
+  </item>
+  <item>
+    <title>Dar's Server Utilities</title>
+    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
+    <pubDate>Thu, 20 Aug 2026 00:15:48 -0000</pubDate>
+    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Thu, 20 Aug 2026 00:12:19 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>PlantAnythingAPI</title>
+    <link>https://mods.vintagestory.at/show/mod/plantanythingapi</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plantanythingapi#11062</guid>
+    <pubDate>Thu, 20 Aug 2026 00:10:31 -0000</pubDate>
+    <description>API that allows other mods to give items the ability to be planted. Only requires simple json patch.</description>
+  </item>
+  <item>
+    <title>Wingworks</title>
+    <link>https://mods.vintagestory.at/show/mod/wingworks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wingworks#9998</guid>
+    <pubDate>Thu, 20 Aug 2026 00:01:12 -0000</pubDate>
+    <description>A mod which add flight capabilities for players with specific traits.</description>
+  </item>
+  <item>
+    <title>TassHunting</title>
+    <link>https://mods.vintagestory.at/show/mod/tasshunting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshunting#10438</guid>
+    <pubDate>Thu, 20 Aug 2026 00:00:34 -0000</pubDate>
+    <description>Arrows Stick - Blood - Smarter Animal AI - Aiming Tweaks - Health Based Animal Speed</description>
+  </item>
+  <item>
+    <title>Wafuku- Current Patch Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/11147</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11147#11147</guid>
+    <pubDate>Wed, 19 Aug 2026 23:59:55 -0000</pubDate>
+    <description>This mod adds simplified kimonos, obis and fox masks in a variety of colors and forms. </description>
+  </item>
+  <item>
+    <title>TassModFixesTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tassmodfixestweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassmodfixestweaks#10502</guid>
+    <pubDate>Wed, 19 Aug 2026 23:59:07 -0000</pubDate>
+    <description>A catch all mod for anything that does not fit my other mods - fixing bugs and tweaking mods</description>
+  </item>
+  <item>
+    <title>Wafuku</title>
+    <link>https://mods.vintagestory.at/show/mod/11037</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11037#11037</guid>
+    <pubDate>Wed, 19 Aug 2026 23:44:20 -0000</pubDate>
+    <description>Garments and masks inspired by traditional Japanese clothing</description>
+  </item>
   <item>
     <title>Cycle of Life: RealFauna Pack</title>
     <link>https://mods.vintagestory.at/show/mod/colrealfauna</link>
@@ -34,13 +153,6 @@
     <description>服务器认证模组，提供注册登录、会话记住、Discourse SSO 与 OAuth2/OIDC 认证能力</description>
   </item>
   <item>
-    <title>Dar's Server Utilities</title>
-    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
-    <pubDate>Wed, 19 Aug 2026 22:46:23 -0000</pubDate>
-    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
-  </item>
-  <item>
     <title>Bottoms Up!</title>
     <link>https://mods.vintagestory.at/show/mod/bottomsup</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bottomsup#5472</guid>
@@ -53,13 +165,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10402#10402</guid>
     <pubDate>Wed, 19 Aug 2026 22:20:48 -0000</pubDate>
     <description>Adds a hex scroller for more customisation!</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Wed, 19 Aug 2026 22:18:02 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
   <item>
     <title>Eternal Stew x Hydrate or Dydrate Compatibility </title>
@@ -109,111 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11144#11144</guid>
     <pubDate>Wed, 19 Aug 2026 20:33:07 -0000</pubDate>
     <description>Lunchboxes and Coolers fit in Immersive Backpacks side slots.</description>
-  </item>
-  <item>
-    <title>AstraTerra</title>
-    <link>https://mods.vintagestory.at/show/mod/8706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
-    <pubDate>Wed, 19 Aug 2026 20:31:00 -0000</pubDate>
-    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
-  </item>
-  <item>
-    <title>Liber Terra</title>
-    <link>https://mods.vintagestory.at/show/mod/liberterra</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/liberterra#10763</guid>
-    <pubDate>Wed, 19 Aug 2026 20:25:34 -0000</pubDate>
-    <description>Pre-1300 CE public-domain literature as lore books, pile &amp; stack books,oh and books are weapons now.</description>
-  </item>
-  <item>
-    <title>Hibiskus Kilts</title>
-    <link>https://mods.vintagestory.at/show/mod/hibiskuskilts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hibiskuskilts#11094</guid>
-    <pubDate>Wed, 19 Aug 2026 20:23:43 -0000</pubDate>
-    <description>Adds different kilts based on real tartan patterns to the game.</description>
-  </item>
-  <item>
-    <title>TentBag-Reworked</title>
-    <link>https://mods.vintagestory.at/show/mod/tentbagreworked</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tentbagreworked#3558</guid>
-    <pubDate>Wed, 19 Aug 2026 20:17:39 -0000</pubDate>
-    <description>Adds a tent bag for Vintage Story with scaling hunger cost based on tent complexity</description>
-  </item>
-  <item>
-    <title>xSkills Gilded Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/5529</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5529#5529</guid>
-    <pubDate>Wed, 19 Aug 2026 20:17:26 -0000</pubDate>
-    <description>This mod adds a beautifully designed, immersive, and user-friendly interface for xSkills. </description>
-  </item>
-  <item>
-    <title>xLib Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7618</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7618#7618</guid>
-    <pubDate>Wed, 19 Aug 2026 20:17:14 -0000</pubDate>
-    <description>XLib provides an interface to add skills, abilities and effects to the game.</description>
-  </item>
-  <item>
-    <title>xSkills Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7605</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
-    <pubDate>Wed, 19 Aug 2026 20:17:07 -0000</pubDate>
-    <description>RPG-style skill system with abilities, perks, and progression.</description>
-  </item>
-  <item>
-    <title>Nadilion Server Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/5684</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5684#5684</guid>
-    <pubDate>Wed, 19 Aug 2026 20:12:45 -0000</pubDate>
-    <description>Tweaks for the Nadilion gaming server</description>
-  </item>
-  <item>
-    <title>Spiderbeaks Crossbow Plank Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/scpp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scpp#11143</guid>
-    <pubDate>Wed, 19 Aug 2026 20:11:06 -0000</pubDate>
-    <description>The mod simply patches the crossbow bolts in maltiez's crossbows to use planks from any mod</description>
-  </item>
-  <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Wed, 19 Aug 2026 20:08:18 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
-    <title>Skillbooks: Stats</title>
-    <link>https://mods.vintagestory.at/show/mod/11005</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11005#11005</guid>
-    <pubDate>Wed, 19 Aug 2026 20:06:16 -0000</pubDate>
-    <description>Single-use books that permanently grant a stat trait when read. Works standalone or with core.</description>
-  </item>
-  <item>
-    <title>Skillbooks Core</title>
-    <link>https://mods.vintagestory.at/show/mod/11002</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11002#11002</guid>
-    <pubDate>Wed, 19 Aug 2026 20:05:12 -0000</pubDate>
-    <description>Single-use books that permanently grant a crafting trait when read, discovered from any mod.</description>
-  </item>
-  <item>
-    <title>BetterHandbook</title>
-    <link>https://mods.vintagestory.at/show/mod/8762</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8762#8762</guid>
-    <pubDate>Wed, 19 Aug 2026 19:52:26 -0000</pubDate>
-    <description>A faster, smarter handbook with mod tabs, recipe lookups, and crafting auto fill.</description>
-  </item>
-  <item>
-    <title>All Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/allclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/allclasses#2689</guid>
-    <pubDate>Wed, 19 Aug 2026 19:26:58 -0000</pubDate>
-    <description>All classes mod adds 13 more (RP) classes. New metal pots, pans and more..</description>
-  </item>
-  <item>
-    <title>Dana Can Cook and Butchering Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/11131</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11131#11131</guid>
-    <pubDate>Wed, 19 Aug 2026 19:24:45 -0000</pubDate>
-    <description>Adds bloodbreads from Butchering as a valid source for bread slices</description>
   </item>
 </channel>
 </rss>
