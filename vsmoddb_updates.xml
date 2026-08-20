@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 20 Aug 2026 09:36:41 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 10:33:00 +0000</lastBuildDate>
+  <item>
+    <title>Vermicomposting</title>
+    <link>https://mods.vintagestory.at/show/mod/9733</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9733#9733</guid>
+    <pubDate>Thu, 20 Aug 2026 09:41:57 -0000</pubDate>
+    <description>Use worms to convert soils to higher teirs..</description>
+  </item>
   <item>
     <title>VS Director</title>
     <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plantanythingapi#11062</guid>
     <pubDate>Thu, 20 Aug 2026 00:10:31 -0000</pubDate>
     <description>API that allows other mods to give items the ability to be planted. Only requires simple json patch.</description>
-  </item>
-  <item>
-    <title>Wingworks</title>
-    <link>https://mods.vintagestory.at/show/mod/wingworks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wingworks#9998</guid>
-    <pubDate>Thu, 20 Aug 2026 00:01:12 -0000</pubDate>
-    <description>A mod which add flight capabilities for players with specific traits.</description>
   </item>
 </channel>
 </rss>
