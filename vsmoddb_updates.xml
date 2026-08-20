@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 20 Aug 2026 12:53:36 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 13:49:37 +0000</lastBuildDate>
+  <item>
+    <title>Player Model NPCs </title>
+    <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
+    <pubDate>Thu, 20 Aug 2026 13:43:51 -0000</pubDate>
+    <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
+  </item>
+  <item>
+    <title>Waypoints NextGen</title>
+    <link>https://mods.vintagestory.at/show/mod/waypointsnextgen</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waypointsnextgen#8373</guid>
+    <pubDate>Thu, 20 Aug 2026 13:32:31 -0000</pubDate>
+    <description>Adds +200 new waypoint icons: food, ores, traders, craft buildings, conveyors, and more.</description>
+  </item>
+  <item>
+    <title>Method Gaming Core</title>
+    <link>https://mods.vintagestory.at/show/mod/methodgamingcore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/methodgamingcore#11074</guid>
+    <pubDate>Thu, 20 Aug 2026 13:17:04 -0000</pubDate>
+    <description>The Official Method Gaming Core mod, required to connect to Method Gaming: Conquest</description>
+  </item>
+  <item>
+    <title>Dense Ground Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
+    <pubDate>Thu, 20 Aug 2026 13:13:28 -0000</pubDate>
+    <description>Place down more items per block and on chiseled blocks</description>
+  </item>
+  <item>
+    <title>Footprints</title>
+    <link>https://mods.vintagestory.at/show/mod/footprints</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/footprints#5625</guid>
+    <pubDate>Thu, 20 Aug 2026 13:06:35 -0000</pubDate>
+    <description>Animals and Players leave footprints when moving.</description>
+  </item>
+  <item>
+    <title>Blood Trail</title>
+    <link>https://mods.vintagestory.at/show/mod/bloodtrail</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bloodtrail#5069</guid>
+    <pubDate>Thu, 20 Aug 2026 13:06:13 -0000</pubDate>
+    <description>Animals leave blood trails when wounded by a player.</description>
+  </item>
   <item>
     <title>Chiseled Ground Placement</title>
     <link>https://mods.vintagestory.at/show/mod/chiseledgroundplacement</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalstew#6196</guid>
     <pubDate>Thu, 20 Aug 2026 04:03:27 -0000</pubDate>
     <description>Eternal Stew: a stove and pot that keep your stew simmering forever.</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Thu, 20 Aug 2026 03:18:36 -0000</pubDate>
-    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
-  </item>
-  <item>
-    <title>Realistic Soap</title>
-    <link>https://mods.vintagestory.at/show/mod/realisticsoap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticsoap#10983</guid>
-    <pubDate>Thu, 20 Aug 2026 02:34:03 -0000</pubDate>
-    <description>Leach wood ash into lye, boil it with fat, cure the bars, then wash, because being filthy now costs</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux - Expansion A</title>
-    <link>https://mods.vintagestory.at/show/mod/10825</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10825#10825</guid>
-    <pubDate>Thu, 20 Aug 2026 01:19:52 -0000</pubDate>
-    <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/10555</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
-    <pubDate>Thu, 20 Aug 2026 01:19:07 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>vsbackup</title>
-    <link>https://mods.vintagestory.at/show/mod/vsbackup</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsbackup#10756</guid>
-    <pubDate>Thu, 20 Aug 2026 01:13:56 -0000</pubDate>
-    <description>Vinstage Story Backup utility for Linux</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Thu, 20 Aug 2026 00:52:53 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
 </channel>
 </rss>
