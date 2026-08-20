@@ -4,13 +4,55 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 20 Aug 2026 11:28:14 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 12:53:36 +0000</lastBuildDate>
+  <item>
+    <title>Chiseled Ground Placement</title>
+    <link>https://mods.vintagestory.at/show/mod/chiseledgroundplacement</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseledgroundplacement#10973</guid>
+    <pubDate>Thu, 20 Aug 2026 12:50:13 -0000</pubDate>
+    <description>Place down things on chiseled surfaces</description>
+  </item>
   <item>
     <title>Deciduous Trees</title>
     <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Thu, 20 Aug 2026 11:25:20 -0000</pubDate>
+    <pubDate>Thu, 20 Aug 2026 12:07:53 -0000</pubDate>
     <description>Trees slowly shed their leaves based on temperature. Vanilla or Eco Machina compatible.</description>
+  </item>
+  <item>
+    <title>Seasonal Flowers</title>
+    <link>https://mods.vintagestory.at/show/mod/9785</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9785#9785</guid>
+    <pubDate>Thu, 20 Aug 2026 12:07:36 -0000</pubDate>
+    <description>Flowers now sprout, bloom, die back, and go dormant. (The mod that hides flowers in the winter)</description>
+  </item>
+  <item>
+    <title>Leaf Litter</title>
+    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
+    <pubDate>Thu, 20 Aug 2026 12:07:26 -0000</pubDate>
+    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
+  </item>
+  <item>
+    <title>Grid for Beams</title>
+    <link>https://mods.vintagestory.at/show/mod/gridforbeams</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gridforbeams#11157</guid>
+    <pubDate>Thu, 20 Aug 2026 12:03:25 -0000</pubDate>
+    <description>Adds a grid for beams and shows the cube where the beam's hitbox will be when placed.</description>
+  </item>
+  <item>
+    <title>Lumos</title>
+    <link>https://mods.vintagestory.at/show/mod/lumos</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lumos#10713</guid>
+    <pubDate>Thu, 20 Aug 2026 11:47:43 -0000</pubDate>
+    <description>Reworking the game's lighting system and fixing related bugs</description>
+  </item>
+  <item>
+    <title>Fast Packed Dirt Paths</title>
+    <link>https://mods.vintagestory.at/show/mod/fastpackeddirtpaths</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fastpackeddirtpaths#6807</guid>
+    <pubDate>Thu, 20 Aug 2026 11:34:23 -0000</pubDate>
+    <description>Increases player speed when walking on packed dirt</description>
   </item>
   <item>
     <title>De Artibus Rusticis</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
     <pubDate>Thu, 20 Aug 2026 00:52:53 -0000</pubDate>
     <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Bovinaddon</title>
-    <link>https://mods.vintagestory.at/show/mod/6390</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6390#6390</guid>
-    <pubDate>Thu, 20 Aug 2026 00:46:32 -0000</pubDate>
-    <description>Currently a tiny mod that adds slight improvements to FOTSA Bovinae.</description>
-  </item>
-  <item>
-    <title>Nadilion Server Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/5684</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5684#5684</guid>
-    <pubDate>Thu, 20 Aug 2026 00:38:54 -0000</pubDate>
-    <description>Tweaks for the Nadilion gaming server</description>
-  </item>
-  <item>
-    <title>WOO Fantasy Additions</title>
-    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
-    <pubDate>Thu, 20 Aug 2026 00:27:34 -0000</pubDate>
-    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
-  </item>
-  <item>
-    <title>Optimum</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Thu, 20 Aug 2026 00:25:46 -0000</pubDate>
-    <description>High-performance client fork. Compile-time patches, no Harmony. Same gameplay, faster frames</description>
-  </item>
-  <item>
-    <title>Fast Mushroom Harvesting</title>
-    <link>https://mods.vintagestory.at/show/mod/fastmushroomharvesting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fastmushroomharvesting#9974</guid>
-    <pubDate>Thu, 20 Aug 2026 00:22:00 -0000</pubDate>
-    <description>You don't need tools to pick mushrooms, it's easy and quick to pick them by hand - now with sound!</description>
-  </item>
-  <item>
-    <title>Dar's Server Utilities</title>
-    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
-    <pubDate>Thu, 20 Aug 2026 00:15:48 -0000</pubDate>
-    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
   </item>
 </channel>
 </rss>
