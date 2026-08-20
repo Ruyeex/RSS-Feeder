@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 20 Aug 2026 13:49:37 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 14:38:02 +0000</lastBuildDate>
+  <item>
+    <title>Grindable Arrows and Bolts</title>
+    <link>https://mods.vintagestory.at/show/mod/grindablearrows</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindablearrows#8419</guid>
+    <pubDate>Thu, 20 Aug 2026 14:28:27 -0000</pubDate>
+    <description>Sharpen your arrows on a grinding wheel to shoot your enemies with more powerful arrows</description>
+  </item>
+  <item>
+    <title>Vintage Rift - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
+    <pubDate>Thu, 20 Aug 2026 14:22:34 -0000</pubDate>
+    <description>Client only code for the Vintage Rift server</description>
+  </item>
+  <item>
+    <title>Wildgrass Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/wildgrassfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wildgrassfork#8650</guid>
+    <pubDate>Thu, 20 Aug 2026 13:57:43 -0000</pubDate>
+    <description>Wildgrass Fork for 1.22.2</description>
+  </item>
+  <item>
+    <title>Olendril IME Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/11060</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11060#11060</guid>
+    <pubDate>Thu, 20 Aug 2026 13:51:42 -0000</pubDate>
+    <description>  A focused compatibility and quality-of-life patch for Interesting Mining &amp; Extraction.</description>
+  </item>
   <item>
     <title>Player Model NPCs </title>
     <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/expandedfoods#16</guid>
     <pubDate>Thu, 20 Aug 2026 05:11:54 -0000</pubDate>
     <description>Adds a variety of new uses for existing foods.</description>
-  </item>
-  <item>
-    <title>Bookbound Classes Combat Overhaul Compatability Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/tafebbclass</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tafebbclass#11071</guid>
-    <pubDate>Thu, 20 Aug 2026 04:31:54 -0000</pubDate>
-    <description>I made this mode to combine Bookbound Classes by KardaLove</description>
-  </item>
-  <item>
-    <title>Mad Crow Glider</title>
-    <link>https://mods.vintagestory.at/show/mod/7449</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7449#7449</guid>
-    <pubDate>Thu, 20 Aug 2026 04:31:36 -0000</pubDate>
-    <description>A Gliders made to have the appearence of a Tobias's Mad Crow wings and Color Variants for Gliders</description>
-  </item>
-  <item>
-    <title>Charcoal Kiln</title>
-    <link>https://mods.vintagestory.at/show/mod/charcoalkiln</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/charcoalkiln#10807</guid>
-    <pubDate>Thu, 20 Aug 2026 04:15:01 -0000</pubDate>
-    <description>Charcoal Kiln adds a permanent and reusable kiln to make your endless batches of charcoal.</description>
-  </item>
-  <item>
-    <title>Eternal Stew</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalstew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalstew#6196</guid>
-    <pubDate>Thu, 20 Aug 2026 04:03:27 -0000</pubDate>
-    <description>Eternal Stew: a stove and pot that keep your stew simmering forever.</description>
   </item>
 </channel>
 </rss>
