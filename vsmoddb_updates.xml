@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 20 Aug 2026 03:52:57 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 04:39:03 +0000</lastBuildDate>
+  <item>
+    <title>Bookbound Classes Combat Overhaul Compatability Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/tafebbclass</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tafebbclass#11071</guid>
+    <pubDate>Thu, 20 Aug 2026 04:31:54 -0000</pubDate>
+    <description>I made this mode to combine Bookbound Classes by KardaLove</description>
+  </item>
+  <item>
+    <title>Mad Crow Glider</title>
+    <link>https://mods.vintagestory.at/show/mod/7449</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7449#7449</guid>
+    <pubDate>Thu, 20 Aug 2026 04:31:36 -0000</pubDate>
+    <description>A Gliders made to have the appearence of a Tobias's Mad Crow wings and Color Variants for Gliders</description>
+  </item>
+  <item>
+    <title>Charcoal Kiln</title>
+    <link>https://mods.vintagestory.at/show/mod/charcoalkiln</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/charcoalkiln#10807</guid>
+    <pubDate>Thu, 20 Aug 2026 04:15:01 -0000</pubDate>
+    <description>Charcoal Kiln adds a permanent and reusable kiln to make your endless batches of charcoal.</description>
+  </item>
+  <item>
+    <title>Eternal Stew</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalstew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalstew#6196</guid>
+    <pubDate>Thu, 20 Aug 2026 04:03:27 -0000</pubDate>
+    <description>Eternal Stew: a stove and pot that keep your stew simmering forever.</description>
+  </item>
   <item>
     <title>Age of Seraphs Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10402#10402</guid>
     <pubDate>Wed, 19 Aug 2026 22:20:48 -0000</pubDate>
     <description>Adds a hex scroller for more customisation!</description>
-  </item>
-  <item>
-    <title>Eternal Stew x Hydrate or Dydrate Compatibility </title>
-    <link>https://mods.vintagestory.at/show/mod/11146</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11146#11146</guid>
-    <pubDate>Wed, 19 Aug 2026 22:10:09 -0000</pubDate>
-    <description>Ingredient-based hydration compatibility between Eternal Stew and Hydrate Or Diedrate.</description>
-  </item>
-  <item>
-    <title>PPG Gaming RP Server Companion Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/ppgrp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ppgrp#3327</guid>
-    <pubDate>Wed, 19 Aug 2026 21:17:17 -0000</pubDate>
-    <description>Mod containing customizations for the PPG RP Server</description>
-  </item>
-  <item>
-    <title>Sound Physics Adapted</title>
-    <link>https://mods.vintagestory.at/show/mod/10996</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10996#10996</guid>
-    <pubDate>Wed, 19 Aug 2026 21:13:31 -0000</pubDate>
-    <description>Realistic Raytraced Audio. Walls depending on thickness and material muffle sounds and much more!</description>
-  </item>
-  <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Wed, 19 Aug 2026 21:06:17 -0000</pubDate>
-    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
   </item>
 </channel>
 </rss>
