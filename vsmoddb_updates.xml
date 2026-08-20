@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 20 Aug 2026 15:35:59 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 16:37:13 +0000</lastBuildDate>
+  <item>
+    <title>The Revived Lands [PATCHES]</title>
+    <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
+    <pubDate>Thu, 20 Aug 2026 16:33:10 -0000</pubDate>
+    <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
+  </item>
+  <item>
+    <title>❖ Classes of Equestria ❖</title>
+    <link>https://mods.vintagestory.at/show/mod/classesofequestria</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/classesofequestria#3696</guid>
+    <pubDate>Thu, 20 Aug 2026 16:21:45 -0000</pubDate>
+    <description>DEMO</description>
+  </item>
+  <item>
+    <title>Kaschperle Class Mix </title>
+    <link>https://mods.vintagestory.at/show/mod/8517</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8517#8517</guid>
+    <pubDate>Thu, 20 Aug 2026 16:00:19 -0000</pubDate>
+    <description>A revision mix from the popular class mod Aldi classes and Agi's Classes</description>
+  </item>
   <item>
     <title>Player Model NPCs </title>
     <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mountlogoutguard#11152</guid>
     <pubDate>Thu, 20 Aug 2026 06:12:10 -0000</pubDate>
     <description>Prevents the 1.22.3 tamed elk mounted-logout crash by dismounting riders during join and disconnect.</description>
-  </item>
-  <item>
-    <title>WATCHER [Locust Drider Player Model]</title>
-    <link>https://mods.vintagestory.at/show/mod/11151</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11151#11151</guid>
-    <pubDate>Thu, 20 Aug 2026 06:05:54 -0000</pubDate>
-    <description>Customized colors using Wulk's Drocust mod</description>
-  </item>
-  <item>
-    <title>Fablewood Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Thu, 20 Aug 2026 05:57:16 -0000</pubDate>
-    <description>Harmony patches for compatibility.</description>
-  </item>
-  <item>
-    <title>Fablewood Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Thu, 20 Aug 2026 05:55:07 -0000</pubDate>
-    <description>JSON content patches</description>
   </item>
 </channel>
 </rss>
