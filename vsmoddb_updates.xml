@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 20 Aug 2026 08:40:54 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 09:36:41 +0000</lastBuildDate>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Thu, 20 Aug 2026 09:35:55 -0000</pubDate>
+    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
+  </item>
+  <item>
+    <title>Tweakfactory</title>
+    <link>https://mods.vintagestory.at/show/mod/tweakfactory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tweakfactory#10875</guid>
+    <pubDate>Thu, 20 Aug 2026 09:35:18 -0000</pubDate>
+    <description>Tweakmod um Klassenspezifische Rezepte einzubinden.</description>
+  </item>
+  <item>
+    <title>Aldi's HarmoClasses Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/harmoclassestweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/harmoclassestweaks#11156</guid>
+    <pubDate>Thu, 20 Aug 2026 09:07:58 -0000</pubDate>
+    <description>Aldi's Classes mod tweaked for a community server.</description>
+  </item>
   <item>
     <title>Grinding Wheel Rework</title>
     <link>https://mods.vintagestory.at/show/mod/grindingwheelrework</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wingworks#9998</guid>
     <pubDate>Thu, 20 Aug 2026 00:01:12 -0000</pubDate>
     <description>A mod which add flight capabilities for players with specific traits.</description>
-  </item>
-  <item>
-    <title>TassHunting</title>
-    <link>https://mods.vintagestory.at/show/mod/tasshunting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshunting#10438</guid>
-    <pubDate>Thu, 20 Aug 2026 00:00:34 -0000</pubDate>
-    <description>Arrows Stick - Blood - Smarter Animal AI - Aiming Tweaks - Health Based Animal Speed</description>
-  </item>
-  <item>
-    <title>Wafuku- Current Patch Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/11147</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11147#11147</guid>
-    <pubDate>Wed, 19 Aug 2026 23:59:55 -0000</pubDate>
-    <description>This mod adds simplified kimonos, obis and fox masks in a variety of colors and forms. </description>
-  </item>
-  <item>
-    <title>TassModFixesTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tassmodfixestweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassmodfixestweaks#10502</guid>
-    <pubDate>Wed, 19 Aug 2026 23:59:07 -0000</pubDate>
-    <description>A catch all mod for anything that does not fit my other mods - fixing bugs and tweaking mods</description>
   </item>
 </channel>
 </rss>
