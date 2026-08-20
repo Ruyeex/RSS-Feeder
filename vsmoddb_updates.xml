@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 20 Aug 2026 07:42:16 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 08:40:54 +0000</lastBuildDate>
+  <item>
+    <title>Grinding Wheel Rework</title>
+    <link>https://mods.vintagestory.at/show/mod/grindingwheelrework</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindingwheelrework#8252</guid>
+    <pubDate>Thu, 20 Aug 2026 08:06:29 -0000</pubDate>
+    <description>Expands grinding wheel to support more tools and turns sharpening into a lightweight repair system</description>
+  </item>
   <item>
     <title>Roleplay Character Creator</title>
     <link>https://mods.vintagestory.at/show/mod/rpcharcreator</link>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassmodfixestweaks#10502</guid>
     <pubDate>Wed, 19 Aug 2026 23:59:07 -0000</pubDate>
     <description>A catch all mod for anything that does not fit my other mods - fixing bugs and tweaking mods</description>
-  </item>
-  <item>
-    <title>Wafuku</title>
-    <link>https://mods.vintagestory.at/show/mod/11037</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11037#11037</guid>
-    <pubDate>Wed, 19 Aug 2026 23:44:20 -0000</pubDate>
-    <description>Garments and masks inspired by traditional Japanese clothing</description>
   </item>
 </channel>
 </rss>
