@@ -4,7 +4,98 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 21 Aug 2026 20:27:55 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 21:26:43 +0000</lastBuildDate>
+  <item>
+    <title>Safe Haven</title>
+    <link>https://mods.vintagestory.at/show/mod/safehaven</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/safehaven#11195</guid>
+    <pubDate>Fri, 21 Aug 2026 21:25:25 -0000</pubDate>
+    <description>AFK, spawn, loading and softcore safety protections for multiplayer servers.</description>
+  </item>
+  <item>
+    <title>Player Model NPCs </title>
+    <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
+    <pubDate>Fri, 21 Aug 2026 21:23:29 -0000</pubDate>
+    <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Fri, 21 Aug 2026 21:13:42 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
+  <item>
+    <title>River Flow Control (Server)</title>
+    <link>https://mods.vintagestory.at/show/mod/riverflowserver</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riverflowserver#11194</guid>
+    <pubDate>Fri, 21 Aug 2026 21:04:36 -0000</pubDate>
+    <description>Makes the Rivers mod's disableFlow actually apply on the server, not just on clients.</description>
+  </item>
+  <item>
+    <title>Animalica Core</title>
+    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
+    <pubDate>Fri, 21 Aug 2026 20:53:11 -0000</pubDate>
+    <description>Core mod for playable animals. Does nothing on it's own</description>
+  </item>
+  <item>
+    <title>Molds Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/moldsexpanded</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moldsexpanded#8253</guid>
+    <pubDate>Fri, 21 Aug 2026 20:50:03 -0000</pubDate>
+    <description>Adds new clay casting molds for items that are a pain to craft on the anvil.</description>
+  </item>
+  <item>
+    <title>Stacked Temporal Gears</title>
+    <link>https://mods.vintagestory.at/show/mod/stackedtemporalgear</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stackedtemporalgear#8254</guid>
+    <pubDate>Fri, 21 Aug 2026 20:49:37 -0000</pubDate>
+    <description>Allows temporal gears to stack up to 64 instead of 1.</description>
+  </item>
+  <item>
+    <title>Sorting Containers</title>
+    <link>https://mods.vintagestory.at/show/mod/sortingcontainers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sortingcontainers#8270</guid>
+    <pubDate>Fri, 21 Aug 2026 20:49:22 -0000</pubDate>
+    <description>Adds a button to sort the contents of any container by type and name.</description>
+  </item>
+  <item>
+    <title>Stacked Metals</title>
+    <link>https://mods.vintagestory.at/show/mod/stackedmetals</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stackedmetals#8626</guid>
+    <pubDate>Fri, 21 Aug 2026 20:49:02 -0000</pubDate>
+    <description>Increases the maximum stack size of all metal ingots and metal plates.</description>
+  </item>
+  <item>
+    <title>Tardis</title>
+    <link>https://mods.vintagestory.at/show/mod/tardis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tardis#11072</guid>
+    <pubDate>Fri, 21 Aug 2026 20:39:07 -0000</pubDate>
+    <description>A working TARDIS with a bigger-on-the-inside interior, flight, rooms, keys and a sonic.</description>
+  </item>
+  <item>
+    <title>AstraTerra</title>
+    <link>https://mods.vintagestory.at/show/mod/8706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
+    <pubDate>Fri, 21 Aug 2026 20:35:59 -0000</pubDate>
+    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
+  </item>
+  <item>
+    <title>Additive Chiseling</title>
+    <link>https://mods.vintagestory.at/show/mod/additivechiseling</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/additivechiseling#11186</guid>
+    <pubDate>Fri, 21 Aug 2026 20:35:39 -0000</pubDate>
+    <description>Adds a new way of building with chiseled blocks</description>
+  </item>
+  <item>
+    <title>Watertight Doors</title>
+    <link>https://mods.vintagestory.at/show/mod/watertightdoors</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/watertightdoors#11193</guid>
+    <pubDate>Fri, 21 Aug 2026 20:31:08 -0000</pubDate>
+    <description>Makes every door and trapdoor waterproof</description>
+  </item>
   <item>
     <title>Firearms fork</title>
     <link>https://mods.vintagestory.at/show/mod/firearmsfork</link>
@@ -25,13 +116,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/overhaulliblegacycompat#8401</guid>
     <pubDate>Fri, 21 Aug 2026 20:20:47 -0000</pubDate>
     <description>Compat for firearms, crossbows, combatoverhaul</description>
-  </item>
-  <item>
-    <title>Animalica Core</title>
-    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
-    <pubDate>Fri, 21 Aug 2026 20:12:28 -0000</pubDate>
-    <description>Core mod for playable animals. Does nothing on it's own</description>
   </item>
   <item>
     <title>Frontier's Map</title>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
     <pubDate>Fri, 21 Aug 2026 18:24:54 -0000</pubDate>
     <description>Skill and class mod for the CB server</description>
-  </item>
-  <item>
-    <title>Dame Elswyth’s Summons</title>
-    <link>https://mods.vintagestory.at/show/mod/10139</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10139#10139</guid>
-    <pubDate>Fri, 21 Aug 2026 18:18:45 -0000</pubDate>
-    <description>Find and summon lost pets.  Fixes PetAI fire avoidance AI task for tamed pets.</description>
-  </item>
-  <item>
-    <title>Bone and Bark</title>
-    <link>https://mods.vintagestory.at/show/mod/bcbonebark</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bcbonebark#5393</guid>
-    <pubDate>Fri, 21 Aug 2026 18:04:15 -0000</pubDate>
-    <description>Adds a lumberjack class, woodcutting QoL recipes, some more uses for bones, and other minor tweaks.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Fri, 21 Aug 2026 17:52:42 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
-  </item>
-  <item>
-    <title>C&amp;N RPG Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/canrpgclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canrpgclasses#9965</guid>
-    <pubDate>Fri, 21 Aug 2026 17:22:09 -0000</pubDate>
-    <description>RPG classes for Vintage Story</description>
-  </item>
-  <item>
-    <title>Middle-Earth Races All Aldi's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/lrcallclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lrcallclasses#10929</guid>
-    <pubDate>Fri, 21 Aug 2026 17:20:55 -0000</pubDate>
-    <description>Allows all Aldi's Classes to be used with all races.</description>
-  </item>
-  <item>
-    <title>AoS | Armor Female Seraphs Compatability</title>
-    <link>https://mods.vintagestory.at/show/mod/8914</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8914#8914</guid>
-    <pubDate>Fri, 21 Aug 2026 17:12:40 -0000</pubDate>
-    <description>Provides armor compatibility between female seraphs and various armor mods.</description>
-  </item>
-  <item>
-    <title>Rudiments</title>
-    <link>https://mods.vintagestory.at/show/mod/9305</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
-    <pubDate>Fri, 21 Aug 2026 16:50:45 -0000</pubDate>
-    <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
-  </item>
-  <item>
-    <title>Ghaelen's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9740</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
-    <pubDate>Fri, 21 Aug 2026 16:36:15 -0000</pubDate>
-    <description>My personal tweaks I like to play with.</description>
-  </item>
-  <item>
-    <title>Rusty Shell Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/4609</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4609#4609</guid>
-    <pubDate>Fri, 21 Aug 2026 16:35:30 -0000</pubDate>
-    <description>A mod that aims to add industrial warfare to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Sound Physics Adapted</title>
-    <link>https://mods.vintagestory.at/show/mod/10996</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10996#10996</guid>
-    <pubDate>Fri, 21 Aug 2026 16:30:45 -0000</pubDate>
-    <description>Realistic Raytraced Audio. Walls depending on thickness and material muffle sounds and much more!</description>
-  </item>
-  <item>
-    <title>Pyrophobia: Fire-driven Wildlife Deterrence</title>
-    <link>https://mods.vintagestory.at/show/mod/pyrophobia</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pyrophobia#10431</guid>
-    <pubDate>Fri, 21 Aug 2026 16:23:08 -0000</pubDate>
-    <description>A fire-driven wildlife deterrence system. More to come</description>
-  </item>
-  <item>
-    <title>Stowage: Reliable Slot Capacity Management</title>
-    <link>https://mods.vintagestory.at/show/mod/stowage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stowage#10717</guid>
-    <pubDate>Fri, 21 Aug 2026 16:22:46 -0000</pubDate>
-    <description>A reliable and customizable slot capacity management system. Server enforced</description>
   </item>
 </channel>
 </rss>
