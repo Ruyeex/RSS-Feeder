@@ -4,13 +4,69 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 21 Aug 2026 14:37:05 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 15:35:41 +0000</lastBuildDate>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Fri, 21 Aug 2026 15:28:22 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
+  <item>
+    <title>xSkills Gilded Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/5529</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5529#5529</guid>
+    <pubDate>Fri, 21 Aug 2026 15:26:13 -0000</pubDate>
+    <description>This mod adds a beautifully designed, immersive, and user-friendly interface for xSkills. </description>
+  </item>
+  <item>
+    <title>xLib Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7618</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7618#7618</guid>
+    <pubDate>Fri, 21 Aug 2026 15:25:18 -0000</pubDate>
+    <description>XLib provides an interface to add skills, abilities and effects to the game.</description>
+  </item>
+  <item>
+    <title>Stronger Sediments</title>
+    <link>https://mods.vintagestory.at/show/mod/strongersediments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/strongersediments#5208</guid>
+    <pubDate>Fri, 21 Aug 2026 15:20:01 -0000</pubDate>
+    <description>Tweaks sedimentary rocks to have slightly more stability with cave-ins on.</description>
+  </item>
+  <item>
+    <title>Soil Amendments</title>
+    <link>https://mods.vintagestory.at/show/mod/soilamendments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/soilamendments#5686</guid>
+    <pubDate>Fri, 21 Aug 2026 15:19:30 -0000</pubDate>
+    <description>Adds recipes for creating soil tiers through enrichment.</description>
+  </item>
   <item>
     <title>topgsmod</title>
     <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Fri, 21 Aug 2026 14:35:53 -0000</pubDate>
+    <pubDate>Fri, 21 Aug 2026 15:17:39 -0000</pubDate>
     <description>TopGs Community Mod</description>
+  </item>
+  <item>
+    <title>More Blue Clay</title>
+    <link>https://mods.vintagestory.at/show/mod/moreblueclay</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreblueclay#3442</guid>
+    <pubDate>Fri, 21 Aug 2026 15:16:43 -0000</pubDate>
+    <description>Increases the chance for blue clay deposits to form.</description>
+  </item>
+  <item>
+    <title>Additive Chiseling</title>
+    <link>https://mods.vintagestory.at/show/mod/additivechiseling</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/additivechiseling#11186</guid>
+    <pubDate>Fri, 21 Aug 2026 15:06:35 -0000</pubDate>
+    <description>Adds a new way of building with chiseled blocks</description>
+  </item>
+  <item>
+    <title>xSkills Tailoring Aldi's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/xskillstailoringaldisclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xskillstailoringaldisclasses#11179</guid>
+    <pubDate>Fri, 21 Aug 2026 14:52:26 -0000</pubDate>
+    <description>A fork of "X-Skills Tailoring" made to be compatible with "xSkills X Aldi's Classes".</description>
   </item>
   <item>
     <title>Peat for Charcoal</title>
@@ -46,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
     <pubDate>Fri, 21 Aug 2026 13:28:34 -0000</pubDate>
     <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
-  </item>
-  <item>
-    <title>Additive Chiseling</title>
-    <link>https://mods.vintagestory.at/show/mod/additivechiseling</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/additivechiseling#11186</guid>
-    <pubDate>Fri, 21 Aug 2026 13:17:39 -0000</pubDate>
-    <description>Adds a new way of building with chiseled blocks</description>
   </item>
   <item>
     <title>Plaster Stairs &amp; Slabs</title>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
     <pubDate>Fri, 21 Aug 2026 08:13:34 -0000</pubDate>
     <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat: Captions</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechatcaptions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechatcaptions#11085</guid>
-    <pubDate>Fri, 21 Aug 2026 07:37:58 -0000</pubDate>
-    <description>Client-side directional captions for game sounds and Simple Voice Chat speech.</description>
-  </item>
-  <item>
-    <title>The Almanac: Trades, Callings &amp; Mastery</title>
-    <link>https://mods.vintagestory.at/show/mod/almanactcm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanactcm#10453</guid>
-    <pubDate>Fri, 21 Aug 2026 07:34:15 -0000</pubDate>
-    <description>Twenty-two trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>Re-Smeltables Light 1.21&amp;1.22 Compatibility Hotfix</title>
-    <link>https://mods.vintagestory.at/show/mod/4886</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4886#4886</guid>
-    <pubDate>Fri, 21 Aug 2026 06:54:24 -0000</pubDate>
-    <description>Reupload / Hotfix for Re-smeltables till original is updated!</description>
-  </item>
-  <item>
-    <title>Better Fruit Press</title>
-    <link>https://mods.vintagestory.at/show/mod/10776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10776#10776</guid>
-    <pubDate>Fri, 21 Aug 2026 06:43:37 -0000</pubDate>
-    <description>Makes the fruit press quicker and allows squeezing over barrels.</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Fri, 21 Aug 2026 06:29:52 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Fri, 21 Aug 2026 06:26:45 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
-    <title>Tandem Waterwheel Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/tandemwaterwheelfix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tandemwaterwheelfix#10668</guid>
-    <pubDate>Fri, 21 Aug 2026 06:26:10 -0000</pubDate>
-    <description>Fixes tandem water wheel reversal and explains how to divert rapid water.</description>
   </item>
 </channel>
 </rss>
