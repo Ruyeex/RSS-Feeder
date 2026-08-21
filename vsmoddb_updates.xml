@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 21 Aug 2026 10:32:30 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 11:28:12 +0000</lastBuildDate>
+  <item>
+    <title>Threnkla Traits Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/threnkaltraits</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/threnkaltraits#11184</guid>
+    <pubDate>Fri, 21 Aug 2026 11:26:34 -0000</pubDate>
+    <description>A simple mod to add Trais to my Threnkal race Mod</description>
+  </item>
+  <item>
+    <title>Bricklayers</title>
+    <link>https://mods.vintagestory.at/show/mod/bricklayers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricklayers#117</guid>
+    <pubDate>Fri, 21 Aug 2026 10:35:23 -0000</pubDate>
+    <description>More clay, bricks, porcelain, glazings, colored glass, luminous glass.</description>
+  </item>
+  <item>
+    <title>CB Factions</title>
+    <link>https://mods.vintagestory.at/show/mod/9586</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9586#9586</guid>
+    <pubDate>Fri, 21 Aug 2026 10:32:57 -0000</pubDate>
+    <description>Settlement and factions mod</description>
+  </item>
   <item>
     <title>Open Heavy Rusted Gates by Hand</title>
     <link>https://mods.vintagestory.at/show/mod/11183</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11175#11175</guid>
     <pubDate>Fri, 21 Aug 2026 00:35:06 -0000</pubDate>
     <description>Allows you to pick up and place rapids with bucket</description>
-  </item>
-  <item>
-    <title>Dyed Wood</title>
-    <link>https://mods.vintagestory.at/show/mod/dyedwood</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dyedwood#10405</guid>
-    <pubDate>Fri, 21 Aug 2026 00:27:49 -0000</pubDate>
-    <description>Adds dyed planks, slabs, and stairs for every vanilla wood while preserving natural grain.</description>
-  </item>
-  <item>
-    <title>Eternal Stew x Hydrate or Dydrate Compatibility </title>
-    <link>https://mods.vintagestory.at/show/mod/11146</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11146#11146</guid>
-    <pubDate>Fri, 21 Aug 2026 00:24:11 -0000</pubDate>
-    <description>Ingredient-based hydration compatibility between Eternal Stew and Hydrate Or Diedrate.</description>
-  </item>
-  <item>
-    <title>Primitive Survival</title>
-    <link>https://mods.vintagestory.at/show/mod/primitivesurvival</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/primitivesurvival#322</guid>
-    <pubDate>Fri, 21 Aug 2026 00:03:23 -0000</pubDate>
-    <description>Fishing, trapping, irrigation, smoker, nightcrawlers, snakes, and much more!</description>
   </item>
 </channel>
 </rss>
