@@ -4,20 +4,55 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 21 Aug 2026 21:26:43 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 22:27:00 +0000</lastBuildDate>
   <item>
-    <title>Safe Haven</title>
-    <link>https://mods.vintagestory.at/show/mod/safehaven</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/safehaven#11195</guid>
-    <pubDate>Fri, 21 Aug 2026 21:25:25 -0000</pubDate>
-    <description>AFK, spawn, loading and softcore safety protections for multiplayer servers.</description>
+    <title>Threnkal Traits Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/threnkaltraits</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/threnkaltraits#11184</guid>
+    <pubDate>Fri, 21 Aug 2026 22:19:20 -0000</pubDate>
+    <description>A simple mod to add Trais to my Threnkal race Mod</description>
+  </item>
+  <item>
+    <title>Rot Bin</title>
+    <link>https://mods.vintagestory.at/show/mod/10779</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10779#10779</guid>
+    <pubDate>Fri, 21 Aug 2026 22:13:31 -0000</pubDate>
+    <description>Rot food and age alcohol.</description>
+  </item>
+  <item>
+    <title>Bone and Bark</title>
+    <link>https://mods.vintagestory.at/show/mod/bcbonebark</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bcbonebark#5393</guid>
+    <pubDate>Fri, 21 Aug 2026 22:01:42 -0000</pubDate>
+    <description>Adds a lumberjack class, woodcutting QoL recipes, some more uses for bones, and other minor tweaks.</description>
   </item>
   <item>
     <title>Player Model NPCs </title>
     <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
-    <pubDate>Fri, 21 Aug 2026 21:23:29 -0000</pubDate>
+    <pubDate>Fri, 21 Aug 2026 22:00:10 -0000</pubDate>
     <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
+  </item>
+  <item>
+    <title>Ghaelen's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9740</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
+    <pubDate>Fri, 21 Aug 2026 21:58:10 -0000</pubDate>
+    <description>My personal tweaks I like to play with.</description>
+  </item>
+  <item>
+    <title>Safe Haven</title>
+    <link>https://mods.vintagestory.at/show/mod/safehaven</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/safehaven#11195</guid>
+    <pubDate>Fri, 21 Aug 2026 21:49:14 -0000</pubDate>
+    <description>AFK, spawn, loading and softcore safety protections for multiplayer servers.</description>
+  </item>
+  <item>
+    <title>Emotes</title>
+    <link>https://mods.vintagestory.at/show/mod/emotes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/emotes#8235</guid>
+    <pubDate>Fri, 21 Aug 2026 21:31:06 -0000</pubDate>
+    <description>Adds more custom emotes to the game.</description>
   </item>
   <item>
     <title>Feral Kinship: Companions</title>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fcrspawntweaks#10707</guid>
     <pubDate>Fri, 21 Aug 2026 19:00:36 -0000</pubDate>
     <description>Spawn tweaks for Fantasy Creatures Reborn</description>
-  </item>
-  <item>
-    <title>C&amp;N Auction</title>
-    <link>https://mods.vintagestory.at/show/mod/canauction</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canauction#11099</guid>
-    <pubDate>Fri, 21 Aug 2026 18:58:57 -0000</pubDate>
-    <description>Player-driven auction house with bids, buyouts, standing buy offers and an optional price-reactive m</description>
-  </item>
-  <item>
-    <title>Weapon Pack Alpha - Rebalanced</title>
-    <link>https://mods.vintagestory.at/show/mod/3314</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
-    <pubDate>Fri, 21 Aug 2026 18:32:54 -0000</pubDate>
-    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
-  </item>
-  <item>
-    <title>CB Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Fri, 21 Aug 2026 18:29:03 -0000</pubDate>
-    <description>JSON content patches</description>
-  </item>
-  <item>
-    <title>Vintage Healing</title>
-    <link>https://mods.vintagestory.at/show/mod/vsheal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsheal#11190</guid>
-    <pubDate>Fri, 21 Aug 2026 18:28:45 -0000</pubDate>
-    <description>Adds antiseptic, slow healing poultices and bandages.</description>
-  </item>
-  <item>
-    <title>CB Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/10778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
-    <pubDate>Fri, 21 Aug 2026 18:24:54 -0000</pubDate>
-    <description>Skill and class mod for the CB server</description>
   </item>
 </channel>
 </rss>
