@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 21 Aug 2026 12:52:23 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 13:48:14 +0000</lastBuildDate>
+  <item>
+    <title>Wool 🙵 More</title>
+    <link>https://mods.vintagestory.at/show/mod/wool</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wool#2447</guid>
+    <pubDate>Fri, 21 Aug 2026 13:40:23 -0000</pubDate>
+    <description>Harvest, process, trade and craft with animal fleece and wool.</description>
+  </item>
+  <item>
+    <title>AstraTerra</title>
+    <link>https://mods.vintagestory.at/show/mod/8706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
+    <pubDate>Fri, 21 Aug 2026 13:28:34 -0000</pubDate>
+    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Fri, 21 Aug 2026 13:28:25 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
+  <item>
+    <title>Additive Chiseling</title>
+    <link>https://mods.vintagestory.at/show/mod/additivechiseling</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/additivechiseling#11186</guid>
+    <pubDate>Fri, 21 Aug 2026 13:17:39 -0000</pubDate>
+    <description>Adds a new way of building with chiseled blocks</description>
+  </item>
+  <item>
+    <title>Plaster Stairs &amp; Slabs</title>
+    <link>https://mods.vintagestory.at/show/mod/plasterstairsslabs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plasterstairsslabs#4624</guid>
+    <pubDate>Fri, 21 Aug 2026 13:01:59 -0000</pubDate>
+    <description>A simple mod for adding plaster stairs and slabs.</description>
+  </item>
+  <item>
+    <title>CFY Simple Hotbar Refill</title>
+    <link>https://mods.vintagestory.at/show/mod/simplerefill</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplerefill#4723</guid>
+    <pubDate>Fri, 21 Aug 2026 13:01:22 -0000</pubDate>
+    <description>Automatically refills tools, blocks, and items in the hotbar.</description>
+  </item>
+  <item>
+    <title>SteadyGreenhouses</title>
+    <link>https://mods.vintagestory.at/show/mod/steadygreenhouses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/steadygreenhouses#6447</guid>
+    <pubDate>Fri, 21 Aug 2026 12:53:19 -0000</pubDate>
+    <description>This mod sets the temperatures of greenhouses to 20 C all year round.</description>
+  </item>
   <item>
     <title>Player Model NPCs </title>
     <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/htf#11181</guid>
     <pubDate>Fri, 21 Aug 2026 05:55:35 -0000</pubDate>
     <description>A somewhat simple mod that allows you to swap grassroots hemp with flax</description>
-  </item>
-  <item>
-    <title>Size To Health Bonus</title>
-    <link>https://mods.vintagestory.at/show/mod/sizetohealthbonus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sizetohealthbonus#10849</guid>
-    <pubDate>Fri, 21 Aug 2026 05:13:37 -0000</pubDate>
-    <description>HP scales with your Player Model Lib size — bigger = tougher, smaller = weaker. Configurable.</description>
-  </item>
-  <item>
-    <title>Recipe Designer</title>
-    <link>https://mods.vintagestory.at/show/mod/recipedesigner</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/recipedesigner#7840</guid>
-    <pubDate>Fri, 21 Aug 2026 04:38:54 -0000</pubDate>
-    <description>Design crafting recipes from an in-game menu! Modding utility.</description>
-  </item>
-  <item>
-    <title>The Mighty Walnut</title>
-    <link>https://mods.vintagestory.at/show/mod/mightywalnut</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mightywalnut#6337</guid>
-    <pubDate>Fri, 21 Aug 2026 03:56:57 -0000</pubDate>
-    <description>Adding walnuts as a food source and slightly worse alternative to peanuts</description>
-  </item>
-  <item>
-    <title>Veganized</title>
-    <link>https://mods.vintagestory.at/show/mod/veganfat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/veganfat#11012</guid>
-    <pubDate>Fri, 21 Aug 2026 03:22:53 -0000</pubDate>
-    <description>Plants make the real vanilla fat, wax and bone meal, so every recipe that wants them just works.</description>
-  </item>
-  <item>
-    <title>Traders Expansion</title>
-    <link>https://mods.vintagestory.at/show/mod/tradie</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tradie#3400</guid>
-    <pubDate>Fri, 21 Aug 2026 03:19:36 -0000</pubDate>
-    <description>6 new traders and ways to make money</description>
-  </item>
-  <item>
-    <title>Bikini Bear</title>
-    <link>https://mods.vintagestory.at/show/mod/bikinibear</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bikinibear#11173</guid>
-    <pubDate>Fri, 21 Aug 2026 02:37:48 -0000</pubDate>
-    <description>Every bear has a 10% chance to spawn in a pink polka-dot bikini. All 5 species. No explanations.</description>
-  </item>
-  <item>
-    <title> Specialized Storage Renewed</title>
-    <link>https://mods.vintagestory.at/show/mod/10268</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10268#10268</guid>
-    <pubDate>Fri, 21 Aug 2026 02:24:59 -0000</pubDate>
-    <description>A fork of SpecializedBags Revived with a few things from BackPackPlus for my personal server.</description>
   </item>
 </channel>
 </rss>
