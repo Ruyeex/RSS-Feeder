@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 21 Aug 2026 08:42:20 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 09:38:51 +0000</lastBuildDate>
+  <item>
+    <title>CB Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Fri, 21 Aug 2026 08:58:14 -0000</pubDate>
+    <description>Skill and class mod for the CB server</description>
+  </item>
   <item>
     <title>Kaschperle Class Mix </title>
     <link>https://mods.vintagestory.at/show/mod/8517</link>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/desertpatch#10096</guid>
     <pubDate>Thu, 20 Aug 2026 23:43:09 -0000</pubDate>
     <description>Patches in recipes for DesertWear.</description>
-  </item>
-  <item>
-    <title>Stacked Gates</title>
-    <link>https://mods.vintagestory.at/show/mod/stackedgates</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stackedgates#11174</guid>
-    <pubDate>Thu, 20 Aug 2026 23:36:04 -0000</pubDate>
-    <description>Fence gates stacked on top of each other open and close together. Server-side only.</description>
   </item>
 </channel>
 </rss>
