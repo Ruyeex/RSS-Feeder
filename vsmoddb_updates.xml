@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 21 Aug 2026 05:34:44 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 06:51:12 +0000</lastBuildDate>
+  <item>
+    <title>Better Fruit Press</title>
+    <link>https://mods.vintagestory.at/show/mod/10776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10776#10776</guid>
+    <pubDate>Fri, 21 Aug 2026 06:43:37 -0000</pubDate>
+    <description>Makes the fruit press quicker and allows squeezing over barrels.</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Fri, 21 Aug 2026 06:29:52 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
+  <item>
+    <title>Riley's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Fri, 21 Aug 2026 06:26:45 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+  </item>
+  <item>
+    <title>Tandem Waterwheel Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/tandemwaterwheelfix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tandemwaterwheelfix#10668</guid>
+    <pubDate>Fri, 21 Aug 2026 06:26:10 -0000</pubDate>
+    <description>Fixes tandem water wheel reversal and explains how to divert rapid water.</description>
+  </item>
+  <item>
+    <title>Daubious Savings</title>
+    <link>https://mods.vintagestory.at/show/mod/11182</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11182#11182</guid>
+    <pubDate>Fri, 21 Aug 2026 05:57:06 -0000</pubDate>
+    <description>Halves the amount of raw daub needed to make the initial wattle and daub and adds grid recipes.</description>
+  </item>
+  <item>
+    <title>Bear Bones</title>
+    <link>https://mods.vintagestory.at/show/mod/11024</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11024#11024</guid>
+    <pubDate>Fri, 21 Aug 2026 05:56:10 -0000</pubDate>
+    <description>Repair your bear hide armour with bones and rope.</description>
+  </item>
+  <item>
+    <title>Hemp To Flax</title>
+    <link>https://mods.vintagestory.at/show/mod/htf</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/htf#11181</guid>
+    <pubDate>Fri, 21 Aug 2026 05:55:35 -0000</pubDate>
+    <description>A somewhat simple mod that allows you to swap grassroots hemp with flax</description>
+  </item>
   <item>
     <title>Size To Health Bonus</title>
     <link>https://mods.vintagestory.at/show/mod/sizetohealthbonus</link>
@@ -25,13 +74,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mightywalnut#6337</guid>
     <pubDate>Fri, 21 Aug 2026 03:56:57 -0000</pubDate>
     <description>Adding walnuts as a food source and slightly worse alternative to peanuts</description>
-  </item>
-  <item>
-    <title>Better Fruit Press</title>
-    <link>https://mods.vintagestory.at/show/mod/10776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10776#10776</guid>
-    <pubDate>Fri, 21 Aug 2026 03:44:56 -0000</pubDate>
-    <description>Makes the fruit press quicker and allows squeezing over barrels.</description>
   </item>
   <item>
     <title>Veganized</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gridforbeams#11157</guid>
     <pubDate>Thu, 20 Aug 2026 23:06:30 -0000</pubDate>
     <description>Adds a grid for beams and shows the cube where the beam's hitbox will be when placed.</description>
-  </item>
-  <item>
-    <title>Cycle of Life: RealFauna Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/colrealfauna</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/colrealfauna#11140</guid>
-    <pubDate>Thu, 20 Aug 2026 23:00:51 -0000</pubDate>
-    <description>A realistic overlay pack for Cycle of Life.</description>
-  </item>
-  <item>
-    <title>Recipe Fix for Tile 'n All</title>
-    <link>https://mods.vintagestory.at/show/mod/tnarecipefix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tnarecipefix#11172</guid>
-    <pubDate>Thu, 20 Aug 2026 22:57:35 -0000</pubDate>
-    <description>Allows you to craft the tiles from the mod Tiles 'n All</description>
-  </item>
-  <item>
-    <title>Cycle of Life</title>
-    <link>https://mods.vintagestory.at/show/mod/cycleoflife</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cycleoflife#11139</guid>
-    <pubDate>Thu, 20 Aug 2026 22:57:31 -0000</pubDate>
-    <description>A realistic simulated fauna ecosystem.</description>
-  </item>
-  <item>
-    <title>Tarot Cards</title>
-    <link>https://mods.vintagestory.at/show/mod/tarotcards</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tarotcards#11171</guid>
-    <pubDate>Thu, 20 Aug 2026 22:57:04 -0000</pubDate>
-    <description>Beautiful tarot cards with the art done by Thiago Lehmann. Requires Tabletop Games</description>
-  </item>
-  <item>
-    <title>Dense Ground Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/densegroundstorage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/densegroundstorage#10222</guid>
-    <pubDate>Thu, 20 Aug 2026 22:47:02 -0000</pubDate>
-    <description>Place down more items per block and on chiseled blocks</description>
-  </item>
-  <item>
-    <title>Skis and Snowboards</title>
-    <link>https://mods.vintagestory.at/show/mod/skisandsnowboards</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skisandsnowboards#11170</guid>
-    <pubDate>Thu, 20 Aug 2026 22:33:16 -0000</pubDate>
-    <description>Craft skis and snowboards and carve across snow and ice. </description>
   </item>
 </channel>
 </rss>
