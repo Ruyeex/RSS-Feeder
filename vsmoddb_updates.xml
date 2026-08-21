@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 21 Aug 2026 06:51:12 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 07:44:17 +0000</lastBuildDate>
+  <item>
+    <title>Player Model NPCs </title>
+    <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
+    <pubDate>Fri, 21 Aug 2026 07:42:12 -0000</pubDate>
+    <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
+  </item>
+  <item>
+    <title>Simple Voice Chat: Captions</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechatcaptions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechatcaptions#11085</guid>
+    <pubDate>Fri, 21 Aug 2026 07:37:58 -0000</pubDate>
+    <description>Client-side directional captions for game sounds and Simple Voice Chat speech.</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/almanactcm</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanactcm#10453</guid>
+    <pubDate>Fri, 21 Aug 2026 07:34:15 -0000</pubDate>
+    <description>Twenty-two trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>Re-Smeltables Light 1.21&amp;1.22 Compatibility Hotfix</title>
+    <link>https://mods.vintagestory.at/show/mod/4886</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4886#4886</guid>
+    <pubDate>Fri, 21 Aug 2026 06:54:24 -0000</pubDate>
+    <description>Reupload / Hotfix for Re-smeltables till original is updated!</description>
+  </item>
   <item>
     <title>Better Fruit Press</title>
     <link>https://mods.vintagestory.at/show/mod/10776</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11118#11118</guid>
     <pubDate>Thu, 20 Aug 2026 23:26:51 -0000</pubDate>
     <description>Displays a breakdown of player stats on hover</description>
-  </item>
-  <item>
-    <title>Isometric Renders</title>
-    <link>https://mods.vintagestory.at/show/mod/isometricrenders</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/isometricrenders#10732</guid>
-    <pubDate>Thu, 20 Aug 2026 23:24:40 -0000</pubDate>
-    <description>High resolution orthographic and isometric renders for Vihntage Story worlds, structures and objects</description>
-  </item>
-  <item>
-    <title>Dar's Server Utilities</title>
-    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
-    <pubDate>Thu, 20 Aug 2026 23:19:32 -0000</pubDate>
-    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
-  </item>
-  <item>
-    <title>AstraTerra</title>
-    <link>https://mods.vintagestory.at/show/mod/8706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
-    <pubDate>Thu, 20 Aug 2026 23:14:24 -0000</pubDate>
-    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
-  </item>
-  <item>
-    <title>Grid for Beams</title>
-    <link>https://mods.vintagestory.at/show/mod/gridforbeams</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gridforbeams#11157</guid>
-    <pubDate>Thu, 20 Aug 2026 23:06:30 -0000</pubDate>
-    <description>Adds a grid for beams and shows the cube where the beam's hitbox will be when placed.</description>
   </item>
 </channel>
 </rss>
