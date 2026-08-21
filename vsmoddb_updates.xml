@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 21 Aug 2026 13:48:14 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 14:37:05 +0000</lastBuildDate>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Fri, 21 Aug 2026 14:35:53 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
+  <item>
+    <title>Peat for Charcoal</title>
+    <link>https://mods.vintagestory.at/show/mod/peatforcharcoal</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/peatforcharcoal#10384</guid>
+    <pubDate>Fri, 21 Aug 2026 14:34:01 -0000</pubDate>
+    <description>Allows using peat bricks as a substitute for firewood + changes to Peat piles.</description>
+  </item>
+  <item>
+    <title>Packrat</title>
+    <link>https://mods.vintagestory.at/show/mod/6138</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6138#6138</guid>
+    <pubDate>Fri, 21 Aug 2026 14:16:22 -0000</pubDate>
+    <description>Unified Storage Browser showing the contents of all chests and crates within reach</description>
+  </item>
+  <item>
+    <title>More Classic Bark (addon for Wolf Taming)</title>
+    <link>https://mods.vintagestory.at/show/mod/mcbark</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mcbark#11187</guid>
+    <pubDate>Fri, 21 Aug 2026 13:55:53 -0000</pubDate>
+    <description>Modifies the Wolf Taming mod's dogs to use a More Classic (MC) selection of bark sounds.</description>
+  </item>
   <item>
     <title>Wool 🙵 More</title>
     <link>https://mods.vintagestory.at/show/mod/wool</link>
@@ -18,13 +46,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
     <pubDate>Fri, 21 Aug 2026 13:28:34 -0000</pubDate>
     <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
-  </item>
-  <item>
-    <title>topgsmod</title>
-    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Fri, 21 Aug 2026 13:28:25 -0000</pubDate>
-    <description>TopGs Community Mod</description>
   </item>
   <item>
     <title>Additive Chiseling</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tandemwaterwheelfix#10668</guid>
     <pubDate>Fri, 21 Aug 2026 06:26:10 -0000</pubDate>
     <description>Fixes tandem water wheel reversal and explains how to divert rapid water.</description>
-  </item>
-  <item>
-    <title>Daubious Savings</title>
-    <link>https://mods.vintagestory.at/show/mod/11182</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11182#11182</guid>
-    <pubDate>Fri, 21 Aug 2026 05:57:06 -0000</pubDate>
-    <description>Halves the amount of raw daub needed to make the initial wattle and daub and adds grid recipes.</description>
-  </item>
-  <item>
-    <title>Bear Bones</title>
-    <link>https://mods.vintagestory.at/show/mod/11024</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11024#11024</guid>
-    <pubDate>Fri, 21 Aug 2026 05:56:10 -0000</pubDate>
-    <description>Repair your bear hide armour with bones and rope.</description>
-  </item>
-  <item>
-    <title>Hemp To Flax</title>
-    <link>https://mods.vintagestory.at/show/mod/htf</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/htf#11181</guid>
-    <pubDate>Fri, 21 Aug 2026 05:55:35 -0000</pubDate>
-    <description>A somewhat simple mod that allows you to swap grassroots hemp with flax</description>
   </item>
 </channel>
 </rss>
