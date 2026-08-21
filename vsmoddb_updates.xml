@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 21 Aug 2026 01:25:29 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 03:04:56 +0000</lastBuildDate>
+  <item>
+    <title>Bikini Bear</title>
+    <link>https://mods.vintagestory.at/show/mod/bikinibear</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bikinibear#11173</guid>
+    <pubDate>Fri, 21 Aug 2026 02:37:48 -0000</pubDate>
+    <description>Every bear has a 10% chance to spawn in a pink polka-dot bikini. All 5 species. No explanations.</description>
+  </item>
+  <item>
+    <title> Specialized Storage Renewed</title>
+    <link>https://mods.vintagestory.at/show/mod/10268</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10268#10268</guid>
+    <pubDate>Fri, 21 Aug 2026 02:24:59 -0000</pubDate>
+    <description>A fork of SpecializedBags Revived with a few things from BackPackPlus for my personal server.</description>
+  </item>
+  <item>
+    <title>Orca Player Model With Clothes</title>
+    <link>https://mods.vintagestory.at/show/mod/11180</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11180#11180</guid>
+    <pubDate>Fri, 21 Aug 2026 02:13:15 -0000</pubDate>
+    <description>Adds a variant of orcafolks to the main mod that displays clothing</description>
+  </item>
   <item>
     <title>Rapid Guard</title>
     <link>https://mods.vintagestory.at/show/mod/11178</link>
@@ -74,13 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
     <pubDate>Thu, 20 Aug 2026 23:31:55 -0000</pubDate>
     <description>Adds all the features for bloodbread that should have been.</description>
-  </item>
-  <item>
-    <title>Bakini Bear</title>
-    <link>https://mods.vintagestory.at/show/mod/bakinibear</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bakinibear#11173</guid>
-    <pubDate>Thu, 20 Aug 2026 23:29:31 -0000</pubDate>
-    <description>Every bear has a 10% chance to spawn in a pink polka-dot bikini and a straw sun hat. All 5 species.</description>
   </item>
   <item>
     <title>Stats Breakdown</title>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/healingmalk#10341</guid>
     <pubDate>Thu, 20 Aug 2026 21:05:48 -0000</pubDate>
     <description>milk know heals you for 1 hp ૮꒰ ˶• ༝ •˶꒱ა</description>
-  </item>
-  <item>
-    <title>Tardis</title>
-    <link>https://mods.vintagestory.at/show/mod/tardis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tardis#11072</guid>
-    <pubDate>Thu, 20 Aug 2026 20:56:24 -0000</pubDate>
-    <description>A working TARDIS with a bigger-on-the-inside interior, flight, rooms, keys and a sonic.</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Thu, 20 Aug 2026 20:56:15 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
   </item>
 </channel>
 </rss>
