@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 21 Aug 2026 11:28:12 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 12:52:23 +0000</lastBuildDate>
+  <item>
+    <title>Player Model NPCs </title>
+    <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
+    <pubDate>Fri, 21 Aug 2026 12:36:46 -0000</pubDate>
+    <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
+  </item>
+  <item>
+    <title>Cheap Dirt Path</title>
+    <link>https://mods.vintagestory.at/show/mod/6783</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6783#6783</guid>
+    <pubDate>Fri, 21 Aug 2026 12:11:29 -0000</pubDate>
+    <description>A mod that adds cheaper paths, made with compact dirt.</description>
+  </item>
+  <item>
+    <title>Everything Black Raspberries</title>
+    <link>https://mods.vintagestory.at/show/mod/blackraspberry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blackraspberry#8736</guid>
+    <pubDate>Fri, 21 Aug 2026 12:02:50 -0000</pubDate>
+    <description>Adds black raspberry bushes and their respective products. Expanded Foods compatibility!</description>
+  </item>
+  <item>
+    <title>Leaf Litter</title>
+    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
+    <pubDate>Fri, 21 Aug 2026 12:01:02 -0000</pubDate>
+    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
+  </item>
+  <item>
+    <title>Deciduous Trees</title>
+    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
+    <pubDate>Fri, 21 Aug 2026 12:00:32 -0000</pubDate>
+    <description>Trees slowly shed their leaves based on temperature. Vanilla or Eco Machina compatible.</description>
+  </item>
+  <item>
+    <title>PrismForge</title>
+    <link>https://mods.vintagestory.at/show/mod/prismforge</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/prismforge#11185</guid>
+    <pubDate>Fri, 21 Aug 2026 11:34:55 -0000</pubDate>
+    <description>Enhanced Native Shader Mod</description>
+  </item>
   <item>
     <title>Threnkla Traits Mod</title>
     <link>https://mods.vintagestory.at/show/mod/threnkaltraits</link>
@@ -53,13 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
     <pubDate>Fri, 21 Aug 2026 08:13:34 -0000</pubDate>
     <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
-  </item>
-  <item>
-    <title>Player Model NPCs </title>
-    <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
-    <pubDate>Fri, 21 Aug 2026 07:42:12 -0000</pubDate>
-    <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
   </item>
   <item>
     <title>Simple Voice Chat: Captions</title>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10268#10268</guid>
     <pubDate>Fri, 21 Aug 2026 02:24:59 -0000</pubDate>
     <description>A fork of SpecializedBags Revived with a few things from BackPackPlus for my personal server.</description>
-  </item>
-  <item>
-    <title>Orca Player Model With Clothes</title>
-    <link>https://mods.vintagestory.at/show/mod/11180</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11180#11180</guid>
-    <pubDate>Fri, 21 Aug 2026 02:13:15 -0000</pubDate>
-    <description>Adds a variant of orcafolks to the main mod that displays clothing</description>
-  </item>
-  <item>
-    <title>Rapid Guard</title>
-    <link>https://mods.vintagestory.at/show/mod/11178</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11178#11178</guid>
-    <pubDate>Fri, 21 Aug 2026 01:05:20 -0000</pubDate>
-    <description>Place a cobble top slab on in rapid water sources at worldgen to protect from soil instability</description>
-  </item>
-  <item>
-    <title>Container Searcher</title>
-    <link>https://mods.vintagestory.at/show/mod/11176</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11176#11176</guid>
-    <pubDate>Fri, 21 Aug 2026 00:47:11 -0000</pubDate>
-    <description>Search nearby inventories for whatever item you're hovering over</description>
-  </item>
-  <item>
-    <title>Eternal Stew x XSkills-Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/11168</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11168#11168</guid>
-    <pubDate>Fri, 21 Aug 2026 00:45:56 -0000</pubDate>
-    <description>Eternal Stew actions give Cooking EXP and use Cooking Skill Buffs!</description>
-  </item>
-  <item>
-    <title>Rapids In Bucket</title>
-    <link>https://mods.vintagestory.at/show/mod/11175</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11175#11175</guid>
-    <pubDate>Fri, 21 Aug 2026 00:35:06 -0000</pubDate>
-    <description>Allows you to pick up and place rapids with bucket</description>
   </item>
 </channel>
 </rss>
