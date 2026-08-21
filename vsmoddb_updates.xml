@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 20 Aug 2026 23:27:14 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 01:25:29 +0000</lastBuildDate>
+  <item>
+    <title>Rapid Guard</title>
+    <link>https://mods.vintagestory.at/show/mod/11178</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11178#11178</guid>
+    <pubDate>Fri, 21 Aug 2026 01:05:20 -0000</pubDate>
+    <description>Place a cobble top slab on in rapid water sources at worldgen to protect from soil instability</description>
+  </item>
+  <item>
+    <title>Container Searcher</title>
+    <link>https://mods.vintagestory.at/show/mod/11176</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11176#11176</guid>
+    <pubDate>Fri, 21 Aug 2026 00:47:11 -0000</pubDate>
+    <description>Search nearby inventories for whatever item you're hovering over</description>
+  </item>
+  <item>
+    <title>Eternal Stew x XSkills-Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/11168</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11168#11168</guid>
+    <pubDate>Fri, 21 Aug 2026 00:45:56 -0000</pubDate>
+    <description>Eternal Stew actions give Cooking EXP and use Cooking Skill Buffs!</description>
+  </item>
+  <item>
+    <title>Rapids In Bucket</title>
+    <link>https://mods.vintagestory.at/show/mod/11175</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11175#11175</guid>
+    <pubDate>Fri, 21 Aug 2026 00:35:06 -0000</pubDate>
+    <description>Allows you to pick up and place rapids with bucket</description>
+  </item>
+  <item>
+    <title>Dyed Wood</title>
+    <link>https://mods.vintagestory.at/show/mod/dyedwood</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dyedwood#10405</guid>
+    <pubDate>Fri, 21 Aug 2026 00:27:49 -0000</pubDate>
+    <description>Adds dyed planks, slabs, and stairs for every vanilla wood while preserving natural grain.</description>
+  </item>
+  <item>
+    <title>Eternal Stew x Hydrate or Dydrate Compatibility </title>
+    <link>https://mods.vintagestory.at/show/mod/11146</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11146#11146</guid>
+    <pubDate>Fri, 21 Aug 2026 00:24:11 -0000</pubDate>
+    <description>Ingredient-based hydration compatibility between Eternal Stew and Hydrate Or Diedrate.</description>
+  </item>
+  <item>
+    <title>Primitive Survival</title>
+    <link>https://mods.vintagestory.at/show/mod/primitivesurvival</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/primitivesurvival#322</guid>
+    <pubDate>Fri, 21 Aug 2026 00:03:23 -0000</pubDate>
+    <description>Fishing, trapping, irrigation, smoker, nightcrawlers, snakes, and much more!</description>
+  </item>
+  <item>
+    <title>DesertWearPatch</title>
+    <link>https://mods.vintagestory.at/show/mod/desertpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/desertpatch#10096</guid>
+    <pubDate>Thu, 20 Aug 2026 23:43:09 -0000</pubDate>
+    <description>Patches in recipes for DesertWear.</description>
+  </item>
+  <item>
+    <title>Stacked Gates</title>
+    <link>https://mods.vintagestory.at/show/mod/stackedgates</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stackedgates#11174</guid>
+    <pubDate>Thu, 20 Aug 2026 23:36:04 -0000</pubDate>
+    <description>Fence gates stacked on top of each other open and close together. Server-side only.</description>
+  </item>
+  <item>
+    <title>More Blood Thingies!</title>
+    <link>https://mods.vintagestory.at/show/mod/10959</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
+    <pubDate>Thu, 20 Aug 2026 23:31:55 -0000</pubDate>
+    <description>Adds all the features for bloodbread that should have been.</description>
+  </item>
+  <item>
+    <title>Bakini Bear</title>
+    <link>https://mods.vintagestory.at/show/mod/bakinibear</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bakinibear#11173</guid>
+    <pubDate>Thu, 20 Aug 2026 23:29:31 -0000</pubDate>
+    <description>Every bear has a 10% chance to spawn in a pink polka-dot bikini and a straw sun hat. All 5 species.</description>
+  </item>
   <item>
     <title>Stats Breakdown</title>
     <link>https://mods.vintagestory.at/show/mod/11118</link>
@@ -111,25 +188,11 @@
     <description>A port of the Cellar Door mod with support for the new ceramic colors.</description>
   </item>
   <item>
-    <title>Eternal Stew x XSkills-Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/11168</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11168#11168</guid>
-    <pubDate>Thu, 20 Aug 2026 21:50:56 -0000</pubDate>
-    <description>Eternal Stew actions give Cooking EXP and use Cooking Skill Buffs!</description>
-  </item>
-  <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/9635</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
     <pubDate>Thu, 20 Aug 2026 21:23:37 -0000</pubDate>
     <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Dyed Wood</title>
-    <link>https://mods.vintagestory.at/show/mod/dyedwood</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dyedwood#10405</guid>
-    <pubDate>Thu, 20 Aug 2026 21:19:24 -0000</pubDate>
-    <description>Adds dyed planks, slabs, and stairs for every vanilla wood while preserving natural grain.</description>
   </item>
   <item>
     <title>Healing Malk</title>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
     <pubDate>Thu, 20 Aug 2026 20:56:15 -0000</pubDate>
     <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
-  </item>
-  <item>
-    <title>More Grass From Knives</title>
-    <link>https://mods.vintagestory.at/show/mod/10985</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10985#10985</guid>
-    <pubDate>Thu, 20 Aug 2026 20:46:27 -0000</pubDate>
-    <description>Tall grass now drops twice as much when using knives and scythes</description>
-  </item>
-  <item>
-    <title>Involved Farming: Fallow</title>
-    <link>https://mods.vintagestory.at/show/mod/10691</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10691#10691</guid>
-    <pubDate>Thu, 20 Aug 2026 20:41:41 -0000</pubDate>
-    <description>Adds fallow- an additional, immersive step between harvested and sowed farmland.</description>
-  </item>
-  <item>
-    <title>Valley of Ashes</title>
-    <link>https://mods.vintagestory.at/show/mod/valleyofashes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/valleyofashes#2288</guid>
-    <pubDate>Thu, 20 Aug 2026 20:37:10 -0000</pubDate>
-    <description>Craft wood and plant ash, ash sludge and optional potash.</description>
-  </item>
-  <item>
-    <title>Waypoints NextGen</title>
-    <link>https://mods.vintagestory.at/show/mod/waypointsnextgen</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waypointsnextgen#8373</guid>
-    <pubDate>Thu, 20 Aug 2026 20:23:29 -0000</pubDate>
-    <description>Adds +200 new waypoint icons: food, ores, traders, craft buildings, conveyors, and more.</description>
-  </item>
-  <item>
-    <title>Fablewood Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Thu, 20 Aug 2026 20:14:50 -0000</pubDate>
-    <description>Harmony patches for compatibility.</description>
-  </item>
-  <item>
-    <title>Fablewood Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Thu, 20 Aug 2026 20:09:15 -0000</pubDate>
-    <description>JSON content patches</description>
-  </item>
-  <item>
-    <title>Fablewood Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/10778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
-    <pubDate>Thu, 20 Aug 2026 20:04:12 -0000</pubDate>
-    <description>Skill and class mod for the Fablewood server</description>
-  </item>
-  <item>
-    <title>Fablewood Quests</title>
-    <link>https://mods.vintagestory.at/show/mod/10819</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10819#10819</guid>
-    <pubDate>Thu, 20 Aug 2026 19:58:30 -0000</pubDate>
-    <description>Adds quests for the Fablewood server</description>
-  </item>
-  <item>
-    <title>Hideaway of Harmony</title>
-    <link>https://mods.vintagestory.at/show/mod/hideawayofharmony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hideawayofharmony#11167</guid>
-    <pubDate>Thu, 20 Aug 2026 19:44:12 -0000</pubDate>
-    <description>Adds 27 tent variants, ranging from rough to fabric and leather tents with a storage</description>
   </item>
 </channel>
 </rss>
