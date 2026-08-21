@@ -4,7 +4,21 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 21 Aug 2026 07:44:17 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 08:42:20 +0000</lastBuildDate>
+  <item>
+    <title>Kaschperle Class Mix </title>
+    <link>https://mods.vintagestory.at/show/mod/8517</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8517#8517</guid>
+    <pubDate>Fri, 21 Aug 2026 08:16:03 -0000</pubDate>
+    <description>A revision mix from the popular class mod Aldi classes and Agi's Classes</description>
+  </item>
+  <item>
+    <title>Simple Voice Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
+    <pubDate>Fri, 21 Aug 2026 08:13:34 -0000</pubDate>
+    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
+  </item>
   <item>
     <title>Player Model NPCs </title>
     <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stackedgates#11174</guid>
     <pubDate>Thu, 20 Aug 2026 23:36:04 -0000</pubDate>
     <description>Fence gates stacked on top of each other open and close together. Server-side only.</description>
-  </item>
-  <item>
-    <title>More Blood Thingies!</title>
-    <link>https://mods.vintagestory.at/show/mod/10959</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
-    <pubDate>Thu, 20 Aug 2026 23:31:55 -0000</pubDate>
-    <description>Adds all the features for bloodbread that should have been.</description>
-  </item>
-  <item>
-    <title>Stats Breakdown</title>
-    <link>https://mods.vintagestory.at/show/mod/11118</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11118#11118</guid>
-    <pubDate>Thu, 20 Aug 2026 23:26:51 -0000</pubDate>
-    <description>Displays a breakdown of player stats on hover</description>
   </item>
 </channel>
 </rss>
