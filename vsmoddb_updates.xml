@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 21 Aug 2026 17:31:02 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 18:39:05 +0000</lastBuildDate>
+  <item>
+    <title>Weapon Pack Alpha - Rebalanced</title>
+    <link>https://mods.vintagestory.at/show/mod/3314</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
+    <pubDate>Fri, 21 Aug 2026 18:32:54 -0000</pubDate>
+    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
+  </item>
+  <item>
+    <title>CB Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
+    <pubDate>Fri, 21 Aug 2026 18:29:03 -0000</pubDate>
+    <description>JSON content patches</description>
+  </item>
+  <item>
+    <title>Vintage Healing</title>
+    <link>https://mods.vintagestory.at/show/mod/vsheal</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsheal#11190</guid>
+    <pubDate>Fri, 21 Aug 2026 18:28:45 -0000</pubDate>
+    <description>Adds antiseptic, slow healing poultices and bandages.</description>
+  </item>
+  <item>
+    <title>CB Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Fri, 21 Aug 2026 18:24:54 -0000</pubDate>
+    <description>Skill and class mod for the CB server</description>
+  </item>
+  <item>
+    <title>Dame Elswyth’s Summons</title>
+    <link>https://mods.vintagestory.at/show/mod/10139</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10139#10139</guid>
+    <pubDate>Fri, 21 Aug 2026 18:18:45 -0000</pubDate>
+    <description>Find and summon lost pets.  Fixes PetAI fire avoidance AI task for tamed pets.</description>
+  </item>
+  <item>
+    <title>Bone and Bark</title>
+    <link>https://mods.vintagestory.at/show/mod/bcbonebark</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bcbonebark#5393</guid>
+    <pubDate>Fri, 21 Aug 2026 18:04:15 -0000</pubDate>
+    <description>Adds a lumberjack class, woodcutting QoL recipes, some more uses for bones, and other minor tweaks.</description>
+  </item>
+  <item>
+    <title>Fantasy Creatures Reborn Spawn Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/fcrspawntweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fcrspawntweaks#10707</guid>
+    <pubDate>Fri, 21 Aug 2026 18:00:43 -0000</pubDate>
+    <description>Spawn tweaks for Fantasy Creatures Reborn</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Fri, 21 Aug 2026 17:52:42 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
+  </item>
   <item>
     <title>C&amp;N RPG Classes</title>
     <link>https://mods.vintagestory.at/show/mod/canrpgclasses</link>
@@ -18,13 +74,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lrcallclasses#10929</guid>
     <pubDate>Fri, 21 Aug 2026 17:20:55 -0000</pubDate>
     <description>Allows all Aldi's Classes to be used with all races.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Fri, 21 Aug 2026 17:15:23 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
   </item>
   <item>
     <title>AoS | Armor Female Seraphs Compatability</title>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/soilamendments#5686</guid>
     <pubDate>Fri, 21 Aug 2026 15:19:30 -0000</pubDate>
     <description>Adds recipes for creating soil tiers through enrichment.</description>
-  </item>
-  <item>
-    <title>topgsmod</title>
-    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Fri, 21 Aug 2026 15:17:39 -0000</pubDate>
-    <description>TopGs Community Mod</description>
-  </item>
-  <item>
-    <title>More Blue Clay</title>
-    <link>https://mods.vintagestory.at/show/mod/moreblueclay</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreblueclay#3442</guid>
-    <pubDate>Fri, 21 Aug 2026 15:16:43 -0000</pubDate>
-    <description>Increases the chance for blue clay deposits to form.</description>
-  </item>
-  <item>
-    <title>Additive Chiseling</title>
-    <link>https://mods.vintagestory.at/show/mod/additivechiseling</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/additivechiseling#11186</guid>
-    <pubDate>Fri, 21 Aug 2026 15:06:35 -0000</pubDate>
-    <description>Adds a new way of building with chiseled blocks</description>
-  </item>
-  <item>
-    <title>xSkills Tailoring Aldi's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/xskillstailoringaldisclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xskillstailoringaldisclasses#11179</guid>
-    <pubDate>Fri, 21 Aug 2026 14:52:26 -0000</pubDate>
-    <description>A fork of "X-Skills Tailoring" made to be compatible with "xSkills X Aldi's Classes".</description>
-  </item>
-  <item>
-    <title>Peat for Charcoal</title>
-    <link>https://mods.vintagestory.at/show/mod/peatforcharcoal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/peatforcharcoal#10384</guid>
-    <pubDate>Fri, 21 Aug 2026 14:34:01 -0000</pubDate>
-    <description>Allows using peat bricks as a substitute for firewood + changes to Peat piles.</description>
-  </item>
-  <item>
-    <title>Packrat</title>
-    <link>https://mods.vintagestory.at/show/mod/6138</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6138#6138</guid>
-    <pubDate>Fri, 21 Aug 2026 14:16:22 -0000</pubDate>
-    <description>Unified Storage Browser showing the contents of all chests and crates within reach</description>
-  </item>
-  <item>
-    <title>More Classic Bark (addon for Wolf Taming)</title>
-    <link>https://mods.vintagestory.at/show/mod/mcbark</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mcbark#11187</guid>
-    <pubDate>Fri, 21 Aug 2026 13:55:53 -0000</pubDate>
-    <description>Modifies the Wolf Taming mod's dogs to use a More Classic (MC) selection of bark sounds.</description>
   </item>
 </channel>
 </rss>
