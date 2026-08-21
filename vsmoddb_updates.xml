@@ -4,7 +4,98 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 21 Aug 2026 15:35:41 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 16:36:56 +0000</lastBuildDate>
+  <item>
+    <title>Ghaelen's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9740</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
+    <pubDate>Fri, 21 Aug 2026 16:36:15 -0000</pubDate>
+    <description>My personal tweaks I like to play with.</description>
+  </item>
+  <item>
+    <title>Rusty Shell Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/4609</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4609#4609</guid>
+    <pubDate>Fri, 21 Aug 2026 16:35:30 -0000</pubDate>
+    <description>A mod that aims to add industrial warfare to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Sound Physics Adapted</title>
+    <link>https://mods.vintagestory.at/show/mod/10996</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10996#10996</guid>
+    <pubDate>Fri, 21 Aug 2026 16:30:45 -0000</pubDate>
+    <description>Realistic Raytraced Audio. Walls depending on thickness and material muffle sounds and much more!</description>
+  </item>
+  <item>
+    <title>Pyrophobia: Fire-driven Wildlife Deterrence</title>
+    <link>https://mods.vintagestory.at/show/mod/pyrophobia</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pyrophobia#10431</guid>
+    <pubDate>Fri, 21 Aug 2026 16:23:08 -0000</pubDate>
+    <description>A fire-driven wildlife deterrence system. More to come</description>
+  </item>
+  <item>
+    <title>Stowage: Reliable Slot Capacity Management</title>
+    <link>https://mods.vintagestory.at/show/mod/stowage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stowage#10717</guid>
+    <pubDate>Fri, 21 Aug 2026 16:22:46 -0000</pubDate>
+    <description>A reliable and customizable slot capacity management system. Server enforced</description>
+  </item>
+  <item>
+    <title>Burdened: Immersive Carrying</title>
+    <link>https://mods.vintagestory.at/show/mod/burdened</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/burdened#10391</guid>
+    <pubDate>Fri, 21 Aug 2026 16:22:26 -0000</pubDate>
+    <description>A weightier carrying experience: customizable slots, improved bag interactions, etc. Server enforced</description>
+  </item>
+  <item>
+    <title>Universal Sticks</title>
+    <link>https://mods.vintagestory.at/show/mod/universalsticks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/universalsticks#10436</guid>
+    <pubDate>Fri, 21 Aug 2026 16:19:53 -0000</pubDate>
+    <description>Adds grid recipes to turn firewood into sticks and back</description>
+  </item>
+  <item>
+    <title>Plentiful Tree Felling</title>
+    <link>https://mods.vintagestory.at/show/mod/plentifultreefelling</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plentifultreefelling#10637</guid>
+    <pubDate>Fri, 21 Aug 2026 16:18:28 -0000</pubDate>
+    <description>Felling a tree gives a configurable amount of sticks and tree seeds</description>
+  </item>
+  <item>
+    <title>Glowing Projectiles Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/glowingprojectilesplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glowingprojectilesplus#11189</guid>
+    <pubDate>Fri, 21 Aug 2026 16:10:44 -0000</pubDate>
+    <description>Highlight your (and theirs) arrows and spears.</description>
+  </item>
+  <item>
+    <title>Stats Breakdown</title>
+    <link>https://mods.vintagestory.at/show/mod/11118</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11118#11118</guid>
+    <pubDate>Fri, 21 Aug 2026 15:54:45 -0000</pubDate>
+    <description>Displays a breakdown of player stats on hover</description>
+  </item>
+  <item>
+    <title>C&amp;N Antique Atlas</title>
+    <link>https://mods.vintagestory.at/show/mod/5444</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5444#5444</guid>
+    <pubDate>Fri, 21 Aug 2026 15:45:06 -0000</pubDate>
+    <description>Replacement of default map with item atlas</description>
+  </item>
+  <item>
+    <title>Precision Knapping</title>
+    <link>https://mods.vintagestory.at/show/mod/precisionknapping</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/precisionknapping#6346</guid>
+    <pubDate>Fri, 21 Aug 2026 15:42:23 -0000</pubDate>
+    <description>Simply breaks Knapping Surfaces when clicking Voxels that you need for Recipes. Now Configurable!</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Fri, 21 Aug 2026 15:37:20 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
   <item>
     <title>xSkills Fork</title>
     <link>https://mods.vintagestory.at/show/mod/7605</link>
@@ -123,97 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/steadygreenhouses#6447</guid>
     <pubDate>Fri, 21 Aug 2026 12:53:19 -0000</pubDate>
     <description>This mod sets the temperatures of greenhouses to 20 C all year round.</description>
-  </item>
-  <item>
-    <title>Player Model NPCs </title>
-    <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
-    <pubDate>Fri, 21 Aug 2026 12:36:46 -0000</pubDate>
-    <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
-  </item>
-  <item>
-    <title>Cheap Dirt Path</title>
-    <link>https://mods.vintagestory.at/show/mod/6783</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6783#6783</guid>
-    <pubDate>Fri, 21 Aug 2026 12:11:29 -0000</pubDate>
-    <description>A mod that adds cheaper paths, made with compact dirt.</description>
-  </item>
-  <item>
-    <title>Everything Black Raspberries</title>
-    <link>https://mods.vintagestory.at/show/mod/blackraspberry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blackraspberry#8736</guid>
-    <pubDate>Fri, 21 Aug 2026 12:02:50 -0000</pubDate>
-    <description>Adds black raspberry bushes and their respective products. Expanded Foods compatibility!</description>
-  </item>
-  <item>
-    <title>Leaf Litter</title>
-    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
-    <pubDate>Fri, 21 Aug 2026 12:01:02 -0000</pubDate>
-    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
-  </item>
-  <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Fri, 21 Aug 2026 12:00:32 -0000</pubDate>
-    <description>Trees slowly shed their leaves based on temperature. Vanilla or Eco Machina compatible.</description>
-  </item>
-  <item>
-    <title>PrismForge</title>
-    <link>https://mods.vintagestory.at/show/mod/prismforge</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/prismforge#11185</guid>
-    <pubDate>Fri, 21 Aug 2026 11:34:55 -0000</pubDate>
-    <description>Enhanced Native Shader Mod</description>
-  </item>
-  <item>
-    <title>Threnkla Traits Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/threnkaltraits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/threnkaltraits#11184</guid>
-    <pubDate>Fri, 21 Aug 2026 11:26:34 -0000</pubDate>
-    <description>A simple mod to add Trais to my Threnkal race Mod</description>
-  </item>
-  <item>
-    <title>Bricklayers</title>
-    <link>https://mods.vintagestory.at/show/mod/bricklayers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricklayers#117</guid>
-    <pubDate>Fri, 21 Aug 2026 10:35:23 -0000</pubDate>
-    <description>More clay, bricks, porcelain, glazings, colored glass, luminous glass.</description>
-  </item>
-  <item>
-    <title>CB Factions</title>
-    <link>https://mods.vintagestory.at/show/mod/9586</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9586#9586</guid>
-    <pubDate>Fri, 21 Aug 2026 10:32:57 -0000</pubDate>
-    <description>Settlement and factions mod</description>
-  </item>
-  <item>
-    <title>Open Heavy Rusted Gates by Hand</title>
-    <link>https://mods.vintagestory.at/show/mod/11183</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11183#11183</guid>
-    <pubDate>Fri, 21 Aug 2026 09:47:55 -0000</pubDate>
-    <description>Allows for the hand opening of the heavy rusted gates found in the Resonance Archives.</description>
-  </item>
-  <item>
-    <title>CB Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/10778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
-    <pubDate>Fri, 21 Aug 2026 08:58:14 -0000</pubDate>
-    <description>Skill and class mod for the CB server</description>
-  </item>
-  <item>
-    <title>Kaschperle Class Mix </title>
-    <link>https://mods.vintagestory.at/show/mod/8517</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8517#8517</guid>
-    <pubDate>Fri, 21 Aug 2026 08:16:03 -0000</pubDate>
-    <description>A revision mix from the popular class mod Aldi classes and Agi's Classes</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Fri, 21 Aug 2026 08:13:34 -0000</pubDate>
-    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
   </item>
 </channel>
 </rss>
