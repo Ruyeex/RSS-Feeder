@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 21 Aug 2026 16:36:56 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 17:31:02 +0000</lastBuildDate>
+  <item>
+    <title>C&amp;N RPG Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/canrpgclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canrpgclasses#9965</guid>
+    <pubDate>Fri, 21 Aug 2026 17:22:09 -0000</pubDate>
+    <description>RPG classes for Vintage Story</description>
+  </item>
+  <item>
+    <title>Middle-Earth Races All Aldi's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/lrcallclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lrcallclasses#10929</guid>
+    <pubDate>Fri, 21 Aug 2026 17:20:55 -0000</pubDate>
+    <description>Allows all Aldi's Classes to be used with all races.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Fri, 21 Aug 2026 17:15:23 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
+  </item>
+  <item>
+    <title>AoS | Armor Female Seraphs Compatability</title>
+    <link>https://mods.vintagestory.at/show/mod/8914</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8914#8914</guid>
+    <pubDate>Fri, 21 Aug 2026 17:12:40 -0000</pubDate>
+    <description>Provides armor compatibility between female seraphs and various armor mods.</description>
+  </item>
+  <item>
+    <title>Rudiments</title>
+    <link>https://mods.vintagestory.at/show/mod/9305</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
+    <pubDate>Fri, 21 Aug 2026 16:50:45 -0000</pubDate>
+    <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
+  </item>
   <item>
     <title>Ghaelen's Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/9740</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mcbark#11187</guid>
     <pubDate>Fri, 21 Aug 2026 13:55:53 -0000</pubDate>
     <description>Modifies the Wolf Taming mod's dogs to use a More Classic (MC) selection of bark sounds.</description>
-  </item>
-  <item>
-    <title>Wool 🙵 More</title>
-    <link>https://mods.vintagestory.at/show/mod/wool</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wool#2447</guid>
-    <pubDate>Fri, 21 Aug 2026 13:40:23 -0000</pubDate>
-    <description>Harvest, process, trade and craft with animal fleece and wool.</description>
-  </item>
-  <item>
-    <title>AstraTerra</title>
-    <link>https://mods.vintagestory.at/show/mod/8706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
-    <pubDate>Fri, 21 Aug 2026 13:28:34 -0000</pubDate>
-    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
-  </item>
-  <item>
-    <title>Plaster Stairs &amp; Slabs</title>
-    <link>https://mods.vintagestory.at/show/mod/plasterstairsslabs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plasterstairsslabs#4624</guid>
-    <pubDate>Fri, 21 Aug 2026 13:01:59 -0000</pubDate>
-    <description>A simple mod for adding plaster stairs and slabs.</description>
-  </item>
-  <item>
-    <title>CFY Simple Hotbar Refill</title>
-    <link>https://mods.vintagestory.at/show/mod/simplerefill</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplerefill#4723</guid>
-    <pubDate>Fri, 21 Aug 2026 13:01:22 -0000</pubDate>
-    <description>Automatically refills tools, blocks, and items in the hotbar.</description>
-  </item>
-  <item>
-    <title>SteadyGreenhouses</title>
-    <link>https://mods.vintagestory.at/show/mod/steadygreenhouses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/steadygreenhouses#6447</guid>
-    <pubDate>Fri, 21 Aug 2026 12:53:19 -0000</pubDate>
-    <description>This mod sets the temperatures of greenhouses to 20 C all year round.</description>
   </item>
 </channel>
 </rss>
