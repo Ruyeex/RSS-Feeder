@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 21 Aug 2026 23:26:17 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 01:20:38 +0000</lastBuildDate>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sat, 22 Aug 2026 01:14:02 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Majestic Maple</title>
+    <link>https://mods.vintagestory.at/show/mod/10529</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10529#10529</guid>
+    <pubDate>Sat, 22 Aug 2026 00:50:30 -0000</pubDate>
+    <description>Maple wood retexture</description>
+  </item>
+  <item>
+    <title>Bacon Bacon Bacon</title>
+    <link>https://mods.vintagestory.at/show/mod/baconbaconbacon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/baconbaconbacon#6895</guid>
+    <pubDate>Sat, 22 Aug 2026 00:45:43 -0000</pubDate>
+    <description>The first and (so far) only entirely and ridiculously bacon-centric mod for Vintage Story</description>
+  </item>
+  <item>
+    <title>WorldEngine for VS Toolkit</title>
+    <link>https://mods.vintagestory.at/show/mod/10643</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10643#10643</guid>
+    <pubDate>Sat, 22 Aug 2026 00:08:55 -0000</pubDate>
+    <description>A planet-based world generation pipeline.</description>
+  </item>
+  <item>
+    <title>Windlass</title>
+    <link>https://mods.vintagestory.at/show/mod/11191</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11191#11191</guid>
+    <pubDate>Fri, 21 Aug 2026 23:56:08 -0000</pubDate>
+    <description>Elevator</description>
+  </item>
+  <item>
+    <title>No Underwear Textures</title>
+    <link>https://mods.vintagestory.at/show/mod/nounderweartextures</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nounderweartextures#4191</guid>
+    <pubDate>Fri, 21 Aug 2026 23:49:20 -0000</pubDate>
+    <description>Just removes the textures of three kinds of underwear.</description>
+  </item>
+  <item>
+    <title>Bikini Bear</title>
+    <link>https://mods.vintagestory.at/show/mod/bikinibear</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bikinibear#11173</guid>
+    <pubDate>Fri, 21 Aug 2026 23:41:55 -0000</pubDate>
+    <description>Every bear has a 10% chance to spawn in a pink polka-dot bikini and a straw sun hat. All 5 species.</description>
+  </item>
+  <item>
+    <title>Liber Terra</title>
+    <link>https://mods.vintagestory.at/show/mod/liberterra</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/liberterra#10763</guid>
+    <pubDate>Fri, 21 Aug 2026 23:41:34 -0000</pubDate>
+    <description>Pre-1300 CE public-domain literature as lore books, pile &amp; stack books,oh and books are weapons now.</description>
+  </item>
+  <item>
+    <title>Emotes</title>
+    <link>https://mods.vintagestory.at/show/mod/emotes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/emotes#8235</guid>
+    <pubDate>Fri, 21 Aug 2026 23:33:51 -0000</pubDate>
+    <description>Adds more custom emotes to the game.</description>
+  </item>
   <item>
     <title>Cycle of Life: RealFauna Pack</title>
     <link>https://mods.vintagestory.at/show/mod/colrealfauna</link>
@@ -32,13 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
     <pubDate>Fri, 21 Aug 2026 23:10:17 -0000</pubDate>
     <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
-  </item>
-  <item>
-    <title>Bikini Bear</title>
-    <link>https://mods.vintagestory.at/show/mod/bikinibear</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bikinibear#11173</guid>
-    <pubDate>Fri, 21 Aug 2026 23:05:39 -0000</pubDate>
-    <description>Every bear has a 10% chance to spawn in a pink polka-dot bikini and a straw sun hat. All 5 species.</description>
   </item>
   <item>
     <title>VS Director</title>
@@ -88,13 +144,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/safehaven#11195</guid>
     <pubDate>Fri, 21 Aug 2026 21:49:14 -0000</pubDate>
     <description>AFK, spawn, loading and softcore safety protections for multiplayer servers.</description>
-  </item>
-  <item>
-    <title>Emotes</title>
-    <link>https://mods.vintagestory.at/show/mod/emotes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/emotes#8235</guid>
-    <pubDate>Fri, 21 Aug 2026 21:31:06 -0000</pubDate>
-    <description>Adds more custom emotes to the game.</description>
   </item>
   <item>
     <title>Feral Kinship: Companions</title>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/additivechiseling#11186</guid>
     <pubDate>Fri, 21 Aug 2026 20:35:39 -0000</pubDate>
     <description>Adds a new way of building with chiseled blocks</description>
-  </item>
-  <item>
-    <title>Watertight Doors</title>
-    <link>https://mods.vintagestory.at/show/mod/watertightdoors</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/watertightdoors#11193</guid>
-    <pubDate>Fri, 21 Aug 2026 20:31:08 -0000</pubDate>
-    <description>Makes every door and trapdoor waterproof</description>
-  </item>
-  <item>
-    <title>Firearms fork</title>
-    <link>https://mods.vintagestory.at/show/mod/firearmsfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/firearmsfork#8402</guid>
-    <pubDate>Fri, 21 Aug 2026 20:26:14 -0000</pubDate>
-    <description>1.22 Fork</description>
-  </item>
-  <item>
-    <title>FoxQoL</title>
-    <link>https://mods.vintagestory.at/show/mod/7011</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7011#7011</guid>
-    <pubDate>Fri, 21 Aug 2026 20:22:56 -0000</pubDate>
-    <description>Adds a subtle quality of life feature to the hunger mechanic.</description>
-  </item>
-  <item>
-    <title>Overhaul lib legacy compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/overhaulliblegacycompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/overhaulliblegacycompat#8401</guid>
-    <pubDate>Fri, 21 Aug 2026 20:20:47 -0000</pubDate>
-    <description>Compat for firearms, crossbows, combatoverhaul</description>
-  </item>
-  <item>
-    <title>Frontier's Map</title>
-    <link>https://mods.vintagestory.at/show/mod/9227</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9227#9227</guid>
-    <pubDate>Fri, 21 Aug 2026 20:03:45 -0000</pubDate>
-    <description>Adds a physical map with built-in map maker system, drawing tools and over 130 hand drawn stamps</description>
-  </item>
-  <item>
-    <title>Plaster Wash Recipes – 1.22.x Compatibility Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/plasterfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plasterfork#11192</guid>
-    <pubDate>Fri, 21 Aug 2026 19:49:17 -0000</pubDate>
-    <description>This is an unofficial compatibility fork of Plaster Wash Recipes, originally created by Davee.</description>
-  </item>
-  <item>
-    <title>Windlass</title>
-    <link>https://mods.vintagestory.at/show/mod/11191</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11191#11191</guid>
-    <pubDate>Fri, 21 Aug 2026 19:45:35 -0000</pubDate>
-    <description>Elevator</description>
   </item>
 </channel>
 </rss>
