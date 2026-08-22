@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 22 Aug 2026 05:29:40 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 06:42:57 +0000</lastBuildDate>
+  <item>
+    <title>Arrows and Slings</title>
+    <link>https://mods.vintagestory.at/show/mod/arrowsnslings</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arrowsnslings#9546</guid>
+    <pubDate>Sat, 22 Aug 2026 06:36:01 -0000</pubDate>
+    <description>Buff arrows, adds sling progression, and additional sling projectiles</description>
+  </item>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Sat, 22 Aug 2026 06:06:24 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>Pyrogenesis continued</title>
+    <link>https://mods.vintagestory.at/show/mod/pyrogenesiscontinued</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pyrogenesiscontinued#9934</guid>
+    <pubDate>Sat, 22 Aug 2026 06:02:52 -0000</pubDate>
+    <description>Adaptation</description>
+  </item>
   <item>
     <title>Elkdowned</title>
     <link>https://mods.vintagestory.at/show/mod/elkdowned</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10643#10643</guid>
     <pubDate>Sat, 22 Aug 2026 00:08:55 -0000</pubDate>
     <description>A planet-based world generation pipeline.</description>
-  </item>
-  <item>
-    <title>Windlass</title>
-    <link>https://mods.vintagestory.at/show/mod/11191</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11191#11191</guid>
-    <pubDate>Fri, 21 Aug 2026 23:56:08 -0000</pubDate>
-    <description>Elevator</description>
-  </item>
-  <item>
-    <title>No Underwear Textures</title>
-    <link>https://mods.vintagestory.at/show/mod/nounderweartextures</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nounderweartextures#4191</guid>
-    <pubDate>Fri, 21 Aug 2026 23:49:20 -0000</pubDate>
-    <description>Just removes the textures of three kinds of underwear.</description>
-  </item>
-  <item>
-    <title>Bikini Bear</title>
-    <link>https://mods.vintagestory.at/show/mod/bikinibear</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bikinibear#11173</guid>
-    <pubDate>Fri, 21 Aug 2026 23:41:55 -0000</pubDate>
-    <description>Every bear has a 10% chance to spawn in a pink polka-dot bikini and a straw sun hat. All 5 species.</description>
   </item>
 </channel>
 </rss>
