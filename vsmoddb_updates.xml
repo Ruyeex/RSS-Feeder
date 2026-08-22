@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 22 Aug 2026 16:26:59 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 17:22:37 +0000</lastBuildDate>
+  <item>
+    <title>Ice Cellar</title>
+    <link>https://mods.vintagestory.at/show/mod/10837</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10837#10837</guid>
+    <pubDate>Sat, 22 Aug 2026 17:07:18 -0000</pubDate>
+    <description>Chill your cellar with ice and keep food fresh, longer.</description>
+  </item>
+  <item>
+    <title>Inventory Transfer</title>
+    <link>https://mods.vintagestory.at/show/mod/7383</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7383#7383</guid>
+    <pubDate>Sat, 22 Aug 2026 17:03:21 -0000</pubDate>
+    <description>Take your loot to a new world!</description>
+  </item>
+  <item>
+    <title>Wayfinder</title>
+    <link>https://mods.vintagestory.at/show/mod/7330</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7330#7330</guid>
+    <pubDate>Sat, 22 Aug 2026 17:00:30 -0000</pubDate>
+    <description>Make cave wall markings to help you navigate the caverns below.</description>
+  </item>
+  <item>
+    <title>Bookkeeper</title>
+    <link>https://mods.vintagestory.at/show/mod/7446</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7446#7446</guid>
+    <pubDate>Sat, 22 Aug 2026 16:52:19 -0000</pubDate>
+    <description>Know what you have. Know where it is.</description>
+  </item>
+  <item>
+    <title>Sounds of Nature</title>
+    <link>https://mods.vintagestory.at/show/mod/8818</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8818#8818</guid>
+    <pubDate>Sat, 22 Aug 2026 16:51:59 -0000</pubDate>
+    <description>Brings the world to life with realistic ambient wildlife audio that reacts to where you are.</description>
+  </item>
+  <item>
+    <title>Pattern Mining</title>
+    <link>https://mods.vintagestory.at/show/mod/9185</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9185#9185</guid>
+    <pubDate>Sat, 22 Aug 2026 16:51:36 -0000</pubDate>
+    <description>Mine in 5 distinct patterns using your pickaxe.</description>
+  </item>
+  <item>
+    <title>Dumbwaiter</title>
+    <link>https://mods.vintagestory.at/show/mod/9778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9778#9778</guid>
+    <pubDate>Sat, 22 Aug 2026 16:51:12 -0000</pubDate>
+    <description>A medieval-style lift for moving between vertically-separated floors and storage transport. </description>
+  </item>
+  <item>
+    <title>Better Loot Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/blp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blp#10873</guid>
+    <pubDate>Sat, 22 Aug 2026 16:50:27 -0000</pubDate>
+    <description>Configurable Better loot from hostile entities like Drifters, Shivers, Bowtorns</description>
+  </item>
+  <item>
+    <title>Hollowstone</title>
+    <link>https://mods.vintagestory.at/show/mod/10157</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10157#10157</guid>
+    <pubDate>Sat, 22 Aug 2026 16:50:07 -0000</pubDate>
+    <description>Hide your valuables in plain sight. Set a stone pattern combination for added security.</description>
+  </item>
+  <item>
+    <title>Windlass</title>
+    <link>https://mods.vintagestory.at/show/mod/11191</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11191#11191</guid>
+    <pubDate>Sat, 22 Aug 2026 16:36:34 -0000</pubDate>
+    <description>Elevator</description>
+  </item>
   <item>
     <title>Rudiments</title>
     <link>https://mods.vintagestory.at/show/mod/9305</link>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/joomfiecosmetics#9358</guid>
     <pubDate>Sat, 22 Aug 2026 10:17:42 -0000</pubDate>
     <description>Costume for the community of the vtuber JuniperActias (and a few miscellaneous vanity items)</description>
-  </item>
-  <item>
-    <title>Frontier Map &amp; Better Prospecting Compat</title>
-    <link>https://mods.vintagestory.at/show/mod/11102</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11102#11102</guid>
-    <pubDate>Sat, 22 Aug 2026 09:48:53 -0000</pubDate>
-    <description>Frontier Map &amp; Better Prospecting Compat</description>
-  </item>
-  <item>
-    <title>Roll-Up Beds Wool Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/11210</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11210#11210</guid>
-    <pubDate>Sat, 22 Aug 2026 09:32:48 -0000</pubDate>
-    <description>Adds logical Wool &amp; More cloth alternatives to Roll-Up Beds recipes while keeping the original linen</description>
-  </item>
-  <item>
-    <title>Clean Tea in Metal Pots</title>
-    <link>https://mods.vintagestory.at/show/mod/cleanteametalpots</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cleanteametalpots#11212</guid>
-    <pubDate>Sat, 22 Aug 2026 09:27:04 -0000</pubDate>
-    <description>Prevents Steep and Brew teas and decoctions from leaving Metal Cookware pots covered in heavy residu</description>
-  </item>
-  <item>
-    <title>Item Frames</title>
-    <link>https://mods.vintagestory.at/show/mod/itemframes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/itemframes#10977</guid>
-    <pubDate>Sat, 22 Aug 2026 09:17:40 -0000</pubDate>
-    <description>Adds frames that can be placed on chests or walls, and used to display an item</description>
-  </item>
-  <item>
-    <title>Tardis</title>
-    <link>https://mods.vintagestory.at/show/mod/tardis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tardis#11072</guid>
-    <pubDate>Sat, 22 Aug 2026 09:03:32 -0000</pubDate>
-    <description>A working TARDIS with a bigger-on-the-inside interior, flight, rooms, keys and a sonic.</description>
-  </item>
-  <item>
-    <title>AOG No Withered Vegetables</title>
-    <link>https://mods.vintagestory.at/show/mod/11208</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11208#11208</guid>
-    <pubDate>Sat, 22 Aug 2026 08:58:58 -0000</pubDate>
-    <description>AOG No Withered Vegetables</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Sat, 22 Aug 2026 08:53:22 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Sat, 22 Aug 2026 08:15:26 -0000</pubDate>
-    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
-  </item>
-  <item>
-    <title>Aldi's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/aldiclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aldiclasses#5327</guid>
-    <pubDate>Sat, 22 Aug 2026 08:11:55 -0000</pubDate>
-    <description>An extremely stable, compatible and customizable classes mod!</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Taming</title>
-    <link>https://mods.vintagestory.at/show/mod/fotsataming</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsataming#11206</guid>
-    <pubDate>Sat, 22 Aug 2026 07:57:07 -0000</pubDate>
-    <description>Adds taming ability through PetAI to allow a bunch of the FOTSA animals to be tamed.</description>
   </item>
 </channel>
 </rss>
