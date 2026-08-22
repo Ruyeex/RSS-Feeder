@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 22 Aug 2026 09:28:51 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 10:25:53 +0000</lastBuildDate>
+  <item>
+    <title>Joomfie Clothes</title>
+    <link>https://mods.vintagestory.at/show/mod/joomfiecosmetics</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/joomfiecosmetics#9358</guid>
+    <pubDate>Sat, 22 Aug 2026 10:17:42 -0000</pubDate>
+    <description>Costume for the community of the vtuber JuniperActias (and a few miscellaneous vanity items)</description>
+  </item>
+  <item>
+    <title>CO Idle Reanimation 1.22 Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/idlereanimfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/idlereanimfork#11211</guid>
+    <pubDate>Sat, 22 Aug 2026 10:05:32 -0000</pubDate>
+    <description>This mod adds/adjusts attack, parry or/and idle animations for several weapons from CO &amp; CO Armory</description>
+  </item>
+  <item>
+    <title>Frontier Map &amp; Better Prospecting Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/11102</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11102#11102</guid>
+    <pubDate>Sat, 22 Aug 2026 09:48:53 -0000</pubDate>
+    <description>Frontier Map &amp; Better Prospecting Compat</description>
+  </item>
+  <item>
+    <title>Roll-Up Beds Wool Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/11210</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11210#11210</guid>
+    <pubDate>Sat, 22 Aug 2026 09:32:48 -0000</pubDate>
+    <description>Adds logical Wool &amp; More cloth alternatives to Roll-Up Beds recipes while keeping the original linen</description>
+  </item>
+  <item>
+    <title>Clean Tea in Metal Pots</title>
+    <link>https://mods.vintagestory.at/show/mod/cleanteametalpots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cleanteametalpots#11212</guid>
+    <pubDate>Sat, 22 Aug 2026 09:27:04 -0000</pubDate>
+    <description>Prevents Steep and Brew teas and decoctions from leaving Metal Cookware pots covered in heavy residu</description>
+  </item>
   <item>
     <title>Item Frames</title>
     <link>https://mods.vintagestory.at/show/mod/itemframes</link>
@@ -18,6 +53,13 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tardis#11072</guid>
     <pubDate>Sat, 22 Aug 2026 09:03:32 -0000</pubDate>
     <description>A working TARDIS with a bigger-on-the-inside interior, flight, rooms, keys and a sonic.</description>
+  </item>
+  <item>
+    <title>AOG No Withered Vegetables</title>
+    <link>https://mods.vintagestory.at/show/mod/11208</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11208#11208</guid>
+    <pubDate>Sat, 22 Aug 2026 08:58:58 -0000</pubDate>
+    <description>AOG No Withered Vegetables</description>
   </item>
   <item>
     <title>Feral Kinship: Companions</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scoopofjammod#6164</guid>
     <pubDate>Sat, 22 Aug 2026 02:36:33 -0000</pubDate>
     <description>Scoop jam with a spoon to make jam sandwiches and jam pies!</description>
-  </item>
-  <item>
-    <title>Fix English Font (Windows only)</title>
-    <link>https://mods.vintagestory.at/show/mod/fixenfont</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fixenfont#3329</guid>
-    <pubDate>Sat, 22 Aug 2026 02:36:15 -0000</pubDate>
-    <description>Playing VS in English but the text looks awkward? This mod fixes that! (No server install needed)</description>
-  </item>
-  <item>
-    <title>Trader Phone (Beta)</title>
-    <link>https://mods.vintagestory.at/show/mod/remotetradercheckmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/remotetradercheckmod#3223</guid>
-    <pubDate>Sat, 22 Aug 2026 02:36:05 -0000</pubDate>
-    <description>Let's make a call to traders and check their stocks!</description>
-  </item>
-  <item>
-    <title>Simple Blobcat</title>
-    <link>https://mods.vintagestory.at/show/mod/blobcatmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blobcatmod#3174</guid>
-    <pubDate>Sat, 22 Aug 2026 02:35:48 -0000</pubDate>
-    <description>Adds a simple companion blobcat</description>
-  </item>
-  <item>
-    <title>No Screenshot Message</title>
-    <link>https://mods.vintagestory.at/show/mod/noscreenshotmessagemod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noscreenshotmessagemod#2953</guid>
-    <pubDate>Sat, 22 Aug 2026 02:35:22 -0000</pubDate>
-    <description>Disables "Screenshot ***.png taken." chat message (No server install needed)</description>
-  </item>
-  <item>
-    <title>Alarm Timer</title>
-    <link>https://mods.vintagestory.at/show/mod/alarmtimermod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alarmtimermod#2951</guid>
-    <pubDate>Sat, 22 Aug 2026 02:34:49 -0000</pubDate>
-    <description>Adds a simple alarm timer command `.tm` (No server install needed)</description>
-  </item>
-  <item>
-    <title>Egg Pie (Quiche)</title>
-    <link>https://mods.vintagestory.at/show/mod/eggpiemod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eggpiemod#2882</guid>
-    <pubDate>Sat, 22 Aug 2026 02:34:36 -0000</pubDate>
-    <description>Allows eggs in pies</description>
   </item>
 </channel>
 </rss>
