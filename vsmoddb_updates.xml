@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 22 Aug 2026 22:24:01 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 23:22:57 +0000</lastBuildDate>
+  <item>
+    <title>More Rock Drops</title>
+    <link>https://mods.vintagestory.at/show/mod/11223</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11223#11223</guid>
+    <pubDate>Sat, 22 Aug 2026 23:07:06 -0000</pubDate>
+    <description>Stone blocks now drop more rocks.</description>
+  </item>
+  <item>
+    <title>Eternal Stew x XSkills-Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/11168</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11168#11168</guid>
+    <pubDate>Sat, 22 Aug 2026 23:04:41 -0000</pubDate>
+    <description>Eternal Stew actions give Cooking EXP and use Cooking Skill Buffs!</description>
+  </item>
+  <item>
+    <title>Eternal Stew x Hydrate or Dydrate Compatibility </title>
+    <link>https://mods.vintagestory.at/show/mod/11146</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11146#11146</guid>
+    <pubDate>Sat, 22 Aug 2026 23:04:02 -0000</pubDate>
+    <description>Ingredient-based hydration compatibility between Eternal Stew and Hydrate Or Diedrate.</description>
+  </item>
+  <item>
+    <title>Enter Notification Sound</title>
+    <link>https://mods.vintagestory.at/show/mod/8824</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8824#8824</guid>
+    <pubDate>Sat, 22 Aug 2026 22:53:10 -0000</pubDate>
+    <description>Just a notification sound when you join the world.</description>
+  </item>
+  <item>
+    <title>Vintage Rift - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
+    <pubDate>Sat, 22 Aug 2026 22:29:06 -0000</pubDate>
+    <description>Client only code for the Vintage Rift server</description>
+  </item>
+  <item>
+    <title>Grinding Wheel Rework</title>
+    <link>https://mods.vintagestory.at/show/mod/grindingwheelrework</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindingwheelrework#8252</guid>
+    <pubDate>Sat, 22 Aug 2026 22:27:13 -0000</pubDate>
+    <description>Expands grinding wheel to support more tools and turns sharpening into a lightweight repair system</description>
+  </item>
+  <item>
+    <title>TimeLord: Regeneration</title>
+    <link>https://mods.vintagestory.at/show/mod/11222</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11222#11222</guid>
+    <pubDate>Sat, 22 Aug 2026 22:25:23 -0000</pubDate>
+    <description>Doctor Who-inspired regeneration system with 12 lives, new appearances, and persistent progress.</description>
+  </item>
   <item>
     <title>Open Claims</title>
     <link>https://mods.vintagestory.at/show/mod/openclaims</link>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fahlores#500</guid>
     <pubDate>Sat, 22 Aug 2026 19:24:47 -0000</pubDate>
     <description>New ore</description>
-  </item>
-  <item>
-    <title>Terra Loom</title>
-    <link>https://mods.vintagestory.at/show/mod/10546</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10546#10546</guid>
-    <pubDate>Sat, 22 Aug 2026 19:02:32 -0000</pubDate>
-    <description>Replaces vanilla terrain/climate generation with a self-contained, embedded AI diffusion model.</description>
-  </item>
-  <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Sat, 22 Aug 2026 18:53:08 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
-    <title>Hibiskus Kilts</title>
-    <link>https://mods.vintagestory.at/show/mod/hibiskuskilts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hibiskuskilts#11094</guid>
-    <pubDate>Sat, 22 Aug 2026 18:50:37 -0000</pubDate>
-    <description>Adds different kilts based on real tartan patterns to the game.</description>
-  </item>
-  <item>
-    <title>Configurable Chat History</title>
-    <link>https://mods.vintagestory.at/show/mod/11216</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11216#11216</guid>
-    <pubDate>Sat, 22 Aug 2026 18:44:52 -0000</pubDate>
-    <description>Lets you override the hard 30 message limit for chat history</description>
-  </item>
-  <item>
-    <title>Backpack for books and scrolls</title>
-    <link>https://mods.vintagestory.at/show/mod/6964</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6964#6964</guid>
-    <pubDate>Sat, 22 Aug 2026 18:34:08 -0000</pubDate>
-    <description>Backpack for books and scrolls. And another for butterflies</description>
-  </item>
-  <item>
-    <title>Safe Haven</title>
-    <link>https://mods.vintagestory.at/show/mod/safehaven</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/safehaven#11195</guid>
-    <pubDate>Sat, 22 Aug 2026 18:25:38 -0000</pubDate>
-    <description>AFK, spawn, loading and softcore safety protections for multiplayer servers.</description>
-  </item>
-  <item>
-    <title>Extreme Weathers [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/10098</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
-    <pubDate>Sat, 22 Aug 2026 18:09:01 -0000</pubDate>
-    <description>Introduces new extreme weather events. Blizzards, sandstorms, tornadoes, hurricanes and more!</description>
   </item>
 </channel>
 </rss>
