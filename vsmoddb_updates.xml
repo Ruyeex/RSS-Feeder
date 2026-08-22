@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 22 Aug 2026 20:24:57 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 21:24:01 +0000</lastBuildDate>
+  <item>
+    <title>Caeloria: Content</title>
+    <link>https://mods.vintagestory.at/show/mod/caeloriacontent</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caeloriacontent#9063</guid>
+    <pubDate>Sat, 22 Aug 2026 21:23:29 -0000</pubDate>
+    <description>Content pack for Caeloria: Reborn. Doesn't include any code mods, those are different mods.</description>
+  </item>
+  <item>
+    <title>Pencil</title>
+    <link>https://mods.vintagestory.at/show/mod/5427</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5427#5427</guid>
+    <pubDate>Sat, 22 Aug 2026 21:14:14 -0000</pubDate>
+    <description>Adds a pencil that can be used to write on signs and in books</description>
+  </item>
+  <item>
+    <title>Wooden Wrench</title>
+    <link>https://mods.vintagestory.at/show/mod/10314</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10314#10314</guid>
+    <pubDate>Sat, 22 Aug 2026 21:13:53 -0000</pubDate>
+    <description>Adds a wooden wrench</description>
+  </item>
+  <item>
+    <title>Metal Ladders</title>
+    <link>https://mods.vintagestory.at/show/mod/10212</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10212#10212</guid>
+    <pubDate>Sat, 22 Aug 2026 21:13:21 -0000</pubDate>
+    <description>Adds metal ladders</description>
+  </item>
+  <item>
+    <title>Skis and Snowboards</title>
+    <link>https://mods.vintagestory.at/show/mod/skisandsnowboards</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skisandsnowboards#11170</guid>
+    <pubDate>Sat, 22 Aug 2026 21:10:41 -0000</pubDate>
+    <description>Craft skis and snowboards and carve across snow and ice. </description>
+  </item>
+  <item>
+    <title>The Quire Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/tqp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tqp#10455</guid>
+    <pubDate>Sat, 22 Aug 2026 21:00:26 -0000</pubDate>
+    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Sat, 22 Aug 2026 20:51:22 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Even Jug Increments (Fork)</title>
+    <link>https://mods.vintagestory.at/show/mod/5543</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5543#5543</guid>
+    <pubDate>Sat, 22 Aug 2026 20:44:48 -0000</pubDate>
+    <description>Updated fork of Even Jug Increments</description>
+  </item>
+  <item>
+    <title>Elk Adornments</title>
+    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
+    <pubDate>Sat, 22 Aug 2026 20:44:19 -0000</pubDate>
+    <description>Masks for you and your elk with Modular Elk Armor!</description>
+  </item>
+  <item>
+    <title>Arrows and Slings</title>
+    <link>https://mods.vintagestory.at/show/mod/arrowsnslings</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arrowsnslings#9546</guid>
+    <pubDate>Sat, 22 Aug 2026 20:38:33 -0000</pubDate>
+    <description>Buff arrows, adds sling progression, and additional sling projectiles</description>
+  </item>
+  <item>
+    <title>Seraphs Ledger</title>
+    <link>https://mods.vintagestory.at/show/mod/9783</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9783#9783</guid>
+    <pubDate>Sat, 22 Aug 2026 20:27:01 -0000</pubDate>
+    <description>Swap one building material for another across an entire selection.</description>
+  </item>
   <item>
     <title>Fauna of the Stone Age: Taming</title>
     <link>https://mods.vintagestory.at/show/mod/fotsataming</link>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
     <pubDate>Sat, 22 Aug 2026 17:57:54 -0000</pubDate>
     <description>A sleek Vintage Story launcher for instances, mods, accounts and playtime tracking.</description>
-  </item>
-  <item>
-    <title>Kobold Player Model Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/koboldrdx</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/koboldrdx#4814</guid>
-    <pubDate>Sat, 22 Aug 2026 17:30:28 -0000</pubDate>
-    <description>A complete 1.21+ remake of Soi's Kobold player model, for PlayerModelLib by Maltiez!</description>
-  </item>
-  <item>
-    <title>Ice Cellar</title>
-    <link>https://mods.vintagestory.at/show/mod/10837</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10837#10837</guid>
-    <pubDate>Sat, 22 Aug 2026 17:07:18 -0000</pubDate>
-    <description>Chill your cellar with ice and keep food fresh, longer.</description>
-  </item>
-  <item>
-    <title>Inventory Transfer</title>
-    <link>https://mods.vintagestory.at/show/mod/7383</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7383#7383</guid>
-    <pubDate>Sat, 22 Aug 2026 17:03:21 -0000</pubDate>
-    <description>Take your loot to a new world!</description>
-  </item>
-  <item>
-    <title>Wayfinder</title>
-    <link>https://mods.vintagestory.at/show/mod/7330</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7330#7330</guid>
-    <pubDate>Sat, 22 Aug 2026 17:00:30 -0000</pubDate>
-    <description>Make cave wall markings to help you navigate the caverns below.</description>
-  </item>
-  <item>
-    <title>Bookkeeper</title>
-    <link>https://mods.vintagestory.at/show/mod/7446</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7446#7446</guid>
-    <pubDate>Sat, 22 Aug 2026 16:52:19 -0000</pubDate>
-    <description>Know what you have. Know where it is.</description>
-  </item>
-  <item>
-    <title>Sounds of Nature</title>
-    <link>https://mods.vintagestory.at/show/mod/8818</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8818#8818</guid>
-    <pubDate>Sat, 22 Aug 2026 16:51:59 -0000</pubDate>
-    <description>Brings the world to life with realistic ambient wildlife audio that reacts to where you are.</description>
-  </item>
-  <item>
-    <title>Pattern Mining</title>
-    <link>https://mods.vintagestory.at/show/mod/9185</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9185#9185</guid>
-    <pubDate>Sat, 22 Aug 2026 16:51:36 -0000</pubDate>
-    <description>Mine in 5 distinct patterns using your pickaxe.</description>
-  </item>
-  <item>
-    <title>Dumbwaiter</title>
-    <link>https://mods.vintagestory.at/show/mod/9778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9778#9778</guid>
-    <pubDate>Sat, 22 Aug 2026 16:51:12 -0000</pubDate>
-    <description>A medieval-style lift for moving between vertically-separated floors and storage transport. </description>
-  </item>
-  <item>
-    <title>Better Loot Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/blp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blp#10873</guid>
-    <pubDate>Sat, 22 Aug 2026 16:50:27 -0000</pubDate>
-    <description>Configurable Better loot from hostile entities like Drifters, Shivers, Bowtorns</description>
-  </item>
-  <item>
-    <title>Hollowstone</title>
-    <link>https://mods.vintagestory.at/show/mod/10157</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10157#10157</guid>
-    <pubDate>Sat, 22 Aug 2026 16:50:07 -0000</pubDate>
-    <description>Hide your valuables in plain sight. Set a stone pattern combination for added security.</description>
-  </item>
-  <item>
-    <title>Windlass</title>
-    <link>https://mods.vintagestory.at/show/mod/11191</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11191#11191</guid>
-    <pubDate>Sat, 22 Aug 2026 16:36:34 -0000</pubDate>
-    <description>Elevator</description>
   </item>
 </channel>
 </rss>
