@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 22 Aug 2026 08:32:52 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 09:28:51 +0000</lastBuildDate>
+  <item>
+    <title>Item Frames</title>
+    <link>https://mods.vintagestory.at/show/mod/itemframes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/itemframes#10977</guid>
+    <pubDate>Sat, 22 Aug 2026 09:17:40 -0000</pubDate>
+    <description>Adds frames that can be placed on chests or walls, and used to display an item</description>
+  </item>
+  <item>
+    <title>Tardis</title>
+    <link>https://mods.vintagestory.at/show/mod/tardis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tardis#11072</guid>
+    <pubDate>Sat, 22 Aug 2026 09:03:32 -0000</pubDate>
+    <description>A working TARDIS with a bigger-on-the-inside interior, flight, rooms, keys and a sonic.</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Sat, 22 Aug 2026 08:53:22 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
   <item>
     <title>Age of Seraphs Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
@@ -32,13 +53,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grapplinghook#11050</guid>
     <pubDate>Sat, 22 Aug 2026 07:16:25 -0000</pubDate>
     <description>Swing, climb and interact with entities while traversing the world.</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Sat, 22 Aug 2026 06:51:42 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
   </item>
   <item>
     <title>16x16 Downscale Texture Pack</title>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eggpiemod#2882</guid>
     <pubDate>Sat, 22 Aug 2026 02:34:36 -0000</pubDate>
     <description>Allows eggs in pies</description>
-  </item>
-  <item>
-    <title>Self-Recording Thermometer</title>
-    <link>https://mods.vintagestory.at/show/mod/airthermomod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/airthermomod#2859</guid>
-    <pubDate>Sat, 22 Aug 2026 02:34:24 -0000</pubDate>
-    <description>Adds a self-recording thermometer</description>
-  </item>
-  <item>
-    <title>Beam Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/beamtweaksmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/beamtweaksmod#7561</guid>
-    <pubDate>Sat, 22 Aug 2026 02:32:18 -0000</pubDate>
-    <description>Allows beam ends to overlap reliably (+ some fixes)</description>
   </item>
 </channel>
 </rss>
