@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 22 Aug 2026 14:23:36 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 15:23:29 +0000</lastBuildDate>
+  <item>
+    <title>Riftworks</title>
+    <link>https://mods.vintagestory.at/show/mod/riftworks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftworks#3614</guid>
+    <pubDate>Sat, 22 Aug 2026 14:55:26 -0000</pubDate>
+    <description>Interesting and useful lategame items and machines</description>
+  </item>
+  <item>
+    <title>Rudiments</title>
+    <link>https://mods.vintagestory.at/show/mod/9305</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
+    <pubDate>Sat, 22 Aug 2026 14:54:45 -0000</pubDate>
+    <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
+  </item>
+  <item>
+    <title>VL Economy</title>
+    <link>https://mods.vintagestory.at/show/mod/vleconomy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vleconomy#11017</guid>
+    <pubDate>Sat, 22 Aug 2026 14:41:41 -0000</pubDate>
+    <description>Economic mod for the Vintage Lands server / Экономический мод для сервера Vintage Lands</description>
+  </item>
+  <item>
+    <title>RiftLauncher - Independent launcher</title>
+    <link>https://mods.vintagestory.at/show/mod/riftlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftlauncher#11016</guid>
+    <pubDate>Sat, 22 Aug 2026 14:37:07 -0000</pubDate>
+    <description>Focused on multiple versions and installations, safe backups and, mod browsing built in.</description>
+  </item>
   <item>
     <title>Level UP</title>
     <link>https://mods.vintagestory.at/show/mod/levelup</link>
@@ -53,13 +81,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swixyclaimchunk#9913</guid>
     <pubDate>Sat, 22 Aug 2026 12:18:37 -0000</pubDate>
     <description>Claiming made easy. Press [P], click a chunk, and it's yours!</description>
-  </item>
-  <item>
-    <title>Rudiments</title>
-    <link>https://mods.vintagestory.at/show/mod/9305</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
-    <pubDate>Sat, 22 Aug 2026 12:12:36 -0000</pubDate>
-    <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
   </item>
   <item>
     <title>C4B Traducciones-ES ► JUEGO</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/textures16x16#11202</guid>
     <pubDate>Sat, 22 Aug 2026 06:43:54 -0000</pubDate>
     <description>Also offers 21 texture packs with different downscaling methods in 8x8, 16x16, and 24x24.</description>
-  </item>
-  <item>
-    <title>Arrows and Slings</title>
-    <link>https://mods.vintagestory.at/show/mod/arrowsnslings</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arrowsnslings#9546</guid>
-    <pubDate>Sat, 22 Aug 2026 06:36:01 -0000</pubDate>
-    <description>Buff arrows, adds sling progression, and additional sling projectiles</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Sat, 22 Aug 2026 06:06:24 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
-    <title>Pyrogenesis continued</title>
-    <link>https://mods.vintagestory.at/show/mod/pyrogenesiscontinued</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pyrogenesiscontinued#9934</guid>
-    <pubDate>Sat, 22 Aug 2026 06:02:52 -0000</pubDate>
-    <description>Adaptation</description>
   </item>
 </channel>
 </rss>
