@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 22 Aug 2026 03:44:40 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 04:35:01 +0000</lastBuildDate>
+  <item>
+    <title>TassFactions</title>
+    <link>https://mods.vintagestory.at/show/mod/10503</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
+    <pubDate>Sat, 22 Aug 2026 04:17:26 -0000</pubDate>
+    <description>Factions - Raids - Sieges - Shops - Bounty</description>
+  </item>
+  <item>
+    <title>VS Instruments Redux - Expansion A</title>
+    <link>https://mods.vintagestory.at/show/mod/10825</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10825#10825</guid>
+    <pubDate>Sat, 22 Aug 2026 03:56:47 -0000</pubDate>
+    <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
+  </item>
+  <item>
+    <title>VS Instruments Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/10555</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
+    <pubDate>Sat, 22 Aug 2026 03:54:59 -0000</pubDate>
+    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
+  </item>
   <item>
     <title>Clockmaker Ascendant</title>
     <link>https://mods.vintagestory.at/show/mod/9440</link>
@@ -25,13 +46,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshunting#10438</guid>
     <pubDate>Sat, 22 Aug 2026 03:26:26 -0000</pubDate>
     <description>Arrows Stick - Blood - Smarter Animal AI - Aiming Tweaks - Health Based Animal Speed</description>
-  </item>
-  <item>
-    <title>TassFactions</title>
-    <link>https://mods.vintagestory.at/show/mod/10503</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
-    <pubDate>Sat, 22 Aug 2026 03:15:41 -0000</pubDate>
-    <description>Factions - Raids - Sieges - Shops - Bounty</description>
   </item>
   <item>
     <title>Ghaelen's Tweaks</title>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/liberterra#10763</guid>
     <pubDate>Fri, 21 Aug 2026 23:41:34 -0000</pubDate>
     <description>Pre-1300 CE public-domain literature as lore books, pile &amp; stack books,oh and books are weapons now.</description>
-  </item>
-  <item>
-    <title>Emotes</title>
-    <link>https://mods.vintagestory.at/show/mod/emotes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/emotes#8235</guid>
-    <pubDate>Fri, 21 Aug 2026 23:33:51 -0000</pubDate>
-    <description>Adds more custom emotes to the game.</description>
-  </item>
-  <item>
-    <title>Cycle of Life: RealFauna Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/colrealfauna</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/colrealfauna#11140</guid>
-    <pubDate>Fri, 21 Aug 2026 23:24:10 -0000</pubDate>
-    <description>A realistic overlay pack for Cycle of Life.</description>
   </item>
 </channel>
 </rss>
