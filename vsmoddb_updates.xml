@@ -4,13 +4,104 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 22 Aug 2026 01:20:38 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 02:55:52 +0000</lastBuildDate>
+  <item>
+    <title>Command Block Client Extension</title>
+    <link>https://mods.vintagestory.at/show/mod/commandblockclientextmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/commandblockclientextmod#6764</guid>
+    <pubDate>Sat, 22 Aug 2026 02:36:58 -0000</pubDate>
+    <description>Enables client commands in the Command Blocks (+ some utilities!)</description>
+  </item>
+  <item>
+    <title>Antler Util</title>
+    <link>https://mods.vintagestory.at/show/mod/antlerutilmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antlerutilmod#6250</guid>
+    <pubDate>Sat, 22 Aug 2026 02:36:45 -0000</pubDate>
+    <description>Helps you collecting antlers (also would work as a workaround for the "phantom" shed antlers issue)</description>
+  </item>
+  <item>
+    <title>Scoop of Jam</title>
+    <link>https://mods.vintagestory.at/show/mod/scoopofjammod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scoopofjammod#6164</guid>
+    <pubDate>Sat, 22 Aug 2026 02:36:33 -0000</pubDate>
+    <description>Scoop jam with a spoon to make jam sandwiches and jam pies!</description>
+  </item>
+  <item>
+    <title>Fix English Font (Windows only)</title>
+    <link>https://mods.vintagestory.at/show/mod/fixenfont</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fixenfont#3329</guid>
+    <pubDate>Sat, 22 Aug 2026 02:36:15 -0000</pubDate>
+    <description>Playing VS in English but the text looks awkward? This mod fixes that! (No server install needed)</description>
+  </item>
+  <item>
+    <title>Trader Phone (Beta)</title>
+    <link>https://mods.vintagestory.at/show/mod/remotetradercheckmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/remotetradercheckmod#3223</guid>
+    <pubDate>Sat, 22 Aug 2026 02:36:05 -0000</pubDate>
+    <description>Let's make a call to traders and check their stocks!</description>
+  </item>
+  <item>
+    <title>Simple Blobcat</title>
+    <link>https://mods.vintagestory.at/show/mod/blobcatmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blobcatmod#3174</guid>
+    <pubDate>Sat, 22 Aug 2026 02:35:48 -0000</pubDate>
+    <description>Adds a simple companion blobcat</description>
+  </item>
+  <item>
+    <title>No Screenshot Message</title>
+    <link>https://mods.vintagestory.at/show/mod/noscreenshotmessagemod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noscreenshotmessagemod#2953</guid>
+    <pubDate>Sat, 22 Aug 2026 02:35:22 -0000</pubDate>
+    <description>Disables "Screenshot ***.png taken." chat message (No server install needed)</description>
+  </item>
+  <item>
+    <title>Alarm Timer</title>
+    <link>https://mods.vintagestory.at/show/mod/alarmtimermod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alarmtimermod#2951</guid>
+    <pubDate>Sat, 22 Aug 2026 02:34:49 -0000</pubDate>
+    <description>Adds a simple alarm timer command `.tm` (No server install needed)</description>
+  </item>
+  <item>
+    <title>Egg Pie (Quiche)</title>
+    <link>https://mods.vintagestory.at/show/mod/eggpiemod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eggpiemod#2882</guid>
+    <pubDate>Sat, 22 Aug 2026 02:34:36 -0000</pubDate>
+    <description>Allows eggs in pies</description>
+  </item>
+  <item>
+    <title>Self-Recording Thermometer</title>
+    <link>https://mods.vintagestory.at/show/mod/airthermomod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/airthermomod#2859</guid>
+    <pubDate>Sat, 22 Aug 2026 02:34:24 -0000</pubDate>
+    <description>Adds a self-recording thermometer</description>
+  </item>
+  <item>
+    <title>Beam Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/beamtweaksmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/beamtweaksmod#7561</guid>
+    <pubDate>Sat, 22 Aug 2026 02:32:18 -0000</pubDate>
+    <description>Allows beam ends to overlap reliably (+ some fixes)</description>
+  </item>
+  <item>
+    <title>Scribe: Notes &amp; Tasks</title>
+    <link>https://mods.vintagestory.at/show/mod/scribe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scribe#10607</guid>
+    <pubDate>Sat, 22 Aug 2026 02:08:57 -0000</pubDate>
+    <description>Take notes and track tasks in-world. Pin tasks to a persistent HUD. Multiplayer-ready.</description>
+  </item>
   <item>
     <title>Solaria's Solace Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/10706</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sat, 22 Aug 2026 01:14:02 -0000</pubDate>
+    <pubDate>Sat, 22 Aug 2026 02:03:52 -0000</pubDate>
     <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Age of Seraphs Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
+    <pubDate>Sat, 22 Aug 2026 01:33:51 -0000</pubDate>
+    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
   </item>
   <item>
     <title>Majestic Maple</title>
@@ -123,97 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10779#10779</guid>
     <pubDate>Fri, 21 Aug 2026 22:13:31 -0000</pubDate>
     <description>Rot food and age alcohol.</description>
-  </item>
-  <item>
-    <title>Bone and Bark</title>
-    <link>https://mods.vintagestory.at/show/mod/bcbonebark</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bcbonebark#5393</guid>
-    <pubDate>Fri, 21 Aug 2026 22:01:42 -0000</pubDate>
-    <description>Adds a lumberjack class, woodcutting QoL recipes, some more uses for bones, and other minor tweaks.</description>
-  </item>
-  <item>
-    <title>Ghaelen's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9740</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
-    <pubDate>Fri, 21 Aug 2026 21:58:10 -0000</pubDate>
-    <description>My personal tweaks I like to play with.</description>
-  </item>
-  <item>
-    <title>Safe Haven</title>
-    <link>https://mods.vintagestory.at/show/mod/safehaven</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/safehaven#11195</guid>
-    <pubDate>Fri, 21 Aug 2026 21:49:14 -0000</pubDate>
-    <description>AFK, spawn, loading and softcore safety protections for multiplayer servers.</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Fri, 21 Aug 2026 21:13:42 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
-    <title>River Flow Control (Server)</title>
-    <link>https://mods.vintagestory.at/show/mod/riverflowserver</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riverflowserver#11194</guid>
-    <pubDate>Fri, 21 Aug 2026 21:04:36 -0000</pubDate>
-    <description>Makes the Rivers mod's disableFlow actually apply on the server, not just on clients.</description>
-  </item>
-  <item>
-    <title>Animalica Core</title>
-    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
-    <pubDate>Fri, 21 Aug 2026 20:53:11 -0000</pubDate>
-    <description>Core mod for playable animals. Does nothing on it's own</description>
-  </item>
-  <item>
-    <title>Molds Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/moldsexpanded</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moldsexpanded#8253</guid>
-    <pubDate>Fri, 21 Aug 2026 20:50:03 -0000</pubDate>
-    <description>Adds new clay casting molds for items that are a pain to craft on the anvil.</description>
-  </item>
-  <item>
-    <title>Stacked Temporal Gears</title>
-    <link>https://mods.vintagestory.at/show/mod/stackedtemporalgear</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stackedtemporalgear#8254</guid>
-    <pubDate>Fri, 21 Aug 2026 20:49:37 -0000</pubDate>
-    <description>Allows temporal gears to stack up to 64 instead of 1.</description>
-  </item>
-  <item>
-    <title>Sorting Containers</title>
-    <link>https://mods.vintagestory.at/show/mod/sortingcontainers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sortingcontainers#8270</guid>
-    <pubDate>Fri, 21 Aug 2026 20:49:22 -0000</pubDate>
-    <description>Adds a button to sort the contents of any container by type and name.</description>
-  </item>
-  <item>
-    <title>Stacked Metals</title>
-    <link>https://mods.vintagestory.at/show/mod/stackedmetals</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stackedmetals#8626</guid>
-    <pubDate>Fri, 21 Aug 2026 20:49:02 -0000</pubDate>
-    <description>Increases the maximum stack size of all metal ingots and metal plates.</description>
-  </item>
-  <item>
-    <title>Tardis</title>
-    <link>https://mods.vintagestory.at/show/mod/tardis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tardis#11072</guid>
-    <pubDate>Fri, 21 Aug 2026 20:39:07 -0000</pubDate>
-    <description>A working TARDIS with a bigger-on-the-inside interior, flight, rooms, keys and a sonic.</description>
-  </item>
-  <item>
-    <title>AstraTerra</title>
-    <link>https://mods.vintagestory.at/show/mod/8706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
-    <pubDate>Fri, 21 Aug 2026 20:35:59 -0000</pubDate>
-    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
-  </item>
-  <item>
-    <title>Additive Chiseling</title>
-    <link>https://mods.vintagestory.at/show/mod/additivechiseling</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/additivechiseling#11186</guid>
-    <pubDate>Fri, 21 Aug 2026 20:35:39 -0000</pubDate>
-    <description>Adds a new way of building with chiseled blocks</description>
   </item>
 </channel>
 </rss>
