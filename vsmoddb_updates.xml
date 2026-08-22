@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 22 Aug 2026 07:33:46 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 08:32:52 +0000</lastBuildDate>
+  <item>
+    <title>Age of Seraphs Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
+    <pubDate>Sat, 22 Aug 2026 08:15:26 -0000</pubDate>
+    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
+  </item>
+  <item>
+    <title>Aldi's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/aldiclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aldiclasses#5327</guid>
+    <pubDate>Sat, 22 Aug 2026 08:11:55 -0000</pubDate>
+    <description>An extremely stable, compatible and customizable classes mod!</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Taming</title>
+    <link>https://mods.vintagestory.at/show/mod/fotsataming</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsataming#11206</guid>
+    <pubDate>Sat, 22 Aug 2026 07:57:07 -0000</pubDate>
+    <description>Adds taming ability through PetAI to allow a bunch of the FOTSA animals to be tamed.</description>
+  </item>
   <item>
     <title>Grappling Hook. </title>
     <link>https://mods.vintagestory.at/show/mod/grapplinghook</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/beamtweaksmod#7561</guid>
     <pubDate>Sat, 22 Aug 2026 02:32:18 -0000</pubDate>
     <description>Allows beam ends to overlap reliably (+ some fixes)</description>
-  </item>
-  <item>
-    <title>Scribe: Notes &amp; Tasks</title>
-    <link>https://mods.vintagestory.at/show/mod/scribe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scribe#10607</guid>
-    <pubDate>Sat, 22 Aug 2026 02:08:57 -0000</pubDate>
-    <description>Take notes and track tasks in-world. Pin tasks to a persistent HUD. Multiplayer-ready.</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sat, 22 Aug 2026 02:03:52 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Sat, 22 Aug 2026 01:33:51 -0000</pubDate>
-    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
   </item>
 </channel>
 </rss>
