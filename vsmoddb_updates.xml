@@ -4,20 +4,41 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 22 Aug 2026 10:25:53 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 11:22:16 +0000</lastBuildDate>
+  <item>
+    <title>Additive Chiseling</title>
+    <link>https://mods.vintagestory.at/show/mod/additivechiseling</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/additivechiseling#11186</guid>
+    <pubDate>Sat, 22 Aug 2026 11:15:51 -0000</pubDate>
+    <description>Adds a new way of building with chiseled blocks</description>
+  </item>
+  <item>
+    <title>Catch and Release: Fish</title>
+    <link>https://mods.vintagestory.at/show/mod/crfish</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crfish#7410</guid>
+    <pubDate>Sat, 22 Aug 2026 11:10:21 -0000</pubDate>
+    <description>Catch fish live and place them in various sized aquariums.</description>
+  </item>
+  <item>
+    <title>Shadehouse</title>
+    <link>https://mods.vintagestory.at/show/mod/shadehouse</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shadehouse#8698</guid>
+    <pubDate>Sat, 22 Aug 2026 10:49:27 -0000</pubDate>
+    <description>Adds a way to build a 'shadehouse', to grow crops in hot temperatures.</description>
+  </item>
+  <item>
+    <title>CO Idle Reanimation 1.22 Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/idlereanimfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/idlereanimfork#11211</guid>
+    <pubDate>Sat, 22 Aug 2026 10:31:59 -0000</pubDate>
+    <description>Combat Overhail: Idle Reanimation fork to 1.22</description>
+  </item>
   <item>
     <title>Joomfie Clothes</title>
     <link>https://mods.vintagestory.at/show/mod/joomfiecosmetics</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/joomfiecosmetics#9358</guid>
     <pubDate>Sat, 22 Aug 2026 10:17:42 -0000</pubDate>
     <description>Costume for the community of the vtuber JuniperActias (and a few miscellaneous vanity items)</description>
-  </item>
-  <item>
-    <title>CO Idle Reanimation 1.22 Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/idlereanimfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/idlereanimfork#11211</guid>
-    <pubDate>Sat, 22 Aug 2026 10:05:32 -0000</pubDate>
-    <description>This mod adds/adjusts attack, parry or/and idle animations for several weapons from CO &amp; CO Armory</description>
   </item>
   <item>
     <title>Frontier Map &amp; Better Prospecting Compat</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/olla#5784</guid>
     <pubDate>Sat, 22 Aug 2026 02:56:17 -0000</pubDate>
     <description> Bring ancient irrigation technology to Vintage Story! This mod adds ollas (pronounced "oy-yahs")</description>
-  </item>
-  <item>
-    <title>Command Block Client Extension</title>
-    <link>https://mods.vintagestory.at/show/mod/commandblockclientextmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/commandblockclientextmod#6764</guid>
-    <pubDate>Sat, 22 Aug 2026 02:36:58 -0000</pubDate>
-    <description>Enables client commands in the Command Blocks (+ some utilities!)</description>
-  </item>
-  <item>
-    <title>Antler Util</title>
-    <link>https://mods.vintagestory.at/show/mod/antlerutilmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antlerutilmod#6250</guid>
-    <pubDate>Sat, 22 Aug 2026 02:36:45 -0000</pubDate>
-    <description>Helps you collecting antlers (also would work as a workaround for the "phantom" shed antlers issue)</description>
-  </item>
-  <item>
-    <title>Scoop of Jam</title>
-    <link>https://mods.vintagestory.at/show/mod/scoopofjammod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scoopofjammod#6164</guid>
-    <pubDate>Sat, 22 Aug 2026 02:36:33 -0000</pubDate>
-    <description>Scoop jam with a spoon to make jam sandwiches and jam pies!</description>
   </item>
 </channel>
 </rss>
