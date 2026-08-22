@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 22 Aug 2026 18:33:36 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 19:23:58 +0000</lastBuildDate>
+  <item>
+    <title>Terra Loom</title>
+    <link>https://mods.vintagestory.at/show/mod/10546</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10546#10546</guid>
+    <pubDate>Sat, 22 Aug 2026 19:02:32 -0000</pubDate>
+    <description>Replaces vanilla terrain/climate generation with a self-contained, embedded AI diffusion model.</description>
+  </item>
+  <item>
+    <title>Riley's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Sat, 22 Aug 2026 18:53:08 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+  </item>
+  <item>
+    <title>Hibiskus Kilts</title>
+    <link>https://mods.vintagestory.at/show/mod/hibiskuskilts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hibiskuskilts#11094</guid>
+    <pubDate>Sat, 22 Aug 2026 18:50:37 -0000</pubDate>
+    <description>Adds different kilts based on real tartan patterns to the game.</description>
+  </item>
+  <item>
+    <title>Configurable Chat History</title>
+    <link>https://mods.vintagestory.at/show/mod/11216</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11216#11216</guid>
+    <pubDate>Sat, 22 Aug 2026 18:44:52 -0000</pubDate>
+    <description>Lets you override the hard 30 message limit for chat history</description>
+  </item>
+  <item>
+    <title>Backpack for books and scrolls</title>
+    <link>https://mods.vintagestory.at/show/mod/6964</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6964#6964</guid>
+    <pubDate>Sat, 22 Aug 2026 18:34:08 -0000</pubDate>
+    <description>Backpack for books and scrolls. And another for butterflies</description>
+  </item>
   <item>
     <title>Safe Haven</title>
     <link>https://mods.vintagestory.at/show/mod/safehaven</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clotheshavepockets#10218</guid>
     <pubDate>Sat, 22 Aug 2026 12:49:35 -0000</pubDate>
     <description>Adds pockets (inventory slots) to various clothing items</description>
-  </item>
-  <item>
-    <title>Rift Weapons</title>
-    <link>https://mods.vintagestory.at/show/mod/riftweapons</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftweapons#4417</guid>
-    <pubDate>Sat, 22 Aug 2026 12:35:27 -0000</pubDate>
-    <description>Adds a Sword with different designs depending on metal tier</description>
-  </item>
-  <item>
-    <title>Ghaelen's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9740</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
-    <pubDate>Sat, 22 Aug 2026 12:29:35 -0000</pubDate>
-    <description>My personal tweaks I like to play with.</description>
-  </item>
-  <item>
-    <title>SimpleSteam</title>
-    <link>https://mods.vintagestory.at/show/mod/11213</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11213#11213</guid>
-    <pubDate>Sat, 22 Aug 2026 12:27:08 -0000</pubDate>
-    <description>A boiler you fill with water and light a fire under, turning a wooden drive gear on its side.</description>
-  </item>
-  <item>
-    <title>Swixy ClaimChunk</title>
-    <link>https://mods.vintagestory.at/show/mod/swixyclaimchunk</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swixyclaimchunk#9913</guid>
-    <pubDate>Sat, 22 Aug 2026 12:18:37 -0000</pubDate>
-    <description>Claiming made easy. Press [P], click a chunk, and it's yours!</description>
-  </item>
-  <item>
-    <title>C4B Traducciones-ES ► JUEGO</title>
-    <link>https://mods.vintagestory.at/show/mod/c4btraduccionesjuego</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/c4btraduccionesjuego#2738</guid>
-    <pubDate>Sat, 22 Aug 2026 11:38:36 -0000</pubDate>
-    <description>Traducción Completa y Mejorada del Juego en Español-ES + Nuevas Guías</description>
   </item>
 </channel>
 </rss>
