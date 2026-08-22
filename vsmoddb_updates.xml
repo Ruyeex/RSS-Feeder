@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 22 Aug 2026 17:22:37 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 18:33:36 +0000</lastBuildDate>
+  <item>
+    <title>Safe Haven</title>
+    <link>https://mods.vintagestory.at/show/mod/safehaven</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/safehaven#11195</guid>
+    <pubDate>Sat, 22 Aug 2026 18:25:38 -0000</pubDate>
+    <description>AFK, spawn, loading and softcore safety protections for multiplayer servers.</description>
+  </item>
+  <item>
+    <title>Extreme Weathers [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/10098</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
+    <pubDate>Sat, 22 Aug 2026 18:09:01 -0000</pubDate>
+    <description>Introduces new extreme weather events. Blizzards, sandstorms, tornadoes, hurricanes and more!</description>
+  </item>
+  <item>
+    <title>Improved Handbook Recipe Helper</title>
+    <link>https://mods.vintagestory.at/show/mod/8240</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8240#8240</guid>
+    <pubDate>Sat, 22 Aug 2026 18:05:37 -0000</pubDate>
+    <description>Makes recipes easier to complete by adding auto-population, conflict cycling, and missing component </description>
+  </item>
+  <item>
+    <title>Niltrias's Sinister Cookery</title>
+    <link>https://mods.vintagestory.at/show/mod/11215</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11215#11215</guid>
+    <pubDate>Sat, 22 Aug 2026 18:03:53 -0000</pubDate>
+    <description>Low-effort AI mod built for personal server only.  Should not be used by anyone. </description>
+  </item>
+  <item>
+    <title>Waxlight Launcher</title>
+    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
+    <pubDate>Sat, 22 Aug 2026 17:57:54 -0000</pubDate>
+    <description>A sleek Vintage Story launcher for instances, mods, accounts and playtime tracking.</description>
+  </item>
+  <item>
+    <title>Kobold Player Model Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/koboldrdx</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/koboldrdx#4814</guid>
+    <pubDate>Sat, 22 Aug 2026 17:30:28 -0000</pubDate>
+    <description>A complete 1.21+ remake of Soi's Kobold player model, for PlayerModelLib by Maltiez!</description>
+  </item>
   <item>
     <title>Ice Cellar</title>
     <link>https://mods.vintagestory.at/show/mod/10837</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/c4btraduccionesjuego#2738</guid>
     <pubDate>Sat, 22 Aug 2026 11:38:36 -0000</pubDate>
     <description>Traducción Completa y Mejorada del Juego en Español-ES + Nuevas Guías</description>
-  </item>
-  <item>
-    <title>C4B Traducciones-ES ► MODS</title>
-    <link>https://mods.vintagestory.at/show/mod/c4btraduccionesmods</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/c4btraduccionesmods#2720</guid>
-    <pubDate>Sat, 22 Aug 2026 11:30:59 -0000</pubDate>
-    <description>Traducción de (más de 230) Mods en Español-ES</description>
-  </item>
-  <item>
-    <title>Additive Chiseling</title>
-    <link>https://mods.vintagestory.at/show/mod/additivechiseling</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/additivechiseling#11186</guid>
-    <pubDate>Sat, 22 Aug 2026 11:15:51 -0000</pubDate>
-    <description>Adds a new way of building with chiseled blocks</description>
-  </item>
-  <item>
-    <title>Catch and Release: Fish</title>
-    <link>https://mods.vintagestory.at/show/mod/crfish</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crfish#7410</guid>
-    <pubDate>Sat, 22 Aug 2026 11:10:21 -0000</pubDate>
-    <description>Catch fish live and place them in various sized aquariums.</description>
-  </item>
-  <item>
-    <title>Shadehouse</title>
-    <link>https://mods.vintagestory.at/show/mod/shadehouse</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shadehouse#8698</guid>
-    <pubDate>Sat, 22 Aug 2026 10:49:27 -0000</pubDate>
-    <description>Adds a way to build a 'shadehouse', to grow crops in hot temperatures.</description>
-  </item>
-  <item>
-    <title>Combat Overhaul Idle Reanimation 1.22 Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/idlereanimfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/idlereanimfork#11211</guid>
-    <pubDate>Sat, 22 Aug 2026 10:31:59 -0000</pubDate>
-    <description>Combat Overhail: Idle Reanimation fork to 1.22</description>
-  </item>
-  <item>
-    <title>Joomfie Clothes</title>
-    <link>https://mods.vintagestory.at/show/mod/joomfiecosmetics</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/joomfiecosmetics#9358</guid>
-    <pubDate>Sat, 22 Aug 2026 10:17:42 -0000</pubDate>
-    <description>Costume for the community of the vtuber JuniperActias (and a few miscellaneous vanity items)</description>
   </item>
 </channel>
 </rss>
