@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 22 Aug 2026 11:22:16 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 12:42:48 +0000</lastBuildDate>
+  <item>
+    <title>Rift Weapons</title>
+    <link>https://mods.vintagestory.at/show/mod/riftweapons</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftweapons#4417</guid>
+    <pubDate>Sat, 22 Aug 2026 12:35:27 -0000</pubDate>
+    <description>Adds a Sword with different designs depending on metal tier</description>
+  </item>
+  <item>
+    <title>Ghaelen's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9740</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
+    <pubDate>Sat, 22 Aug 2026 12:29:35 -0000</pubDate>
+    <description>My personal tweaks I like to play with.</description>
+  </item>
+  <item>
+    <title>SimpleSteam</title>
+    <link>https://mods.vintagestory.at/show/mod/11213</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11213#11213</guid>
+    <pubDate>Sat, 22 Aug 2026 12:27:08 -0000</pubDate>
+    <description>A boiler you fill with water and light a fire under, turning a wooden drive gear on its side.</description>
+  </item>
+  <item>
+    <title>Swixy ClaimChunk</title>
+    <link>https://mods.vintagestory.at/show/mod/swixyclaimchunk</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swixyclaimchunk#9913</guid>
+    <pubDate>Sat, 22 Aug 2026 12:18:37 -0000</pubDate>
+    <description>Claiming made easy. Press [P], click a chunk, and it's yours!</description>
+  </item>
+  <item>
+    <title>Rudiments</title>
+    <link>https://mods.vintagestory.at/show/mod/9305</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
+    <pubDate>Sat, 22 Aug 2026 12:12:36 -0000</pubDate>
+    <description>Pre-industrial craft, done properly. Fibre, clay, kilns, stone tools, mud — one step at a time.</description>
+  </item>
+  <item>
+    <title>C4B Traducciones-ES ► JUEGO</title>
+    <link>https://mods.vintagestory.at/show/mod/c4btraduccionesjuego</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/c4btraduccionesjuego#2738</guid>
+    <pubDate>Sat, 22 Aug 2026 11:38:36 -0000</pubDate>
+    <description>Traducción Completa y Mejorada del Juego en Español-ES + Nuevas Guías</description>
+  </item>
+  <item>
+    <title>C4B Traducciones-ES ► MODS</title>
+    <link>https://mods.vintagestory.at/show/mod/c4btraduccionesmods</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/c4btraduccionesmods#2720</guid>
+    <pubDate>Sat, 22 Aug 2026 11:30:59 -0000</pubDate>
+    <description>Traducción de (más de 230) Mods en Español-ES</description>
+  </item>
   <item>
     <title>Additive Chiseling</title>
     <link>https://mods.vintagestory.at/show/mod/additivechiseling</link>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10825#10825</guid>
     <pubDate>Sat, 22 Aug 2026 03:56:47 -0000</pubDate>
     <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/10555</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
-    <pubDate>Sat, 22 Aug 2026 03:54:59 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>Clockmaker Ascendant</title>
-    <link>https://mods.vintagestory.at/show/mod/9440</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9440#9440</guid>
-    <pubDate>Sat, 22 Aug 2026 03:43:02 -0000</pubDate>
-    <description>Dedicated scholars of temporal mechanics and Jonas technology, pursuing knowledge through experiment</description>
-  </item>
-  <item>
-    <title>TassModFixesTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tassmodfixestweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassmodfixestweaks#10502</guid>
-    <pubDate>Sat, 22 Aug 2026 03:28:08 -0000</pubDate>
-    <description>A catch all mod for anything that does not fit my other mods - fixing bugs and tweaking mods</description>
-  </item>
-  <item>
-    <title>TassHunting</title>
-    <link>https://mods.vintagestory.at/show/mod/tasshunting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshunting#10438</guid>
-    <pubDate>Sat, 22 Aug 2026 03:26:26 -0000</pubDate>
-    <description>Arrows Stick - Blood - Smarter Animal AI - Aiming Tweaks - Health Based Animal Speed</description>
-  </item>
-  <item>
-    <title>Ghaelen's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9740</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
-    <pubDate>Sat, 22 Aug 2026 03:15:06 -0000</pubDate>
-    <description>My personal tweaks I like to play with.</description>
-  </item>
-  <item>
-    <title>Better Husbandry</title>
-    <link>https://mods.vintagestory.at/show/mod/betterhusbandry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhusbandry#11009</guid>
-    <pubDate>Sat, 22 Aug 2026 03:01:35 -0000</pubDate>
-    <description>Changes animal husbandry by rewarding players for petting and feeding their animals.</description>
-  </item>
-  <item>
-    <title>Olla</title>
-    <link>https://mods.vintagestory.at/show/mod/olla</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/olla#5784</guid>
-    <pubDate>Sat, 22 Aug 2026 02:56:17 -0000</pubDate>
-    <description> Bring ancient irrigation technology to Vintage Story! This mod adds ollas (pronounced "oy-yahs")</description>
   </item>
 </channel>
 </rss>
