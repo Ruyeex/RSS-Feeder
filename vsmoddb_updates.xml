@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 22 Aug 2026 06:42:57 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 07:33:46 +0000</lastBuildDate>
+  <item>
+    <title>Grappling Hook. </title>
+    <link>https://mods.vintagestory.at/show/mod/grapplinghook</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grapplinghook#11050</guid>
+    <pubDate>Sat, 22 Aug 2026 07:16:25 -0000</pubDate>
+    <description>Swing, climb and interact with entities while traversing the world.</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Sat, 22 Aug 2026 06:51:42 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
+  <item>
+    <title>16x16 Downscale Texture Pack</title>
+    <link>https://mods.vintagestory.at/show/mod/textures16x16</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/textures16x16#11202</guid>
+    <pubDate>Sat, 22 Aug 2026 06:43:54 -0000</pubDate>
+    <description>Also offers 21 texture packs with different downscaling methods in 8x8, 16x16, and 24x24.</description>
+  </item>
   <item>
     <title>Arrows and Slings</title>
     <link>https://mods.vintagestory.at/show/mod/arrowsnslings</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
     <pubDate>Sat, 22 Aug 2026 01:33:51 -0000</pubDate>
     <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
-  </item>
-  <item>
-    <title>Majestic Maple</title>
-    <link>https://mods.vintagestory.at/show/mod/10529</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10529#10529</guid>
-    <pubDate>Sat, 22 Aug 2026 00:50:30 -0000</pubDate>
-    <description>Maple wood retexture</description>
-  </item>
-  <item>
-    <title>Bacon Bacon Bacon</title>
-    <link>https://mods.vintagestory.at/show/mod/baconbaconbacon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/baconbaconbacon#6895</guid>
-    <pubDate>Sat, 22 Aug 2026 00:45:43 -0000</pubDate>
-    <description>The first and (so far) only entirely and ridiculously bacon-centric mod for Vintage Story</description>
-  </item>
-  <item>
-    <title>WorldEngine for VS Toolkit</title>
-    <link>https://mods.vintagestory.at/show/mod/10643</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10643#10643</guid>
-    <pubDate>Sat, 22 Aug 2026 00:08:55 -0000</pubDate>
-    <description>A planet-based world generation pipeline.</description>
   </item>
 </channel>
 </rss>
