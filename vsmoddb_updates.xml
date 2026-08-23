@@ -4,13 +4,76 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 23 Aug 2026 21:23:39 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 22:24:05 +0000</lastBuildDate>
+  <item>
+    <title>Floral Zones: East Asiatic Region</title>
+    <link>https://mods.vintagestory.at/show/mod/floralzoneseastasiaticregion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzoneseastasiaticregion#2081</guid>
+    <pubDate>Sun, 23 Aug 2026 22:23:11 -0000</pubDate>
+    <description>Adds plants from the East Asiatic Region to the game.</description>
+  </item>
+  <item>
+    <title>Distant Vistas</title>
+    <link>https://mods.vintagestory.at/show/mod/distantvistas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/distantvistas#11259</guid>
+    <pubDate>Sun, 23 Aug 2026 22:18:22 -0000</pubDate>
+    <description>Distant Horizons-style far LOD terrain for Vintage Story. Client-only on any server; optional server</description>
+  </item>
   <item>
     <title>DRRP Caveshrooms</title>
     <link>https://mods.vintagestory.at/show/mod/caveshrooms</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caveshrooms#10922</guid>
-    <pubDate>Sun, 23 Aug 2026 20:46:30 -0000</pubDate>
+    <pubDate>Sun, 23 Aug 2026 22:15:50 -0000</pubDate>
     <description>Adds a mushroom that fruits from patches of temporally unstable substrate deep in caves.</description>
+  </item>
+  <item>
+    <title>Valioso</title>
+    <link>https://mods.vintagestory.at/show/mod/11120</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11120#11120</guid>
+    <pubDate>Sun, 23 Aug 2026 22:06:40 -0000</pubDate>
+    <description>Valioso Mod</description>
+  </item>
+  <item>
+    <title>W4RD0's Furniture</title>
+    <link>https://mods.vintagestory.at/show/mod/w4rd0sfurniture</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/w4rd0sfurniture#11214</guid>
+    <pubDate>Sun, 23 Aug 2026 22:02:19 -0000</pubDate>
+    <description>A furniture pack adding detailed furniture like tables, chairs, couches, beds, shelves &amp; a lot more.</description>
+  </item>
+  <item>
+    <title>Scribe: Notes &amp; Tasks</title>
+    <link>https://mods.vintagestory.at/show/mod/scribe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scribe#10607</guid>
+    <pubDate>Sun, 23 Aug 2026 21:57:05 -0000</pubDate>
+    <description>Take notes and track tasks in-world. Pin tasks to a persistent HUD. Multiplayer-ready.</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Sun, 23 Aug 2026 21:56:28 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
+  <item>
+    <title>Floral Zones: Central Australian Region</title>
+    <link>https://mods.vintagestory.at/show/mod/floralzonescentralaustralianregion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescentralaustralianregion#1989</guid>
+    <pubDate>Sun, 23 Aug 2026 21:42:33 -0000</pubDate>
+    <description>Adds plants from the Central Australian Region to the game.</description>
+  </item>
+  <item>
+    <title>HolySmoke</title>
+    <link>https://mods.vintagestory.at/show/mod/11254</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11254#11254</guid>
+    <pubDate>Sun, 23 Aug 2026 21:28:33 -0000</pubDate>
+    <description>A smoker mod I made for my server</description>
+  </item>
+  <item>
+    <title>Floral Zones: Caribbean Region</title>
+    <link>https://mods.vintagestory.at/show/mod/floralzonescaribbeanregion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescaribbeanregion#1666</guid>
+    <pubDate>Sun, 23 Aug 2026 21:28:19 -0000</pubDate>
+    <description>Adds plants from the Caribbean Region to the game.</description>
   </item>
   <item>
     <title>Road network - connected curved roads and bridges</title>
@@ -18,13 +81,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10739#10739</guid>
     <pubDate>Sun, 23 Aug 2026 20:35:24 -0000</pubDate>
     <description>Road Network allows you to spawn roads automatically, which snuggle to the terrain.</description>
-  </item>
-  <item>
-    <title>HolySmoke</title>
-    <link>https://mods.vintagestory.at/show/mod/11254</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11254#11254</guid>
-    <pubDate>Sun, 23 Aug 2026 20:34:41 -0000</pubDate>
-    <description>A smoker mod I made for my server</description>
   </item>
   <item>
     <title>Nil's Sinister Boar Mod</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescaperegion#1570</guid>
     <pubDate>Sun, 23 Aug 2026 19:21:58 -0000</pubDate>
     <description>Adds plants from the Cape Region to the game.</description>
-  </item>
-  <item>
-    <title>Tardis</title>
-    <link>https://mods.vintagestory.at/show/mod/tardis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tardis#11072</guid>
-    <pubDate>Sun, 23 Aug 2026 19:13:02 -0000</pubDate>
-    <description>A working TARDIS with a bigger-on-the-inside interior, flight, rooms, keys and a sonic.</description>
-  </item>
-  <item>
-    <title>Animalica - Abilities</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicaa</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaa#10949</guid>
-    <pubDate>Sun, 23 Aug 2026 19:06:58 -0000</pubDate>
-    <description>Species-gated Scent and Night Sight for Animalica and compatible player models. (more soon)</description>
-  </item>
-  <item>
-    <title>Fornax</title>
-    <link>https://mods.vintagestory.at/show/mod/fornax</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fornax#11226</guid>
-    <pubDate>Sun, 23 Aug 2026 18:54:50 -0000</pubDate>
-    <description>The kiln between the pit kiln and the beehive kiln. Mud brick, firewood, and no iron at all.</description>
-  </item>
-  <item>
-    <title>Bacon Bacon Bacon</title>
-    <link>https://mods.vintagestory.at/show/mod/baconbaconbacon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/baconbaconbacon#6895</guid>
-    <pubDate>Sun, 23 Aug 2026 18:49:05 -0000</pubDate>
-    <description>The first and (so far) only entirely and ridiculously bacon-centric mod for Vintage Story</description>
-  </item>
-  <item>
-    <title>Client MeshRef Leak Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/vsvaogc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsvaogc#11228</guid>
-    <pubDate>Sun, 23 Aug 2026 18:48:08 -0000</pubDate>
-    <description>Stops FPS drops and stuttering from a long-session graphics memory leak. Client-only.</description>
-  </item>
-  <item>
-    <title>Farmer Class</title>
-    <link>https://mods.vintagestory.at/show/mod/9658</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9658#9658</guid>
-    <pubDate>Sun, 23 Aug 2026 18:36:25 -0000</pubDate>
-    <description>Bigger crop harvests and wears heavy armor with ease.</description>
-  </item>
-  <item>
-    <title>MailboxTrade</title>
-    <link>https://mods.vintagestory.at/show/mod/7539</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7539#7539</guid>
-    <pubDate>Sun, 23 Aug 2026 18:09:40 -0000</pubDate>
-    <description>Mailbox style item trading between players</description>
-  </item>
-  <item>
-    <title>Valioso</title>
-    <link>https://mods.vintagestory.at/show/mod/11120</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11120#11120</guid>
-    <pubDate>Sun, 23 Aug 2026 18:00:24 -0000</pubDate>
-    <description>Valioso Mod</description>
   </item>
 </channel>
 </rss>
