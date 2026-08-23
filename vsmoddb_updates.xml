@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 23 Aug 2026 20:25:31 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 21:23:39 +0000</lastBuildDate>
+  <item>
+    <title>DRRP Caveshrooms</title>
+    <link>https://mods.vintagestory.at/show/mod/caveshrooms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caveshrooms#10922</guid>
+    <pubDate>Sun, 23 Aug 2026 20:46:30 -0000</pubDate>
+    <description>Adds a mushroom that fruits from patches of temporally unstable substrate deep in caves.</description>
+  </item>
+  <item>
+    <title>Road network - connected curved roads and bridges</title>
+    <link>https://mods.vintagestory.at/show/mod/10739</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10739#10739</guid>
+    <pubDate>Sun, 23 Aug 2026 20:35:24 -0000</pubDate>
+    <description>Road Network allows you to spawn roads automatically, which snuggle to the terrain.</description>
+  </item>
+  <item>
+    <title>HolySmoke</title>
+    <link>https://mods.vintagestory.at/show/mod/11254</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11254#11254</guid>
+    <pubDate>Sun, 23 Aug 2026 20:34:41 -0000</pubDate>
+    <description>A smoker mod I made for my server</description>
+  </item>
+  <item>
+    <title>Nil's Sinister Boar Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/11255</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11255#11255</guid>
+    <pubDate>Sun, 23 Aug 2026 20:33:50 -0000</pubDate>
+    <description>Adds Ridable boars.  Extremely low effort. </description>
+  </item>
+  <item>
+    <title>DRRP The Unknowing</title>
+    <link>https://mods.vintagestory.at/show/mod/theunknowing</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/theunknowing#11253</guid>
+    <pubDate>Sun, 23 Aug 2026 20:29:38 -0000</pubDate>
+    <description>Admin-summoned storm of forgetting that consumes an abandoned land claim then regenerates it.</description>
+  </item>
+  <item>
+    <title>Rusty Shell CO Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/rustyshellcofork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustyshellcofork#11237</guid>
+    <pubDate>Sun, 23 Aug 2026 20:26:54 -0000</pubDate>
+    <description>Combat Overhaul compatible fork</description>
+  </item>
   <item>
     <title>vanilla armory classic</title>
     <link>https://mods.vintagestory.at/show/mod/vanillaarmoryclassic</link>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11120#11120</guid>
     <pubDate>Sun, 23 Aug 2026 18:00:24 -0000</pubDate>
     <description>Valioso Mod</description>
-  </item>
-  <item>
-    <title>Directional Bombs</title>
-    <link>https://mods.vintagestory.at/show/mod/directionalbombs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/directionalbombs#10940</guid>
-    <pubDate>Sun, 23 Aug 2026 17:53:05 -0000</pubDate>
-    <description>Ever wanted to dig a tunnel with bombs? A moat? Anything more line-shaped than sphere? So did I!</description>
-  </item>
-  <item>
-    <title>ExplosiveLib</title>
-    <link>https://mods.vintagestory.at/show/mod/explosivelib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/explosivelib#11239</guid>
-    <pubDate>Sun, 23 Aug 2026 17:48:23 -0000</pubDate>
-    <description>A library mod for modularized and customizable explosion logic.</description>
-  </item>
-  <item>
-    <title>Land Of Estrellas</title>
-    <link>https://mods.vintagestory.at/show/mod/loe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/loe#10629</guid>
-    <pubDate>Sun, 23 Aug 2026 17:36:46 -0000</pubDate>
-    <description>The offical modpack of The Land of Estrellas server </description>
-  </item>
-  <item>
-    <title>Shadehouse</title>
-    <link>https://mods.vintagestory.at/show/mod/shadehouse</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shadehouse#8698</guid>
-    <pubDate>Sun, 23 Aug 2026 17:24:34 -0000</pubDate>
-    <description>Adds a way to build a 'shadehouse', to grow crops in hot temperatures.</description>
-  </item>
-  <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Sun, 23 Aug 2026 17:16:50 -0000</pubDate>
-    <description>Trees slowly shed their leaves based on temperature. Vanilla or Eco Machina compatible.</description>
-  </item>
-  <item>
-    <title>Leaf Litter</title>
-    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
-    <pubDate>Sun, 23 Aug 2026 17:16:24 -0000</pubDate>
-    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
   </item>
 </channel>
 </rss>
