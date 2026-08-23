@@ -4,7 +4,98 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 23 Aug 2026 11:22:43 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 12:44:13 +0000</lastBuildDate>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Sun, 23 Aug 2026 12:33:17 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
+  <item>
+    <title>Spyro Story Renewal</title>
+    <link>https://mods.vintagestory.at/show/mod/spyrostoryrenewal</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spyrostoryrenewal#11243</guid>
+    <pubDate>Sun, 23 Aug 2026 12:33:05 -0000</pubDate>
+    <description>Protects and safely regenerates registered Story Locations with vanilla WorldGen.</description>
+  </item>
+  <item>
+    <title>C&amp;N Jewelry</title>
+    <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
+    <pubDate>Sun, 23 Aug 2026 12:23:07 -0000</pubDate>
+    <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Sun, 23 Aug 2026 12:21:39 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>Emotes</title>
+    <link>https://mods.vintagestory.at/show/mod/emotes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/emotes#8235</guid>
+    <pubDate>Sun, 23 Aug 2026 12:21:32 -0000</pubDate>
+    <description>Adds more custom emotes to the game.</description>
+  </item>
+  <item>
+    <title>CAN Jewelry: Adornments</title>
+    <link>https://mods.vintagestory.at/show/mod/canjewelryadornments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelryadornments#11242</guid>
+    <pubDate>Sun, 23 Aug 2026 12:20:45 -0000</pubDate>
+    <description>Wearable jewelry - rings, earrings, tiaras, necklaces, monocles and more - plus display stands, all </description>
+  </item>
+  <item>
+    <title>Place it Anywhere</title>
+    <link>https://mods.vintagestory.at/show/mod/9914</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9914#9914</guid>
+    <pubDate>Sun, 23 Aug 2026 12:16:16 -0000</pubDate>
+    <description>Place any item as decoration on floors, walls and ceilings. Up to 64 items per cell.</description>
+  </item>
+  <item>
+    <title>Radial Menu: Arrows and Bolts</title>
+    <link>https://mods.vintagestory.at/show/mod/radialmenuarrowsandbolts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/radialmenuarrowsandbolts#11241</guid>
+    <pubDate>Sun, 23 Aug 2026 12:01:23 -0000</pubDate>
+    <description>Radial ammo selector for bows and crossbows, compatible with popular combat and ammo mods.</description>
+  </item>
+  <item>
+    <title>Expanded Foods Fowlmod Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/9158</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9158#9158</guid>
+    <pubDate>Sun, 23 Aug 2026 11:57:45 -0000</pubDate>
+    <description>Compatibility patches for Expanded Foods and Fowl</description>
+  </item>
+  <item>
+    <title>UI-Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/uitweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/uitweaks#7926</guid>
+    <pubDate>Sun, 23 Aug 2026 11:45:23 -0000</pubDate>
+    <description>Zoom Button, configurable HUD, in-game calculator, and more...</description>
+  </item>
+  <item>
+    <title>Nickelback</title>
+    <link>https://mods.vintagestory.at/show/mod/nickelback</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nickelback#9223</guid>
+    <pubDate>Sun, 23 Aug 2026 11:45:19 -0000</pubDate>
+    <description>This mod gives you bits of metal back when a tool breaks during quenching</description>
+  </item>
+  <item>
+    <title>Fluffy Dreg</title>
+    <link>https://mods.vintagestory.at/show/mod/fluffydreg</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fluffydreg#5557</guid>
+    <pubDate>Sun, 23 Aug 2026 11:38:05 -0000</pubDate>
+    <description>Adds a Fluffy Dragon/Kobold player model/race using Player Model Lib.</description>
+  </item>
+  <item>
+    <title>GR-xToast</title>
+    <link>https://mods.vintagestory.at/show/mod/grxtoast</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grxtoast#11240</guid>
+    <pubDate>Sun, 23 Aug 2026 11:24:55 -0000</pubDate>
+    <description>A derivative Version of the Germanrefined Mod, which overhauls the german translation of the game!</description>
+  </item>
   <item>
     <title>Muppers Arcana</title>
     <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
@@ -73,7 +164,7 @@
     <link>https://mods.vintagestory.at/show/mod/germanrefined</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/germanrefined#7681</guid>
     <pubDate>Sun, 23 Aug 2026 10:05:52 -0000</pubDate>
-    <description>Revamps the entire German translation of the game!</description>
+    <description>Syncs the german translation to the current Crowdin Version!</description>
   </item>
   <item>
     <title>VintageStory D'Août</title>
@@ -123,97 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/willisabear#7752</guid>
     <pubDate>Sun, 23 Aug 2026 08:37:44 -0000</pubDate>
     <description>TTS voice over Bear noises.</description>
-  </item>
-  <item>
-    <title>Vintage Healing</title>
-    <link>https://mods.vintagestory.at/show/mod/vsheal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsheal#11190</guid>
-    <pubDate>Sun, 23 Aug 2026 08:35:22 -0000</pubDate>
-    <description>Adds antiseptic, slow healing poultices and bandages.</description>
-  </item>
-  <item>
-    <title>Achievements</title>
-    <link>https://mods.vintagestory.at/show/mod/achievements</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/achievements#8202</guid>
-    <pubDate>Sun, 23 Aug 2026 07:48:12 -0000</pubDate>
-    <description>Adds vanilla, lore, AllClasses, Hod and Primitive Survival Achievements and random rewards</description>
-  </item>
-  <item>
-    <title>Bikini Bear</title>
-    <link>https://mods.vintagestory.at/show/mod/bikinibear</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bikinibear#11173</guid>
-    <pubDate>Sun, 23 Aug 2026 07:36:22 -0000</pubDate>
-    <description>Every bear has a 10% chance to spawn in a bikini (6 styles) and a straw sun hat. Configurable.</description>
-  </item>
-  <item>
-    <title>Expanded Matter</title>
-    <link>https://mods.vintagestory.at/show/mod/em</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/em#496</guid>
-    <pubDate>Sun, 23 Aug 2026 07:23:03 -0000</pubDate>
-    <description>Library for ore, materials and item variants. Extends VS existing ore.</description>
-  </item>
-  <item>
-    <title>Grouped Ore Names</title>
-    <link>https://mods.vintagestory.at/show/mod/groupedorenames</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/groupedorenames#11235</guid>
-    <pubDate>Sun, 23 Aug 2026 07:22:59 -0000</pubDate>
-    <description>Groups ore names by their resulting metal in the game.</description>
-  </item>
-  <item>
-    <title>CB Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Sun, 23 Aug 2026 07:10:38 -0000</pubDate>
-    <description>JSON content patches</description>
-  </item>
-  <item>
-    <title>CB Quests</title>
-    <link>https://mods.vintagestory.at/show/mod/10819</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10819#10819</guid>
-    <pubDate>Sun, 23 Aug 2026 07:09:06 -0000</pubDate>
-    <description>Adds quests for the the CB server</description>
-  </item>
-  <item>
-    <title>CB Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/10778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
-    <pubDate>Sun, 23 Aug 2026 07:07:43 -0000</pubDate>
-    <description>Skill and class mod for the CB server</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Taming</title>
-    <link>https://mods.vintagestory.at/show/mod/fotsataming</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsataming#11206</guid>
-    <pubDate>Sun, 23 Aug 2026 06:58:59 -0000</pubDate>
-    <description>Adds taming ability through PetAI to allow a bunch of the FOTSA animals to be tamed.</description>
-  </item>
-  <item>
-    <title>Advanced Geology</title>
-    <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedgeology#7167</guid>
-    <pubDate>Sun, 23 Aug 2026 06:55:56 -0000</pubDate>
-    <description>Adds new, realistic ores and stones with heavy IOG compatibility</description>
-  </item>
-  <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Sun, 23 Aug 2026 04:45:23 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
-  </item>
-  <item>
-    <title>Clockmaker Ascendant</title>
-    <link>https://mods.vintagestory.at/show/mod/9440</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9440#9440</guid>
-    <pubDate>Sun, 23 Aug 2026 04:39:01 -0000</pubDate>
-    <description>Dedicated scholars of temporal mechanics and Jonas technology, pursuing knowledge through experiment</description>
-  </item>
-  <item>
-    <title>CrashGuard</title>
-    <link>https://mods.vintagestory.at/show/mod/11123</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11123#11123</guid>
-    <pubDate>Sun, 23 Aug 2026 04:07:26 -0000</pubDate>
-    <description>Handbook crashguard and etc for All Things RPG server</description>
   </item>
 </channel>
 </rss>
