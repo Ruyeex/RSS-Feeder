@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 23 Aug 2026 03:04:47 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 04:39:46 +0000</lastBuildDate>
+  <item>
+    <title>Clockmaker Ascendant</title>
+    <link>https://mods.vintagestory.at/show/mod/9440</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9440#9440</guid>
+    <pubDate>Sun, 23 Aug 2026 04:39:01 -0000</pubDate>
+    <description>Dedicated scholars of temporal mechanics and Jonas technology, pursuing knowledge through experiment</description>
+  </item>
+  <item>
+    <title>CrashGuard</title>
+    <link>https://mods.vintagestory.at/show/mod/11123</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11123#11123</guid>
+    <pubDate>Sun, 23 Aug 2026 04:07:26 -0000</pubDate>
+    <description>Handbook crashguard and etc for All Things RPG server</description>
+  </item>
+  <item>
+    <title>Seraph Leveling ReClassed</title>
+    <link>https://mods.vintagestory.at/show/mod/11234</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11234#11234</guid>
+    <pubDate>Sun, 23 Aug 2026 04:01:59 -0000</pubDate>
+    <description>Level up and gain traits in a vanilla-friendly way, with additional mod support</description>
+  </item>
+  <item>
+    <title>Algernon's Watersheds</title>
+    <link>https://mods.vintagestory.at/show/mod/algernonswatersheds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/algernonswatersheds#7286</guid>
+    <pubDate>Sun, 23 Aug 2026 04:01:11 -0000</pubDate>
+    <description>Worldgen revamp using a Watershed model. Adds meandering streams, groundwater, and erosion</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Sun, 23 Aug 2026 03:51:33 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Chonky Kitchenware</title>
+    <link>https://mods.vintagestory.at/show/mod/9694</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9694#9694</guid>
+    <pubDate>Sun, 23 Aug 2026 03:46:18 -0000</pubDate>
+    <description>This mod aims to make your kitchen feel more cozy, giving it a personal touch!</description>
+  </item>
+  <item>
+    <title>Chonky Vessels</title>
+    <link>https://mods.vintagestory.at/show/mod/7686</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7686#7686</guid>
+    <pubDate>Sun, 23 Aug 2026 03:45:52 -0000</pubDate>
+    <description>Adds chonkier vessels &amp; more with better storage and spoilage properties.</description>
+  </item>
+  <item>
+    <title>PlantAnythingAPI</title>
+    <link>https://mods.vintagestory.at/show/mod/plantanythingapi</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plantanythingapi#11062</guid>
+    <pubDate>Sun, 23 Aug 2026 03:29:44 -0000</pubDate>
+    <description>API that allows simple json patchs to give items the ability to be planted as any block on any block</description>
+  </item>
+  <item>
+    <title>Packed Cob</title>
+    <link>https://mods.vintagestory.at/show/mod/packedcob</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/packedcob#11233</guid>
+    <pubDate>Sun, 23 Aug 2026 03:16:27 -0000</pubDate>
+    <description>Adds cob as a viable block for making (arid) packed dirt.</description>
+  </item>
+  <item>
+    <title>Vanilla armory</title>
+    <link>https://mods.vintagestory.at/show/mod/3927</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3927#3927</guid>
+    <pubDate>Sun, 23 Aug 2026 03:14:11 -0000</pubDate>
+    <description>Implements unused vanilla weapons and some armor in vanilla style</description>
+  </item>
   <item>
     <title>BotaniaStory</title>
     <link>https://mods.vintagestory.at/show/mod/8113</link>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11168#11168</guid>
     <pubDate>Sat, 22 Aug 2026 23:04:41 -0000</pubDate>
     <description>Eternal Stew actions give Cooking EXP and use Cooking Skill Buffs!</description>
-  </item>
-  <item>
-    <title>Eternal Stew x Hydrate or Dydrate Compatibility </title>
-    <link>https://mods.vintagestory.at/show/mod/11146</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11146#11146</guid>
-    <pubDate>Sat, 22 Aug 2026 23:04:02 -0000</pubDate>
-    <description>Ingredient-based hydration compatibility between Eternal Stew and Hydrate Or Diedrate.</description>
-  </item>
-  <item>
-    <title>Enter Notification Sound</title>
-    <link>https://mods.vintagestory.at/show/mod/8824</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8824#8824</guid>
-    <pubDate>Sat, 22 Aug 2026 22:53:10 -0000</pubDate>
-    <description>Just a notification sound when you join the world.</description>
-  </item>
-  <item>
-    <title>Grinding Wheel Rework</title>
-    <link>https://mods.vintagestory.at/show/mod/grindingwheelrework</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindingwheelrework#8252</guid>
-    <pubDate>Sat, 22 Aug 2026 22:27:13 -0000</pubDate>
-    <description>Expands grinding wheel to support more tools and turns sharpening into a lightweight repair system</description>
-  </item>
-  <item>
-    <title>Open Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/openclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/openclaims#10334</guid>
-    <pubDate>Sat, 22 Aug 2026 22:20:36 -0000</pubDate>
-    <description>GUI for claims and receive more blocks and areas to claim per hour</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Sat, 22 Aug 2026 21:54:16 -0000</pubDate>
-    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
-  </item>
-  <item>
-    <title>Niltrias's Sinster Animal Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/11219</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11219#11219</guid>
-    <pubDate>Sat, 22 Aug 2026 21:47:40 -0000</pubDate>
-    <description>Adds primitive tanning and calming gen 1 animals more.  Extensive AI.  For personal server. </description>
-  </item>
-  <item>
-    <title>Caeloria: Content</title>
-    <link>https://mods.vintagestory.at/show/mod/caeloriacontent</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caeloriacontent#9063</guid>
-    <pubDate>Sat, 22 Aug 2026 21:23:29 -0000</pubDate>
-    <description>Content pack for Caeloria: Reborn. Doesn't include any code mods, those are different mods.</description>
-  </item>
-  <item>
-    <title>Pencil</title>
-    <link>https://mods.vintagestory.at/show/mod/5427</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5427#5427</guid>
-    <pubDate>Sat, 22 Aug 2026 21:14:14 -0000</pubDate>
-    <description>Adds a pencil that can be used to write on signs and in books</description>
-  </item>
-  <item>
-    <title>Wooden Wrench</title>
-    <link>https://mods.vintagestory.at/show/mod/10314</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10314#10314</guid>
-    <pubDate>Sat, 22 Aug 2026 21:13:53 -0000</pubDate>
-    <description>Adds a wooden wrench</description>
-  </item>
-  <item>
-    <title>Metal Ladders</title>
-    <link>https://mods.vintagestory.at/show/mod/10212</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10212#10212</guid>
-    <pubDate>Sat, 22 Aug 2026 21:13:21 -0000</pubDate>
-    <description>Adds metal ladders</description>
   </item>
 </channel>
 </rss>
