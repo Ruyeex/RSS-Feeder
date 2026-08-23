@@ -4,7 +4,112 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 22 Aug 2026 23:22:57 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 01:29:23 +0000</lastBuildDate>
+  <item>
+    <title>Vintage Rift - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
+    <pubDate>Sun, 23 Aug 2026 01:24:37 -0000</pubDate>
+    <description>Client only code for the Vintage Rift server</description>
+  </item>
+  <item>
+    <title>Realistic Soap</title>
+    <link>https://mods.vintagestory.at/show/mod/realisticsoap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticsoap#10983</guid>
+    <pubDate>Sun, 23 Aug 2026 01:15:11 -0000</pubDate>
+    <description>Leach wood ash into lye, boil it with fat, cure the bars, then wash, because being filthy now costs</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
+    <pubDate>Sun, 23 Aug 2026 00:54:49 -0000</pubDate>
+    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
+  </item>
+  <item>
+    <title>Waxlight Launcher</title>
+    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
+    <pubDate>Sun, 23 Aug 2026 00:26:56 -0000</pubDate>
+    <description>A sleek Vintage Story launcher for instances, mods, accounts and playtime tracking.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Taming</title>
+    <link>https://mods.vintagestory.at/show/mod/fotsataming</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsataming#11206</guid>
+    <pubDate>Sun, 23 Aug 2026 00:25:50 -0000</pubDate>
+    <description>Adds taming ability through PetAI to allow a bunch of the FOTSA animals to be tamed.</description>
+  </item>
+  <item>
+    <title>Client MeshRef Leak Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/vsvaogc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsvaogc#11228</guid>
+    <pubDate>Sun, 23 Aug 2026 00:17:43 -0000</pubDate>
+    <description>Client MeshRef/VAO leak fix. Tested 1.22.6 on 5950X / 64GB / RTX 3090.</description>
+  </item>
+  <item>
+    <title>Prospector's Instinct</title>
+    <link>https://mods.vintagestory.at/show/mod/prospectorsinstinct</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/prospectorsinstinct#10192</guid>
+    <pubDate>Sat, 22 Aug 2026 23:59:06 -0000</pubDate>
+    <description>Subtle particle guidance that helps locate nearby ore while preserving the spirit of prospecting.</description>
+  </item>
+  <item>
+    <title>Fornax</title>
+    <link>https://mods.vintagestory.at/show/mod/fornax</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fornax#11226</guid>
+    <pubDate>Sat, 22 Aug 2026 23:56:20 -0000</pubDate>
+    <description>The kiln between the pit kiln and the beehive kiln. Mud brick, firewood, and no iron at all.</description>
+  </item>
+  <item>
+    <title>Stratum - High-performance server software.</title>
+    <link>https://mods.vintagestory.at/show/mod/stratum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stratum#9499</guid>
+    <pubDate>Sat, 22 Aug 2026 23:52:53 -0000</pubDate>
+    <description>Focused on smoother multiplayer servers, better performance under load and, practical tools.</description>
+  </item>
+  <item>
+    <title>TimeLord: Regeneration</title>
+    <link>https://mods.vintagestory.at/show/mod/11222</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11222#11222</guid>
+    <pubDate>Sat, 22 Aug 2026 23:52:28 -0000</pubDate>
+    <description>Doctor Who-inspired regeneration system with 12 lives, new appearances, and persistent progress.</description>
+  </item>
+  <item>
+    <title>Fanloid Fantweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10433</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10433#10433</guid>
+    <pubDate>Sat, 22 Aug 2026 23:47:34 -0000</pubDate>
+    <description>Misc patches.</description>
+  </item>
+  <item>
+    <title>Immersive Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivebackpacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpacks#9787</guid>
+    <pubDate>Sat, 22 Aug 2026 23:45:06 -0000</pubDate>
+    <description>An overhaul of backpack behavior and rendering in Vintage Story.</description>
+  </item>
+  <item>
+    <title>Rebalanced Lanterns</title>
+    <link>https://mods.vintagestory.at/show/mod/rebalancedlanterns</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rebalancedlanterns#11224</guid>
+    <pubDate>Sat, 22 Aug 2026 23:36:43 -0000</pubDate>
+    <description>Rebalances the Lantern Recipes to use less metal.</description>
+  </item>
+  <item>
+    <title>Upgrade Lanterns</title>
+    <link>https://mods.vintagestory.at/show/mod/upgradelanterns</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/upgradelanterns#11227</guid>
+    <pubDate>Sat, 22 Aug 2026 23:36:10 -0000</pubDate>
+    <description>Adds a recipe to simply upgrade small lanterns to large lanterns.</description>
+  </item>
+  <item>
+    <title>BotaniaStory</title>
+    <link>https://mods.vintagestory.at/show/mod/8113</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8113#8113</guid>
+    <pubDate>Sat, 22 Aug 2026 23:25:40 -0000</pubDate>
+    <description>BotaniaStory - nature magic, mana, and automation in Vintage Story!</description>
+  </item>
   <item>
     <title>More Rock Drops</title>
     <link>https://mods.vintagestory.at/show/mod/11223</link>
@@ -34,25 +139,11 @@
     <description>Just a notification sound when you join the world.</description>
   </item>
   <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Sat, 22 Aug 2026 22:29:06 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
     <title>Grinding Wheel Rework</title>
     <link>https://mods.vintagestory.at/show/mod/grindingwheelrework</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindingwheelrework#8252</guid>
     <pubDate>Sat, 22 Aug 2026 22:27:13 -0000</pubDate>
     <description>Expands grinding wheel to support more tools and turns sharpening into a lightweight repair system</description>
-  </item>
-  <item>
-    <title>TimeLord: Regeneration</title>
-    <link>https://mods.vintagestory.at/show/mod/11222</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11222#11222</guid>
-    <pubDate>Sat, 22 Aug 2026 22:25:23 -0000</pubDate>
-    <description>Doctor Who-inspired regeneration system with 12 lives, new appearances, and persistent progress.</description>
   </item>
   <item>
     <title>Open Claims</title>
@@ -123,97 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
     <pubDate>Sat, 22 Aug 2026 20:51:22 -0000</pubDate>
     <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Even Jug Increments (Fork)</title>
-    <link>https://mods.vintagestory.at/show/mod/5543</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5543#5543</guid>
-    <pubDate>Sat, 22 Aug 2026 20:44:48 -0000</pubDate>
-    <description>Updated fork of Even Jug Increments</description>
-  </item>
-  <item>
-    <title>Elk Adornments</title>
-    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
-    <pubDate>Sat, 22 Aug 2026 20:44:19 -0000</pubDate>
-    <description>Masks for you and your elk with Modular Elk Armor!</description>
-  </item>
-  <item>
-    <title>Arrows and Slings</title>
-    <link>https://mods.vintagestory.at/show/mod/arrowsnslings</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arrowsnslings#9546</guid>
-    <pubDate>Sat, 22 Aug 2026 20:38:33 -0000</pubDate>
-    <description>Buff arrows, adds sling progression, and additional sling projectiles</description>
-  </item>
-  <item>
-    <title>Seraphs Ledger</title>
-    <link>https://mods.vintagestory.at/show/mod/9783</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9783#9783</guid>
-    <pubDate>Sat, 22 Aug 2026 20:27:01 -0000</pubDate>
-    <description>Swap one building material for another across an entire selection.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Taming</title>
-    <link>https://mods.vintagestory.at/show/mod/fotsataming</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsataming#11206</guid>
-    <pubDate>Sat, 22 Aug 2026 20:06:53 -0000</pubDate>
-    <description>Adds taming ability through PetAI to allow a bunch of the FOTSA animals to be tamed.</description>
-  </item>
-  <item>
-    <title>Interesting M&amp;E Muck Shovel patch for Immersive Mining</title>
-    <link>https://mods.vintagestory.at/show/mod/muckshovelimcompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muckshovelimcompat#11218</guid>
-    <pubDate>Sat, 22 Aug 2026 19:56:52 -0000</pubDate>
-    <description>Patch to Interesting Mining &amp; Extraction Muck Shovels for Immersive Mining compatibility</description>
-  </item>
-  <item>
-    <title>Rift Traveler</title>
-    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
-    <pubDate>Sat, 22 Aug 2026 19:42:23 -0000</pubDate>
-    <description>Explore or close rifts, craft temporal tech, teleport home, and transmit cargo across dimensions</description>
-  </item>
-  <item>
-    <title>Real Smoke &amp; Ancient Tools patch</title>
-    <link>https://mods.vintagestory.at/show/mod/realsmokeforancienttools</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmokeforancienttools#5072</guid>
-    <pubDate>Sat, 22 Aug 2026 19:40:18 -0000</pubDate>
-    <description>Compatibility patch for Real Smoke &amp; Ancient Tools</description>
-  </item>
-  <item>
-    <title>Real Smoke &amp; Braziers patch</title>
-    <link>https://mods.vintagestory.at/show/mod/realsmokeforbraziers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmokeforbraziers#5073</guid>
-    <pubDate>Sat, 22 Aug 2026 19:40:05 -0000</pubDate>
-    <description>Compatibility patch for Real Smoke &amp; Braziers</description>
-  </item>
-  <item>
-    <title>XV Shaders</title>
-    <link>https://mods.vintagestory.at/show/mod/xvshaders</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xvshaders#5463</guid>
-    <pubDate>Sat, 22 Aug 2026 19:39:54 -0000</pubDate>
-    <description>Unique &amp; configurable shaders</description>
-  </item>
-  <item>
-    <title>SlowTox</title>
-    <link>https://mods.vintagestory.at/show/mod/slowtox</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slowtox#4443</guid>
-    <pubDate>Sat, 22 Aug 2026 19:39:41 -0000</pubDate>
-    <description>Makes alcohol useful and more realistic</description>
-  </item>
-  <item>
-    <title>Real Smoke</title>
-    <link>https://mods.vintagestory.at/show/mod/realsmoke</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmoke#4591</guid>
-    <pubDate>Sat, 22 Aug 2026 19:39:25 -0000</pubDate>
-    <description>Physics-based smoke</description>
-  </item>
-  <item>
-    <title>Fahlore (Pale ore)</title>
-    <link>https://mods.vintagestory.at/show/mod/fahlores</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fahlores#500</guid>
-    <pubDate>Sat, 22 Aug 2026 19:24:47 -0000</pubDate>
-    <description>New ore</description>
   </item>
 </channel>
 </rss>
