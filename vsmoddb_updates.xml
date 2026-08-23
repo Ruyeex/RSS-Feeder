@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 23 Aug 2026 05:31:37 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 06:44:17 +0000</lastBuildDate>
+  <item>
+    <title>Grouped Ore Names</title>
+    <link>https://mods.vintagestory.at/show/mod/groupedorenames</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/groupedorenames#11235</guid>
+    <pubDate>Sun, 23 Aug 2026 06:08:21 -0000</pubDate>
+    <description>Groups ore names by their resulting metal in the game.</description>
+  </item>
   <item>
     <title>Alchemy</title>
     <link>https://mods.vintagestory.at/show/mod/alchemy</link>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/upgradelanterns#11227</guid>
     <pubDate>Sat, 22 Aug 2026 23:36:10 -0000</pubDate>
     <description>Adds a recipe to simply upgrade small lanterns to large lanterns.</description>
-  </item>
-  <item>
-    <title>More Rock Drops</title>
-    <link>https://mods.vintagestory.at/show/mod/11223</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11223#11223</guid>
-    <pubDate>Sat, 22 Aug 2026 23:07:06 -0000</pubDate>
-    <description>Stone blocks now drop more rocks.</description>
   </item>
 </channel>
 </rss>
