@@ -4,20 +4,62 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 23 Aug 2026 08:32:59 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 09:30:09 +0000</lastBuildDate>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Sun, 23 Aug 2026 09:06:24 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
+  <item>
+    <title>Solaria Fashions</title>
+    <link>https://mods.vintagestory.at/show/mod/solariafashions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/solariafashions#11236</guid>
+    <pubDate>Sun, 23 Aug 2026 09:03:22 -0000</pubDate>
+    <description>Solaria Fashions Presents: Better Blindfolds &amp; Cat Ears </description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Sun, 23 Aug 2026 08:55:24 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>Fahlore (Pale ore)</title>
+    <link>https://mods.vintagestory.at/show/mod/fahlores</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fahlores#500</guid>
+    <pubDate>Sun, 23 Aug 2026 08:42:41 -0000</pubDate>
+    <description>New ore</description>
+  </item>
+  <item>
+    <title>Louder Bears</title>
+    <link>https://mods.vintagestory.at/show/mod/louderbears</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/louderbears#7726</guid>
+    <pubDate>Sun, 23 Aug 2026 08:38:33 -0000</pubDate>
+    <description>Amplified bear noises to be more noticible.</description>
+  </item>
+  <item>
+    <title>Will Is A Bear</title>
+    <link>https://mods.vintagestory.at/show/mod/willisabear</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/willisabear#7752</guid>
+    <pubDate>Sun, 23 Aug 2026 08:37:44 -0000</pubDate>
+    <description>TTS voice over Bear noises.</description>
+  </item>
+  <item>
+    <title>Vintage Healing</title>
+    <link>https://mods.vintagestory.at/show/mod/vsheal</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsheal#11190</guid>
+    <pubDate>Sun, 23 Aug 2026 08:35:22 -0000</pubDate>
+    <description>Adds antiseptic, slow healing poultices and bandages.</description>
+  </item>
   <item>
     <title>Achievements</title>
     <link>https://mods.vintagestory.at/show/mod/achievements</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/achievements#8202</guid>
     <pubDate>Sun, 23 Aug 2026 07:48:12 -0000</pubDate>
     <description>Adds vanilla, lore, AllClasses, Hod and Primitive Survival Achievements and random rewards</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Sun, 23 Aug 2026 07:44:59 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
   </item>
   <item>
     <title>Bikini Bear</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivelightrbmfix#11229</guid>
     <pubDate>Sun, 23 Aug 2026 01:35:05 -0000</pubDate>
     <description>Fixes manatorches that stay dark after being relit by a spell + some extras</description>
-  </item>
-  <item>
-    <title>Hot Tubs</title>
-    <link>https://mods.vintagestory.at/show/mod/hottubs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hottubs#11230</guid>
-    <pubDate>Sun, 23 Aug 2026 01:27:26 -0000</pubDate>
-    <description>Build a hot tub of any shape from floors, walls, corners, benches and a firebox, all sharing one bod</description>
-  </item>
-  <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Sun, 23 Aug 2026 01:24:37 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
-    <title>Realistic Soap</title>
-    <link>https://mods.vintagestory.at/show/mod/realisticsoap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticsoap#10983</guid>
-    <pubDate>Sun, 23 Aug 2026 01:15:11 -0000</pubDate>
-    <description>Leach wood ash into lye, boil it with fat, cure the bars, then wash, because being filthy now costs</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
-    <pubDate>Sun, 23 Aug 2026 00:54:49 -0000</pubDate>
-    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
-  </item>
-  <item>
-    <title>Waxlight Launcher</title>
-    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
-    <pubDate>Sun, 23 Aug 2026 00:26:56 -0000</pubDate>
-    <description>A sleek Vintage Story launcher for instances, mods, accounts and playtime tracking.</description>
-  </item>
-  <item>
-    <title>Client MeshRef Leak Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/vsvaogc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsvaogc#11228</guid>
-    <pubDate>Sun, 23 Aug 2026 00:17:43 -0000</pubDate>
-    <description>Stops FPS drops and stuttering from a long-session graphics memory leak. Client-only.</description>
   </item>
 </channel>
 </rss>
