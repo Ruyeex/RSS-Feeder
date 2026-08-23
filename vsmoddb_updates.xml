@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 23 Aug 2026 14:25:49 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 15:24:56 +0000</lastBuildDate>
+  <item>
+    <title>TraderTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10569</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
+    <pubDate>Sun, 23 Aug 2026 15:22:55 -0000</pubDate>
+    <description>Allow to manage traders</description>
+  </item>
+  <item>
+    <title>Vintage Canvas</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagecanvas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagecanvas#9406</guid>
+    <pubDate>Sun, 23 Aug 2026 15:16:33 -0000</pubDate>
+    <description>Craft canvases, mix paint, and use brushes to decorate your world!</description>
+  </item>
+  <item>
+    <title>BotaniaStory</title>
+    <link>https://mods.vintagestory.at/show/mod/8113</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8113#8113</guid>
+    <pubDate>Sun, 23 Aug 2026 15:16:29 -0000</pubDate>
+    <description>BotaniaStory - nature magic, mana, and automation in Vintage Story!</description>
+  </item>
+  <item>
+    <title>Chat Translator</title>
+    <link>https://mods.vintagestory.at/show/mod/chattranslator</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chattranslator#1640</guid>
+    <pubDate>Sun, 23 Aug 2026 15:11:37 -0000</pubDate>
+    <description>Translate incoming chat messages into your language and reply in chat participants' language.</description>
+  </item>
+  <item>
+    <title>RiverGen</title>
+    <link>https://mods.vintagestory.at/show/mod/rivergen</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rivergen#2830</guid>
+    <pubDate>Sun, 23 Aug 2026 15:11:14 -0000</pubDate>
+    <description>Server-side river terrain generation mod.</description>
+  </item>
+  <item>
+    <title>The Revived Lands [PATCHES]</title>
+    <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
+    <pubDate>Sun, 23 Aug 2026 15:08:00 -0000</pubDate>
+    <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
+  </item>
+  <item>
+    <title>Bacon Bacon Bacon</title>
+    <link>https://mods.vintagestory.at/show/mod/baconbaconbacon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/baconbaconbacon#6895</guid>
+    <pubDate>Sun, 23 Aug 2026 14:52:53 -0000</pubDate>
+    <description>The first and (so far) only entirely and ridiculously bacon-centric mod for Vintage Story</description>
+  </item>
+  <item>
+    <title>ReinforcedTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/11245</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11245#11245</guid>
+    <pubDate>Sun, 23 Aug 2026 14:51:48 -0000</pubDate>
+    <description>ADD Option to Plumb and Square</description>
+  </item>
+  <item>
+    <title>Empty Village</title>
+    <link>https://mods.vintagestory.at/show/mod/10064</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10064#10064</guid>
+    <pubDate>Sun, 23 Aug 2026 14:45:01 -0000</pubDate>
+    <description>Adds empty villages to world generation.</description>
+  </item>
+  <item>
+    <title>Radial Menu: Arrows and Bolts</title>
+    <link>https://mods.vintagestory.at/show/mod/radialmenuarrowsandbolts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/radialmenuarrowsandbolts#11241</guid>
+    <pubDate>Sun, 23 Aug 2026 14:36:12 -0000</pubDate>
+    <description>Radial ammo selector for bows and crossbows, compatible with popular combat and ammo mods.</description>
+  </item>
+  <item>
+    <title>Grinding Wheel Rework</title>
+    <link>https://mods.vintagestory.at/show/mod/grindingwheelrework</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindingwheelrework#8252</guid>
+    <pubDate>Sun, 23 Aug 2026 14:27:48 -0000</pubDate>
+    <description>Expands grinding wheel to support more tools and turns sharpening into a lightweight repair system</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Sun, 23 Aug 2026 14:26:25 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
   <item>
     <title>Gunboat</title>
     <link>https://mods.vintagestory.at/show/mod/gunboat</link>
@@ -83,13 +167,6 @@
     <description>Place any item as decoration on floors, walls and ceilings. Up to 64 items per cell.</description>
   </item>
   <item>
-    <title>Radial Menu: Arrows and Bolts</title>
-    <link>https://mods.vintagestory.at/show/mod/radialmenuarrowsandbolts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/radialmenuarrowsandbolts#11241</guid>
-    <pubDate>Sun, 23 Aug 2026 12:01:23 -0000</pubDate>
-    <description>Radial ammo selector for bows and crossbows, compatible with popular combat and ammo mods.</description>
-  </item>
-  <item>
     <title>Expanded Foods Fowlmod Compat</title>
     <link>https://mods.vintagestory.at/show/mod/9158</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9158#9158</guid>
@@ -125,13 +202,6 @@
     <description>A derivative Version of the Germanrefined Mod, which overhauls the german translation of the game!</description>
   </item>
   <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Sun, 23 Aug 2026 11:17:19 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
-  </item>
-  <item>
     <title>The Hunter</title>
     <link>https://mods.vintagestory.at/show/mod/thehunter</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shadehouse#8698</guid>
     <pubDate>Sun, 23 Aug 2026 10:49:10 -0000</pubDate>
     <description>Adds a way to build a 'shadehouse', to grow crops in hot temperatures.</description>
-  </item>
-  <item>
-    <title>Threnkal</title>
-    <link>https://mods.vintagestory.at/show/mod/threnkal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/threnkal#10944</guid>
-    <pubDate>Sun, 23 Aug 2026 10:45:38 -0000</pubDate>
-    <description>A race of cow folks based on minotaurs and taurens from WoW.</description>
-  </item>
-  <item>
-    <title>Tweakfactory</title>
-    <link>https://mods.vintagestory.at/show/mod/tweakfactory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tweakfactory#10875</guid>
-    <pubDate>Sun, 23 Aug 2026 10:42:41 -0000</pubDate>
-    <description>Tweakmod um Klassenspezifische Rezepte einzubinden.</description>
-  </item>
-  <item>
-    <title>Butchering</title>
-    <link>https://mods.vintagestory.at/show/mod/butchering</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butchering#1505</guid>
-    <pubDate>Sun, 23 Aug 2026 10:37:54 -0000</pubDate>
-    <description>A more immersive butchery system for processing animals</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
-    <pubDate>Sun, 23 Aug 2026 10:24:34 -0000</pubDate>
-    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
-  </item>
-  <item>
-    <title>Solaria Fashions</title>
-    <link>https://mods.vintagestory.at/show/mod/solariafashions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/solariafashions#11236</guid>
-    <pubDate>Sun, 23 Aug 2026 10:21:07 -0000</pubDate>
-    <description>Solaria Fashions Presents: Better Blindfolds &amp; Cat Ears </description>
-  </item>
-  <item>
-    <title>C&amp;N Events</title>
-    <link>https://mods.vintagestory.at/show/mod/canevents</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
-    <pubDate>Sun, 23 Aug 2026 10:08:50 -0000</pubDate>
-    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
-  </item>
-  <item>
-    <title>GermanRefined</title>
-    <link>https://mods.vintagestory.at/show/mod/germanrefined</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/germanrefined#7681</guid>
-    <pubDate>Sun, 23 Aug 2026 10:05:52 -0000</pubDate>
-    <description>Syncs the german translation to the current Crowdin Version!</description>
-  </item>
-  <item>
-    <title>VintageStory D'Août</title>
-    <link>https://mods.vintagestory.at/show/mod/vinstagestoryaout</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vinstagestoryaout#11164</guid>
-    <pubDate>Sun, 23 Aug 2026 09:57:02 -0000</pubDate>
-    <description> This modpack contains all the mods used on the Vintage Story server hosted by Pressea.</description>
-  </item>
-  <item>
-    <title>De Artibus Rusticis</title>
-    <link>https://mods.vintagestory.at/show/mod/deartibusrusticis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deartibusrusticis#11159</guid>
-    <pubDate>Sun, 23 Aug 2026 09:51:42 -0000</pubDate>
-    <description>Adds 19 new crops and 4 meals inspired by medieval European agriculture.</description>
-  </item>
-  <item>
-    <title>LauncherGo</title>
-    <link>https://mods.vintagestory.at/show/mod/launchergo</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergo#9280</guid>
-    <pubDate>Sun, 23 Aug 2026 09:44:59 -0000</pubDate>
-    <description>LauncherGo is a graphical server launcher for Vintage Story.</description>
   </item>
 </channel>
 </rss>
