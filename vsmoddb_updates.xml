@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 23 Aug 2026 13:33:29 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 14:25:49 +0000</lastBuildDate>
+  <item>
+    <title>Gunboat</title>
+    <link>https://mods.vintagestory.at/show/mod/gunboat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gunboat#11238</guid>
+    <pubDate>Sun, 23 Aug 2026 14:07:31 -0000</pubDate>
+    <description>Gunboats and other Warships</description>
+  </item>
+  <item>
+    <title>Rusty Shell CO Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/rustyshellcofork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustyshellcofork#11237</guid>
+    <pubDate>Sun, 23 Aug 2026 14:06:01 -0000</pubDate>
+    <description>Combat Overhaul compatible fork</description>
+  </item>
+  <item>
+    <title>QuasimoDOVS Clock</title>
+    <link>https://mods.vintagestory.at/show/mod/11244</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11244#11244</guid>
+    <pubDate>Sun, 23 Aug 2026 13:55:42 -0000</pubDate>
+    <description>Easy access to fast info at your screen! QuasimoDOVS Clock!</description>
+  </item>
   <item>
     <title>Spiro Story Renewal</title>
     <link>https://mods.vintagestory.at/show/mod/spirostoryrenewal</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergo#9280</guid>
     <pubDate>Sun, 23 Aug 2026 09:44:59 -0000</pubDate>
     <description>LauncherGo is a graphical server launcher for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Sun, 23 Aug 2026 09:06:24 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
-    <title>Fahlore (Pale ore)</title>
-    <link>https://mods.vintagestory.at/show/mod/fahlores</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fahlores#500</guid>
-    <pubDate>Sun, 23 Aug 2026 08:42:41 -0000</pubDate>
-    <description>New ore</description>
-  </item>
-  <item>
-    <title>Louder Bears</title>
-    <link>https://mods.vintagestory.at/show/mod/louderbears</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/louderbears#7726</guid>
-    <pubDate>Sun, 23 Aug 2026 08:38:33 -0000</pubDate>
-    <description>Amplified bear noises to be more noticible.</description>
   </item>
 </channel>
 </rss>
