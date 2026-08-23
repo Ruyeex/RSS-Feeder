@@ -4,13 +4,55 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 23 Aug 2026 06:44:17 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 07:34:35 +0000</lastBuildDate>
+  <item>
+    <title>Expanded Matter</title>
+    <link>https://mods.vintagestory.at/show/mod/em</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/em#496</guid>
+    <pubDate>Sun, 23 Aug 2026 07:23:03 -0000</pubDate>
+    <description>Library for ore, materials and item variants. Extends VS existing ore.</description>
+  </item>
   <item>
     <title>Grouped Ore Names</title>
     <link>https://mods.vintagestory.at/show/mod/groupedorenames</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/groupedorenames#11235</guid>
-    <pubDate>Sun, 23 Aug 2026 06:08:21 -0000</pubDate>
+    <pubDate>Sun, 23 Aug 2026 07:22:59 -0000</pubDate>
     <description>Groups ore names by their resulting metal in the game.</description>
+  </item>
+  <item>
+    <title>CB Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
+    <pubDate>Sun, 23 Aug 2026 07:10:38 -0000</pubDate>
+    <description>JSON content patches</description>
+  </item>
+  <item>
+    <title>CB Quests</title>
+    <link>https://mods.vintagestory.at/show/mod/10819</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10819#10819</guid>
+    <pubDate>Sun, 23 Aug 2026 07:09:06 -0000</pubDate>
+    <description>Adds quests for the the CB server</description>
+  </item>
+  <item>
+    <title>CB Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Sun, 23 Aug 2026 07:07:43 -0000</pubDate>
+    <description>Skill and class mod for the CB server</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Taming</title>
+    <link>https://mods.vintagestory.at/show/mod/fotsataming</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsataming#11206</guid>
+    <pubDate>Sun, 23 Aug 2026 06:58:59 -0000</pubDate>
+    <description>Adds taming ability through PetAI to allow a bunch of the FOTSA animals to be tamed.</description>
+  </item>
+  <item>
+    <title>Advanced Geology</title>
+    <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedgeology#7167</guid>
+    <pubDate>Sun, 23 Aug 2026 06:55:56 -0000</pubDate>
+    <description>Adds new, realistic ores and stones with heavy IOG compatibility</description>
   </item>
   <item>
     <title>Alchemy</title>
@@ -104,13 +146,6 @@
     <description>Add some difficulty to your world with spreading evils with dangerous enemies and unique mechanics</description>
   </item>
   <item>
-    <title>Fauna of the Stone Age: Taming</title>
-    <link>https://mods.vintagestory.at/show/mod/fotsataming</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsataming#11206</guid>
-    <pubDate>Sun, 23 Aug 2026 01:56:49 -0000</pubDate>
-    <description>Adds taming ability through PetAI to allow a bunch of the FOTSA animals to be tamed.</description>
-  </item>
-  <item>
     <title>Immersive Light + Rustbound Magic Compat</title>
     <link>https://mods.vintagestory.at/show/mod/immersivelightrbmfix</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivelightrbmfix#11229</guid>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stratum#9499</guid>
     <pubDate>Sat, 22 Aug 2026 23:52:53 -0000</pubDate>
     <description>Focused on smoother multiplayer servers, better performance under load and, practical tools.</description>
-  </item>
-  <item>
-    <title>TimeLord: Regeneration</title>
-    <link>https://mods.vintagestory.at/show/mod/11222</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11222#11222</guid>
-    <pubDate>Sat, 22 Aug 2026 23:52:28 -0000</pubDate>
-    <description>Doctor Who-inspired regeneration system with 12 lives, new appearances, and persistent progress.</description>
-  </item>
-  <item>
-    <title>Fanloid Fantweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10433</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10433#10433</guid>
-    <pubDate>Sat, 22 Aug 2026 23:47:34 -0000</pubDate>
-    <description>Misc patches.</description>
-  </item>
-  <item>
-    <title>Immersive Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivebackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpacks#9787</guid>
-    <pubDate>Sat, 22 Aug 2026 23:45:06 -0000</pubDate>
-    <description>An overhaul of backpack behavior and rendering in Vintage Story.</description>
-  </item>
-  <item>
-    <title>Rebalanced Lanterns</title>
-    <link>https://mods.vintagestory.at/show/mod/rebalancedlanterns</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rebalancedlanterns#11224</guid>
-    <pubDate>Sat, 22 Aug 2026 23:36:43 -0000</pubDate>
-    <description>Rebalances the Lantern Recipes to use less metal.</description>
-  </item>
-  <item>
-    <title>Upgrade Lanterns</title>
-    <link>https://mods.vintagestory.at/show/mod/upgradelanterns</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/upgradelanterns#11227</guid>
-    <pubDate>Sat, 22 Aug 2026 23:36:10 -0000</pubDate>
-    <description>Adds a recipe to simply upgrade small lanterns to large lanterns.</description>
   </item>
 </channel>
 </rss>
