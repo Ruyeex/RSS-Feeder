@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 23 Aug 2026 10:26:23 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 11:22:43 +0000</lastBuildDate>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Sun, 23 Aug 2026 11:17:19 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>The Hunter</title>
+    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
+    <pubDate>Sun, 23 Aug 2026 11:01:10 -0000</pubDate>
+    <description>Track prey, follow blood, carry carcasses, compost dung, and have smarter wolves.</description>
+  </item>
+  <item>
+    <title>Shadehouse</title>
+    <link>https://mods.vintagestory.at/show/mod/shadehouse</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shadehouse#8698</guid>
+    <pubDate>Sun, 23 Aug 2026 10:49:10 -0000</pubDate>
+    <description>Adds a way to build a 'shadehouse', to grow crops in hot temperatures.</description>
+  </item>
+  <item>
+    <title>Threnkal</title>
+    <link>https://mods.vintagestory.at/show/mod/threnkal</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/threnkal#10944</guid>
+    <pubDate>Sun, 23 Aug 2026 10:45:38 -0000</pubDate>
+    <description>A race of cow folks based on minotaurs and taurens from WoW.</description>
+  </item>
+  <item>
+    <title>Tweakfactory</title>
+    <link>https://mods.vintagestory.at/show/mod/tweakfactory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tweakfactory#10875</guid>
+    <pubDate>Sun, 23 Aug 2026 10:42:41 -0000</pubDate>
+    <description>Tweakmod um Klassenspezifische Rezepte einzubinden.</description>
+  </item>
+  <item>
+    <title>Butchering</title>
+    <link>https://mods.vintagestory.at/show/mod/butchering</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butchering#1505</guid>
+    <pubDate>Sun, 23 Aug 2026 10:37:54 -0000</pubDate>
+    <description>A more immersive butchery system for processing animals</description>
+  </item>
   <item>
     <title>Eternal Seraph: Patch</title>
     <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
@@ -60,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
     <pubDate>Sun, 23 Aug 2026 09:06:24 -0000</pubDate>
     <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Sun, 23 Aug 2026 08:55:24 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
   </item>
   <item>
     <title>Fahlore (Pale ore)</title>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11123#11123</guid>
     <pubDate>Sun, 23 Aug 2026 04:07:26 -0000</pubDate>
     <description>Handbook crashguard and etc for All Things RPG server</description>
-  </item>
-  <item>
-    <title>Seraph Leveling ReClassed</title>
-    <link>https://mods.vintagestory.at/show/mod/11234</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11234#11234</guid>
-    <pubDate>Sun, 23 Aug 2026 04:01:59 -0000</pubDate>
-    <description>Level up and gain traits in a vanilla-friendly way, with additional mod support</description>
-  </item>
-  <item>
-    <title>Algernon's Watersheds</title>
-    <link>https://mods.vintagestory.at/show/mod/algernonswatersheds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/algernonswatersheds#7286</guid>
-    <pubDate>Sun, 23 Aug 2026 04:01:11 -0000</pubDate>
-    <description>Worldgen revamp using a Watershed model. Adds meandering streams, groundwater, and erosion</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Sun, 23 Aug 2026 03:51:33 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Chonky Kitchenware</title>
-    <link>https://mods.vintagestory.at/show/mod/9694</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9694#9694</guid>
-    <pubDate>Sun, 23 Aug 2026 03:46:18 -0000</pubDate>
-    <description>This mod aims to make your kitchen feel more cozy, giving it a personal touch!</description>
-  </item>
-  <item>
-    <title>Chonky Vessels</title>
-    <link>https://mods.vintagestory.at/show/mod/7686</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7686#7686</guid>
-    <pubDate>Sun, 23 Aug 2026 03:45:52 -0000</pubDate>
-    <description>Adds chonkier vessels &amp; more with better storage and spoilage properties.</description>
   </item>
 </channel>
 </rss>
