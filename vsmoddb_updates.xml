@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 23 Aug 2026 16:28:36 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 17:22:09 +0000</lastBuildDate>
+  <item>
+    <title>Deciduous Trees</title>
+    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
+    <pubDate>Sun, 23 Aug 2026 17:16:50 -0000</pubDate>
+    <description>Trees slowly shed their leaves based on temperature. Vanilla or Eco Machina compatible.</description>
+  </item>
+  <item>
+    <title>Leaf Litter</title>
+    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
+    <pubDate>Sun, 23 Aug 2026 17:16:24 -0000</pubDate>
+    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
+  </item>
+  <item>
+    <title>Creative Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/11248</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11248#11248</guid>
+    <pubDate>Sun, 23 Aug 2026 17:13:50 -0000</pubDate>
+    <description>Creative Crafting adds a functional crafting grid to Vintage Story’s Creative mode</description>
+  </item>
+  <item>
+    <title>Land Of Estrellas</title>
+    <link>https://mods.vintagestory.at/show/mod/loe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/loe#10629</guid>
+    <pubDate>Sun, 23 Aug 2026 17:10:23 -0000</pubDate>
+    <description>The offical modpack of The Land of Estrellas server </description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Sun, 23 Aug 2026 16:52:37 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
   <item>
     <title>Catch and Release: Fish</title>
     <link>https://mods.vintagestory.at/show/mod/crfish</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
     <pubDate>Sun, 23 Aug 2026 12:23:07 -0000</pubDate>
     <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Sun, 23 Aug 2026 12:21:39 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>Emotes</title>
-    <link>https://mods.vintagestory.at/show/mod/emotes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/emotes#8235</guid>
-    <pubDate>Sun, 23 Aug 2026 12:21:32 -0000</pubDate>
-    <description>Adds more custom emotes to the game.</description>
-  </item>
-  <item>
-    <title>CAN Jewelry: Adornments</title>
-    <link>https://mods.vintagestory.at/show/mod/canjewelryadornments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelryadornments#11242</guid>
-    <pubDate>Sun, 23 Aug 2026 12:20:45 -0000</pubDate>
-    <description>Wearable jewelry - rings, earrings, tiaras, necklaces, monocles and more - plus display stands, all </description>
-  </item>
-  <item>
-    <title>Place it Anywhere</title>
-    <link>https://mods.vintagestory.at/show/mod/9914</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9914#9914</guid>
-    <pubDate>Sun, 23 Aug 2026 12:16:16 -0000</pubDate>
-    <description>Place any item as decoration on floors, walls and ceilings. Up to 64 items per cell.</description>
-  </item>
-  <item>
-    <title>Expanded Foods Fowlmod Compat</title>
-    <link>https://mods.vintagestory.at/show/mod/9158</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9158#9158</guid>
-    <pubDate>Sun, 23 Aug 2026 11:57:45 -0000</pubDate>
-    <description>Compatibility patches for Expanded Foods and Fowl</description>
   </item>
 </channel>
 </rss>
