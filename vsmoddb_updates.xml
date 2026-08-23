@@ -4,13 +4,62 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 23 Aug 2026 18:32:35 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 19:23:09 +0000</lastBuildDate>
+  <item>
+    <title>Floral Zones: Cape Region</title>
+    <link>https://mods.vintagestory.at/show/mod/floralzonescaperegion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescaperegion#1570</guid>
+    <pubDate>Sun, 23 Aug 2026 19:21:58 -0000</pubDate>
+    <description>Adds plants from the Cape Region to the game.</description>
+  </item>
+  <item>
+    <title>Tardis</title>
+    <link>https://mods.vintagestory.at/show/mod/tardis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tardis#11072</guid>
+    <pubDate>Sun, 23 Aug 2026 19:13:02 -0000</pubDate>
+    <description>A working TARDIS with a bigger-on-the-inside interior, flight, rooms, keys and a sonic.</description>
+  </item>
+  <item>
+    <title>Windlass</title>
+    <link>https://mods.vintagestory.at/show/mod/11191</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11191#11191</guid>
+    <pubDate>Sun, 23 Aug 2026 19:11:27 -0000</pubDate>
+    <description>Elevator</description>
+  </item>
+  <item>
+    <title>Animalica - Abilities</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicaa</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaa#10949</guid>
+    <pubDate>Sun, 23 Aug 2026 19:06:58 -0000</pubDate>
+    <description>Species-gated Scent and Night Sight for Animalica and compatible player models. (more soon)</description>
+  </item>
+  <item>
+    <title>Fornax</title>
+    <link>https://mods.vintagestory.at/show/mod/fornax</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fornax#11226</guid>
+    <pubDate>Sun, 23 Aug 2026 18:54:50 -0000</pubDate>
+    <description>The kiln between the pit kiln and the beehive kiln. Mud brick, firewood, and no iron at all.</description>
+  </item>
   <item>
     <title>Bacon Bacon Bacon</title>
     <link>https://mods.vintagestory.at/show/mod/baconbaconbacon</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/baconbaconbacon#6895</guid>
-    <pubDate>Sun, 23 Aug 2026 18:32:12 -0000</pubDate>
+    <pubDate>Sun, 23 Aug 2026 18:49:05 -0000</pubDate>
     <description>The first and (so far) only entirely and ridiculously bacon-centric mod for Vintage Story</description>
+  </item>
+  <item>
+    <title>Client MeshRef Leak Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/vsvaogc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsvaogc#11228</guid>
+    <pubDate>Sun, 23 Aug 2026 18:48:08 -0000</pubDate>
+    <description>Stops FPS drops and stuttering from a long-session graphics memory leak. Client-only.</description>
+  </item>
+  <item>
+    <title>Farmer Class</title>
+    <link>https://mods.vintagestory.at/show/mod/9658</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9658#9658</guid>
+    <pubDate>Sun, 23 Aug 2026 18:36:25 -0000</pubDate>
+    <description>Bigger crop harvests and wears heavy armor with ease.</description>
   </item>
   <item>
     <title>MailboxTrade</title>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
     <pubDate>Sun, 23 Aug 2026 15:08:00 -0000</pubDate>
     <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
-  </item>
-  <item>
-    <title>ReinforcedTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/11245</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11245#11245</guid>
-    <pubDate>Sun, 23 Aug 2026 14:51:48 -0000</pubDate>
-    <description>ADD Option to Plumb and Square</description>
-  </item>
-  <item>
-    <title>Empty Village</title>
-    <link>https://mods.vintagestory.at/show/mod/10064</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10064#10064</guid>
-    <pubDate>Sun, 23 Aug 2026 14:45:01 -0000</pubDate>
-    <description>Adds empty villages to world generation.</description>
-  </item>
-  <item>
-    <title>Radial Menu: Arrows and Bolts</title>
-    <link>https://mods.vintagestory.at/show/mod/radialmenuarrowsandbolts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/radialmenuarrowsandbolts#11241</guid>
-    <pubDate>Sun, 23 Aug 2026 14:36:12 -0000</pubDate>
-    <description>Radial ammo selector for bows and crossbows, compatible with popular combat and ammo mods.</description>
-  </item>
-  <item>
-    <title>Grinding Wheel Rework</title>
-    <link>https://mods.vintagestory.at/show/mod/grindingwheelrework</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindingwheelrework#8252</guid>
-    <pubDate>Sun, 23 Aug 2026 14:27:48 -0000</pubDate>
-    <description>Expands grinding wheel to support more tools and turns sharpening into a lightweight repair system</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Sun, 23 Aug 2026 14:26:25 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
-  </item>
-  <item>
-    <title>Gunboat</title>
-    <link>https://mods.vintagestory.at/show/mod/gunboat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gunboat#11238</guid>
-    <pubDate>Sun, 23 Aug 2026 14:07:31 -0000</pubDate>
-    <description>Gunboats and other Warships</description>
-  </item>
-  <item>
-    <title>Rusty Shell CO Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/rustyshellcofork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustyshellcofork#11237</guid>
-    <pubDate>Sun, 23 Aug 2026 14:06:01 -0000</pubDate>
-    <description>Combat Overhaul compatible fork</description>
   </item>
 </channel>
 </rss>
