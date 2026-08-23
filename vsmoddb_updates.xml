@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 23 Aug 2026 17:22:09 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 18:32:35 +0000</lastBuildDate>
+  <item>
+    <title>Bacon Bacon Bacon</title>
+    <link>https://mods.vintagestory.at/show/mod/baconbaconbacon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/baconbaconbacon#6895</guid>
+    <pubDate>Sun, 23 Aug 2026 18:32:12 -0000</pubDate>
+    <description>The first and (so far) only entirely and ridiculously bacon-centric mod for Vintage Story</description>
+  </item>
+  <item>
+    <title>MailboxTrade</title>
+    <link>https://mods.vintagestory.at/show/mod/7539</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7539#7539</guid>
+    <pubDate>Sun, 23 Aug 2026 18:09:40 -0000</pubDate>
+    <description>Mailbox style item trading between players</description>
+  </item>
+  <item>
+    <title>Valioso</title>
+    <link>https://mods.vintagestory.at/show/mod/11120</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11120#11120</guid>
+    <pubDate>Sun, 23 Aug 2026 18:00:24 -0000</pubDate>
+    <description>Valioso Mod</description>
+  </item>
+  <item>
+    <title>Directional Bombs</title>
+    <link>https://mods.vintagestory.at/show/mod/directionalbombs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/directionalbombs#10940</guid>
+    <pubDate>Sun, 23 Aug 2026 17:53:05 -0000</pubDate>
+    <description>Ever wanted to dig a tunnel with bombs? A moat? Anything more line-shaped than sphere? So did I!</description>
+  </item>
+  <item>
+    <title>ExplosiveLib</title>
+    <link>https://mods.vintagestory.at/show/mod/explosivelib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/explosivelib#11239</guid>
+    <pubDate>Sun, 23 Aug 2026 17:48:23 -0000</pubDate>
+    <description>A library mod for modularized and customizable explosion logic.</description>
+  </item>
+  <item>
+    <title>Land Of Estrellas</title>
+    <link>https://mods.vintagestory.at/show/mod/loe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/loe#10629</guid>
+    <pubDate>Sun, 23 Aug 2026 17:36:46 -0000</pubDate>
+    <description>The offical modpack of The Land of Estrellas server </description>
+  </item>
+  <item>
+    <title>Shadehouse</title>
+    <link>https://mods.vintagestory.at/show/mod/shadehouse</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shadehouse#8698</guid>
+    <pubDate>Sun, 23 Aug 2026 17:24:34 -0000</pubDate>
+    <description>Adds a way to build a 'shadehouse', to grow crops in hot temperatures.</description>
+  </item>
   <item>
     <title>Deciduous Trees</title>
     <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
@@ -27,13 +76,6 @@
     <description>Creative Crafting adds a functional crafting grid to Vintage Story’s Creative mode</description>
   </item>
   <item>
-    <title>Land Of Estrellas</title>
-    <link>https://mods.vintagestory.at/show/mod/loe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/loe#10629</guid>
-    <pubDate>Sun, 23 Aug 2026 17:10:23 -0000</pubDate>
-    <description>The offical modpack of The Land of Estrellas server </description>
-  </item>
-  <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/9635</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
@@ -53,13 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8428#8428</guid>
     <pubDate>Sun, 23 Aug 2026 16:03:55 -0000</pubDate>
     <description>Updated fork of the critters pack with chiappo's approval.</description>
-  </item>
-  <item>
-    <title>Valioso</title>
-    <link>https://mods.vintagestory.at/show/mod/11120</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11120#11120</guid>
-    <pubDate>Sun, 23 Aug 2026 16:02:41 -0000</pubDate>
-    <description>Valioso Mod</description>
   </item>
   <item>
     <title>Plentiful Tree Felling</title>
@@ -132,13 +167,6 @@
     <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
   </item>
   <item>
-    <title>Bacon Bacon Bacon</title>
-    <link>https://mods.vintagestory.at/show/mod/baconbaconbacon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/baconbaconbacon#6895</guid>
-    <pubDate>Sun, 23 Aug 2026 14:52:53 -0000</pubDate>
-    <description>The first and (so far) only entirely and ridiculously bacon-centric mod for Vintage Story</description>
-  </item>
-  <item>
     <title>ReinforcedTweaks</title>
     <link>https://mods.vintagestory.at/show/mod/11245</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11245#11245</guid>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustyshellcofork#11237</guid>
     <pubDate>Sun, 23 Aug 2026 14:06:01 -0000</pubDate>
     <description>Combat Overhaul compatible fork</description>
-  </item>
-  <item>
-    <title>QuasimoDOVS Clock</title>
-    <link>https://mods.vintagestory.at/show/mod/11244</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11244#11244</guid>
-    <pubDate>Sun, 23 Aug 2026 13:55:42 -0000</pubDate>
-    <description>Easy access to fast info at your screen! QuasimoDOVS Clock!</description>
-  </item>
-  <item>
-    <title>Spiro Story Renewal</title>
-    <link>https://mods.vintagestory.at/show/mod/spirostoryrenewal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spirostoryrenewal#11243</guid>
-    <pubDate>Sun, 23 Aug 2026 13:08:02 -0000</pubDate>
-    <description>Protects and safely regenerates registered Story Locations with vanilla WorldGen.</description>
-  </item>
-  <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Sun, 23 Aug 2026 12:33:17 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
-  </item>
-  <item>
-    <title>C&amp;N Jewelry</title>
-    <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
-    <pubDate>Sun, 23 Aug 2026 12:23:07 -0000</pubDate>
-    <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
   </item>
 </channel>
 </rss>
