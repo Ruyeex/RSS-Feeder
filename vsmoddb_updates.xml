@@ -4,20 +4,62 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 23 Aug 2026 09:30:09 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 10:26:23 +0000</lastBuildDate>
+  <item>
+    <title>Eternal Seraph: Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
+    <pubDate>Sun, 23 Aug 2026 10:24:34 -0000</pubDate>
+    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
+  </item>
+  <item>
+    <title>Solaria Fashions</title>
+    <link>https://mods.vintagestory.at/show/mod/solariafashions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/solariafashions#11236</guid>
+    <pubDate>Sun, 23 Aug 2026 10:21:07 -0000</pubDate>
+    <description>Solaria Fashions Presents: Better Blindfolds &amp; Cat Ears </description>
+  </item>
+  <item>
+    <title>C&amp;N Events</title>
+    <link>https://mods.vintagestory.at/show/mod/canevents</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
+    <pubDate>Sun, 23 Aug 2026 10:08:50 -0000</pubDate>
+    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
+  </item>
+  <item>
+    <title>GermanRefined</title>
+    <link>https://mods.vintagestory.at/show/mod/germanrefined</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/germanrefined#7681</guid>
+    <pubDate>Sun, 23 Aug 2026 10:05:52 -0000</pubDate>
+    <description>Revamps the entire German translation of the game!</description>
+  </item>
+  <item>
+    <title>VintageStory D'Août</title>
+    <link>https://mods.vintagestory.at/show/mod/vinstagestoryaout</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vinstagestoryaout#11164</guid>
+    <pubDate>Sun, 23 Aug 2026 09:57:02 -0000</pubDate>
+    <description> This modpack contains all the mods used on the Vintage Story server hosted by Pressea.</description>
+  </item>
+  <item>
+    <title>De Artibus Rusticis</title>
+    <link>https://mods.vintagestory.at/show/mod/deartibusrusticis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deartibusrusticis#11159</guid>
+    <pubDate>Sun, 23 Aug 2026 09:51:42 -0000</pubDate>
+    <description>Adds 19 new crops and 4 meals inspired by medieval European agriculture.</description>
+  </item>
+  <item>
+    <title>LauncherGo</title>
+    <link>https://mods.vintagestory.at/show/mod/launchergo</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergo#9280</guid>
+    <pubDate>Sun, 23 Aug 2026 09:44:59 -0000</pubDate>
+    <description>LauncherGo is a graphical server launcher for Vintage Story.</description>
+  </item>
   <item>
     <title>Feral Kinship: Companions</title>
     <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
     <pubDate>Sun, 23 Aug 2026 09:06:24 -0000</pubDate>
     <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
-    <title>Solaria Fashions</title>
-    <link>https://mods.vintagestory.at/show/mod/solariafashions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/solariafashions#11236</guid>
-    <pubDate>Sun, 23 Aug 2026 09:03:22 -0000</pubDate>
-    <description>Solaria Fashions Presents: Better Blindfolds &amp; Cat Ears </description>
   </item>
   <item>
     <title>Muppers Arcana</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7686#7686</guid>
     <pubDate>Sun, 23 Aug 2026 03:45:52 -0000</pubDate>
     <description>Adds chonkier vessels &amp; more with better storage and spoilage properties.</description>
-  </item>
-  <item>
-    <title>PlantAnythingAPI</title>
-    <link>https://mods.vintagestory.at/show/mod/plantanythingapi</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plantanythingapi#11062</guid>
-    <pubDate>Sun, 23 Aug 2026 03:29:44 -0000</pubDate>
-    <description>API that allows simple json patchs to give items the ability to be planted as any block on any block</description>
-  </item>
-  <item>
-    <title>Packed Cob</title>
-    <link>https://mods.vintagestory.at/show/mod/packedcob</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/packedcob#11233</guid>
-    <pubDate>Sun, 23 Aug 2026 03:16:27 -0000</pubDate>
-    <description>Adds cob as a viable block for making (arid) packed dirt.</description>
-  </item>
-  <item>
-    <title>Vanilla armory</title>
-    <link>https://mods.vintagestory.at/show/mod/3927</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3927#3927</guid>
-    <pubDate>Sun, 23 Aug 2026 03:14:11 -0000</pubDate>
-    <description>Implements unused vanilla weapons and some armor in vanilla style</description>
-  </item>
-  <item>
-    <title>BotaniaStory</title>
-    <link>https://mods.vintagestory.at/show/mod/8113</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8113#8113</guid>
-    <pubDate>Sun, 23 Aug 2026 02:22:25 -0000</pubDate>
-    <description>BotaniaStory - nature magic, mana, and automation in Vintage Story!</description>
-  </item>
-  <item>
-    <title>Terraria Biome Spread</title>
-    <link>https://mods.vintagestory.at/show/mod/terrariabiomespread</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/terrariabiomespread#10261</guid>
-    <pubDate>Sun, 23 Aug 2026 02:00:08 -0000</pubDate>
-    <description>Add some difficulty to your world with spreading evils with dangerous enemies and unique mechanics</description>
-  </item>
-  <item>
-    <title>Immersive Light + Rustbound Magic Compat</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivelightrbmfix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivelightrbmfix#11229</guid>
-    <pubDate>Sun, 23 Aug 2026 01:35:05 -0000</pubDate>
-    <description>Fixes manatorches that stay dark after being relit by a spell + some extras</description>
   </item>
 </channel>
 </rss>
