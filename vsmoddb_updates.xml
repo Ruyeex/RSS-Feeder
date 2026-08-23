@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 23 Aug 2026 15:24:56 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 16:28:36 +0000</lastBuildDate>
+  <item>
+    <title>Catch and Release: Fish</title>
+    <link>https://mods.vintagestory.at/show/mod/crfish</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crfish#7410</guid>
+    <pubDate>Sun, 23 Aug 2026 16:05:15 -0000</pubDate>
+    <description>Catch fish live and place them in various sized aquariums.</description>
+  </item>
+  <item>
+    <title>The Critters Pack 1.22</title>
+    <link>https://mods.vintagestory.at/show/mod/8428</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8428#8428</guid>
+    <pubDate>Sun, 23 Aug 2026 16:03:55 -0000</pubDate>
+    <description>Updated fork of the critters pack with chiappo's approval.</description>
+  </item>
+  <item>
+    <title>Valioso</title>
+    <link>https://mods.vintagestory.at/show/mod/11120</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11120#11120</guid>
+    <pubDate>Sun, 23 Aug 2026 16:02:41 -0000</pubDate>
+    <description>Valioso Mod</description>
+  </item>
+  <item>
+    <title>Plentiful Tree Felling</title>
+    <link>https://mods.vintagestory.at/show/mod/plentifultreefelling</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plentifultreefelling#10637</guid>
+    <pubDate>Sun, 23 Aug 2026 15:45:51 -0000</pubDate>
+    <description>Felling a tree gives a configurable amount of sticks and tree seeds</description>
+  </item>
+  <item>
+    <title>Quartermaster</title>
+    <link>https://mods.vintagestory.at/show/mod/9908</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9908#9908</guid>
+    <pubDate>Sun, 23 Aug 2026 15:36:50 -0000</pubDate>
+    <description>Run your whole base from one desk. New Optin or Optout capability.</description>
+  </item>
+  <item>
+    <title>Realistic Rapids</title>
+    <link>https://mods.vintagestory.at/show/mod/realisticrapids</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticrapids#10227</guid>
+    <pubDate>Sun, 23 Aug 2026 15:28:52 -0000</pubDate>
+    <description>Makes rapids and waterwheels work more realistically. Official addon for Realistic Water</description>
+  </item>
+  <item>
+    <title>Realistic Water</title>
+    <link>https://mods.vintagestory.at/show/mod/realisticwater</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticwater#8297</guid>
+    <pubDate>Sun, 23 Aug 2026 15:28:19 -0000</pubDate>
+    <description>Makes water spread and flow more realistically, so that you can build aqueducts, dams, canals etc</description>
+  </item>
   <item>
     <title>TraderTweaks</title>
     <link>https://mods.vintagestory.at/show/mod/10569</link>
@@ -118,13 +167,6 @@
     <description>Protects and safely regenerates registered Story Locations with vanilla WorldGen.</description>
   </item>
   <item>
-    <title>Valioso</title>
-    <link>https://mods.vintagestory.at/show/mod/11120</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11120#11120</guid>
-    <pubDate>Sun, 23 Aug 2026 12:52:18 -0000</pubDate>
-    <description>Valioso Mod</description>
-  </item>
-  <item>
     <title>Alchemy</title>
     <link>https://mods.vintagestory.at/show/mod/alchemy</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9158#9158</guid>
     <pubDate>Sun, 23 Aug 2026 11:57:45 -0000</pubDate>
     <description>Compatibility patches for Expanded Foods and Fowl</description>
-  </item>
-  <item>
-    <title>UI-Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/uitweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/uitweaks#7926</guid>
-    <pubDate>Sun, 23 Aug 2026 11:45:23 -0000</pubDate>
-    <description>Zoom Button, configurable HUD, in-game calculator, and more...</description>
-  </item>
-  <item>
-    <title>Nickelback</title>
-    <link>https://mods.vintagestory.at/show/mod/nickelback</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nickelback#9223</guid>
-    <pubDate>Sun, 23 Aug 2026 11:45:19 -0000</pubDate>
-    <description>This mod gives you bits of metal back when a tool breaks during quenching</description>
-  </item>
-  <item>
-    <title>Fluffy Dreg</title>
-    <link>https://mods.vintagestory.at/show/mod/fluffydreg</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fluffydreg#5557</guid>
-    <pubDate>Sun, 23 Aug 2026 11:38:05 -0000</pubDate>
-    <description>Adds a Fluffy Dragon/Kobold player model/race using Player Model Lib.</description>
-  </item>
-  <item>
-    <title>GR-xToast</title>
-    <link>https://mods.vintagestory.at/show/mod/grxtoast</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grxtoast#11240</guid>
-    <pubDate>Sun, 23 Aug 2026 11:24:55 -0000</pubDate>
-    <description>A derivative Version of the Germanrefined Mod, which overhauls the german translation of the game!</description>
-  </item>
-  <item>
-    <title>The Hunter</title>
-    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
-    <pubDate>Sun, 23 Aug 2026 11:01:10 -0000</pubDate>
-    <description>Track prey, follow blood, carry carcasses, compost dung, and have smarter wolves.</description>
-  </item>
-  <item>
-    <title>Shadehouse</title>
-    <link>https://mods.vintagestory.at/show/mod/shadehouse</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shadehouse#8698</guid>
-    <pubDate>Sun, 23 Aug 2026 10:49:10 -0000</pubDate>
-    <description>Adds a way to build a 'shadehouse', to grow crops in hot temperatures.</description>
   </item>
 </channel>
 </rss>
