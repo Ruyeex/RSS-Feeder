@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 24 Aug 2026 19:31:24 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 20:32:23 +0000</lastBuildDate>
+  <item>
+    <title>Eriadorian Armory</title>
+    <link>https://mods.vintagestory.at/show/mod/eriadorianarmory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eriadorianarmory#9322</guid>
+    <pubDate>Mon, 24 Aug 2026 20:30:31 -0000</pubDate>
+    <description>A collection of custom weapons and armors for the Kingdom of Eriador Vintagestory server.</description>
+  </item>
+  <item>
+    <title>Window Display - Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/windowdisplaypatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplaypatches#10532</guid>
+    <pubDate>Mon, 24 Aug 2026 20:19:39 -0000</pubDate>
+    <description>Used to add custom transforms and to enable the particles of items on display</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Mon, 24 Aug 2026 20:11:35 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>Threnkal</title>
+    <link>https://mods.vintagestory.at/show/mod/threnkal</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/threnkal#10944</guid>
+    <pubDate>Mon, 24 Aug 2026 20:10:42 -0000</pubDate>
+    <description>A race of cow folks based on minotaurs and taurens from WoW.</description>
+  </item>
+  <item>
+    <title>Floral Zones: Mediterranean Region</title>
+    <link>https://mods.vintagestory.at/show/mod/floralzonesmediterraneanregion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonesmediterraneanregion#2779</guid>
+    <pubDate>Mon, 24 Aug 2026 20:00:51 -0000</pubDate>
+    <description>Adds plants from the Mediterranean Region to the game.</description>
+  </item>
+  <item>
+    <title>Bottoms Up!</title>
+    <link>https://mods.vintagestory.at/show/mod/bottomsup</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bottomsup#5472</guid>
+    <pubDate>Mon, 24 Aug 2026 19:40:08 -0000</pubDate>
+    <description>Fancy glass bottles and glassware for your bar</description>
+  </item>
+  <item>
+    <title>NDL Villagers</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlvillagers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlvillagers#3429</guid>
+    <pubDate>Mon, 24 Aug 2026 19:39:53 -0000</pubDate>
+    <description>Adds Villagers/Guards/Clerics to populate your builds and also a way to get traders in your builds!</description>
+  </item>
   <item>
     <title>Dragonia Translations</title>
     <link>https://mods.vintagestory.at/show/mod/10016</link>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rct#9308</guid>
     <pubDate>Mon, 24 Aug 2026 15:26:33 -0000</pubDate>
     <description>Makes overflowing creative inventory tabs reachable in heavily modded games by paging the right-side</description>
-  </item>
-  <item>
-    <title>Animal Kinship</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinship</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinship#9647</guid>
-    <pubDate>Mon, 24 Aug 2026 15:24:43 -0000</pubDate>
-    <description>Animals recognize their feral kin, with simple taming for supported wildlife.</description>
-  </item>
-  <item>
-    <title>CommandHook</title>
-    <link>https://mods.vintagestory.at/show/mod/9782</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9782#9782</guid>
-    <pubDate>Mon, 24 Aug 2026 14:42:27 -0000</pubDate>
-    <description>Lets other mods hook into chat commands before and after they run.</description>
-  </item>
-  <item>
-    <title>EarthLiving Client Performance Doctor</title>
-    <link>https://mods.vintagestory.at/show/mod/earthlivingperformance</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/earthlivingperformance#11280</guid>
-    <pubDate>Mon, 24 Aug 2026 14:27:46 -0000</pubDate>
-    <description>Local performance diagnostics with safe, measured and reversible graphics optimization.</description>
-  </item>
-  <item>
-    <title>Claim Observer</title>
-    <link>https://mods.vintagestory.at/show/mod/claimobserver</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claimobserver#11272</guid>
-    <pubDate>Mon, 24 Aug 2026 14:03:08 -0000</pubDate>
-    <description>Client-side mod for better claims navigation. See claims in world and on worldmap</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Mon, 24 Aug 2026 13:56:53 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
-  </item>
-  <item>
-    <title>Holdfast</title>
-    <link>https://mods.vintagestory.at/show/mod/holdfast</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/holdfast#10247</guid>
-    <pubDate>Mon, 24 Aug 2026 13:54:59 -0000</pubDate>
-    <description>Found a town. Hire workers. Watch it grow one building at a time.</description>
-  </item>
-  <item>
-    <title>Gunboat</title>
-    <link>https://mods.vintagestory.at/show/mod/gunboat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gunboat#11238</guid>
-    <pubDate>Mon, 24 Aug 2026 13:46:19 -0000</pubDate>
-    <description>Gunboats and other Warships</description>
   </item>
 </channel>
 </rss>
