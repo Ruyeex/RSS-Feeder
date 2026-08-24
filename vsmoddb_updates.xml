@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 24 Aug 2026 04:48:01 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 05:40:05 +0000</lastBuildDate>
+  <item>
+    <title>Groundskeeper</title>
+    <link>https://mods.vintagestory.at/show/mod/groundskeeper</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/groundskeeper#6432</guid>
+    <pubDate>Mon, 24 Aug 2026 05:28:21 -0000</pubDate>
+    <description>Create decorative saplings, crops, mushrooms, bushes, and other outdoor-y decor .</description>
+  </item>
+  <item>
+    <title>Flowerbeds</title>
+    <link>https://mods.vintagestory.at/show/mod/flowerbeds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/flowerbeds#11265</guid>
+    <pubDate>Mon, 24 Aug 2026 05:20:43 -0000</pubDate>
+    <description>Flowerbeds and arrangements to lively up your gardens.</description>
+  </item>
+  <item>
+    <title>Hazmat Suit</title>
+    <link>https://mods.vintagestory.at/show/mod/7157</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7157#7157</guid>
+    <pubDate>Mon, 24 Aug 2026 05:13:37 -0000</pubDate>
+    <description>Adds a hazmat protective suit with a charging rack and many more features</description>
+  </item>
+  <item>
+    <title>Stratum - High-performance server software.</title>
+    <link>https://mods.vintagestory.at/show/mod/stratum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stratum#9499</guid>
+    <pubDate>Mon, 24 Aug 2026 04:59:10 -0000</pubDate>
+    <description>Focused on smoother multiplayer servers, better performance under load and, practical tools.</description>
+  </item>
   <item>
     <title>Bikini Bear</title>
     <link>https://mods.vintagestory.at/show/mod/bikinibear</link>
@@ -25,13 +53,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
     <pubDate>Mon, 24 Aug 2026 03:38:03 -0000</pubDate>
     <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
-    <title>Groundskeeper</title>
-    <link>https://mods.vintagestory.at/show/mod/groundskeeper</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/groundskeeper#6432</guid>
-    <pubDate>Mon, 24 Aug 2026 03:35:45 -0000</pubDate>
-    <description>Create decorative saplings, crops, mushrooms, bushes, and other outdoor-y decor .</description>
   </item>
   <item>
     <title>Riley's Classes</title>
@@ -81,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11266#11266</guid>
     <pubDate>Mon, 24 Aug 2026 01:38:01 -0000</pubDate>
     <description>Json edit to make IME work with SME.</description>
-  </item>
-  <item>
-    <title>Flowerbeds</title>
-    <link>https://mods.vintagestory.at/show/mod/flowerbeds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/flowerbeds#11265</guid>
-    <pubDate>Mon, 24 Aug 2026 01:36:11 -0000</pubDate>
-    <description>Flowerbeds and arrangements to lively up your gardens.</description>
   </item>
   <item>
     <title>Oversized Horrors</title>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11219#11219</guid>
     <pubDate>Sun, 23 Aug 2026 23:50:36 -0000</pubDate>
     <description>Adds primitive tanning and calming gen 1 animals more.  Extensive AI.  For personal server. </description>
-  </item>
-  <item>
-    <title>Olla</title>
-    <link>https://mods.vintagestory.at/show/mod/olla</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/olla#5784</guid>
-    <pubDate>Sun, 23 Aug 2026 23:47:44 -0000</pubDate>
-    <description> Bring ancient irrigation technology to Vintage Story! This mod adds ollas (pronounced "oy-yahs")</description>
-  </item>
-  <item>
-    <title>DRRP Caveshrooms</title>
-    <link>https://mods.vintagestory.at/show/mod/caveshrooms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caveshrooms#10922</guid>
-    <pubDate>Sun, 23 Aug 2026 22:44:44 -0000</pubDate>
-    <description>Adds a mushroom that fruits from patches of temporally unstable substrate deep in caves.</description>
   </item>
 </channel>
 </rss>
