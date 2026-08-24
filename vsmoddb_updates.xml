@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 24 Aug 2026 11:31:08 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 12:54:09 +0000</lastBuildDate>
+  <item>
+    <title>LevelUP Aldi's &amp; Riley's Class Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/11279</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11279#11279</guid>
+    <pubDate>Mon, 24 Aug 2026 12:50:23 -0000</pubDate>
+    <description>Added Aldi's &amp; Riley's class configuration for LevelUP</description>
+  </item>
+  <item>
+    <title>Toggleable Night Vision</title>
+    <link>https://mods.vintagestory.at/show/mod/toggleablenightvision</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/toggleablenightvision#11278</guid>
+    <pubDate>Mon, 24 Aug 2026 12:49:08 -0000</pubDate>
+    <description>Adds a toggle hotkey to the vanilla night vision device.</description>
+  </item>
+  <item>
+    <title>Female Seraph</title>
+    <link>https://mods.vintagestory.at/show/mod/femaleseraph</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/femaleseraph#3896</guid>
+    <pubDate>Mon, 24 Aug 2026 12:40:15 -0000</pubDate>
+    <description>Makes the player character's appearance feminine</description>
+  </item>
+  <item>
+    <title>Claim Observer</title>
+    <link>https://mods.vintagestory.at/show/mod/claimobserver</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claimobserver#11272</guid>
+    <pubDate>Mon, 24 Aug 2026 12:13:49 -0000</pubDate>
+    <description>Client-side mod for better claims navigation. See claims in world and on worldmap</description>
+  </item>
+  <item>
+    <title>Crate Atlas Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/crateatlasfix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crateatlasfix#11277</guid>
+    <pubDate>Mon, 24 Aug 2026 12:12:38 -0000</pubDate>
+    <description>Rebuilds crate item-label textures after a client texture reload.</description>
+  </item>
+  <item>
+    <title>Butchering</title>
+    <link>https://mods.vintagestory.at/show/mod/butchering</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butchering#1505</guid>
+    <pubDate>Mon, 24 Aug 2026 11:51:58 -0000</pubDate>
+    <description>A more immersive butchery system for processing animals</description>
+  </item>
+  <item>
+    <title>Manual Crank</title>
+    <link>https://mods.vintagestory.at/show/mod/manualcrank</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/manualcrank#11160</guid>
+    <pubDate>Mon, 24 Aug 2026 11:43:15 -0000</pubDate>
+    <description>Tired of waiting for wind or water power? Get your machines moving sooner!</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Mon, 24 Aug 2026 11:36:52 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>Multi Home Teleport  /sethome /home /back /listhomes /homeinfo /delhome /tospawn /tp2p toplayer and teleport cost</title>
+    <link>https://mods.vintagestory.at/show/mod/4439</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4439#4439</guid>
+    <pubDate>Mon, 24 Aug 2026 11:31:11 -0000</pubDate>
+    <description>Multi Home Teleport mod with cooldown timers and optional teleport cost</description>
+  </item>
   <item>
     <title>GlobalQualityGears</title>
     <link>https://mods.vintagestory.at/show/mod/11125</link>
@@ -39,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
     <pubDate>Mon, 24 Aug 2026 09:35:54 -0000</pubDate>
     <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
-  </item>
-  <item>
-    <title>Multi Home Teleport  /sethome /home /back /listhomes /homeinfo /delhome /tospawn /tp2p toplayer and teleport cost</title>
-    <link>https://mods.vintagestory.at/show/mod/4439</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4439#4439</guid>
-    <pubDate>Mon, 24 Aug 2026 08:55:06 -0000</pubDate>
-    <description>Multi Home Teleport mod with cooldown timers and optional teleport cost</description>
   </item>
   <item>
     <title>VoxelGrid Overlay</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bikinibear#11173</guid>
     <pubDate>Mon, 24 Aug 2026 04:46:20 -0000</pubDate>
     <description>Every bear has a 10% chance to spawn in a bikini (6 styles) and a straw sun hat. Configurable.</description>
-  </item>
-  <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Mon, 24 Aug 2026 03:32:24 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
-    <title>IndustrialStory</title>
-    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
-    <pubDate>Mon, 24 Aug 2026 03:30:57 -0000</pubDate>
-    <description>Overhauls metalworking, chemistry, and glassworking. </description>
-  </item>
-  <item>
-    <title>LauncherGo</title>
-    <link>https://mods.vintagestory.at/show/mod/launchergo</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergo#9280</guid>
-    <pubDate>Mon, 24 Aug 2026 03:11:12 -0000</pubDate>
-    <description>LauncherGo is a graphical server launcher for Vintage Story.</description>
-  </item>
-  <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Mon, 24 Aug 2026 01:47:57 -0000</pubDate>
-    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
-  </item>
-  <item>
-    <title>Aged Wood Restore</title>
-    <link>https://mods.vintagestory.at/show/mod/10389</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10389#10389</guid>
-    <pubDate>Mon, 24 Aug 2026 01:44:54 -0000</pubDate>
-    <description>Aged Wood Restore Repairs worlds broken by the MaterialNeeds 1.x → 2.0.0 transition.</description>
-  </item>
-  <item>
-    <title>Steelmaking Expanded and Interesting Mining and extraction compatibility tweak</title>
-    <link>https://mods.vintagestory.at/show/mod/11266</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11266#11266</guid>
-    <pubDate>Mon, 24 Aug 2026 01:38:01 -0000</pubDate>
-    <description>Json edit to make IME work with SME.</description>
-  </item>
-  <item>
-    <title>Oversized Horrors</title>
-    <link>https://mods.vintagestory.at/show/mod/10371</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10371#10371</guid>
-    <pubDate>Mon, 24 Aug 2026 01:35:24 -0000</pubDate>
-    <description>Massive versions of normal VS enemies</description>
-  </item>
-  <item>
-    <title>Server Token Grabber</title>
-    <link>https://mods.vintagestory.at/show/mod/tokengrabber</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tokengrabber#11262</guid>
-    <pubDate>Mon, 24 Aug 2026 01:09:53 -0000</pubDate>
-    <description>Allows you to grab the server token in earlier versions to claim your server on the server browser.</description>
   </item>
 </channel>
 </rss>
