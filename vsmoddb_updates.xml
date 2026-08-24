@@ -4,20 +4,48 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 24 Aug 2026 13:53:38 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 14:44:30 +0000</lastBuildDate>
+  <item>
+    <title>CommandHook</title>
+    <link>https://mods.vintagestory.at/show/mod/9782</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9782#9782</guid>
+    <pubDate>Mon, 24 Aug 2026 14:42:27 -0000</pubDate>
+    <description>Lets other mods hook into chat commands before and after they run.</description>
+  </item>
+  <item>
+    <title>EarthLiving Client Performance Doctor</title>
+    <link>https://mods.vintagestory.at/show/mod/earthlivingperformance</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/earthlivingperformance#11280</guid>
+    <pubDate>Mon, 24 Aug 2026 14:27:46 -0000</pubDate>
+    <description>Local performance diagnostics with safe, measured and reversible graphics optimization.</description>
+  </item>
+  <item>
+    <title>Claim Observer</title>
+    <link>https://mods.vintagestory.at/show/mod/claimobserver</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claimobserver#11272</guid>
+    <pubDate>Mon, 24 Aug 2026 14:03:08 -0000</pubDate>
+    <description>Client-side mod for better claims navigation. See claims in world and on worldmap</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Mon, 24 Aug 2026 13:56:53 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>Holdfast</title>
+    <link>https://mods.vintagestory.at/show/mod/holdfast</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/holdfast#10247</guid>
+    <pubDate>Mon, 24 Aug 2026 13:54:59 -0000</pubDate>
+    <description>Found a town. Hire workers. Watch it grow one building at a time.</description>
+  </item>
   <item>
     <title>Gunboat</title>
     <link>https://mods.vintagestory.at/show/mod/gunboat</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gunboat#11238</guid>
     <pubDate>Mon, 24 Aug 2026 13:46:19 -0000</pubDate>
     <description>Gunboats and other Warships</description>
-  </item>
-  <item>
-    <title>Claim Observer</title>
-    <link>https://mods.vintagestory.at/show/mod/claimobserver</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claimobserver#11272</guid>
-    <pubDate>Mon, 24 Aug 2026 13:41:02 -0000</pubDate>
-    <description>Client-side mod for better claims navigation. See claims in world and on worldmap</description>
   </item>
   <item>
     <title>Threnkal</title>
@@ -74,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/manualcrank#11160</guid>
     <pubDate>Mon, 24 Aug 2026 11:43:15 -0000</pubDate>
     <description>Tired of waiting for wind or water power? Get your machines moving sooner!</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Mon, 24 Aug 2026 11:36:52 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
   </item>
   <item>
     <title>Multi Home Teleport  /sethome /home /back /listhomes /homeinfo /delhome /tospawn /tp2p toplayer and teleport cost</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustyshellcofork#11237</guid>
     <pubDate>Mon, 24 Aug 2026 06:30:14 -0000</pubDate>
     <description>Combat Overhaul compatible fork</description>
-  </item>
-  <item>
-    <title>Fahlore (Pale ore)</title>
-    <link>https://mods.vintagestory.at/show/mod/fahlores</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fahlores#500</guid>
-    <pubDate>Mon, 24 Aug 2026 05:52:39 -0000</pubDate>
-    <description>New ore</description>
-  </item>
-  <item>
-    <title>Groundskeeper</title>
-    <link>https://mods.vintagestory.at/show/mod/groundskeeper</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/groundskeeper#6432</guid>
-    <pubDate>Mon, 24 Aug 2026 05:28:21 -0000</pubDate>
-    <description>Create decorative saplings, crops, mushrooms, bushes, and other outdoor-y decor .</description>
-  </item>
-  <item>
-    <title>Flowerbeds</title>
-    <link>https://mods.vintagestory.at/show/mod/flowerbeds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/flowerbeds#11265</guid>
-    <pubDate>Mon, 24 Aug 2026 05:20:43 -0000</pubDate>
-    <description>Flowerbeds and arrangements to lively up your gardens.</description>
   </item>
 </channel>
 </rss>
