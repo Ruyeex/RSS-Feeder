@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 24 Aug 2026 17:32:49 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 18:42:30 +0000</lastBuildDate>
+  <item>
+    <title>RP Voice Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/rpvoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rpvoicechat#1371</guid>
+    <pubDate>Mon, 24 Aug 2026 18:36:58 -0000</pubDate>
+    <description>A mod for proximity VoIP. Shout at your friends!</description>
+  </item>
+  <item>
+    <title>Czech Patch - Čeština do módů</title>
+    <link>https://mods.vintagestory.at/show/mod/czechpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/czechpatch#2800</guid>
+    <pubDate>Mon, 24 Aug 2026 18:24:07 -0000</pubDate>
+    <description>Mod, který přidá české překlady některých módů do hry. Adds Czech translations to some mods</description>
+  </item>
+  <item>
+    <title>CB Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Mon, 24 Aug 2026 18:21:23 -0000</pubDate>
+    <description>Skill and class mod for the CB server</description>
+  </item>
+  <item>
+    <title>AOG No Withered Vegetables</title>
+    <link>https://mods.vintagestory.at/show/mod/11208</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11208#11208</guid>
+    <pubDate>Mon, 24 Aug 2026 18:10:39 -0000</pubDate>
+    <description>AOG No Withered Vegetables</description>
+  </item>
+  <item>
+    <title>Olendril IME Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/11060</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11060#11060</guid>
+    <pubDate>Mon, 24 Aug 2026 17:52:32 -0000</pubDate>
+    <description>  A focused compatibility and quality-of-life patch for Interesting Mining &amp; Extraction.</description>
+  </item>
+  <item>
+    <title>HomeGui</title>
+    <link>https://mods.vintagestory.at/show/mod/hg</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hg#11281</guid>
+    <pubDate>Mon, 24 Aug 2026 17:49:51 -0000</pubDate>
+    <description>Gui for teleport commands in Th3essentials</description>
+  </item>
+  <item>
+    <title>ClaimLink</title>
+    <link>https://mods.vintagestory.at/show/mod/11054</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11054#11054</guid>
+    <pubDate>Mon, 24 Aug 2026 17:34:48 -0000</pubDate>
+    <description>Links vanilla land claims to a player group and adds a protected buffer zone around them.</description>
+  </item>
   <item>
     <title>Mixing bowl patch</title>
     <link>https://mods.vintagestory.at/show/mod/11282</link>
@@ -55,13 +104,6 @@
     <description>Settlement and factions mod</description>
   </item>
   <item>
-    <title>CB Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/10778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
-    <pubDate>Mon, 24 Aug 2026 16:41:57 -0000</pubDate>
-    <description>Skill and class mod for the CB server</description>
-  </item>
-  <item>
     <title>topgsmod</title>
     <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
@@ -74,20 +116,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10819#10819</guid>
     <pubDate>Mon, 24 Aug 2026 16:39:52 -0000</pubDate>
     <description>Adds quests for the the CB server</description>
-  </item>
-  <item>
-    <title>HomeGui</title>
-    <link>https://mods.vintagestory.at/show/mod/hg</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hg#11281</guid>
-    <pubDate>Mon, 24 Aug 2026 16:35:42 -0000</pubDate>
-    <description>Gui for teleport commands in Th3essentials</description>
-  </item>
-  <item>
-    <title>ClaimLink</title>
-    <link>https://mods.vintagestory.at/show/mod/11054</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11054#11054</guid>
-    <pubDate>Mon, 24 Aug 2026 16:28:26 -0000</pubDate>
-    <description>Links vanilla land claims to a player group and adds a protected buffer zone around them.</description>
   </item>
   <item>
     <title>Overhaul lib legacy compatibility</title>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/combatoverhaulforked#8415</guid>
     <pubDate>Mon, 24 Aug 2026 13:01:44 -0000</pubDate>
     <description>1.22 fork</description>
-  </item>
-  <item>
-    <title>Toggleable Night Vision</title>
-    <link>https://mods.vintagestory.at/show/mod/toggleablenightvision</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/toggleablenightvision#11278</guid>
-    <pubDate>Mon, 24 Aug 2026 12:49:08 -0000</pubDate>
-    <description>Adds a toggle hotkey to the vanilla night vision device.</description>
-  </item>
-  <item>
-    <title>Female Seraph</title>
-    <link>https://mods.vintagestory.at/show/mod/femaleseraph</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/femaleseraph#3896</guid>
-    <pubDate>Mon, 24 Aug 2026 12:40:15 -0000</pubDate>
-    <description>Makes the player character's appearance feminine</description>
-  </item>
-  <item>
-    <title>Crate Atlas Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/crateatlasfix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crateatlasfix#11277</guid>
-    <pubDate>Mon, 24 Aug 2026 12:12:38 -0000</pubDate>
-    <description>Rebuilds crate item-label textures after a client texture reload.</description>
-  </item>
-  <item>
-    <title>Butchering</title>
-    <link>https://mods.vintagestory.at/show/mod/butchering</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butchering#1505</guid>
-    <pubDate>Mon, 24 Aug 2026 11:51:58 -0000</pubDate>
-    <description>A more immersive butchery system for processing animals</description>
   </item>
 </channel>
 </rss>
