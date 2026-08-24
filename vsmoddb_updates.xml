@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 24 Aug 2026 10:39:05 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 11:31:08 +0000</lastBuildDate>
+  <item>
+    <title>GlobalQualityGears</title>
+    <link>https://mods.vintagestory.at/show/mod/11125</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11125#11125</guid>
+    <pubDate>Mon, 24 Aug 2026 11:11:27 -0000</pubDate>
+    <description>All Things RPG Server Patch for other mods</description>
+  </item>
+  <item>
+    <title>Pigeon's FlatBread</title>
+    <link>https://mods.vintagestory.at/show/mod/pigeonflatbread</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pigeonflatbread#11276</guid>
+    <pubDate>Mon, 24 Aug 2026 10:58:08 -0000</pubDate>
+    <description>A mod that allows you to make Flatbreads for a fulfilling meal on the go! perfect for nomads!</description>
+  </item>
+  <item>
+    <title>Armory Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/armoryfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/armoryfork#8416</guid>
+    <pubDate>Mon, 24 Aug 2026 10:57:39 -0000</pubDate>
+    <description>1.22 Fork</description>
+  </item>
   <item>
     <title>Forager's Gamble</title>
     <link>https://mods.vintagestory.at/show/mod/foragersgamble</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tokengrabber#11262</guid>
     <pubDate>Mon, 24 Aug 2026 01:09:53 -0000</pubDate>
     <description>Allows you to grab the server token in earlier versions to claim your server on the server browser.</description>
-  </item>
-  <item>
-    <title>Distant Vistas</title>
-    <link>https://mods.vintagestory.at/show/mod/distantvistas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/distantvistas#11259</guid>
-    <pubDate>Mon, 24 Aug 2026 01:08:02 -0000</pubDate>
-    <description>Distant Horizons-style far LOD terrain. Current release 0.7.11. Client and server mod; on multiplaye</description>
-  </item>
-  <item>
-    <title>TassHardcoreWinter</title>
-    <link>https://mods.vintagestory.at/show/mod/tasshardcorewinter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshardcorewinter#10500</guid>
-    <pubDate>Mon, 24 Aug 2026 01:04:42 -0000</pubDate>
-    <description>Deeper snow, white out blizzards, restorative spring, realistic room temperature, heat source rework</description>
-  </item>
-  <item>
-    <title>Temporal Relics</title>
-    <link>https://mods.vintagestory.at/show/mod/9886</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9886#9886</guid>
-    <pubDate>Mon, 24 Aug 2026 01:00:26 -0000</pubDate>
-    <description>Adds randomized affixes to found equipment, introducing mundane, corrupted, and temporally enhanced </description>
   </item>
 </channel>
 </rss>
