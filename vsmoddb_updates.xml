@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 24 Aug 2026 15:41:21 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 16:39:53 +0000</lastBuildDate>
+  <item>
+    <title>HomeGui</title>
+    <link>https://mods.vintagestory.at/show/mod/hg</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hg#11281</guid>
+    <pubDate>Mon, 24 Aug 2026 16:35:42 -0000</pubDate>
+    <description>Gui for teleport commands in Th3essentials</description>
+  </item>
+  <item>
+    <title>ClaimLink</title>
+    <link>https://mods.vintagestory.at/show/mod/11054</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11054#11054</guid>
+    <pubDate>Mon, 24 Aug 2026 16:28:26 -0000</pubDate>
+    <description>Links vanilla land claims to a player group and adds a protected buffer zone around them.</description>
+  </item>
+  <item>
+    <title>Overhaul lib legacy compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/overhaulliblegacycompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/overhaulliblegacycompat#8401</guid>
+    <pubDate>Mon, 24 Aug 2026 16:14:19 -0000</pubDate>
+    <description>Compat for firearms, crossbows, combatoverhaul</description>
+  </item>
+  <item>
+    <title>ClaimLinkVisualizer</title>
+    <link>https://mods.vintagestory.at/show/mod/11056</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11056#11056</guid>
+    <pubDate>Mon, 24 Aug 2026 16:04:45 -0000</pubDate>
+    <description>Client side renderer for ClaimLink buffers. </description>
+  </item>
   <item>
     <title>Injury Expanded</title>
     <link>https://mods.vintagestory.at/show/mod/9695</link>
@@ -25,13 +53,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinship#9647</guid>
     <pubDate>Mon, 24 Aug 2026 15:24:43 -0000</pubDate>
     <description>Animals recognize their feral kin, with simple taming for supported wildlife.</description>
-  </item>
-  <item>
-    <title>HomeGui</title>
-    <link>https://mods.vintagestory.at/show/mod/hg</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hg#11281</guid>
-    <pubDate>Mon, 24 Aug 2026 15:07:16 -0000</pubDate>
-    <description>Gui for teleport commands in Th3essentials</description>
   </item>
   <item>
     <title>CommandHook</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
     <pubDate>Mon, 24 Aug 2026 07:32:00 -0000</pubDate>
     <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Mon, 24 Aug 2026 07:10:01 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>Tamables: Critters</title>
-    <link>https://mods.vintagestory.at/show/mod/tamablescritters</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tamablescritters#11270</guid>
-    <pubDate>Mon, 24 Aug 2026 07:04:16 -0000</pubDate>
-    <description>Adds tamables for a few requested mods here and there</description>
-  </item>
-  <item>
-    <title>Radial Menu: Arrows and Bolts</title>
-    <link>https://mods.vintagestory.at/show/mod/radialmenuarrowsandbolts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/radialmenuarrowsandbolts#11241</guid>
-    <pubDate>Mon, 24 Aug 2026 07:02:56 -0000</pubDate>
-    <description>Radial ammo selector for bows and crossbows, compatible with popular combat and ammo mods.</description>
   </item>
 </channel>
 </rss>
