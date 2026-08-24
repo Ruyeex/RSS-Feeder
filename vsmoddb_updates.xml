@@ -4,7 +4,119 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 23 Aug 2026 23:23:14 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 01:25:25 +0000</lastBuildDate>
+  <item>
+    <title>Server Token Grabber</title>
+    <link>https://mods.vintagestory.at/show/mod/tokengrabber</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tokengrabber#11262</guid>
+    <pubDate>Mon, 24 Aug 2026 01:09:53 -0000</pubDate>
+    <description>Allows you to grab the server token in earlier versions to claim your server on the server browser.</description>
+  </item>
+  <item>
+    <title>Distant Vistas</title>
+    <link>https://mods.vintagestory.at/show/mod/distantvistas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/distantvistas#11259</guid>
+    <pubDate>Mon, 24 Aug 2026 01:08:02 -0000</pubDate>
+    <description>Distant Horizons-style far LOD terrain. Current release 0.7.11. Client and server mod; on multiplaye</description>
+  </item>
+  <item>
+    <title>TassHardcoreWinter</title>
+    <link>https://mods.vintagestory.at/show/mod/tasshardcorewinter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshardcorewinter#10500</guid>
+    <pubDate>Mon, 24 Aug 2026 01:04:42 -0000</pubDate>
+    <description>Deeper snow, white out blizzards, restorative spring, realistic room temperature, heat source rework</description>
+  </item>
+  <item>
+    <title>Temporal Relics</title>
+    <link>https://mods.vintagestory.at/show/mod/9886</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9886#9886</guid>
+    <pubDate>Mon, 24 Aug 2026 01:00:26 -0000</pubDate>
+    <description>Adds randomized affixes to found equipment, introducing mundane, corrupted, and temporally enhanced </description>
+  </item>
+  <item>
+    <title>TassModFixesTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tassmodfixestweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassmodfixestweaks#10502</guid>
+    <pubDate>Mon, 24 Aug 2026 00:58:41 -0000</pubDate>
+    <description>A catch all mod for anything that does not fit my other mods - fixing bugs and tweaking mods</description>
+  </item>
+  <item>
+    <title>TassFactions</title>
+    <link>https://mods.vintagestory.at/show/mod/10503</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
+    <pubDate>Mon, 24 Aug 2026 00:57:40 -0000</pubDate>
+    <description>Factions - Raids - Sieges - Shops - Bounty</description>
+  </item>
+  <item>
+    <title>TassBetterFishing</title>
+    <link>https://mods.vintagestory.at/show/mod/tassbetterfishing</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassbetterfishing#10604</guid>
+    <pubDate>Mon, 24 Aug 2026 00:55:13 -0000</pubDate>
+    <description>Fish are now worth catching</description>
+  </item>
+  <item>
+    <title>TassSpawnControls</title>
+    <link>https://mods.vintagestory.at/show/mod/tassspawncontrols</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassspawncontrols#11264</guid>
+    <pubDate>Mon, 24 Aug 2026 00:50:52 -0000</pubDate>
+    <description>Spawn controls and special spawn tree</description>
+  </item>
+  <item>
+    <title>Valioso</title>
+    <link>https://mods.vintagestory.at/show/mod/11120</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11120#11120</guid>
+    <pubDate>Mon, 24 Aug 2026 00:36:09 -0000</pubDate>
+    <description>Valioso Mod</description>
+  </item>
+  <item>
+    <title>Arcticia - Eskimos</title>
+    <link>https://mods.vintagestory.at/show/mod/11232</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11232#11232</guid>
+    <pubDate>Mon, 24 Aug 2026 00:29:53 -0000</pubDate>
+    <description>Adds a custom class for Snowball Earth playthroughs.</description>
+  </item>
+  <item>
+    <title>Resonator Overhaul </title>
+    <link>https://mods.vintagestory.at/show/mod/10009</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10009#10009</guid>
+    <pubDate>Mon, 24 Aug 2026 00:23:40 -0000</pubDate>
+    <description>Per-resonator volume, falloff and looping — saved to the world and audible with Music off.</description>
+  </item>
+  <item>
+    <title>GamepadCompanionVS</title>
+    <link>https://mods.vintagestory.at/show/mod/8669</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8669#8669</guid>
+    <pubDate>Mon, 24 Aug 2026 00:08:42 -0000</pubDate>
+    <description>Native gamepad support for Vintage Story 1.22+ — 12-slot radial menu, virtual cursor for GUI, etc. </description>
+  </item>
+  <item>
+    <title>The Hunter</title>
+    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
+    <pubDate>Mon, 24 Aug 2026 00:05:29 -0000</pubDate>
+    <description>Track prey, follow blood, carry carcasses, compost dung, and have smarter wolves.</description>
+  </item>
+  <item>
+    <title>Niltrias's Sinister Cookery</title>
+    <link>https://mods.vintagestory.at/show/mod/11215</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11215#11215</guid>
+    <pubDate>Sun, 23 Aug 2026 23:51:44 -0000</pubDate>
+    <description>Low-effort AI mod built for personal server only.  Should not be used by anyone. </description>
+  </item>
+  <item>
+    <title>Niltrias's Sinster Animal Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/11219</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11219#11219</guid>
+    <pubDate>Sun, 23 Aug 2026 23:50:36 -0000</pubDate>
+    <description>Adds primitive tanning and calming gen 1 animals more.  Extensive AI.  For personal server. </description>
+  </item>
+  <item>
+    <title>Olla</title>
+    <link>https://mods.vintagestory.at/show/mod/olla</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/olla#5784</guid>
+    <pubDate>Sun, 23 Aug 2026 23:47:44 -0000</pubDate>
+    <description> Bring ancient irrigation technology to Vintage Story! This mod adds ollas (pronounced "oy-yahs")</description>
+  </item>
   <item>
     <title>DRRP Caveshrooms</title>
     <link>https://mods.vintagestory.at/show/mod/caveshrooms</link>
@@ -97,123 +209,11 @@
     <description>Adds plants from the East Asiatic Region to the game.</description>
   </item>
   <item>
-    <title>Distant Vistas</title>
-    <link>https://mods.vintagestory.at/show/mod/distantvistas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/distantvistas#11259</guid>
-    <pubDate>Sun, 23 Aug 2026 22:18:22 -0000</pubDate>
-    <description>Distant Horizons-style far LOD terrain for Vintage Story. Client-only on any server; optional server</description>
-  </item>
-  <item>
-    <title>Valioso</title>
-    <link>https://mods.vintagestory.at/show/mod/11120</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11120#11120</guid>
-    <pubDate>Sun, 23 Aug 2026 22:06:40 -0000</pubDate>
-    <description>Valioso Mod</description>
-  </item>
-  <item>
     <title>W4RD0's Furniture</title>
     <link>https://mods.vintagestory.at/show/mod/w4rd0sfurniture</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/w4rd0sfurniture#11214</guid>
     <pubDate>Sun, 23 Aug 2026 22:02:19 -0000</pubDate>
     <description>A furniture pack adding detailed furniture like tables, chairs, couches, beds, shelves &amp; a lot more.</description>
-  </item>
-  <item>
-    <title>Scribe: Notes &amp; Tasks</title>
-    <link>https://mods.vintagestory.at/show/mod/scribe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scribe#10607</guid>
-    <pubDate>Sun, 23 Aug 2026 21:57:05 -0000</pubDate>
-    <description>Take notes and track tasks in-world. Pin tasks to a persistent HUD. Multiplayer-ready.</description>
-  </item>
-  <item>
-    <title>topgsmod</title>
-    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Sun, 23 Aug 2026 21:56:28 -0000</pubDate>
-    <description>TopGs Community Mod</description>
-  </item>
-  <item>
-    <title>Floral Zones: Central Australian Region</title>
-    <link>https://mods.vintagestory.at/show/mod/floralzonescentralaustralianregion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescentralaustralianregion#1989</guid>
-    <pubDate>Sun, 23 Aug 2026 21:42:33 -0000</pubDate>
-    <description>Adds plants from the Central Australian Region to the game.</description>
-  </item>
-  <item>
-    <title>HolySmoke</title>
-    <link>https://mods.vintagestory.at/show/mod/11254</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11254#11254</guid>
-    <pubDate>Sun, 23 Aug 2026 21:28:33 -0000</pubDate>
-    <description>A smoker mod I made for my server</description>
-  </item>
-  <item>
-    <title>Floral Zones: Caribbean Region</title>
-    <link>https://mods.vintagestory.at/show/mod/floralzonescaribbeanregion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescaribbeanregion#1666</guid>
-    <pubDate>Sun, 23 Aug 2026 21:28:19 -0000</pubDate>
-    <description>Adds plants from the Caribbean Region to the game.</description>
-  </item>
-  <item>
-    <title>Road network - connected curved roads and bridges</title>
-    <link>https://mods.vintagestory.at/show/mod/10739</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10739#10739</guid>
-    <pubDate>Sun, 23 Aug 2026 20:35:24 -0000</pubDate>
-    <description>Road Network allows you to spawn roads automatically, which snuggle to the terrain.</description>
-  </item>
-  <item>
-    <title>Nil's Sinister Boar Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/11255</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11255#11255</guid>
-    <pubDate>Sun, 23 Aug 2026 20:33:50 -0000</pubDate>
-    <description>Adds Ridable boars.  Extremely low effort. </description>
-  </item>
-  <item>
-    <title>DRRP The Unknowing</title>
-    <link>https://mods.vintagestory.at/show/mod/theunknowing</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/theunknowing#11253</guid>
-    <pubDate>Sun, 23 Aug 2026 20:29:38 -0000</pubDate>
-    <description>Admin-summoned storm of forgetting that consumes an abandoned land claim then regenerates it.</description>
-  </item>
-  <item>
-    <title>Rusty Shell CO Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/rustyshellcofork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustyshellcofork#11237</guid>
-    <pubDate>Sun, 23 Aug 2026 20:26:54 -0000</pubDate>
-    <description>Combat Overhaul compatible fork</description>
-  </item>
-  <item>
-    <title>vanilla armory classic</title>
-    <link>https://mods.vintagestory.at/show/mod/vanillaarmoryclassic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillaarmoryclassic#10322</guid>
-    <pubDate>Sun, 23 Aug 2026 20:14:23 -0000</pubDate>
-    <description>vanilla armory but restored to just being a cut content mod</description>
-  </item>
-  <item>
-    <title>Wotclasses</title>
-    <link>https://mods.vintagestory.at/show/mod/wotclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wotclasses#11077</guid>
-    <pubDate>Sun, 23 Aug 2026 20:10:13 -0000</pubDate>
-    <description>Classes for World of Thalorim.</description>
-  </item>
-  <item>
-    <title>Wallpaper Recipes</title>
-    <link>https://mods.vintagestory.at/show/mod/11251</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11251#11251</guid>
-    <pubDate>Sun, 23 Aug 2026 20:05:43 -0000</pubDate>
-    <description>Adds recipes for wallpaper, what else?</description>
-  </item>
-  <item>
-    <title>Olla</title>
-    <link>https://mods.vintagestory.at/show/mod/olla</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/olla#5784</guid>
-    <pubDate>Sun, 23 Aug 2026 20:05:24 -0000</pubDate>
-    <description> Bring ancient irrigation technology to Vintage Story! This mod adds ollas (pronounced "oy-yahs")</description>
-  </item>
-  <item>
-    <title>wotorigins</title>
-    <link>https://mods.vintagestory.at/show/mod/wotorigins</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wotorigins#11252</guid>
-    <pubDate>Sun, 23 Aug 2026 20:05:04 -0000</pubDate>
-    <description>Origins for World of Thalorim!</description>
   </item>
 </channel>
 </rss>
