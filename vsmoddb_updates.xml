@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 24 Aug 2026 16:39:53 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 17:32:49 +0000</lastBuildDate>
+  <item>
+    <title>Mixing bowl patch</title>
+    <link>https://mods.vintagestory.at/show/mod/11282</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11282#11282</guid>
+    <pubDate>Mon, 24 Aug 2026 17:15:45 -0000</pubDate>
+    <description>ACA and Xskills patch</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Mon, 24 Aug 2026 17:13:01 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
+  </item>
+  <item>
+    <title>Realistic Soap</title>
+    <link>https://mods.vintagestory.at/show/mod/realisticsoap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticsoap#10983</guid>
+    <pubDate>Mon, 24 Aug 2026 17:00:40 -0000</pubDate>
+    <description>Leach wood ash into lye, boil it with fat, cure the bars, then wash, because being filthy now costs</description>
+  </item>
+  <item>
+    <title>Road network - connected curved roads and bridges</title>
+    <link>https://mods.vintagestory.at/show/mod/10739</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10739#10739</guid>
+    <pubDate>Mon, 24 Aug 2026 16:47:34 -0000</pubDate>
+    <description>Road Network allows you to spawn roads automatically, which snuggle to the terrain.</description>
+  </item>
+  <item>
+    <title>C&amp;N Jewelry</title>
+    <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
+    <pubDate>Mon, 24 Aug 2026 16:45:14 -0000</pubDate>
+    <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
+  </item>
+  <item>
+    <title>CB Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Mon, 24 Aug 2026 16:44:09 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
+  <item>
+    <title>CB Factions</title>
+    <link>https://mods.vintagestory.at/show/mod/9586</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9586#9586</guid>
+    <pubDate>Mon, 24 Aug 2026 16:42:59 -0000</pubDate>
+    <description>Settlement and factions mod</description>
+  </item>
+  <item>
+    <title>CB Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Mon, 24 Aug 2026 16:41:57 -0000</pubDate>
+    <description>Skill and class mod for the CB server</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Mon, 24 Aug 2026 16:40:49 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
+  <item>
+    <title>CB Quests</title>
+    <link>https://mods.vintagestory.at/show/mod/10819</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10819#10819</guid>
+    <pubDate>Mon, 24 Aug 2026 16:39:52 -0000</pubDate>
+    <description>Adds quests for the the CB server</description>
+  </item>
   <item>
     <title>HomeGui</title>
     <link>https://mods.vintagestory.at/show/mod/hg</link>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butchering#1505</guid>
     <pubDate>Mon, 24 Aug 2026 11:51:58 -0000</pubDate>
     <description>A more immersive butchery system for processing animals</description>
-  </item>
-  <item>
-    <title>Manual Crank</title>
-    <link>https://mods.vintagestory.at/show/mod/manualcrank</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/manualcrank#11160</guid>
-    <pubDate>Mon, 24 Aug 2026 11:43:15 -0000</pubDate>
-    <description>Tired of waiting for wind or water power? Get your machines moving sooner!</description>
-  </item>
-  <item>
-    <title>Multi Home Teleport  /sethome /home /back /listhomes /homeinfo /delhome /tospawn /tp2p toplayer and teleport cost</title>
-    <link>https://mods.vintagestory.at/show/mod/4439</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4439#4439</guid>
-    <pubDate>Mon, 24 Aug 2026 11:31:11 -0000</pubDate>
-    <description>Multi Home Teleport mod with cooldown timers and optional teleport cost</description>
-  </item>
-  <item>
-    <title>GlobalQualityGears</title>
-    <link>https://mods.vintagestory.at/show/mod/11125</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11125#11125</guid>
-    <pubDate>Mon, 24 Aug 2026 11:11:27 -0000</pubDate>
-    <description>All Things RPG Server Patch for other mods</description>
-  </item>
-  <item>
-    <title>Pigeon's FlatBread</title>
-    <link>https://mods.vintagestory.at/show/mod/pigeonflatbread</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pigeonflatbread#11276</guid>
-    <pubDate>Mon, 24 Aug 2026 10:58:08 -0000</pubDate>
-    <description>A mod that allows you to make Flatbreads for a fulfilling meal on the go! perfect for nomads!</description>
-  </item>
-  <item>
-    <title>Armory Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/armoryfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/armoryfork#8416</guid>
-    <pubDate>Mon, 24 Aug 2026 10:57:39 -0000</pubDate>
-    <description>1.22 Fork</description>
-  </item>
-  <item>
-    <title>Forager's Gamble</title>
-    <link>https://mods.vintagestory.at/show/mod/foragersgamble</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/foragersgamble#4891</guid>
-    <pubDate>Mon, 24 Aug 2026 09:37:41 -0000</pubDate>
-    <description>Masks food information names until after eaten. Also introduces a toxin onset feature.</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Mon, 24 Aug 2026 09:35:54 -0000</pubDate>
-    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
-  </item>
-  <item>
-    <title>VoxelGrid Overlay</title>
-    <link>https://mods.vintagestory.at/show/mod/11268</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11268#11268</guid>
-    <pubDate>Mon, 24 Aug 2026 08:28:56 -0000</pubDate>
-    <description>A client-side .vgrid project overlay for Vintage Story featuring block-based terrain guidance.</description>
-  </item>
-  <item>
-    <title>Nadilion Server Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/5684</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5684#5684</guid>
-    <pubDate>Mon, 24 Aug 2026 08:02:23 -0000</pubDate>
-    <description>Tweaks for the Nadilion gaming server</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Mon, 24 Aug 2026 07:32:00 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
   </item>
 </channel>
 </rss>
