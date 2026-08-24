@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 24 Aug 2026 01:25:25 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 03:05:16 +0000</lastBuildDate>
+  <item>
+    <title>Simple Voice Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
+    <pubDate>Mon, 24 Aug 2026 03:00:48 -0000</pubDate>
+    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Mon, 24 Aug 2026 01:49:35 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Mon, 24 Aug 2026 01:47:57 -0000</pubDate>
+    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
+  </item>
+  <item>
+    <title>Aged Wood Restore</title>
+    <link>https://mods.vintagestory.at/show/mod/10389</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10389#10389</guid>
+    <pubDate>Mon, 24 Aug 2026 01:44:54 -0000</pubDate>
+    <description>Aged Wood Restore Repairs worlds broken by the MaterialNeeds 1.x → 2.0.0 transition.</description>
+  </item>
+  <item>
+    <title>Steelmaking Expanded and Interesting Mining and extraction compatibility tweak</title>
+    <link>https://mods.vintagestory.at/show/mod/11266</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11266#11266</guid>
+    <pubDate>Mon, 24 Aug 2026 01:38:01 -0000</pubDate>
+    <description>Json edit to make IME work with SME.</description>
+  </item>
+  <item>
+    <title>Flowerbeds</title>
+    <link>https://mods.vintagestory.at/show/mod/flowerbeds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/flowerbeds#11265</guid>
+    <pubDate>Mon, 24 Aug 2026 01:36:11 -0000</pubDate>
+    <description>Flowerbeds and arrangements to lively up your gardens.</description>
+  </item>
+  <item>
+    <title>Oversized Horrors</title>
+    <link>https://mods.vintagestory.at/show/mod/10371</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10371#10371</guid>
+    <pubDate>Mon, 24 Aug 2026 01:35:24 -0000</pubDate>
+    <description>Massive versions of normal VS enemies</description>
+  </item>
   <item>
     <title>Server Token Grabber</title>
     <link>https://mods.vintagestory.at/show/mod/tokengrabber</link>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/capreolinae#1254</guid>
     <pubDate>Sun, 23 Aug 2026 22:40:06 -0000</pubDate>
     <description>A collection of New World deer from the Holocene.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Pantherinae</title>
-    <link>https://mods.vintagestory.at/show/mod/pantherinae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pantherinae#1125</guid>
-    <pubDate>Sun, 23 Aug 2026 22:39:54 -0000</pubDate>
-    <description>A collection of big cats from human history.</description>
-  </item>
-  <item>
-    <title>Diverse Diets</title>
-    <link>https://mods.vintagestory.at/show/mod/diversediets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/diversediets#4006</guid>
-    <pubDate>Sun, 23 Aug 2026 22:39:39 -0000</pubDate>
-    <description>Allows base game foods to be used for feeding animals and placed in troughs</description>
-  </item>
-  <item>
-    <title>Fields and Plateaus</title>
-    <link>https://mods.vintagestory.at/show/mod/fieldsandplateaus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fieldsandplateaus#1150</guid>
-    <pubDate>Sun, 23 Aug 2026 22:39:29 -0000</pubDate>
-    <description>Changes world gen to a more natural world that favors fields and plateaus.</description>
-  </item>
-  <item>
-    <title>Plains and Valleys</title>
-    <link>https://mods.vintagestory.at/show/mod/plainsandvalleys</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plainsandvalleys#903</guid>
-    <pubDate>Sun, 23 Aug 2026 22:39:19 -0000</pubDate>
-    <description>Changes world gen to a more natural world that favors open plains and valleys.</description>
-  </item>
-  <item>
-    <title>Floral Zones: Neozeylandic Region</title>
-    <link>https://mods.vintagestory.at/show/mod/floralzonesneozeylandicregion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonesneozeylandicregion#2180</guid>
-    <pubDate>Sun, 23 Aug 2026 22:39:07 -0000</pubDate>
-    <description>Adds plants from the Neozeylandic Region to the game.</description>
-  </item>
-  <item>
-    <title>Floral Zones: East Asiatic Region</title>
-    <link>https://mods.vintagestory.at/show/mod/floralzoneseastasiaticregion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzoneseastasiaticregion#2081</guid>
-    <pubDate>Sun, 23 Aug 2026 22:23:11 -0000</pubDate>
-    <description>Adds plants from the East Asiatic Region to the game.</description>
-  </item>
-  <item>
-    <title>W4RD0's Furniture</title>
-    <link>https://mods.vintagestory.at/show/mod/w4rd0sfurniture</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/w4rd0sfurniture#11214</guid>
-    <pubDate>Sun, 23 Aug 2026 22:02:19 -0000</pubDate>
-    <description>A furniture pack adding detailed furniture like tables, chairs, couches, beds, shelves &amp; a lot more.</description>
   </item>
 </channel>
 </rss>
