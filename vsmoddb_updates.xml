@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 24 Aug 2026 07:02:26 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 08:51:04 +0000</lastBuildDate>
+  <item>
+    <title>VoxelGrid Overlay</title>
+    <link>https://mods.vintagestory.at/show/mod/11268</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11268#11268</guid>
+    <pubDate>Mon, 24 Aug 2026 08:28:56 -0000</pubDate>
+    <description>A client-side .vgrid project overlay for Vintage Story featuring block-based terrain guidance.</description>
+  </item>
+  <item>
+    <title>Nadilion Server Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/5684</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5684#5684</guid>
+    <pubDate>Mon, 24 Aug 2026 08:02:23 -0000</pubDate>
+    <description>Tweaks for the Nadilion gaming server</description>
+  </item>
+  <item>
+    <title>Animal Kinship</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinship</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinship#9647</guid>
+    <pubDate>Mon, 24 Aug 2026 07:41:50 -0000</pubDate>
+    <description>Animals recognize their feral kin, with simple taming for supported wildlife.</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Mon, 24 Aug 2026 07:32:00 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
+  <item>
+    <title>Simple Voice Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
+    <pubDate>Mon, 24 Aug 2026 07:31:10 -0000</pubDate>
+    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Mon, 24 Aug 2026 07:10:01 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>Tamables: Critters</title>
+    <link>https://mods.vintagestory.at/show/mod/tamablescritters</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tamablescritters#11270</guid>
+    <pubDate>Mon, 24 Aug 2026 07:04:16 -0000</pubDate>
+    <description>Adds tamables for a few requested mods here and there</description>
+  </item>
+  <item>
+    <title>Radial Menu: Arrows and Bolts</title>
+    <link>https://mods.vintagestory.at/show/mod/radialmenuarrowsandbolts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/radialmenuarrowsandbolts#11241</guid>
+    <pubDate>Mon, 24 Aug 2026 07:02:56 -0000</pubDate>
+    <description>Radial ammo selector for bows and crossbows, compatible with popular combat and ammo mods.</description>
+  </item>
   <item>
     <title>Water source block deletion bug fix for 1.22</title>
     <link>https://mods.vintagestory.at/show/mod/watersourcebugfix122</link>
@@ -69,20 +125,6 @@
     <description>Every bear has a 10% chance to spawn in a bikini (6 styles) and a straw sun hat. Configurable.</description>
   </item>
   <item>
-    <title>Nadilion Server Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/5684</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5684#5684</guid>
-    <pubDate>Mon, 24 Aug 2026 03:40:43 -0000</pubDate>
-    <description>Tweaks for the Nadilion gaming server</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Mon, 24 Aug 2026 03:38:03 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
     <title>Riley's Classes</title>
     <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
@@ -102,13 +144,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/launchergo#9280</guid>
     <pubDate>Mon, 24 Aug 2026 03:11:12 -0000</pubDate>
     <description>LauncherGo is a graphical server launcher for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Mon, 24 Aug 2026 03:00:48 -0000</pubDate>
-    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
   </item>
   <item>
     <title>VS Director</title>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
     <pubDate>Mon, 24 Aug 2026 00:57:40 -0000</pubDate>
     <description>Factions - Raids - Sieges - Shops - Bounty</description>
-  </item>
-  <item>
-    <title>TassBetterFishing</title>
-    <link>https://mods.vintagestory.at/show/mod/tassbetterfishing</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassbetterfishing#10604</guid>
-    <pubDate>Mon, 24 Aug 2026 00:55:13 -0000</pubDate>
-    <description>Fish are now worth catching</description>
-  </item>
-  <item>
-    <title>TassSpawnControls</title>
-    <link>https://mods.vintagestory.at/show/mod/tassspawncontrols</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassspawncontrols#11264</guid>
-    <pubDate>Mon, 24 Aug 2026 00:50:52 -0000</pubDate>
-    <description>Spawn controls and special spawn tree</description>
-  </item>
-  <item>
-    <title>Valioso</title>
-    <link>https://mods.vintagestory.at/show/mod/11120</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11120#11120</guid>
-    <pubDate>Mon, 24 Aug 2026 00:36:09 -0000</pubDate>
-    <description>Valioso Mod</description>
-  </item>
-  <item>
-    <title>Arcticia - Eskimos</title>
-    <link>https://mods.vintagestory.at/show/mod/11232</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11232#11232</guid>
-    <pubDate>Mon, 24 Aug 2026 00:29:53 -0000</pubDate>
-    <description>Adds a custom class for Snowball Earth playthroughs.</description>
-  </item>
-  <item>
-    <title>Resonator Overhaul </title>
-    <link>https://mods.vintagestory.at/show/mod/10009</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10009#10009</guid>
-    <pubDate>Mon, 24 Aug 2026 00:23:40 -0000</pubDate>
-    <description>Per-resonator volume, falloff and looping — saved to the world and audible with Music off.</description>
   </item>
 </channel>
 </rss>
