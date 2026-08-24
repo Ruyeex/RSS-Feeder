@@ -4,13 +4,41 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 24 Aug 2026 12:54:09 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 13:53:38 +0000</lastBuildDate>
+  <item>
+    <title>Gunboat</title>
+    <link>https://mods.vintagestory.at/show/mod/gunboat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gunboat#11238</guid>
+    <pubDate>Mon, 24 Aug 2026 13:46:19 -0000</pubDate>
+    <description>Gunboats and other Warships</description>
+  </item>
+  <item>
+    <title>Claim Observer</title>
+    <link>https://mods.vintagestory.at/show/mod/claimobserver</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claimobserver#11272</guid>
+    <pubDate>Mon, 24 Aug 2026 13:41:02 -0000</pubDate>
+    <description>Client-side mod for better claims navigation. See claims in world and on worldmap</description>
+  </item>
+  <item>
+    <title>Threnkal</title>
+    <link>https://mods.vintagestory.at/show/mod/threnkal</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/threnkal#10944</guid>
+    <pubDate>Mon, 24 Aug 2026 13:21:17 -0000</pubDate>
+    <description>A race of cow folks based on minotaurs and taurens from WoW.</description>
+  </item>
   <item>
     <title>LevelUP Aldi's &amp; Riley's Class Patch</title>
     <link>https://mods.vintagestory.at/show/mod/11279</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11279#11279</guid>
-    <pubDate>Mon, 24 Aug 2026 12:50:23 -0000</pubDate>
+    <pubDate>Mon, 24 Aug 2026 13:05:44 -0000</pubDate>
     <description>Added Aldi's &amp; Riley's class configuration for LevelUP</description>
+  </item>
+  <item>
+    <title>Combat Overhaul Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/combatoverhaulforked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/combatoverhaulforked#8415</guid>
+    <pubDate>Mon, 24 Aug 2026 13:01:44 -0000</pubDate>
+    <description>1.22 fork</description>
   </item>
   <item>
     <title>Toggleable Night Vision</title>
@@ -25,13 +53,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/femaleseraph#3896</guid>
     <pubDate>Mon, 24 Aug 2026 12:40:15 -0000</pubDate>
     <description>Makes the player character's appearance feminine</description>
-  </item>
-  <item>
-    <title>Claim Observer</title>
-    <link>https://mods.vintagestory.at/show/mod/claimobserver</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claimobserver#11272</guid>
-    <pubDate>Mon, 24 Aug 2026 12:13:49 -0000</pubDate>
-    <description>Client-side mod for better claims navigation. See claims in world and on worldmap</description>
   </item>
   <item>
     <title>Crate Atlas Fix</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/flowerbeds#11265</guid>
     <pubDate>Mon, 24 Aug 2026 05:20:43 -0000</pubDate>
     <description>Flowerbeds and arrangements to lively up your gardens.</description>
-  </item>
-  <item>
-    <title>Hazmat Suit</title>
-    <link>https://mods.vintagestory.at/show/mod/7157</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7157#7157</guid>
-    <pubDate>Mon, 24 Aug 2026 05:13:37 -0000</pubDate>
-    <description>Adds a hazmat protective suit with a charging rack and many more features</description>
-  </item>
-  <item>
-    <title>Stratum - High-performance server software.</title>
-    <link>https://mods.vintagestory.at/show/mod/stratum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stratum#9499</guid>
-    <pubDate>Mon, 24 Aug 2026 04:59:10 -0000</pubDate>
-    <description>Focused on smoother multiplayer servers, better performance under load and, practical tools.</description>
-  </item>
-  <item>
-    <title>Bikini Bear</title>
-    <link>https://mods.vintagestory.at/show/mod/bikinibear</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bikinibear#11173</guid>
-    <pubDate>Mon, 24 Aug 2026 04:46:20 -0000</pubDate>
-    <description>Every bear has a 10% chance to spawn in a bikini (6 styles) and a straw sun hat. Configurable.</description>
   </item>
 </channel>
 </rss>
