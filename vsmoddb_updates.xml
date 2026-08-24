@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 24 Aug 2026 18:42:30 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 19:31:24 +0000</lastBuildDate>
+  <item>
+    <title>Dragonia Translations</title>
+    <link>https://mods.vintagestory.at/show/mod/10016</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10016#10016</guid>
+    <pubDate>Mon, 24 Aug 2026 19:15:04 -0000</pubDate>
+    <description>Переводы и отредактированные переводы под стиль сервера. </description>
+  </item>
+  <item>
+    <title>Dragonia Server Mod Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/dragoniapatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dragoniapatch#5896</guid>
+    <pubDate>Mon, 24 Aug 2026 19:14:05 -0000</pubDate>
+    <description>Меняет генерацию железа и добавляет новый крафт льняного шпагата</description>
+  </item>
+  <item>
+    <title>C&amp;N Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/canclaims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canclaims#589</guid>
+    <pubDate>Mon, 24 Aug 2026 19:06:04 -0000</pubDate>
+    <description>Land protection mod.</description>
+  </item>
+  <item>
+    <title>BlockBasedTransientBehavior</title>
+    <link>https://mods.vintagestory.at/show/mod/7365</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7365#7365</guid>
+    <pubDate>Mon, 24 Aug 2026 18:59:20 -0000</pubDate>
+    <description>Replaces BlockEntityTransient with a block-based ticking implementation.</description>
+  </item>
   <item>
     <title>RP Voice Chat</title>
     <link>https://mods.vintagestory.at/show/mod/rpvoicechat</link>
@@ -53,13 +81,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11054#11054</guid>
     <pubDate>Mon, 24 Aug 2026 17:34:48 -0000</pubDate>
     <description>Links vanilla land claims to a player group and adds a protected buffer zone around them.</description>
-  </item>
-  <item>
-    <title>Mixing bowl patch</title>
-    <link>https://mods.vintagestory.at/show/mod/11282</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11282#11282</guid>
-    <pubDate>Mon, 24 Aug 2026 17:15:45 -0000</pubDate>
-    <description>ACA and Xskills patch</description>
   </item>
   <item>
     <title>Boric Alchemy</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gunboat#11238</guid>
     <pubDate>Mon, 24 Aug 2026 13:46:19 -0000</pubDate>
     <description>Gunboats and other Warships</description>
-  </item>
-  <item>
-    <title>Threnkal</title>
-    <link>https://mods.vintagestory.at/show/mod/threnkal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/threnkal#10944</guid>
-    <pubDate>Mon, 24 Aug 2026 13:21:17 -0000</pubDate>
-    <description>A race of cow folks based on minotaurs and taurens from WoW.</description>
-  </item>
-  <item>
-    <title>LevelUP Aldi's &amp; Riley's Class Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/11279</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11279#11279</guid>
-    <pubDate>Mon, 24 Aug 2026 13:05:44 -0000</pubDate>
-    <description>Added Aldi's &amp; Riley's class configuration for LevelUP</description>
-  </item>
-  <item>
-    <title>Combat Overhaul Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/combatoverhaulforked</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/combatoverhaulforked#8415</guid>
-    <pubDate>Mon, 24 Aug 2026 13:01:44 -0000</pubDate>
-    <description>1.22 fork</description>
   </item>
 </channel>
 </rss>
