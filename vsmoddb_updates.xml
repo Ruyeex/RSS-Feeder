@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 24 Aug 2026 14:44:30 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 15:41:21 +0000</lastBuildDate>
+  <item>
+    <title>Injury Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/9695</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9695#9695</guid>
+    <pubDate>Mon, 24 Aug 2026 15:29:51 -0000</pubDate>
+    <description>An Injury, Diagnosis and Treatment system</description>
+  </item>
+  <item>
+    <title>Reachable Creative Tabs</title>
+    <link>https://mods.vintagestory.at/show/mod/rct</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rct#9308</guid>
+    <pubDate>Mon, 24 Aug 2026 15:26:33 -0000</pubDate>
+    <description>Makes overflowing creative inventory tabs reachable in heavily modded games by paging the right-side</description>
+  </item>
+  <item>
+    <title>Animal Kinship</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinship</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinship#9647</guid>
+    <pubDate>Mon, 24 Aug 2026 15:24:43 -0000</pubDate>
+    <description>Animals recognize their feral kin, with simple taming for supported wildlife.</description>
+  </item>
+  <item>
+    <title>HomeGui</title>
+    <link>https://mods.vintagestory.at/show/mod/hg</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hg#11281</guid>
+    <pubDate>Mon, 24 Aug 2026 15:07:16 -0000</pubDate>
+    <description>Gui for teleport commands in Th3essentials</description>
+  </item>
   <item>
     <title>CommandHook</title>
     <link>https://mods.vintagestory.at/show/mod/9782</link>
@@ -160,13 +188,6 @@
     <description>Tweaks for the Nadilion gaming server</description>
   </item>
   <item>
-    <title>Animal Kinship</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinship</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinship#9647</guid>
-    <pubDate>Mon, 24 Aug 2026 07:41:50 -0000</pubDate>
-    <description>Animals recognize their feral kin, with simple taming for supported wildlife.</description>
-  </item>
-  <item>
     <title>Feral Kinship: Companions</title>
     <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/radialmenuarrowsandbolts#11241</guid>
     <pubDate>Mon, 24 Aug 2026 07:02:56 -0000</pubDate>
     <description>Radial ammo selector for bows and crossbows, compatible with popular combat and ammo mods.</description>
-  </item>
-  <item>
-    <title>Water source block deletion bug fix for 1.22</title>
-    <link>https://mods.vintagestory.at/show/mod/watersourcebugfix122</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/watersourcebugfix122#11269</guid>
-    <pubDate>Mon, 24 Aug 2026 06:57:49 -0000</pubDate>
-    <description>Fixes a 1.22 bug that causes falling water to remove water source blocks under it.</description>
-  </item>
-  <item>
-    <title>Ecosystem - Flora</title>
-    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
-    <pubDate>Mon, 24 Aug 2026 06:49:14 -0000</pubDate>
-    <description>Making flora living</description>
-  </item>
-  <item>
-    <title>Rusty Shell CO Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/rustyshellcofork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustyshellcofork#11237</guid>
-    <pubDate>Mon, 24 Aug 2026 06:30:14 -0000</pubDate>
-    <description>Combat Overhaul compatible fork</description>
   </item>
 </channel>
 </rss>
