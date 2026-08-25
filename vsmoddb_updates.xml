@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 25 Aug 2026 12:51:18 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 13:52:20 +0000</lastBuildDate>
+  <item>
+    <title>CB Quests</title>
+    <link>https://mods.vintagestory.at/show/mod/10819</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10819#10819</guid>
+    <pubDate>Tue, 25 Aug 2026 13:48:10 -0000</pubDate>
+    <description>Adds quests for the the CB server</description>
+  </item>
+  <item>
+    <title>CB Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Tue, 25 Aug 2026 13:47:07 -0000</pubDate>
+    <description>Skill and class mod for the CB server</description>
+  </item>
+  <item>
+    <title>Chisel it Everywhere</title>
+    <link>https://mods.vintagestory.at/show/mod/11306</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11306#11306</guid>
+    <pubDate>Tue, 25 Aug 2026 13:11:18 -0000</pubDate>
+    <description>Carve chisel decoration onto any block — even the ones the game normally forbids</description>
+  </item>
+  <item>
+    <title>C&amp;N Events</title>
+    <link>https://mods.vintagestory.at/show/mod/canevents</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
+    <pubDate>Tue, 25 Aug 2026 12:59:56 -0000</pubDate>
+    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
+  </item>
   <item>
     <title>Additive Chiseling</title>
     <link>https://mods.vintagestory.at/show/mod/additivechiseling</link>
@@ -74,13 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
     <pubDate>Tue, 25 Aug 2026 11:15:30 -0000</pubDate>
     <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>C&amp;N Events</title>
-    <link>https://mods.vintagestory.at/show/mod/canevents</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
-    <pubDate>Tue, 25 Aug 2026 10:57:09 -0000</pubDate>
-    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
   </item>
   <item>
     <title>Gondola Cable Car</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cozypierzynasfix#11299</guid>
     <pubDate>Tue, 25 Aug 2026 05:44:00 -0000</pubDate>
     <description>a fix for Cozy Pierzynas by Igor, now the items and recipes will appear properly on the handbook </description>
-  </item>
-  <item>
-    <title>Blood Fennel Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/11296</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11296#11296</guid>
-    <pubDate>Tue, 25 Aug 2026 05:34:23 -0000</pubDate>
-    <description>Bridges my two mods, "More Blood Thingies," and "Fennel Swag."</description>
-  </item>
-  <item>
-    <title>Archipelago Client</title>
-    <link>https://mods.vintagestory.at/show/mod/apclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/apclient#6277</guid>
-    <pubDate>Tue, 25 Aug 2026 04:49:59 -0000</pubDate>
-    <description>A simple integration of Vintage Story with Archipelago Multiworld Randomizer.</description>
-  </item>
-  <item>
-    <title>Fanloid Fantweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10433</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10433#10433</guid>
-    <pubDate>Tue, 25 Aug 2026 03:58:35 -0000</pubDate>
-    <description>Misc patches.</description>
   </item>
 </channel>
 </rss>
