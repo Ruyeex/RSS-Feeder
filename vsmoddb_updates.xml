@@ -4,20 +4,69 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 24 Aug 2026 23:24:14 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 01:22:22 +0000</lastBuildDate>
+  <item>
+    <title>Re-Reforged Tools</title>
+    <link>https://mods.vintagestory.at/show/mod/8567</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8567#8567</guid>
+    <pubDate>Tue, 25 Aug 2026 00:58:07 -0000</pubDate>
+    <description>A fork of ODs's Reforged Tools updated for 1.22</description>
+  </item>
+  <item>
+    <title>Blood Fennel Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/11296</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11296#11296</guid>
+    <pubDate>Tue, 25 Aug 2026 00:46:30 -0000</pubDate>
+    <description>Bridges my two mods, "More Blood Thingies," and "Fennel Swag."</description>
+  </item>
+  <item>
+    <title>Fennel Swag</title>
+    <link>https://mods.vintagestory.at/show/mod/11294</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11294#11294</guid>
+    <pubDate>Tue, 25 Aug 2026 00:46:11 -0000</pubDate>
+    <description>Adds some features for fennel because it isn't any good</description>
+  </item>
+  <item>
+    <title>The Hunter</title>
+    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
+    <pubDate>Tue, 25 Aug 2026 00:35:39 -0000</pubDate>
+    <description>Track prey, follow blood, carry carcasses, compost dung, and have smarter wolves.</description>
+  </item>
+  <item>
+    <title>Wafuku</title>
+    <link>https://mods.vintagestory.at/show/mod/11037</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11037#11037</guid>
+    <pubDate>Tue, 25 Aug 2026 00:27:36 -0000</pubDate>
+    <description>Garments and masks inspired by traditional Japanese clothing</description>
+  </item>
+  <item>
+    <title>Cairn — Modpack Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/cairn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
+    <pubDate>Mon, 24 Aug 2026 23:55:06 -0000</pubDate>
+    <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
+  </item>
+  <item>
+    <title>Zomb's Purposeful Storage Weapon Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/6142</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6142#6142</guid>
+    <pubDate>Mon, 24 Aug 2026 23:29:23 -0000</pubDate>
+    <description>Unofficial patches to make several weapon mods work with Purposeful Storage.</description>
+  </item>
+  <item>
+    <title>VF Server Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/vfservermod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vfservermod#11292</guid>
+    <pubDate>Mon, 24 Aug 2026 23:26:55 -0000</pubDate>
+    <description>VF Server Tweaks mods and patches collection mod</description>
+  </item>
   <item>
     <title>(Not) Just Tofu</title>
     <link>https://mods.vintagestory.at/show/mod/justtofu</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justtofu#9542</guid>
     <pubDate>Mon, 24 Aug 2026 23:11:13 -0000</pubDate>
     <description>Simple tofu, miso, and tempeh making process for better vegan protein &amp; dairy food and meal options.</description>
-  </item>
-  <item>
-    <title>VF Server Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/vfservermod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vfservermod#11292</guid>
-    <pubDate>Mon, 24 Aug 2026 22:59:43 -0000</pubDate>
-    <description>VF Server Tweaks mods and patches collection mod</description>
   </item>
   <item>
     <title>HomeGui</title>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bottomsup#5472</guid>
     <pubDate>Mon, 24 Aug 2026 19:40:08 -0000</pubDate>
     <description>Fancy glass bottles and glassware for your bar</description>
-  </item>
-  <item>
-    <title>NDL Villagers</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlvillagers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlvillagers#3429</guid>
-    <pubDate>Mon, 24 Aug 2026 19:39:53 -0000</pubDate>
-    <description>Adds Villagers/Guards/Clerics to populate your builds and also a way to get traders in your builds!</description>
-  </item>
-  <item>
-    <title>Dragonia Translations</title>
-    <link>https://mods.vintagestory.at/show/mod/10016</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10016#10016</guid>
-    <pubDate>Mon, 24 Aug 2026 19:15:04 -0000</pubDate>
-    <description>Переводы и отредактированные переводы под стиль сервера. </description>
-  </item>
-  <item>
-    <title>Dragonia Server Mod Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/dragoniapatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dragoniapatch#5896</guid>
-    <pubDate>Mon, 24 Aug 2026 19:14:05 -0000</pubDate>
-    <description>Меняет генерацию железа и добавляет новый крафт льняного шпагата</description>
-  </item>
-  <item>
-    <title>C&amp;N Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/canclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canclaims#589</guid>
-    <pubDate>Mon, 24 Aug 2026 19:06:04 -0000</pubDate>
-    <description>Land protection mod.</description>
-  </item>
-  <item>
-    <title>BlockBasedTransientBehavior</title>
-    <link>https://mods.vintagestory.at/show/mod/7365</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7365#7365</guid>
-    <pubDate>Mon, 24 Aug 2026 18:59:20 -0000</pubDate>
-    <description>Replaces BlockEntityTransient with a block-based ticking implementation.</description>
-  </item>
-  <item>
-    <title>RP Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/rpvoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rpvoicechat#1371</guid>
-    <pubDate>Mon, 24 Aug 2026 18:36:58 -0000</pubDate>
-    <description>A mod for proximity VoIP. Shout at your friends!</description>
-  </item>
-  <item>
-    <title>Czech Patch - Čeština do módů</title>
-    <link>https://mods.vintagestory.at/show/mod/czechpatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/czechpatch#2800</guid>
-    <pubDate>Mon, 24 Aug 2026 18:24:07 -0000</pubDate>
-    <description>Mod, který přidá české překlady některých módů do hry. Adds Czech translations to some mods</description>
   </item>
 </channel>
 </rss>
