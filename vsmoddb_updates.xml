@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 25 Aug 2026 11:29:59 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 12:51:18 +0000</lastBuildDate>
+  <item>
+    <title>Additive Chiseling</title>
+    <link>https://mods.vintagestory.at/show/mod/additivechiseling</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/additivechiseling#11186</guid>
+    <pubDate>Tue, 25 Aug 2026 12:43:24 -0000</pubDate>
+    <description>Adds a new way of building with chiseled blocks</description>
+  </item>
+  <item>
+    <title>Vintage Canvas Vertical Rack Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/11305</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11305#11305</guid>
+    <pubDate>Tue, 25 Aug 2026 12:42:24 -0000</pubDate>
+    <description>Lets Vintage Canvas paintings fit securely into vanilla vertical racks.</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Tue, 25 Aug 2026 12:31:47 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>Forlorn Additions CO fork</title>
+    <link>https://mods.vintagestory.at/show/mod/forlornadditionscofork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/forlornadditionscofork#9807</guid>
+    <pubDate>Tue, 25 Aug 2026 12:26:11 -0000</pubDate>
+    <description>1.22 Fork</description>
+  </item>
+  <item>
+    <title>Blackguard Additions CO fork</title>
+    <link>https://mods.vintagestory.at/show/mod/blackguardadditionscofork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blackguardadditionscofork#9806</guid>
+    <pubDate>Tue, 25 Aug 2026 12:25:57 -0000</pubDate>
+    <description>1.22 Fork</description>
+  </item>
+  <item>
+    <title>Low Light Spawns</title>
+    <link>https://mods.vintagestory.at/show/mod/lowlightspawns</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lowlightspawns#6248</guid>
+    <pubDate>Tue, 25 Aug 2026 12:14:07 -0000</pubDate>
+    <description>Simple mod to change the light level at which all monsters spawn</description>
+  </item>
+  <item>
+    <title>Bannerlord &amp; extra music (For lost Lands Server vol.1)</title>
+    <link>https://mods.vintagestory.at/show/mod/bannerlordextramusicforlostlandsservervol1</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bannerlordextramusicforlostlandsservervol1#11287</guid>
+    <pubDate>Tue, 25 Aug 2026 11:50:33 -0000</pubDate>
+    <description>Just pack of music for Lost Land Server Просто пак музыки для Потерянных земель.</description>
+  </item>
+  <item>
+    <title>Bannerlord &amp; extra music (For lost Lands Server vol.2)</title>
+    <link>https://mods.vintagestory.at/show/mod/11288</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11288#11288</guid>
+    <pubDate>Tue, 25 Aug 2026 11:43:38 -0000</pubDate>
+    <description>Just pack of music for Lost Land Server Просто пак музыки для Потерянных земель. </description>
+  </item>
+  <item>
+    <title>Magnezia Armor</title>
+    <link>https://mods.vintagestory.at/show/mod/11303</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11303#11303</guid>
+    <pubDate>Tue, 25 Aug 2026 11:19:31 -0000</pubDate>
+    <description>Magnezian Armor, thanks to Bran</description>
+  </item>
   <item>
     <title>Solaria's Solace Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/10706</link>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10433#10433</guid>
     <pubDate>Tue, 25 Aug 2026 03:58:35 -0000</pubDate>
     <description>Misc patches.</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Tue, 25 Aug 2026 03:50:46 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Wilderlands Stonebound</title>
-    <link>https://mods.vintagestory.at/show/mod/5975</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5975#5975</guid>
-    <pubDate>Tue, 25 Aug 2026 03:45:02 -0000</pubDate>
-    <description>Wilderlands Stonebound overhauls the mining, mineral, and ore extraction systems of Vintage Story.</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Tue, 25 Aug 2026 03:30:34 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
-    <title>Doors, Hatches, &amp; Gates Overhaul</title>
-    <link>https://mods.vintagestory.at/show/mod/11298</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11298#11298</guid>
-    <pubDate>Tue, 25 Aug 2026 03:02:52 -0000</pubDate>
-    <description>Auto-opening doors with selectable sounds and configurable hand or lever-only operation.</description>
-  </item>
-  <item>
-    <title>Client MeshRef Leak Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/vsvaogc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsvaogc#11228</guid>
-    <pubDate>Tue, 25 Aug 2026 02:53:37 -0000</pubDate>
-    <description>Stops FPS drops and stuttering from a long-session graphics memory leak. Client-only.</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Tue, 25 Aug 2026 02:51:49 -0000</pubDate>
-    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
-  </item>
-  <item>
-    <title>More Blood Thingies!</title>
-    <link>https://mods.vintagestory.at/show/mod/10959</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
-    <pubDate>Tue, 25 Aug 2026 02:27:47 -0000</pubDate>
-    <description>Adds all the features for bloodbread that should have been.</description>
-  </item>
-  <item>
-    <title>Seamarks -- Beacons &amp; Lighthouses</title>
-    <link>https://mods.vintagestory.at/show/mod/seamarks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seamarks#10124</guid>
-    <pubDate>Tue, 25 Aug 2026 01:33:00 -0000</pubDate>
-    <description>Build lighthouses and fire beacons to help navigate the world and its oceans.</description>
-  </item>
-  <item>
-    <title>Feed or Fallow</title>
-    <link>https://mods.vintagestory.at/show/mod/11297</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11297#11297</guid>
-    <pubDate>Tue, 25 Aug 2026 01:20:17 -0000</pubDate>
-    <description>Your livestock get hungry now. (call for testers)</description>
   </item>
 </channel>
 </rss>
