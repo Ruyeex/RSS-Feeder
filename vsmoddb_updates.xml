@@ -4,7 +4,14 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 25 Aug 2026 07:45:44 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 08:45:01 +0000</lastBuildDate>
+  <item>
+    <title>BlockBasedTransientBehavior</title>
+    <link>https://mods.vintagestory.at/show/mod/7365</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7365#7365</guid>
+    <pubDate>Tue, 25 Aug 2026 08:15:41 -0000</pubDate>
+    <description>Replaces BlockEntityTransient with a block-based ticking implementation.</description>
+  </item>
   <item>
     <title>Equus: Mud Bloods</title>
     <link>https://mods.vintagestory.at/show/mod/equusmudblood</link>
@@ -207,13 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/detailedanimals#2538</guid>
     <pubDate>Mon, 24 Aug 2026 22:50:12 -0000</pubDate>
     <description>Believable animal husbandry, behaviour, and genetics.</description>
-  </item>
-  <item>
-    <title>Peat for Charcoal</title>
-    <link>https://mods.vintagestory.at/show/mod/peatforcharcoal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/peatforcharcoal#10384</guid>
-    <pubDate>Mon, 24 Aug 2026 22:48:02 -0000</pubDate>
-    <description>Allows using peat bricks as a substitute for firewood + changes to Peat piles.</description>
   </item>
 </channel>
 </rss>
