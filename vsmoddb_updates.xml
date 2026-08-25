@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 25 Aug 2026 08:45:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 09:37:36 +0000</lastBuildDate>
+  <item>
+    <title>race addition</title>
+    <link>https://mods.vintagestory.at/show/mod/10150</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10150#10150</guid>
+    <pubDate>Tue, 25 Aug 2026 09:26:46 -0000</pubDate>
+    <description>adds a race to my server</description>
+  </item>
+  <item>
+    <title>Butchering - Fauna of the Stone Age Compatibility Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/butcheringfotsacompatability</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butcheringfotsacompatability#11301</guid>
+    <pubDate>Tue, 25 Aug 2026 09:10:56 -0000</pubDate>
+    <description>A focused compatibility add-on for Butchering and the modular Fauna of the Stone Age animal packs on</description>
+  </item>
+  <item>
+    <title>Butchering</title>
+    <link>https://mods.vintagestory.at/show/mod/butchering</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butchering#1505</guid>
+    <pubDate>Tue, 25 Aug 2026 08:48:57 -0000</pubDate>
+    <description>A more immersive butchery system for processing animals</description>
+  </item>
   <item>
     <title>BlockBasedTransientBehavior</title>
     <link>https://mods.vintagestory.at/show/mod/7365</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vfservermod#11292</guid>
     <pubDate>Mon, 24 Aug 2026 23:26:55 -0000</pubDate>
     <description>VF Server Tweaks mods and patches collection mod</description>
-  </item>
-  <item>
-    <title>(Not) Just Tofu</title>
-    <link>https://mods.vintagestory.at/show/mod/justtofu</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justtofu#9542</guid>
-    <pubDate>Mon, 24 Aug 2026 23:11:13 -0000</pubDate>
-    <description>Simple tofu, miso, and tempeh making process for better vegan protein &amp; dairy food and meal options.</description>
-  </item>
-  <item>
-    <title>HomeGui</title>
-    <link>https://mods.vintagestory.at/show/mod/hg</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hg#11281</guid>
-    <pubDate>Mon, 24 Aug 2026 22:53:45 -0000</pubDate>
-    <description>Gui for teleport commands in Th3essentials</description>
-  </item>
-  <item>
-    <title>Truth and Beauty: Detailed Animals</title>
-    <link>https://mods.vintagestory.at/show/mod/detailedanimals</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/detailedanimals#2538</guid>
-    <pubDate>Mon, 24 Aug 2026 22:50:12 -0000</pubDate>
-    <description>Believable animal husbandry, behaviour, and genetics.</description>
   </item>
 </channel>
 </rss>
