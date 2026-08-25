@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 25 Aug 2026 19:33:38 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 20:31:14 +0000</lastBuildDate>
+  <item>
+    <title>Chisel it Everywhere</title>
+    <link>https://mods.vintagestory.at/show/mod/11306</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11306#11306</guid>
+    <pubDate>Tue, 25 Aug 2026 20:26:23 -0000</pubDate>
+    <description>Carve chisel decoration onto any block — even the ones the game normally forbids</description>
+  </item>
+  <item>
+    <title>Evergreen Papyrus</title>
+    <link>https://mods.vintagestory.at/show/mod/evergreenpapyrus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evergreenpapyrus#10089</guid>
+    <pubDate>Tue, 25 Aug 2026 19:49:37 -0000</pubDate>
+    <description>Makes papyrus look vibrant green in temperate climates and changes the color depending on the season</description>
+  </item>
+  <item>
+    <title>Gearlock Firearms</title>
+    <link>https://mods.vintagestory.at/show/mod/10375</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10375#10375</guid>
+    <pubDate>Tue, 25 Aug 2026 19:45:20 -0000</pubDate>
+    <description>Adds firearms powered by the gearlock mechanism</description>
+  </item>
+  <item>
+    <title>Vanilla Variants Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/vanvarcompatibility</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanvarcompatibility#9014</guid>
+    <pubDate>Tue, 25 Aug 2026 19:36:53 -0000</pubDate>
+    <description>Compatibility hotfix for Vanilla Variants 7.1.1 on Vintage Story 1.22.x</description>
+  </item>
   <item>
     <title>Olendril IME Patch</title>
     <link>https://mods.vintagestory.at/show/mod/11060</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9914#9914</guid>
     <pubDate>Tue, 25 Aug 2026 14:29:00 -0000</pubDate>
     <description>Place any item as decoration on floors, walls and ceilings. Up to 64 items per cell.</description>
-  </item>
-  <item>
-    <title>CB Quests</title>
-    <link>https://mods.vintagestory.at/show/mod/10819</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10819#10819</guid>
-    <pubDate>Tue, 25 Aug 2026 13:48:10 -0000</pubDate>
-    <description>Adds quests for the the CB server</description>
-  </item>
-  <item>
-    <title>CB Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/10778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
-    <pubDate>Tue, 25 Aug 2026 13:47:07 -0000</pubDate>
-    <description>Skill and class mod for the CB server</description>
-  </item>
-  <item>
-    <title>Chisel it Everywhere</title>
-    <link>https://mods.vintagestory.at/show/mod/11306</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11306#11306</guid>
-    <pubDate>Tue, 25 Aug 2026 13:11:18 -0000</pubDate>
-    <description>Carve chisel decoration onto any block — even the ones the game normally forbids</description>
-  </item>
-  <item>
-    <title>C&amp;N Events</title>
-    <link>https://mods.vintagestory.at/show/mod/canevents</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
-    <pubDate>Tue, 25 Aug 2026 12:59:56 -0000</pubDate>
-    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
   </item>
 </channel>
 </rss>
