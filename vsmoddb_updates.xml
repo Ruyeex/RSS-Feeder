@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 25 Aug 2026 03:00:32 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 04:40:46 +0000</lastBuildDate>
+  <item>
+    <title>Blood Fennel Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/11296</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11296#11296</guid>
+    <pubDate>Tue, 25 Aug 2026 04:22:27 -0000</pubDate>
+    <description>Bridges my two mods, "More Blood Thingies," and "Fennel Swag."</description>
+  </item>
+  <item>
+    <title>Fennel Swag</title>
+    <link>https://mods.vintagestory.at/show/mod/11294</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11294#11294</guid>
+    <pubDate>Tue, 25 Aug 2026 04:22:16 -0000</pubDate>
+    <description>Adds some features for fennel because it isn't any good</description>
+  </item>
+  <item>
+    <title>Archipelago Client</title>
+    <link>https://mods.vintagestory.at/show/mod/apclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/apclient#6277</guid>
+    <pubDate>Tue, 25 Aug 2026 04:11:11 -0000</pubDate>
+    <description>A simple integration of Vintage Story with Archipelago Multiworld Randomizer.</description>
+  </item>
+  <item>
+    <title>Fanloid Fantweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10433</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10433#10433</guid>
+    <pubDate>Tue, 25 Aug 2026 03:58:35 -0000</pubDate>
+    <description>Misc patches.</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Tue, 25 Aug 2026 03:50:46 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Wilderlands Stonebound</title>
+    <link>https://mods.vintagestory.at/show/mod/5975</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5975#5975</guid>
+    <pubDate>Tue, 25 Aug 2026 03:45:02 -0000</pubDate>
+    <description>Wilderlands Stonebound overhauls the mining, mineral, and ore extraction systems of Vintage Story.</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Tue, 25 Aug 2026 03:30:34 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
+  <item>
+    <title>Doors, Hatches, &amp; Gates Overhaul</title>
+    <link>https://mods.vintagestory.at/show/mod/11298</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11298#11298</guid>
+    <pubDate>Tue, 25 Aug 2026 03:02:52 -0000</pubDate>
+    <description>Auto-opening doors with selectable sounds and configurable hand or lever-only operation.</description>
+  </item>
   <item>
     <title>Client MeshRef Leak Fix</title>
     <link>https://mods.vintagestory.at/show/mod/vsvaogc</link>
@@ -46,20 +102,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8567#8567</guid>
     <pubDate>Tue, 25 Aug 2026 00:58:07 -0000</pubDate>
     <description>A fork of ODs's Reforged Tools updated for 1.22</description>
-  </item>
-  <item>
-    <title>Blood Fennel Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/11296</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11296#11296</guid>
-    <pubDate>Tue, 25 Aug 2026 00:46:30 -0000</pubDate>
-    <description>Bridges my two mods, "More Blood Thingies," and "Fennel Swag."</description>
-  </item>
-  <item>
-    <title>Fennel Swag</title>
-    <link>https://mods.vintagestory.at/show/mod/11294</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11294#11294</guid>
-    <pubDate>Tue, 25 Aug 2026 00:46:11 -0000</pubDate>
-    <description>Adds some features for fennel because it isn't any good</description>
   </item>
   <item>
     <title>The Hunter</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/offlinenospoil#10816</guid>
     <pubDate>Mon, 24 Aug 2026 21:32:55 -0000</pubDate>
     <description>Preserves perishable food in offline inventories and configured containers.</description>
-  </item>
-  <item>
-    <title>Rot Bin</title>
-    <link>https://mods.vintagestory.at/show/mod/10779</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10779#10779</guid>
-    <pubDate>Mon, 24 Aug 2026 21:01:12 -0000</pubDate>
-    <description>Rot food and age alcohol.</description>
-  </item>
-  <item>
-    <title>DRRP Caveshrooms</title>
-    <link>https://mods.vintagestory.at/show/mod/caveshrooms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caveshrooms#10922</guid>
-    <pubDate>Mon, 24 Aug 2026 20:58:27 -0000</pubDate>
-    <description>Adds a mushroom that fruits from patches of temporally unstable substrate deep in caves.</description>
-  </item>
-  <item>
-    <title>Astria Porta</title>
-    <link>https://mods.vintagestory.at/show/mod/astriaporta</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/astriaporta#3738</guid>
-    <pubDate>Mon, 24 Aug 2026 20:58:02 -0000</pubDate>
-    <description>Astria Porta brings SG-1's stargates to Vintage Story for you to explore the world</description>
-  </item>
-  <item>
-    <title>DRRP The Unknowing</title>
-    <link>https://mods.vintagestory.at/show/mod/theunknowing</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/theunknowing#11253</guid>
-    <pubDate>Mon, 24 Aug 2026 20:57:52 -0000</pubDate>
-    <description>Admin-summoned storm of forgetting that consumes an abandoned land claim then regenerates it.</description>
-  </item>
-  <item>
-    <title>More Rock Drops</title>
-    <link>https://mods.vintagestory.at/show/mod/11223</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11223#11223</guid>
-    <pubDate>Mon, 24 Aug 2026 20:51:38 -0000</pubDate>
-    <description>Stone blocks now drop more rocks.</description>
-  </item>
-  <item>
-    <title>Eriadorian Armory</title>
-    <link>https://mods.vintagestory.at/show/mod/eriadorianarmory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eriadorianarmory#9322</guid>
-    <pubDate>Mon, 24 Aug 2026 20:30:31 -0000</pubDate>
-    <description>A collection of custom weapons and armors for the Kingdom of Eriador Vintagestory server.</description>
   </item>
 </channel>
 </rss>
