@@ -4,7 +4,21 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 25 Aug 2026 10:35:20 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 11:29:59 +0000</lastBuildDate>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Tue, 25 Aug 2026 11:15:30 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>C&amp;N Events</title>
+    <link>https://mods.vintagestory.at/show/mod/canevents</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
+    <pubDate>Tue, 25 Aug 2026 10:57:09 -0000</pubDate>
+    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
+  </item>
   <item>
     <title>Gondola Cable Car</title>
     <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11297#11297</guid>
     <pubDate>Tue, 25 Aug 2026 01:20:17 -0000</pubDate>
     <description>Your livestock get hungry now. (call for testers)</description>
-  </item>
-  <item>
-    <title>Re-Reforged Tools</title>
-    <link>https://mods.vintagestory.at/show/mod/8567</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8567#8567</guid>
-    <pubDate>Tue, 25 Aug 2026 00:58:07 -0000</pubDate>
-    <description>A fork of ODs's Reforged Tools updated for 1.22</description>
-  </item>
-  <item>
-    <title>The Hunter</title>
-    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
-    <pubDate>Tue, 25 Aug 2026 00:35:39 -0000</pubDate>
-    <description>Track prey, follow blood, carry carcasses, compost dung, and have smarter wolves.</description>
   </item>
 </channel>
 </rss>
