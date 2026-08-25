@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 25 Aug 2026 17:33:38 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 18:41:53 +0000</lastBuildDate>
+  <item>
+    <title>EarthLiving Client Performance Doctor</title>
+    <link>https://mods.vintagestory.at/show/mod/earthlivingperformance</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/earthlivingperformance#11280</guid>
+    <pubDate>Tue, 25 Aug 2026 18:37:54 -0000</pubDate>
+    <description>Local FPS diagnostics, safe graphics trials and conservative mod-impact analysis.</description>
+  </item>
+  <item>
+    <title>Door Master</title>
+    <link>https://mods.vintagestory.at/show/mod/doormaster</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/doormaster#9777</guid>
+    <pubDate>Tue, 25 Aug 2026 18:21:12 -0000</pubDate>
+    <description>Chisel your own custom doors with smooth open/close animation at any angle!</description>
+  </item>
+  <item>
+    <title>Smith Master Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/11310</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11310#11310</guid>
+    <pubDate>Tue, 25 Aug 2026 17:58:52 -0000</pubDate>
+    <description>Currently 3 Tweaks to smithing/the anvil. Reclaiming split bits, Salvaging, and Efficiency boost.</description>
+  </item>
+  <item>
+    <title>Better Fruit Press</title>
+    <link>https://mods.vintagestory.at/show/mod/10776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10776#10776</guid>
+    <pubDate>Tue, 25 Aug 2026 17:38:27 -0000</pubDate>
+    <description>Makes the fruit press quicker and allows squeezing over barrels.</description>
+  </item>
+  <item>
+    <title>Vintage Kinematics</title>
+    <link>https://mods.vintagestory.at/show/mod/8639</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8639#8639</guid>
+    <pubDate>Tue, 25 Aug 2026 17:34:32 -0000</pubDate>
+    <description>Rotation networks, belts, crushers, and automation for Vintage Story</description>
+  </item>
   <item>
     <title>ItemSyncFixes</title>
     <link>https://mods.vintagestory.at/show/mod/9191</link>
@@ -38,7 +73,7 @@
     <link>https://mods.vintagestory.at/show/mod/liberterra</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/liberterra#10763</guid>
     <pubDate>Tue, 25 Aug 2026 17:11:56 -0000</pubDate>
-    <description>Pre-1300 CE public-domain literature as lore books, pile &amp; stack books,oh and books are weapons now.</description>
+    <description>Pre-1300 CE literature as books, pile &amp; stack books,oh and books are weapons now.+ QoL4Books.</description>
   </item>
   <item>
     <title>Gondola Cable Car</title>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bannerlordextramusicforlostlandsservervol1#11287</guid>
     <pubDate>Tue, 25 Aug 2026 11:50:33 -0000</pubDate>
     <description>Just pack of music for Lost Land Server Просто пак музыки для Потерянных земель.</description>
-  </item>
-  <item>
-    <title>Bannerlord &amp; extra music (For lost Lands Server vol.2)</title>
-    <link>https://mods.vintagestory.at/show/mod/11288</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11288#11288</guid>
-    <pubDate>Tue, 25 Aug 2026 11:43:38 -0000</pubDate>
-    <description>Just pack of music for Lost Land Server Просто пак музыки для Потерянных земель. </description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Tue, 25 Aug 2026 11:15:30 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>EarthLiving Client Performance Doctor</title>
-    <link>https://mods.vintagestory.at/show/mod/earthlivingperformance</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/earthlivingperformance#11280</guid>
-    <pubDate>Tue, 25 Aug 2026 10:15:27 -0000</pubDate>
-    <description>Local FPS diagnostics, safe graphics trials and conservative mod-impact analysis.</description>
-  </item>
-  <item>
-    <title>Not enough invertebrate</title>
-    <link>https://mods.vintagestory.at/show/mod/8678</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8678#8678</guid>
-    <pubDate>Tue, 25 Aug 2026 10:03:10 -0000</pubDate>
-    <description>Adds diversity to the invertebrate family (up to date : Katydids, Grasshoppers)</description>
-  </item>
-  <item>
-    <title>VS Roofing Grass Addon</title>
-    <link>https://mods.vintagestory.at/show/mod/11302</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11302#11302</guid>
-    <pubDate>Tue, 25 Aug 2026 10:01:27 -0000</pubDate>
-    <description>Addon for VS Roofing that allows you to use grass as a binder for stick roofs.</description>
   </item>
 </channel>
 </rss>
