@@ -4,7 +4,21 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 25 Aug 2026 13:52:20 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 14:48:14 +0000</lastBuildDate>
+  <item>
+    <title>RP Voice Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/rpvoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rpvoicechat#1371</guid>
+    <pubDate>Tue, 25 Aug 2026 14:39:31 -0000</pubDate>
+    <description>A mod for proximity VoIP. Shout at your friends!</description>
+  </item>
+  <item>
+    <title>Place it Anywhere</title>
+    <link>https://mods.vintagestory.at/show/mod/9914</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9914#9914</guid>
+    <pubDate>Tue, 25 Aug 2026 14:29:00 -0000</pubDate>
+    <description>Place any item as decoration on floors, walls and ceilings. Up to 64 items per cell.</description>
+  </item>
   <item>
     <title>CB Quests</title>
     <link>https://mods.vintagestory.at/show/mod/10819</link>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexis#10623</guid>
     <pubDate>Tue, 25 Aug 2026 06:13:42 -0000</pubDate>
     <description>A tactical, stance-based combat system of mass and momentum, Focus-built for VS' harsh reality</description>
-  </item>
-  <item>
-    <title>Fennel Swag</title>
-    <link>https://mods.vintagestory.at/show/mod/11294</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11294#11294</guid>
-    <pubDate>Tue, 25 Aug 2026 06:07:39 -0000</pubDate>
-    <description>Adds some features for fennel because it isn't any good</description>
-  </item>
-  <item>
-    <title>Cozy Pierzynas Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/cozypierzynasfix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cozypierzynasfix#11299</guid>
-    <pubDate>Tue, 25 Aug 2026 05:44:00 -0000</pubDate>
-    <description>a fix for Cozy Pierzynas by Igor, now the items and recipes will appear properly on the handbook </description>
   </item>
 </channel>
 </rss>
