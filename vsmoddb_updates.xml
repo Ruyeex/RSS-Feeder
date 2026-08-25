@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 25 Aug 2026 14:48:14 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 15:43:45 +0000</lastBuildDate>
+  <item>
+    <title>Truth and Beauty: Detailed Animals</title>
+    <link>https://mods.vintagestory.at/show/mod/detailedanimals</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/detailedanimals#2538</guid>
+    <pubDate>Tue, 25 Aug 2026 15:40:36 -0000</pubDate>
+    <description>Believable animal husbandry, behaviour, and genetics.</description>
+  </item>
+  <item>
+    <title>Floral Zones: Mediterranean Region</title>
+    <link>https://mods.vintagestory.at/show/mod/floralzonesmediterraneanregion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonesmediterraneanregion#2779</guid>
+    <pubDate>Tue, 25 Aug 2026 15:31:41 -0000</pubDate>
+    <description>Adds plants from the Mediterranean Region to the game.</description>
+  </item>
+  <item>
+    <title>Olendril IME Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/11060</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11060#11060</guid>
+    <pubDate>Tue, 25 Aug 2026 15:28:18 -0000</pubDate>
+    <description>  A focused compatibility and quality-of-life patch for Interesting Mining &amp; Extraction.</description>
+  </item>
+  <item>
+    <title>Magnezia Armor</title>
+    <link>https://mods.vintagestory.at/show/mod/11303</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11303#11303</guid>
+    <pubDate>Tue, 25 Aug 2026 15:11:53 -0000</pubDate>
+    <description>Magnezian Armor, thanks to Bran</description>
+  </item>
   <item>
     <title>RP Voice Chat</title>
     <link>https://mods.vintagestory.at/show/mod/rpvoicechat</link>
@@ -104,13 +132,6 @@
     <description>Just pack of music for Lost Land Server Просто пак музыки для Потерянных земель. </description>
   </item>
   <item>
-    <title>Magnezia Armor</title>
-    <link>https://mods.vintagestory.at/show/mod/11303</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11303#11303</guid>
-    <pubDate>Tue, 25 Aug 2026 11:19:31 -0000</pubDate>
-    <description>Magnezian Armor, thanks to Bran</description>
-  </item>
-  <item>
     <title>Solaria's Solace Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/10706</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusferus#10434</guid>
     <pubDate>Tue, 25 Aug 2026 07:07:19 -0000</pubDate>
     <description>Adds tameable wild horses to the game, successor to Equus: Wild Horses</description>
-  </item>
-  <item>
-    <title>Vintage Kinematics</title>
-    <link>https://mods.vintagestory.at/show/mod/8639</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8639#8639</guid>
-    <pubDate>Tue, 25 Aug 2026 06:49:42 -0000</pubDate>
-    <description>Rotation networks, belts, crushers, and automation for Vintage Story</description>
-  </item>
-  <item>
-    <title>Biomes</title>
-    <link>https://mods.vintagestory.at/show/mod/biomes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biomes#1654</guid>
-    <pubDate>Tue, 25 Aug 2026 06:17:17 -0000</pubDate>
-    <description>All biomes/bioregions in one world</description>
-  </item>
-  <item>
-    <title>Hexis (Beta)</title>
-    <link>https://mods.vintagestory.at/show/mod/hexis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexis#10623</guid>
-    <pubDate>Tue, 25 Aug 2026 06:13:42 -0000</pubDate>
-    <description>A tactical, stance-based combat system of mass and momentum, Focus-built for VS' harsh reality</description>
   </item>
 </channel>
 </rss>
