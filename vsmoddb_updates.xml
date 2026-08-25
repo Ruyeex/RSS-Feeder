@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 25 Aug 2026 22:29:42 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 23:26:16 +0000</lastBuildDate>
+  <item>
+    <title>Size To Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/sizetohealthbonus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sizetohealthbonus#10849</guid>
+    <pubDate>Tue, 25 Aug 2026 22:57:10 -0000</pubDate>
+    <description>Your Player Model Lib size scales HP, reach, hunger and eye height. Fully configurable.</description>
+  </item>
+  <item>
+    <title>VS Interface Creator</title>
+    <link>https://mods.vintagestory.at/show/mod/11320</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11320#11320</guid>
+    <pubDate>Tue, 25 Aug 2026 22:43:58 -0000</pubDate>
+    <description>In-game visual editor for mod GUIs. drag, preview live, and export the real GuiComposer C# code.</description>
+  </item>
+  <item>
+    <title>"Heatstone" Or "Lynx's Wearable Heaters"</title>
+    <link>https://mods.vintagestory.at/show/mod/heatstone</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/heatstone#11311</guid>
+    <pubDate>Tue, 25 Aug 2026 22:34:21 -0000</pubDate>
+    <description>Adds two meteor related wearable heaters that recharge in firepits</description>
+  </item>
   <item>
     <title>Metal Cooking Pots</title>
     <link>https://mods.vintagestory.at/show/mod/metalpots</link>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
     <pubDate>Tue, 25 Aug 2026 17:19:55 -0000</pubDate>
     <description>Adds all the features for bloodbread that should have been.</description>
-  </item>
-  <item>
-    <title>Fennel Swag</title>
-    <link>https://mods.vintagestory.at/show/mod/11294</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11294#11294</guid>
-    <pubDate>Tue, 25 Aug 2026 17:19:01 -0000</pubDate>
-    <description>Adds some features for fennel because it isn't any good</description>
-  </item>
-  <item>
-    <title>Liber Terra</title>
-    <link>https://mods.vintagestory.at/show/mod/liberterra</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/liberterra#10763</guid>
-    <pubDate>Tue, 25 Aug 2026 17:11:56 -0000</pubDate>
-    <description>Pre-1300 CE literature as books, pile &amp; stack books,oh and books are weapons now.+ QoL4Books.</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Tue, 25 Aug 2026 16:37:05 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
   </item>
 </channel>
 </rss>
