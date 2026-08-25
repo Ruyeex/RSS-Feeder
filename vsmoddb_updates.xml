@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 25 Aug 2026 20:31:14 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 21:30:38 +0000</lastBuildDate>
+  <item>
+    <title>Door Master</title>
+    <link>https://mods.vintagestory.at/show/mod/doormaster</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/doormaster#9777</guid>
+    <pubDate>Tue, 25 Aug 2026 21:25:57 -0000</pubDate>
+    <description>Chisel your own custom doors with smooth open/close animation at any angle!</description>
+  </item>
+  <item>
+    <title>GardenPaths</title>
+    <link>https://mods.vintagestory.at/show/mod/8858</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8858#8858</guid>
+    <pubDate>Tue, 25 Aug 2026 21:22:22 -0000</pubDate>
+    <description>Garden Paths that utilize all of Vintage Story stones</description>
+  </item>
+  <item>
+    <title>Fat Nutrition 1.22 Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/fatnutrition122fix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fatnutrition122fix#11318</guid>
+    <pubDate>Tue, 25 Aug 2026 21:07:38 -0000</pubDate>
+    <description>Fixes Fat Nutrition’s outdated satiety patches so animal fat provides the intended nutrition in VS</description>
+  </item>
+  <item>
+    <title>Keyring - CO Fork Compatability</title>
+    <link>https://mods.vintagestory.at/show/mod/keyringcoforkcompatability</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/keyringcoforkcompatability#10829</guid>
+    <pubDate>Tue, 25 Aug 2026 20:46:18 -0000</pubDate>
+    <description>Adds a wearable keyring capable of holding up to six keys from the Thievery mod. This release update</description>
+  </item>
   <item>
     <title>Chisel it Everywhere</title>
     <link>https://mods.vintagestory.at/show/mod/11306</link>
@@ -97,13 +125,6 @@
     <description>Local FPS diagnostics, safe graphics trials and conservative mod-impact analysis.</description>
   </item>
   <item>
-    <title>Door Master</title>
-    <link>https://mods.vintagestory.at/show/mod/doormaster</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/doormaster#9777</guid>
-    <pubDate>Tue, 25 Aug 2026 18:21:12 -0000</pubDate>
-    <description>Chisel your own custom doors with smooth open/close animation at any angle!</description>
-  </item>
-  <item>
     <title>Smith Master Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/11310</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11310#11310</guid>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonesmediterraneanregion#2779</guid>
     <pubDate>Tue, 25 Aug 2026 15:31:41 -0000</pubDate>
     <description>Adds plants from the Mediterranean Region to the game.</description>
-  </item>
-  <item>
-    <title>Magnezia Armor</title>
-    <link>https://mods.vintagestory.at/show/mod/11303</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11303#11303</guid>
-    <pubDate>Tue, 25 Aug 2026 15:11:53 -0000</pubDate>
-    <description>Magnezian Armor, thanks to Bran</description>
-  </item>
-  <item>
-    <title>RP Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/rpvoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rpvoicechat#1371</guid>
-    <pubDate>Tue, 25 Aug 2026 14:39:31 -0000</pubDate>
-    <description>A mod for proximity VoIP. Shout at your friends!</description>
-  </item>
-  <item>
-    <title>Place it Anywhere</title>
-    <link>https://mods.vintagestory.at/show/mod/9914</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9914#9914</guid>
-    <pubDate>Tue, 25 Aug 2026 14:29:00 -0000</pubDate>
-    <description>Place any item as decoration on floors, walls and ceilings. Up to 64 items per cell.</description>
   </item>
 </channel>
 </rss>
