@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 25 Aug 2026 09:37:36 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 10:35:20 +0000</lastBuildDate>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Tue, 25 Aug 2026 10:18:14 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>EarthLiving Client Performance Doctor</title>
+    <link>https://mods.vintagestory.at/show/mod/earthlivingperformance</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/earthlivingperformance#11280</guid>
+    <pubDate>Tue, 25 Aug 2026 10:15:27 -0000</pubDate>
+    <description>Local FPS diagnostics, safe graphics trials and conservative mod-impact analysis.</description>
+  </item>
+  <item>
+    <title>Not enough invertebrate</title>
+    <link>https://mods.vintagestory.at/show/mod/8678</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8678#8678</guid>
+    <pubDate>Tue, 25 Aug 2026 10:03:10 -0000</pubDate>
+    <description>Adds diversity to the invertebrate family (up to date : Katydids, Grasshoppers)</description>
+  </item>
+  <item>
+    <title>VS Roofing Grass Addon</title>
+    <link>https://mods.vintagestory.at/show/mod/11302</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11302#11302</guid>
+    <pubDate>Tue, 25 Aug 2026 10:01:27 -0000</pubDate>
+    <description>Addon for VS Roofing that allows you to use grass as a binder for stick roofs.</description>
+  </item>
   <item>
     <title>race addition</title>
     <link>https://mods.vintagestory.at/show/mod/10150</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
     <pubDate>Tue, 25 Aug 2026 00:35:39 -0000</pubDate>
     <description>Track prey, follow blood, carry carcasses, compost dung, and have smarter wolves.</description>
-  </item>
-  <item>
-    <title>Wafuku</title>
-    <link>https://mods.vintagestory.at/show/mod/11037</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11037#11037</guid>
-    <pubDate>Tue, 25 Aug 2026 00:27:36 -0000</pubDate>
-    <description>Garments and masks inspired by traditional Japanese clothing</description>
-  </item>
-  <item>
-    <title>Cairn — Modpack Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/cairn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
-    <pubDate>Mon, 24 Aug 2026 23:55:06 -0000</pubDate>
-    <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
-  </item>
-  <item>
-    <title>Zomb's Purposeful Storage Weapon Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/6142</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6142#6142</guid>
-    <pubDate>Mon, 24 Aug 2026 23:29:23 -0000</pubDate>
-    <description>Unofficial patches to make several weapon mods work with Purposeful Storage.</description>
-  </item>
-  <item>
-    <title>VF Server Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/vfservermod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vfservermod#11292</guid>
-    <pubDate>Mon, 24 Aug 2026 23:26:55 -0000</pubDate>
-    <description>VF Server Tweaks mods and patches collection mod</description>
   </item>
 </channel>
 </rss>
