@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 25 Aug 2026 16:39:35 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 17:33:38 +0000</lastBuildDate>
+  <item>
+    <title>ItemSyncFixes</title>
+    <link>https://mods.vintagestory.at/show/mod/9191</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9191#9191</guid>
+    <pubDate>Tue, 25 Aug 2026 17:25:07 -0000</pubDate>
+    <description>Item Sync Fixes is my attempt to fix three specific Vintage Story inventory desync symptoms.</description>
+  </item>
+  <item>
+    <title>Blood Fennel Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/11296</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11296#11296</guid>
+    <pubDate>Tue, 25 Aug 2026 17:20:13 -0000</pubDate>
+    <description>Bridges my two mods, "More Blood Thingies," and "Fennel Swag."</description>
+  </item>
+  <item>
+    <title>More Blood Thingies!</title>
+    <link>https://mods.vintagestory.at/show/mod/10959</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
+    <pubDate>Tue, 25 Aug 2026 17:19:55 -0000</pubDate>
+    <description>Adds all the features for bloodbread that should have been.</description>
+  </item>
+  <item>
+    <title>Fennel Swag</title>
+    <link>https://mods.vintagestory.at/show/mod/11294</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11294#11294</guid>
+    <pubDate>Tue, 25 Aug 2026 17:19:01 -0000</pubDate>
+    <description>Adds some features for fennel because it isn't any good</description>
+  </item>
+  <item>
+    <title>Liber Terra</title>
+    <link>https://mods.vintagestory.at/show/mod/liberterra</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/liberterra#10763</guid>
+    <pubDate>Tue, 25 Aug 2026 17:11:56 -0000</pubDate>
+    <description>Pre-1300 CE public-domain literature as lore books, pile &amp; stack books,oh and books are weapons now.</description>
+  </item>
   <item>
     <title>Gondola Cable Car</title>
     <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11302#11302</guid>
     <pubDate>Tue, 25 Aug 2026 10:01:27 -0000</pubDate>
     <description>Addon for VS Roofing that allows you to use grass as a binder for stick roofs.</description>
-  </item>
-  <item>
-    <title>race addition</title>
-    <link>https://mods.vintagestory.at/show/mod/10150</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10150#10150</guid>
-    <pubDate>Tue, 25 Aug 2026 09:26:46 -0000</pubDate>
-    <description>adds a race to my server</description>
-  </item>
-  <item>
-    <title>Butchering - Fauna of the Stone Age Compatibility Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/butcheringfotsacompatability</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butcheringfotsacompatability#11301</guid>
-    <pubDate>Tue, 25 Aug 2026 09:10:56 -0000</pubDate>
-    <description>A focused compatibility add-on for Butchering and the modular Fauna of the Stone Age animal packs on</description>
-  </item>
-  <item>
-    <title>Butchering</title>
-    <link>https://mods.vintagestory.at/show/mod/butchering</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butchering#1505</guid>
-    <pubDate>Tue, 25 Aug 2026 08:48:57 -0000</pubDate>
-    <description>A more immersive butchery system for processing animals</description>
-  </item>
-  <item>
-    <title>BlockBasedTransientBehavior</title>
-    <link>https://mods.vintagestory.at/show/mod/7365</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7365#7365</guid>
-    <pubDate>Tue, 25 Aug 2026 08:15:41 -0000</pubDate>
-    <description>Replaces BlockEntityTransient with a block-based ticking implementation.</description>
-  </item>
-  <item>
-    <title>Equus: Mud Bloods</title>
-    <link>https://mods.vintagestory.at/show/mod/equusmudblood</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusmudblood#11300</guid>
-    <pubDate>Tue, 25 Aug 2026 07:38:43 -0000</pubDate>
-    <description>This mod allows you to crossbreed Destriers and Ferus</description>
   </item>
 </channel>
 </rss>
