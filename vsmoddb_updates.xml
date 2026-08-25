@@ -4,7 +4,28 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 25 Aug 2026 15:43:45 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 16:39:35 +0000</lastBuildDate>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Tue, 25 Aug 2026 16:37:05 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>Fortunes for Vintage Story</title>
+    <link>https://mods.vintagestory.at/show/mod/fortunes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fortunes#11308</guid>
+    <pubDate>Tue, 25 Aug 2026 16:20:37 -0000</pubDate>
+    <description>Add fortunes to the server when player joins.</description>
+  </item>
+  <item>
+    <title>Extensive bag recycling</title>
+    <link>https://mods.vintagestory.at/show/mod/6476</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6476#6476</guid>
+    <pubDate>Tue, 25 Aug 2026 16:16:34 -0000</pubDate>
+    <description>Place an unwanted bag of any kind on your crafting grid with a knife and get material back!</description>
+  </item>
   <item>
     <title>Truth and Beauty: Detailed Animals</title>
     <link>https://mods.vintagestory.at/show/mod/detailedanimals</link>
@@ -139,13 +160,6 @@
     <description>A bunch of fixes and additions for the server.</description>
   </item>
   <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Tue, 25 Aug 2026 10:18:14 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
     <title>EarthLiving Client Performance Doctor</title>
     <link>https://mods.vintagestory.at/show/mod/earthlivingperformance</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/earthlivingperformance#11280</guid>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusmudblood#11300</guid>
     <pubDate>Tue, 25 Aug 2026 07:38:43 -0000</pubDate>
     <description>This mod allows you to crossbreed Destriers and Ferus</description>
-  </item>
-  <item>
-    <title>The Working Classes - 1.22 Compatibility and Bug Fixing Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/theworkingclasseswspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/theworkingclasseswspatch#10474</guid>
-    <pubDate>Tue, 25 Aug 2026 07:12:08 -0000</pubDate>
-    <description>A focused compatibility and bug-fix fork of The Working Classes for Vintage Story</description>
-  </item>
-  <item>
-    <title>Equus: Wild Horses 2.0</title>
-    <link>https://mods.vintagestory.at/show/mod/equusferus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusferus#10434</guid>
-    <pubDate>Tue, 25 Aug 2026 07:07:19 -0000</pubDate>
-    <description>Adds tameable wild horses to the game, successor to Equus: Wild Horses</description>
   </item>
 </channel>
 </rss>
