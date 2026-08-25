@@ -4,7 +4,42 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 25 Aug 2026 01:22:22 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 03:00:32 +0000</lastBuildDate>
+  <item>
+    <title>Client MeshRef Leak Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/vsvaogc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsvaogc#11228</guid>
+    <pubDate>Tue, 25 Aug 2026 02:53:37 -0000</pubDate>
+    <description>Stops FPS drops and stuttering from a long-session graphics memory leak. Client-only.</description>
+  </item>
+  <item>
+    <title>Simple Voice Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
+    <pubDate>Tue, 25 Aug 2026 02:51:49 -0000</pubDate>
+    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
+  </item>
+  <item>
+    <title>More Blood Thingies!</title>
+    <link>https://mods.vintagestory.at/show/mod/10959</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
+    <pubDate>Tue, 25 Aug 2026 02:27:47 -0000</pubDate>
+    <description>Adds all the features for bloodbread that should have been.</description>
+  </item>
+  <item>
+    <title>Seamarks -- Beacons &amp; Lighthouses</title>
+    <link>https://mods.vintagestory.at/show/mod/seamarks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seamarks#10124</guid>
+    <pubDate>Tue, 25 Aug 2026 01:33:00 -0000</pubDate>
+    <description>Build lighthouses and fire beacons to help navigate the world and its oceans.</description>
+  </item>
+  <item>
+    <title>Feed or Fallow</title>
+    <link>https://mods.vintagestory.at/show/mod/11297</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11297#11297</guid>
+    <pubDate>Tue, 25 Aug 2026 01:20:17 -0000</pubDate>
+    <description>Your livestock get hungry now. (call for testers)</description>
+  </item>
   <item>
     <title>Re-Reforged Tools</title>
     <link>https://mods.vintagestory.at/show/mod/8567</link>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eriadorianarmory#9322</guid>
     <pubDate>Mon, 24 Aug 2026 20:30:31 -0000</pubDate>
     <description>A collection of custom weapons and armors for the Kingdom of Eriador Vintagestory server.</description>
-  </item>
-  <item>
-    <title>Window Display - Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/windowdisplaypatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplaypatches#10532</guid>
-    <pubDate>Mon, 24 Aug 2026 20:19:39 -0000</pubDate>
-    <description>Used to add custom transforms and to enable the particles of items on display</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Mon, 24 Aug 2026 20:11:35 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>Threnkal</title>
-    <link>https://mods.vintagestory.at/show/mod/threnkal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/threnkal#10944</guid>
-    <pubDate>Mon, 24 Aug 2026 20:10:42 -0000</pubDate>
-    <description>A race of cow folks based on minotaurs and taurens from WoW.</description>
-  </item>
-  <item>
-    <title>Floral Zones: Mediterranean Region</title>
-    <link>https://mods.vintagestory.at/show/mod/floralzonesmediterraneanregion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonesmediterraneanregion#2779</guid>
-    <pubDate>Mon, 24 Aug 2026 20:00:51 -0000</pubDate>
-    <description>Adds plants from the Mediterranean Region to the game.</description>
-  </item>
-  <item>
-    <title>Bottoms Up!</title>
-    <link>https://mods.vintagestory.at/show/mod/bottomsup</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bottomsup#5472</guid>
-    <pubDate>Mon, 24 Aug 2026 19:40:08 -0000</pubDate>
-    <description>Fancy glass bottles and glassware for your bar</description>
   </item>
 </channel>
 </rss>
