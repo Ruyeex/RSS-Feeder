@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 26 Aug 2026 04:41:44 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 05:36:17 +0000</lastBuildDate>
+  <item>
+    <title>PPG Gaming RP Server Companion Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/ppgrp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ppgrp#3327</guid>
+    <pubDate>Wed, 26 Aug 2026 05:20:48 -0000</pubDate>
+    <description>Mod containing customizations for the PPG RP Server</description>
+  </item>
+  <item>
+    <title>Vintage Kinematics</title>
+    <link>https://mods.vintagestory.at/show/mod/8639</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8639#8639</guid>
+    <pubDate>Wed, 26 Aug 2026 04:58:49 -0000</pubDate>
+    <description>Rotation networks, belts, crushers, and automation for Vintage Story</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Wed, 26 Aug 2026 04:50:48 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>Nadilion Server Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/5684</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5684#5684</guid>
+    <pubDate>Wed, 26 Aug 2026 04:46:19 -0000</pubDate>
+    <description>Tweaks for the Nadilion gaming server</description>
+  </item>
   <item>
     <title>DWC Classes</title>
     <link>https://mods.vintagestory.at/show/mod/dwcclasses</link>
@@ -18,13 +46,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sconce#4560</guid>
     <pubDate>Wed, 26 Aug 2026 04:31:54 -0000</pubDate>
     <description>Corrects 'torchholder' to 'sconce' in game text</description>
-  </item>
-  <item>
-    <title>Nadilion Server Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/5684</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5684#5684</guid>
-    <pubDate>Wed, 26 Aug 2026 04:30:14 -0000</pubDate>
-    <description>Tweaks for the Nadilion gaming server</description>
   </item>
   <item>
     <title>Blood Fennel Compatibility</title>
@@ -193,27 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lowlightspawns#6248</guid>
     <pubDate>Wed, 26 Aug 2026 00:08:05 -0000</pubDate>
     <description>Simple mod to change the light level at which all monsters spawn</description>
-  </item>
-  <item>
-    <title>Immersive Firewood</title>
-    <link>https://mods.vintagestory.at/show/mod/imfw</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/imfw#10947</guid>
-    <pubDate>Tue, 25 Aug 2026 23:57:46 -0000</pubDate>
-    <description>Wet/Drying + Species based Charcoal progression. better wood = better firewood</description>
-  </item>
-  <item>
-    <title>Size To Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/sizetohealthbonus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sizetohealthbonus#10849</guid>
-    <pubDate>Tue, 25 Aug 2026 22:57:10 -0000</pubDate>
-    <description>Your Player Model Lib size scales HP, reach, hunger and eye height. Fully configurable.</description>
-  </item>
-  <item>
-    <title>VS Interface Creator</title>
-    <link>https://mods.vintagestory.at/show/mod/11320</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11320#11320</guid>
-    <pubDate>Tue, 25 Aug 2026 22:43:58 -0000</pubDate>
-    <description>In-game visual editor for mod GUIs. drag, preview live, and export the real GuiComposer C# code.</description>
   </item>
 </channel>
 </rss>
