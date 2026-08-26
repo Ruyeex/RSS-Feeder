@@ -4,7 +4,21 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 26 Aug 2026 07:49:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 08:46:52 +0000</lastBuildDate>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Wed, 26 Aug 2026 08:44:23 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>RP Voice Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/rpvoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rpvoicechat#1371</guid>
+    <pubDate>Wed, 26 Aug 2026 08:31:40 -0000</pubDate>
+    <description>A mod for proximity VoIP. Shout at your friends!</description>
+  </item>
   <item>
     <title>Ecosystem - Flora</title>
     <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9633#9633</guid>
     <pubDate>Wed, 26 Aug 2026 01:26:37 -0000</pubDate>
     <description>Do you like colorful sheep? I like colorful sheep. </description>
-  </item>
-  <item>
-    <title>MightyBamboo</title>
-    <link>https://mods.vintagestory.at/show/mod/mightybamboo</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mightybamboo#9381</guid>
-    <pubDate>Wed, 26 Aug 2026 01:22:31 -0000</pubDate>
-    <description>Expansion of Bamboo usages, objects and recipes.</description>
-  </item>
-  <item>
-    <title>Elk Adornments</title>
-    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
-    <pubDate>Wed, 26 Aug 2026 01:16:29 -0000</pubDate>
-    <description>Masks for you and your elk with Modular Elk Armor!</description>
   </item>
 </channel>
 </rss>
