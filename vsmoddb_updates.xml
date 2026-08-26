@@ -4,7 +4,49 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 26 Aug 2026 12:56:29 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 13:57:46 +0000</lastBuildDate>
+  <item>
+    <title>More Classic Bark (addon for Wolf Taming)</title>
+    <link>https://mods.vintagestory.at/show/mod/mcbark</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mcbark#11187</guid>
+    <pubDate>Wed, 26 Aug 2026 13:44:54 -0000</pubDate>
+    <description>Modifies the Wolf Taming mod's dogs to use a More Classic (MC) selection of bark sounds.</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Wed, 26 Aug 2026 13:33:53 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>Arcticia - Eskimos</title>
+    <link>https://mods.vintagestory.at/show/mod/11232</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11232#11232</guid>
+    <pubDate>Wed, 26 Aug 2026 13:32:15 -0000</pubDate>
+    <description>Adds a custom race for Snowball Earth playthroughs.</description>
+  </item>
+  <item>
+    <title>Grid for Beams</title>
+    <link>https://mods.vintagestory.at/show/mod/gridforbeams</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gridforbeams#11157</guid>
+    <pubDate>Wed, 26 Aug 2026 13:23:23 -0000</pubDate>
+    <description>Adds a grid and markers to blocks when holding a beam. Has a separate grid for chiseled blocks</description>
+  </item>
+  <item>
+    <title>Alegacy Quest Framework</title>
+    <link>https://mods.vintagestory.at/show/mod/alegacyquestframework</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyquestframework#6609</guid>
+    <pubDate>Wed, 26 Aug 2026 13:08:21 -0000</pubDate>
+    <description>Alegacy Quest Framework is a full-featured quest and boss combat engine for Vintage Story.</description>
+  </item>
+  <item>
+    <title>Arcanum Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/arcanumlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arcanumlib#11325</guid>
+    <pubDate>Wed, 26 Aug 2026 12:58:09 -0000</pubDate>
+    <description>A shared utility library for Vintage Story: HUD, particles, effects, persistence, and more.</description>
+  </item>
   <item>
     <title>CoT Capes</title>
     <link>https://mods.vintagestory.at/show/mod/7205</link>
@@ -53,13 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modernatlas#10999</guid>
     <pubDate>Wed, 26 Aug 2026 09:04:03 -0000</pubDate>
     <description>Pull out a detailed 3D atlas and explore your loaded world from above</description>
-  </item>
-  <item>
-    <title>Grid for Beams</title>
-    <link>https://mods.vintagestory.at/show/mod/gridforbeams</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gridforbeams#11157</guid>
-    <pubDate>Wed, 26 Aug 2026 09:00:46 -0000</pubDate>
-    <description>Adds a grid and markers to blocks when holding a beam. Has a separate grid for chiseled blocks</description>
   </item>
   <item>
     <title>Gondola Cable Car</title>
@@ -116,13 +151,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8639#8639</guid>
     <pubDate>Wed, 26 Aug 2026 04:58:49 -0000</pubDate>
     <description>Rotation networks, belts, crushers, and automation for Vintage Story</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Wed, 26 Aug 2026 04:50:48 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
   </item>
   <item>
     <title>Nadilion Server Mod</title>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicabtc#9867</guid>
     <pubDate>Wed, 26 Aug 2026 03:24:45 -0000</pubDate>
     <description>Wearable body tools and universal classes for Animalica player species.</description>
-  </item>
-  <item>
-    <title>Expanded Foods: Meals Module 1.0.0-dev.8</title>
-    <link>https://mods.vintagestory.at/show/mod/efmealsmodule</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/efmealsmodule#9270</guid>
-    <pubDate>Wed, 26 Aug 2026 03:18:31 -0000</pubDate>
-    <description>Fancy new meals for the discerning palate. </description>
-  </item>
-  <item>
-    <title>Age of Seraphs Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Wed, 26 Aug 2026 02:42:10 -0000</pubDate>
-    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
-  </item>
-  <item>
-    <title>Arcticia - Eskimos</title>
-    <link>https://mods.vintagestory.at/show/mod/11232</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11232#11232</guid>
-    <pubDate>Wed, 26 Aug 2026 02:34:22 -0000</pubDate>
-    <description>Adds a custom race for Snowball Earth playthroughs.</description>
-  </item>
-  <item>
-    <title>Pal's Enhanced Locusts</title>
-    <link>https://mods.vintagestory.at/show/mod/repairablelocust</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/repairablelocust#1685</guid>
-    <pubDate>Wed, 26 Aug 2026 02:29:40 -0000</pubDate>
-    <description>Expands Clockmaker locusts with new abilities, rebalances, and QoL features! (aka Repairable Locust)</description>
   </item>
 </channel>
 </rss>
