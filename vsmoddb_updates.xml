@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 26 Aug 2026 19:04:26 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 22:52:13 +0000</lastBuildDate>
+  <item>
+    <title>Marcy9's Kobold Traits</title>
+    <link>https://mods.vintagestory.at/show/mod/marcy9skobolds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/marcy9skobolds#11334</guid>
+    <pubDate>Wed, 26 Aug 2026 22:48:32 -0000</pubDate>
+    <description>a set of traits that forces kobold players to be silly little guys.</description>
+  </item>
+  <item>
+    <title>Rebalanced Lanterns</title>
+    <link>https://mods.vintagestory.at/show/mod/rebalancedlanterns</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rebalancedlanterns#11224</guid>
+    <pubDate>Wed, 26 Aug 2026 22:36:34 -0000</pubDate>
+    <description>Rebalances the Lantern Recipes to use less metal.</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Wed, 26 Aug 2026 22:25:43 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Place it Anywhere</title>
+    <link>https://mods.vintagestory.at/show/mod/9914</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9914#9914</guid>
+    <pubDate>Wed, 26 Aug 2026 20:45:50 -0000</pubDate>
+    <description>Place any item as decoration on floors, walls and ceilings. Up to 64 items per cell.</description>
+  </item>
+  <item>
+    <title>Flexible Tools (a Veinminer, a Magnet, Etc)</title>
+    <link>https://mods.vintagestory.at/show/mod/flexibletools</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/flexibletools#656</guid>
+    <pubDate>Wed, 26 Aug 2026 20:04:04 -0000</pubDate>
+    <description>Fancy tools for late-game fun. Enemies Drop their loot, no drifter throwing.</description>
+  </item>
+  <item>
+    <title>ClaimLink</title>
+    <link>https://mods.vintagestory.at/show/mod/11054</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11054#11054</guid>
+    <pubDate>Wed, 26 Aug 2026 20:02:06 -0000</pubDate>
+    <description>Links vanilla land claims to a player group and adds a protected buffer zone around them.</description>
+  </item>
+  <item>
+    <title>Fast Ground Placing</title>
+    <link>https://mods.vintagestory.at/show/mod/10420</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10420#10420</guid>
+    <pubDate>Wed, 26 Aug 2026 19:59:57 -0000</pubDate>
+    <description>Increases the bulk stack quantity on a few base game resources.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Wed, 26 Aug 2026 19:50:17 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
+  </item>
+  <item>
+    <title>Two Handed Sling</title>
+    <link>https://mods.vintagestory.at/show/mod/10417</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10417#10417</guid>
+    <pubDate>Wed, 26 Aug 2026 19:46:45 -0000</pubDate>
+    <description>Adds a Two-Handed Sling to Maltiez's quivers and sheathes mod.</description>
+  </item>
+  <item>
+    <title>Acervus Lapidum</title>
+    <link>https://mods.vintagestory.at/show/mod/11331</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11331#11331</guid>
+    <pubDate>Wed, 26 Aug 2026 19:32:45 -0000</pubDate>
+    <description>Pile rocks the way you want it, make a wall if you want. Immeeeersive ...</description>
+  </item>
+  <item>
+    <title>Smol Furniture</title>
+    <link>https://mods.vintagestory.at/show/mod/smolfurniture</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smolfurniture#10958</guid>
+    <pubDate>Wed, 26 Aug 2026 19:18:32 -0000</pubDate>
+    <description>FOR THE SMOL</description>
+  </item>
   <item>
     <title>The Crown &amp; The Coalition Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/9635</link>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndltreehollows#7149</guid>
     <pubDate>Wed, 26 Aug 2026 16:13:43 -0000</pubDate>
     <description>Add lootable tree hollows that generate throughout your world!</description>
-  </item>
-  <item>
-    <title>Faster Immersive Mining</title>
-    <link>https://mods.vintagestory.at/show/mod/11329</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11329#11329</guid>
-    <pubDate>Wed, 26 Aug 2026 15:54:12 -0000</pubDate>
-    <description>Makes Salty &amp; Toast's Immersive Mining animations 50% faster</description>
-  </item>
-  <item>
-    <title>C&amp;N Events</title>
-    <link>https://mods.vintagestory.at/show/mod/canevents</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
-    <pubDate>Wed, 26 Aug 2026 15:53:57 -0000</pubDate>
-    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
-  </item>
-  <item>
-    <title>Scallywiggles Patches Season 2</title>
-    <link>https://mods.vintagestory.at/show/mod/scallywigglespatches2</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scallywigglespatches2#11328</guid>
-    <pubDate>Wed, 26 Aug 2026 15:25:36 -0000</pubDate>
-    <description>A collection of patches and tweaks for the second Scallywiggles private server.</description>
-  </item>
-  <item>
-    <title>EarthLiving Mine Transport</title>
-    <link>https://mods.vintagestory.at/show/mod/earthlivingminetransport</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/earthlivingminetransport#11327</guid>
-    <pubDate>Wed, 26 Aug 2026 15:24:49 -0000</pubDate>
-    <description>Craftable rails and cargo mine carts with mass, brakes, inclines, animation and a visible tow rope.</description>
-  </item>
-  <item>
-    <title>Dragonia Translations</title>
-    <link>https://mods.vintagestory.at/show/mod/10016</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10016#10016</guid>
-    <pubDate>Wed, 26 Aug 2026 14:58:27 -0000</pubDate>
-    <description>Переводы и отредактированные переводы под стиль сервера. </description>
-  </item>
-  <item>
-    <title>Horse Plow</title>
-    <link>https://mods.vintagestory.at/show/mod/11326</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11326#11326</guid>
-    <pubDate>Wed, 26 Aug 2026 14:22:06 -0000</pubDate>
-    <description>Use the universal power of the horse and plow your field with ease.</description>
-  </item>
-  <item>
-    <title>Injury Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/9695</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9695#9695</guid>
-    <pubDate>Wed, 26 Aug 2026 14:03:25 -0000</pubDate>
-    <description>An Injury, Diagnosis and Treatment system</description>
-  </item>
-  <item>
-    <title>More Classic Bark (addon for Wolf Taming)</title>
-    <link>https://mods.vintagestory.at/show/mod/mcbark</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mcbark#11187</guid>
-    <pubDate>Wed, 26 Aug 2026 13:44:54 -0000</pubDate>
-    <description>Modifies the Wolf Taming mod's dogs to use a More Classic (MC) selection of bark sounds.</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Wed, 26 Aug 2026 13:33:53 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
-  </item>
-  <item>
-    <title>Arcticia - Eskimos</title>
-    <link>https://mods.vintagestory.at/show/mod/11232</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11232#11232</guid>
-    <pubDate>Wed, 26 Aug 2026 13:32:15 -0000</pubDate>
-    <description>Adds a custom race for Snowball Earth playthroughs.</description>
-  </item>
-  <item>
-    <title>Grid for Beams</title>
-    <link>https://mods.vintagestory.at/show/mod/gridforbeams</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gridforbeams#11157</guid>
-    <pubDate>Wed, 26 Aug 2026 13:23:23 -0000</pubDate>
-    <description>Adds a grid and markers to blocks when holding a beam. Has a separate grid for chiseled blocks</description>
   </item>
 </channel>
 </rss>
