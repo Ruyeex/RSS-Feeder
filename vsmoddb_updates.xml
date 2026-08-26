@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 26 Aug 2026 01:25:41 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 03:07:18 +0000</lastBuildDate>
+  <item>
+    <title>Age of Seraphs Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
+    <pubDate>Wed, 26 Aug 2026 02:42:10 -0000</pubDate>
+    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
+  </item>
+  <item>
+    <title>Arcticia - Eskimos</title>
+    <link>https://mods.vintagestory.at/show/mod/11232</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11232#11232</guid>
+    <pubDate>Wed, 26 Aug 2026 02:34:22 -0000</pubDate>
+    <description>Adds a custom race for Snowball Earth playthroughs.</description>
+  </item>
+  <item>
+    <title>Pal's Enhanced Locusts</title>
+    <link>https://mods.vintagestory.at/show/mod/repairablelocust</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/repairablelocust#1685</guid>
+    <pubDate>Wed, 26 Aug 2026 02:29:40 -0000</pubDate>
+    <description>Expands Clockmaker locusts with new abilities, rebalances, and QoL features! (aka Repairable Locust)</description>
+  </item>
+  <item>
+    <title>Craftable Companion</title>
+    <link>https://mods.vintagestory.at/show/mod/craftablecompanion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/craftablecompanion#1730</guid>
+    <pubDate>Wed, 26 Aug 2026 02:28:52 -0000</pubDate>
+    <description>Allows players to craft a Mechanical Companion, based off the yet to be used vanilla mechhelper.</description>
+  </item>
+  <item>
+    <title>Better Fruit Press</title>
+    <link>https://mods.vintagestory.at/show/mod/10776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10776#10776</guid>
+    <pubDate>Wed, 26 Aug 2026 02:18:54 -0000</pubDate>
+    <description>Makes the fruit press quicker and allows squeezing over barrels.</description>
+  </item>
+  <item>
+    <title>IndustrialStory</title>
+    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
+    <pubDate>Wed, 26 Aug 2026 02:17:27 -0000</pubDate>
+    <description>Overhauls metalworking, chemistry, and glassworking. </description>
+  </item>
+  <item>
+    <title>Heatproof Bricks</title>
+    <link>https://mods.vintagestory.at/show/mod/heatproofbricks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/heatproofbricks#6264</guid>
+    <pubDate>Wed, 26 Aug 2026 01:47:47 -0000</pubDate>
+    <description>Firebricks handle heat damage better, and tier 3 doesn't break anymore!</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Taming</title>
+    <link>https://mods.vintagestory.at/show/mod/fotsataming</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsataming#11206</guid>
+    <pubDate>Wed, 26 Aug 2026 01:40:24 -0000</pubDate>
+    <description>Adds taming ability through PetAI to allow a bunch of the FOTSA animals to be tamed.</description>
+  </item>
+  <item>
+    <title>Shepherd's Herding</title>
+    <link>https://mods.vintagestory.at/show/mod/11321</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11321#11321</guid>
+    <pubDate>Wed, 26 Aug 2026 01:28:44 -0000</pubDate>
+    <description>An Addon for Adventurers Walking stick that allows the player to dynamically herd their Livestock</description>
+  </item>
+  <item>
+    <title>Urial Sheep</title>
+    <link>https://mods.vintagestory.at/show/mod/9633</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9633#9633</guid>
+    <pubDate>Wed, 26 Aug 2026 01:26:37 -0000</pubDate>
+    <description>Do you like colorful sheep? I like colorful sheep. </description>
+  </item>
   <item>
     <title>MightyBamboo</title>
     <link>https://mods.vintagestory.at/show/mod/mightybamboo</link>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/keyringcoforkcompatability#10829</guid>
     <pubDate>Tue, 25 Aug 2026 20:46:18 -0000</pubDate>
     <description>Adds a wearable keyring capable of holding up to six keys from the Thievery mod. This release update</description>
-  </item>
-  <item>
-    <title>Chisel it Everywhere</title>
-    <link>https://mods.vintagestory.at/show/mod/11306</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11306#11306</guid>
-    <pubDate>Tue, 25 Aug 2026 20:26:23 -0000</pubDate>
-    <description>Carve chisel decoration onto any block — even the ones the game normally forbids</description>
-  </item>
-  <item>
-    <title>Evergreen Papyrus</title>
-    <link>https://mods.vintagestory.at/show/mod/evergreenpapyrus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evergreenpapyrus#10089</guid>
-    <pubDate>Tue, 25 Aug 2026 19:49:37 -0000</pubDate>
-    <description>Makes papyrus look vibrant green in temperate climates and changes the color depending on the season</description>
-  </item>
-  <item>
-    <title>Gearlock Firearms</title>
-    <link>https://mods.vintagestory.at/show/mod/10375</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10375#10375</guid>
-    <pubDate>Tue, 25 Aug 2026 19:45:20 -0000</pubDate>
-    <description>Adds firearms powered by the gearlock mechanism</description>
-  </item>
-  <item>
-    <title>Vanilla Variants Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/vanvarcompatibility</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanvarcompatibility#9014</guid>
-    <pubDate>Tue, 25 Aug 2026 19:36:53 -0000</pubDate>
-    <description>Compatibility hotfix for Vanilla Variants 7.1.1 on Vintage Story 1.22.x</description>
-  </item>
-  <item>
-    <title>Olendril IME Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/11060</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11060#11060</guid>
-    <pubDate>Tue, 25 Aug 2026 19:30:21 -0000</pubDate>
-    <description>  A focused compatibility and quality-of-life patch for Interesting Mining &amp; Extraction.</description>
-  </item>
-  <item>
-    <title>BlockBasedTransientBehavior</title>
-    <link>https://mods.vintagestory.at/show/mod/7365</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7365#7365</guid>
-    <pubDate>Tue, 25 Aug 2026 19:12:47 -0000</pubDate>
-    <description>Replaces BlockEntityTransient with a block-based ticking implementation.</description>
-  </item>
-  <item>
-    <title>De Artibus Rusticis</title>
-    <link>https://mods.vintagestory.at/show/mod/deartibusrusticis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deartibusrusticis#11159</guid>
-    <pubDate>Tue, 25 Aug 2026 19:07:47 -0000</pubDate>
-    <description>Adds 19 new crops and 4 meals inspired by medieval European agriculture.</description>
-  </item>
-  <item>
-    <title>IndustrialStory</title>
-    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
-    <pubDate>Tue, 25 Aug 2026 19:06:52 -0000</pubDate>
-    <description>Overhauls metalworking, chemistry, and glassworking. </description>
-  </item>
-  <item>
-    <title>BetterTraders</title>
-    <link>https://mods.vintagestory.at/show/mod/bettertraders</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettertraders#1183</guid>
-    <pubDate>Tue, 25 Aug 2026 18:59:02 -0000</pubDate>
-    <description>Replaces vanilla traders with new trader structures.</description>
-  </item>
-  <item>
-    <title>TassSpawnControls</title>
-    <link>https://mods.vintagestory.at/show/mod/tassspawncontrols</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassspawncontrols#11264</guid>
-    <pubDate>Tue, 25 Aug 2026 18:52:03 -0000</pubDate>
-    <description>Spawn controls and special spawn tree</description>
   </item>
 </channel>
 </rss>
