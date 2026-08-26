@@ -4,7 +4,21 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 26 Aug 2026 10:37:20 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 11:32:06 +0000</lastBuildDate>
+  <item>
+    <title>Russification For Mods</title>
+    <link>https://mods.vintagestory.at/show/mod/5312</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5312#5312</guid>
+    <pubDate>Wed, 26 Aug 2026 11:23:08 -0000</pubDate>
+    <description>Russian Translation Pack — a collection of Russian localizations for various Vintage Story mods.</description>
+  </item>
+  <item>
+    <title>EarthLiving Client Performance Doctor</title>
+    <link>https://mods.vintagestory.at/show/mod/earthlivingperformance</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/earthlivingperformance#11280</guid>
+    <pubDate>Wed, 26 Aug 2026 10:54:17 -0000</pubDate>
+    <description>Local FPS diagnostics, safe graphics trials and conservative mod-impact analysis.</description>
+  </item>
   <item>
     <title>Ecosystem - Flora</title>
     <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
@@ -200,20 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
     <pubDate>Wed, 26 Aug 2026 02:17:27 -0000</pubDate>
     <description>Overhauls metalworking, chemistry, and glassworking. </description>
-  </item>
-  <item>
-    <title>Heatproof Bricks</title>
-    <link>https://mods.vintagestory.at/show/mod/heatproofbricks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/heatproofbricks#6264</guid>
-    <pubDate>Wed, 26 Aug 2026 01:47:47 -0000</pubDate>
-    <description>Firebricks handle heat damage better, and tier 3 doesn't break anymore!</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Taming</title>
-    <link>https://mods.vintagestory.at/show/mod/fotsataming</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsataming#11206</guid>
-    <pubDate>Wed, 26 Aug 2026 01:40:24 -0000</pubDate>
-    <description>Adds taming ability through PetAI to allow a bunch of the FOTSA animals to be tamed.</description>
   </item>
 </channel>
 </rss>
