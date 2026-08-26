@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 26 Aug 2026 03:07:18 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 04:41:44 +0000</lastBuildDate>
+  <item>
+    <title>DWC Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/dwcclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dwcclasses#5708</guid>
+    <pubDate>Wed, 26 Aug 2026 04:38:55 -0000</pubDate>
+    <description>Custom classes for DWC's private server.</description>
+  </item>
+  <item>
+    <title>Rename Torchholder to Sconce</title>
+    <link>https://mods.vintagestory.at/show/mod/sconce</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sconce#4560</guid>
+    <pubDate>Wed, 26 Aug 2026 04:31:54 -0000</pubDate>
+    <description>Corrects 'torchholder' to 'sconce' in game text</description>
+  </item>
+  <item>
+    <title>Nadilion Server Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/5684</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5684#5684</guid>
+    <pubDate>Wed, 26 Aug 2026 04:30:14 -0000</pubDate>
+    <description>Tweaks for the Nadilion gaming server</description>
+  </item>
+  <item>
+    <title>Blood Fennel Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/11296</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11296#11296</guid>
+    <pubDate>Wed, 26 Aug 2026 04:24:36 -0000</pubDate>
+    <description>Bridges my two mods, "More Blood Thingies," and "Fennel Swag."</description>
+  </item>
+  <item>
+    <title>Fennel Swag</title>
+    <link>https://mods.vintagestory.at/show/mod/11294</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11294#11294</guid>
+    <pubDate>Wed, 26 Aug 2026 04:24:18 -0000</pubDate>
+    <description>Adds some features for fennel because it isn't any good</description>
+  </item>
+  <item>
+    <title>Orca Player Model With Clothes</title>
+    <link>https://mods.vintagestory.at/show/mod/11180</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11180#11180</guid>
+    <pubDate>Wed, 26 Aug 2026 03:52:56 -0000</pubDate>
+    <description>Adds a variant of orcafolks to the main mod that displays clothing</description>
+  </item>
+  <item>
+    <title>Bikini Bear</title>
+    <link>https://mods.vintagestory.at/show/mod/bikinibear</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bikinibear#11173</guid>
+    <pubDate>Wed, 26 Aug 2026 03:50:20 -0000</pubDate>
+    <description>Every bear has a 10% chance to spawn in a bikini (6 styles) and a hat (7 styles). Configurable.</description>
+  </item>
+  <item>
+    <title>W4RD0's Furniture</title>
+    <link>https://mods.vintagestory.at/show/mod/w4rd0sfurniture</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/w4rd0sfurniture#11214</guid>
+    <pubDate>Wed, 26 Aug 2026 03:49:47 -0000</pubDate>
+    <description>A furniture pack adding detailed furniture like tables, chairs, couches, beds, shelves &amp; a lot more.</description>
+  </item>
+  <item>
+    <title>Animalica - Body Tools &amp; Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicabtc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicabtc#9867</guid>
+    <pubDate>Wed, 26 Aug 2026 03:24:45 -0000</pubDate>
+    <description>Wearable body tools and universal classes for Animalica player species.</description>
+  </item>
+  <item>
+    <title>Expanded Foods: Meals Module 1.0.0-dev.8</title>
+    <link>https://mods.vintagestory.at/show/mod/efmealsmodule</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/efmealsmodule#9270</guid>
+    <pubDate>Wed, 26 Aug 2026 03:18:31 -0000</pubDate>
+    <description>Fancy new meals for the discerning palate. </description>
+  </item>
   <item>
     <title>Age of Seraphs Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
@@ -104,13 +174,6 @@
     <description>Adds to/replaces soundtrack with original orchestral one, composed from scratch</description>
   </item>
   <item>
-    <title>Expanded Foods: Meals Module 1.0.0-dev.7</title>
-    <link>https://mods.vintagestory.at/show/mod/efmealsmodule</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/efmealsmodule#9270</guid>
-    <pubDate>Wed, 26 Aug 2026 00:33:38 -0000</pubDate>
-    <description>Fancy new meals for the discerning palate. </description>
-  </item>
-  <item>
     <title>Leather And Strips</title>
     <link>https://mods.vintagestory.at/show/mod/leatherandstrips</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leatherandstrips#10721</guid>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11320#11320</guid>
     <pubDate>Tue, 25 Aug 2026 22:43:58 -0000</pubDate>
     <description>In-game visual editor for mod GUIs. drag, preview live, and export the real GuiComposer C# code.</description>
-  </item>
-  <item>
-    <title>"Heatstone" Or "Lynx's Wearable Heaters"</title>
-    <link>https://mods.vintagestory.at/show/mod/heatstone</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/heatstone#11311</guid>
-    <pubDate>Tue, 25 Aug 2026 22:34:21 -0000</pubDate>
-    <description>Adds two meteor related wearable heaters that recharge in firepits</description>
-  </item>
-  <item>
-    <title>Metal Cooking Pots</title>
-    <link>https://mods.vintagestory.at/show/mod/metalpots</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalpots#3912</guid>
-    <pubDate>Tue, 25 Aug 2026 22:13:27 -0000</pubDate>
-    <description>Adds Cooking Pots made from metal with greater serving size</description>
-  </item>
-  <item>
-    <title>CoT Capes</title>
-    <link>https://mods.vintagestory.at/show/mod/7205</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7205#7205</guid>
-    <pubDate>Tue, 25 Aug 2026 22:07:41 -0000</pubDate>
-    <description>A small mod to add Basic Capes for remaining season of COT.</description>
-  </item>
-  <item>
-    <title>Seraph Leveling ReClassed</title>
-    <link>https://mods.vintagestory.at/show/mod/11234</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11234#11234</guid>
-    <pubDate>Tue, 25 Aug 2026 22:02:59 -0000</pubDate>
-    <description>Level up and gain traits in a vanilla-friendly way, with additional mod support</description>
-  </item>
-  <item>
-    <title>GardenPaths</title>
-    <link>https://mods.vintagestory.at/show/mod/8858</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8858#8858</guid>
-    <pubDate>Tue, 25 Aug 2026 21:45:10 -0000</pubDate>
-    <description>Garden Paths that utilize all of Vintage Story stones</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Tue, 25 Aug 2026 21:36:59 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Door Master</title>
-    <link>https://mods.vintagestory.at/show/mod/doormaster</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/doormaster#9777</guid>
-    <pubDate>Tue, 25 Aug 2026 21:25:57 -0000</pubDate>
-    <description>Chisel your own custom doors with smooth open/close animation at any angle!</description>
-  </item>
-  <item>
-    <title>Fat Nutrition 1.22 Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/fatnutrition122fix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fatnutrition122fix#11318</guid>
-    <pubDate>Tue, 25 Aug 2026 21:07:38 -0000</pubDate>
-    <description>Fixes Fat Nutrition’s outdated satiety patches so animal fat provides the intended nutrition in VS</description>
-  </item>
-  <item>
-    <title>Keyring - CO Fork Compatability</title>
-    <link>https://mods.vintagestory.at/show/mod/keyringcoforkcompatability</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/keyringcoforkcompatability#10829</guid>
-    <pubDate>Tue, 25 Aug 2026 20:46:18 -0000</pubDate>
-    <description>Adds a wearable keyring capable of holding up to six keys from the Thievery mod. This release update</description>
   </item>
 </channel>
 </rss>
