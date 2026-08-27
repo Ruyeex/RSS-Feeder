@@ -4,216 +4,216 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 27 Aug 2026 04:23:04 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 27 Aug 2026 16:12:35 +0000</lastBuildDate>
+  <item>
+    <title>Enhanced Handbook</title>
+    <link>https://mods.vintagestory.at/show/mod/enhancedhandbook</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/enhancedhandbook#5351</guid>
+    <pubDate>Thu, 27 Aug 2026 16:01:56 -0000</pubDate>
+    <description>Custom category tabs. Bookmarks. Improved search.</description>
+  </item>
+  <item>
+    <title>Handy Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/handytweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/handytweaks#4701</guid>
+    <pubDate>Thu, 27 Aug 2026 15:22:33 -0000</pubDate>
+    <description>Ignore unwanted pickups! Faster pick ups! Never miss a cattail again! And more QoL tweaks</description>
+  </item>
+  <item>
+    <title>Show Craftable</title>
+    <link>https://mods.vintagestory.at/show/mod/showcraftable</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/showcraftable#5126</guid>
+    <pubDate>Thu, 27 Aug 2026 15:16:41 -0000</pubDate>
+    <description>Adds handbook tabs that scans all your storage and shows what you're able to craft</description>
+  </item>
+  <item>
+    <title>Ecosystem - Flora</title>
+    <link>https://mods.vintagestory.at/show/mod/ecosystemflora</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecosystemflora#9053</guid>
+    <pubDate>Thu, 27 Aug 2026 15:03:53 -0000</pubDate>
+    <description>Making flora living</description>
+  </item>
+  <item>
+    <title>BetterEr Prospecting</title>
+    <link>https://mods.vintagestory.at/show/mod/bettererprospecting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettererprospecting#4916</guid>
+    <pubDate>Thu, 27 Aug 2026 14:47:43 -0000</pubDate>
+    <description>Altered prospecting experience with focus on reducing randomness</description>
+  </item>
+  <item>
+    <title>EarthLiving Mine Transport</title>
+    <link>https://mods.vintagestory.at/show/mod/earthlivingminetransport</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/earthlivingminetransport#11327</guid>
+    <pubDate>Thu, 27 Aug 2026 14:47:17 -0000</pubDate>
+    <description>Narrow-gauge cargo trains with chain haul, loading stations, signals and interlocked switches.</description>
+  </item>
+  <item>
+    <title>Configurable Axial Tilt</title>
+    <link>https://mods.vintagestory.at/show/mod/axialtiltmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/axialtiltmod#11364</guid>
+    <pubDate>Thu, 27 Aug 2026 14:40:45 -0000</pubDate>
+    <description>Changes axial tilt of the planet with a config</description>
+  </item>
+  <item>
+    <title>Catch and Release LIB</title>
+    <link>https://mods.vintagestory.at/show/mod/crlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crlib#7509</guid>
+    <pubDate>Thu, 27 Aug 2026 13:32:54 -0000</pubDate>
+    <description>Shared library for Catch and Release mods.</description>
+  </item>
+  <item>
+    <title>CB Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Thu, 27 Aug 2026 12:27:00 -0000</pubDate>
+    <description>Skill and class mod for the CB server</description>
+  </item>
+  <item>
+    <title>Revert Quarter Logs</title>
+    <link>https://mods.vintagestory.at/show/mod/11349</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11349#11349</guid>
+    <pubDate>Thu, 27 Aug 2026 12:10:32 -0000</pubDate>
+    <description>Quarter log varients can now be crafted back into their respective log types.</description>
+  </item>
+  <item>
+    <title>VS Interface Creator</title>
+    <link>https://mods.vintagestory.at/show/mod/11320</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11320#11320</guid>
+    <pubDate>Thu, 27 Aug 2026 12:10:18 -0000</pubDate>
+    <description>In-game visual editor for mod GUIs. drag, preview live, and export the real GuiComposer C# code.</description>
+  </item>
+  <item>
+    <title>BotaniaStory</title>
+    <link>https://mods.vintagestory.at/show/mod/8113</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8113#8113</guid>
+    <pubDate>Thu, 27 Aug 2026 11:57:24 -0000</pubDate>
+    <description>BotaniaStory - nature magic, mana, and automation in Vintage Story!</description>
+  </item>
+  <item>
+    <title>The Mighty Walnut</title>
+    <link>https://mods.vintagestory.at/show/mod/mightywalnut</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mightywalnut#6337</guid>
+    <pubDate>Thu, 27 Aug 2026 11:35:47 -0000</pubDate>
+    <description>Adding walnuts as a food source and slightly worse alternative to peanuts</description>
+  </item>
+  <item>
+    <title>Magnezia Armor</title>
+    <link>https://mods.vintagestory.at/show/mod/11303</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11303#11303</guid>
+    <pubDate>Thu, 27 Aug 2026 11:32:20 -0000</pubDate>
+    <description>Magnezian Armor, thanks to Bran</description>
+  </item>
+  <item>
+    <title>Optimum - High-performance client software.</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Thu, 27 Aug 2026 10:41:19 -0000</pubDate>
+    <description>A patched client runtime for smoother Vintage Story frames.</description>
+  </item>
+  <item>
+    <title>Buildwright</title>
+    <link>https://mods.vintagestory.at/show/mod/buildwright</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/buildwright#11336</guid>
+    <pubDate>Thu, 27 Aug 2026 10:19:33 -0000</pubDate>
+    <description>Client-side blueprints, ghost projections and build progress tools</description>
+  </item>
+  <item>
+    <title>Buildwright Server</title>
+    <link>https://mods.vintagestory.at/show/mod/buildwrightserver</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/buildwrightserver#11346</guid>
+    <pubDate>Thu, 27 Aug 2026 10:19:01 -0000</pubDate>
+    <description>Authoritative server-side world operations for Buildwright</description>
+  </item>
+  <item>
+    <title>Butchering - Fauna of the Stone Age Compatibility Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/butcheringfotsacompatability</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butcheringfotsacompatability#11301</guid>
+    <pubDate>Thu, 27 Aug 2026 09:46:30 -0000</pubDate>
+    <description>A focused compatibility add-on for Butchering and the modular Fauna of the Stone Age animal packs on</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Thu, 27 Aug 2026 09:28:22 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>Vintage Story Modder Studio</title>
+    <link>https://mods.vintagestory.at/show/mod/11275</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11275#11275</guid>
+    <pubDate>Thu, 27 Aug 2026 08:54:27 -0000</pubDate>
+    <description>Standalone tool for creating, managing, validating, and packaging Vintage Story mods.</description>
+  </item>
+  <item>
+    <title>Magical Moon - FRustyMagic (Beta)</title>
+    <link>https://mods.vintagestory.at/show/mod/10975</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10975#10975</guid>
+    <pubDate>Thu, 27 Aug 2026 08:53:11 -0000</pubDate>
+    <description>An entirely in-world, small, moon magic mod. Play around with beams of light!</description>
+  </item>
+  <item>
+    <title>Caves N Caverns</title>
+    <link>https://mods.vintagestory.at/show/mod/cavesncaverns</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cavesncaverns#1700</guid>
+    <pubDate>Thu, 27 Aug 2026 08:13:38 -0000</pubDate>
+    <description>A simple Mod that expands all underground caves! No more spaghetti like caves.</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Thu, 27 Aug 2026 07:28:46 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
+  <item>
+    <title>Aldi's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/aldiclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aldiclasses#5327</guid>
+    <pubDate>Thu, 27 Aug 2026 06:19:56 -0000</pubDate>
+    <description>An extremely stable, compatible and customizable classes mod!</description>
+  </item>
+  <item>
+    <title>VS Server Panel</title>
+    <link>https://mods.vintagestory.at/show/mod/vsserverpanel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsserverpanel#2115</guid>
+    <pubDate>Thu, 27 Aug 2026 06:15:50 -0000</pubDate>
+    <description>Shows players a server panel upon loading with a server config for customization.</description>
+  </item>
+  <item>
+    <title>Improved Handbook Recipe Helper</title>
+    <link>https://mods.vintagestory.at/show/mod/8240</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8240#8240</guid>
+    <pubDate>Thu, 27 Aug 2026 05:23:34 -0000</pubDate>
+    <description>Makes recipes easier to complete by adding auto-population, conflict cycling, and missing component </description>
+  </item>
+  <item>
+    <title>TURBOJOIN</title>
+    <link>https://mods.vintagestory.at/show/mod/11337</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11337#11337</guid>
+    <pubDate>Thu, 27 Aug 2026 05:00:28 -0000</pubDate>
+    <description>(hopefully) speeds up server load time</description>
+  </item>
+  <item>
+    <title>Grassroots</title>
+    <link>https://mods.vintagestory.at/show/mod/grassroots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
+    <pubDate>Thu, 27 Aug 2026 04:56:38 -0000</pubDate>
+    <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
+  </item>
+  <item>
+    <title>Charcoal Kiln</title>
+    <link>https://mods.vintagestory.at/show/mod/charcoalkiln</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/charcoalkiln#10807</guid>
+    <pubDate>Thu, 27 Aug 2026 04:37:42 -0000</pubDate>
+    <description>Charcoal Kiln adds a permanent and reusable kiln to make your endless batches of charcoal.</description>
+  </item>
   <item>
     <title>Bigger Fruit Press Batches</title>
     <link>https://mods.vintagestory.at/show/mod/biggerfruitpressbatches</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biggerfruitpressbatches#11342</guid>
     <pubDate>Thu, 27 Aug 2026 04:12:28 -0000</pubDate>
     <description>Instead of 10L of juice, you can now take up to 50L of juice in one press</description>
-  </item>
-  <item>
-    <title>Helianthus</title>
-    <link>https://mods.vintagestory.at/show/mod/10781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10781#10781</guid>
-    <pubDate>Thu, 27 Aug 2026 04:07:39 -0000</pubDate>
-    <description>Adds plants in the sunflower tribe</description>
-  </item>
-  <item>
-    <title>Improved Handbook Recipe Helper</title>
-    <link>https://mods.vintagestory.at/show/mod/8240</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8240#8240</guid>
-    <pubDate>Thu, 27 Aug 2026 03:37:49 -0000</pubDate>
-    <description>Makes recipes easier to complete by adding auto-population, conflict cycling, and missing component </description>
-  </item>
-  <item>
-    <title>Newfies Block Logger</title>
-    <link>https://mods.vintagestory.at/show/mod/4530</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4530#4530</guid>
-    <pubDate>Thu, 27 Aug 2026 02:55:28 -0000</pubDate>
-    <description>A Robust block, entity, and item logging server utility designed for Newfies Community</description>
-  </item>
-  <item>
-    <title>QuasimoDOVS Clock</title>
-    <link>https://mods.vintagestory.at/show/mod/11244</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11244#11244</guid>
-    <pubDate>Thu, 27 Aug 2026 02:49:12 -0000</pubDate>
-    <description>Easy access to fast info at your screen! QuasimoDOVS Clock!</description>
-  </item>
-  <item>
-    <title>Packrat</title>
-    <link>https://mods.vintagestory.at/show/mod/6138</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6138#6138</guid>
-    <pubDate>Thu, 27 Aug 2026 02:47:19 -0000</pubDate>
-    <description>Unified Storage Browser showing the contents of all chests and crates within reach</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Thu, 27 Aug 2026 02:40:51 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>No Drifter Throw</title>
-    <link>https://mods.vintagestory.at/show/mod/4900</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4900#4900</guid>
-    <pubDate>Thu, 27 Aug 2026 02:35:58 -0000</pubDate>
-    <description>No Drifter Throwing</description>
-  </item>
-  <item>
-    <title>Snoopy's Chat Link</title>
-    <link>https://mods.vintagestory.at/show/mod/11339</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11339#11339</guid>
-    <pubDate>Thu, 27 Aug 2026 02:08:19 -0000</pubDate>
-    <description>Link items in chat to others</description>
-  </item>
-  <item>
-    <title>CB Economy</title>
-    <link>https://mods.vintagestory.at/show/mod/9634</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9634#9634</guid>
-    <pubDate>Thu, 27 Aug 2026 01:49:37 -0000</pubDate>
-    <description>Economy mod</description>
-  </item>
-  <item>
-    <title>Surface Teleporter - Extra Jonas Devices</title>
-    <link>https://mods.vintagestory.at/show/mod/7334</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7334#7334</guid>
-    <pubDate>Thu, 27 Aug 2026 01:12:34 -0000</pubDate>
-    <description>A reusable teleporter that sends you upward when used, either to the surface or high into the sky.</description>
-  </item>
-  <item>
-    <title>Void Fall</title>
-    <link>https://mods.vintagestory.at/show/mod/11338</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11338#11338</guid>
-    <pubDate>Thu, 27 Aug 2026 00:26:03 -0000</pubDate>
-    <description>If you fall into the void it will save you.</description>
-  </item>
-  <item>
-    <title>Solaria Fashions</title>
-    <link>https://mods.vintagestory.at/show/mod/solariafashions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/solariafashions#11236</guid>
-    <pubDate>Thu, 27 Aug 2026 00:25:08 -0000</pubDate>
-    <description>Solaria Fashions Presents: Better Blindfolds</description>
-  </item>
-  <item>
-    <title>TURBOJOIN</title>
-    <link>https://mods.vintagestory.at/show/mod/11337</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11337#11337</guid>
-    <pubDate>Thu, 27 Aug 2026 00:08:03 -0000</pubDate>
-    <description>(hopefully) speeds up server load time</description>
-  </item>
-  <item>
-    <title>Fennel Swag</title>
-    <link>https://mods.vintagestory.at/show/mod/11294</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11294#11294</guid>
-    <pubDate>Thu, 27 Aug 2026 00:06:51 -0000</pubDate>
-    <description>Adds some features for fennel because it isn't any good</description>
-  </item>
-  <item>
-    <title>Buildwright</title>
-    <link>https://mods.vintagestory.at/show/mod/buildwright</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/buildwright#11336</guid>
-    <pubDate>Thu, 27 Aug 2026 00:06:07 -0000</pubDate>
-    <description>Client-side blueprints, ghost projections and build progress tools</description>
-  </item>
-  <item>
-    <title>Grid for Beams</title>
-    <link>https://mods.vintagestory.at/show/mod/gridforbeams</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gridforbeams#11157</guid>
-    <pubDate>Wed, 26 Aug 2026 23:58:24 -0000</pubDate>
-    <description>Adds a grid and markers to blocks when holding a beam. Has a separate grid for chiseled blocks</description>
-  </item>
-  <item>
-    <title>Seraph Leveling ReClassed</title>
-    <link>https://mods.vintagestory.at/show/mod/11234</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11234#11234</guid>
-    <pubDate>Wed, 26 Aug 2026 23:49:36 -0000</pubDate>
-    <description>Level up and gain traits in a vanilla-friendly way, with additional mod support</description>
-  </item>
-  <item>
-    <title>Geirrpesh weapon</title>
-    <link>https://mods.vintagestory.at/show/mod/11335</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11335#11335</guid>
-    <pubDate>Wed, 26 Aug 2026 23:00:39 -0000</pubDate>
-    <description>adds the Geirrpesh weapon type.</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Wed, 26 Aug 2026 22:59:18 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>Marcy9's Kobold Traits</title>
-    <link>https://mods.vintagestory.at/show/mod/marcy9skobolds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/marcy9skobolds#11334</guid>
-    <pubDate>Wed, 26 Aug 2026 22:48:32 -0000</pubDate>
-    <description>a set of traits that forces kobold players to be silly little guys.</description>
-  </item>
-  <item>
-    <title>Rebalanced Lanterns</title>
-    <link>https://mods.vintagestory.at/show/mod/rebalancedlanterns</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rebalancedlanterns#11224</guid>
-    <pubDate>Wed, 26 Aug 2026 22:36:34 -0000</pubDate>
-    <description>Rebalances the Lantern Recipes to use less metal.</description>
-  </item>
-  <item>
-    <title>Place it Anywhere</title>
-    <link>https://mods.vintagestory.at/show/mod/9914</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9914#9914</guid>
-    <pubDate>Wed, 26 Aug 2026 20:45:50 -0000</pubDate>
-    <description>Place any item as decoration on floors, walls and ceilings. Up to 64 items per cell.</description>
-  </item>
-  <item>
-    <title>Flexible Tools (a Veinminer, a Magnet, Etc)</title>
-    <link>https://mods.vintagestory.at/show/mod/flexibletools</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/flexibletools#656</guid>
-    <pubDate>Wed, 26 Aug 2026 20:04:04 -0000</pubDate>
-    <description>Fancy tools for late-game fun. Enemies Drop their loot, no drifter throwing.</description>
-  </item>
-  <item>
-    <title>ClaimLink</title>
-    <link>https://mods.vintagestory.at/show/mod/11054</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11054#11054</guid>
-    <pubDate>Wed, 26 Aug 2026 20:02:06 -0000</pubDate>
-    <description>Links vanilla land claims to a player group and adds a protected buffer zone around them.</description>
-  </item>
-  <item>
-    <title>Fast Ground Placing</title>
-    <link>https://mods.vintagestory.at/show/mod/10420</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10420#10420</guid>
-    <pubDate>Wed, 26 Aug 2026 19:59:57 -0000</pubDate>
-    <description>Increases the bulk stack quantity on a few base game resources.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Wed, 26 Aug 2026 19:50:17 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
-  </item>
-  <item>
-    <title>Two Handed Sling</title>
-    <link>https://mods.vintagestory.at/show/mod/10417</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10417#10417</guid>
-    <pubDate>Wed, 26 Aug 2026 19:46:45 -0000</pubDate>
-    <description>Adds a Two-Handed Sling to Maltiez's quivers and sheathes mod.</description>
-  </item>
-  <item>
-    <title>Acervus Lapidum</title>
-    <link>https://mods.vintagestory.at/show/mod/11331</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11331#11331</guid>
-    <pubDate>Wed, 26 Aug 2026 19:32:45 -0000</pubDate>
-    <description>Pile rocks the way you want it, make a wall if you want. Immeeeersive ...</description>
-  </item>
-  <item>
-    <title>Smol Furniture</title>
-    <link>https://mods.vintagestory.at/show/mod/smolfurniture</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smolfurniture#10958</guid>
-    <pubDate>Wed, 26 Aug 2026 19:18:32 -0000</pubDate>
-    <description>FOR THE SMOL</description>
   </item>
 </channel>
 </rss>
