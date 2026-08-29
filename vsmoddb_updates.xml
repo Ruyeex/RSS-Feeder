@@ -4,7 +4,126 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 29 Aug 2026 06:14:51 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 29 Aug 2026 13:01:41 +0000</lastBuildDate>
+  <item>
+    <title>Furio's Telescope</title>
+    <link>https://mods.vintagestory.at/show/mod/telescopemod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/telescopemod#10648</guid>
+    <pubDate>Sat, 29 Aug 2026 11:55:40 -0000</pubDate>
+    <description>Functional Telescopes with celestial body Observation Mechanic.</description>
+  </item>
+  <item>
+    <title>Waypoints NextGen</title>
+    <link>https://mods.vintagestory.at/show/mod/waypointsnextgen</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waypointsnextgen#8373</guid>
+    <pubDate>Sat, 29 Aug 2026 11:46:03 -0000</pubDate>
+    <description>Plug and play, +200 icons, new UI, custom HEX colors, icon scaling, outlines and quick-add hotkey</description>
+  </item>
+  <item>
+    <title>FairPlayGuardian</title>
+    <link>https://mods.vintagestory.at/show/mod/fairplayguardian</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fairplayguardian#1213</guid>
+    <pubDate>Sat, 29 Aug 2026 11:31:13 -0000</pubDate>
+    <description>Allows to restrict client side only mods and verify their integrity</description>
+  </item>
+  <item>
+    <title>Rifteye</title>
+    <link>https://mods.vintagestory.at/show/mod/rifteye</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifteye#1127</guid>
+    <pubDate>Sat, 29 Aug 2026 11:17:55 -0000</pubDate>
+    <description>Player inventory and information viewer</description>
+  </item>
+  <item>
+    <title>Dead</title>
+    <link>https://mods.vintagestory.at/show/mod/dead</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
+    <pubDate>Sat, 29 Aug 2026 10:45:03 -0000</pubDate>
+    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
+  </item>
+  <item>
+    <title>Meadows Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10662</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10662#10662</guid>
+    <pubDate>Sat, 29 Aug 2026 10:18:31 -0000</pubDate>
+    <description>Nothing fancy, just server-specific adjustments</description>
+  </item>
+  <item>
+    <title>Frontier Claims Map</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Sat, 29 Aug 2026 10:13:30 -0000</pubDate>
+    <description>Claim map and access controls for internal testing on a private server.</description>
+  </item>
+  <item>
+    <title>Temporally Stable Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tstweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tstweaks#5193</guid>
+    <pubDate>Sat, 29 Aug 2026 10:04:19 -0000</pubDate>
+    <description>Various tweaks for the Temporally Stable server.</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Sat, 29 Aug 2026 09:29:53 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>Hobbits Swim</title>
+    <link>https://mods.vintagestory.at/show/mod/skyhobbitswim</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skyhobbitswim#11394</guid>
+    <pubDate>Sat, 29 Aug 2026 09:26:17 -0000</pubDate>
+    <description>Patch for To Rule Them All: Middle-earth Races: removes the 'afraidofwater' trait from Hobbits</description>
+  </item>
+  <item>
+    <title>Sky's TerraTag SoundPack</title>
+    <link>https://mods.vintagestory.at/show/mod/skysterratagsoundpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skysterratagsoundpack#11046</guid>
+    <pubDate>Sat, 29 Aug 2026 08:28:35 -0000</pubDate>
+    <description>Various sounds and music for TerraTag.</description>
+  </item>
+  <item>
+    <title>The Hunter</title>
+    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
+    <pubDate>Sat, 29 Aug 2026 08:00:24 -0000</pubDate>
+    <description>Track prey, follow blood, carry carcasses, compost dung, and have smarter wolves.</description>
+  </item>
+  <item>
+    <title>New Dawn</title>
+    <link>https://mods.vintagestory.at/show/mod/11391</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11391#11391</guid>
+    <pubDate>Sat, 29 Aug 2026 07:48:23 -0000</pubDate>
+    <description>Storage Crafting plus a recipe-grid performance optimizer for New Dawn Server</description>
+  </item>
+  <item>
+    <title>Age of Seraphs Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
+    <pubDate>Sat, 29 Aug 2026 06:54:36 -0000</pubDate>
+    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
+  </item>
+  <item>
+    <title>Fennel Swag</title>
+    <link>https://mods.vintagestory.at/show/mod/11294</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11294#11294</guid>
+    <pubDate>Sat, 29 Aug 2026 06:39:25 -0000</pubDate>
+    <description>Adds some features for fennel because it isn't any good</description>
+  </item>
+  <item>
+    <title>Blood Fennel Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/11296</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11296#11296</guid>
+    <pubDate>Sat, 29 Aug 2026 06:38:29 -0000</pubDate>
+    <description>Bridges my two mods, "More Blood Thingies," and "Fennel Swag."</description>
+  </item>
+  <item>
+    <title>More Blood Thingies!</title>
+    <link>https://mods.vintagestory.at/show/mod/10959</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
+    <pubDate>Sat, 29 Aug 2026 06:36:34 -0000</pubDate>
+    <description>Adds all the features for bloodbread that should have been.</description>
+  </item>
   <item>
     <title>Advanced Geology</title>
     <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
@@ -95,125 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/st#11377</guid>
     <pubDate>Sat, 29 Aug 2026 01:55:34 -0000</pubDate>
     <description>Teleport to your home or any marked location on your map.</description>
-  </item>
-  <item>
-    <title>Repair Kits</title>
-    <link>https://mods.vintagestory.at/show/mod/armoryrepairkits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/armoryrepairkits#11249</guid>
-    <pubDate>Sat, 29 Aug 2026 01:51:31 -0000</pubDate>
-    <description>Adds multiple repair kit items to the game that can repair ANY item with durability.</description>
-  </item>
-  <item>
-    <title>Crucibulum</title>
-    <link>https://mods.vintagestory.at/show/mod/crucibulum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crucibulum#11374</guid>
-    <pubDate>Sat, 29 Aug 2026 01:15:35 -0000</pubDate>
-    <description>Set a crucible in the forge and melt metal where you smith it</description>
-  </item>
-  <item>
-    <title>Waypoint Beacon</title>
-    <link>https://mods.vintagestory.at/show/mod/waypointbeacon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waypointbeacon#7102</guid>
-    <pubDate>Sat, 29 Aug 2026 00:54:59 -0000</pubDate>
-    <description>Your map knows. Your eyes can too - 3D beacons for waypoints</description>
-  </item>
-  <item>
-    <title>Simple Forge Arrows</title>
-    <link>https://mods.vintagestory.at/show/mod/sfaws</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sfaws#1271</guid>
-    <pubDate>Sat, 29 Aug 2026 00:40:05 -0000</pubDate>
-    <description>Changes the forge values for arrows from 6 to 9 and 9 to 18. Meaning 1 ingot = 9 and 2 ingots = 18.</description>
-  </item>
-  <item>
-    <title>WOO Fantasy Additions</title>
-    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
-    <pubDate>Sat, 29 Aug 2026 00:37:52 -0000</pubDate>
-    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
-  </item>
-  <item>
-    <title>Vozzie's Fantasy Races and Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/9037</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9037#9037</guid>
-    <pubDate>Sat, 29 Aug 2026 00:28:44 -0000</pubDate>
-    <description>A collection of races, racial traits and classes for the Racial Equality mod by Tomoyuki</description>
-  </item>
-  <item>
-    <title>Charcoal Kiln</title>
-    <link>https://mods.vintagestory.at/show/mod/charcoalkiln</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/charcoalkiln#10807</guid>
-    <pubDate>Sat, 29 Aug 2026 00:16:04 -0000</pubDate>
-    <description>Charcoal Kiln adds a permanent and reusable kiln to make your endless batches of charcoal.</description>
-  </item>
-  <item>
-    <title>Foundations Lib</title>
-    <link>https://mods.vintagestory.at/show/mod/foundationslib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/foundationslib#4664</guid>
-    <pubDate>Fri, 28 Aug 2026 23:52:20 -0000</pubDate>
-    <description>Extends transitionable functionality and makes it more configurable.</description>
-  </item>
-  <item>
-    <title>Land Of Estrellas</title>
-    <link>https://mods.vintagestory.at/show/mod/loe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/loe#10629</guid>
-    <pubDate>Fri, 28 Aug 2026 23:47:25 -0000</pubDate>
-    <description>The offical modpack of The Land of Estrellas server </description>
-  </item>
-  <item>
-    <title>Place it Anywhere</title>
-    <link>https://mods.vintagestory.at/show/mod/9914</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9914#9914</guid>
-    <pubDate>Fri, 28 Aug 2026 22:49:38 -0000</pubDate>
-    <description>Place any item as decoration on floors, walls and ceilings. Up to 64 items per cell.</description>
-  </item>
-  <item>
-    <title>Better Hoe</title>
-    <link>https://mods.vintagestory.at/show/mod/betterhoe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhoe#1594</guid>
-    <pubDate>Fri, 28 Aug 2026 22:45:10 -0000</pubDate>
-    <description>Adds function to create paths with the hoe.</description>
-  </item>
-  <item>
-    <title>RespawnInfo</title>
-    <link>https://mods.vintagestory.at/show/mod/respawninfo</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/respawninfo#1369</guid>
-    <pubDate>Fri, 28 Aug 2026 22:44:53 -0000</pubDate>
-    <description>Adds a command and a small GUI to check your respawn count and coordinates.</description>
-  </item>
-  <item>
-    <title>Floral Zones: Mediterranean Region</title>
-    <link>https://mods.vintagestory.at/show/mod/floralzonesmediterraneanregion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonesmediterraneanregion#2779</guid>
-    <pubDate>Fri, 28 Aug 2026 21:57:12 -0000</pubDate>
-    <description>Adds plants from the Mediterranean Region to the game.</description>
-  </item>
-  <item>
-    <title>Floral Zones: Neozeylandic Region</title>
-    <link>https://mods.vintagestory.at/show/mod/floralzonesneozeylandicregion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonesneozeylandicregion#2180</guid>
-    <pubDate>Fri, 28 Aug 2026 21:56:03 -0000</pubDate>
-    <description>Adds plants from the Neozeylandic Region to the game.</description>
-  </item>
-  <item>
-    <title>Floral Zones: East Asiatic Region</title>
-    <link>https://mods.vintagestory.at/show/mod/floralzoneseastasiaticregion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzoneseastasiaticregion#2081</guid>
-    <pubDate>Fri, 28 Aug 2026 21:55:20 -0000</pubDate>
-    <description>Adds plants from the East Asiatic Region to the game.</description>
-  </item>
-  <item>
-    <title>Floral Zones: Central Australian Region</title>
-    <link>https://mods.vintagestory.at/show/mod/floralzonescentralaustralianregion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescentralaustralianregion#1989</guid>
-    <pubDate>Fri, 28 Aug 2026 21:54:47 -0000</pubDate>
-    <description>Adds plants from the Central Australian Region to the game.</description>
-  </item>
-  <item>
-    <title>Floral Zones: Caribbean Region</title>
-    <link>https://mods.vintagestory.at/show/mod/floralzonescaribbeanregion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescaribbeanregion#1666</guid>
-    <pubDate>Fri, 28 Aug 2026 21:54:02 -0000</pubDate>
-    <description>Adds plants from the Caribbean Region to the game.</description>
   </item>
 </channel>
 </rss>
