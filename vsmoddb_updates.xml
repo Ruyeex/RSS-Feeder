@@ -4,12 +4,152 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 29 Aug 2026 17:33:42 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 29 Aug 2026 20:37:31 +0000</lastBuildDate>
+  <item>
+    <title>Rift Weapons</title>
+    <link>https://mods.vintagestory.at/show/mod/riftweapons</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftweapons#4417</guid>
+    <pubDate>Sat, 29 Aug 2026 20:26:30 -0000</pubDate>
+    <description>Adds a Sword with different designs depending on metal tier</description>
+  </item>
+  <item>
+    <title>Armory: Warlords and Warchiefs</title>
+    <link>https://mods.vintagestory.at/show/mod/hawarlords</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hawarlords#9245</guid>
+    <pubDate>Sat, 29 Aug 2026 20:23:00 -0000</pubDate>
+    <description>A collection of equipment from the North/South American and African continents.</description>
+  </item>
+  <item>
+    <title>Armory</title>
+    <link>https://mods.vintagestory.at/show/mod/hacore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hacore#9243</guid>
+    <pubDate>Sat, 29 Aug 2026 20:21:29 -0000</pubDate>
+    <description>A collection of items and mechanics to be used for weaponry mods.</description>
+  </item>
+  <item>
+    <title>Window Display</title>
+    <link>https://mods.vintagestory.at/show/mod/windowdisplay</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplay#10488</guid>
+    <pubDate>Sat, 29 Aug 2026 20:17:46 -0000</pubDate>
+    <description>Adds Windows, an improved version of the Window Storage mod, uses Universal Display Lib</description>
+  </item>
+  <item>
+    <title>Repair Kits</title>
+    <link>https://mods.vintagestory.at/show/mod/armoryrepairkits</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/armoryrepairkits#11249</guid>
+    <pubDate>Sat, 29 Aug 2026 20:08:20 -0000</pubDate>
+    <description>Adds multiple repair kit items to the game that can repair ANY item with durability.</description>
+  </item>
+  <item>
+    <title>Auto Loot Reforged</title>
+    <link>https://mods.vintagestory.at/show/mod/autolootreforged</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autolootreforged#3330</guid>
+    <pubDate>Sat, 29 Aug 2026 19:59:33 -0000</pubDate>
+    <description>remake of autoloot (for newer versions)</description>
+  </item>
+  <item>
+    <title>Sneaky Sit</title>
+    <link>https://mods.vintagestory.at/show/mod/sneakysit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sneakysit#11400</guid>
+    <pubDate>Sat, 29 Aug 2026 19:55:11 -0000</pubDate>
+    <description>Applies detection range reduction to sitting.</description>
+  </item>
+  <item>
+    <title>UniversalChat</title>
+    <link>https://mods.vintagestory.at/show/mod/11401</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11401#11401</guid>
+    <pubDate>Sat, 29 Aug 2026 19:54:36 -0000</pubDate>
+    <description>Adds a native Universal chat tab that mirrors General and translates each message locally into the p</description>
+  </item>
+  <item>
+    <title>steamworks</title>
+    <link>https://mods.vintagestory.at/show/mod/9040</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9040#9040</guid>
+    <pubDate>Sat, 29 Aug 2026 19:50:01 -0000</pubDate>
+    <description>Steamworks adds late‑game steam power: boilers, engines, pumps, pipes, and a powered sawmill.</description>
+  </item>
+  <item>
+    <title>DarkGirlStuff</title>
+    <link>https://mods.vintagestory.at/show/mod/11165</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11165#11165</guid>
+    <pubDate>Sat, 29 Aug 2026 19:47:17 -0000</pubDate>
+    <description>ADD some stuff, items, cloths for an server</description>
+  </item>
+  <item>
+    <title>TraderTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10569</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
+    <pubDate>Sat, 29 Aug 2026 19:45:28 -0000</pubDate>
+    <description>Allow to manage traders</description>
+  </item>
+  <item>
+    <title>ReinforcedTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/11245</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11245#11245</guid>
+    <pubDate>Sat, 29 Aug 2026 19:44:37 -0000</pubDate>
+    <description>ADD Option to Plumb and Square</description>
+  </item>
+  <item>
+    <title>TURBOJOIN</title>
+    <link>https://mods.vintagestory.at/show/mod/11337</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11337#11337</guid>
+    <pubDate>Sat, 29 Aug 2026 19:35:26 -0000</pubDate>
+    <description>(hopefully) speeds up server load time</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Sat, 29 Aug 2026 19:29:25 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
+  <item>
+    <title>Fornax</title>
+    <link>https://mods.vintagestory.at/show/mod/fornax</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fornax#11226</guid>
+    <pubDate>Sat, 29 Aug 2026 19:14:53 -0000</pubDate>
+    <description>The kiln between the pit kiln and the beehive kiln. Mud brick, firewood, and no iron at all.</description>
+  </item>
+  <item>
+    <title>IndustrialStory</title>
+    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
+    <pubDate>Sat, 29 Aug 2026 18:56:26 -0000</pubDate>
+    <description>Overhauls metalworking, chemistry, and glassworking. </description>
+  </item>
+  <item>
+    <title>WOO Fantasy Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
+    <pubDate>Sat, 29 Aug 2026 18:33:43 -0000</pubDate>
+    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
+  </item>
+  <item>
+    <title>Crucibulum</title>
+    <link>https://mods.vintagestory.at/show/mod/crucibulum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crucibulum#11374</guid>
+    <pubDate>Sat, 29 Aug 2026 18:11:50 -0000</pubDate>
+    <description>Set a crucible in the forge and melt metal where you smith it</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Sat, 29 Aug 2026 18:11:46 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>Door Master</title>
+    <link>https://mods.vintagestory.at/show/mod/doormaster</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/doormaster#9777</guid>
+    <pubDate>Sat, 29 Aug 2026 18:08:13 -0000</pubDate>
+    <description>Chisel your own custom doors with smooth open/close animation at any angle!</description>
+  </item>
   <item>
     <title>Modular Butchering Bag</title>
     <link>https://mods.vintagestory.at/show/mod/butchedbagpack</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butchedbagpack#11397</guid>
-    <pubDate>Sat, 29 Aug 2026 17:14:15 -0000</pubDate>
+    <pubDate>Sat, 29 Aug 2026 17:41:51 -0000</pubDate>
     <description>Modular Backpacks × Butchering</description>
   </item>
   <item>
@@ -66,7 +206,7 @@
     <link>https://mods.vintagestory.at/show/mod/tailoredsociety</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tailoredsociety#10610</guid>
     <pubDate>Sat, 29 Aug 2026 15:20:42 -0000</pubDate>
-    <description>Adds some people npc's into the game</description>
+    <description>Don't feel such lonely anymore ;D with this people NPC's mod</description>
   </item>
   <item>
     <title>Pattern Mining</title>
@@ -74,146 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9185#9185</guid>
     <pubDate>Sat, 29 Aug 2026 15:04:31 -0000</pubDate>
     <description>Mine in 5 distinct patterns using your pickaxe. Now includes shovels!!</description>
-  </item>
-  <item>
-    <title>Modular Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/modularbackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacks#10127</guid>
-    <pubDate>Sat, 29 Aug 2026 14:56:32 -0000</pubDate>
-    <description>Makes vanilla backpacks modular, allowing you to attach addons to extend storage slots.</description>
-  </item>
-  <item>
-    <title>More Uses for Peat</title>
-    <link>https://mods.vintagestory.at/show/mod/moreusesforpeat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreusesforpeat#10384</guid>
-    <pubDate>Sat, 29 Aug 2026 14:54:20 -0000</pubDate>
-    <description>Overhaul to peat piles and new features.</description>
-  </item>
-  <item>
-    <title>Signals Link</title>
-    <link>https://mods.vintagestory.at/show/mod/signalslink</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/signalslink#5907</guid>
-    <pubDate>Sat, 29 Aug 2026 14:52:32 -0000</pubDate>
-    <description>Extends Signals mod with sensors and control elements for interacting with other mods</description>
-  </item>
-  <item>
-    <title>InventoryWheelFix</title>
-    <link>https://mods.vintagestory.at/show/mod/inventorywheelfix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/inventorywheelfix#10373</guid>
-    <pubDate>Sat, 29 Aug 2026 14:42:56 -0000</pubDate>
-    <description>Fixes the mouse wheel behavior in immersive mouse mode, when the player inventory is scrollable.</description>
-  </item>
-  <item>
-    <title>VS Ladies</title>
-    <link>https://mods.vintagestory.at/show/mod/11396</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11396#11396</guid>
-    <pubDate>Sat, 29 Aug 2026 14:41:44 -0000</pubDate>
-    <description>Expands character creation with 5 distinct, feminine body types</description>
-  </item>
-  <item>
-    <title>Japanese translation of Mods</title>
-    <link>https://mods.vintagestory.at/show/mod/jtom</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jtom#644</guid>
-    <pubDate>Sat, 29 Aug 2026 14:14:31 -0000</pubDate>
-    <description>This is a mod to convert the mod into Japanese. MODを日本語化するMODです。</description>
-  </item>
-  <item>
-    <title>Furio's Telescope</title>
-    <link>https://mods.vintagestory.at/show/mod/telescopemod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/telescopemod#10648</guid>
-    <pubDate>Sat, 29 Aug 2026 11:55:40 -0000</pubDate>
-    <description>Functional Telescopes with celestial body Observation Mechanic.</description>
-  </item>
-  <item>
-    <title>Waypoints NextGen</title>
-    <link>https://mods.vintagestory.at/show/mod/waypointsnextgen</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waypointsnextgen#8373</guid>
-    <pubDate>Sat, 29 Aug 2026 11:46:03 -0000</pubDate>
-    <description>Plug and play, +200 icons, new UI, custom HEX colors, icon scaling, outlines and quick-add hotkey</description>
-  </item>
-  <item>
-    <title>FairPlayGuardian</title>
-    <link>https://mods.vintagestory.at/show/mod/fairplayguardian</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fairplayguardian#1213</guid>
-    <pubDate>Sat, 29 Aug 2026 11:31:13 -0000</pubDate>
-    <description>Allows to restrict client side only mods and verify their integrity</description>
-  </item>
-  <item>
-    <title>Rifteye</title>
-    <link>https://mods.vintagestory.at/show/mod/rifteye</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifteye#1127</guid>
-    <pubDate>Sat, 29 Aug 2026 11:17:55 -0000</pubDate>
-    <description>Player inventory and information viewer</description>
-  </item>
-  <item>
-    <title>Dead</title>
-    <link>https://mods.vintagestory.at/show/mod/dead</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
-    <pubDate>Sat, 29 Aug 2026 10:45:03 -0000</pubDate>
-    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
-  </item>
-  <item>
-    <title>Meadows Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10662</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10662#10662</guid>
-    <pubDate>Sat, 29 Aug 2026 10:18:31 -0000</pubDate>
-    <description>Nothing fancy, just server-specific adjustments</description>
-  </item>
-  <item>
-    <title>Frontier Claims Map</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
-    <pubDate>Sat, 29 Aug 2026 10:13:30 -0000</pubDate>
-    <description>Claim map and access controls for internal testing on a private server.</description>
-  </item>
-  <item>
-    <title>Temporally Stable Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tstweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tstweaks#5193</guid>
-    <pubDate>Sat, 29 Aug 2026 10:04:19 -0000</pubDate>
-    <description>Various tweaks for the Temporally Stable server.</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Sat, 29 Aug 2026 09:29:53 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
-  </item>
-  <item>
-    <title>Hobbits Swim</title>
-    <link>https://mods.vintagestory.at/show/mod/skyhobbitswim</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skyhobbitswim#11394</guid>
-    <pubDate>Sat, 29 Aug 2026 09:26:17 -0000</pubDate>
-    <description>Patch for To Rule Them All: Middle-earth Races: removes the 'afraidofwater' trait from Hobbits</description>
-  </item>
-  <item>
-    <title>Sky's TerraTag SoundPack</title>
-    <link>https://mods.vintagestory.at/show/mod/skysterratagsoundpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skysterratagsoundpack#11046</guid>
-    <pubDate>Sat, 29 Aug 2026 08:28:35 -0000</pubDate>
-    <description>Various sounds and music for TerraTag.</description>
-  </item>
-  <item>
-    <title>The Hunter</title>
-    <link>https://mods.vintagestory.at/show/mod/thehunter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thehunter#10312</guid>
-    <pubDate>Sat, 29 Aug 2026 08:00:24 -0000</pubDate>
-    <description>Track prey, follow blood, carry carcasses, compost dung, and have smarter wolves.</description>
-  </item>
-  <item>
-    <title>New Dawn</title>
-    <link>https://mods.vintagestory.at/show/mod/11391</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11391#11391</guid>
-    <pubDate>Sat, 29 Aug 2026 07:48:23 -0000</pubDate>
-    <description>Storage Crafting plus a recipe-grid performance optimizer for New Dawn Server</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Sat, 29 Aug 2026 06:54:36 -0000</pubDate>
-    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
   </item>
 </channel>
 </rss>
