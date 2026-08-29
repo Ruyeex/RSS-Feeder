@@ -4,7 +4,147 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 28 Aug 2026 23:54:04 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 29 Aug 2026 06:14:51 +0000</lastBuildDate>
+  <item>
+    <title>Advanced Geology</title>
+    <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedgeology#7167</guid>
+    <pubDate>Sat, 29 Aug 2026 06:10:29 -0000</pubDate>
+    <description>Adds new, realistic ores and stones with heavy IOG compatibility</description>
+  </item>
+  <item>
+    <title>Fish Breeding</title>
+    <link>https://mods.vintagestory.at/show/mod/11043</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11043#11043</guid>
+    <pubDate>Sat, 29 Aug 2026 05:59:32 -0000</pubDate>
+    <description>A patch for my server that allows all fish to be bred with specific pellets for them</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sat, 29 Aug 2026 05:58:09 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>TURBOJOIN</title>
+    <link>https://mods.vintagestory.at/show/mod/11337</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11337#11337</guid>
+    <pubDate>Sat, 29 Aug 2026 05:56:44 -0000</pubDate>
+    <description>(hopefully) speeds up server load time</description>
+  </item>
+  <item>
+    <title>TassModFixesTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tassmodfixestweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassmodfixestweaks#10502</guid>
+    <pubDate>Sat, 29 Aug 2026 03:52:04 -0000</pubDate>
+    <description>A catch all mod for anything that does not fit my other mods - fixing bugs and tweaking mods</description>
+  </item>
+  <item>
+    <title>Temporal Relics</title>
+    <link>https://mods.vintagestory.at/show/mod/9886</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9886#9886</guid>
+    <pubDate>Sat, 29 Aug 2026 03:47:31 -0000</pubDate>
+    <description>Adds randomized affixes to found equipment, introducing mundane, corrupted, and temporally enhanced </description>
+  </item>
+  <item>
+    <title>Temporal Convergence</title>
+    <link>https://mods.vintagestory.at/show/mod/9887</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9887#9887</guid>
+    <pubDate>Sat, 29 Aug 2026 03:44:51 -0000</pubDate>
+    <description>Expands the creatures emerging from temporal rifts with new eldritch entities, afflicted automatons,</description>
+  </item>
+  <item>
+    <title>Resonator Overhaul </title>
+    <link>https://mods.vintagestory.at/show/mod/10009</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10009#10009</guid>
+    <pubDate>Sat, 29 Aug 2026 03:38:45 -0000</pubDate>
+    <description>Per-resonator volume, falloff and looping — saved to the world and audible with Music off.</description>
+  </item>
+  <item>
+    <title>Doors, Hatches, &amp; Gates Overhaul</title>
+    <link>https://mods.vintagestory.at/show/mod/11298</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11298#11298</guid>
+    <pubDate>Sat, 29 Aug 2026 03:24:40 -0000</pubDate>
+    <description>Auto-opening doors with selectable sounds and configurable hand or lever-only operation.</description>
+  </item>
+  <item>
+    <title>Crucible on Forge</title>
+    <link>https://mods.vintagestory.at/show/mod/10483</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10483#10483</guid>
+    <pubDate>Sat, 29 Aug 2026 03:20:59 -0000</pubDate>
+    <description>Smelt ore at your forge instead of trekking back to a firepit.</description>
+  </item>
+  <item>
+    <title>Walkable Deck (Experimental)</title>
+    <link>https://mods.vintagestory.at/show/mod/walkabledeck</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkabledeck#11390</guid>
+    <pubDate>Sat, 29 Aug 2026 02:56:41 -0000</pubDate>
+    <description>EXPERIMENTAL - Walk around on Shipwright boat decks while they sail. Requires Shipwright.</description>
+  </item>
+  <item>
+    <title>Crucibles Stay Hot</title>
+    <link>https://mods.vintagestory.at/show/mod/cruciblesstayhot</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cruciblesstayhot#11389</guid>
+    <pubDate>Sat, 29 Aug 2026 02:48:41 -0000</pubDate>
+    <description>Crucibles will continue to receive heat when sitting in the output slot of a lit firepit.</description>
+  </item>
+  <item>
+    <title>Simple teleporter</title>
+    <link>https://mods.vintagestory.at/show/mod/st</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/st#11377</guid>
+    <pubDate>Sat, 29 Aug 2026 01:55:34 -0000</pubDate>
+    <description>Teleport to your home or any marked location on your map.</description>
+  </item>
+  <item>
+    <title>Repair Kits</title>
+    <link>https://mods.vintagestory.at/show/mod/armoryrepairkits</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/armoryrepairkits#11249</guid>
+    <pubDate>Sat, 29 Aug 2026 01:51:31 -0000</pubDate>
+    <description>Adds multiple repair kit items to the game that can repair ANY item with durability.</description>
+  </item>
+  <item>
+    <title>Crucibulum</title>
+    <link>https://mods.vintagestory.at/show/mod/crucibulum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crucibulum#11374</guid>
+    <pubDate>Sat, 29 Aug 2026 01:15:35 -0000</pubDate>
+    <description>Set a crucible in the forge and melt metal where you smith it</description>
+  </item>
+  <item>
+    <title>Waypoint Beacon</title>
+    <link>https://mods.vintagestory.at/show/mod/waypointbeacon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waypointbeacon#7102</guid>
+    <pubDate>Sat, 29 Aug 2026 00:54:59 -0000</pubDate>
+    <description>Your map knows. Your eyes can too - 3D beacons for waypoints</description>
+  </item>
+  <item>
+    <title>Simple Forge Arrows</title>
+    <link>https://mods.vintagestory.at/show/mod/sfaws</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sfaws#1271</guid>
+    <pubDate>Sat, 29 Aug 2026 00:40:05 -0000</pubDate>
+    <description>Changes the forge values for arrows from 6 to 9 and 9 to 18. Meaning 1 ingot = 9 and 2 ingots = 18.</description>
+  </item>
+  <item>
+    <title>WOO Fantasy Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
+    <pubDate>Sat, 29 Aug 2026 00:37:52 -0000</pubDate>
+    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
+  </item>
+  <item>
+    <title>Vozzie's Fantasy Races and Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/9037</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9037#9037</guid>
+    <pubDate>Sat, 29 Aug 2026 00:28:44 -0000</pubDate>
+    <description>A collection of races, racial traits and classes for the Racial Equality mod by Tomoyuki</description>
+  </item>
+  <item>
+    <title>Charcoal Kiln</title>
+    <link>https://mods.vintagestory.at/show/mod/charcoalkiln</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/charcoalkiln#10807</guid>
+    <pubDate>Sat, 29 Aug 2026 00:16:04 -0000</pubDate>
+    <description>Charcoal Kiln adds a permanent and reusable kiln to make your endless batches of charcoal.</description>
+  </item>
   <item>
     <title>Foundations Lib</title>
     <link>https://mods.vintagestory.at/show/mod/foundationslib</link>
@@ -74,146 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescaribbeanregion#1666</guid>
     <pubDate>Fri, 28 Aug 2026 21:54:02 -0000</pubDate>
     <description>Adds plants from the Caribbean Region to the game.</description>
-  </item>
-  <item>
-    <title>Floral Zones: Cape Region</title>
-    <link>https://mods.vintagestory.at/show/mod/floralzonescaperegion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescaperegion#1570</guid>
-    <pubDate>Fri, 28 Aug 2026 21:52:19 -0000</pubDate>
-    <description>Adds plants from the Cape Region to the game.</description>
-  </item>
-  <item>
-    <title>Waypoints NextGen</title>
-    <link>https://mods.vintagestory.at/show/mod/waypointsnextgen</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waypointsnextgen#8373</guid>
-    <pubDate>Fri, 28 Aug 2026 21:47:30 -0000</pubDate>
-    <description>Plug and play, +200 icons, new UI, custom HEX colors, icon scaling, outlines and quick-add hotkey</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Fri, 28 Aug 2026 21:36:30 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>More Blood Thingies!</title>
-    <link>https://mods.vintagestory.at/show/mod/10959</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
-    <pubDate>Fri, 28 Aug 2026 21:03:38 -0000</pubDate>
-    <description>Adds all the features for bloodbread that should have been.</description>
-  </item>
-  <item>
-    <title>Kingdoms and Clans Base Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/kingandclanbase</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kingandclanbase#11001</guid>
-    <pubDate>Fri, 28 Aug 2026 20:59:04 -0000</pubDate>
-    <description>Mod for whitelisted server Kingdoms and Clans</description>
-  </item>
-  <item>
-    <title>WorldgenLib</title>
-    <link>https://mods.vintagestory.at/show/mod/worldgenlib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/worldgenlib#11363</guid>
-    <pubDate>Fri, 28 Aug 2026 20:55:37 -0000</pubDate>
-    <description>Shared server-side API for Vintage Story modders to compose compatible worldgen.</description>
-  </item>
-  <item>
-    <title>Road network - connected curved roads and bridges</title>
-    <link>https://mods.vintagestory.at/show/mod/10739</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10739#10739</guid>
-    <pubDate>Fri, 28 Aug 2026 20:45:49 -0000</pubDate>
-    <description>Road Network allows you to spawn roads automatically, which snuggle to the terrain.</description>
-  </item>
-  <item>
-    <title>Smith Master Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/11310</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11310#11310</guid>
-    <pubDate>Fri, 28 Aug 2026 20:23:56 -0000</pubDate>
-    <description>Currently 3 Tweaks to smithing/the anvil. Reclaiming split bits, Salvaging, and Efficiency boost.</description>
-  </item>
-  <item>
-    <title>DarkGirlStuff</title>
-    <link>https://mods.vintagestory.at/show/mod/11165</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11165#11165</guid>
-    <pubDate>Fri, 28 Aug 2026 19:42:57 -0000</pubDate>
-    <description>ADD some stuff, items, cloths for an server</description>
-  </item>
-  <item>
-    <title>TraderTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10569</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
-    <pubDate>Fri, 28 Aug 2026 19:40:52 -0000</pubDate>
-    <description>Allow to manage traders</description>
-  </item>
-  <item>
-    <title>ReinforcedTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/11245</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11245#11245</guid>
-    <pubDate>Fri, 28 Aug 2026 19:39:58 -0000</pubDate>
-    <description>ADD Option to Plumb and Square</description>
-  </item>
-  <item>
-    <title>Rebalanced Trader Prices</title>
-    <link>https://mods.vintagestory.at/show/mod/10822</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10822#10822</guid>
-    <pubDate>Fri, 28 Aug 2026 19:39:20 -0000</pubDate>
-    <description>Adjusts trader prices to hopefully be more desirable.</description>
-  </item>
-  <item>
-    <title>TURBOJOIN</title>
-    <link>https://mods.vintagestory.at/show/mod/11337</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11337#11337</guid>
-    <pubDate>Fri, 28 Aug 2026 19:32:45 -0000</pubDate>
-    <description>(hopefully) speeds up server load time</description>
-  </item>
-  <item>
-    <title>Fornax</title>
-    <link>https://mods.vintagestory.at/show/mod/fornax</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fornax#11226</guid>
-    <pubDate>Fri, 28 Aug 2026 19:29:05 -0000</pubDate>
-    <description>The kiln between the pit kiln and the beehive kiln. Mud brick, firewood, and no iron at all.</description>
-  </item>
-  <item>
-    <title>C&amp;N RPG Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/canrpgclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canrpgclasses#9965</guid>
-    <pubDate>Fri, 28 Aug 2026 19:08:01 -0000</pubDate>
-    <description>RPG classes for Vintage Story</description>
-  </item>
-  <item>
-    <title>Frontier Claims Map</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
-    <pubDate>Fri, 28 Aug 2026 18:37:36 -0000</pubDate>
-    <description>Claim map and access controls for internal testing on a private server.</description>
-  </item>
-  <item>
-    <title>The Almanac: Trades, Callings &amp; Mastery</title>
-    <link>https://mods.vintagestory.at/show/mod/almanactcm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanactcm#10453</guid>
-    <pubDate>Fri, 28 Aug 2026 18:30:39 -0000</pubDate>
-    <description>Twenty-two trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>Meliora Meadows Adjustments</title>
-    <link>https://mods.vintagestory.at/show/mod/ecradjustments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ecradjustments#8916</guid>
-    <pubDate>Fri, 28 Aug 2026 18:30:10 -0000</pubDate>
-    <description>Adjusts A LOT of mods, applying Aldi's Classes trait restrictions and disabling some jsons.</description>
-  </item>
-  <item>
-    <title>The Quire Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/tqp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tqp#10455</guid>
-    <pubDate>Fri, 28 Aug 2026 18:28:23 -0000</pubDate>
-    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
-  </item>
-  <item>
-    <title>Player Model NPCs </title>
-    <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
-    <pubDate>Fri, 28 Aug 2026 18:26:20 -0000</pubDate>
-    <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
   </item>
 </channel>
 </rss>
