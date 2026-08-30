@@ -4,7 +4,189 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 29 Aug 2026 23:04:10 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 30 Aug 2026 04:23:21 +0000</lastBuildDate>
+  <item>
+    <title>Augur</title>
+    <link>https://mods.vintagestory.at/show/mod/augur</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/augur#11405</guid>
+    <pubDate>Sun, 30 Aug 2026 04:22:10 -0000</pubDate>
+    <description>A mod of discovery</description>
+  </item>
+  <item>
+    <title>Animalica - Enemies</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicae#10894</guid>
+    <pubDate>Sun, 30 Aug 2026 03:14:48 -0000</pubDate>
+    <description>Play as 23 hostile Vintage Story enemies with native animations, traits, clothing, and carry modes.</description>
+  </item>
+  <item>
+    <title>Animalica - Compatibility Pack 3 (Dinosaurs)</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicadinos</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicadinos#10562</guid>
+    <pubDate>Sun, 30 Aug 2026 03:14:36 -0000</pubDate>
+    <description>Adds clothing-capable playable dinosaurs and marine reptiles from Legacy of the Phanerozoic modules</description>
+  </item>
+  <item>
+    <title>Animalica - Compatibility pack 2: (FotSA)</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicafotsa</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicafotsa#10561</guid>
+    <pubDate>Sun, 30 Aug 2026 03:14:26 -0000</pubDate>
+    <description>Adds clothing-capable playable models for six Fauna of the Stone Age modules</description>
+  </item>
+  <item>
+    <title>Animalica - Compatibility pack 1</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicac</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicac#9798</guid>
+    <pubDate>Sun, 30 Aug 2026 03:14:12 -0000</pubDate>
+    <description>Adds a small list of modded animals as players!</description>
+  </item>
+  <item>
+    <title>Animalica - Hooved Animals</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicah</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicah#9797</guid>
+    <pubDate>Sun, 30 Aug 2026 03:13:58 -0000</pubDate>
+    <description>Adds all the hooved animals as playable models!</description>
+  </item>
+  <item>
+    <title>Animalica - Small &amp; Odd</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicaso</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaso#9796</guid>
+    <pubDate>Sun, 30 Aug 2026 03:13:35 -0000</pubDate>
+    <description>Adds the small goober animals like raccoons, chickens, and rabbits as players</description>
+  </item>
+  <item>
+    <title>Animalica - Foxes, Wolves &amp; Hyenas</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicafwh</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicafwh#9794</guid>
+    <pubDate>Sun, 30 Aug 2026 03:13:11 -0000</pubDate>
+    <description>Adds Foxes, Wolves, and Hyenas as player choices!</description>
+  </item>
+  <item>
+    <title>Resonator Overhaul </title>
+    <link>https://mods.vintagestory.at/show/mod/10009</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10009#10009</guid>
+    <pubDate>Sun, 30 Aug 2026 02:57:57 -0000</pubDate>
+    <description>Per-resonator volume, falloff and looping — saved to the world and audible with Music off.</description>
+  </item>
+  <item>
+    <title>Crucible on Forge</title>
+    <link>https://mods.vintagestory.at/show/mod/10483</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10483#10483</guid>
+    <pubDate>Sun, 30 Aug 2026 02:56:38 -0000</pubDate>
+    <description>Smelt ore at your forge instead of trekking back to a firepit.</description>
+  </item>
+  <item>
+    <title>Vintage Rift - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
+    <pubDate>Sun, 30 Aug 2026 02:20:32 -0000</pubDate>
+    <description>Client only code for the Vintage Rift server</description>
+  </item>
+  <item>
+    <title>Akira's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/akiratweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/akiratweaks#10138</guid>
+    <pubDate>Sun, 30 Aug 2026 01:39:03 -0000</pubDate>
+    <description>Collection of patches for a personal server.</description>
+  </item>
+  <item>
+    <title>The Quire Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/tqp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tqp#10455</guid>
+    <pubDate>Sun, 30 Aug 2026 01:31:05 -0000</pubDate>
+    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
+  </item>
+  <item>
+    <title>MoreInventorys 2 Crashfix</title>
+    <link>https://mods.vintagestory.at/show/mod/11404</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11404#11404</guid>
+    <pubDate>Sun, 30 Aug 2026 01:11:50 -0000</pubDate>
+    <description>Solves a silent crash with MoreInventorys</description>
+  </item>
+  <item>
+    <title>Seraphs Ledger</title>
+    <link>https://mods.vintagestory.at/show/mod/9783</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9783#9783</guid>
+    <pubDate>Sun, 30 Aug 2026 00:47:06 -0000</pubDate>
+    <description>Only exact amounts of ingredients placed into barrels with water.</description>
+  </item>
+  <item>
+    <title>Nil's Sinister Boar Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/11255</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11255#11255</guid>
+    <pubDate>Sun, 30 Aug 2026 00:43:49 -0000</pubDate>
+    <description>Adds Ridable boars.  Extremely low effort. </description>
+  </item>
+  <item>
+    <title>Niltrias's Sinister Cookery</title>
+    <link>https://mods.vintagestory.at/show/mod/11215</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11215#11215</guid>
+    <pubDate>Sun, 30 Aug 2026 00:43:35 -0000</pubDate>
+    <description>Low-effort AI mod built for personal server only.  Should not be used by anyone. </description>
+  </item>
+  <item>
+    <title>Niltrias's Sinster Animal Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/11219</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11219#11219</guid>
+    <pubDate>Sun, 30 Aug 2026 00:40:38 -0000</pubDate>
+    <description>Adds primitive tanning and calming gen 1 animals more.  Extensive AI.  For personal server. </description>
+  </item>
+  <item>
+    <title>Fennel Swag</title>
+    <link>https://mods.vintagestory.at/show/mod/11294</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11294#11294</guid>
+    <pubDate>Sun, 30 Aug 2026 00:30:32 -0000</pubDate>
+    <description>Adds some features for fennel because it isn't any good</description>
+  </item>
+  <item>
+    <title>Zenith: Assimilation</title>
+    <link>https://mods.vintagestory.at/show/mod/7485</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7485#7485</guid>
+    <pubDate>Sun, 30 Aug 2026 00:06:48 -0000</pubDate>
+    <description> Consume Creatures, take their traits and become the ultimate lifeform</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/almanactcm</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanactcm#10453</guid>
+    <pubDate>Sat, 29 Aug 2026 23:52:59 -0000</pubDate>
+    <description>Twenty-two trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
+    <pubDate>Sat, 29 Aug 2026 23:48:38 -0000</pubDate>
+    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
+  </item>
+  <item>
+    <title>BetterEr Prospecting</title>
+    <link>https://mods.vintagestory.at/show/mod/bettererprospecting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettererprospecting#4916</guid>
+    <pubDate>Sat, 29 Aug 2026 23:48:04 -0000</pubDate>
+    <description>Altered prospecting experience with focus on reducing randomness</description>
+  </item>
+  <item>
+    <title>VintageTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagetweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagetweaks#4441</guid>
+    <pubDate>Sat, 29 Aug 2026 23:43:48 -0000</pubDate>
+    <description>VintageTweaks! A collection of small quality of life tweaks I would like to see in Vintage Story.</description>
+  </item>
+  <item>
+    <title>TassFactions</title>
+    <link>https://mods.vintagestory.at/show/mod/10503</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
+    <pubDate>Sat, 29 Aug 2026 23:43:06 -0000</pubDate>
+    <description>Factions - Raids - Sieges - Shops - Bounty</description>
+  </item>
+  <item>
+    <title>Better Nails</title>
+    <link>https://mods.vintagestory.at/show/mod/betternails</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betternails#5868</guid>
+    <pubDate>Sat, 29 Aug 2026 23:38:29 -0000</pubDate>
+    <description>Never thought of using higher quality metals for nails? Better metals now yields more nails.</description>
+  </item>
   <item>
     <title>New Dawn</title>
     <link>https://mods.vintagestory.at/show/mod/11391</link>
@@ -24,7 +206,7 @@
     <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
     <pubDate>Sat, 29 Aug 2026 22:28:36 -0000</pubDate>
-    <description>A sleek Vintage Story launcher for instances, mods, accounts and playtime tracking.</description>
+    <description>Manage Vintage Story instances, mods, versions and accounts from one modern launcher</description>
   </item>
   <item>
     <title>Elk Adornments</title>
@@ -32,188 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
     <pubDate>Sat, 29 Aug 2026 22:21:32 -0000</pubDate>
     <description>Masks for you and your elk with Modular Elk Armor!</description>
-  </item>
-  <item>
-    <title>TassHunting</title>
-    <link>https://mods.vintagestory.at/show/mod/tasshunting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshunting#10438</guid>
-    <pubDate>Sat, 29 Aug 2026 22:17:38 -0000</pubDate>
-    <description>Arrows Stick - Blood - Smarter Animal AI - Aiming Tweaks - Health Based Animal Speed</description>
-  </item>
-  <item>
-    <title>Realistic Soap</title>
-    <link>https://mods.vintagestory.at/show/mod/realisticsoap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticsoap#10983</guid>
-    <pubDate>Sat, 29 Aug 2026 22:14:09 -0000</pubDate>
-    <description>Leach wood ash into lye, boil it with fat, cure the bars, then wash, because being filthy now costs</description>
-  </item>
-  <item>
-    <title>Zoom Button - Reborn</title>
-    <link>https://mods.vintagestory.at/show/mod/zoombutton</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zoombutton#443</guid>
-    <pubDate>Sat, 29 Aug 2026 22:03:11 -0000</pubDate>
-    <description>Where's all that damn wolf howling coming from?  Press Z to squint and find out.</description>
-  </item>
-  <item>
-    <title>Sortable Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/sortablestorage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sortablestorage#636</guid>
-    <pubDate>Sat, 29 Aug 2026 22:02:57 -0000</pubDate>
-    <description>Need a sort button for your storage containers?  I know I do.</description>
-  </item>
-  <item>
-    <title>Translocator Engineering - Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/translocatorengineeringredux</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/translocatorengineeringredux#673</guid>
-    <pubDate>Sat, 29 Aug 2026 22:02:41 -0000</pubDate>
-    <description>Deconstruction, construction, and linking of static translocators.</description>
-  </item>
-  <item>
-    <title>Buzzwords</title>
-    <link>https://mods.vintagestory.at/show/mod/buzzwords</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/buzzwords#686</guid>
-    <pubDate>Sat, 29 Aug 2026 22:02:16 -0000</pubDate>
-    <description>Accessibility mod that shows a 'BzZzZzZ...' text alert to notify you that bees are nearby.</description>
-  </item>
-  <item>
-    <title>Millwright</title>
-    <link>https://mods.vintagestory.at/show/mod/millwright</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/millwright#1344</guid>
-    <pubDate>Sat, 29 Aug 2026 22:02:03 -0000</pubDate>
-    <description>Building better horizontal and vertical windmills, rotors, axles, and brakes since 1386. </description>
-  </item>
-  <item>
-    <title>StepUp  (continued)</title>
-    <link>https://mods.vintagestory.at/show/mod/stepupcontinued</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stepupcontinued#2516</guid>
-    <pubDate>Sat, 29 Aug 2026 22:01:50 -0000</pubDate>
-    <description>Automatically step up single blocks without jumping.</description>
-  </item>
-  <item>
-    <title>SpearAndFang's Animation Library</title>
-    <link>https://mods.vintagestory.at/show/mod/stanimationlibrary</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stanimationlibrary#2581</guid>
-    <pubDate>Sat, 29 Aug 2026 22:01:38 -0000</pubDate>
-    <description>Various animation classes</description>
-  </item>
-  <item>
-    <title>Traders Sell Pry Bars</title>
-    <link>https://mods.vintagestory.at/show/mod/traderssellcrowbars</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traderssellcrowbars#2837</guid>
-    <pubDate>Sat, 29 Aug 2026 22:01:26 -0000</pubDate>
-    <description>The treasure hunter trader sells pry bars from the Translocator Engineering - Redux mod.</description>
-  </item>
-  <item>
-    <title>No Temporal Stability</title>
-    <link>https://mods.vintagestory.at/show/mod/notemporalstability</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/notemporalstability#4610</guid>
-    <pubDate>Sat, 29 Aug 2026 22:01:10 -0000</pubDate>
-    <description>Makes the entire world temporally unstable.</description>
-  </item>
-  <item>
-    <title>Metal Buckets</title>
-    <link>https://mods.vintagestory.at/show/mod/metalbuckets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalbuckets#8677</guid>
-    <pubDate>Sat, 29 Aug 2026 22:00:56 -0000</pubDate>
-    <description>Metal Buckets from Primitive Survival. Because they were removed from the mod.</description>
-  </item>
-  <item>
-    <title>Better Stairs</title>
-    <link>https://mods.vintagestory.at/show/mod/betterstairs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterstairs#9210</guid>
-    <pubDate>Sat, 29 Aug 2026 22:00:41 -0000</pubDate>
-    <description>Better stairs from Primitive Survival. Because they were removed from the mod.</description>
-  </item>
-  <item>
-    <title>Double barrel Blunderbuss</title>
-    <link>https://mods.vintagestory.at/show/mod/7946</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7946#7946</guid>
-    <pubDate>Sat, 29 Aug 2026 21:58:01 -0000</pubDate>
-    <description>Double barrel Blunderbuss</description>
-  </item>
-  <item>
-    <title>Tass Universal Sync Timers</title>
-    <link>https://mods.vintagestory.at/show/mod/tassuniversalsynctimers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassuniversalsynctimers#11381</guid>
-    <pubDate>Sat, 29 Aug 2026 21:24:15 -0000</pubDate>
-    <description>Fixing the RL-days-months-years inconsistency</description>
-  </item>
-  <item>
-    <title>TassFactions</title>
-    <link>https://mods.vintagestory.at/show/mod/10503</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
-    <pubDate>Sat, 29 Aug 2026 21:23:03 -0000</pubDate>
-    <description>Factions - Raids - Sieges - Shops - Bounty</description>
-  </item>
-  <item>
-    <title>TassModFixesTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tassmodfixestweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassmodfixestweaks#10502</guid>
-    <pubDate>Sat, 29 Aug 2026 21:21:51 -0000</pubDate>
-    <description>A catch all mod for anything that does not fit my other mods - fixing bugs and tweaking mods</description>
-  </item>
-  <item>
-    <title>Forgotten Armory Schematic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/forgottenarmoryhomosapiensschematiccompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/forgottenarmoryhomosapiensschematiccompat#11402</guid>
-    <pubDate>Sat, 29 Aug 2026 21:21:22 -0000</pubDate>
-    <description>Adds balanced, craftable schematics for six Forgotten Armory armor mods on Homo Sapiens servers wher</description>
-  </item>
-  <item>
-    <title>Rift Weapons</title>
-    <link>https://mods.vintagestory.at/show/mod/riftweapons</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftweapons#4417</guid>
-    <pubDate>Sat, 29 Aug 2026 20:26:30 -0000</pubDate>
-    <description>Adds a Sword with different designs depending on metal tier</description>
-  </item>
-  <item>
-    <title>Armory: Warlords and Warchiefs</title>
-    <link>https://mods.vintagestory.at/show/mod/hawarlords</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hawarlords#9245</guid>
-    <pubDate>Sat, 29 Aug 2026 20:23:00 -0000</pubDate>
-    <description>A collection of equipment from the North/South American and African continents.</description>
-  </item>
-  <item>
-    <title>Armory</title>
-    <link>https://mods.vintagestory.at/show/mod/hacore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hacore#9243</guid>
-    <pubDate>Sat, 29 Aug 2026 20:21:29 -0000</pubDate>
-    <description>A collection of items and mechanics to be used for weaponry mods.</description>
-  </item>
-  <item>
-    <title>Window Display</title>
-    <link>https://mods.vintagestory.at/show/mod/windowdisplay</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplay#10488</guid>
-    <pubDate>Sat, 29 Aug 2026 20:17:46 -0000</pubDate>
-    <description>Adds Windows, an improved version of the Window Storage mod, uses Universal Display Lib</description>
-  </item>
-  <item>
-    <title>Repair Kits</title>
-    <link>https://mods.vintagestory.at/show/mod/armoryrepairkits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/armoryrepairkits#11249</guid>
-    <pubDate>Sat, 29 Aug 2026 20:08:20 -0000</pubDate>
-    <description>Adds multiple repair kit items to the game that can repair ANY item with durability.</description>
-  </item>
-  <item>
-    <title>Auto Loot Reforged</title>
-    <link>https://mods.vintagestory.at/show/mod/autolootreforged</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autolootreforged#3330</guid>
-    <pubDate>Sat, 29 Aug 2026 19:59:33 -0000</pubDate>
-    <description>remake of autoloot (for newer versions)</description>
-  </item>
-  <item>
-    <title>Sneaky Sit</title>
-    <link>https://mods.vintagestory.at/show/mod/sneakysit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sneakysit#11400</guid>
-    <pubDate>Sat, 29 Aug 2026 19:55:11 -0000</pubDate>
-    <description>Applies detection range reduction to sitting.</description>
-  </item>
-  <item>
-    <title>UniversalChat</title>
-    <link>https://mods.vintagestory.at/show/mod/11401</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11401#11401</guid>
-    <pubDate>Sat, 29 Aug 2026 19:54:36 -0000</pubDate>
-    <description>Adds a native Universal chat tab that mirrors General and translates each message locally into the p</description>
   </item>
 </channel>
 </rss>
