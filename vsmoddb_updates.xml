@@ -4,13 +4,202 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 31 Aug 2026 16:50:21 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 31 Aug 2026 21:46:49 +0000</lastBuildDate>
+  <item>
+    <title>VF Server Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/vfservermod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vfservermod#11292</guid>
+    <pubDate>Mon, 31 Aug 2026 21:33:44 -0000</pubDate>
+    <description>VF Server Tweaks mods and patches collection mod</description>
+  </item>
+  <item>
+    <title>Lithos Probe - Built-in Server Profiler</title>
+    <link>https://mods.vintagestory.at/show/mod/probe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/probe#11445</guid>
+    <pubDate>Mon, 31 Aug 2026 21:32:43 -0000</pubDate>
+    <description>A built in server profiler for diagnosing or monitoring performance problems.</description>
+  </item>
+  <item>
+    <title>Carried</title>
+    <link>https://mods.vintagestory.at/show/mod/carried</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carried#11427</guid>
+    <pubDate>Mon, 31 Aug 2026 20:47:21 -0000</pubDate>
+    <description>Carry other players in various ways, or hold their hands. Bridal, firefighter, buddy </description>
+  </item>
+  <item>
+    <title>Distant Vistas</title>
+    <link>https://mods.vintagestory.at/show/mod/distantvistas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/distantvistas#11259</guid>
+    <pubDate>Mon, 31 Aug 2026 20:18:49 -0000</pubDate>
+    <description>Far LOD terrain. Personal Vintage Horizons fork for fixes I needed. Shared in case it helps. Not tak</description>
+  </item>
+  <item>
+    <title>Dead</title>
+    <link>https://mods.vintagestory.at/show/mod/dead</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
+    <pubDate>Mon, 31 Aug 2026 20:15:56 -0000</pubDate>
+    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
+  </item>
+  <item>
+    <title>Road network - connected curved roads and bridges</title>
+    <link>https://mods.vintagestory.at/show/mod/10739</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10739#10739</guid>
+    <pubDate>Mon, 31 Aug 2026 19:59:01 -0000</pubDate>
+    <description>Road Network allows you to spawn roads automatically, which snuggle to the terrain.</description>
+  </item>
+  <item>
+    <title>Vintage Kinematics</title>
+    <link>https://mods.vintagestory.at/show/mod/8639</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8639#8639</guid>
+    <pubDate>Mon, 31 Aug 2026 19:56:47 -0000</pubDate>
+    <description>Rotation networks, belts, crushers, and automation for Vintage Story</description>
+  </item>
+  <item>
+    <title>1984liek</title>
+    <link>https://mods.vintagestory.at/show/mod/1984liek</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/1984liek#10972</guid>
+    <pubDate>Mon, 31 Aug 2026 19:43:47 -0000</pubDate>
+    <description>if you know, you know! </description>
+  </item>
+  <item>
+    <title>Temporally Stable Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tstweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tstweaks#5193</guid>
+    <pubDate>Mon, 31 Aug 2026 19:26:01 -0000</pubDate>
+    <description>Various tweaks for the Temporally Stable server.</description>
+  </item>
+  <item>
+    <title>Chakri Alpha Weapon Pack Repack</title>
+    <link>https://mods.vintagestory.at/show/mod/justchakri</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justchakri#2413</guid>
+    <pubDate>Mon, 31 Aug 2026 19:24:56 -0000</pubDate>
+    <description>Just Chakri from Weapon Pack Alpha unofficial 1.18/1.19/1.20 update repack</description>
+  </item>
+  <item>
+    <title> Auto Map Markers (Client-Side Only)</title>
+    <link>https://mods.vintagestory.at/show/mod/automapmarkersclientside</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/automapmarkersclientside#11048</guid>
+    <pubDate>Mon, 31 Aug 2026 19:08:51 -0000</pubDate>
+    <description>Fork of Auto Map Markers — works with no server-side install required.</description>
+  </item>
+  <item>
+    <title>Skillbooks: Stats</title>
+    <link>https://mods.vintagestory.at/show/mod/11005</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11005#11005</guid>
+    <pubDate>Mon, 31 Aug 2026 18:27:50 -0000</pubDate>
+    <description>Single-use books that permanently grant a stat trait when read. Works standalone or with core.</description>
+  </item>
+  <item>
+    <title>Skillbooks Core</title>
+    <link>https://mods.vintagestory.at/show/mod/11002</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11002#11002</guid>
+    <pubDate>Mon, 31 Aug 2026 18:26:41 -0000</pubDate>
+    <description>Single-use books that permanently grant a crafting trait when read, discovered from any mod.</description>
+  </item>
+  <item>
+    <title>RiftLauncher - Independent launcher software.</title>
+    <link>https://mods.vintagestory.at/show/mod/riftlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftlauncher#11016</guid>
+    <pubDate>Mon, 31 Aug 2026 18:17:01 -0000</pubDate>
+    <description>Focused on multiple versions and installations, safe backups and, mod browsing built in.</description>
+  </item>
+  <item>
+    <title>Drifters throw beer bottles</title>
+    <link>https://mods.vintagestory.at/show/mod/drifterbeerbottle</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drifterbeerbottle#11443</guid>
+    <pubDate>Mon, 31 Aug 2026 18:16:38 -0000</pubDate>
+    <description>Drifters will now throw empty beer bottles at players</description>
+  </item>
+  <item>
+    <title>Quivers and Sheaths Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/quiversfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/quiversfork#8410</guid>
+    <pubDate>Mon, 31 Aug 2026 18:09:44 -0000</pubDate>
+    <description>1.22 Fork</description>
+  </item>
+  <item>
+    <title>Animals Avoid fleeing into Water</title>
+    <link>https://mods.vintagestory.at/show/mod/11442</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11442#11442</guid>
+    <pubDate>Mon, 31 Aug 2026 18:08:11 -0000</pubDate>
+    <description>Makes animals avoid fleeing into deep water while being hunted or chased.</description>
+  </item>
+  <item>
+    <title>Wingworks</title>
+    <link>https://mods.vintagestory.at/show/mod/wingworks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wingworks#9998</guid>
+    <pubDate>Mon, 31 Aug 2026 17:59:50 -0000</pubDate>
+    <description>A mod which add flight capabilities for players with specific traits.</description>
+  </item>
+  <item>
+    <title>Horse Plow</title>
+    <link>https://mods.vintagestory.at/show/mod/11326</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11326#11326</guid>
+    <pubDate>Mon, 31 Aug 2026 17:52:16 -0000</pubDate>
+    <description>Use the universal power of the horse and plow your field with ease.</description>
+  </item>
+  <item>
+    <title>C&amp;N Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/canclaims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canclaims#589</guid>
+    <pubDate>Mon, 31 Aug 2026 17:33:18 -0000</pubDate>
+    <description>Land protection mod.</description>
+  </item>
+  <item>
+    <title>Waypoints NextGen</title>
+    <link>https://mods.vintagestory.at/show/mod/waypointsnextgen</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waypointsnextgen#8373</guid>
+    <pubDate>Mon, 31 Aug 2026 17:31:30 -0000</pubDate>
+    <description>Plug and play, +200 icons, new UI, custom HEX colors, icon scaling, outlines and quick-add hotkey</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Mon, 31 Aug 2026 17:26:27 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>The Crown &amp; The Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9635</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
+    <pubDate>Mon, 31 Aug 2026 17:23:49 -0000</pubDate>
+    <description>Server tweaks for The Crown &amp; The Coalition.</description>
+  </item>
+  <item>
+    <title>Combat Overhaul Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/combatoverhaulforked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/combatoverhaulforked#8415</guid>
+    <pubDate>Mon, 31 Aug 2026 17:19:48 -0000</pubDate>
+    <description>1.22 fork</description>
+  </item>
+  <item>
+    <title>Rename Torchholder to Sconce</title>
+    <link>https://mods.vintagestory.at/show/mod/sconce</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sconce#4560</guid>
+    <pubDate>Mon, 31 Aug 2026 17:15:08 -0000</pubDate>
+    <description>Corrects 'torchholder' to 'sconce' in game text</description>
+  </item>
+  <item>
+    <title>Snoopy's Creatures</title>
+    <link>https://mods.vintagestory.at/show/mod/11366</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11366#11366</guid>
+    <pubDate>Mon, 31 Aug 2026 16:56:58 -0000</pubDate>
+    <description>Small creature additions</description>
+  </item>
+  <item>
+    <title>Config lib</title>
+    <link>https://mods.vintagestory.at/show/mod/configlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/configlib#1783</guid>
+    <pubDate>Mon, 31 Aug 2026 16:55:44 -0000</pubDate>
+    <description>Config library for content mods</description>
+  </item>
   <item>
     <title>Astra Extera</title>
     <link>https://mods.vintagestory.at/show/mod/11217</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11217#11217</guid>
     <pubDate>Mon, 31 Aug 2026 16:40:57 -0000</pubDate>
-    <description>Why proc. gener a world, how about a galaxy, and star system for that world !? </description>
+    <description>Why proc. gener  just a world, how about a galaxy, and star system for that world !? </description>
   </item>
   <item>
     <title>More Crystals</title>
@@ -25,195 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/craftablecartographyfork#3413</guid>
     <pubDate>Mon, 31 Aug 2026 16:21:31 -0000</pubDate>
     <description>More realistic experience of using the map and navigation according to Kastrom version</description>
-  </item>
-  <item>
-    <title>Kobold Player Model Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/koboldrdx</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/koboldrdx#4814</guid>
-    <pubDate>Mon, 31 Aug 2026 16:11:33 -0000</pubDate>
-    <description>A complete 1.21+ remake of Soi's Kobold player model, for PlayerModelLib by Maltiez!</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Chisel32</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalschisel32</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalschisel32#8883</guid>
-    <pubDate>Mon, 31 Aug 2026 16:10:09 -0000</pubDate>
-    <description>Chisel32 adds high-detail 32x32x32 chiseling with a dedicated Fine Chisel tool</description>
-  </item>
-  <item>
-    <title>PlayerCollisions</title>
-    <link>https://mods.vintagestory.at/show/mod/8393</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8393#8393</guid>
-    <pubDate>Mon, 31 Aug 2026 16:09:21 -0000</pubDate>
-    <description>Adds player collision box repulsion.</description>
-  </item>
-  <item>
-    <title>VintageSymphonyForked</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagesymphonyforked</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagesymphonyforked#11341</guid>
-    <pubDate>Mon, 31 Aug 2026 16:05:53 -0000</pubDate>
-    <description>Vintage Symphony is a situation-aware music engine replacement for Vintage Story, forked for 1.22</description>
-  </item>
-  <item>
-    <title>Shepherd's Herding</title>
-    <link>https://mods.vintagestory.at/show/mod/11321</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11321#11321</guid>
-    <pubDate>Mon, 31 Aug 2026 15:56:28 -0000</pubDate>
-    <description>An Addon for Adventurers Walking stick that allows the player to dynamically herd their Livestock</description>
-  </item>
-  <item>
-    <title>AstraTerra</title>
-    <link>https://mods.vintagestory.at/show/mod/8706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
-    <pubDate>Mon, 31 Aug 2026 15:54:38 -0000</pubDate>
-    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
-  </item>
-  <item>
-    <title>1984liek</title>
-    <link>https://mods.vintagestory.at/show/mod/1984liek</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/1984liek#10972</guid>
-    <pubDate>Mon, 31 Aug 2026 15:39:32 -0000</pubDate>
-    <description>if you know, you know! </description>
-  </item>
-  <item>
-    <title>Better Jungles (and survival modpack)</title>
-    <link>https://mods.vintagestory.at/show/mod/betterjungles</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterjungles#7602</guid>
-    <pubDate>Mon, 31 Aug 2026 15:37:11 -0000</pubDate>
-    <description>More realistic Jungles, some survival gameplay changes - ideally as part of the modpack listed below</description>
-  </item>
-  <item>
-    <title>Carried</title>
-    <link>https://mods.vintagestory.at/show/mod/carried</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carried#11427</guid>
-    <pubDate>Mon, 31 Aug 2026 15:34:35 -0000</pubDate>
-    <description>Carry other players in various ways, or hold their hands. Bridal, firefighter, buddy </description>
-  </item>
-  <item>
-    <title>Injury Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/9695</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9695#9695</guid>
-    <pubDate>Mon, 31 Aug 2026 15:32:56 -0000</pubDate>
-    <description>An Injury, Diagnosis and Treatment system</description>
-  </item>
-  <item>
-    <title>Frontier Claims Map</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
-    <pubDate>Mon, 31 Aug 2026 13:56:48 -0000</pubDate>
-    <description>Claim map and access controls for internal testing on a private server.</description>
-  </item>
-  <item>
-    <title>CB Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Mon, 31 Aug 2026 13:44:44 -0000</pubDate>
-    <description>JSON content patches</description>
-  </item>
-  <item>
-    <title>smithscanvas</title>
-    <link>https://mods.vintagestory.at/show/mod/11418</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11418#11418</guid>
-    <pubDate>Mon, 31 Aug 2026 13:32:21 -0000</pubDate>
-    <description>Create your own weapons. </description>
-  </item>
-  <item>
-    <title>UniversalChat</title>
-    <link>https://mods.vintagestory.at/show/mod/11401</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11401#11401</guid>
-    <pubDate>Mon, 31 Aug 2026 12:39:31 -0000</pubDate>
-    <description>Adds a native Universal chat tab that mirrors General and translates each message locally.</description>
-  </item>
-  <item>
-    <title>Claim Observer</title>
-    <link>https://mods.vintagestory.at/show/mod/claimobserver</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claimobserver#11272</guid>
-    <pubDate>Mon, 31 Aug 2026 12:29:03 -0000</pubDate>
-    <description>Client-side mod for better claims navigation. See claims in world and on worldmap</description>
-  </item>
-  <item>
-    <title>HarfBuzz LibGUI Linux fix</title>
-    <link>https://mods.vintagestory.at/show/mod/11438</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11438#11438</guid>
-    <pubDate>Mon, 31 Aug 2026 12:05:50 -0000</pubDate>
-    <description>Fixes LibGUI on linux till the mod author implaments a fix you still need libgui.</description>
-  </item>
-  <item>
-    <title>Mastodon Trunk fix</title>
-    <link>https://mods.vintagestory.at/show/mod/9661</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9661#9661</guid>
-    <pubDate>Mon, 31 Aug 2026 11:54:39 -0000</pubDate>
-    <description>Mastodon Trunk fixed</description>
-  </item>
-  <item>
-    <title>Snoopy's Creatures</title>
-    <link>https://mods.vintagestory.at/show/mod/11366</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11366#11366</guid>
-    <pubDate>Mon, 31 Aug 2026 11:36:56 -0000</pubDate>
-    <description>Small creature additions</description>
-  </item>
-  <item>
-    <title>Dress to Impress</title>
-    <link>https://mods.vintagestory.at/show/mod/dresstoimpress</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dresstoimpress#9650</guid>
-    <pubDate>Mon, 31 Aug 2026 11:08:23 -0000</pubDate>
-    <description>A collection of medieval-fantasy inspired clothing for everyday use</description>
-  </item>
-  <item>
-    <title>RP Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/rpvoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rpvoicechat#1371</guid>
-    <pubDate>Mon, 31 Aug 2026 10:27:30 -0000</pubDate>
-    <description>A mod for proximity VoIP. Shout at your friends!</description>
-  </item>
-  <item>
-    <title>Modular Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/modularbackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacks#10127</guid>
-    <pubDate>Mon, 31 Aug 2026 09:37:15 -0000</pubDate>
-    <description>Makes vanilla backpacks modular, allowing you to attach addons to extend storage slots.</description>
-  </item>
-  <item>
-    <title>Extreme Weathers [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/10098</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
-    <pubDate>Mon, 31 Aug 2026 09:16:12 -0000</pubDate>
-    <description>Introduces new extreme weather events. Blizzards, sandstorms, tornadoes, hurricanes and more!</description>
-  </item>
-  <item>
-    <title>Yeet! Reborn</title>
-    <link>https://mods.vintagestory.at/show/mod/yeetreborn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yeetreborn#11435</guid>
-    <pubDate>Mon, 31 Aug 2026 08:55:20 -0000</pubDate>
-    <description>Press a key (default: Y) to toss your selected item over the horizon! Ctrl+Y throws the whole stack.</description>
-  </item>
-  <item>
-    <title>Downed</title>
-    <link>https://mods.vintagestory.at/show/mod/downed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
-    <pubDate>Mon, 31 Aug 2026 08:31:14 -0000</pubDate>
-    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
-  </item>
-  <item>
-    <title>Dead</title>
-    <link>https://mods.vintagestory.at/show/mod/dead</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
-    <pubDate>Mon, 31 Aug 2026 08:28:22 -0000</pubDate>
-    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
-  </item>
-  <item>
-    <title>Dairy Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/dairyplus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dairyplus#7407</guid>
-    <pubDate>Mon, 31 Aug 2026 08:21:49 -0000</pubDate>
-    <description>A simple mod to add in various missing dairy options such as butter and cream. </description>
-  </item>
-  <item>
-    <title>Abyssal Depths</title>
-    <link>https://mods.vintagestory.at/show/mod/6290</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6290#6290</guid>
-    <pubDate>Mon, 31 Aug 2026 08:17:30 -0000</pubDate>
-    <description>Expansion of ocean exploration. Diving suits and depth mechanics.</description>
   </item>
 </channel>
 </rss>
