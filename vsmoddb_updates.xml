@@ -4,7 +4,203 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 01 Sep 2026 17:41:19 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 01 Sep 2026 20:44:32 +0000</lastBuildDate>
+  <item>
+    <title>xLib Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7618</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7618#7618</guid>
+    <pubDate>Tue, 01 Sep 2026 20:40:45 -0000</pubDate>
+    <description>XLib provides an interface to add skills, abilities and effects to the game.</description>
+  </item>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Tue, 01 Sep 2026 20:40:09 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
+  <item>
+    <title>Fornax</title>
+    <link>https://mods.vintagestory.at/show/mod/fornax</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fornax#11226</guid>
+    <pubDate>Tue, 01 Sep 2026 20:38:57 -0000</pubDate>
+    <description>The kiln between the pit kiln and the beehive kiln. Mud brick, firewood, and no iron at all.</description>
+  </item>
+  <item>
+    <title>Crucibulum</title>
+    <link>https://mods.vintagestory.at/show/mod/crucibulum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crucibulum#11374</guid>
+    <pubDate>Tue, 01 Sep 2026 20:36:40 -0000</pubDate>
+    <description>Set a crucible in the forge and melt metal where you smith it</description>
+  </item>
+  <item>
+    <title>Magical Moon - FRustyMagic (Beta)</title>
+    <link>https://mods.vintagestory.at/show/mod/10975</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10975#10975</guid>
+    <pubDate>Tue, 01 Sep 2026 20:32:09 -0000</pubDate>
+    <description>An entirely in-world, small, moon magic mod. Play around with beams of light!</description>
+  </item>
+  <item>
+    <title>VintageSymphonyForked</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagesymphonyforked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagesymphonyforked#11341</guid>
+    <pubDate>Tue, 01 Sep 2026 20:31:14 -0000</pubDate>
+    <description>Vintage Symphony is a situation-aware music engine replacement for Vintage Story, forked for 1.22</description>
+  </item>
+  <item>
+    <title>Komet - Performance Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/komet</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/komet#11423</guid>
+    <pubDate>Tue, 01 Sep 2026 20:30:47 -0000</pubDate>
+    <description>Komet is a performance mod, which optimizes the Vintage Story rendering.</description>
+  </item>
+  <item>
+    <title>Olla</title>
+    <link>https://mods.vintagestory.at/show/mod/olla</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/olla#5784</guid>
+    <pubDate>Tue, 01 Sep 2026 20:29:14 -0000</pubDate>
+    <description> Bring ancient irrigation technology to Vintage Story! This mod adds ollas (pronounced "oy-yahs")</description>
+  </item>
+  <item>
+    <title>Metal Bowls Mod (for more bowls)</title>
+    <link>https://mods.vintagestory.at/show/mod/bowlmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bowlmod#9237</guid>
+    <pubDate>Tue, 01 Sep 2026 20:21:40 -0000</pubDate>
+    <description>Adds metal bowls</description>
+  </item>
+  <item>
+    <title>Jack's Ladder</title>
+    <link>https://mods.vintagestory.at/show/mod/jacksladder</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jacksladder#5855</guid>
+    <pubDate>Tue, 01 Sep 2026 20:20:57 -0000</pubDate>
+    <description>Changes the shape of the ladder to accommodate for gaps.</description>
+  </item>
+  <item>
+    <title>Rustmatica EasyPlace</title>
+    <link>https://mods.vintagestory.at/show/mod/rustmaticaeasyplace</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustmaticaeasyplace#9981</guid>
+    <pubDate>Tue, 01 Sep 2026 20:16:50 -0000</pubDate>
+    <description>Addon to Rustmatica, streamlining the building process of schematics</description>
+  </item>
+  <item>
+    <title>Rustmatica</title>
+    <link>https://mods.vintagestory.at/show/mod/rustmatica</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustmatica#9980</guid>
+    <pubDate>Tue, 01 Sep 2026 20:15:22 -0000</pubDate>
+    <description>A building assistant mod that allows you to save, load and visualize block structures</description>
+  </item>
+  <item>
+    <title>Packrat</title>
+    <link>https://mods.vintagestory.at/show/mod/6138</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6138#6138</guid>
+    <pubDate>Tue, 01 Sep 2026 19:55:09 -0000</pubDate>
+    <description>Unified Storage Browser showing the contents of all chests and crates within reach</description>
+  </item>
+  <item>
+    <title>Place it Anywhere</title>
+    <link>https://mods.vintagestory.at/show/mod/9914</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9914#9914</guid>
+    <pubDate>Tue, 01 Sep 2026 19:19:43 -0000</pubDate>
+    <description>Place any item as decoration on floors, walls and ceilings. Up to 64 items per cell.</description>
+  </item>
+  <item>
+    <title>C&amp;N Player Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/canplayerskills</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canplayerskills#11474</guid>
+    <pubDate>Tue, 01 Sep 2026 19:10:08 -0000</pubDate>
+    <description>TFC-style skills</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Tue, 01 Sep 2026 19:07:50 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>Draconis</title>
+    <link>https://mods.vintagestory.at/show/mod/draconis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/draconis#4543</guid>
+    <pubDate>Tue, 01 Sep 2026 18:35:31 -0000</pubDate>
+    <description>This mod adds 4 rideable dragons that the player can hatch and raise from eggs found in the wild</description>
+  </item>
+  <item>
+    <title>Wilderlands World Seeder Utility</title>
+    <link>https://mods.vintagestory.at/show/mod/11473</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11473#11473</guid>
+    <pubDate>Tue, 01 Sep 2026 18:27:17 -0000</pubDate>
+    <description>- A utility mod that adds a system for "seeding" blocks and entities into the world.</description>
+  </item>
+  <item>
+    <title>Immersive Fibercraft</title>
+    <link>https://mods.vintagestory.at/show/mod/5814</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5814#5814</guid>
+    <pubDate>Tue, 01 Sep 2026 18:23:00 -0000</pubDate>
+    <description>Adds new immersive spinning and weaving crafting mechanics to VintageStory! Try the new loom!</description>
+  </item>
+  <item>
+    <title>Player Model NPCs </title>
+    <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
+    <pubDate>Tue, 01 Sep 2026 18:14:21 -0000</pubDate>
+    <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
+  </item>
+  <item>
+    <title>W4RD0's Furniture</title>
+    <link>https://mods.vintagestory.at/show/mod/w4rd0sfurniture</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/w4rd0sfurniture#11214</guid>
+    <pubDate>Tue, 01 Sep 2026 18:09:50 -0000</pubDate>
+    <description>A furniture pack adding detailed furniture like tables, chairs, couches, beds, shelves &amp; a lot more.</description>
+  </item>
+  <item>
+    <title>Auto Walk Extended</title>
+    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
+    <pubDate>Tue, 01 Sep 2026 18:09:11 -0000</pubDate>
+    <description>Toggle walking/running. Options for sneak toggle, stepup and mouse button lock.</description>
+  </item>
+  <item>
+    <title>MealRecipeLagFix</title>
+    <link>https://mods.vintagestory.at/show/mod/7486</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7486#7486</guid>
+    <pubDate>Tue, 01 Sep 2026 18:00:26 -0000</pubDate>
+    <description>Fixes handbook lag when browsing meal recipe pages.</description>
+  </item>
+  <item>
+    <title>Fennel Swag</title>
+    <link>https://mods.vintagestory.at/show/mod/11294</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11294#11294</guid>
+    <pubDate>Tue, 01 Sep 2026 17:46:38 -0000</pubDate>
+    <description>Adds some features for fennel because it isn't any good</description>
+  </item>
+  <item>
+    <title>FendragonBCS</title>
+    <link>https://mods.vintagestory.at/show/mod/fendragonbcs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonbcs#2278</guid>
+    <pubDate>Tue, 01 Sep 2026 17:44:09 -0000</pubDate>
+    <description>Fendragon Backpack Construction System - this mod add construction system for backpack</description>
+  </item>
+  <item>
+    <title>FendragonPlayerTimeReward</title>
+    <link>https://mods.vintagestory.at/show/mod/fendragonptr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonptr#6623</guid>
+    <pubDate>Tue, 01 Sep 2026 17:43:19 -0000</pubDate>
+    <description>Tracks real online time per player and gives rewards at configured minute</description>
+  </item>
+  <item>
+    <title>FendragonSMC</title>
+    <link>https://mods.vintagestory.at/show/mod/fendragonsmc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonsmc#7648</guid>
+    <pubDate>Tue, 01 Sep 2026 17:43:04 -0000</pubDate>
+    <description>FendragonSMC - mod is part of the Fendragon mod ecosystem and is developed exclusively for server</description>
+  </item>
+  <item>
+    <title>Fendragon Blacksmith Gloves</title>
+    <link>https://mods.vintagestory.at/show/mod/fendragonbg</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonbg#6436</guid>
+    <pubDate>Tue, 01 Sep 2026 17:42:40 -0000</pubDate>
+    <description>FendragonBlacksmithGloves - that mod adds blacksmith gloves with practical quality-of-life bonuses</description>
+  </item>
   <item>
     <title>RemoveStructures</title>
     <link>https://mods.vintagestory.at/show/mod/1129</link>
@@ -18,202 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
     <pubDate>Tue, 01 Sep 2026 17:06:18 -0000</pubDate>
     <description>Crafting shopping list, quest tracker, story guide, and world/player reference. Fully client-side.</description>
-  </item>
-  <item>
-    <title>xSkills Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7605</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
-    <pubDate>Tue, 01 Sep 2026 17:05:39 -0000</pubDate>
-    <description>RPG-style skill system with abilities, perks, and progression.</description>
-  </item>
-  <item>
-    <title>Opine Upon Pine</title>
-    <link>https://mods.vintagestory.at/show/mod/6824</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6824#6824</guid>
-    <pubDate>Tue, 01 Sep 2026 16:36:33 -0000</pubDate>
-    <description>Darker, desaturated, brown textures for the Pine wood blocks</description>
-  </item>
-  <item>
-    <title>Renderer Mangler</title>
-    <link>https://mods.vintagestory.at/show/mod/renderermangler</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/renderermangler#10114</guid>
-    <pubDate>Tue, 01 Sep 2026 15:56:12 -0000</pubDate>
-    <description>Custom cubemap renderer with different projections that allows up to 360 FOV</description>
-  </item>
-  <item>
-    <title>Notice Board</title>
-    <link>https://mods.vintagestory.at/show/mod/noticeboard</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noticeboard#2498</guid>
-    <pubDate>Tue, 01 Sep 2026 15:37:04 -0000</pubDate>
-    <description>Notice board where you can post and read player notices. Focused on RP aspect.</description>
-  </item>
-  <item>
-    <title>Ancient Weaponry</title>
-    <link>https://mods.vintagestory.at/show/mod/ancientweaponry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancientweaponry#5406</guid>
-    <pubDate>Tue, 01 Sep 2026 15:33:40 -0000</pubDate>
-    <description>Adds currently 4 new weaponry to the game from medieval and primitive times.</description>
-  </item>
-  <item>
-    <title>Monsters Only In Storms</title>
-    <link>https://mods.vintagestory.at/show/mod/11468</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11468#11468</guid>
-    <pubDate>Tue, 01 Sep 2026 15:25:15 -0000</pubDate>
-    <description>Peaceful surface, dangerous storms — and no Bowthorn.</description>
-  </item>
-  <item>
-    <title>Custom Storage Size - QPs Chissel Tools</title>
-    <link>https://mods.vintagestory.at/show/mod/customstoragesize0qpchissel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customstoragesize0qpchissel#11467</guid>
-    <pubDate>Tue, 01 Sep 2026 15:04:02 -0000</pubDate>
-    <description>Allows you to set custom storage sizes. For QP's Chissel Tools.</description>
-  </item>
-  <item>
-    <title>Custom Storage Size</title>
-    <link>https://mods.vintagestory.at/show/mod/customstoragesize</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customstoragesize#11466</guid>
-    <pubDate>Tue, 01 Sep 2026 15:03:06 -0000</pubDate>
-    <description>Allows you to set custom storage sizes for various containers and bags.</description>
-  </item>
-  <item>
-    <title>Raider Camps Linux Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/raidercampfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/raidercampfork#11465</guid>
-    <pubDate>Tue, 01 Sep 2026 14:22:33 -0000</pubDate>
-    <description>This mod is a fork of the Raider Camps mod. It repairs file structure so it runs on Linux OS.</description>
-  </item>
-  <item>
-    <title>Shadehouse</title>
-    <link>https://mods.vintagestory.at/show/mod/shadehouse</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shadehouse#8698</guid>
-    <pubDate>Tue, 01 Sep 2026 14:22:06 -0000</pubDate>
-    <description>Adds a way to build a 'shadehouse', to grow crops in hot temperatures.</description>
-  </item>
-  <item>
-    <title>Injury Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/9695</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9695#9695</guid>
-    <pubDate>Tue, 01 Sep 2026 13:10:16 -0000</pubDate>
-    <description>An Injury, Diagnosis and Treatment system</description>
-  </item>
-  <item>
-    <title>Holdfast</title>
-    <link>https://mods.vintagestory.at/show/mod/holdfast</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/holdfast#10247</guid>
-    <pubDate>Tue, 01 Sep 2026 13:07:03 -0000</pubDate>
-    <description>Found a town. Hire workers. Watch it grow one building at a time.</description>
-  </item>
-  <item>
-    <title>More Saplings!</title>
-    <link>https://mods.vintagestory.at/show/mod/11463</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11463#11463</guid>
-    <pubDate>Tue, 01 Sep 2026 12:55:22 -0000</pubDate>
-    <description>Makes trees drop 3–15 saplings based on leaves, making forests easier to replant.</description>
-  </item>
-  <item>
-    <title>UniversalChat</title>
-    <link>https://mods.vintagestory.at/show/mod/11401</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11401#11401</guid>
-    <pubDate>Tue, 01 Sep 2026 11:34:00 -0000</pubDate>
-    <description>Adds a native Universal chat tab that mirrors General and translates each message locally.</description>
-  </item>
-  <item>
-    <title>Cozy Pierzynas</title>
-    <link>https://mods.vintagestory.at/show/mod/10099</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10099#10099</guid>
-    <pubDate>Tue, 01 Sep 2026 11:20:31 -0000</pubDate>
-    <description>Adds new uses for feathers. Pillows and duvets in many colors.</description>
-  </item>
-  <item>
-    <title>Player Model NPCs </title>
-    <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
-    <pubDate>Tue, 01 Sep 2026 11:16:55 -0000</pubDate>
-    <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
-  </item>
-  <item>
-    <title>Extreme Weathers [ALPHA]</title>
-    <link>https://mods.vintagestory.at/show/mod/10098</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
-    <pubDate>Tue, 01 Sep 2026 11:03:54 -0000</pubDate>
-    <description>Introduces new extreme weather events. Blizzards, sandstorms, tornadoes, hurricanes and more!</description>
-  </item>
-  <item>
-    <title>Furio's Telescope</title>
-    <link>https://mods.vintagestory.at/show/mod/telescopemod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/telescopemod#10648</guid>
-    <pubDate>Tue, 01 Sep 2026 10:26:20 -0000</pubDate>
-    <description>Functional Telescopes with celestial body Observation Mechanic.</description>
-  </item>
-  <item>
-    <title>BNI Essentials</title>
-    <link>https://mods.vintagestory.at/show/mod/bniessentials</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bniessentials#10690</guid>
-    <pubDate>Tue, 01 Sep 2026 10:23:18 -0000</pubDate>
-    <description>Essential game play enhancing features and tweaks for the Batteries Not Included community server.</description>
-  </item>
-  <item>
-    <title>Async Handbook Filter</title>
-    <link>https://mods.vintagestory.at/show/mod/11461</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11461#11461</guid>
-    <pubDate>Tue, 01 Sep 2026 08:54:24 -0000</pubDate>
-    <description>Fixes handbook freeze/crash on modpacks with many cooking mods (ACulinaryArtillery etc.)</description>
-  </item>
-  <item>
-    <title>Vintage Rift - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
-    <pubDate>Tue, 01 Sep 2026 08:14:22 -0000</pubDate>
-    <description>Client only code for the Vintage Rift server</description>
-  </item>
-  <item>
-    <title>Earthfed - More Fertilizers</title>
-    <link>https://mods.vintagestory.at/show/mod/earthfed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/earthfed#9238</guid>
-    <pubDate>Tue, 01 Sep 2026 07:07:58 -0000</pubDate>
-    <description>Realistic fertilizers made from feathers, seaweed, fish, and blood</description>
-  </item>
-  <item>
-    <title>NDL ExpandedGrowth (Tree Growth Module)</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthtrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthtrees#5697</guid>
-    <pubDate>Tue, 01 Sep 2026 07:03:07 -0000</pubDate>
-    <description>Adds a method for growing larger variants of trees.</description>
-  </item>
-  <item>
-    <title>Solaria's Sauce</title>
-    <link>https://mods.vintagestory.at/show/mod/10480</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10480#10480</guid>
-    <pubDate>Tue, 01 Sep 2026 06:58:46 -0000</pubDate>
-    <description>Foliage theme pack</description>
-  </item>
-  <item>
-    <title>Wootsteel</title>
-    <link>https://mods.vintagestory.at/show/mod/8933</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8933#8933</guid>
-    <pubDate>Tue, 01 Sep 2026 06:53:27 -0000</pubDate>
-    <description>Rediscovering forgotten metallurgy techniques </description>
-  </item>
-  <item>
-    <title>Firstaidkits</title>
-    <link>https://mods.vintagestory.at/show/mod/5980</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5980#5980</guid>
-    <pubDate>Tue, 01 Sep 2026 06:48:11 -0000</pubDate>
-    <description>Adds in functional first aid kits to fix larger more serious injuries. Now comes with splints! </description>
-  </item>
-  <item>
-    <title>Desert Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9931</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9931#9931</guid>
-    <pubDate>Tue, 01 Sep 2026 06:42:14 -0000</pubDate>
-    <description>small set of tweaks for a desert survival server</description>
-  </item>
-  <item>
-    <title>Arctic Survival</title>
-    <link>https://mods.vintagestory.at/show/mod/arcticsurvival</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arcticsurvival#4908</guid>
-    <pubDate>Tue, 01 Sep 2026 06:15:45 -0000</pubDate>
-    <description>Tweaks for colder climate / Snowball Earth playthroughs</description>
   </item>
 </channel>
 </rss>
