@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 01 Sep 2026 13:14:17 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 01 Sep 2026 17:41:19 +0000</lastBuildDate>
+  <item>
+    <title>RemoveStructures</title>
+    <link>https://mods.vintagestory.at/show/mod/1129</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/1129#1129</guid>
+    <pubDate>Tue, 01 Sep 2026 17:08:36 -0000</pubDate>
+    <description>Change chances of worldgen:structures.json</description>
+  </item>
+  <item>
+    <title>Tallybook</title>
+    <link>https://mods.vintagestory.at/show/mod/10864</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
+    <pubDate>Tue, 01 Sep 2026 17:06:18 -0000</pubDate>
+    <description>Crafting shopping list, quest tracker, story guide, and world/player reference. Fully client-side.</description>
+  </item>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Tue, 01 Sep 2026 17:05:39 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
+  <item>
+    <title>Opine Upon Pine</title>
+    <link>https://mods.vintagestory.at/show/mod/6824</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6824#6824</guid>
+    <pubDate>Tue, 01 Sep 2026 16:36:33 -0000</pubDate>
+    <description>Darker, desaturated, brown textures for the Pine wood blocks</description>
+  </item>
+  <item>
+    <title>Renderer Mangler</title>
+    <link>https://mods.vintagestory.at/show/mod/renderermangler</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/renderermangler#10114</guid>
+    <pubDate>Tue, 01 Sep 2026 15:56:12 -0000</pubDate>
+    <description>Custom cubemap renderer with different projections that allows up to 360 FOV</description>
+  </item>
+  <item>
+    <title>Notice Board</title>
+    <link>https://mods.vintagestory.at/show/mod/noticeboard</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noticeboard#2498</guid>
+    <pubDate>Tue, 01 Sep 2026 15:37:04 -0000</pubDate>
+    <description>Notice board where you can post and read player notices. Focused on RP aspect.</description>
+  </item>
+  <item>
+    <title>Ancient Weaponry</title>
+    <link>https://mods.vintagestory.at/show/mod/ancientweaponry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancientweaponry#5406</guid>
+    <pubDate>Tue, 01 Sep 2026 15:33:40 -0000</pubDate>
+    <description>Adds currently 4 new weaponry to the game from medieval and primitive times.</description>
+  </item>
+  <item>
+    <title>Monsters Only In Storms</title>
+    <link>https://mods.vintagestory.at/show/mod/11468</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11468#11468</guid>
+    <pubDate>Tue, 01 Sep 2026 15:25:15 -0000</pubDate>
+    <description>Peaceful surface, dangerous storms — and no Bowthorn.</description>
+  </item>
+  <item>
+    <title>Custom Storage Size - QPs Chissel Tools</title>
+    <link>https://mods.vintagestory.at/show/mod/customstoragesize0qpchissel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customstoragesize0qpchissel#11467</guid>
+    <pubDate>Tue, 01 Sep 2026 15:04:02 -0000</pubDate>
+    <description>Allows you to set custom storage sizes. For QP's Chissel Tools.</description>
+  </item>
+  <item>
+    <title>Custom Storage Size</title>
+    <link>https://mods.vintagestory.at/show/mod/customstoragesize</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customstoragesize#11466</guid>
+    <pubDate>Tue, 01 Sep 2026 15:03:06 -0000</pubDate>
+    <description>Allows you to set custom storage sizes for various containers and bags.</description>
+  </item>
+  <item>
+    <title>Raider Camps Linux Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/raidercampfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/raidercampfork#11465</guid>
+    <pubDate>Tue, 01 Sep 2026 14:22:33 -0000</pubDate>
+    <description>This mod is a fork of the Raider Camps mod. It repairs file structure so it runs on Linux OS.</description>
+  </item>
+  <item>
+    <title>Shadehouse</title>
+    <link>https://mods.vintagestory.at/show/mod/shadehouse</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shadehouse#8698</guid>
+    <pubDate>Tue, 01 Sep 2026 14:22:06 -0000</pubDate>
+    <description>Adds a way to build a 'shadehouse', to grow crops in hot temperatures.</description>
+  </item>
   <item>
     <title>Injury Expanded</title>
     <link>https://mods.vintagestory.at/show/mod/9695</link>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arcticsurvival#4908</guid>
     <pubDate>Tue, 01 Sep 2026 06:15:45 -0000</pubDate>
     <description>Tweaks for colder climate / Snowball Earth playthroughs</description>
-  </item>
-  <item>
-    <title>VS Terrain Diffusion</title>
-    <link>https://mods.vintagestory.at/show/mod/vsterraindiffusion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsterraindiffusion#10918</guid>
-    <pubDate>Tue, 01 Sep 2026 05:49:25 -0000</pubDate>
-    <description>Generate terrain with a neural heightmap model trained on real Earth topography</description>
-  </item>
-  <item>
-    <title>Better Fruit Press and Still</title>
-    <link>https://mods.vintagestory.at/show/mod/10776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10776#10776</guid>
-    <pubDate>Tue, 01 Sep 2026 04:47:10 -0000</pubDate>
-    <description>Makes the fruit press quicker and allows squeezing over barrels.</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Tue, 01 Sep 2026 04:33:11 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Tue, 01 Sep 2026 04:31:49 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
-    <title>Yeet! Reborn</title>
-    <link>https://mods.vintagestory.at/show/mod/yeetreborn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yeetreborn#11435</guid>
-    <pubDate>Tue, 01 Sep 2026 04:29:29 -0000</pubDate>
-    <description>Press a key (default: Y) to toss your selected item over the horizon! Ctrl+Y throws the whole stack.</description>
-  </item>
-  <item>
-    <title>AstraTerra</title>
-    <link>https://mods.vintagestory.at/show/mod/8706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
-    <pubDate>Tue, 01 Sep 2026 04:03:12 -0000</pubDate>
-    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
-  </item>
-  <item>
-    <title>Blood Fennel Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/11296</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11296#11296</guid>
-    <pubDate>Tue, 01 Sep 2026 03:48:49 -0000</pubDate>
-    <description>Bridges my two mods, "More Blood Thingies," and "Fennel Swag."</description>
-  </item>
-  <item>
-    <title>Fennel Swag</title>
-    <link>https://mods.vintagestory.at/show/mod/11294</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11294#11294</guid>
-    <pubDate>Tue, 01 Sep 2026 03:47:19 -0000</pubDate>
-    <description>Adds some features for fennel because it isn't any good</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Taming</title>
-    <link>https://mods.vintagestory.at/show/mod/fotsataming</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsataming#11206</guid>
-    <pubDate>Tue, 01 Sep 2026 03:42:02 -0000</pubDate>
-    <description>Adds taming ability through PetAI to allow a bunch of the FOTSA animals to be tamed.</description>
-  </item>
-  <item>
-    <title>Rift Traveler</title>
-    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
-    <pubDate>Tue, 01 Sep 2026 02:14:34 -0000</pubDate>
-    <description>Explore or close rifts, craft temporal tech, teleport home, and transmit cargo across dimensions</description>
-  </item>
-  <item>
-    <title>Obsidiancraft</title>
-    <link>https://mods.vintagestory.at/show/mod/obsidiancraft</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/obsidiancraft#4081</guid>
-    <pubDate>Tue, 01 Sep 2026 02:12:52 -0000</pubDate>
-    <description>Adds new obsidian items, including crude arrows, saws, scythes, macuahuitl and tepoztopilli</description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Chapter 2</title>
-    <link>https://mods.vintagestory.at/show/mod/11428</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
-    <pubDate>Tue, 01 Sep 2026 02:07:11 -0000</pubDate>
-    <description>Chapter 2 additions for C&amp;C.</description>
   </item>
 </channel>
 </rss>
