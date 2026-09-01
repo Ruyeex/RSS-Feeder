@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 01 Sep 2026 07:27:33 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 01 Sep 2026 13:14:17 +0000</lastBuildDate>
+  <item>
+    <title>Injury Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/9695</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9695#9695</guid>
+    <pubDate>Tue, 01 Sep 2026 13:10:16 -0000</pubDate>
+    <description>An Injury, Diagnosis and Treatment system</description>
+  </item>
+  <item>
+    <title>Holdfast</title>
+    <link>https://mods.vintagestory.at/show/mod/holdfast</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/holdfast#10247</guid>
+    <pubDate>Tue, 01 Sep 2026 13:07:03 -0000</pubDate>
+    <description>Found a town. Hire workers. Watch it grow one building at a time.</description>
+  </item>
+  <item>
+    <title>More Saplings!</title>
+    <link>https://mods.vintagestory.at/show/mod/11463</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11463#11463</guid>
+    <pubDate>Tue, 01 Sep 2026 12:55:22 -0000</pubDate>
+    <description>Makes trees drop 3–15 saplings based on leaves, making forests easier to replant.</description>
+  </item>
+  <item>
+    <title>UniversalChat</title>
+    <link>https://mods.vintagestory.at/show/mod/11401</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11401#11401</guid>
+    <pubDate>Tue, 01 Sep 2026 11:34:00 -0000</pubDate>
+    <description>Adds a native Universal chat tab that mirrors General and translates each message locally.</description>
+  </item>
+  <item>
+    <title>Cozy Pierzynas</title>
+    <link>https://mods.vintagestory.at/show/mod/10099</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10099#10099</guid>
+    <pubDate>Tue, 01 Sep 2026 11:20:31 -0000</pubDate>
+    <description>Adds new uses for feathers. Pillows and duvets in many colors.</description>
+  </item>
+  <item>
+    <title>Player Model NPCs </title>
+    <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
+    <pubDate>Tue, 01 Sep 2026 11:16:55 -0000</pubDate>
+    <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
+  </item>
+  <item>
+    <title>Extreme Weathers [ALPHA]</title>
+    <link>https://mods.vintagestory.at/show/mod/10098</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10098#10098</guid>
+    <pubDate>Tue, 01 Sep 2026 11:03:54 -0000</pubDate>
+    <description>Introduces new extreme weather events. Blizzards, sandstorms, tornadoes, hurricanes and more!</description>
+  </item>
+  <item>
+    <title>Furio's Telescope</title>
+    <link>https://mods.vintagestory.at/show/mod/telescopemod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/telescopemod#10648</guid>
+    <pubDate>Tue, 01 Sep 2026 10:26:20 -0000</pubDate>
+    <description>Functional Telescopes with celestial body Observation Mechanic.</description>
+  </item>
+  <item>
+    <title>BNI Essentials</title>
+    <link>https://mods.vintagestory.at/show/mod/bniessentials</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bniessentials#10690</guid>
+    <pubDate>Tue, 01 Sep 2026 10:23:18 -0000</pubDate>
+    <description>Essential game play enhancing features and tweaks for the Batteries Not Included community server.</description>
+  </item>
+  <item>
+    <title>Async Handbook Filter</title>
+    <link>https://mods.vintagestory.at/show/mod/11461</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11461#11461</guid>
+    <pubDate>Tue, 01 Sep 2026 08:54:24 -0000</pubDate>
+    <description>Fixes handbook freeze/crash on modpacks with many cooking mods (ACulinaryArtillery etc.)</description>
+  </item>
+  <item>
+    <title>Vintage Rift - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageriftclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageriftclient#7387</guid>
+    <pubDate>Tue, 01 Sep 2026 08:14:22 -0000</pubDate>
+    <description>Client only code for the Vintage Rift server</description>
+  </item>
   <item>
     <title>Earthfed - More Fertilizers</title>
     <link>https://mods.vintagestory.at/show/mod/earthfed</link>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
     <pubDate>Tue, 01 Sep 2026 02:07:11 -0000</pubDate>
     <description>Chapter 2 additions for C&amp;C.</description>
-  </item>
-  <item>
-    <title>Temporally Stable Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tstweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tstweaks#5193</guid>
-    <pubDate>Tue, 01 Sep 2026 01:58:36 -0000</pubDate>
-    <description>Various tweaks for the Temporally Stable server.</description>
-  </item>
-  <item>
-    <title>Vintage Horizons</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagehorizons</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagehorizons#10511</guid>
-    <pubDate>Tue, 01 Sep 2026 01:55:50 -0000</pubDate>
-    <description>An LOD mod inspired by Distant Horizons, Farseer, Voxy, and ChunkLOD</description>
-  </item>
-  <item>
-    <title>Distant Vistas</title>
-    <link>https://mods.vintagestory.at/show/mod/distantvistas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/distantvistas#11259</guid>
-    <pubDate>Tue, 01 Sep 2026 01:40:51 -0000</pubDate>
-    <description>Far LOD terrain. Personal Vintage Horizons fork for fixes I needed. Shared in case it helps. Not tak</description>
-  </item>
-  <item>
-    <title>Fornax</title>
-    <link>https://mods.vintagestory.at/show/mod/fornax</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fornax#11226</guid>
-    <pubDate>Tue, 01 Sep 2026 01:31:01 -0000</pubDate>
-    <description>The kiln between the pit kiln and the beehive kiln. Mud brick, firewood, and no iron at all.</description>
-  </item>
-  <item>
-    <title>Elk Adornments</title>
-    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
-    <pubDate>Tue, 01 Sep 2026 01:28:35 -0000</pubDate>
-    <description>Masks for you and your elk with Modular Elk Armor!</description>
-  </item>
-  <item>
-    <title>The Crown &amp; The Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/9635</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9635#9635</guid>
-    <pubDate>Tue, 01 Sep 2026 01:08:12 -0000</pubDate>
-    <description>Server tweaks for The Crown &amp; The Coalition.</description>
-  </item>
-  <item>
-    <title>Seraph Leveling ReClassed</title>
-    <link>https://mods.vintagestory.at/show/mod/11234</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11234#11234</guid>
-    <pubDate>Tue, 01 Sep 2026 01:01:34 -0000</pubDate>
-    <description>Level up and gain traits in a vanilla-friendly way, with additional mod support</description>
-  </item>
-  <item>
-    <title>Rustbound Magic</title>
-    <link>https://mods.vintagestory.at/show/mod/rustboundmagic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustboundmagic#1290</guid>
-    <pubDate>Tue, 01 Sep 2026 00:49:37 -0000</pubDate>
-    <description>Adds magic to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Controlled Fire Spread</title>
-    <link>https://mods.vintagestory.at/show/mod/11433</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11433#11433</guid>
-    <pubDate>Tue, 01 Sep 2026 00:10:48 -0000</pubDate>
-    <description>Controls fire spread for crops, fruit trees, berry bushes, grass and burnable blocks.</description>
-  </item>
-  <item>
-    <title>Waypoint Beacon</title>
-    <link>https://mods.vintagestory.at/show/mod/waypointbeacon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waypointbeacon#7102</guid>
-    <pubDate>Mon, 31 Aug 2026 23:42:25 -0000</pubDate>
-    <description>Your map knows. Your eyes can too - 3D beacons for waypoints</description>
-  </item>
-  <item>
-    <title>Crops Scale with Days per Month</title>
-    <link>https://mods.vintagestory.at/show/mod/11456</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11456#11456</guid>
-    <pubDate>Mon, 31 Aug 2026 23:19:25 -0000</pubDate>
-    <description>Makes the harvest output from crops adjust based on the length of your month.</description>
   </item>
 </channel>
 </rss>
