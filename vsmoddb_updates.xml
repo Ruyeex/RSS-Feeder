@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 01 Sep 2026 20:44:32 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 01 Sep 2026 23:07:00 +0000</lastBuildDate>
+  <item>
+    <title>Prospectable Halite</title>
+    <link>https://mods.vintagestory.at/show/mod/11479</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11479#11479</guid>
+    <pubDate>Tue, 01 Sep 2026 22:56:50 -0000</pubDate>
+    <description>Allows you to find halite with node mode of the prospecting pick</description>
+  </item>
+  <item>
+    <title>RiftLauncher - Independent launcher software.</title>
+    <link>https://mods.vintagestory.at/show/mod/riftlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftlauncher#11016</guid>
+    <pubDate>Tue, 01 Sep 2026 22:54:36 -0000</pubDate>
+    <description>Focused on multiple versions and installations, safe backups and, mod browsing built in.</description>
+  </item>
+  <item>
+    <title>Abyssal Depths</title>
+    <link>https://mods.vintagestory.at/show/mod/6290</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6290#6290</guid>
+    <pubDate>Tue, 01 Sep 2026 22:09:45 -0000</pubDate>
+    <description>Expansion of ocean exploration. Diving suits and depth mechanics.</description>
+  </item>
+  <item>
+    <title>Skis and Snowboards</title>
+    <link>https://mods.vintagestory.at/show/mod/skisandsnowboards</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skisandsnowboards#11170</guid>
+    <pubDate>Tue, 01 Sep 2026 21:37:28 -0000</pubDate>
+    <description>Craft skis and snowboards and carve across snow and ice. </description>
+  </item>
+  <item>
+    <title>Smol Furniture</title>
+    <link>https://mods.vintagestory.at/show/mod/smolfurniture</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smolfurniture#10958</guid>
+    <pubDate>Tue, 01 Sep 2026 21:31:08 -0000</pubDate>
+    <description>FOR THE SMOL</description>
+  </item>
+  <item>
+    <title>Make Beer</title>
+    <link>https://mods.vintagestory.at/show/mod/makebeer</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/makebeer#11477</guid>
+    <pubDate>Tue, 01 Sep 2026 21:22:24 -0000</pubDate>
+    <description>The Make Beer modification opens the path of traditional brewing to players. </description>
+  </item>
+  <item>
+    <title>UniversalChat</title>
+    <link>https://mods.vintagestory.at/show/mod/11401</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11401#11401</guid>
+    <pubDate>Tue, 01 Sep 2026 21:21:41 -0000</pubDate>
+    <description>Adds a native Universal chat tab that mirrors General and translates each message locally.</description>
+  </item>
+  <item>
+    <title>Pulse</title>
+    <link>https://mods.vintagestory.at/show/mod/pulse</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pulse#11475</guid>
+    <pubDate>Tue, 01 Sep 2026 21:06:04 -0000</pubDate>
+    <description>Your server's vital signs on a Prometheus endpoint. Grafana-ready, panel-friendly, OTLP optional.</description>
+  </item>
+  <item>
+    <title>unchisel</title>
+    <link>https://mods.vintagestory.at/show/mod/unchisel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/unchisel#3747</guid>
+    <pubDate>Tue, 01 Sep 2026 20:55:08 -0000</pubDate>
+    <description>Reverts all chiseling and materials via in-world mechanics</description>
+  </item>
+  <item>
+    <title>ChandelierCraft</title>
+    <link>https://mods.vintagestory.at/show/mod/chandeliercraft</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chandeliercraft#6002</guid>
+    <pubDate>Tue, 01 Sep 2026 20:46:49 -0000</pubDate>
+    <description>For more than rust-coloured chandeliers</description>
+  </item>
   <item>
     <title>xLib Fork</title>
     <link>https://mods.vintagestory.at/show/mod/7618</link>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
     <pubDate>Tue, 01 Sep 2026 18:14:21 -0000</pubDate>
     <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
-  </item>
-  <item>
-    <title>W4RD0's Furniture</title>
-    <link>https://mods.vintagestory.at/show/mod/w4rd0sfurniture</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/w4rd0sfurniture#11214</guid>
-    <pubDate>Tue, 01 Sep 2026 18:09:50 -0000</pubDate>
-    <description>A furniture pack adding detailed furniture like tables, chairs, couches, beds, shelves &amp; a lot more.</description>
-  </item>
-  <item>
-    <title>Auto Walk Extended</title>
-    <link>https://mods.vintagestory.at/show/mod/autowalkextended</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autowalkextended#8098</guid>
-    <pubDate>Tue, 01 Sep 2026 18:09:11 -0000</pubDate>
-    <description>Toggle walking/running. Options for sneak toggle, stepup and mouse button lock.</description>
-  </item>
-  <item>
-    <title>MealRecipeLagFix</title>
-    <link>https://mods.vintagestory.at/show/mod/7486</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7486#7486</guid>
-    <pubDate>Tue, 01 Sep 2026 18:00:26 -0000</pubDate>
-    <description>Fixes handbook lag when browsing meal recipe pages.</description>
-  </item>
-  <item>
-    <title>Fennel Swag</title>
-    <link>https://mods.vintagestory.at/show/mod/11294</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11294#11294</guid>
-    <pubDate>Tue, 01 Sep 2026 17:46:38 -0000</pubDate>
-    <description>Adds some features for fennel because it isn't any good</description>
-  </item>
-  <item>
-    <title>FendragonBCS</title>
-    <link>https://mods.vintagestory.at/show/mod/fendragonbcs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonbcs#2278</guid>
-    <pubDate>Tue, 01 Sep 2026 17:44:09 -0000</pubDate>
-    <description>Fendragon Backpack Construction System - this mod add construction system for backpack</description>
-  </item>
-  <item>
-    <title>FendragonPlayerTimeReward</title>
-    <link>https://mods.vintagestory.at/show/mod/fendragonptr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonptr#6623</guid>
-    <pubDate>Tue, 01 Sep 2026 17:43:19 -0000</pubDate>
-    <description>Tracks real online time per player and gives rewards at configured minute</description>
-  </item>
-  <item>
-    <title>FendragonSMC</title>
-    <link>https://mods.vintagestory.at/show/mod/fendragonsmc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonsmc#7648</guid>
-    <pubDate>Tue, 01 Sep 2026 17:43:04 -0000</pubDate>
-    <description>FendragonSMC - mod is part of the Fendragon mod ecosystem and is developed exclusively for server</description>
-  </item>
-  <item>
-    <title>Fendragon Blacksmith Gloves</title>
-    <link>https://mods.vintagestory.at/show/mod/fendragonbg</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonbg#6436</guid>
-    <pubDate>Tue, 01 Sep 2026 17:42:40 -0000</pubDate>
-    <description>FendragonBlacksmithGloves - that mod adds blacksmith gloves with practical quality-of-life bonuses</description>
-  </item>
-  <item>
-    <title>RemoveStructures</title>
-    <link>https://mods.vintagestory.at/show/mod/1129</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/1129#1129</guid>
-    <pubDate>Tue, 01 Sep 2026 17:08:36 -0000</pubDate>
-    <description>Change chances of worldgen:structures.json</description>
-  </item>
-  <item>
-    <title>Tallybook</title>
-    <link>https://mods.vintagestory.at/show/mod/10864</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
-    <pubDate>Tue, 01 Sep 2026 17:06:18 -0000</pubDate>
-    <description>Crafting shopping list, quest tracker, story guide, and world/player reference. Fully client-side.</description>
   </item>
 </channel>
 </rss>
