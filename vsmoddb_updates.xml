@@ -4,20 +4,76 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 02 Sep 2026 08:33:16 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 02 Sep 2026 13:22:59 +0000</lastBuildDate>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Wed, 02 Sep 2026 13:03:41 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
+  </item>
+  <item>
+    <title>Rustbound Magic</title>
+    <link>https://mods.vintagestory.at/show/mod/rustboundmagic</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustboundmagic#1290</guid>
+    <pubDate>Wed, 02 Sep 2026 12:21:42 -0000</pubDate>
+    <description>Adds magic to Vintage Story.</description>
+  </item>
+  <item>
+    <title>JoinWaterGrace</title>
+    <link>https://mods.vintagestory.at/show/mod/watergrace</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/watergrace#11457</guid>
+    <pubDate>Wed, 02 Sep 2026 12:03:28 -0000</pubDate>
+    <description>Loginprotection with surfaceing mechanic</description>
+  </item>
+  <item>
+    <title>No Protected Zones</title>
+    <link>https://mods.vintagestory.at/show/mod/noprotection</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noprotection#8258</guid>
+    <pubDate>Wed, 02 Sep 2026 11:18:58 -0000</pubDate>
+    <description>With great power comes great responsibility.</description>
+  </item>
+  <item>
+    <title>Starless Skies</title>
+    <link>https://mods.vintagestory.at/show/mod/starlessskies</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/starlessskies#5094</guid>
+    <pubDate>Wed, 02 Sep 2026 10:49:40 -0000</pubDate>
+    <description>Removes the sun, moon, and sky, and changes shaders to cause absolute darkness</description>
+  </item>
+  <item>
+    <title>Vintage Phonk</title>
+    <link>https://mods.vintagestory.at/show/mod/11485</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11485#11485</guid>
+    <pubDate>Wed, 02 Sep 2026 09:59:10 -0000</pubDate>
+    <description>Dark phonk soundtrack overhaul for Vintage Story.</description>
+  </item>
+  <item>
+    <title>Land Of Estrellas</title>
+    <link>https://mods.vintagestory.at/show/mod/loe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/loe#10629</guid>
+    <pubDate>Wed, 02 Sep 2026 09:19:10 -0000</pubDate>
+    <description>The offical modpack of The Land of Estrellas server </description>
+  </item>
+  <item>
+    <title>Config lib</title>
+    <link>https://mods.vintagestory.at/show/mod/configlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/configlib#1783</guid>
+    <pubDate>Wed, 02 Sep 2026 09:10:12 -0000</pubDate>
+    <description>Config library for content mods</description>
+  </item>
+  <item>
+    <title>Envelopes</title>
+    <link>https://mods.vintagestory.at/show/mod/envelopes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/envelopes#3369</guid>
+    <pubDate>Wed, 02 Sep 2026 08:56:39 -0000</pubDate>
+    <description>Adds wax-sealable envelopes to the game. Privacy-first.</description>
+  </item>
   <item>
     <title>Offline No Spoil</title>
     <link>https://mods.vintagestory.at/show/mod/offlinenospoil</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/offlinenospoil#10816</guid>
     <pubDate>Wed, 02 Sep 2026 08:22:29 -0000</pubDate>
     <description>Preserves perishable food in offline inventories and configured containers.</description>
-  </item>
-  <item>
-    <title>Land Of Estrellas</title>
-    <link>https://mods.vintagestory.at/show/mod/loe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/loe#10629</guid>
-    <pubDate>Wed, 02 Sep 2026 08:20:58 -0000</pubDate>
-    <description>The offical modpack of The Land of Estrellas server </description>
   </item>
   <item>
     <title>Better Firepit v1.22 Fix</title>
@@ -27,7 +83,7 @@
     <description>Firepit heats big stacks as fast as single items (VS 1.22.x). Singleplayer &amp; servers.</description>
   </item>
   <item>
-    <title>Gildie i waluta</title>
+    <title>Guilds quests and coins</title>
     <link>https://mods.vintagestory.at/show/mod/11484</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11484#11484</guid>
     <pubDate>Wed, 02 Sep 2026 08:02:25 -0000</pubDate>
@@ -146,13 +202,6 @@
     <description>Quality of life improvements that enhance Vintage Story while keeping the core experience.</description>
   </item>
   <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Wed, 02 Sep 2026 00:51:12 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
-  </item>
-  <item>
     <title>unHallowedPatches</title>
     <link>https://mods.vintagestory.at/show/mod/unhallowedpatches</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/unhallowedpatches#4328</guid>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
     <pubDate>Wed, 02 Sep 2026 00:04:20 -0000</pubDate>
     <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
-  </item>
-  <item>
-    <title>Eternal Stew</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalstew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalstew#6196</guid>
-    <pubDate>Tue, 01 Sep 2026 23:53:37 -0000</pubDate>
-    <description>Eternal Stew: a stove and pot that keep your stew simmering forever.</description>
-  </item>
-  <item>
-    <title>VS Terrain Diffusion</title>
-    <link>https://mods.vintagestory.at/show/mod/vsterraindiffusion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsterraindiffusion#10918</guid>
-    <pubDate>Tue, 01 Sep 2026 23:49:17 -0000</pubDate>
-    <description>Generate terrain with a neural heightmap model trained on real Earth topography</description>
-  </item>
-  <item>
-    <title>HUDInfoREBUILT</title>
-    <link>https://mods.vintagestory.at/show/mod/herospoompls</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/herospoompls#11480</guid>
-    <pubDate>Tue, 01 Sep 2026 23:28:07 -0000</pubDate>
-    <description>It's exactly what it sounds like. </description>
-  </item>
-  <item>
-    <title>Blood Fennel Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/11296</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11296#11296</guid>
-    <pubDate>Tue, 01 Sep 2026 23:13:58 -0000</pubDate>
-    <description>Bridges my two mods, "More Blood Thingies," and "Fennel Swag."</description>
-  </item>
-  <item>
-    <title>Prospectable Halite</title>
-    <link>https://mods.vintagestory.at/show/mod/11479</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11479#11479</guid>
-    <pubDate>Tue, 01 Sep 2026 22:56:50 -0000</pubDate>
-    <description>Allows you to find halite with node mode of the prospecting pick</description>
-  </item>
-  <item>
-    <title>RiftLauncher - Independent launcher software.</title>
-    <link>https://mods.vintagestory.at/show/mod/riftlauncher</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftlauncher#11016</guid>
-    <pubDate>Tue, 01 Sep 2026 22:54:36 -0000</pubDate>
-    <description>Focused on multiple versions and installations, safe backups and, mod browsing built in.</description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/11476</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
-    <pubDate>Tue, 01 Sep 2026 22:23:09 -0000</pubDate>
-    <description>For details on content, please contact me directly via Discord.</description>
   </item>
 </channel>
 </rss>
