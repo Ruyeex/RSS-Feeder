@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 01 Sep 2026 23:07:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 02 Sep 2026 03:33:47 +0000</lastBuildDate>
+  <item>
+    <title>KRPG Enchantment</title>
+    <link>https://mods.vintagestory.at/show/mod/krpgenchantment</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krpgenchantment#2216</guid>
+    <pubDate>Wed, 02 Sep 2026 03:30:13 -0000</pubDate>
+    <description>Adds MC-like enchantment system to VS.</description>
+  </item>
+  <item>
+    <title>AstraTerra</title>
+    <link>https://mods.vintagestory.at/show/mod/8706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
+    <pubDate>Wed, 02 Sep 2026 03:21:25 -0000</pubDate>
+    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Wed, 02 Sep 2026 03:09:18 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
+  <item>
+    <title>Seasoned Firewood (Redux)</title>
+    <link>https://mods.vintagestory.at/show/mod/seasonedfirewoodredux</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seasonedfirewoodredux#8029</guid>
+    <pubDate>Wed, 02 Sep 2026 02:38:55 -0000</pubDate>
+    <description>A faithful continuation of the original mod by Fearadach.</description>
+  </item>
+  <item>
+    <title>VSVanillaPlus</title>
+    <link>https://mods.vintagestory.at/show/mod/vsvanillaplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsvanillaplus#6710</guid>
+    <pubDate>Wed, 02 Sep 2026 01:05:46 -0000</pubDate>
+    <description>Quality of life improvements that enhance Vintage Story while keeping the core experience.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Wed, 02 Sep 2026 00:51:12 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
+  </item>
+  <item>
+    <title>unHallowedPatches</title>
+    <link>https://mods.vintagestory.at/show/mod/unhallowedpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/unhallowedpatches#4328</guid>
+    <pubDate>Wed, 02 Sep 2026 00:20:58 -0000</pubDate>
+    <description>A collection of QoL patches - including increased stack sizes and recipes.</description>
+  </item>
+  <item>
+    <title>Simple Voice Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
+    <pubDate>Wed, 02 Sep 2026 00:04:20 -0000</pubDate>
+    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
+  </item>
+  <item>
+    <title>Eternal Stew</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalstew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalstew#6196</guid>
+    <pubDate>Tue, 01 Sep 2026 23:53:37 -0000</pubDate>
+    <description>Eternal Stew: a stove and pot that keep your stew simmering forever.</description>
+  </item>
+  <item>
+    <title>VS Terrain Diffusion</title>
+    <link>https://mods.vintagestory.at/show/mod/vsterraindiffusion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsterraindiffusion#10918</guid>
+    <pubDate>Tue, 01 Sep 2026 23:49:17 -0000</pubDate>
+    <description>Generate terrain with a neural heightmap model trained on real Earth topography</description>
+  </item>
+  <item>
+    <title>HUDInfoREBUILT</title>
+    <link>https://mods.vintagestory.at/show/mod/herospoompls</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/herospoompls#11480</guid>
+    <pubDate>Tue, 01 Sep 2026 23:28:07 -0000</pubDate>
+    <description>It's exactly what it sounds like. </description>
+  </item>
+  <item>
+    <title>Blood Fennel Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/11296</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11296#11296</guid>
+    <pubDate>Tue, 01 Sep 2026 23:13:58 -0000</pubDate>
+    <description>Bridges my two mods, "More Blood Thingies," and "Fennel Swag."</description>
+  </item>
   <item>
     <title>Prospectable Halite</title>
     <link>https://mods.vintagestory.at/show/mod/11479</link>
@@ -18,6 +102,13 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftlauncher#11016</guid>
     <pubDate>Tue, 01 Sep 2026 22:54:36 -0000</pubDate>
     <description>Focused on multiple versions and installations, safe backups and, mod browsing built in.</description>
+  </item>
+  <item>
+    <title>Crown &amp; Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/11476</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
+    <pubDate>Tue, 01 Sep 2026 22:23:09 -0000</pubDate>
+    <description>For details on content, please contact me directly via Discord.</description>
   </item>
   <item>
     <title>Abyssal Depths</title>
@@ -123,97 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/komet#11423</guid>
     <pubDate>Tue, 01 Sep 2026 20:30:47 -0000</pubDate>
     <description>Komet is a performance mod, which optimizes the Vintage Story rendering.</description>
-  </item>
-  <item>
-    <title>Olla</title>
-    <link>https://mods.vintagestory.at/show/mod/olla</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/olla#5784</guid>
-    <pubDate>Tue, 01 Sep 2026 20:29:14 -0000</pubDate>
-    <description> Bring ancient irrigation technology to Vintage Story! This mod adds ollas (pronounced "oy-yahs")</description>
-  </item>
-  <item>
-    <title>Metal Bowls Mod (for more bowls)</title>
-    <link>https://mods.vintagestory.at/show/mod/bowlmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bowlmod#9237</guid>
-    <pubDate>Tue, 01 Sep 2026 20:21:40 -0000</pubDate>
-    <description>Adds metal bowls</description>
-  </item>
-  <item>
-    <title>Jack's Ladder</title>
-    <link>https://mods.vintagestory.at/show/mod/jacksladder</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jacksladder#5855</guid>
-    <pubDate>Tue, 01 Sep 2026 20:20:57 -0000</pubDate>
-    <description>Changes the shape of the ladder to accommodate for gaps.</description>
-  </item>
-  <item>
-    <title>Rustmatica EasyPlace</title>
-    <link>https://mods.vintagestory.at/show/mod/rustmaticaeasyplace</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustmaticaeasyplace#9981</guid>
-    <pubDate>Tue, 01 Sep 2026 20:16:50 -0000</pubDate>
-    <description>Addon to Rustmatica, streamlining the building process of schematics</description>
-  </item>
-  <item>
-    <title>Rustmatica</title>
-    <link>https://mods.vintagestory.at/show/mod/rustmatica</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustmatica#9980</guid>
-    <pubDate>Tue, 01 Sep 2026 20:15:22 -0000</pubDate>
-    <description>A building assistant mod that allows you to save, load and visualize block structures</description>
-  </item>
-  <item>
-    <title>Packrat</title>
-    <link>https://mods.vintagestory.at/show/mod/6138</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6138#6138</guid>
-    <pubDate>Tue, 01 Sep 2026 19:55:09 -0000</pubDate>
-    <description>Unified Storage Browser showing the contents of all chests and crates within reach</description>
-  </item>
-  <item>
-    <title>Place it Anywhere</title>
-    <link>https://mods.vintagestory.at/show/mod/9914</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9914#9914</guid>
-    <pubDate>Tue, 01 Sep 2026 19:19:43 -0000</pubDate>
-    <description>Place any item as decoration on floors, walls and ceilings. Up to 64 items per cell.</description>
-  </item>
-  <item>
-    <title>C&amp;N Player Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/canplayerskills</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canplayerskills#11474</guid>
-    <pubDate>Tue, 01 Sep 2026 19:10:08 -0000</pubDate>
-    <description>TFC-style skills</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Tue, 01 Sep 2026 19:07:50 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
-  </item>
-  <item>
-    <title>Draconis</title>
-    <link>https://mods.vintagestory.at/show/mod/draconis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/draconis#4543</guid>
-    <pubDate>Tue, 01 Sep 2026 18:35:31 -0000</pubDate>
-    <description>This mod adds 4 rideable dragons that the player can hatch and raise from eggs found in the wild</description>
-  </item>
-  <item>
-    <title>Wilderlands World Seeder Utility</title>
-    <link>https://mods.vintagestory.at/show/mod/11473</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11473#11473</guid>
-    <pubDate>Tue, 01 Sep 2026 18:27:17 -0000</pubDate>
-    <description>- A utility mod that adds a system for "seeding" blocks and entities into the world.</description>
-  </item>
-  <item>
-    <title>Immersive Fibercraft</title>
-    <link>https://mods.vintagestory.at/show/mod/5814</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5814#5814</guid>
-    <pubDate>Tue, 01 Sep 2026 18:23:00 -0000</pubDate>
-    <description>Adds new immersive spinning and weaving crafting mechanics to VintageStory! Try the new loom!</description>
-  </item>
-  <item>
-    <title>Player Model NPCs </title>
-    <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
-    <pubDate>Tue, 01 Sep 2026 18:14:21 -0000</pubDate>
-    <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
   </item>
 </channel>
 </rss>
