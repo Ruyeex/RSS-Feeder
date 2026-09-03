@@ -4,7 +4,119 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 03 Sep 2026 17:37:57 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 03 Sep 2026 20:41:36 +0000</lastBuildDate>
+  <item>
+    <title>HardcoreLogOff</title>
+    <link>https://mods.vintagestory.at/show/mod/5870</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5870#5870</guid>
+    <pubDate>Thu, 03 Sep 2026 20:38:27 -0000</pubDate>
+    <description>Snapshot &amp; restore of mobs around disconnect/connect events.</description>
+  </item>
+  <item>
+    <title>Fast Travel NPC</title>
+    <link>https://mods.vintagestory.at/show/mod/fasttravelnpc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fasttravelnpc#9686</guid>
+    <pubDate>Thu, 03 Sep 2026 20:23:12 -0000</pubDate>
+    <description>Allows players to fast travel in the world by paying rusty gears.</description>
+  </item>
+  <item>
+    <title>Fanloid Fantweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10433</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10433#10433</guid>
+    <pubDate>Thu, 03 Sep 2026 20:04:02 -0000</pubDate>
+    <description>Misc patches.</description>
+  </item>
+  <item>
+    <title>Rustwall</title>
+    <link>https://mods.vintagestory.at/show/mod/rustwall</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustwall#6183</guid>
+    <pubDate>Thu, 03 Sep 2026 20:01:31 -0000</pubDate>
+    <description>Overhaul mod intended for use in multiplayer servers.</description>
+  </item>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Thu, 03 Sep 2026 19:38:32 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/almanactcm</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanactcm#10453</guid>
+    <pubDate>Thu, 03 Sep 2026 19:28:56 -0000</pubDate>
+    <description>Twenty-two trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>The Quire Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/tqp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tqp#10455</guid>
+    <pubDate>Thu, 03 Sep 2026 19:28:14 -0000</pubDate>
+    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
+  </item>
+  <item>
+    <title>configkit</title>
+    <link>https://mods.vintagestory.at/show/mod/configkit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/configkit#11506</guid>
+    <pubDate>Thu, 03 Sep 2026 19:07:51 -0000</pubDate>
+    <description>In-game settings for your mods, without ImGui (alternative to configlib).</description>
+  </item>
+  <item>
+    <title>Astra Extera</title>
+    <link>https://mods.vintagestory.at/show/mod/11217</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11217#11217</guid>
+    <pubDate>Thu, 03 Sep 2026 19:05:54 -0000</pubDate>
+    <description>Why proc. gener  just a world, how about a galaxy, and star system for that world !? </description>
+  </item>
+  <item>
+    <title>Crown &amp; Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/11476</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
+    <pubDate>Thu, 03 Sep 2026 19:00:10 -0000</pubDate>
+    <description>For details on content, please contact me directly via Discord.</description>
+  </item>
+  <item>
+    <title>Panning Machine</title>
+    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
+    <pubDate>Thu, 03 Sep 2026 18:50:27 -0000</pubDate>
+    <description>Simple machine for panning</description>
+  </item>
+  <item>
+    <title>Drinkable Interaction Ordering Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/8711</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8711#8711</guid>
+    <pubDate>Thu, 03 Sep 2026 18:42:52 -0000</pubDate>
+    <description>Terrible and dirty hack to allow you to feed alcohol to locomotives.</description>
+  </item>
+  <item>
+    <title>Slabbity-Do-Dad</title>
+    <link>https://mods.vintagestory.at/show/mod/slabbity</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slabbity#11521</guid>
+    <pubDate>Thu, 03 Sep 2026 18:33:39 -0000</pubDate>
+    <description>Displays an outline of where your slab will be placed</description>
+  </item>
+  <item>
+    <title>Wildcraft x SONZINA's storage mods compatability</title>
+    <link>https://mods.vintagestory.at/show/mod/wildcrafttreesonzinastoragecompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wildcrafttreesonzinastoragecompat#11410</guid>
+    <pubDate>Thu, 03 Sep 2026 18:18:00 -0000</pubDate>
+    <description>Adds wood types from Wildcraft: Trees and Shrubs for storage blocks from SONZINA's mods.</description>
+  </item>
+  <item>
+    <title>Craftable Locusts</title>
+    <link>https://mods.vintagestory.at/show/mod/craftablelocusts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/craftablelocusts#7870</guid>
+    <pubDate>Thu, 03 Sep 2026 17:55:29 -0000</pubDate>
+    <description>Woe, locust upon ye clockmaker.</description>
+  </item>
+  <item>
+    <title>LibGUI - Toolsmith patch</title>
+    <link>https://mods.vintagestory.at/show/mod/11022</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11022#11022</guid>
+    <pubDate>Thu, 03 Sep 2026 17:48:08 -0000</pubDate>
+    <description>A LibGUI patch for Toolsmith sharpness</description>
+  </item>
   <item>
     <title>Raccoon Traits Plus</title>
     <link>https://mods.vintagestory.at/show/mod/racctraits</link>
@@ -39,13 +151,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/masterserverreauth#11517</guid>
     <pubDate>Thu, 03 Sep 2026 16:54:56 -0000</pubDate>
     <description>Fix not heartbeating after master server auth failure</description>
-  </item>
-  <item>
-    <title>configkit</title>
-    <link>https://mods.vintagestory.at/show/mod/configkit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/configkit#11506</guid>
-    <pubDate>Thu, 03 Sep 2026 16:54:22 -0000</pubDate>
-    <description>In-game settings for your mods, without ImGui (alternative to configlib).</description>
   </item>
   <item>
     <title>BlockShot</title>
@@ -97,13 +202,6 @@
     <description>ADD some stuff, items, cloths for an server</description>
   </item>
   <item>
-    <title>HardcoreLogOff</title>
-    <link>https://mods.vintagestory.at/show/mod/5870</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5870#5870</guid>
-    <pubDate>Thu, 03 Sep 2026 15:17:33 -0000</pubDate>
-    <description>Snapshot &amp; restore of mobs around disconnect/connect events.</description>
-  </item>
-  <item>
     <title>Slugcat Player Model</title>
     <link>https://mods.vintagestory.at/show/mod/slugcatplayermodel</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slugcatplayermodel#11395</guid>
@@ -116,104 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
     <pubDate>Thu, 03 Sep 2026 14:28:37 -0000</pubDate>
     <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
-  </item>
-  <item>
-    <title>FendragonBCS Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/fendragonbcsfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonbcsfork#11513</guid>
-    <pubDate>Thu, 03 Sep 2026 14:25:33 -0000</pubDate>
-    <description>Fork of FendragonBCS - a mod that adds a construction system for upgrading your backpacks</description>
-  </item>
-  <item>
-    <title>Guilds quests and coins</title>
-    <link>https://mods.vintagestory.at/show/mod/11484</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11484#11484</guid>
-    <pubDate>Thu, 03 Sep 2026 14:24:06 -0000</pubDate>
-    <description>12 cechów rzemieślniczych, 6 rang reputacji, waluta Ershin Coins i 120+ zleceń osady.</description>
-  </item>
-  <item>
-    <title>Involved Farming: Fallow</title>
-    <link>https://mods.vintagestory.at/show/mod/10691</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10691#10691</guid>
-    <pubDate>Thu, 03 Sep 2026 14:19:31 -0000</pubDate>
-    <description>Adds fallow- an additional, immersive step between harvested and sowed farmland.</description>
-  </item>
-  <item>
-    <title>Kit</title>
-    <link>https://mods.vintagestory.at/show/mod/kit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kit#10956</guid>
-    <pubDate>Thu, 03 Sep 2026 14:10:08 -0000</pubDate>
-    <description>a chest that works like the shulkerbox from minecraft.</description>
-  </item>
-  <item>
-    <title>Tin Nails And Strips</title>
-    <link>https://mods.vintagestory.at/show/mod/11514</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11514#11514</guid>
-    <pubDate>Thu, 03 Sep 2026 13:57:13 -0000</pubDate>
-    <description>Adds Tin Nails And Strips</description>
-  </item>
-  <item>
-    <title>Neuro plushies</title>
-    <link>https://mods.vintagestory.at/show/mod/11512</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11512#11512</guid>
-    <pubDate>Thu, 03 Sep 2026 13:24:55 -0000</pubDate>
-    <description>Adds a plushie of Neuro, Evil and Vedal987 to the game.</description>
-  </item>
-  <item>
-    <title>Catch and Release: Fish</title>
-    <link>https://mods.vintagestory.at/show/mod/crfish</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crfish#7410</guid>
-    <pubDate>Thu, 03 Sep 2026 13:22:38 -0000</pubDate>
-    <description>Catch fish live and place them in various sized aquariums.</description>
-  </item>
-  <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Thu, 03 Sep 2026 13:17:42 -0000</pubDate>
-    <description>The factory must grow!</description>
-  </item>
-  <item>
-    <title>Safe Haven</title>
-    <link>https://mods.vintagestory.at/show/mod/safehaven</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/safehaven#11195</guid>
-    <pubDate>Thu, 03 Sep 2026 12:21:27 -0000</pubDate>
-    <description>AFK, spawn, loading and softcore safety protections for multiplayer servers.</description>
-  </item>
-  <item>
-    <title>Paths and Roadways Rebalanced</title>
-    <link>https://mods.vintagestory.at/show/mod/pathsandroadways</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pathsandroadways#11488</guid>
-    <pubDate>Thu, 03 Sep 2026 12:08:52 -0000</pubDate>
-    <description>Adds walkspeed bonuses to Bricks, Cobblestone, Packed Earth and more! Nerfs Vanilla Paths.</description>
-  </item>
-  <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Thu, 03 Sep 2026 11:43:00 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
-  </item>
-  <item>
-    <title>ME's Custom Mod Downloader</title>
-    <link>https://mods.vintagestory.at/show/mod/10430</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10430#10430</guid>
-    <pubDate>Thu, 03 Sep 2026 11:37:15 -0000</pubDate>
-    <description>Servers distribute their own custom mods straight to joining clients, consent-gated, hash-verified.</description>
-  </item>
-  <item>
-    <title>Distant Vistas</title>
-    <link>https://mods.vintagestory.at/show/mod/distantvistas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/distantvistas#11259</guid>
-    <pubDate>Thu, 03 Sep 2026 11:18:29 -0000</pubDate>
-    <description>Personal singleplayer far LOD. Vintage Horizons fork. Farseer no longer shuts this off. Run with Cli</description>
-  </item>
-  <item>
-    <title>Temporal Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/9869</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9869#9869</guid>
-    <pubDate>Thu, 03 Sep 2026 11:08:04 -0000</pubDate>
-    <description>A simple Storage Solution using the power of Temporal Entanglement! (Now with actual sorting~)</description>
   </item>
 </channel>
 </rss>
