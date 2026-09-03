@@ -4,7 +4,168 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 03 Sep 2026 13:21:25 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 03 Sep 2026 17:37:57 +0000</lastBuildDate>
+  <item>
+    <title>Raccoon Traits Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/racctraits</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/racctraits#8742</guid>
+    <pubDate>Thu, 03 Sep 2026 17:25:37 -0000</pubDate>
+    <description>Adds 2 more traits to Raccoons from Raccoon Player Model.</description>
+  </item>
+  <item>
+    <title>Racial Equality Traits</title>
+    <link>https://mods.vintagestory.at/show/mod/raeqtraits</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/raeqtraits#9133</guid>
+    <pubDate>Thu, 03 Sep 2026 17:18:53 -0000</pubDate>
+    <description>Adds just traits to the races from Racial Equality.</description>
+  </item>
+  <item>
+    <title>Just Kobold Traits</title>
+    <link>https://mods.vintagestory.at/show/mod/justkt518</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justkt518#8735</guid>
+    <pubDate>Thu, 03 Sep 2026 17:15:05 -0000</pubDate>
+    <description>Adds just traits to Kobolds from Kobold Player Redux.</description>
+  </item>
+  <item>
+    <title>Realistic Soap</title>
+    <link>https://mods.vintagestory.at/show/mod/realisticsoap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticsoap#10983</guid>
+    <pubDate>Thu, 03 Sep 2026 16:57:07 -0000</pubDate>
+    <description>Leach wood ash into lye, boil it with fat, cure the bars, then wash, because being filthy now costs</description>
+  </item>
+  <item>
+    <title>Master Server Re-Auth</title>
+    <link>https://mods.vintagestory.at/show/mod/masterserverreauth</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/masterserverreauth#11517</guid>
+    <pubDate>Thu, 03 Sep 2026 16:54:56 -0000</pubDate>
+    <description>Fix not heartbeating after master server auth failure</description>
+  </item>
+  <item>
+    <title>configkit</title>
+    <link>https://mods.vintagestory.at/show/mod/configkit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/configkit#11506</guid>
+    <pubDate>Thu, 03 Sep 2026 16:54:22 -0000</pubDate>
+    <description>In-game settings for your mods, without ImGui (alternative to configlib).</description>
+  </item>
+  <item>
+    <title>BlockShot</title>
+    <link>https://mods.vintagestory.at/show/mod/blockshot</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blockshot#11516</guid>
+    <pubDate>Thu, 03 Sep 2026 16:36:30 -0000</pubDate>
+    <description>Easily share gameplay screenshots and short recordings safely</description>
+  </item>
+  <item>
+    <title>Wingworks</title>
+    <link>https://mods.vintagestory.at/show/mod/wingworks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wingworks#9998</guid>
+    <pubDate>Thu, 03 Sep 2026 15:55:29 -0000</pubDate>
+    <description>A mod which add flight capabilities for players with specific traits.</description>
+  </item>
+  <item>
+    <title>Glider Revamp (Drathon's Fork)</title>
+    <link>https://mods.vintagestory.at/show/mod/gliderrevampdrathon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gliderrevampdrathon#10567</guid>
+    <pubDate>Thu, 03 Sep 2026 15:50:06 -0000</pubDate>
+    <description>A fork of Hunter404's Glider Revamp updated to the most recent game version.</description>
+  </item>
+  <item>
+    <title>Shot Glasses</title>
+    <link>https://mods.vintagestory.at/show/mod/shotglasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shotglasses#6074</guid>
+    <pubDate>Thu, 03 Sep 2026 15:36:36 -0000</pubDate>
+    <description>Tiny colored shot glasses for 0.1L sips</description>
+  </item>
+  <item>
+    <title>ReinforcedTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/11245</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11245#11245</guid>
+    <pubDate>Thu, 03 Sep 2026 15:24:01 -0000</pubDate>
+    <description>ADD Option to Plumb and Square</description>
+  </item>
+  <item>
+    <title>TraderTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10569</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
+    <pubDate>Thu, 03 Sep 2026 15:22:28 -0000</pubDate>
+    <description>Allow to manage traders</description>
+  </item>
+  <item>
+    <title>DarkGirlStuff</title>
+    <link>https://mods.vintagestory.at/show/mod/11165</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11165#11165</guid>
+    <pubDate>Thu, 03 Sep 2026 15:20:45 -0000</pubDate>
+    <description>ADD some stuff, items, cloths for an server</description>
+  </item>
+  <item>
+    <title>HardcoreLogOff</title>
+    <link>https://mods.vintagestory.at/show/mod/5870</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5870#5870</guid>
+    <pubDate>Thu, 03 Sep 2026 15:17:33 -0000</pubDate>
+    <description>Snapshot &amp; restore of mobs around disconnect/connect events.</description>
+  </item>
+  <item>
+    <title>Slugcat Player Model</title>
+    <link>https://mods.vintagestory.at/show/mod/slugcatplayermodel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slugcatplayermodel#11395</guid>
+    <pubDate>Thu, 03 Sep 2026 14:43:11 -0000</pubDate>
+    <description>Adds a playable Slugcat species from the Rain World</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Thu, 03 Sep 2026 14:28:37 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>FendragonBCS Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/fendragonbcsfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonbcsfork#11513</guid>
+    <pubDate>Thu, 03 Sep 2026 14:25:33 -0000</pubDate>
+    <description>Fork of FendragonBCS - a mod that adds a construction system for upgrading your backpacks</description>
+  </item>
+  <item>
+    <title>Guilds quests and coins</title>
+    <link>https://mods.vintagestory.at/show/mod/11484</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11484#11484</guid>
+    <pubDate>Thu, 03 Sep 2026 14:24:06 -0000</pubDate>
+    <description>12 cechów rzemieślniczych, 6 rang reputacji, waluta Ershin Coins i 120+ zleceń osady.</description>
+  </item>
+  <item>
+    <title>Involved Farming: Fallow</title>
+    <link>https://mods.vintagestory.at/show/mod/10691</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10691#10691</guid>
+    <pubDate>Thu, 03 Sep 2026 14:19:31 -0000</pubDate>
+    <description>Adds fallow- an additional, immersive step between harvested and sowed farmland.</description>
+  </item>
+  <item>
+    <title>Kit</title>
+    <link>https://mods.vintagestory.at/show/mod/kit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kit#10956</guid>
+    <pubDate>Thu, 03 Sep 2026 14:10:08 -0000</pubDate>
+    <description>a chest that works like the shulkerbox from minecraft.</description>
+  </item>
+  <item>
+    <title>Tin Nails And Strips</title>
+    <link>https://mods.vintagestory.at/show/mod/11514</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11514#11514</guid>
+    <pubDate>Thu, 03 Sep 2026 13:57:13 -0000</pubDate>
+    <description>Adds Tin Nails And Strips</description>
+  </item>
+  <item>
+    <title>Neuro plushies</title>
+    <link>https://mods.vintagestory.at/show/mod/11512</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11512#11512</guid>
+    <pubDate>Thu, 03 Sep 2026 13:24:55 -0000</pubDate>
+    <description>Adds a plushie of Neuro, Evil and Vedal987 to the game.</description>
+  </item>
+  <item>
+    <title>Catch and Release: Fish</title>
+    <link>https://mods.vintagestory.at/show/mod/crfish</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crfish#7410</guid>
+    <pubDate>Thu, 03 Sep 2026 13:22:38 -0000</pubDate>
+    <description>Catch fish live and place them in various sized aquariums.</description>
+  </item>
   <item>
     <title>Hex's Mechworks</title>
     <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
@@ -24,7 +185,7 @@
     <link>https://mods.vintagestory.at/show/mod/pathsandroadways</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pathsandroadways#11488</guid>
     <pubDate>Thu, 03 Sep 2026 12:08:52 -0000</pubDate>
-    <description>Adds walkspeed bonuses to Bricks, Cobblestone, Packed Earth and more, and nerfs Vanilla Paths.</description>
+    <description>Adds walkspeed bonuses to Bricks, Cobblestone, Packed Earth and more! Nerfs Vanilla Paths.</description>
   </item>
   <item>
     <title>Alchemy</title>
@@ -53,167 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9869#9869</guid>
     <pubDate>Thu, 03 Sep 2026 11:08:04 -0000</pubDate>
     <description>A simple Storage Solution using the power of Temporal Entanglement! (Now with actual sorting~)</description>
-  </item>
-  <item>
-    <title>klodki</title>
-    <link>https://mods.vintagestory.at/show/mod/11511</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11511#11511</guid>
-    <pubDate>Thu, 03 Sep 2026 10:43:58 -0000</pubDate>
-    <description>Prosty mod na klodki i klucze</description>
-  </item>
-  <item>
-    <title>Guilds quests and coins</title>
-    <link>https://mods.vintagestory.at/show/mod/11484</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11484#11484</guid>
-    <pubDate>Thu, 03 Sep 2026 10:39:42 -0000</pubDate>
-    <description>12 cechów rzemieślniczych, 6 rang reputacji, waluta Ershin Coins i 120+ zleceń osady.</description>
-  </item>
-  <item>
-    <title>Player Model NPCs </title>
-    <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
-    <pubDate>Thu, 03 Sep 2026 10:19:46 -0000</pubDate>
-    <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
-  </item>
-  <item>
-    <title>Slugcat Player Model</title>
-    <link>https://mods.vintagestory.at/show/mod/slugcatplayermodel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slugcatplayermodel#11395</guid>
-    <pubDate>Thu, 03 Sep 2026 10:04:48 -0000</pubDate>
-    <description>Adds a playable Slugcat species from the Rain World</description>
-  </item>
-  <item>
-    <title>Panning Machine</title>
-    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
-    <pubDate>Thu, 03 Sep 2026 09:36:13 -0000</pubDate>
-    <description>Simple machine for panning</description>
-  </item>
-  <item>
-    <title>Simple Bed Spawn</title>
-    <link>https://mods.vintagestory.at/show/mod/palmiersamasimplebedspawn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/palmiersamasimplebedspawn#11424</guid>
-    <pubDate>Thu, 03 Sep 2026 08:14:46 -0000</pubDate>
-    <description>A simple Vintage Story mod that sets your spawn point when you sleep in a bed.</description>
-  </item>
-  <item>
-    <title>Modular Backpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/modularbackpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacks#10127</guid>
-    <pubDate>Thu, 03 Sep 2026 08:04:57 -0000</pubDate>
-    <description>Makes vanilla backpacks modular, allowing you to attach addons to extend storage slots.</description>
-  </item>
-  <item>
-    <title>Gatbata's Sawians</title>
-    <link>https://mods.vintagestory.at/show/mod/customplayermodelsaw</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customplayermodelsaw#10351</guid>
-    <pubDate>Thu, 03 Sep 2026 07:58:52 -0000</pubDate>
-    <description>Adds some of the Sawians from Gunsaw and Casualties: Unknown (expies and the like)</description>
-  </item>
-  <item>
-    <title>The Marginalia: Conjuction</title>
-    <link>https://mods.vintagestory.at/show/mod/tmcon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tmcon#11478</guid>
-    <pubDate>Thu, 03 Sep 2026 07:45:49 -0000</pubDate>
-    <description>The world is not held together; it is held. Raise the Anchorhold, feed it, and mind the fog.</description>
-  </item>
-  <item>
-    <title>Jelly Bundle</title>
-    <link>https://mods.vintagestory.at/show/mod/10059</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10059#10059</guid>
-    <pubDate>Thu, 03 Sep 2026 07:44:56 -0000</pubDate>
-    <description>A compilation of tweaks for the Swamp Jelly server.</description>
-  </item>
-  <item>
-    <title>race addition</title>
-    <link>https://mods.vintagestory.at/show/mod/10150</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10150#10150</guid>
-    <pubDate>Thu, 03 Sep 2026 07:00:08 -0000</pubDate>
-    <description>adds a race to my server</description>
-  </item>
-  <item>
-    <title>The Almanac: Trades, Callings &amp; Mastery</title>
-    <link>https://mods.vintagestory.at/show/mod/almanactcm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanactcm#10453</guid>
-    <pubDate>Thu, 03 Sep 2026 06:25:39 -0000</pubDate>
-    <description>Twenty-two trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>RunicMagic</title>
-    <link>https://mods.vintagestory.at/show/mod/11486</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11486#11486</guid>
-    <pubDate>Thu, 03 Sep 2026 06:21:11 -0000</pubDate>
-    <description>Discover a world specific runic language, research its words, and write your own spells.</description>
-  </item>
-  <item>
-    <title>SRN</title>
-    <link>https://mods.vintagestory.at/show/mod/11510</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11510#11510</guid>
-    <pubDate>Thu, 03 Sep 2026 06:16:51 -0000</pubDate>
-    <description>A tweak for a mod</description>
-  </item>
-  <item>
-    <title>Grassroots</title>
-    <link>https://mods.vintagestory.at/show/mod/grassroots</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
-    <pubDate>Thu, 03 Sep 2026 06:05:29 -0000</pubDate>
-    <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
-  </item>
-  <item>
-    <title>Grassroots Coca</title>
-    <link>https://mods.vintagestory.at/show/mod/grassrootscoca</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassrootscoca#10921</guid>
-    <pubDate>Thu, 03 Sep 2026 05:51:30 -0000</pubDate>
-    <description>Coca farming. Grow, dry, leech, refine, and recrystalize. Aim for the purest product.</description>
-  </item>
-  <item>
-    <title>Animalica Core</title>
-    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
-    <pubDate>Thu, 03 Sep 2026 05:25:35 -0000</pubDate>
-    <description>Core mod for playable animals. Does nothing on it's own</description>
-  </item>
-  <item>
-    <title>Animalica - Compatibility pack 2: (FotSA)</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicafotsa</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicafotsa#10561</guid>
-    <pubDate>Thu, 03 Sep 2026 05:21:38 -0000</pubDate>
-    <description>Adds clothing-capable playable models for six Fauna of the Stone Age modules</description>
-  </item>
-  <item>
-    <title>Temporally Stable Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tstweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tstweaks#5193</guid>
-    <pubDate>Thu, 03 Sep 2026 04:52:41 -0000</pubDate>
-    <description>Various tweaks for the Temporally Stable server.</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Thu, 03 Sep 2026 04:38:00 -0000</pubDate>
-    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat: ASR</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechatasr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechatasr#11509</guid>
-    <pubDate>Thu, 03 Sep 2026 04:30:43 -0000</pubDate>
-    <description>Whisper.net runtime dependencies for Simple Voice Chat local speech-to-chat.</description>
-  </item>
-  <item>
-    <title>Wilderlands Onus Moderatus</title>
-    <link>https://mods.vintagestory.at/show/mod/8790</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8790#8790</guid>
-    <pubDate>Thu, 03 Sep 2026 04:28:16 -0000</pubDate>
-    <description>- Using One Hand as a dependancy, creates three inventory bar slots with one backpack slot open.</description>
-  </item>
-  <item>
-    <title>restrictedbarrels</title>
-    <link>https://mods.vintagestory.at/show/mod/restrictedbarrels</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/restrictedbarrels#11343</guid>
-    <pubDate>Thu, 03 Sep 2026 04:20:44 -0000</pubDate>
-    <description>Trait Requirements for Barrel Recipes</description>
   </item>
 </channel>
 </rss>
