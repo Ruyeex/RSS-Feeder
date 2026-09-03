@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 03 Sep 2026 20:41:36 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 03 Sep 2026 23:03:28 +0000</lastBuildDate>
+  <item>
+    <title>Simple Water Tweaks VSR patch</title>
+    <link>https://mods.vintagestory.at/show/mod/swtvsr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swtvsr#9211</guid>
+    <pubDate>Thu, 03 Sep 2026 22:54:43 -0000</pubDate>
+    <description>Adds compatibility between Simple Water Tweaks and various shader mods</description>
+  </item>
+  <item>
+    <title>Simple water tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/simplewatertweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplewatertweaks#9126</guid>
+    <pubDate>Thu, 03 Sep 2026 22:53:19 -0000</pubDate>
+    <description>This mod modifies the game's water by adding an alternative wave effect and a more vibrant color </description>
+  </item>
+  <item>
+    <title>Riley's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Thu, 03 Sep 2026 22:52:53 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+  </item>
+  <item>
+    <title>Cleanlib</title>
+    <link>https://mods.vintagestory.at/show/mod/cleanlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cleanlib#11440</guid>
+    <pubDate>Thu, 03 Sep 2026 22:43:07 -0000</pubDate>
+    <description>Configlib Fork </description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Thu, 03 Sep 2026 21:44:36 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
+  <item>
+    <title>Mandarjins Increased Lights</title>
+    <link>https://mods.vintagestory.at/show/mod/10469</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10469#10469</guid>
+    <pubDate>Thu, 03 Sep 2026 21:24:29 -0000</pubDate>
+    <description>Increases the light level of most light sources</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Thu, 03 Sep 2026 21:03:19 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
+  </item>
+  <item>
+    <title>RiverWheel</title>
+    <link>https://mods.vintagestory.at/show/mod/11522</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11522#11522</guid>
+    <pubDate>Thu, 03 Sep 2026 21:01:42 -0000</pubDate>
+    <description>Configurable water wheels for the Rivers mod</description>
+  </item>
+  <item>
+    <title>Kanahaku`s  (Not Only) Spear Expansion</title>
+    <link>https://mods.vintagestory.at/show/mod/2005</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/2005#2005</guid>
+    <pubDate>Thu, 03 Sep 2026 21:01:38 -0000</pubDate>
+    <description>Expands game arsenal with vanilla style spears , pikes and other weapons!</description>
+  </item>
+  <item>
+    <title>Dragonia Translations</title>
+    <link>https://mods.vintagestory.at/show/mod/10016</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10016#10016</guid>
+    <pubDate>Thu, 03 Sep 2026 20:59:29 -0000</pubDate>
+    <description>Переводы и отредактированные переводы под стиль сервера. </description>
+  </item>
   <item>
     <title>HardcoreLogOff</title>
     <link>https://mods.vintagestory.at/show/mod/5870</link>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticsoap#10983</guid>
     <pubDate>Thu, 03 Sep 2026 16:57:07 -0000</pubDate>
     <description>Leach wood ash into lye, boil it with fat, cure the bars, then wash, because being filthy now costs</description>
-  </item>
-  <item>
-    <title>Master Server Re-Auth</title>
-    <link>https://mods.vintagestory.at/show/mod/masterserverreauth</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/masterserverreauth#11517</guid>
-    <pubDate>Thu, 03 Sep 2026 16:54:56 -0000</pubDate>
-    <description>Fix not heartbeating after master server auth failure</description>
-  </item>
-  <item>
-    <title>BlockShot</title>
-    <link>https://mods.vintagestory.at/show/mod/blockshot</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blockshot#11516</guid>
-    <pubDate>Thu, 03 Sep 2026 16:36:30 -0000</pubDate>
-    <description>Easily share gameplay screenshots and short recordings safely</description>
-  </item>
-  <item>
-    <title>Wingworks</title>
-    <link>https://mods.vintagestory.at/show/mod/wingworks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wingworks#9998</guid>
-    <pubDate>Thu, 03 Sep 2026 15:55:29 -0000</pubDate>
-    <description>A mod which add flight capabilities for players with specific traits.</description>
-  </item>
-  <item>
-    <title>Glider Revamp (Drathon's Fork)</title>
-    <link>https://mods.vintagestory.at/show/mod/gliderrevampdrathon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gliderrevampdrathon#10567</guid>
-    <pubDate>Thu, 03 Sep 2026 15:50:06 -0000</pubDate>
-    <description>A fork of Hunter404's Glider Revamp updated to the most recent game version.</description>
-  </item>
-  <item>
-    <title>Shot Glasses</title>
-    <link>https://mods.vintagestory.at/show/mod/shotglasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shotglasses#6074</guid>
-    <pubDate>Thu, 03 Sep 2026 15:36:36 -0000</pubDate>
-    <description>Tiny colored shot glasses for 0.1L sips</description>
-  </item>
-  <item>
-    <title>ReinforcedTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/11245</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11245#11245</guid>
-    <pubDate>Thu, 03 Sep 2026 15:24:01 -0000</pubDate>
-    <description>ADD Option to Plumb and Square</description>
-  </item>
-  <item>
-    <title>TraderTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10569</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
-    <pubDate>Thu, 03 Sep 2026 15:22:28 -0000</pubDate>
-    <description>Allow to manage traders</description>
-  </item>
-  <item>
-    <title>DarkGirlStuff</title>
-    <link>https://mods.vintagestory.at/show/mod/11165</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11165#11165</guid>
-    <pubDate>Thu, 03 Sep 2026 15:20:45 -0000</pubDate>
-    <description>ADD some stuff, items, cloths for an server</description>
-  </item>
-  <item>
-    <title>Slugcat Player Model</title>
-    <link>https://mods.vintagestory.at/show/mod/slugcatplayermodel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slugcatplayermodel#11395</guid>
-    <pubDate>Thu, 03 Sep 2026 14:43:11 -0000</pubDate>
-    <description>Adds a playable Slugcat species from the Rain World</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Thu, 03 Sep 2026 14:28:37 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
   </item>
 </channel>
 </rss>
