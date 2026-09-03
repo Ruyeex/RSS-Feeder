@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 03 Sep 2026 08:41:45 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 03 Sep 2026 13:21:25 +0000</lastBuildDate>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Thu, 03 Sep 2026 13:17:42 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
+  <item>
+    <title>Safe Haven</title>
+    <link>https://mods.vintagestory.at/show/mod/safehaven</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/safehaven#11195</guid>
+    <pubDate>Thu, 03 Sep 2026 12:21:27 -0000</pubDate>
+    <description>AFK, spawn, loading and softcore safety protections for multiplayer servers.</description>
+  </item>
+  <item>
+    <title>Paths and Roadways Rebalanced</title>
+    <link>https://mods.vintagestory.at/show/mod/pathsandroadways</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pathsandroadways#11488</guid>
+    <pubDate>Thu, 03 Sep 2026 12:08:52 -0000</pubDate>
+    <description>Adds walkspeed bonuses to Bricks, Cobblestone, Packed Earth and more, and nerfs Vanilla Paths.</description>
+  </item>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Thu, 03 Sep 2026 11:43:00 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
+  <item>
+    <title>ME's Custom Mod Downloader</title>
+    <link>https://mods.vintagestory.at/show/mod/10430</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10430#10430</guid>
+    <pubDate>Thu, 03 Sep 2026 11:37:15 -0000</pubDate>
+    <description>Servers distribute their own custom mods straight to joining clients, consent-gated, hash-verified.</description>
+  </item>
+  <item>
+    <title>Distant Vistas</title>
+    <link>https://mods.vintagestory.at/show/mod/distantvistas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/distantvistas#11259</guid>
+    <pubDate>Thu, 03 Sep 2026 11:18:29 -0000</pubDate>
+    <description>Personal singleplayer far LOD. Vintage Horizons fork. Farseer no longer shuts this off. Run with Cli</description>
+  </item>
+  <item>
+    <title>Temporal Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/9869</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9869#9869</guid>
+    <pubDate>Thu, 03 Sep 2026 11:08:04 -0000</pubDate>
+    <description>A simple Storage Solution using the power of Temporal Entanglement! (Now with actual sorting~)</description>
+  </item>
+  <item>
+    <title>klodki</title>
+    <link>https://mods.vintagestory.at/show/mod/11511</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11511#11511</guid>
+    <pubDate>Thu, 03 Sep 2026 10:43:58 -0000</pubDate>
+    <description>Prosty mod na klodki i klucze</description>
+  </item>
+  <item>
+    <title>Guilds quests and coins</title>
+    <link>https://mods.vintagestory.at/show/mod/11484</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11484#11484</guid>
+    <pubDate>Thu, 03 Sep 2026 10:39:42 -0000</pubDate>
+    <description>12 cechów rzemieślniczych, 6 rang reputacji, waluta Ershin Coins i 120+ zleceń osady.</description>
+  </item>
+  <item>
+    <title>Player Model NPCs </title>
+    <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
+    <pubDate>Thu, 03 Sep 2026 10:19:46 -0000</pubDate>
+    <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
+  </item>
+  <item>
+    <title>Slugcat Player Model</title>
+    <link>https://mods.vintagestory.at/show/mod/slugcatplayermodel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slugcatplayermodel#11395</guid>
+    <pubDate>Thu, 03 Sep 2026 10:04:48 -0000</pubDate>
+    <description>Adds a playable Slugcat species from the Rain World</description>
+  </item>
+  <item>
+    <title>Panning Machine</title>
+    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
+    <pubDate>Thu, 03 Sep 2026 09:36:13 -0000</pubDate>
+    <description>Simple machine for panning</description>
+  </item>
   <item>
     <title>Simple Bed Spawn</title>
     <link>https://mods.vintagestory.at/show/mod/palmiersamasimplebedspawn</link>
@@ -25,13 +109,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customplayermodelsaw#10351</guid>
     <pubDate>Thu, 03 Sep 2026 07:58:52 -0000</pubDate>
     <description>Adds some of the Sawians from Gunsaw and Casualties: Unknown (expies and the like)</description>
-  </item>
-  <item>
-    <title>Distant Vistas</title>
-    <link>https://mods.vintagestory.at/show/mod/distantvistas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/distantvistas#11259</guid>
-    <pubDate>Thu, 03 Sep 2026 07:58:49 -0000</pubDate>
-    <description>Personal singleplayer far LOD. Vintage Horizons fork. Farseer no longer shuts this off. Run with Cli</description>
   </item>
   <item>
     <title>The Marginalia: Conjuction</title>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/restrictedbarrels#11343</guid>
     <pubDate>Thu, 03 Sep 2026 04:20:44 -0000</pubDate>
     <description>Trait Requirements for Barrel Recipes</description>
-  </item>
-  <item>
-    <title>Walkable Deck (Experimental)</title>
-    <link>https://mods.vintagestory.at/show/mod/walkabledeck</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkabledeck#11390</guid>
-    <pubDate>Thu, 03 Sep 2026 04:18:25 -0000</pubDate>
-    <description>EXPERIMENTAL - Walk around on Shipwright boat decks while they sail. Requires Shipwright.</description>
-  </item>
-  <item>
-    <title>The Almanac: Illuminated</title>
-    <link>https://mods.vintagestory.at/show/mod/almanacilluminated</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanacilluminated#10454</guid>
-    <pubDate>Thu, 03 Sep 2026 04:11:21 -0000</pubDate>
-    <description>A living questbook opened with Alt+J. Chapters appear only for the mods you have loaded.</description>
-  </item>
-  <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Thu, 03 Sep 2026 04:04:58 -0000</pubDate>
-    <description>The factory must grow!</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Thu, 03 Sep 2026 03:50:23 -0000</pubDate>
-    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
-  </item>
-  <item>
-    <title>Crucibulum</title>
-    <link>https://mods.vintagestory.at/show/mod/crucibulum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crucibulum#11374</guid>
-    <pubDate>Thu, 03 Sep 2026 03:14:17 -0000</pubDate>
-    <description>Set a crucible in the forge and melt metal where you smith it</description>
-  </item>
-  <item>
-    <title>Fornax</title>
-    <link>https://mods.vintagestory.at/show/mod/fornax</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fornax#11226</guid>
-    <pubDate>Thu, 03 Sep 2026 03:03:05 -0000</pubDate>
-    <description>The kiln between the pit kiln and the beehive kiln. Mud brick, firewood, and no iron at all.</description>
-  </item>
-  <item>
-    <title>Lunchbox</title>
-    <link>https://mods.vintagestory.at/show/mod/lunchbox</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lunchbox#6518</guid>
-    <pubDate>Thu, 03 Sep 2026 03:02:29 -0000</pubDate>
-    <description>Adds storage containers which automatically feeds the player when hungry</description>
-  </item>
-  <item>
-    <title>Newfies Block Logger &amp; Animal Limiter</title>
-    <link>https://mods.vintagestory.at/show/mod/4530</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4530#4530</guid>
-    <pubDate>Thu, 03 Sep 2026 02:30:29 -0000</pubDate>
-    <description>A Robust block, entity, and item logger, with animal limiting!</description>
-  </item>
-  <item>
-    <title>configkit</title>
-    <link>https://mods.vintagestory.at/show/mod/configkit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/configkit#11506</guid>
-    <pubDate>Thu, 03 Sep 2026 02:27:51 -0000</pubDate>
-    <description>In-game settings for your mods, without ImGui (alternative to configlib).</description>
-  </item>
-  <item>
-    <title>Backpack Quick Access</title>
-    <link>https://mods.vintagestory.at/show/mod/backpackqa</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/backpackqa#11505</guid>
-    <pubDate>Thu, 03 Sep 2026 01:46:59 -0000</pubDate>
-    <description>Easy to Use Modular Backpack Quick Slots</description>
-  </item>
-  <item>
-    <title>Shepherd's Herding</title>
-    <link>https://mods.vintagestory.at/show/mod/11321</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11321#11321</guid>
-    <pubDate>Thu, 03 Sep 2026 01:26:25 -0000</pubDate>
-    <description>An Addon for Adventurers Walking stick that allows the player to dynamically herd their Livestock</description>
   </item>
 </channel>
 </rss>
