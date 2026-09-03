@@ -4,7 +4,154 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 02 Sep 2026 23:05:44 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 03 Sep 2026 03:33:39 +0000</lastBuildDate>
+  <item>
+    <title>Walkable Deck (Experimental)</title>
+    <link>https://mods.vintagestory.at/show/mod/walkabledeck</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkabledeck#11390</guid>
+    <pubDate>Thu, 03 Sep 2026 03:22:11 -0000</pubDate>
+    <description>EXPERIMENTAL - Walk around on Shipwright boat decks while they sail. Requires Shipwright.</description>
+  </item>
+  <item>
+    <title>Wilderlands Onus Moderatus</title>
+    <link>https://mods.vintagestory.at/show/mod/8790</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8790#8790</guid>
+    <pubDate>Thu, 03 Sep 2026 03:20:29 -0000</pubDate>
+    <description>- Using One Hand as a dependancy, creates three inventory bar slots with one backpack slot open.</description>
+  </item>
+  <item>
+    <title>Crucibulum</title>
+    <link>https://mods.vintagestory.at/show/mod/crucibulum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crucibulum#11374</guid>
+    <pubDate>Thu, 03 Sep 2026 03:14:17 -0000</pubDate>
+    <description>Set a crucible in the forge and melt metal where you smith it</description>
+  </item>
+  <item>
+    <title>Fornax</title>
+    <link>https://mods.vintagestory.at/show/mod/fornax</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fornax#11226</guid>
+    <pubDate>Thu, 03 Sep 2026 03:03:05 -0000</pubDate>
+    <description>The kiln between the pit kiln and the beehive kiln. Mud brick, firewood, and no iron at all.</description>
+  </item>
+  <item>
+    <title>Lunchbox</title>
+    <link>https://mods.vintagestory.at/show/mod/lunchbox</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lunchbox#6518</guid>
+    <pubDate>Thu, 03 Sep 2026 03:02:29 -0000</pubDate>
+    <description>Adds storage containers which automatically feeds the player when hungry</description>
+  </item>
+  <item>
+    <title>Newfies Block Logger &amp; Animal Limiter</title>
+    <link>https://mods.vintagestory.at/show/mod/4530</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4530#4530</guid>
+    <pubDate>Thu, 03 Sep 2026 02:30:29 -0000</pubDate>
+    <description>A Robust block, entity, and item logger, with animal limiting!</description>
+  </item>
+  <item>
+    <title>configkit</title>
+    <link>https://mods.vintagestory.at/show/mod/configkit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/configkit#11506</guid>
+    <pubDate>Thu, 03 Sep 2026 02:27:51 -0000</pubDate>
+    <description>In-game settings for your mods, without ImGui (alternative to configlib).</description>
+  </item>
+  <item>
+    <title>Backpack Quick Access</title>
+    <link>https://mods.vintagestory.at/show/mod/backpackqa</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/backpackqa#11505</guid>
+    <pubDate>Thu, 03 Sep 2026 01:46:59 -0000</pubDate>
+    <description>Easy to Use Modular Backpack Quick Slots</description>
+  </item>
+  <item>
+    <title>Shepherd's Herding</title>
+    <link>https://mods.vintagestory.at/show/mod/11321</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11321#11321</guid>
+    <pubDate>Thu, 03 Sep 2026 01:26:25 -0000</pubDate>
+    <description>An Addon for Adventurers Walking stick that allows the player to dynamically herd their Livestock</description>
+  </item>
+  <item>
+    <title>Riley's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Thu, 03 Sep 2026 01:15:41 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+  </item>
+  <item>
+    <title>Umbrella</title>
+    <link>https://mods.vintagestory.at/show/mod/umbrella</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/umbrella#11482</guid>
+    <pubDate>Thu, 03 Sep 2026 01:00:48 -0000</pubDate>
+    <description>Adds an umbrella that prevents you from getting wet in the rain.</description>
+  </item>
+  <item>
+    <title>Experiment Player Model</title>
+    <link>https://mods.vintagestory.at/show/mod/expieplayermodel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/expieplayermodel#7579</guid>
+    <pubDate>Thu, 03 Sep 2026 00:27:21 -0000</pubDate>
+    <description>Adds a playable Expie species from C:U and Gunsaw.</description>
+  </item>
+  <item>
+    <title>Temporal Storage</title>
+    <link>https://mods.vintagestory.at/show/mod/9869</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9869#9869</guid>
+    <pubDate>Thu, 03 Sep 2026 00:26:27 -0000</pubDate>
+    <description>A simple Storage Solution using the power of Temporal Entanglement! (Now with actual sorting~)</description>
+  </item>
+  <item>
+    <title>xSkills Tailoring Aldi's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/xskillstailoringaldisclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xskillstailoringaldisclasses#11179</guid>
+    <pubDate>Thu, 03 Sep 2026 00:16:11 -0000</pubDate>
+    <description>A fork of "X-Skills Tailoring" made to be compatible with "xSkills X Aldi's Classes".</description>
+  </item>
+  <item>
+    <title>Komet - Performance Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/komet</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/komet#11423</guid>
+    <pubDate>Thu, 03 Sep 2026 00:06:20 -0000</pubDate>
+    <description>Komet is a performance mod, which optimizes the Vintage Story rendering.</description>
+  </item>
+  <item>
+    <title>VintageStory D'Août</title>
+    <link>https://mods.vintagestory.at/show/mod/vinstagestoryaout</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vinstagestoryaout#11164</guid>
+    <pubDate>Thu, 03 Sep 2026 00:03:34 -0000</pubDate>
+    <description> This modpack contains all the mods used on the Vintage Story server hosted by Pressea.</description>
+  </item>
+  <item>
+    <title>Seraph Leveling ReClassed</title>
+    <link>https://mods.vintagestory.at/show/mod/11234</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11234#11234</guid>
+    <pubDate>Thu, 03 Sep 2026 00:02:49 -0000</pubDate>
+    <description>Level up and gain traits in a vanilla-friendly way, with additional mod support</description>
+  </item>
+  <item>
+    <title>VintageSymphonyForked</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagesymphonyforked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagesymphonyforked#11341</guid>
+    <pubDate>Thu, 03 Sep 2026 00:02:37 -0000</pubDate>
+    <description>Vintage Symphony is a situation-aware music engine replacement for Vintage Story, forked for 1.22</description>
+  </item>
+  <item>
+    <title>The Basics - Roleplay (RP) Proximity Chat and more!</title>
+    <link>https://mods.vintagestory.at/show/mod/thebasics</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thebasics#640</guid>
+    <pubDate>Thu, 03 Sep 2026 00:00:06 -0000</pubDate>
+    <description>Configurable Roleplay (RP) proximity chat system, various QoL features, and more!</description>
+  </item>
+  <item>
+    <title>More Flowers - Pink &amp; Purple</title>
+    <link>https://mods.vintagestory.at/show/mod/moreflowerspinkpurple</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreflowerspinkpurple#11503</guid>
+    <pubDate>Wed, 02 Sep 2026 23:28:42 -0000</pubDate>
+    <description>Add more varieties of flowers - Pink &amp; purple edition</description>
+  </item>
+  <item>
+    <title>Riley's Classes RP Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclassesrppatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclassesrppatch#10984</guid>
+    <pubDate>Wed, 02 Sep 2026 23:14:06 -0000</pubDate>
+    <description>An addon for Riley's Classes that rebalances the mod for RP Servers.</description>
+  </item>
   <item>
     <title>From Golden Combs</title>
     <link>https://mods.vintagestory.at/show/mod/fromgoldencombs</link>
@@ -59,7 +206,7 @@
     <link>https://mods.vintagestory.at/show/mod/striketheearth</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/striketheearth#11502</guid>
     <pubDate>Wed, 02 Sep 2026 22:37:30 -0000</pubDate>
-    <description>Allows to play as lore accurate dwarves from dwarf fortress.</description>
+    <description>Allows to play as lore accurate dwarves and other races from dwarf fortress.</description>
   </item>
   <item>
     <title>More Blood Thingies!</title>
@@ -67,153 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
     <pubDate>Wed, 02 Sep 2026 22:25:28 -0000</pubDate>
     <description>Adds all the features for bloodbread that should have been.</description>
-  </item>
-  <item>
-    <title>Armory</title>
-    <link>https://mods.vintagestory.at/show/mod/hacore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hacore#9243</guid>
-    <pubDate>Wed, 02 Sep 2026 22:20:17 -0000</pubDate>
-    <description>A collection of items and mechanics to be used for weaponry mods.</description>
-  </item>
-  <item>
-    <title>Repair Kits</title>
-    <link>https://mods.vintagestory.at/show/mod/armoryrepairkits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/armoryrepairkits#11249</guid>
-    <pubDate>Wed, 02 Sep 2026 22:17:58 -0000</pubDate>
-    <description>Adds multiple repair kit items to the game that can repair ANY item with durability.</description>
-  </item>
-  <item>
-    <title>Fireflies</title>
-    <link>https://mods.vintagestory.at/show/mod/fireflies</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fireflies#11493</guid>
-    <pubDate>Wed, 02 Sep 2026 21:58:14 -0000</pubDate>
-    <description>Adds fireflies to the game that are catchable in jars and placeable as light sources. </description>
-  </item>
-  <item>
-    <title>NDL Villagers</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlvillagers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlvillagers#3429</guid>
-    <pubDate>Wed, 02 Sep 2026 21:26:24 -0000</pubDate>
-    <description>Adds Villagers/Guards/Clerics to populate your builds and also a way to get traders in your builds!</description>
-  </item>
-  <item>
-    <title>Parchments From Hide</title>
-    <link>https://mods.vintagestory.at/show/mod/parchmentsfromhide</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/parchmentsfromhide#11496</guid>
-    <pubDate>Wed, 02 Sep 2026 20:36:40 -0000</pubDate>
-    <description>allows converting scraped hide to parchment.</description>
-  </item>
-  <item>
-    <title>WOP be Creative</title>
-    <link>https://mods.vintagestory.at/show/mod/wopbecreative</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wopbecreative#588</guid>
-    <pubDate>Wed, 02 Sep 2026 20:25:02 -0000</pubDate>
-    <description>Adds the CreativeLight/Glow Block to vanilla gameplay as recipes. (Chisable)The Colors of the blo...</description>
-  </item>
-  <item>
-    <title>RunicMagic</title>
-    <link>https://mods.vintagestory.at/show/mod/11486</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11486#11486</guid>
-    <pubDate>Wed, 02 Sep 2026 20:11:04 -0000</pubDate>
-    <description>Discover a world specific runic language, research its words, and write your own spells.</description>
-  </item>
-  <item>
-    <title>VoteGui</title>
-    <link>https://mods.vintagestory.at/show/mod/votegui</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/votegui#10547</guid>
-    <pubDate>Wed, 02 Sep 2026 20:09:03 -0000</pubDate>
-    <description>Vote gui for vsserverlist.com</description>
-  </item>
-  <item>
-    <title>Astra Extera</title>
-    <link>https://mods.vintagestory.at/show/mod/11217</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11217#11217</guid>
-    <pubDate>Wed, 02 Sep 2026 19:58:38 -0000</pubDate>
-    <description>Why proc. gener  just a world, how about a galaxy, and star system for that world !? </description>
-  </item>
-  <item>
-    <title>C&amp;N Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/canclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canclaims#589</guid>
-    <pubDate>Wed, 02 Sep 2026 19:47:03 -0000</pubDate>
-    <description>Land protection mod.</description>
-  </item>
-  <item>
-    <title>Esoterica</title>
-    <link>https://mods.vintagestory.at/show/mod/6087</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6087#6087</guid>
-    <pubDate>Wed, 02 Sep 2026 19:47:01 -0000</pubDate>
-    <description>A sixth history community license mod merging the lore from Cultist Simulator with Vintage Story.</description>
-  </item>
-  <item>
-    <title>Rustbound Magic</title>
-    <link>https://mods.vintagestory.at/show/mod/rustboundmagic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustboundmagic#1290</guid>
-    <pubDate>Wed, 02 Sep 2026 19:36:14 -0000</pubDate>
-    <description>Adds magic to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Good Hunting</title>
-    <link>https://mods.vintagestory.at/show/mod/4050</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4050#4050</guid>
-    <pubDate>Wed, 02 Sep 2026 19:20:37 -0000</pubDate>
-    <description>Buffed and varied vanilla drops for animals for realism.</description>
-  </item>
-  <item>
-    <title>Wilderlands Rustbound</title>
-    <link>https://mods.vintagestory.at/show/mod/3004</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3004#3004</guid>
-    <pubDate>Wed, 02 Sep 2026 18:42:12 -0000</pubDate>
-    <description>Overhauls drifter canon, adds a slew of new Rust-related entities and challenges.</description>
-  </item>
-  <item>
-    <title>WOO³</title>
-    <link>https://mods.vintagestory.at/show/mod/8477</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8477#8477</guid>
-    <pubDate>Wed, 02 Sep 2026 18:41:41 -0000</pubDate>
-    <description>A modpack that contains custom content and server tweaks for the Whispers of Oldwood season 3.</description>
-  </item>
-  <item>
-    <title>Wilderlands World Seeder Utility</title>
-    <link>https://mods.vintagestory.at/show/mod/11473</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11473#11473</guid>
-    <pubDate>Wed, 02 Sep 2026 18:40:46 -0000</pubDate>
-    <description>- A utility mod that adds a system for "seeding" blocks and entities into the world.</description>
-  </item>
-  <item>
-    <title>Vanilla Variants Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/vanvarcompatibility</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanvarcompatibility#9014</guid>
-    <pubDate>Wed, 02 Sep 2026 18:34:42 -0000</pubDate>
-    <description>Compatibility hotfix for Vanilla Variants 7.1.1 on Vintage Story 1.22.x</description>
-  </item>
-  <item>
-    <title>AstraTerra</title>
-    <link>https://mods.vintagestory.at/show/mod/8706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
-    <pubDate>Wed, 02 Sep 2026 18:32:04 -0000</pubDate>
-    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
-  </item>
-  <item>
-    <title>yummy glue</title>
-    <link>https://mods.vintagestory.at/show/mod/11494</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11494#11494</guid>
-    <pubDate>Wed, 02 Sep 2026 18:27:42 -0000</pubDate>
-    <description>Adds edible glue to the game (from unturned) DISCLAIMER THIS WAS FULLY MADE WITH AI</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Wed, 02 Sep 2026 18:03:43 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
-  </item>
-  <item>
-    <title>Adjacent Ignition</title>
-    <link>https://mods.vintagestory.at/show/mod/adjacentignition</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/adjacentignition#11117</guid>
-    <pubDate>Wed, 02 Sep 2026 17:53:25 -0000</pubDate>
-    <description>Fire spreads between adjacent fire-based workstations (ovens, bloomeries, etc.) for bulk ignition.</description>
   </item>
 </channel>
 </rss>
