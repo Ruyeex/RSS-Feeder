@@ -4,20 +4,167 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 03 Sep 2026 03:33:39 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 03 Sep 2026 08:41:45 +0000</lastBuildDate>
   <item>
-    <title>Walkable Deck (Experimental)</title>
-    <link>https://mods.vintagestory.at/show/mod/walkabledeck</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkabledeck#11390</guid>
-    <pubDate>Thu, 03 Sep 2026 03:22:11 -0000</pubDate>
-    <description>EXPERIMENTAL - Walk around on Shipwright boat decks while they sail. Requires Shipwright.</description>
+    <title>Simple Bed Spawn</title>
+    <link>https://mods.vintagestory.at/show/mod/palmiersamasimplebedspawn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/palmiersamasimplebedspawn#11424</guid>
+    <pubDate>Thu, 03 Sep 2026 08:14:46 -0000</pubDate>
+    <description>A simple Vintage Story mod that sets your spawn point when you sleep in a bed.</description>
+  </item>
+  <item>
+    <title>Modular Backpacks</title>
+    <link>https://mods.vintagestory.at/show/mod/modularbackpacks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularbackpacks#10127</guid>
+    <pubDate>Thu, 03 Sep 2026 08:04:57 -0000</pubDate>
+    <description>Makes vanilla backpacks modular, allowing you to attach addons to extend storage slots.</description>
+  </item>
+  <item>
+    <title>Gatbata's Sawians</title>
+    <link>https://mods.vintagestory.at/show/mod/customplayermodelsaw</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customplayermodelsaw#10351</guid>
+    <pubDate>Thu, 03 Sep 2026 07:58:52 -0000</pubDate>
+    <description>Adds some of the Sawians from Gunsaw and Casualties: Unknown (expies and the like)</description>
+  </item>
+  <item>
+    <title>Distant Vistas</title>
+    <link>https://mods.vintagestory.at/show/mod/distantvistas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/distantvistas#11259</guid>
+    <pubDate>Thu, 03 Sep 2026 07:58:49 -0000</pubDate>
+    <description>Personal singleplayer far LOD. Vintage Horizons fork. Farseer no longer shuts this off. Run with Cli</description>
+  </item>
+  <item>
+    <title>The Marginalia: Conjuction</title>
+    <link>https://mods.vintagestory.at/show/mod/tmcon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tmcon#11478</guid>
+    <pubDate>Thu, 03 Sep 2026 07:45:49 -0000</pubDate>
+    <description>The world is not held together; it is held. Raise the Anchorhold, feed it, and mind the fog.</description>
+  </item>
+  <item>
+    <title>Jelly Bundle</title>
+    <link>https://mods.vintagestory.at/show/mod/10059</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10059#10059</guid>
+    <pubDate>Thu, 03 Sep 2026 07:44:56 -0000</pubDate>
+    <description>A compilation of tweaks for the Swamp Jelly server.</description>
+  </item>
+  <item>
+    <title>race addition</title>
+    <link>https://mods.vintagestory.at/show/mod/10150</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10150#10150</guid>
+    <pubDate>Thu, 03 Sep 2026 07:00:08 -0000</pubDate>
+    <description>adds a race to my server</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/almanactcm</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanactcm#10453</guid>
+    <pubDate>Thu, 03 Sep 2026 06:25:39 -0000</pubDate>
+    <description>Twenty-two trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>RunicMagic</title>
+    <link>https://mods.vintagestory.at/show/mod/11486</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11486#11486</guid>
+    <pubDate>Thu, 03 Sep 2026 06:21:11 -0000</pubDate>
+    <description>Discover a world specific runic language, research its words, and write your own spells.</description>
+  </item>
+  <item>
+    <title>SRN</title>
+    <link>https://mods.vintagestory.at/show/mod/11510</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11510#11510</guid>
+    <pubDate>Thu, 03 Sep 2026 06:16:51 -0000</pubDate>
+    <description>A tweak for a mod</description>
+  </item>
+  <item>
+    <title>Grassroots</title>
+    <link>https://mods.vintagestory.at/show/mod/grassroots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
+    <pubDate>Thu, 03 Sep 2026 06:05:29 -0000</pubDate>
+    <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
+  </item>
+  <item>
+    <title>Grassroots Coca</title>
+    <link>https://mods.vintagestory.at/show/mod/grassrootscoca</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassrootscoca#10921</guid>
+    <pubDate>Thu, 03 Sep 2026 05:51:30 -0000</pubDate>
+    <description>Coca farming. Grow, dry, leech, refine, and recrystalize. Aim for the purest product.</description>
+  </item>
+  <item>
+    <title>Animalica Core</title>
+    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
+    <pubDate>Thu, 03 Sep 2026 05:25:35 -0000</pubDate>
+    <description>Core mod for playable animals. Does nothing on it's own</description>
+  </item>
+  <item>
+    <title>Animalica - Compatibility pack 2: (FotSA)</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicafotsa</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicafotsa#10561</guid>
+    <pubDate>Thu, 03 Sep 2026 05:21:38 -0000</pubDate>
+    <description>Adds clothing-capable playable models for six Fauna of the Stone Age modules</description>
+  </item>
+  <item>
+    <title>Temporally Stable Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tstweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tstweaks#5193</guid>
+    <pubDate>Thu, 03 Sep 2026 04:52:41 -0000</pubDate>
+    <description>Various tweaks for the Temporally Stable server.</description>
+  </item>
+  <item>
+    <title>Simple Voice Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
+    <pubDate>Thu, 03 Sep 2026 04:38:00 -0000</pubDate>
+    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
+  </item>
+  <item>
+    <title>Simple Voice Chat: ASR</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechatasr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechatasr#11509</guid>
+    <pubDate>Thu, 03 Sep 2026 04:30:43 -0000</pubDate>
+    <description>Whisper.net runtime dependencies for Simple Voice Chat local speech-to-chat.</description>
   </item>
   <item>
     <title>Wilderlands Onus Moderatus</title>
     <link>https://mods.vintagestory.at/show/mod/8790</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8790#8790</guid>
-    <pubDate>Thu, 03 Sep 2026 03:20:29 -0000</pubDate>
+    <pubDate>Thu, 03 Sep 2026 04:28:16 -0000</pubDate>
     <description>- Using One Hand as a dependancy, creates three inventory bar slots with one backpack slot open.</description>
+  </item>
+  <item>
+    <title>restrictedbarrels</title>
+    <link>https://mods.vintagestory.at/show/mod/restrictedbarrels</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/restrictedbarrels#11343</guid>
+    <pubDate>Thu, 03 Sep 2026 04:20:44 -0000</pubDate>
+    <description>Trait Requirements for Barrel Recipes</description>
+  </item>
+  <item>
+    <title>Walkable Deck (Experimental)</title>
+    <link>https://mods.vintagestory.at/show/mod/walkabledeck</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkabledeck#11390</guid>
+    <pubDate>Thu, 03 Sep 2026 04:18:25 -0000</pubDate>
+    <description>EXPERIMENTAL - Walk around on Shipwright boat decks while they sail. Requires Shipwright.</description>
+  </item>
+  <item>
+    <title>The Almanac: Illuminated</title>
+    <link>https://mods.vintagestory.at/show/mod/almanacilluminated</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanacilluminated#10454</guid>
+    <pubDate>Thu, 03 Sep 2026 04:11:21 -0000</pubDate>
+    <description>A living questbook opened with Alt+J. Chapters appear only for the mods you have loaded.</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Thu, 03 Sep 2026 04:04:58 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
+  <item>
+    <title>Age of Seraphs Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
+    <pubDate>Thu, 03 Sep 2026 03:50:23 -0000</pubDate>
+    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
   </item>
   <item>
     <title>Crucibulum</title>
@@ -67,153 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11321#11321</guid>
     <pubDate>Thu, 03 Sep 2026 01:26:25 -0000</pubDate>
     <description>An Addon for Adventurers Walking stick that allows the player to dynamically herd their Livestock</description>
-  </item>
-  <item>
-    <title>Riley's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
-    <pubDate>Thu, 03 Sep 2026 01:15:41 -0000</pubDate>
-    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
-  </item>
-  <item>
-    <title>Umbrella</title>
-    <link>https://mods.vintagestory.at/show/mod/umbrella</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/umbrella#11482</guid>
-    <pubDate>Thu, 03 Sep 2026 01:00:48 -0000</pubDate>
-    <description>Adds an umbrella that prevents you from getting wet in the rain.</description>
-  </item>
-  <item>
-    <title>Experiment Player Model</title>
-    <link>https://mods.vintagestory.at/show/mod/expieplayermodel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/expieplayermodel#7579</guid>
-    <pubDate>Thu, 03 Sep 2026 00:27:21 -0000</pubDate>
-    <description>Adds a playable Expie species from C:U and Gunsaw.</description>
-  </item>
-  <item>
-    <title>Temporal Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/9869</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9869#9869</guid>
-    <pubDate>Thu, 03 Sep 2026 00:26:27 -0000</pubDate>
-    <description>A simple Storage Solution using the power of Temporal Entanglement! (Now with actual sorting~)</description>
-  </item>
-  <item>
-    <title>xSkills Tailoring Aldi's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/xskillstailoringaldisclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xskillstailoringaldisclasses#11179</guid>
-    <pubDate>Thu, 03 Sep 2026 00:16:11 -0000</pubDate>
-    <description>A fork of "X-Skills Tailoring" made to be compatible with "xSkills X Aldi's Classes".</description>
-  </item>
-  <item>
-    <title>Komet - Performance Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/komet</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/komet#11423</guid>
-    <pubDate>Thu, 03 Sep 2026 00:06:20 -0000</pubDate>
-    <description>Komet is a performance mod, which optimizes the Vintage Story rendering.</description>
-  </item>
-  <item>
-    <title>VintageStory D'Août</title>
-    <link>https://mods.vintagestory.at/show/mod/vinstagestoryaout</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vinstagestoryaout#11164</guid>
-    <pubDate>Thu, 03 Sep 2026 00:03:34 -0000</pubDate>
-    <description> This modpack contains all the mods used on the Vintage Story server hosted by Pressea.</description>
-  </item>
-  <item>
-    <title>Seraph Leveling ReClassed</title>
-    <link>https://mods.vintagestory.at/show/mod/11234</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11234#11234</guid>
-    <pubDate>Thu, 03 Sep 2026 00:02:49 -0000</pubDate>
-    <description>Level up and gain traits in a vanilla-friendly way, with additional mod support</description>
-  </item>
-  <item>
-    <title>VintageSymphonyForked</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagesymphonyforked</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagesymphonyforked#11341</guid>
-    <pubDate>Thu, 03 Sep 2026 00:02:37 -0000</pubDate>
-    <description>Vintage Symphony is a situation-aware music engine replacement for Vintage Story, forked for 1.22</description>
-  </item>
-  <item>
-    <title>The Basics - Roleplay (RP) Proximity Chat and more!</title>
-    <link>https://mods.vintagestory.at/show/mod/thebasics</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thebasics#640</guid>
-    <pubDate>Thu, 03 Sep 2026 00:00:06 -0000</pubDate>
-    <description>Configurable Roleplay (RP) proximity chat system, various QoL features, and more!</description>
-  </item>
-  <item>
-    <title>More Flowers - Pink &amp; Purple</title>
-    <link>https://mods.vintagestory.at/show/mod/moreflowerspinkpurple</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreflowerspinkpurple#11503</guid>
-    <pubDate>Wed, 02 Sep 2026 23:28:42 -0000</pubDate>
-    <description>Add more varieties of flowers - Pink &amp; purple edition</description>
-  </item>
-  <item>
-    <title>Riley's Classes RP Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/rileysclassesrppatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclassesrppatch#10984</guid>
-    <pubDate>Wed, 02 Sep 2026 23:14:06 -0000</pubDate>
-    <description>An addon for Riley's Classes that rebalances the mod for RP Servers.</description>
-  </item>
-  <item>
-    <title>From Golden Combs</title>
-    <link>https://mods.vintagestory.at/show/mod/fromgoldencombs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fromgoldencombs#354</guid>
-    <pubDate>Wed, 02 Sep 2026 22:54:46 -0000</pubDate>
-    <description>Adds Ceramic Hives and Langstroth Hives with Configurable Production Rates and Times</description>
-  </item>
-  <item>
-    <title>Force Character Class Change</title>
-    <link>https://mods.vintagestory.at/show/mod/fccc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fccc#6356</guid>
-    <pubDate>Wed, 02 Sep 2026 22:51:20 -0000</pubDate>
-    <description>Forces all players to reselect their class.</description>
-  </item>
-  <item>
-    <title>Yols Ore Obfuscator (Anti-Xray)</title>
-    <link>https://mods.vintagestory.at/show/mod/8030</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8030#8030</guid>
-    <pubDate>Wed, 02 Sep 2026 22:51:11 -0000</pubDate>
-    <description>Makes Xray unuseable for players by sending fake blocks to clients</description>
-  </item>
-  <item>
-    <title>Slugcat Player Model</title>
-    <link>https://mods.vintagestory.at/show/mod/slugcatplayermodel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slugcatplayermodel#11395</guid>
-    <pubDate>Wed, 02 Sep 2026 22:50:16 -0000</pubDate>
-    <description>Adds a playable Slugcat species from the Rain World</description>
-  </item>
-  <item>
-    <title>Rift Traveler</title>
-    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
-    <pubDate>Wed, 02 Sep 2026 22:43:28 -0000</pubDate>
-    <description>Explore or close rifts, craft temporal tech, teleport home, and transmit cargo across dimensions</description>
-  </item>
-  <item>
-    <title>Scribe: Notes &amp; Tasks</title>
-    <link>https://mods.vintagestory.at/show/mod/scribe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scribe#10607</guid>
-    <pubDate>Wed, 02 Sep 2026 22:43:16 -0000</pubDate>
-    <description>Items and stations to take notes and track tasks in-game. Pin to-dos on your HUD. Multiplayer-ready.</description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/11476</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
-    <pubDate>Wed, 02 Sep 2026 22:43:09 -0000</pubDate>
-    <description>For details on content, please contact me directly via Discord.</description>
-  </item>
-  <item>
-    <title>Strike the earth! (WIP)</title>
-    <link>https://mods.vintagestory.at/show/mod/striketheearth</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/striketheearth#11502</guid>
-    <pubDate>Wed, 02 Sep 2026 22:37:30 -0000</pubDate>
-    <description>Allows to play as lore accurate dwarves and other races from dwarf fortress.</description>
-  </item>
-  <item>
-    <title>More Blood Thingies!</title>
-    <link>https://mods.vintagestory.at/show/mod/10959</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
-    <pubDate>Wed, 02 Sep 2026 22:25:28 -0000</pubDate>
-    <description>Adds all the features for bloodbread that should have been.</description>
   </item>
 </channel>
 </rss>
