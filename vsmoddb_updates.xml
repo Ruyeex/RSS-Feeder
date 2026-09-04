@@ -4,13 +4,69 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 04 Sep 2026 08:36:30 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 04 Sep 2026 13:15:35 +0000</lastBuildDate>
+  <item>
+    <title>More Buckets</title>
+    <link>https://mods.vintagestory.at/show/mod/morebuckets</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebuckets#11536</guid>
+    <pubDate>Fri, 04 Sep 2026 12:29:27 -0000</pubDate>
+    <description>Leave the exhausting trips to the spring behind and let the new buckets do the hard work</description>
+  </item>
+  <item>
+    <title>Boat Speed Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/boatspeedtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/boatspeedtweaks#9766</guid>
+    <pubDate>Fri, 04 Sep 2026 11:33:57 -0000</pubDate>
+    <description>Multiply Sailboats and Rafts speed by the configured factor, separately (default for both = 2.0)</description>
+  </item>
+  <item>
+    <title>Better forest</title>
+    <link>https://mods.vintagestory.at/show/mod/betterforest</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterforest#3300</guid>
+    <pubDate>Fri, 04 Sep 2026 11:04:53 -0000</pubDate>
+    <description>Improved forest and tree generation. No new blocks. No impact on performance. Only server side.</description>
+  </item>
+  <item>
+    <title>GG Server Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/6863</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6863#6863</guid>
+    <pubDate>Fri, 04 Sep 2026 10:50:09 -0000</pubDate>
+    <description>Some extra recipes and/or content for the server</description>
+  </item>
   <item>
     <title>Panning Machine</title>
     <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
-    <pubDate>Fri, 04 Sep 2026 08:35:44 -0000</pubDate>
+    <pubDate>Fri, 04 Sep 2026 10:48:45 -0000</pubDate>
     <description>Simple machine for panning</description>
+  </item>
+  <item>
+    <title>Atlas</title>
+    <link>https://mods.vintagestory.at/show/mod/atlas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
+    <pubDate>Fri, 04 Sep 2026 10:32:17 -0000</pubDate>
+    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Fri, 04 Sep 2026 10:24:04 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>NDL Villagers</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlvillagers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlvillagers#3429</guid>
+    <pubDate>Fri, 04 Sep 2026 09:18:07 -0000</pubDate>
+    <description>Adds Villagers/Guards/Clerics to populate your builds and also a way to get traders in your builds!</description>
+  </item>
+  <item>
+    <title>Yang's Transport Tycoon</title>
+    <link>https://mods.vintagestory.at/show/mod/yangtransport</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yangtransport#6871</guid>
+    <pubDate>Fri, 04 Sep 2026 09:12:37 -0000</pubDate>
+    <description>Construct and operate industrial transport machinery.</description>
   </item>
   <item>
     <title>Just Poop It</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waywheel#11526</guid>
     <pubDate>Fri, 04 Sep 2026 03:00:47 -0000</pubDate>
     <description>A modular radial-menu framework for quick access to tools and gear with built-in backpack support!</description>
-  </item>
-  <item>
-    <title>Animalica Core</title>
-    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
-    <pubDate>Fri, 04 Sep 2026 02:44:27 -0000</pubDate>
-    <description>Core mod for playable animals. Does nothing on it's own</description>
-  </item>
-  <item>
-    <title>Rift Traveler</title>
-    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
-    <pubDate>Fri, 04 Sep 2026 02:11:37 -0000</pubDate>
-    <description>Explore or close rifts, craft temporal tech, teleport home, and transmit cargo across dimensions</description>
-  </item>
-  <item>
-    <title>Rustbound Magic</title>
-    <link>https://mods.vintagestory.at/show/mod/rustboundmagic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustboundmagic#1290</guid>
-    <pubDate>Fri, 04 Sep 2026 00:54:55 -0000</pubDate>
-    <description>Adds magic to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Kobold Player Model Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/koboldrdx</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/koboldrdx#4814</guid>
-    <pubDate>Fri, 04 Sep 2026 00:38:11 -0000</pubDate>
-    <description>A complete 1.21+ remake of Soi's Kobold player model, for PlayerModelLib by Maltiez!</description>
-  </item>
-  <item>
-    <title>Steep and Brew</title>
-    <link>https://mods.vintagestory.at/show/mod/steepandbrew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/steepandbrew#8438</guid>
-    <pubDate>Fri, 04 Sep 2026 00:18:16 -0000</pubDate>
-    <description>A simplified brewing and steeping mod</description>
-  </item>
-  <item>
-    <title>Ancient Weaponry</title>
-    <link>https://mods.vintagestory.at/show/mod/ancientweaponry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancientweaponry#5406</guid>
-    <pubDate>Fri, 04 Sep 2026 00:14:44 -0000</pubDate>
-    <description>Adds currently 4 new weaponry to the game from medieval and primitive times.</description>
-  </item>
-  <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Thu, 03 Sep 2026 23:32:33 -0000</pubDate>
-    <description>The factory must grow!</description>
-  </item>
-  <item>
-    <title>Simple Water Tweaks VSR patch</title>
-    <link>https://mods.vintagestory.at/show/mod/swtvsr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swtvsr#9211</guid>
-    <pubDate>Thu, 03 Sep 2026 22:54:43 -0000</pubDate>
-    <description>Adds compatibility between Simple Water Tweaks and various shader mods</description>
   </item>
 </channel>
 </rss>
