@@ -4,13 +4,76 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 04 Sep 2026 20:27:59 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 04 Sep 2026 22:51:14 +0000</lastBuildDate>
+  <item>
+    <title>Umbrella</title>
+    <link>https://mods.vintagestory.at/show/mod/umbrella</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/umbrella#11482</guid>
+    <pubDate>Fri, 04 Sep 2026 22:04:22 -0000</pubDate>
+    <description>Adds an umbrella that prevents you from getting wet in the rain.</description>
+  </item>
+  <item>
+    <title>RiftLauncher - Independent launcher software.</title>
+    <link>https://mods.vintagestory.at/show/mod/riftlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftlauncher#11016</guid>
+    <pubDate>Fri, 04 Sep 2026 22:01:52 -0000</pubDate>
+    <description>Focused on multiple versions and installations, safe backups and, mod browsing built in.</description>
+  </item>
+  <item>
+    <title>Conquest VS Edition + Advanced Geology patch</title>
+    <link>https://mods.vintagestory.at/show/mod/11547</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11547#11547</guid>
+    <pubDate>Fri, 04 Sep 2026 21:25:03 -0000</pubDate>
+    <description>Conquest VS Edition Compatibility for Advanced Geology</description>
+  </item>
+  <item>
+    <title>Florasphere (plant and worldgen)</title>
+    <link>https://mods.vintagestory.at/show/mod/florasphere</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/florasphere#1792</guid>
+    <pubDate>Fri, 04 Sep 2026 21:11:45 -0000</pubDate>
+    <description>Revised plant world generation. Adds 7 new species of trees, and small trees, shrubs and palm tree.</description>
+  </item>
+  <item>
+    <title>Aldi's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/aldiclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aldiclasses#5327</guid>
+    <pubDate>Fri, 04 Sep 2026 20:55:37 -0000</pubDate>
+    <description>An extremely stable, compatible and customizable classes mod!</description>
+  </item>
+  <item>
+    <title>Desk Picture Frame Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/deskpictureframe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deskpictureframe#5163</guid>
+    <pubDate>Fri, 04 Sep 2026 20:50:14 -0000</pubDate>
+    <description>Adds Desk Picture Frames and Wall Frames - Can add your own images via the mod config folder</description>
+  </item>
+  <item>
+    <title>Yang's Transport Tycoon</title>
+    <link>https://mods.vintagestory.at/show/mod/yangtransport</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yangtransport#6871</guid>
+    <pubDate>Fri, 04 Sep 2026 20:49:40 -0000</pubDate>
+    <description>Construct and operate industrial transport machinery.</description>
+  </item>
+  <item>
+    <title>Waxlight Launcher</title>
+    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
+    <pubDate>Fri, 04 Sep 2026 20:46:06 -0000</pubDate>
+    <description>Manage Vintage Story instances, mods, versions and accounts from one modern launcher</description>
+  </item>
   <item>
     <title>Strike the earth! (WIP)</title>
     <link>https://mods.vintagestory.at/show/mod/striketheearth</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/striketheearth#11502</guid>
-    <pubDate>Fri, 04 Sep 2026 20:24:34 -0000</pubDate>
+    <pubDate>Fri, 04 Sep 2026 20:44:59 -0000</pubDate>
     <description>Allows to play as lore accurate dwarves and other races from dwarf fortress.</description>
+  </item>
+  <item>
+    <title>Integrated Mod Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/imm</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/imm#11458</guid>
+    <pubDate>Fri, 04 Sep 2026 20:28:01 -0000</pubDate>
+    <description>Configure your mods, fetch dependencies, and resolve conflicts entirely in-game!</description>
   </item>
   <item>
     <title>Make Beer</title>
@@ -32,13 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9765#9765</guid>
     <pubDate>Fri, 04 Sep 2026 19:35:41 -0000</pubDate>
     <description>Adds 53 removable and swappable card backs to Tabletop Games with safe deck tracking, configuration,</description>
-  </item>
-  <item>
-    <title>Conquest VS Edition + Advanced Geology patch</title>
-    <link>https://mods.vintagestory.at/show/mod/11547</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11547#11547</guid>
-    <pubDate>Fri, 04 Sep 2026 19:33:09 -0000</pubDate>
-    <description>Conquest VS Edition Compatibility for Advanced Geology</description>
   </item>
   <item>
     <title>Stone Support Beam</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11541#11541</guid>
     <pubDate>Fri, 04 Sep 2026 16:08:02 -0000</pubDate>
     <description>Adding skills compat for Shipwright ships!</description>
-  </item>
-  <item>
-    <title>Default Class Edits</title>
-    <link>https://mods.vintagestory.at/show/mod/11539</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11539#11539</guid>
-    <pubDate>Fri, 04 Sep 2026 15:59:11 -0000</pubDate>
-    <description>Small changes to default classes to try and make them equally rewarding</description>
-  </item>
-  <item>
-    <title>Guilds quests and coins</title>
-    <link>https://mods.vintagestory.at/show/mod/11484</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11484#11484</guid>
-    <pubDate>Fri, 04 Sep 2026 15:49:35 -0000</pubDate>
-    <description>12 cechów rzemieślniczych, 6 rang reputacji, waluta Ershin Coins i 120+ zleceń osady.</description>
-  </item>
-  <item>
-    <title>NSGC [Noshift Gridcraft]</title>
-    <link>https://mods.vintagestory.at/show/mod/nsgc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nsgc#11538</guid>
-    <pubDate>Fri, 04 Sep 2026 15:48:23 -0000</pubDate>
-    <description>Removes the ability to shift-craft multiple items in the grid.</description>
-  </item>
-  <item>
-    <title>C&amp;N Antique Atlas</title>
-    <link>https://mods.vintagestory.at/show/mod/5444</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5444#5444</guid>
-    <pubDate>Fri, 04 Sep 2026 15:28:45 -0000</pubDate>
-    <description>Replacement of default map with item atlas</description>
-  </item>
-  <item>
-    <title>Vintage Malware</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagemalware</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagemalware#11487</guid>
-    <pubDate>Fri, 04 Sep 2026 15:22:27 -0000</pubDate>
-    <description>Like an AI gaming assistant, but better! Random chatter and silly messages</description>
-  </item>
-  <item>
-    <title>Angler's Catch</title>
-    <link>https://mods.vintagestory.at/show/mod/anglerscatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/anglerscatch#10809</guid>
-    <pubDate>Fri, 04 Sep 2026 15:12:46 -0000</pubDate>
-    <description>Adds length and size to the vanilla fish, fish in the top 20% get a Trophy Tag</description>
-  </item>
-  <item>
-    <title>AstraTerra</title>
-    <link>https://mods.vintagestory.at/show/mod/8706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
-    <pubDate>Fri, 04 Sep 2026 15:09:12 -0000</pubDate>
-    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
-  </item>
-  <item>
-    <title>Acervus Lapidum</title>
-    <link>https://mods.vintagestory.at/show/mod/11331</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11331#11331</guid>
-    <pubDate>Fri, 04 Sep 2026 15:06:18 -0000</pubDate>
-    <description>Pile rocks the way you want it, make a wall if you want. Immeeeersive ...</description>
   </item>
 </channel>
 </rss>
