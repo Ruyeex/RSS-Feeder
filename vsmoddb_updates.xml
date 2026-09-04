@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 03 Sep 2026 23:03:28 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 04 Sep 2026 03:33:41 +0000</lastBuildDate>
+  <item>
+    <title>Waywheel</title>
+    <link>https://mods.vintagestory.at/show/mod/waywheel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waywheel#11526</guid>
+    <pubDate>Fri, 04 Sep 2026 03:00:47 -0000</pubDate>
+    <description>A modular radial-menu framework for quick access to tools and gear with built-in backpack support!</description>
+  </item>
+  <item>
+    <title>Animalica Core</title>
+    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
+    <pubDate>Fri, 04 Sep 2026 02:44:27 -0000</pubDate>
+    <description>Core mod for playable animals. Does nothing on it's own</description>
+  </item>
+  <item>
+    <title>Rift Traveler</title>
+    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
+    <pubDate>Fri, 04 Sep 2026 02:11:37 -0000</pubDate>
+    <description>Explore or close rifts, craft temporal tech, teleport home, and transmit cargo across dimensions</description>
+  </item>
+  <item>
+    <title>Rustbound Magic</title>
+    <link>https://mods.vintagestory.at/show/mod/rustboundmagic</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustboundmagic#1290</guid>
+    <pubDate>Fri, 04 Sep 2026 00:54:55 -0000</pubDate>
+    <description>Adds magic to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Kobold Player Model Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/koboldrdx</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/koboldrdx#4814</guid>
+    <pubDate>Fri, 04 Sep 2026 00:38:11 -0000</pubDate>
+    <description>A complete 1.21+ remake of Soi's Kobold player model, for PlayerModelLib by Maltiez!</description>
+  </item>
+  <item>
+    <title>moontweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/moontweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moontweaks#11454</guid>
+    <pubDate>Fri, 04 Sep 2026 00:19:04 -0000</pubDate>
+    <description>Server-side Lua scripting! Add mod compat &amp; make new recipes with ease.</description>
+  </item>
+  <item>
+    <title>Steep and Brew</title>
+    <link>https://mods.vintagestory.at/show/mod/steepandbrew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/steepandbrew#8438</guid>
+    <pubDate>Fri, 04 Sep 2026 00:18:16 -0000</pubDate>
+    <description>A simplified brewing and steeping mod</description>
+  </item>
+  <item>
+    <title>Ancient Weaponry</title>
+    <link>https://mods.vintagestory.at/show/mod/ancientweaponry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancientweaponry#5406</guid>
+    <pubDate>Fri, 04 Sep 2026 00:14:44 -0000</pubDate>
+    <description>Adds currently 4 new weaponry to the game from medieval and primitive times.</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Thu, 03 Sep 2026 23:32:33 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
   <item>
     <title>Simple Water Tweaks VSR patch</title>
     <link>https://mods.vintagestory.at/show/mod/swtvsr</link>
@@ -32,13 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cleanlib#11440</guid>
     <pubDate>Thu, 03 Sep 2026 22:43:07 -0000</pubDate>
     <description>Configlib Fork </description>
-  </item>
-  <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Thu, 03 Sep 2026 21:44:36 -0000</pubDate>
-    <description>The factory must grow!</description>
   </item>
   <item>
     <title>Mandarjins Increased Lights</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8711#8711</guid>
     <pubDate>Thu, 03 Sep 2026 18:42:52 -0000</pubDate>
     <description>Terrible and dirty hack to allow you to feed alcohol to locomotives.</description>
-  </item>
-  <item>
-    <title>Slabbity-Do-Dad</title>
-    <link>https://mods.vintagestory.at/show/mod/slabbity</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slabbity#11521</guid>
-    <pubDate>Thu, 03 Sep 2026 18:33:39 -0000</pubDate>
-    <description>Displays an outline of where your slab will be placed</description>
-  </item>
-  <item>
-    <title>Wildcraft x SONZINA's storage mods compatability</title>
-    <link>https://mods.vintagestory.at/show/mod/wildcrafttreesonzinastoragecompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wildcrafttreesonzinastoragecompat#11410</guid>
-    <pubDate>Thu, 03 Sep 2026 18:18:00 -0000</pubDate>
-    <description>Adds wood types from Wildcraft: Trees and Shrubs for storage blocks from SONZINA's mods.</description>
-  </item>
-  <item>
-    <title>Craftable Locusts</title>
-    <link>https://mods.vintagestory.at/show/mod/craftablelocusts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/craftablelocusts#7870</guid>
-    <pubDate>Thu, 03 Sep 2026 17:55:29 -0000</pubDate>
-    <description>Woe, locust upon ye clockmaker.</description>
-  </item>
-  <item>
-    <title>LibGUI - Toolsmith patch</title>
-    <link>https://mods.vintagestory.at/show/mod/11022</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11022#11022</guid>
-    <pubDate>Thu, 03 Sep 2026 17:48:08 -0000</pubDate>
-    <description>A LibGUI patch for Toolsmith sharpness</description>
-  </item>
-  <item>
-    <title>Raccoon Traits Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/racctraits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/racctraits#8742</guid>
-    <pubDate>Thu, 03 Sep 2026 17:25:37 -0000</pubDate>
-    <description>Adds 2 more traits to Raccoons from Raccoon Player Model.</description>
-  </item>
-  <item>
-    <title>Racial Equality Traits</title>
-    <link>https://mods.vintagestory.at/show/mod/raeqtraits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/raeqtraits#9133</guid>
-    <pubDate>Thu, 03 Sep 2026 17:18:53 -0000</pubDate>
-    <description>Adds just traits to the races from Racial Equality.</description>
-  </item>
-  <item>
-    <title>Just Kobold Traits</title>
-    <link>https://mods.vintagestory.at/show/mod/justkt518</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justkt518#8735</guid>
-    <pubDate>Thu, 03 Sep 2026 17:15:05 -0000</pubDate>
-    <description>Adds just traits to Kobolds from Kobold Player Redux.</description>
-  </item>
-  <item>
-    <title>Realistic Soap</title>
-    <link>https://mods.vintagestory.at/show/mod/realisticsoap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticsoap#10983</guid>
-    <pubDate>Thu, 03 Sep 2026 16:57:07 -0000</pubDate>
-    <description>Leach wood ash into lye, boil it with fat, cure the bars, then wash, because being filthy now costs</description>
   </item>
 </channel>
 </rss>
