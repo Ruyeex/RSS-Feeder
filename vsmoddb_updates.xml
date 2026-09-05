@@ -4,7 +4,154 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 05 Sep 2026 16:37:32 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 18:52:00 +0000</lastBuildDate>
+  <item>
+    <title>Crown &amp; Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/11476</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
+    <pubDate>Sat, 05 Sep 2026 18:46:36 -0000</pubDate>
+    <description>For details on content, please contact me directly via Discord.</description>
+  </item>
+  <item>
+    <title>Crown &amp; Coalition Chapter 2</title>
+    <link>https://mods.vintagestory.at/show/mod/11428</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
+    <pubDate>Sat, 05 Sep 2026 18:46:16 -0000</pubDate>
+    <description>Chapter 2 additions for C&amp;C.</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Sat, 05 Sep 2026 18:41:25 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>Alegacy Quest Framework</title>
+    <link>https://mods.vintagestory.at/show/mod/alegacyquestframework</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyquestframework#6609</guid>
+    <pubDate>Sat, 05 Sep 2026 18:17:15 -0000</pubDate>
+    <description>Alegacy Quest Framework is a full-featured quest and boss combat engine for Vintage Story.</description>
+  </item>
+  <item>
+    <title>Too Many Tabs! Scrollable Creative Inventory Tabs</title>
+    <link>https://mods.vintagestory.at/show/mod/10835</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10835#10835</guid>
+    <pubDate>Sat, 05 Sep 2026 18:15:44 -0000</pubDate>
+    <description>Replaces the old side-tabs with a scrollable menu. Because otherwise you run out of space.</description>
+  </item>
+  <item>
+    <title>Arcanum Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/arcanumlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arcanumlib#11325</guid>
+    <pubDate>Sat, 05 Sep 2026 18:15:16 -0000</pubDate>
+    <description>A shared utility library for Vintage Story: HUD, particles, effects, persistence, and more.</description>
+  </item>
+  <item>
+    <title>Alegacy patches</title>
+    <link>https://mods.vintagestory.at/show/mod/6997</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6997#6997</guid>
+    <pubDate>Sat, 05 Sep 2026 18:14:41 -0000</pubDate>
+    <description>targeted patches for the Alegacy server setup</description>
+  </item>
+  <item>
+    <title>Alegacy: Foundation</title>
+    <link>https://mods.vintagestory.at/show/mod/albase</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/albase#6694</guid>
+    <pubDate>Sat, 05 Sep 2026 18:13:44 -0000</pubDate>
+    <description>Foundation quest pack for the Alegacy Server.</description>
+  </item>
+  <item>
+    <title>Hungry While Injured (mostly implemented in 1.22)</title>
+    <link>https://mods.vintagestory.at/show/mod/hungerpatcher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hungerpatcher#5180</guid>
+    <pubDate>Sat, 05 Sep 2026 18:04:46 -0000</pubDate>
+    <description>A healing body requires sustenance.</description>
+  </item>
+  <item>
+    <title>Stacked Items Cool Slower</title>
+    <link>https://mods.vintagestory.at/show/mod/scs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scs#7642</guid>
+    <pubDate>Sat, 05 Sep 2026 18:04:20 -0000</pubDate>
+    <description>A stack of items cools slower than a single item. This is a fact of basic thermomadymananamic stuff.</description>
+  </item>
+  <item>
+    <title>C&amp;N Jewelry</title>
+    <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
+    <pubDate>Sat, 05 Sep 2026 18:03:59 -0000</pubDate>
+    <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
+  </item>
+  <item>
+    <title>Better Bear Armor</title>
+    <link>https://mods.vintagestory.at/show/mod/10439</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10439#10439</guid>
+    <pubDate>Sat, 05 Sep 2026 18:02:43 -0000</pubDate>
+    <description>Repair bear armor with any hide, not just bear pelts — cost scales with size and armor material.</description>
+  </item>
+  <item>
+    <title>Expanded Stomach</title>
+    <link>https://mods.vintagestory.at/show/mod/expandedstomach</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/expandedstomach#4548</guid>
+    <pubDate>Sat, 05 Sep 2026 18:02:30 -0000</pubDate>
+    <description>Eat more. Less often</description>
+  </item>
+  <item>
+    <title>Open Configuration</title>
+    <link>https://mods.vintagestory.at/show/mod/openconfiguration</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/openconfiguration#11550</guid>
+    <pubDate>Sat, 05 Sep 2026 18:01:21 -0000</pubDate>
+    <description>GUI for changing configuration &amp; API for mods</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Sat, 05 Sep 2026 17:52:49 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>Salty's Chiseled World</title>
+    <link>https://mods.vintagestory.at/show/mod/chiseledworld</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseledworld#10510</guid>
+    <pubDate>Sat, 05 Sep 2026 17:27:02 -0000</pubDate>
+    <description>Trees are chiseled! Client side!</description>
+  </item>
+  <item>
+    <title>VintageSymphonyForked</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagesymphonyforked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagesymphonyforked#11341</guid>
+    <pubDate>Sat, 05 Sep 2026 17:26:32 -0000</pubDate>
+    <description>Vintage Symphony is a situation-aware music engine replacement for Vintage Story, forked for 1.22</description>
+  </item>
+  <item>
+    <title>OldMans Enhanced Edition</title>
+    <link>https://mods.vintagestory.at/show/mod/oldmansenhancededition</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oldmansenhancededition#5339</guid>
+    <pubDate>Sat, 05 Sep 2026 17:20:38 -0000</pubDate>
+    <description>(WIP) Custom curated way of experiencing VS</description>
+  </item>
+  <item>
+    <title>The Quire Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/tqp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tqp#10455</guid>
+    <pubDate>Sat, 05 Sep 2026 17:19:20 -0000</pubDate>
+    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
+  </item>
+  <item>
+    <title>Overhaul lib legacy compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/overhaulliblegacycompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/overhaulliblegacycompat#8401</guid>
+    <pubDate>Sat, 05 Sep 2026 16:58:55 -0000</pubDate>
+    <description>Compat for firearms, crossbows, combatoverhaul</description>
+  </item>
+  <item>
+    <title>W4RD0's Furniture</title>
+    <link>https://mods.vintagestory.at/show/mod/w4rd0sfurniture</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/w4rd0sfurniture#11214</guid>
+    <pubDate>Sat, 05 Sep 2026 16:52:55 -0000</pubDate>
+    <description>A furniture pack adding detailed furniture like tables, chairs, couches, beds, shelves &amp; a lot more.</description>
+  </item>
   <item>
     <title>Method Gaming Core</title>
     <link>https://mods.vintagestory.at/show/mod/methodgamingcore</link>
@@ -67,153 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
     <pubDate>Sat, 05 Sep 2026 15:00:11 -0000</pubDate>
     <description>JSON content patches</description>
-  </item>
-  <item>
-    <title>Inventory Transfer</title>
-    <link>https://mods.vintagestory.at/show/mod/7383</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7383#7383</guid>
-    <pubDate>Sat, 05 Sep 2026 14:56:31 -0000</pubDate>
-    <description>Take your loot to a new world!</description>
-  </item>
-  <item>
-    <title>XSkillsShipwrightCompat</title>
-    <link>https://mods.vintagestory.at/show/mod/11541</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11541#11541</guid>
-    <pubDate>Sat, 05 Sep 2026 14:04:40 -0000</pubDate>
-    <description>Adding skills compat for Shipwright ships!</description>
-  </item>
-  <item>
-    <title>BetterTranslations</title>
-    <link>https://mods.vintagestory.at/show/mod/bettertranslations</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettertranslations#3016</guid>
-    <pubDate>Sat, 05 Sep 2026 13:42:02 -0000</pubDate>
-    <description>Translations from the Community for all kinds of mods. All credits to the translators!</description>
-  </item>
-  <item>
-    <title>Komet - Performance Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/komet</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/komet#11423</guid>
-    <pubDate>Sat, 05 Sep 2026 13:41:22 -0000</pubDate>
-    <description>Komet is a performance mod, which optimizes the Vintage Story!</description>
-  </item>
-  <item>
-    <title>Advanced Chests Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/ach</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ach#9600</guid>
-    <pubDate>Sat, 05 Sep 2026 13:37:49 -0000</pubDate>
-    <description>Adds chests with specific function to the game</description>
-  </item>
-  <item>
-    <title>BotaniaStory</title>
-    <link>https://mods.vintagestory.at/show/mod/8113</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8113#8113</guid>
-    <pubDate>Sat, 05 Sep 2026 13:08:29 -0000</pubDate>
-    <description>BotaniaStory - nature magic, mana, and automation in Vintage Story!</description>
-  </item>
-  <item>
-    <title>Clockface</title>
-    <link>https://mods.vintagestory.at/show/mod/clock</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clock#11555</guid>
-    <pubDate>Sat, 05 Sep 2026 12:51:53 -0000</pubDate>
-    <description>2 working clock faces, they keep game time, large for a clock tower, small for a personal clock</description>
-  </item>
-  <item>
-    <title>Orca Player Model With Clothes</title>
-    <link>https://mods.vintagestory.at/show/mod/11180</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11180#11180</guid>
-    <pubDate>Sat, 05 Sep 2026 12:03:11 -0000</pubDate>
-    <description>Adds a variant of orcafolks to the main mod that displays clothing</description>
-  </item>
-  <item>
-    <title>C&amp;N Jewelry</title>
-    <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
-    <pubDate>Sat, 05 Sep 2026 11:40:53 -0000</pubDate>
-    <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
-  </item>
-  <item>
-    <title>Fishy Bucket</title>
-    <link>https://mods.vintagestory.at/show/mod/fishybucket</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fishybucket#9877</guid>
-    <pubDate>Sat, 05 Sep 2026 11:38:18 -0000</pubDate>
-    <description>Catch a fish with an empty wooden bucket, then release it alive at a different location.</description>
-  </item>
-  <item>
-    <title>Injury Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/9695</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9695#9695</guid>
-    <pubDate>Sat, 05 Sep 2026 11:26:09 -0000</pubDate>
-    <description>An Injury, Diagnosis and Treatment system</description>
-  </item>
-  <item>
-    <title>Frontier Claims Map</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
-    <pubDate>Sat, 05 Sep 2026 11:20:53 -0000</pubDate>
-    <description>Claim map and access controls for internal testing on a private server.</description>
-  </item>
-  <item>
-    <title>No Bear Jetpacks</title>
-    <link>https://mods.vintagestory.at/show/mod/nobearjetpacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nobearjetpacks#1544</guid>
-    <pubDate>Sat, 05 Sep 2026 10:51:00 -0000</pubDate>
-    <description>Reduces bear step height to 2.2 blocks to avoid some amount of crazy tree and wall climbing.</description>
-  </item>
-  <item>
-    <title>DragoniaQuests</title>
-    <link>https://mods.vintagestory.at/show/mod/10737</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10737#10737</guid>
-    <pubDate>Sat, 05 Sep 2026 10:42:10 -0000</pubDate>
-    <description>Quests from server Dragonia from based on alegacy base.</description>
-  </item>
-  <item>
-    <title>Animalica - Compatibility pack 2: (FotSA)</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicafotsa</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicafotsa#10561</guid>
-    <pubDate>Sat, 05 Sep 2026 10:21:29 -0000</pubDate>
-    <description>Adds clothing-capable playable models for six Fauna of the Stone Age modules</description>
-  </item>
-  <item>
-    <title>Animalica - Compatibility pack 1</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicac</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicac#9798</guid>
-    <pubDate>Sat, 05 Sep 2026 10:20:51 -0000</pubDate>
-    <description>Adds a small list of modded animals as players!</description>
-  </item>
-  <item>
-    <title>Animalica - Small &amp; Odd</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicaso</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaso#9796</guid>
-    <pubDate>Sat, 05 Sep 2026 10:20:13 -0000</pubDate>
-    <description>Adds the small goober animals like raccoons, chickens, and rabbits as players</description>
-  </item>
-  <item>
-    <title> Immersive Mining &amp;  Player Model Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/9271</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9271#9271</guid>
-    <pubDate>Sat, 05 Sep 2026 10:05:26 -0000</pubDate>
-    <description>This fixes a crash with Immersive mining when used with Player model Lib.</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sat, 05 Sep 2026 09:04:51 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>RiverWheel</title>
-    <link>https://mods.vintagestory.at/show/mod/11522</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11522#11522</guid>
-    <pubDate>Sat, 05 Sep 2026 08:55:35 -0000</pubDate>
-    <description>Configurable water wheels for the Rivers mod</description>
-  </item>
-  <item>
-    <title>Integrated Mod Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/imm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/imm#11458</guid>
-    <pubDate>Sat, 05 Sep 2026 08:53:02 -0000</pubDate>
-    <description>Configure your mods, fetch dependencies, and resolve conflicts entirely in-game!</description>
   </item>
 </channel>
 </rss>
