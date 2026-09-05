@@ -4,7 +4,35 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 04 Sep 2026 22:51:14 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 00:42:23 +0000</lastBuildDate>
+  <item>
+    <title>Offline No Spoil</title>
+    <link>https://mods.vintagestory.at/show/mod/offlinenospoil</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/offlinenospoil#10816</guid>
+    <pubDate>Sat, 05 Sep 2026 00:02:58 -0000</pubDate>
+    <description>Preserves perishable food in offline inventories and configured containers.</description>
+  </item>
+  <item>
+    <title>Komet - Performance Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/komet</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/komet#11423</guid>
+    <pubDate>Fri, 04 Sep 2026 23:42:10 -0000</pubDate>
+    <description>Komet is a performance mod, which optimizes the Vintage Story!</description>
+  </item>
+  <item>
+    <title>Mixing bowl patch</title>
+    <link>https://mods.vintagestory.at/show/mod/11282</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11282#11282</guid>
+    <pubDate>Fri, 04 Sep 2026 23:11:49 -0000</pubDate>
+    <description>ACA and Xskills patch</description>
+  </item>
+  <item>
+    <title>Vintage Malware</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagemalware</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagemalware#11487</guid>
+    <pubDate>Fri, 04 Sep 2026 22:58:07 -0000</pubDate>
+    <description>Like an AI gaming assistant, but better! Random chatter and silly messages</description>
+  </item>
   <item>
     <title>Umbrella</title>
     <link>https://mods.vintagestory.at/show/mod/umbrella</link>
@@ -186,34 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plumbandcubefork#9470</guid>
     <pubDate>Fri, 04 Sep 2026 17:14:22 -0000</pubDate>
     <description>Fork of Plumb and Cube for 1.22</description>
-  </item>
-  <item>
-    <title>Mod for Skyblock server</title>
-    <link>https://mods.vintagestory.at/show/mod/skyone</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skyone#2831</guid>
-    <pubDate>Fri, 04 Sep 2026 16:40:52 -0000</pubDate>
-    <description>Mod tailored for public Multiplayer Skyblock Economy server. --&gt;&gt; www.vintagestory.cz/skyblock</description>
-  </item>
-  <item>
-    <title>Server Leaderboard statistics</title>
-    <link>https://mods.vintagestory.at/show/mod/leaderboard</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaderboard#8191</guid>
-    <pubDate>Fri, 04 Sep 2026 16:31:56 -0000</pubDate>
-    <description>Set of leaderboards statistics</description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Chapter 2</title>
-    <link>https://mods.vintagestory.at/show/mod/11428</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
-    <pubDate>Fri, 04 Sep 2026 16:22:39 -0000</pubDate>
-    <description>Chapter 2 additions for C&amp;C.</description>
-  </item>
-  <item>
-    <title>XSkillsShipwrightCompat</title>
-    <link>https://mods.vintagestory.at/show/mod/11541</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11541#11541</guid>
-    <pubDate>Fri, 04 Sep 2026 16:08:02 -0000</pubDate>
-    <description>Adding skills compat for Shipwright ships!</description>
   </item>
 </channel>
 </rss>
