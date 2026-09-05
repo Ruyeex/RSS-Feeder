@@ -4,7 +4,140 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 05 Sep 2026 05:22:13 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 10:10:47 +0000</lastBuildDate>
+  <item>
+    <title> Immersive Mining &amp;  Player Model Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/9271</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9271#9271</guid>
+    <pubDate>Sat, 05 Sep 2026 10:05:26 -0000</pubDate>
+    <description>This fixes a crash with Immersive mining when used with Player model Lib.</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sat, 05 Sep 2026 09:04:51 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>RiverWheel</title>
+    <link>https://mods.vintagestory.at/show/mod/11522</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11522#11522</guid>
+    <pubDate>Sat, 05 Sep 2026 08:55:35 -0000</pubDate>
+    <description>Configurable water wheels for the Rivers mod</description>
+  </item>
+  <item>
+    <title>Integrated Mod Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/imm</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/imm#11458</guid>
+    <pubDate>Sat, 05 Sep 2026 08:53:02 -0000</pubDate>
+    <description>Configure your mods, fetch dependencies, and resolve conflicts entirely in-game!</description>
+  </item>
+  <item>
+    <title>FendragonSMP Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/fendragonsmpfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonsmpfork#11554</guid>
+    <pubDate>Sat, 05 Sep 2026 08:51:48 -0000</pubDate>
+    <description>Fork version of FendragonSMP for Fendragon server</description>
+  </item>
+  <item>
+    <title>DragoniaQuests</title>
+    <link>https://mods.vintagestory.at/show/mod/10737</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10737#10737</guid>
+    <pubDate>Sat, 05 Sep 2026 08:46:52 -0000</pubDate>
+    <description>Quests from server Dragonia from based on alegacy base.</description>
+  </item>
+  <item>
+    <title>Enhanced Thunder Sounds</title>
+    <link>https://mods.vintagestory.at/show/mod/10185</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10185#10185</guid>
+    <pubDate>Sat, 05 Sep 2026 08:38:46 -0000</pubDate>
+    <description>Adds random sound variety to thunder — no more hearing the same 4 claps on repeat.</description>
+  </item>
+  <item>
+    <title>True Third Person</title>
+    <link>https://mods.vintagestory.at/show/mod/truethirdperson</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/truethirdperson#5067</guid>
+    <pubDate>Sat, 05 Sep 2026 08:12:52 -0000</pubDate>
+    <description>True Third Person aims to provide a different approach to playing in third person.</description>
+  </item>
+  <item>
+    <title>Simple Entity HealthBar</title>
+    <link>https://mods.vintagestory.at/show/mod/simplehealthbar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplehealthbar#4926</guid>
+    <pubDate>Sat, 05 Sep 2026 08:12:09 -0000</pubDate>
+    <description>Simple Entity Healthbar</description>
+  </item>
+  <item>
+    <title>Item Pickup Highlighter</title>
+    <link>https://mods.vintagestory.at/show/mod/4287</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4287#4287</guid>
+    <pubDate>Sat, 05 Sep 2026 08:09:37 -0000</pubDate>
+    <description>Simple client side mod that allows you to reveal nearby items on the ground</description>
+  </item>
+  <item>
+    <title>Floating Combat Text</title>
+    <link>https://mods.vintagestory.at/show/mod/floatingcombattext</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floatingcombattext#6159</guid>
+    <pubDate>Sat, 05 Sep 2026 08:09:06 -0000</pubDate>
+    <description>Floating Combat Text</description>
+  </item>
+  <item>
+    <title>Item Pickup Notifier</title>
+    <link>https://mods.vintagestory.at/show/mod/3947</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3947#3947</guid>
+    <pubDate>Sat, 05 Sep 2026 08:08:53 -0000</pubDate>
+    <description>Item Pickup Notifier shows a simple overlay that displays the information of items you pick up</description>
+  </item>
+  <item>
+    <title>Hexis (Beta)</title>
+    <link>https://mods.vintagestory.at/show/mod/hexis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexis#10623</guid>
+    <pubDate>Sat, 05 Sep 2026 06:44:55 -0000</pubDate>
+    <description>A tactical, stance-based combat system of mass and momentum, Focus-built for VS' harsh reality</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Sat, 05 Sep 2026 06:44:45 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>The Other Summer</title>
+    <link>https://mods.vintagestory.at/show/mod/othersummer</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/othersummer#11552</guid>
+    <pubDate>Sat, 05 Sep 2026 06:02:27 -0000</pubDate>
+    <description>Escape winter through an ancient portal to a real distant summer in the same world.</description>
+  </item>
+  <item>
+    <title>Frontier Claims Map</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Sat, 05 Sep 2026 05:45:02 -0000</pubDate>
+    <description>Claim map and access controls for internal testing on a private server.</description>
+  </item>
+  <item>
+    <title>TassHardcoreWinter</title>
+    <link>https://mods.vintagestory.at/show/mod/tasshardcorewinter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tasshardcorewinter#10500</guid>
+    <pubDate>Sat, 05 Sep 2026 05:33:41 -0000</pubDate>
+    <description>Deeper snow, white out blizzards, restorative spring, realistic room temperature, heat source rework</description>
+  </item>
+  <item>
+    <title>TassModFixesTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/tassmodfixestweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tassmodfixestweaks#10502</guid>
+    <pubDate>Sat, 05 Sep 2026 05:31:57 -0000</pubDate>
+    <description>A catch all mod for anything that does not fit my other mods - fixing bugs and tweaking mods</description>
+  </item>
+  <item>
+    <title>TassFactions</title>
+    <link>https://mods.vintagestory.at/show/mod/10503</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10503#10503</guid>
+    <pubDate>Sat, 05 Sep 2026 05:30:52 -0000</pubDate>
+    <description>Factions - Raids - Sieges - Shops - Bounty</description>
+  </item>
   <item>
     <title>CB Patches</title>
     <link>https://mods.vintagestory.at/show/mod/8781</link>
@@ -39,13 +172,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/openhand#11548</guid>
     <pubDate>Sat, 05 Sep 2026 02:59:15 -0000</pubDate>
     <description>An always-empty hand option for the discerning adventurer</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sat, 05 Sep 2026 02:38:20 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
   <item>
     <title>VintageSymphonyForked</title>
@@ -88,132 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagemalware#11487</guid>
     <pubDate>Fri, 04 Sep 2026 22:58:07 -0000</pubDate>
     <description>Like an AI gaming assistant, but better! Random chatter and silly messages</description>
-  </item>
-  <item>
-    <title>Umbrella</title>
-    <link>https://mods.vintagestory.at/show/mod/umbrella</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/umbrella#11482</guid>
-    <pubDate>Fri, 04 Sep 2026 22:04:22 -0000</pubDate>
-    <description>Adds an umbrella that prevents you from getting wet in the rain.</description>
-  </item>
-  <item>
-    <title>RiftLauncher - Independent launcher software.</title>
-    <link>https://mods.vintagestory.at/show/mod/riftlauncher</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftlauncher#11016</guid>
-    <pubDate>Fri, 04 Sep 2026 22:01:52 -0000</pubDate>
-    <description>Focused on multiple versions and installations, safe backups and, mod browsing built in.</description>
-  </item>
-  <item>
-    <title>Conquest VS Edition + Advanced Geology patch</title>
-    <link>https://mods.vintagestory.at/show/mod/11547</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11547#11547</guid>
-    <pubDate>Fri, 04 Sep 2026 21:25:03 -0000</pubDate>
-    <description>Conquest VS Edition Compatibility for Advanced Geology</description>
-  </item>
-  <item>
-    <title>Florasphere (plant and worldgen)</title>
-    <link>https://mods.vintagestory.at/show/mod/florasphere</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/florasphere#1792</guid>
-    <pubDate>Fri, 04 Sep 2026 21:11:45 -0000</pubDate>
-    <description>Revised plant world generation. Adds 7 new species of trees, and small trees, shrubs and palm tree.</description>
-  </item>
-  <item>
-    <title>Aldi's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/aldiclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aldiclasses#5327</guid>
-    <pubDate>Fri, 04 Sep 2026 20:55:37 -0000</pubDate>
-    <description>An extremely stable, compatible and customizable classes mod!</description>
-  </item>
-  <item>
-    <title>Desk Picture Frame Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/deskpictureframe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deskpictureframe#5163</guid>
-    <pubDate>Fri, 04 Sep 2026 20:50:14 -0000</pubDate>
-    <description>Adds Desk Picture Frames and Wall Frames - Can add your own images via the mod config folder</description>
-  </item>
-  <item>
-    <title>Yang's Transport Tycoon</title>
-    <link>https://mods.vintagestory.at/show/mod/yangtransport</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yangtransport#6871</guid>
-    <pubDate>Fri, 04 Sep 2026 20:49:40 -0000</pubDate>
-    <description>Construct and operate industrial transport machinery.</description>
-  </item>
-  <item>
-    <title>Waxlight Launcher</title>
-    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
-    <pubDate>Fri, 04 Sep 2026 20:46:06 -0000</pubDate>
-    <description>Manage Vintage Story instances, mods, versions and accounts from one modern launcher</description>
-  </item>
-  <item>
-    <title>Strike the earth! (WIP)</title>
-    <link>https://mods.vintagestory.at/show/mod/striketheearth</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/striketheearth#11502</guid>
-    <pubDate>Fri, 04 Sep 2026 20:44:59 -0000</pubDate>
-    <description>Allows to play as lore accurate dwarves and other races from dwarf fortress.</description>
-  </item>
-  <item>
-    <title>Integrated Mod Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/imm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/imm#11458</guid>
-    <pubDate>Fri, 04 Sep 2026 20:28:01 -0000</pubDate>
-    <description>Configure your mods, fetch dependencies, and resolve conflicts entirely in-game!</description>
-  </item>
-  <item>
-    <title>Make Beer</title>
-    <link>https://mods.vintagestory.at/show/mod/makebeer</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/makebeer#11477</guid>
-    <pubDate>Fri, 04 Sep 2026 19:40:28 -0000</pubDate>
-    <description>The Make Beer modification opens the path of traditional brewing to players. </description>
-  </item>
-  <item>
-    <title>More Buckets</title>
-    <link>https://mods.vintagestory.at/show/mod/morebuckets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebuckets#11536</guid>
-    <pubDate>Fri, 04 Sep 2026 19:38:45 -0000</pubDate>
-    <description>Leave the exhausting trips to the spring behind and let the new buckets do the hard work</description>
-  </item>
-  <item>
-    <title>Tabletop Games - Cardbacks</title>
-    <link>https://mods.vintagestory.at/show/mod/9765</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9765#9765</guid>
-    <pubDate>Fri, 04 Sep 2026 19:35:41 -0000</pubDate>
-    <description>Adds 53 removable and swappable card backs to Tabletop Games with safe deck tracking, configuration,</description>
-  </item>
-  <item>
-    <title>Stone Support Beam</title>
-    <link>https://mods.vintagestory.at/show/mod/10672</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10672#10672</guid>
-    <pubDate>Fri, 04 Sep 2026 19:26:46 -0000</pubDate>
-    <description>Adds stone variants of the support beam with a multi-step crafting process</description>
-  </item>
-  <item>
-    <title>Antique Harmony | Music Additions / Alternative Soundtrack</title>
-    <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiqueharmony#7141</guid>
-    <pubDate>Fri, 04 Sep 2026 19:26:32 -0000</pubDate>
-    <description>Adds to/replaces soundtrack with original orchestral one, composed from scratch</description>
-  </item>
-  <item>
-    <title>PlayRewards</title>
-    <link>https://mods.vintagestory.at/show/mod/pr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pr#11542</guid>
-    <pubDate>Fri, 04 Sep 2026 19:22:45 -0000</pubDate>
-    <description>Rewards player with emoji and some configurable items after spent time playing server</description>
-  </item>
-  <item>
-    <title>WorldEngine for VS</title>
-    <link>https://mods.vintagestory.at/show/mod/10880</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10880#10880</guid>
-    <pubDate>Fri, 04 Sep 2026 19:17:44 -0000</pubDate>
-    <description>A planet-based world generator.</description>
-  </item>
-  <item>
-    <title>Cairn — Modpack Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/cairn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
-    <pubDate>Fri, 04 Sep 2026 19:13:59 -0000</pubDate>
-    <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
   </item>
 </channel>
 </rss>
