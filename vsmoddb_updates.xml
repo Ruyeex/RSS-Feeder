@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 05 Sep 2026 20:59:22 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 22:48:40 +0000</lastBuildDate>
+  <item>
+    <title>Nomad's Flute</title>
+    <link>https://mods.vintagestory.at/show/mod/10627</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10627#10627</guid>
+    <pubDate>Sat, 05 Sep 2026 22:45:15 -0000</pubDate>
+    <description>Adds a playable flute with two volume modes</description>
+  </item>
+  <item>
+    <title>Quicklime in Kiln Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/11557</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11557#11557</guid>
+    <pubDate>Sat, 05 Sep 2026 22:42:27 -0000</pubDate>
+    <description>Adds a way to make quicklime in a beehive kiln and pitkiln (1.22 fix)</description>
+  </item>
+  <item>
+    <title>Wotclasses</title>
+    <link>https://mods.vintagestory.at/show/mod/wotclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wotclasses#11077</guid>
+    <pubDate>Sat, 05 Sep 2026 22:28:18 -0000</pubDate>
+    <description>Classes for World of Thalorim.</description>
+  </item>
+  <item>
+    <title>Uranium Expanded (Metals and Tools)</title>
+    <link>https://mods.vintagestory.at/show/mod/uraniumexpanded</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/uraniumexpanded#5981</guid>
+    <pubDate>Sat, 05 Sep 2026 22:20:56 -0000</pubDate>
+    <description>Adds uranium based alloys, adds uranium glass, tools and uranium fever.</description>
+  </item>
+  <item>
+    <title>Niltrias's Sinister Cookery</title>
+    <link>https://mods.vintagestory.at/show/mod/11215</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11215#11215</guid>
+    <pubDate>Sat, 05 Sep 2026 21:41:18 -0000</pubDate>
+    <description>Low-effort AI mod built for personal server only.  Should not be used by anyone. </description>
+  </item>
+  <item>
+    <title>Twilight Wolf Industries - Furry Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/wkfa</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wkfa#3396</guid>
+    <pubDate>Sat, 05 Sep 2026 21:31:59 -0000</pubDate>
+    <description>This mod adds more Furry Selection options to the Kemono Mod.</description>
+  </item>
+  <item>
+    <title>The Marginalia: Conjuction</title>
+    <link>https://mods.vintagestory.at/show/mod/tmcon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tmcon#11478</guid>
+    <pubDate>Sat, 05 Sep 2026 21:28:24 -0000</pubDate>
+    <description>The world is not held together; it is held. Raise the Anchorhold, feed it, and mind the fog.</description>
+  </item>
+  <item>
+    <title>Niltrias's Sinster Animal Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/11219</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11219#11219</guid>
+    <pubDate>Sat, 05 Sep 2026 21:14:25 -0000</pubDate>
+    <description>Adds primitive tanning and calming gen 1 animals more.  Extensive AI.  For personal server. </description>
+  </item>
+  <item>
+    <title>Nil's Sinister Boar Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/11255</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11255#11255</guid>
+    <pubDate>Sat, 05 Sep 2026 21:11:54 -0000</pubDate>
+    <description>Adds Ridable boars.  Extremely low effort. </description>
+  </item>
   <item>
     <title>Vintage Recipes</title>
     <link>https://mods.vintagestory.at/show/mod/vsrecipes</link>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hungerpatcher#5180</guid>
     <pubDate>Sat, 05 Sep 2026 18:04:46 -0000</pubDate>
     <description>A healing body requires sustenance.</description>
-  </item>
-  <item>
-    <title>Stacked Items Cool Slower</title>
-    <link>https://mods.vintagestory.at/show/mod/scs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scs#7642</guid>
-    <pubDate>Sat, 05 Sep 2026 18:04:20 -0000</pubDate>
-    <description>A stack of items cools slower than a single item. This is a fact of basic thermomadymananamic stuff.</description>
-  </item>
-  <item>
-    <title>C&amp;N Jewelry</title>
-    <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
-    <pubDate>Sat, 05 Sep 2026 18:03:59 -0000</pubDate>
-    <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
-  </item>
-  <item>
-    <title>Better Bear Armor</title>
-    <link>https://mods.vintagestory.at/show/mod/10439</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10439#10439</guid>
-    <pubDate>Sat, 05 Sep 2026 18:02:43 -0000</pubDate>
-    <description>Repair bear armor with any hide, not just bear pelts — cost scales with size and armor material.</description>
-  </item>
-  <item>
-    <title>Expanded Stomach</title>
-    <link>https://mods.vintagestory.at/show/mod/expandedstomach</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/expandedstomach#4548</guid>
-    <pubDate>Sat, 05 Sep 2026 18:02:30 -0000</pubDate>
-    <description>Eat more. Less often</description>
-  </item>
-  <item>
-    <title>Open Configuration</title>
-    <link>https://mods.vintagestory.at/show/mod/openconfiguration</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/openconfiguration#11550</guid>
-    <pubDate>Sat, 05 Sep 2026 18:01:21 -0000</pubDate>
-    <description>GUI for changing configuration &amp; API for mods</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Sat, 05 Sep 2026 17:52:49 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
-  </item>
-  <item>
-    <title>Salty's Chiseled World</title>
-    <link>https://mods.vintagestory.at/show/mod/chiseledworld</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseledworld#10510</guid>
-    <pubDate>Sat, 05 Sep 2026 17:27:02 -0000</pubDate>
-    <description>Trees are chiseled! Client side!</description>
-  </item>
-  <item>
-    <title>OldMans Enhanced Edition</title>
-    <link>https://mods.vintagestory.at/show/mod/oldmansenhancededition</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oldmansenhancededition#5339</guid>
-    <pubDate>Sat, 05 Sep 2026 17:20:38 -0000</pubDate>
-    <description>(WIP) Custom curated way of experiencing VS</description>
-  </item>
-  <item>
-    <title>The Quire Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/tqp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tqp#10455</guid>
-    <pubDate>Sat, 05 Sep 2026 17:19:20 -0000</pubDate>
-    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
   </item>
 </channel>
 </rss>
