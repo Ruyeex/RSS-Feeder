@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 05 Sep 2026 18:52:00 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 20:59:22 +0000</lastBuildDate>
+  <item>
+    <title>Vintage Recipes</title>
+    <link>https://mods.vintagestory.at/show/mod/vsrecipes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsrecipes#2233</guid>
+    <pubDate>Sat, 05 Sep 2026 20:49:45 -0000</pubDate>
+    <description>This Vintage Story mod tweaks some crafting recipes to be more realistic.</description>
+  </item>
+  <item>
+    <title>ChatLink</title>
+    <link>https://mods.vintagestory.at/show/mod/chatlink</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chatlink#8804</guid>
+    <pubDate>Sat, 05 Sep 2026 20:48:08 -0000</pubDate>
+    <description>Turns HTTP/HTTPS URLs item/block names in chat into clickable links and blocks configured unsafe web</description>
+  </item>
+  <item>
+    <title>My Race My Rules</title>
+    <link>https://mods.vintagestory.at/show/mod/myracemyrules</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/myracemyrules#11504</guid>
+    <pubDate>Sat, 05 Sep 2026 20:33:17 -0000</pubDate>
+    <description>Customize settings and traits on races added by other mods.</description>
+  </item>
+  <item>
+    <title>Butchering – FotSA (Fauna of the Stone Age) Compatibility Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/butcheringfotsacompatability</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butcheringfotsacompatability#11301</guid>
+    <pubDate>Sat, 05 Sep 2026 20:31:48 -0000</pubDate>
+    <description>A focused compatibility add-on for Butchering and the modular Fauna of the Stone Age animal packs on</description>
+  </item>
+  <item>
+    <title>QP's Chisel Tools</title>
+    <link>https://mods.vintagestory.at/show/mod/chiseltools</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseltools#604</guid>
+    <pubDate>Sat, 05 Sep 2026 20:00:51 -0000</pubDate>
+    <description>Unleash your creativity while chiseling! Invaluable, survival friendly tool set for chiselers!</description>
+  </item>
+  <item>
+    <title>VintageSymphonyForked</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagesymphonyforked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagesymphonyforked#11341</guid>
+    <pubDate>Sat, 05 Sep 2026 19:52:37 -0000</pubDate>
+    <description>Vintage Symphony is a situation-aware music engine replacement for Vintage Story, forked for 1.22</description>
+  </item>
+  <item>
+    <title>Admin Slap</title>
+    <link>https://mods.vintagestory.at/show/mod/adminslap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/adminslap#5336</guid>
+    <pubDate>Sat, 05 Sep 2026 19:36:29 -0000</pubDate>
+    <description>Naughty player? Before or a kick or a ban, try a slap!</description>
+  </item>
+  <item>
+    <title>Umbrella</title>
+    <link>https://mods.vintagestory.at/show/mod/umbrella</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/umbrella#11482</guid>
+    <pubDate>Sat, 05 Sep 2026 19:24:52 -0000</pubDate>
+    <description>Adds an umbrella that prevents you from getting wet in the rain.</description>
+  </item>
+  <item>
+    <title>More Buckets</title>
+    <link>https://mods.vintagestory.at/show/mod/morebuckets</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebuckets#11536</guid>
+    <pubDate>Sat, 05 Sep 2026 19:24:26 -0000</pubDate>
+    <description>Leave those exhausting trips to the spring behind and let the new buckets and tanks do the hard work</description>
+  </item>
+  <item>
+    <title>Yang's Transport Tycoon</title>
+    <link>https://mods.vintagestory.at/show/mod/yangtransport</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yangtransport#6871</guid>
+    <pubDate>Sat, 05 Sep 2026 19:12:46 -0000</pubDate>
+    <description>Construct and operate industrial transport machinery.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
+    <pubDate>Sat, 05 Sep 2026 19:08:00 -0000</pubDate>
+    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
+  </item>
+  <item>
+    <title>Nadilion Server Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/5684</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5684#5684</guid>
+    <pubDate>Sat, 05 Sep 2026 19:06:43 -0000</pubDate>
+    <description>Tweaks for the Nadilion gaming server</description>
+  </item>
   <item>
     <title>Crown &amp; Coalition Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/11476</link>
@@ -118,13 +202,6 @@
     <description>Trees are chiseled! Client side!</description>
   </item>
   <item>
-    <title>VintageSymphonyForked</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagesymphonyforked</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagesymphonyforked#11341</guid>
-    <pubDate>Sat, 05 Sep 2026 17:26:32 -0000</pubDate>
-    <description>Vintage Symphony is a situation-aware music engine replacement for Vintage Story, forked for 1.22</description>
-  </item>
-  <item>
     <title>OldMans Enhanced Edition</title>
     <link>https://mods.vintagestory.at/show/mod/oldmansenhancededition</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oldmansenhancededition#5339</guid>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tqp#10455</guid>
     <pubDate>Sat, 05 Sep 2026 17:19:20 -0000</pubDate>
     <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
-  </item>
-  <item>
-    <title>Overhaul lib legacy compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/overhaulliblegacycompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/overhaulliblegacycompat#8401</guid>
-    <pubDate>Sat, 05 Sep 2026 16:58:55 -0000</pubDate>
-    <description>Compat for firearms, crossbows, combatoverhaul</description>
-  </item>
-  <item>
-    <title>W4RD0's Furniture</title>
-    <link>https://mods.vintagestory.at/show/mod/w4rd0sfurniture</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/w4rd0sfurniture#11214</guid>
-    <pubDate>Sat, 05 Sep 2026 16:52:55 -0000</pubDate>
-    <description>A furniture pack adding detailed furniture like tables, chairs, couches, beds, shelves &amp; a lot more.</description>
-  </item>
-  <item>
-    <title>Method Gaming Core</title>
-    <link>https://mods.vintagestory.at/show/mod/methodgamingcore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/methodgamingcore#11074</guid>
-    <pubDate>Sat, 05 Sep 2026 16:27:05 -0000</pubDate>
-    <description>The Official Method Gaming Core mod, required to connect to Method Gaming: Conquest</description>
-  </item>
-  <item>
-    <title>Vintage Canvas</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagecanvas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagecanvas#9406</guid>
-    <pubDate>Sat, 05 Sep 2026 16:23:33 -0000</pubDate>
-    <description>Craft canvases, mix paint, and use brushes to decorate your world!</description>
-  </item>
-  <item>
-    <title>Decaying Trophies</title>
-    <link>https://mods.vintagestory.at/show/mod/2350</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/2350#2350</guid>
-    <pubDate>Sat, 05 Sep 2026 16:15:02 -0000</pubDate>
-    <description>Addon for Fendragon server</description>
-  </item>
-  <item>
-    <title>RiftLauncher - Independent launcher software.</title>
-    <link>https://mods.vintagestory.at/show/mod/riftlauncher</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftlauncher#11016</guid>
-    <pubDate>Sat, 05 Sep 2026 16:06:18 -0000</pubDate>
-    <description>Focused on multiple versions and installations, safe backups and, mod browsing built in.</description>
-  </item>
-  <item>
-    <title>Antique Tuning Cylinders</title>
-    <link>https://mods.vintagestory.at/show/mod/antiquecylinders</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiquecylinders#9034</guid>
-    <pubDate>Sat, 05 Sep 2026 15:54:56 -0000</pubDate>
-    <description>Original orchestral cylinders &amp; lore to accompany Antique Harmony (Music mod)</description>
-  </item>
-  <item>
-    <title>Default Class Edits</title>
-    <link>https://mods.vintagestory.at/show/mod/11539</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11539#11539</guid>
-    <pubDate>Sat, 05 Sep 2026 15:39:20 -0000</pubDate>
-    <description>Small changes to default classes to try and make them equally rewarding</description>
-  </item>
-  <item>
-    <title>Skillbooks: Stats</title>
-    <link>https://mods.vintagestory.at/show/mod/11005</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11005#11005</guid>
-    <pubDate>Sat, 05 Sep 2026 15:24:00 -0000</pubDate>
-    <description>Single-use books that permanently grant a stat trait when read. Works standalone or with core.</description>
-  </item>
-  <item>
-    <title>Skillbooks Core</title>
-    <link>https://mods.vintagestory.at/show/mod/11002</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11002#11002</guid>
-    <pubDate>Sat, 05 Sep 2026 15:22:49 -0000</pubDate>
-    <description>Single-use books that permanently grant a crafting trait when read, discovered from any mod.</description>
-  </item>
-  <item>
-    <title>CB Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Sat, 05 Sep 2026 15:00:11 -0000</pubDate>
-    <description>JSON content patches</description>
   </item>
 </channel>
 </rss>
