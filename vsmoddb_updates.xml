@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 05 Sep 2026 00:42:23 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 05:22:13 +0000</lastBuildDate>
+  <item>
+    <title>CB Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
+    <pubDate>Sat, 05 Sep 2026 05:06:51 -0000</pubDate>
+    <description>JSON content patches</description>
+  </item>
+  <item>
+    <title>Riley's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/rileysclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rileysclasses#9835</guid>
+    <pubDate>Sat, 05 Sep 2026 04:51:19 -0000</pubDate>
+    <description>Addon for Aldi's Classes, makes classes interact with other mods and adds new ones!</description>
+  </item>
+  <item>
+    <title>Chisel Clipboard</title>
+    <link>https://mods.vintagestory.at/show/mod/11553</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11553#11553</guid>
+    <pubDate>Sat, 05 Sep 2026 04:32:50 -0000</pubDate>
+    <description>A mod that allows you to copy, paste, and rotate chiseled blocks, as well as save clips to a UI.</description>
+  </item>
+  <item>
+    <title>Simple Voice Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
+    <pubDate>Sat, 05 Sep 2026 03:37:48 -0000</pubDate>
+    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
+  </item>
+  <item>
+    <title>Open Hand</title>
+    <link>https://mods.vintagestory.at/show/mod/openhand</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/openhand#11548</guid>
+    <pubDate>Sat, 05 Sep 2026 02:59:15 -0000</pubDate>
+    <description>An always-empty hand option for the discerning adventurer</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sat, 05 Sep 2026 02:38:20 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>VintageSymphonyForked</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagesymphonyforked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagesymphonyforked#11341</guid>
+    <pubDate>Sat, 05 Sep 2026 02:01:49 -0000</pubDate>
+    <description>Vintage Symphony is a situation-aware music engine replacement for Vintage Story, forked for 1.22</description>
+  </item>
+  <item>
+    <title>Block Overlay</title>
+    <link>https://mods.vintagestory.at/show/mod/xray</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xray#1186</guid>
+    <pubDate>Sat, 05 Sep 2026 01:39:50 -0000</pubDate>
+    <description>The best x-ray mod so far 🎉</description>
+  </item>
   <item>
     <title>Offline No Spoil</title>
     <link>https://mods.vintagestory.at/show/mod/offlinenospoil</link>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
     <pubDate>Fri, 04 Sep 2026 19:13:59 -0000</pubDate>
     <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
-  </item>
-  <item>
-    <title>Stability Above</title>
-    <link>https://mods.vintagestory.at/show/mod/8629</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8629#8629</guid>
-    <pubDate>Fri, 04 Sep 2026 19:01:53 -0000</pubDate>
-    <description>Removes unstable areas above sea level.</description>
-  </item>
-  <item>
-    <title>Target Health</title>
-    <link>https://mods.vintagestory.at/show/mod/targethealth</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/targethealth#11545</guid>
-    <pubDate>Fri, 04 Sep 2026 18:51:15 -0000</pubDate>
-    <description>Floating health bar with customizable skins and floating damage numbers</description>
-  </item>
-  <item>
-    <title>Animalica - Foxes, Wolves &amp; Hyenas</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicafwh</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicafwh#9794</guid>
-    <pubDate>Fri, 04 Sep 2026 18:42:44 -0000</pubDate>
-    <description>Adds Foxes, Wolves, and Hyenas as player choices!</description>
-  </item>
-  <item>
-    <title>Swixy ClaimChunk</title>
-    <link>https://mods.vintagestory.at/show/mod/swixyclaimchunk</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swixyclaimchunk#9913</guid>
-    <pubDate>Fri, 04 Sep 2026 18:28:37 -0000</pubDate>
-    <description>Claiming made easy. Press [P], click a chunk, and it's yours!</description>
-  </item>
-  <item>
-    <title>Farmland Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/farmlandtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/farmlandtweaks#11250</guid>
-    <pubDate>Fri, 04 Sep 2026 18:24:43 -0000</pubDate>
-    <description>Configurable farmland: nutrient recovery rate, survival dig lock/soil drops, revert to soil by mulch</description>
-  </item>
-  <item>
-    <title>Rudiments</title>
-    <link>https://mods.vintagestory.at/show/mod/9305</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
-    <pubDate>Fri, 04 Sep 2026 18:13:09 -0000</pubDate>
-    <description>Pre-industrial craft, done properly. Fibre, clay, kilns— one step at a time.</description>
-  </item>
-  <item>
-    <title>Immersive Firewood - Real Smoke Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/vsfirewoodrealsmokecompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsfirewoodrealsmokecompat#11543</guid>
-    <pubDate>Fri, 04 Sep 2026 17:17:37 -0000</pubDate>
-    <description>Adds Real Smoke support for Immersive Firewood's species and wetness-based smoke levels.</description>
-  </item>
-  <item>
-    <title>Plumb And Cube Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/plumbandcubefork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plumbandcubefork#9470</guid>
-    <pubDate>Fri, 04 Sep 2026 17:14:22 -0000</pubDate>
-    <description>Fork of Plumb and Cube for 1.22</description>
   </item>
 </channel>
 </rss>
