@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 05 Sep 2026 13:44:22 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 16:37:32 +0000</lastBuildDate>
+  <item>
+    <title>Method Gaming Core</title>
+    <link>https://mods.vintagestory.at/show/mod/methodgamingcore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/methodgamingcore#11074</guid>
+    <pubDate>Sat, 05 Sep 2026 16:27:05 -0000</pubDate>
+    <description>The Official Method Gaming Core mod, required to connect to Method Gaming: Conquest</description>
+  </item>
+  <item>
+    <title>Vintage Canvas</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagecanvas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagecanvas#9406</guid>
+    <pubDate>Sat, 05 Sep 2026 16:23:33 -0000</pubDate>
+    <description>Craft canvases, mix paint, and use brushes to decorate your world!</description>
+  </item>
+  <item>
+    <title>Decaying Trophies</title>
+    <link>https://mods.vintagestory.at/show/mod/2350</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/2350#2350</guid>
+    <pubDate>Sat, 05 Sep 2026 16:15:02 -0000</pubDate>
+    <description>Addon for Fendragon server</description>
+  </item>
+  <item>
+    <title>RiftLauncher - Independent launcher software.</title>
+    <link>https://mods.vintagestory.at/show/mod/riftlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftlauncher#11016</guid>
+    <pubDate>Sat, 05 Sep 2026 16:06:18 -0000</pubDate>
+    <description>Focused on multiple versions and installations, safe backups and, mod browsing built in.</description>
+  </item>
+  <item>
+    <title>Antique Tuning Cylinders</title>
+    <link>https://mods.vintagestory.at/show/mod/antiquecylinders</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiquecylinders#9034</guid>
+    <pubDate>Sat, 05 Sep 2026 15:54:56 -0000</pubDate>
+    <description>Original orchestral cylinders &amp; lore to accompany Antique Harmony (Music mod)</description>
+  </item>
+  <item>
+    <title>Default Class Edits</title>
+    <link>https://mods.vintagestory.at/show/mod/11539</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11539#11539</guid>
+    <pubDate>Sat, 05 Sep 2026 15:39:20 -0000</pubDate>
+    <description>Small changes to default classes to try and make them equally rewarding</description>
+  </item>
+  <item>
+    <title>Skillbooks: Stats</title>
+    <link>https://mods.vintagestory.at/show/mod/11005</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11005#11005</guid>
+    <pubDate>Sat, 05 Sep 2026 15:24:00 -0000</pubDate>
+    <description>Single-use books that permanently grant a stat trait when read. Works standalone or with core.</description>
+  </item>
+  <item>
+    <title>Skillbooks Core</title>
+    <link>https://mods.vintagestory.at/show/mod/11002</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11002#11002</guid>
+    <pubDate>Sat, 05 Sep 2026 15:22:49 -0000</pubDate>
+    <description>Single-use books that permanently grant a crafting trait when read, discovered from any mod.</description>
+  </item>
+  <item>
+    <title>CB Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
+    <pubDate>Sat, 05 Sep 2026 15:00:11 -0000</pubDate>
+    <description>JSON content patches</description>
+  </item>
+  <item>
+    <title>Inventory Transfer</title>
+    <link>https://mods.vintagestory.at/show/mod/7383</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7383#7383</guid>
+    <pubDate>Sat, 05 Sep 2026 14:56:31 -0000</pubDate>
+    <description>Take your loot to a new world!</description>
+  </item>
+  <item>
+    <title>XSkillsShipwrightCompat</title>
+    <link>https://mods.vintagestory.at/show/mod/11541</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11541#11541</guid>
+    <pubDate>Sat, 05 Sep 2026 14:04:40 -0000</pubDate>
+    <description>Adding skills compat for Shipwright ships!</description>
+  </item>
   <item>
     <title>BetterTranslations</title>
     <link>https://mods.vintagestory.at/show/mod/bettertranslations</link>
@@ -39,13 +116,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clock#11555</guid>
     <pubDate>Sat, 05 Sep 2026 12:51:53 -0000</pubDate>
     <description>2 working clock faces, they keep game time, large for a clock tower, small for a personal clock</description>
-  </item>
-  <item>
-    <title>Method Gaming Core</title>
-    <link>https://mods.vintagestory.at/show/mod/methodgamingcore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/methodgamingcore#11074</guid>
-    <pubDate>Sat, 05 Sep 2026 12:03:12 -0000</pubDate>
-    <description>The Official Method Gaming Core mod, required to connect to Method Gaming: Conquest</description>
   </item>
   <item>
     <title>Orca Player Model With Clothes</title>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/imm#11458</guid>
     <pubDate>Sat, 05 Sep 2026 08:53:02 -0000</pubDate>
     <description>Configure your mods, fetch dependencies, and resolve conflicts entirely in-game!</description>
-  </item>
-  <item>
-    <title>FendragonSMP Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/fendragonsmpfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonsmpfork#11554</guid>
-    <pubDate>Sat, 05 Sep 2026 08:51:48 -0000</pubDate>
-    <description>Fork version of FendragonSMP for Fendragon server</description>
-  </item>
-  <item>
-    <title>Enhanced Thunder Sounds</title>
-    <link>https://mods.vintagestory.at/show/mod/10185</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10185#10185</guid>
-    <pubDate>Sat, 05 Sep 2026 08:38:46 -0000</pubDate>
-    <description>Adds random sound variety to thunder — no more hearing the same 4 claps on repeat.</description>
-  </item>
-  <item>
-    <title>True Third Person</title>
-    <link>https://mods.vintagestory.at/show/mod/truethirdperson</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/truethirdperson#5067</guid>
-    <pubDate>Sat, 05 Sep 2026 08:12:52 -0000</pubDate>
-    <description>True Third Person aims to provide a different approach to playing in third person.</description>
-  </item>
-  <item>
-    <title>Simple Entity HealthBar</title>
-    <link>https://mods.vintagestory.at/show/mod/simplehealthbar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplehealthbar#4926</guid>
-    <pubDate>Sat, 05 Sep 2026 08:12:09 -0000</pubDate>
-    <description>Simple Entity Healthbar</description>
-  </item>
-  <item>
-    <title>Item Pickup Highlighter</title>
-    <link>https://mods.vintagestory.at/show/mod/4287</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4287#4287</guid>
-    <pubDate>Sat, 05 Sep 2026 08:09:37 -0000</pubDate>
-    <description>Simple client side mod that allows you to reveal nearby items on the ground</description>
-  </item>
-  <item>
-    <title>Floating Combat Text</title>
-    <link>https://mods.vintagestory.at/show/mod/floatingcombattext</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floatingcombattext#6159</guid>
-    <pubDate>Sat, 05 Sep 2026 08:09:06 -0000</pubDate>
-    <description>Floating Combat Text</description>
-  </item>
-  <item>
-    <title>Item Pickup Notifier</title>
-    <link>https://mods.vintagestory.at/show/mod/3947</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3947#3947</guid>
-    <pubDate>Sat, 05 Sep 2026 08:08:53 -0000</pubDate>
-    <description>Item Pickup Notifier shows a simple overlay that displays the information of items you pick up</description>
-  </item>
-  <item>
-    <title>Hexis (Beta)</title>
-    <link>https://mods.vintagestory.at/show/mod/hexis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexis#10623</guid>
-    <pubDate>Sat, 05 Sep 2026 06:44:55 -0000</pubDate>
-    <description>A tactical, stance-based combat system of mass and momentum, Focus-built for VS' harsh reality</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Sat, 05 Sep 2026 06:44:45 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
-  </item>
-  <item>
-    <title>The Other Summer</title>
-    <link>https://mods.vintagestory.at/show/mod/othersummer</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/othersummer#11552</guid>
-    <pubDate>Sat, 05 Sep 2026 06:02:27 -0000</pubDate>
-    <description>Escape winter through an ancient portal to a real distant summer in the same world.</description>
   </item>
 </channel>
 </rss>
