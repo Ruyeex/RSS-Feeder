@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 05 Sep 2026 22:48:40 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 06 Sep 2026 00:41:56 +0000</lastBuildDate>
+  <item>
+    <title>Butchering – FotSA (Fauna of the Stone Age) Compatibility Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/butcheringfotsacompatability</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butcheringfotsacompatability#11301</guid>
+    <pubDate>Sun, 06 Sep 2026 00:40:36 -0000</pubDate>
+    <description>A focused compatibility add-on for Butchering and the modular Fauna of the Stone Age animal packs on</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Sun, 06 Sep 2026 00:32:55 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
+  <item>
+    <title>Batch Production Molds</title>
+    <link>https://mods.vintagestory.at/show/mod/batchmolds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/batchmolds#5097</guid>
+    <pubDate>Sun, 06 Sep 2026 00:26:28 -0000</pubDate>
+    <description>Adds realistic "Vanilla+" style batch production molds to produce multiple work pieces at once.</description>
+  </item>
+  <item>
+    <title>Crown &amp; Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/11476</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
+    <pubDate>Sun, 06 Sep 2026 00:20:48 -0000</pubDate>
+    <description>For details on content, please contact me directly via Discord.</description>
+  </item>
+  <item>
+    <title>configkit</title>
+    <link>https://mods.vintagestory.at/show/mod/configkit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/configkit#11506</guid>
+    <pubDate>Sun, 06 Sep 2026 00:12:36 -0000</pubDate>
+    <description>In-game settings for your mods, without ImGui (alternative to configlib).</description>
+  </item>
+  <item>
+    <title>YTT Only Primitive and Simple Locomotives Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/yttopslpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yttopslpatch#11559</guid>
+    <pubDate>Sat, 05 Sep 2026 23:56:38 -0000</pubDate>
+    <description>Disabled crafting of the Standard and Advanced Locomotives in YTT mod.</description>
+  </item>
+  <item>
+    <title>CompostTweak</title>
+    <link>https://mods.vintagestory.at/show/mod/3682</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3682#3682</guid>
+    <pubDate>Sat, 05 Sep 2026 23:51:24 -0000</pubDate>
+    <description>Makes composting alot more interactive and adds more things to compost.</description>
+  </item>
+  <item>
+    <title>The Pepper Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/8855</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8855#8855</guid>
+    <pubDate>Sat, 05 Sep 2026 23:49:00 -0000</pubDate>
+    <description>Grow and harvest perennial pepper bushes with custom models, seasonal dormancy, and a spicy heat sys</description>
+  </item>
+  <item>
+    <title>Fornax</title>
+    <link>https://mods.vintagestory.at/show/mod/fornax</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fornax#11226</guid>
+    <pubDate>Sat, 05 Sep 2026 23:48:11 -0000</pubDate>
+    <description>The kiln between the pit kiln and the beehive kiln. Mud brick, firewood, and no iron at all.</description>
+  </item>
+  <item>
+    <title>TentBag-Reworked</title>
+    <link>https://mods.vintagestory.at/show/mod/tentbagreworked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tentbagreworked#3558</guid>
+    <pubDate>Sat, 05 Sep 2026 23:46:40 -0000</pubDate>
+    <description>Adds a tent bag for Vintage Story with scaling hunger cost based on tent complexity</description>
+  </item>
+  <item>
+    <title>Rappel</title>
+    <link>https://mods.vintagestory.at/show/mod/11558</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11558#11558</guid>
+    <pubDate>Sat, 05 Sep 2026 23:37:03 -0000</pubDate>
+    <description>Lets the player rappel down shafts using a stake and rope</description>
+  </item>
+  <item>
+    <title>Waxlight Launcher</title>
+    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
+    <pubDate>Sat, 05 Sep 2026 23:19:24 -0000</pubDate>
+    <description>Manage Vintage Story instances, mods, versions and accounts from one modern launcher</description>
+  </item>
   <item>
     <title>Nomad's Flute</title>
     <link>https://mods.vintagestory.at/show/mod/10627</link>
@@ -32,6 +116,13 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/uraniumexpanded#5981</guid>
     <pubDate>Sat, 05 Sep 2026 22:20:56 -0000</pubDate>
     <description>Adds uranium based alloys, adds uranium glass, tools and uranium fever.</description>
+  </item>
+  <item>
+    <title>Newfies Server Essentials Suite</title>
+    <link>https://mods.vintagestory.at/show/mod/11556</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
+    <pubDate>Sat, 05 Sep 2026 22:19:30 -0000</pubDate>
+    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
   </item>
   <item>
     <title>Niltrias's Sinister Cookery</title>
@@ -83,18 +174,18 @@
     <description>Turns HTTP/HTTPS URLs item/block names in chat into clickable links and blocks configured unsafe web</description>
   </item>
   <item>
+    <title>Newfie's Anti-Cheat Client</title>
+    <link>https://mods.vintagestory.at/show/mod/11551</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11551#11551</guid>
+    <pubDate>Sat, 05 Sep 2026 20:37:35 -0000</pubDate>
+    <description>Newfie’s Integrity Monitor</description>
+  </item>
+  <item>
     <title>My Race My Rules</title>
     <link>https://mods.vintagestory.at/show/mod/myracemyrules</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/myracemyrules#11504</guid>
     <pubDate>Sat, 05 Sep 2026 20:33:17 -0000</pubDate>
     <description>Customize settings and traits on races added by other mods.</description>
-  </item>
-  <item>
-    <title>Butchering – FotSA (Fauna of the Stone Age) Compatibility Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/butcheringfotsacompatability</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butcheringfotsacompatability#11301</guid>
-    <pubDate>Sat, 05 Sep 2026 20:31:48 -0000</pubDate>
-    <description>A focused compatibility add-on for Butchering and the modular Fauna of the Stone Age animal packs on</description>
   </item>
   <item>
     <title>QP's Chisel Tools</title>
@@ -123,97 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/umbrella#11482</guid>
     <pubDate>Sat, 05 Sep 2026 19:24:52 -0000</pubDate>
     <description>Adds an umbrella that prevents you from getting wet in the rain.</description>
-  </item>
-  <item>
-    <title>More Buckets</title>
-    <link>https://mods.vintagestory.at/show/mod/morebuckets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebuckets#11536</guid>
-    <pubDate>Sat, 05 Sep 2026 19:24:26 -0000</pubDate>
-    <description>Leave those exhausting trips to the spring behind and let the new buckets and tanks do the hard work</description>
-  </item>
-  <item>
-    <title>Yang's Transport Tycoon</title>
-    <link>https://mods.vintagestory.at/show/mod/yangtransport</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yangtransport#6871</guid>
-    <pubDate>Sat, 05 Sep 2026 19:12:46 -0000</pubDate>
-    <description>Construct and operate industrial transport machinery.</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
-    <pubDate>Sat, 05 Sep 2026 19:08:00 -0000</pubDate>
-    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
-  </item>
-  <item>
-    <title>Nadilion Server Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/5684</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5684#5684</guid>
-    <pubDate>Sat, 05 Sep 2026 19:06:43 -0000</pubDate>
-    <description>Tweaks for the Nadilion gaming server</description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/11476</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
-    <pubDate>Sat, 05 Sep 2026 18:46:36 -0000</pubDate>
-    <description>For details on content, please contact me directly via Discord.</description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Chapter 2</title>
-    <link>https://mods.vintagestory.at/show/mod/11428</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
-    <pubDate>Sat, 05 Sep 2026 18:46:16 -0000</pubDate>
-    <description>Chapter 2 additions for C&amp;C.</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Sat, 05 Sep 2026 18:41:25 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>Alegacy Quest Framework</title>
-    <link>https://mods.vintagestory.at/show/mod/alegacyquestframework</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyquestframework#6609</guid>
-    <pubDate>Sat, 05 Sep 2026 18:17:15 -0000</pubDate>
-    <description>Alegacy Quest Framework is a full-featured quest and boss combat engine for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Too Many Tabs! Scrollable Creative Inventory Tabs</title>
-    <link>https://mods.vintagestory.at/show/mod/10835</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10835#10835</guid>
-    <pubDate>Sat, 05 Sep 2026 18:15:44 -0000</pubDate>
-    <description>Replaces the old side-tabs with a scrollable menu. Because otherwise you run out of space.</description>
-  </item>
-  <item>
-    <title>Arcanum Lib</title>
-    <link>https://mods.vintagestory.at/show/mod/arcanumlib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arcanumlib#11325</guid>
-    <pubDate>Sat, 05 Sep 2026 18:15:16 -0000</pubDate>
-    <description>A shared utility library for Vintage Story: HUD, particles, effects, persistence, and more.</description>
-  </item>
-  <item>
-    <title>Alegacy patches</title>
-    <link>https://mods.vintagestory.at/show/mod/6997</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6997#6997</guid>
-    <pubDate>Sat, 05 Sep 2026 18:14:41 -0000</pubDate>
-    <description>targeted patches for the Alegacy server setup</description>
-  </item>
-  <item>
-    <title>Alegacy: Foundation</title>
-    <link>https://mods.vintagestory.at/show/mod/albase</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/albase#6694</guid>
-    <pubDate>Sat, 05 Sep 2026 18:13:44 -0000</pubDate>
-    <description>Foundation quest pack for the Alegacy Server.</description>
-  </item>
-  <item>
-    <title>Hungry While Injured (mostly implemented in 1.22)</title>
-    <link>https://mods.vintagestory.at/show/mod/hungerpatcher</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hungerpatcher#5180</guid>
-    <pubDate>Sat, 05 Sep 2026 18:04:46 -0000</pubDate>
-    <description>A healing body requires sustenance.</description>
   </item>
 </channel>
 </rss>
