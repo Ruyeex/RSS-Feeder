@@ -4,27 +4,139 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 06 Sep 2026 17:31:53 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 06 Sep 2026 20:08:52 +0000</lastBuildDate>
+  <item>
+    <title>Insanity Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/insanitylib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/insanitylib#3966</guid>
+    <pubDate>Sun, 06 Sep 2026 19:58:49 -0000</pubDate>
+    <description>A library mod with modding utilities</description>
+  </item>
+  <item>
+    <title>Crown &amp; Coalition Chapter 2</title>
+    <link>https://mods.vintagestory.at/show/mod/11428</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
+    <pubDate>Sun, 06 Sep 2026 19:11:11 -0000</pubDate>
+    <description>Chapter 2 additions for C&amp;C.</description>
+  </item>
+  <item>
+    <title>Glowing Projectiles Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/glowingprojectilesplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glowingprojectilesplus#11189</guid>
+    <pubDate>Sun, 06 Sep 2026 19:02:31 -0000</pubDate>
+    <description>Highlight your (and theirs) arrows and spears.</description>
+  </item>
+  <item>
+    <title>VU1 Improvements</title>
+    <link>https://mods.vintagestory.at/show/mod/11570</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11570#11570</guid>
+    <pubDate>Sun, 06 Sep 2026 18:54:43 -0000</pubDate>
+    <description>Monkey Code part Duh</description>
+  </item>
+  <item>
+    <title>configkit</title>
+    <link>https://mods.vintagestory.at/show/mod/configkit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/configkit#11506</guid>
+    <pubDate>Sun, 06 Sep 2026 18:29:17 -0000</pubDate>
+    <description>In-game settings for your mods, without ImGui (alternative to configlib).</description>
+  </item>
+  <item>
+    <title>RPG Difficulty</title>
+    <link>https://mods.vintagestory.at/show/mod/rpgdifficulty</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rpgdifficulty#2137</guid>
+    <pubDate>Sun, 06 Sep 2026 18:26:19 -0000</pubDate>
+    <description>Increases creatures stats as you move further away from spawn or going deeper in the caves</description>
+  </item>
+  <item>
+    <title>Bear Armor Repair</title>
+    <link>https://mods.vintagestory.at/show/mod/beararmorrepair</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/beararmorrepair#4964</guid>
+    <pubDate>Sun, 06 Sep 2026 18:24:17 -0000</pubDate>
+    <description>Lets you repair your Trophy Bear Armor!</description>
+  </item>
+  <item>
+    <title>Skillbooks: Stats</title>
+    <link>https://mods.vintagestory.at/show/mod/11005</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11005#11005</guid>
+    <pubDate>Sun, 06 Sep 2026 18:20:52 -0000</pubDate>
+    <description>Single-use books that permanently grant a stat trait when read. Works standalone or with core.</description>
+  </item>
+  <item>
+    <title>Skillbooks Core</title>
+    <link>https://mods.vintagestory.at/show/mod/11002</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11002#11002</guid>
+    <pubDate>Sun, 06 Sep 2026 18:20:23 -0000</pubDate>
+    <description>Single-use books that permanently grant a crafting trait when read, discovered from any mod.</description>
+  </item>
+  <item>
+    <title>CoT Objects</title>
+    <link>https://mods.vintagestory.at/show/mod/8165</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8165#8165</guid>
+    <pubDate>Sun, 06 Sep 2026 18:07:33 -0000</pubDate>
+    <description>A small collections of blocks used for storytelling on the CoT Server</description>
+  </item>
+  <item>
+    <title>Not enough invertebrate</title>
+    <link>https://mods.vintagestory.at/show/mod/8678</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8678#8678</guid>
+    <pubDate>Sun, 06 Sep 2026 18:07:09 -0000</pubDate>
+    <description>Adds diversity to the invertebrate family (up to date : Katydids, Grasshoppers)</description>
+  </item>
+  <item>
+    <title>1984liek</title>
+    <link>https://mods.vintagestory.at/show/mod/1984liek</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/1984liek#10972</guid>
+    <pubDate>Sun, 06 Sep 2026 18:04:33 -0000</pubDate>
+    <description>if you know, you know! </description>
+  </item>
+  <item>
+    <title>Downed</title>
+    <link>https://mods.vintagestory.at/show/mod/downed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
+    <pubDate>Sun, 06 Sep 2026 18:03:34 -0000</pubDate>
+    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
+  </item>
+  <item>
+    <title>RPG Overlay</title>
+    <link>https://mods.vintagestory.at/show/mod/rpgoverlay</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rpgoverlay#2945</guid>
+    <pubDate>Sun, 06 Sep 2026 17:51:56 -0000</pubDate>
+    <description>Add levels and health tier for entity info</description>
+  </item>
+  <item>
+    <title>C&amp;N Twitch Connect</title>
+    <link>https://mods.vintagestory.at/show/mod/cantwitchconnect</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cantwitchconnect#7270</guid>
+    <pubDate>Sun, 06 Sep 2026 17:49:06 -0000</pubDate>
+    <description>Ingtegration between the game and twitch chat</description>
+  </item>
+  <item>
+    <title>Open Configuration</title>
+    <link>https://mods.vintagestory.at/show/mod/openconfiguration</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/openconfiguration#11550</guid>
+    <pubDate>Sun, 06 Sep 2026 17:44:20 -0000</pubDate>
+    <description>GUI for changing configuration &amp; API for mods</description>
+  </item>
+  <item>
+    <title>PlayerListCrashFix</title>
+    <link>https://mods.vintagestory.at/show/mod/9646</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9646#9646</guid>
+    <pubDate>Sun, 06 Sep 2026 17:43:59 -0000</pubDate>
+    <description>Prevents PlayerListRevived from crashing at times.</description>
+  </item>
+  <item>
+    <title>Butchering – FotSA (Fauna of the Stone Age) Compatibility Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/butcheringfotsacompatability</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butcheringfotsacompatability#11301</guid>
+    <pubDate>Sun, 06 Sep 2026 17:40:46 -0000</pubDate>
+    <description>A focused compatibility add-on for Butchering and the modular Fauna of the Stone Age animal packs on</description>
+  </item>
   <item>
     <title>Aldi's HarmoClasses Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/harmoclassestweaks</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/harmoclassestweaks#11156</guid>
     <pubDate>Sun, 06 Sep 2026 17:12:08 -0000</pubDate>
     <description>Aldi's Classes mod tweaked for a community server.</description>
-  </item>
-  <item>
-    <title>Downed</title>
-    <link>https://mods.vintagestory.at/show/mod/downed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
-    <pubDate>Sun, 06 Sep 2026 17:00:03 -0000</pubDate>
-    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
-  </item>
-  <item>
-    <title>Open Configuration</title>
-    <link>https://mods.vintagestory.at/show/mod/openconfiguration</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/openconfiguration#11550</guid>
-    <pubDate>Sun, 06 Sep 2026 16:57:16 -0000</pubDate>
-    <description>GUI for changing configuration &amp; API for mods</description>
   </item>
   <item>
     <title>EarthLiving Client Performance Doctor</title>
@@ -62,25 +174,11 @@
     <description>Focused on smoother multiplayer servers, better performance under load and, practical tools.</description>
   </item>
   <item>
-    <title>1984liek</title>
-    <link>https://mods.vintagestory.at/show/mod/1984liek</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/1984liek#10972</guid>
-    <pubDate>Sun, 06 Sep 2026 15:44:24 -0000</pubDate>
-    <description>if you know, you know! </description>
-  </item>
-  <item>
     <title>Boat Speed Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/boatspeedtweaks</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/boatspeedtweaks#9766</guid>
     <pubDate>Sun, 06 Sep 2026 15:44:08 -0000</pubDate>
     <description>Override Sailboats and Rafts speedMultiplier, separately (default for both = 2.0)</description>
-  </item>
-  <item>
-    <title>VU1 Improvements</title>
-    <link>https://mods.vintagestory.at/show/mod/11570</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11570#11570</guid>
-    <pubDate>Sun, 06 Sep 2026 15:35:53 -0000</pubDate>
-    <description>Monkey Code part Duh</description>
   </item>
   <item>
     <title>Configurable Axial Tilt</title>
@@ -116,104 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsairshipmod#3380</guid>
     <pubDate>Sun, 06 Sep 2026 14:35:04 -0000</pubDate>
     <description>A mod that adds realistic and lore friendly airships!</description>
-  </item>
-  <item>
-    <title>VL Economy</title>
-    <link>https://mods.vintagestory.at/show/mod/vleconomy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vleconomy#11017</guid>
-    <pubDate>Sun, 06 Sep 2026 14:31:22 -0000</pubDate>
-    <description>Economic mod for the Vintage Lands server / Экономический мод для сервера Vintage Lands</description>
-  </item>
-  <item>
-    <title>Open Hand</title>
-    <link>https://mods.vintagestory.at/show/mod/openhand</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/openhand#11548</guid>
-    <pubDate>Sun, 06 Sep 2026 14:28:55 -0000</pubDate>
-    <description>An always-empty hand option for the discerning adventurer</description>
-  </item>
-  <item>
-    <title>Food Shelves Patch: Sonya's Quality Fowl</title>
-    <link>https://mods.vintagestory.at/show/mod/foodshelvesfowlmodpatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/foodshelvesfowlmodpatch#11568</guid>
-    <pubDate>Sun, 06 Sep 2026 14:24:34 -0000</pubDate>
-    <description>Place duck eggs from Sonya's Quality Fowl into egg shelves and egg baskets from Food Shelves</description>
-  </item>
-  <item>
-    <title>Crucibulum</title>
-    <link>https://mods.vintagestory.at/show/mod/crucibulum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crucibulum#11374</guid>
-    <pubDate>Sun, 06 Sep 2026 14:23:11 -0000</pubDate>
-    <description>Set a crucible in the forge and melt metal where you smith it</description>
-  </item>
-  <item>
-    <title>C&amp;N Jewelry</title>
-    <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
-    <pubDate>Sun, 06 Sep 2026 13:57:56 -0000</pubDate>
-    <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
-  </item>
-  <item>
-    <title>Skillbooks: Stats</title>
-    <link>https://mods.vintagestory.at/show/mod/11005</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11005#11005</guid>
-    <pubDate>Sun, 06 Sep 2026 13:48:04 -0000</pubDate>
-    <description>Single-use books that permanently grant a stat trait when read. Works standalone or with core.</description>
-  </item>
-  <item>
-    <title>Bookkeeper</title>
-    <link>https://mods.vintagestory.at/show/mod/7446</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7446#7446</guid>
-    <pubDate>Sun, 06 Sep 2026 13:41:20 -0000</pubDate>
-    <description>Know what you have. Know where it is.</description>
-  </item>
-  <item>
-    <title>Ice Cellar</title>
-    <link>https://mods.vintagestory.at/show/mod/10837</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10837#10837</guid>
-    <pubDate>Sun, 06 Sep 2026 13:27:54 -0000</pubDate>
-    <description>Chill your cellar with ice and keep food fresh, longer.</description>
-  </item>
-  <item>
-    <title>Seraph Leveling</title>
-    <link>https://mods.vintagestory.at/show/mod/6523</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6523#6523</guid>
-    <pubDate>Sun, 06 Sep 2026 13:10:21 -0000</pubDate>
-    <description>Level-up and gain traits in a vanilla friendly way</description>
-  </item>
-  <item>
-    <title>Grid for Beams</title>
-    <link>https://mods.vintagestory.at/show/mod/gridforbeams</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gridforbeams#11157</guid>
-    <pubDate>Sun, 06 Sep 2026 12:55:44 -0000</pubDate>
-    <description>Adds a grid and markers to blocks when holding a beam. Has a separate grid for chiseled blocks</description>
-  </item>
-  <item>
-    <title>VoteGui</title>
-    <link>https://mods.vintagestory.at/show/mod/votegui</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/votegui#10547</guid>
-    <pubDate>Sun, 06 Sep 2026 12:26:35 -0000</pubDate>
-    <description>Vote gui for vsserverlist.com</description>
-  </item>
-  <item>
-    <title>Method Gaming Core</title>
-    <link>https://mods.vintagestory.at/show/mod/methodgamingcore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/methodgamingcore#11074</guid>
-    <pubDate>Sun, 06 Sep 2026 12:21:07 -0000</pubDate>
-    <description>The Official Method Gaming Core mod, required to connect to Method Gaming: Conquest</description>
-  </item>
-  <item>
-    <title>muppershologram</title>
-    <link>https://mods.vintagestory.at/show/mod/muppershologram</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppershologram#11565</guid>
-    <pubDate>Sun, 06 Sep 2026 11:59:56 -0000</pubDate>
-    <description>Floating text displays or graphics that hover in the game world</description>
-  </item>
-  <item>
-    <title>Temporal Vessels - A Vessel Teleportation System</title>
-    <link>https://mods.vintagestory.at/show/mod/temporalvessels</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/temporalvessels#7817</guid>
-    <pubDate>Sun, 06 Sep 2026 11:41:24 -0000</pubDate>
-    <description>Teleport a storage vessel back to your base so you can continue your looting exploration adventure</description>
   </item>
 </channel>
 </rss>
