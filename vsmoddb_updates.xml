@@ -4,7 +4,147 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 06 Sep 2026 14:00:43 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 06 Sep 2026 17:31:53 +0000</lastBuildDate>
+  <item>
+    <title>Aldi's HarmoClasses Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/harmoclassestweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/harmoclassestweaks#11156</guid>
+    <pubDate>Sun, 06 Sep 2026 17:12:08 -0000</pubDate>
+    <description>Aldi's Classes mod tweaked for a community server.</description>
+  </item>
+  <item>
+    <title>Downed</title>
+    <link>https://mods.vintagestory.at/show/mod/downed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
+    <pubDate>Sun, 06 Sep 2026 17:00:03 -0000</pubDate>
+    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
+  </item>
+  <item>
+    <title>Open Configuration</title>
+    <link>https://mods.vintagestory.at/show/mod/openconfiguration</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/openconfiguration#11550</guid>
+    <pubDate>Sun, 06 Sep 2026 16:57:16 -0000</pubDate>
+    <description>GUI for changing configuration &amp; API for mods</description>
+  </item>
+  <item>
+    <title>EarthLiving Client Performance Doctor</title>
+    <link>https://mods.vintagestory.at/show/mod/earthlivingperformance</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/earthlivingperformance#11280</guid>
+    <pubDate>Sun, 06 Sep 2026 16:50:28 -0000</pubDate>
+    <description>Local FPS diagnostics, safe graphics trials and conservative mod-impact analysis.</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sun, 06 Sep 2026 16:42:02 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Knapster</title>
+    <link>https://mods.vintagestory.at/show/mod/knapster</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/knapster#821</guid>
+    <pubDate>Sun, 06 Sep 2026 16:08:56 -0000</pubDate>
+    <description>Easier knapping, clayforming, and smithing, for those with low manual dexterity.</description>
+  </item>
+  <item>
+    <title>Umbrella</title>
+    <link>https://mods.vintagestory.at/show/mod/umbrella</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/umbrella#11482</guid>
+    <pubDate>Sun, 06 Sep 2026 15:49:22 -0000</pubDate>
+    <description>Adds an umbrella that prevents you from getting wet in the rain.</description>
+  </item>
+  <item>
+    <title>Stratum - High-performance server software.</title>
+    <link>https://mods.vintagestory.at/show/mod/stratum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stratum#9499</guid>
+    <pubDate>Sun, 06 Sep 2026 15:46:34 -0000</pubDate>
+    <description>Focused on smoother multiplayer servers, better performance under load and, practical tools.</description>
+  </item>
+  <item>
+    <title>1984liek</title>
+    <link>https://mods.vintagestory.at/show/mod/1984liek</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/1984liek#10972</guid>
+    <pubDate>Sun, 06 Sep 2026 15:44:24 -0000</pubDate>
+    <description>if you know, you know! </description>
+  </item>
+  <item>
+    <title>Boat Speed Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/boatspeedtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/boatspeedtweaks#9766</guid>
+    <pubDate>Sun, 06 Sep 2026 15:44:08 -0000</pubDate>
+    <description>Override Sailboats and Rafts speedMultiplier, separately (default for both = 2.0)</description>
+  </item>
+  <item>
+    <title>VU1 Improvements</title>
+    <link>https://mods.vintagestory.at/show/mod/11570</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11570#11570</guid>
+    <pubDate>Sun, 06 Sep 2026 15:35:53 -0000</pubDate>
+    <description>Monkey Code part Duh</description>
+  </item>
+  <item>
+    <title>Configurable Axial Tilt</title>
+    <link>https://mods.vintagestory.at/show/mod/axialtiltmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/axialtiltmod#11364</guid>
+    <pubDate>Sun, 06 Sep 2026 15:28:36 -0000</pubDate>
+    <description>Changes axial tilt of the planet with a config</description>
+  </item>
+  <item>
+    <title>Accessibility Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/accessibilitytweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/accessibilitytweaks#210</guid>
+    <pubDate>Sun, 06 Sep 2026 14:46:25 -0000</pubDate>
+    <description>Lots of customisable tweaks for sounds effects, visual effects, text, weather, colours, and gamma.</description>
+  </item>
+  <item>
+    <title>Yang's Transport Tycoon</title>
+    <link>https://mods.vintagestory.at/show/mod/yangtransport</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yangtransport#6871</guid>
+    <pubDate>Sun, 06 Sep 2026 14:43:10 -0000</pubDate>
+    <description>Construct and operate industrial transport machinery.</description>
+  </item>
+  <item>
+    <title>BLACKWING</title>
+    <link>https://mods.vintagestory.at/show/mod/blackwing</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/blackwing#11566</guid>
+    <pubDate>Sun, 06 Sep 2026 14:37:52 -0000</pubDate>
+    <description>Raise a raven that scouts for promising ore country.</description>
+  </item>
+  <item>
+    <title>VS AIRSHIP MOD</title>
+    <link>https://mods.vintagestory.at/show/mod/vsairshipmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsairshipmod#3380</guid>
+    <pubDate>Sun, 06 Sep 2026 14:35:04 -0000</pubDate>
+    <description>A mod that adds realistic and lore friendly airships!</description>
+  </item>
+  <item>
+    <title>VL Economy</title>
+    <link>https://mods.vintagestory.at/show/mod/vleconomy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vleconomy#11017</guid>
+    <pubDate>Sun, 06 Sep 2026 14:31:22 -0000</pubDate>
+    <description>Economic mod for the Vintage Lands server / Экономический мод для сервера Vintage Lands</description>
+  </item>
+  <item>
+    <title>Open Hand</title>
+    <link>https://mods.vintagestory.at/show/mod/openhand</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/openhand#11548</guid>
+    <pubDate>Sun, 06 Sep 2026 14:28:55 -0000</pubDate>
+    <description>An always-empty hand option for the discerning adventurer</description>
+  </item>
+  <item>
+    <title>Food Shelves Patch: Sonya's Quality Fowl</title>
+    <link>https://mods.vintagestory.at/show/mod/foodshelvesfowlmodpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/foodshelvesfowlmodpatch#11568</guid>
+    <pubDate>Sun, 06 Sep 2026 14:24:34 -0000</pubDate>
+    <description>Place duck eggs from Sonya's Quality Fowl into egg shelves and egg baskets from Food Shelves</description>
+  </item>
+  <item>
+    <title>Crucibulum</title>
+    <link>https://mods.vintagestory.at/show/mod/crucibulum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crucibulum#11374</guid>
+    <pubDate>Sun, 06 Sep 2026 14:23:11 -0000</pubDate>
+    <description>Set a crucible in the forge and melt metal where you smith it</description>
+  </item>
   <item>
     <title>C&amp;N Jewelry</title>
     <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
@@ -74,146 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/temporalvessels#7817</guid>
     <pubDate>Sun, 06 Sep 2026 11:41:24 -0000</pubDate>
     <description>Teleport a storage vessel back to your base so you can continue your looting exploration adventure</description>
-  </item>
-  <item>
-    <title>Wool 🙵 More</title>
-    <link>https://mods.vintagestory.at/show/mod/wool</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wool#2447</guid>
-    <pubDate>Sun, 06 Sep 2026 11:40:54 -0000</pubDate>
-    <description>Harvest, process, trade and craft with animal fleece and wool.</description>
-  </item>
-  <item>
-    <title>Marcy9'sNymphTraits</title>
-    <link>https://mods.vintagestory.at/show/mod/marcy9snymphtraits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/marcy9snymphtraits#11370</guid>
-    <pubDate>Sun, 06 Sep 2026 11:21:54 -0000</pubDate>
-    <description>Silly Nymph Traits for my server </description>
-  </item>
-  <item>
-    <title>Boat Speed Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/boatspeedtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/boatspeedtweaks#9766</guid>
-    <pubDate>Sun, 06 Sep 2026 11:15:43 -0000</pubDate>
-    <description>Multiply Sailboats and Rafts speed by the configured factor, separately (default for both = 2.0)</description>
-  </item>
-  <item>
-    <title>Frontier Claims Map</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
-    <pubDate>Sun, 06 Sep 2026 11:14:37 -0000</pubDate>
-    <description>Claim map and access controls for internal testing on a private server.</description>
-  </item>
-  <item>
-    <title>TraderTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10569</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
-    <pubDate>Sun, 06 Sep 2026 10:48:08 -0000</pubDate>
-    <description>Allow to manage traders</description>
-  </item>
-  <item>
-    <title>DarkGirlStuff</title>
-    <link>https://mods.vintagestory.at/show/mod/11165</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11165#11165</guid>
-    <pubDate>Sun, 06 Sep 2026 10:47:04 -0000</pubDate>
-    <description>ADD some stuff, items, cloths for an server</description>
-  </item>
-  <item>
-    <title>Butchering – FotSA (Fauna of the Stone Age) Compatibility Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/butcheringfotsacompatability</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butcheringfotsacompatability#11301</guid>
-    <pubDate>Sun, 06 Sep 2026 10:24:23 -0000</pubDate>
-    <description>A focused compatibility add-on for Butchering and the modular Fauna of the Stone Age animal packs on</description>
-  </item>
-  <item>
-    <title>Alternative Block Outline</title>
-    <link>https://mods.vintagestory.at/show/mod/alternativeblockoutline</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alternativeblockoutline#11563</guid>
-    <pubDate>Sun, 06 Sep 2026 10:23:31 -0000</pubDate>
-    <description>Alternative Block Outline</description>
-  </item>
-  <item>
-    <title>Integrated Mod Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/imm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/imm#11458</guid>
-    <pubDate>Sun, 06 Sep 2026 10:19:28 -0000</pubDate>
-    <description>Configure your mods, fetch dependencies, and resolve conflicts entirely in-game!</description>
-  </item>
-  <item>
-    <title>Chert to Flint</title>
-    <link>https://mods.vintagestory.at/show/mod/cherttoflint</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cherttoflint#11564</guid>
-    <pubDate>Sun, 06 Sep 2026 10:02:36 -0000</pubDate>
-    <description>A tiny, lore-friendly recipe mod.</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Sun, 06 Sep 2026 09:53:22 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
-    <title>More Buckets</title>
-    <link>https://mods.vintagestory.at/show/mod/morebuckets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebuckets#11536</guid>
-    <pubDate>Sun, 06 Sep 2026 09:50:27 -0000</pubDate>
-    <description>Leave those exhausting trips to the spring behind and let the new buckets and tanks do the hard work</description>
-  </item>
-  <item>
-    <title>C&amp;N Events</title>
-    <link>https://mods.vintagestory.at/show/mod/canevents</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
-    <pubDate>Sun, 06 Sep 2026 09:41:41 -0000</pubDate>
-    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Sun, 06 Sep 2026 09:30:53 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
-  </item>
-  <item>
-    <title>Marcy9's Kobold Traits</title>
-    <link>https://mods.vintagestory.at/show/mod/marcy9skobolds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/marcy9skobolds#11334</guid>
-    <pubDate>Sun, 06 Sep 2026 09:23:59 -0000</pubDate>
-    <description>a set of traits that forces kobold players to be silly little guys.</description>
-  </item>
-  <item>
-    <title>Underwater Horrors</title>
-    <link>https://mods.vintagestory.at/show/mod/7281</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7281#7281</guid>
-    <pubDate>Sun, 06 Sep 2026 09:15:16 -0000</pubDate>
-    <description>Adds nightmare sea monsters to Vintage Story (Sea Serpents, Kraken)</description>
-  </item>
-  <item>
-    <title>Skis and Snowboards</title>
-    <link>https://mods.vintagestory.at/show/mod/skisandsnowboards</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skisandsnowboards#11170</guid>
-    <pubDate>Sun, 06 Sep 2026 09:04:16 -0000</pubDate>
-    <description>Craft skis and snowboards and carve across snow and ice. </description>
-  </item>
-  <item>
-    <title>Animalica - Body Tools &amp; Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicabtc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicabtc#9867</guid>
-    <pubDate>Sun, 06 Sep 2026 08:54:26 -0000</pubDate>
-    <description>Wearable body tools and universal classes for Animalica player species.</description>
-  </item>
-  <item>
-    <title>Tamables: Critters</title>
-    <link>https://mods.vintagestory.at/show/mod/tamablescritters</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tamablescritters#11270</guid>
-    <pubDate>Sun, 06 Sep 2026 08:51:38 -0000</pubDate>
-    <description>Adds tamables for a few requested mods here and there</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Taming</title>
-    <link>https://mods.vintagestory.at/show/mod/fotsataming</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsataming#11206</guid>
-    <pubDate>Sun, 06 Sep 2026 08:51:22 -0000</pubDate>
-    <description>Adds taming ability through PetAI to allow a bunch of the FOTSA animals to be tamed.</description>
   </item>
 </channel>
 </rss>
