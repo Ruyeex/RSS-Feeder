@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 08 Sep 2026 21:40:06 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 08 Sep 2026 23:55:13 +0000</lastBuildDate>
+  <item>
+    <title>Barbershop Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/10424</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10424#10424</guid>
+    <pubDate>Tue, 08 Sep 2026 23:35:50 -0000</pubDate>
+    <description>Re-implements Barbershop as a full-fledged profession.</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Tue, 08 Sep 2026 23:00:59 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>Looking for borax?</title>
+    <link>https://mods.vintagestory.at/show/mod/11620</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11620#11620</guid>
+    <pubDate>Tue, 08 Sep 2026 23:00:42 -0000</pubDate>
+    <description>Changes the texture of Borax!</description>
+  </item>
+  <item>
+    <title>Vintage Clickers</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageclickers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageclickers#11619</guid>
+    <pubDate>Tue, 08 Sep 2026 22:45:05 -0000</pubDate>
+    <description>Adds training clickers. I know what you are.</description>
+  </item>
+  <item>
+    <title>Vinconomy - A Vintage Story Economy Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/vinconomy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vinconomy#1580</guid>
+    <pubDate>Tue, 08 Sep 2026 22:44:38 -0000</pubDate>
+    <description>Adds player shops, trading, and commerce.</description>
+  </item>
+  <item>
+    <title>No Waste Bloomery</title>
+    <link>https://mods.vintagestory.at/show/mod/6265</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6265#6265</guid>
+    <pubDate>Tue, 08 Sep 2026 22:43:45 -0000</pubDate>
+    <description>Makes the bloomery drop all the materials used to craft it.</description>
+  </item>
+  <item>
+    <title>Heatproof Bricks</title>
+    <link>https://mods.vintagestory.at/show/mod/heatproofbricks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/heatproofbricks#6264</guid>
+    <pubDate>Tue, 08 Sep 2026 22:42:56 -0000</pubDate>
+    <description>Firebricks handle heat damage better, and tier 3 doesn't break anymore!</description>
+  </item>
+  <item>
+    <title>Low Light Spawns</title>
+    <link>https://mods.vintagestory.at/show/mod/lowlightspawns</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lowlightspawns#6248</guid>
+    <pubDate>Tue, 08 Sep 2026 22:42:27 -0000</pubDate>
+    <description>Simple mod to change the light level at which all monsters spawn</description>
+  </item>
   <item>
     <title>VS Instruments Redux</title>
     <link>https://mods.vintagestory.at/show/mod/10555</link>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/makebeer#11477</guid>
     <pubDate>Tue, 08 Sep 2026 19:00:30 -0000</pubDate>
     <description>The Make Beer modification opens the path of traditional brewing to players. </description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/11476</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
-    <pubDate>Tue, 08 Sep 2026 18:51:06 -0000</pubDate>
-    <description>For details on content, please contact me directly via Discord.</description>
-  </item>
-  <item>
-    <title>Helianthus</title>
-    <link>https://mods.vintagestory.at/show/mod/10781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10781#10781</guid>
-    <pubDate>Tue, 08 Sep 2026 18:49:27 -0000</pubDate>
-    <description>Adds plants in the sunflower tribe</description>
-  </item>
-  <item>
-    <title>Craft-a-Bell</title>
-    <link>https://mods.vintagestory.at/show/mod/craftabell</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/craftabell#8673</guid>
-    <pubDate>Tue, 08 Sep 2026 18:37:32 -0000</pubDate>
-    <description>Craftable Fren that can alert you to nearby enemies, times of day, and hold messages.</description>
-  </item>
-  <item>
-    <title>Hover Info</title>
-    <link>https://mods.vintagestory.at/show/mod/hoverinfo</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hoverinfo#10792</guid>
-    <pubDate>Tue, 08 Sep 2026 18:32:04 -0000</pubDate>
-    <description>A mod made for the Paw server to see the information of player held items also linkable to chat</description>
-  </item>
-  <item>
-    <title>AstraTerra</title>
-    <link>https://mods.vintagestory.at/show/mod/8706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
-    <pubDate>Tue, 08 Sep 2026 18:13:34 -0000</pubDate>
-    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Tue, 08 Sep 2026 18:12:50 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Tue, 08 Sep 2026 18:12:30 -0000</pubDate>
-    <description>The factory must grow!</description>
-  </item>
-  <item>
-    <title>More Buckets</title>
-    <link>https://mods.vintagestory.at/show/mod/morebuckets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebuckets#11536</guid>
-    <pubDate>Tue, 08 Sep 2026 18:03:25 -0000</pubDate>
-    <description>Leave those exhausting trips to the spring behind and let the new buckets and tanks do the hard work</description>
   </item>
 </channel>
 </rss>
