@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 08 Sep 2026 05:41:44 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 08 Sep 2026 10:51:20 +0000</lastBuildDate>
+  <item>
+    <title> Scriptorium - VTML editor</title>
+    <link>https://mods.vintagestory.at/show/mod/vtml</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vtml#11605</guid>
+    <pubDate>Tue, 08 Sep 2026 10:49:28 -0000</pubDate>
+    <description>Scriptorium - VTML Book Editor</description>
+  </item>
+  <item>
+    <title>Player Model NPCs </title>
+    <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
+    <pubDate>Tue, 08 Sep 2026 10:45:02 -0000</pubDate>
+    <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
+  </item>
+  <item>
+    <title>Particles Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/particlesplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/particlesplus#2228</guid>
+    <pubDate>Tue, 08 Sep 2026 10:14:05 -0000</pubDate>
+    <description>Particles for resin, high fertility, pretta soils, meteoric iron. Fully customizable, add your own.</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Tue, 08 Sep 2026 09:28:30 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
+  <item>
+    <title>FendragonSMP Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/fendragonsmpfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonsmpfork#11554</guid>
+    <pubDate>Tue, 08 Sep 2026 09:13:24 -0000</pubDate>
+    <description>Fork version of FendragonSMP for Fendragon server</description>
+  </item>
+  <item>
+    <title>Ambien's Pie Everything</title>
+    <link>https://mods.vintagestory.at/show/mod/10730</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10730#10730</guid>
+    <pubDate>Tue, 08 Sep 2026 09:07:03 -0000</pubDate>
+    <description>Put whatever you want into a pie, who cares? </description>
+  </item>
+  <item>
+    <title>The Working Classes - 1.22 Compatibility and Bug Fixing Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/theworkingclasseswspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/theworkingclasseswspatch#10474</guid>
+    <pubDate>Tue, 08 Sep 2026 08:13:55 -0000</pubDate>
+    <description>A focused compatibility and bug-fix fork of The Working Classes for Vintage Story</description>
+  </item>
+  <item>
+    <title>AnMiTech Continued</title>
+    <link>https://mods.vintagestory.at/show/mod/11603</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11603#11603</guid>
+    <pubDate>Tue, 08 Sep 2026 07:41:05 -0000</pubDate>
+    <description>restoring a forgotten mod that includes weapons and armors from various cultures</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Tue, 08 Sep 2026 07:19:34 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Tue, 08 Sep 2026 06:41:38 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
+  <item>
+    <title>Death Exile</title>
+    <link>https://mods.vintagestory.at/show/mod/10274</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10274#10274</guid>
+    <pubDate>Tue, 08 Sep 2026 06:14:40 -0000</pubDate>
+    <description>Value your life - death has consequences. Die and face a ban, ghost mode, or 24h exile.</description>
+  </item>
   <item>
     <title>Crown &amp; Coalition Chapter 2</title>
     <link>https://mods.vintagestory.at/show/mod/11428</link>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11597#11597</guid>
     <pubDate>Tue, 08 Sep 2026 00:13:15 -0000</pubDate>
     <description>Customize race and sub-race descriptions, racial traits, class traits, and class availability!</description>
-  </item>
-  <item>
-    <title>Mad Mechanics</title>
-    <link>https://mods.vintagestory.at/show/mod/madmechanics</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/madmechanics#11592</guid>
-    <pubDate>Mon, 07 Sep 2026 23:56:06 -0000</pubDate>
-    <description>Vertical Transmissions and Ceiling Mountable Clutch</description>
-  </item>
-  <item>
-    <title>ottermods</title>
-    <link>https://mods.vintagestory.at/show/mod/ottermods</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ottermods#11141</guid>
-    <pubDate>Mon, 07 Sep 2026 23:37:21 -0000</pubDate>
-    <description>Otter Creek Server Tweaks</description>
-  </item>
-  <item>
-    <title>Jonastech Shape Projector</title>
-    <link>https://mods.vintagestory.at/show/mod/11490</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11490#11490</guid>
-    <pubDate>Mon, 07 Sep 2026 22:46:28 -0000</pubDate>
-    <description>Casts exact circles, rings, polygons and spirals as building guides. Level or draped on terrain.</description>
-  </item>
-  <item>
-    <title>Rudiments</title>
-    <link>https://mods.vintagestory.at/show/mod/9305</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
-    <pubDate>Mon, 07 Sep 2026 22:25:20 -0000</pubDate>
-    <description>Pre-industrial craft, done properly. Fibre, clay, kilns— one step at a time.</description>
-  </item>
-  <item>
-    <title>Vinconomy - A Vintage Story Economy Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/vinconomy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vinconomy#1580</guid>
-    <pubDate>Mon, 07 Sep 2026 22:14:23 -0000</pubDate>
-    <description>Adds player shops, trading, and commerce.</description>
-  </item>
-  <item>
-    <title>NDL Villagers</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlvillagers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlvillagers#3429</guid>
-    <pubDate>Mon, 07 Sep 2026 21:57:07 -0000</pubDate>
-    <description>Adds Villagers/Guards/Clerics to populate your builds and also a way to get traders in your builds!</description>
-  </item>
-  <item>
-    <title>Integrated Mod Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/imm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/imm#11458</guid>
-    <pubDate>Mon, 07 Sep 2026 21:51:00 -0000</pubDate>
-    <description>Configure your mods, fetch dependencies, and resolve conflicts entirely in-game!</description>
-  </item>
-  <item>
-    <title>The Marginalia: Conjuction</title>
-    <link>https://mods.vintagestory.at/show/mod/tmcon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tmcon#11478</guid>
-    <pubDate>Mon, 07 Sep 2026 21:47:00 -0000</pubDate>
-    <description>The world is not held together; it is held. Raise the Anchorhold, feed it, and mind the fog.</description>
-  </item>
-  <item>
-    <title>The Quire Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/tqp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tqp#10455</guid>
-    <pubDate>Mon, 07 Sep 2026 21:45:47 -0000</pubDate>
-    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
-  </item>
-  <item>
-    <title>Fixes for Salvation Engine Server</title>
-    <link>https://mods.vintagestory.at/show/mod/9903</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9903#9903</guid>
-    <pubDate>Mon, 07 Sep 2026 21:40:05 -0000</pubDate>
-    <description>Fixes for Salvation Engine Server </description>
-  </item>
-  <item>
-    <title>Commercially</title>
-    <link>https://mods.vintagestory.at/show/mod/commercially</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/commercially#10727</guid>
-    <pubDate>Mon, 07 Sep 2026 21:19:11 -0000</pubDate>
-    <description>An Economic framework for ownable blocks</description>
   </item>
 </channel>
 </rss>
