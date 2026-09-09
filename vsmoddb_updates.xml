@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 08 Sep 2026 23:55:13 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 09 Sep 2026 03:45:12 +0000</lastBuildDate>
+  <item>
+    <title>Newfie's Anti-Cheat Client</title>
+    <link>https://mods.vintagestory.at/show/mod/11551</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11551#11551</guid>
+    <pubDate>Wed, 09 Sep 2026 03:40:09 -0000</pubDate>
+    <description>Newfie’s Integrity Monitor</description>
+  </item>
+  <item>
+    <title>Grassroots Coca</title>
+    <link>https://mods.vintagestory.at/show/mod/grassrootscoca</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassrootscoca#10921</guid>
+    <pubDate>Wed, 09 Sep 2026 03:40:03 -0000</pubDate>
+    <description>Coca farming. Grow, dry, leech, refine, and recrystallize. Extract the purest product.</description>
+  </item>
+  <item>
+    <title>Grassroots</title>
+    <link>https://mods.vintagestory.at/show/mod/grassroots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
+    <pubDate>Wed, 09 Sep 2026 03:39:24 -0000</pubDate>
+    <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
+  </item>
+  <item>
+    <title>Newfies Server Essentials Suite</title>
+    <link>https://mods.vintagestory.at/show/mod/11556</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
+    <pubDate>Wed, 09 Sep 2026 03:38:23 -0000</pubDate>
+    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
+  </item>
+  <item>
+    <title>Walkable Deck (Experimental)</title>
+    <link>https://mods.vintagestory.at/show/mod/walkabledeck</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkabledeck#11390</guid>
+    <pubDate>Wed, 09 Sep 2026 02:49:19 -0000</pubDate>
+    <description>EXPERIMENTAL - Walk around on Shipwright boat decks while they sail. Requires Shipwright.</description>
+  </item>
+  <item>
+    <title>Client-side Entity AI API Library</title>
+    <link>https://mods.vintagestory.at/show/mod/cliententityailib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cliententityailib#11624</guid>
+    <pubDate>Wed, 09 Sep 2026 02:42:26 -0000</pubDate>
+    <description>Client-only Entity AI API library. Contains function for spawning entities and moving them.</description>
+  </item>
+  <item>
+    <title>Walk With Jesus</title>
+    <link>https://mods.vintagestory.at/show/mod/11589</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11589#11589</guid>
+    <pubDate>Wed, 09 Sep 2026 01:50:07 -0000</pubDate>
+    <description>A Jesus NPC to walk alongside you and sit with you</description>
+  </item>
+  <item>
+    <title>Airmapfix Unofficial </title>
+    <link>https://mods.vintagestory.at/show/mod/airmapfixunofficial</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/airmapfixunofficial#11623</guid>
+    <pubDate>Wed, 09 Sep 2026 01:29:29 -0000</pubDate>
+    <description>Updated version of Broken Cave Map Fix by Sneezerstein</description>
+  </item>
+  <item>
+    <title>KarinServerCLassLock&amp;Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/11606</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11606#11606</guid>
+    <pubDate>Wed, 09 Sep 2026 01:08:07 -0000</pubDate>
+    <description>Locks race-specific classes to their race and adds traits for the Karin Archipelago private server.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Wed, 09 Sep 2026 00:34:34 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
+  </item>
   <item>
     <title>Barbershop Plus</title>
     <link>https://mods.vintagestory.at/show/mod/10424</link>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustboundmagic#1290</guid>
     <pubDate>Tue, 08 Sep 2026 19:47:40 -0000</pubDate>
     <description>Adds magic to Vintage Story.</description>
-  </item>
-  <item>
-    <title>VSA - SolidBeams</title>
-    <link>https://mods.vintagestory.at/show/mod/11586</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11586#11586</guid>
-    <pubDate>Tue, 08 Sep 2026 19:44:28 -0000</pubDate>
-    <description>Very simple mod, beams now have selection outlines &amp; collision boxes</description>
-  </item>
-  <item>
-    <title>TekTools</title>
-    <link>https://mods.vintagestory.at/show/mod/11615</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11615#11615</guid>
-    <pubDate>Tue, 08 Sep 2026 19:36:14 -0000</pubDate>
-    <description>Adds a dedicated Tools tab to the Vintage Story character window, providing a clean home for TekTool</description>
-  </item>
-  <item>
-    <title>Jonastech Shape Projector</title>
-    <link>https://mods.vintagestory.at/show/mod/11490</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11490#11490</guid>
-    <pubDate>Tue, 08 Sep 2026 19:30:09 -0000</pubDate>
-    <description>Casts exact circles, rings, polygons and spirals as building guides. Level or draped on terrain.</description>
-  </item>
-  <item>
-    <title>Integrated Mod Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/imm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/imm#11458</guid>
-    <pubDate>Tue, 08 Sep 2026 19:29:17 -0000</pubDate>
-    <description>Configure your mods, fetch dependencies, and resolve conflicts entirely in-game!</description>
-  </item>
-  <item>
-    <title>SaB Expanded: Lattes and Cappuccinos</title>
-    <link>https://mods.vintagestory.at/show/mod/11613</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11613#11613</guid>
-    <pubDate>Tue, 08 Sep 2026 19:28:19 -0000</pubDate>
-    <description>Adds several milk/espresso drinks for Steep and Brew.</description>
-  </item>
-  <item>
-    <title>UniversalChat</title>
-    <link>https://mods.vintagestory.at/show/mod/11401</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11401#11401</guid>
-    <pubDate>Tue, 08 Sep 2026 19:19:53 -0000</pubDate>
-    <description>Adds a native Universal chat tab that mirrors General and translates each message locally.</description>
-  </item>
-  <item>
-    <title>C&amp;N RPG Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/canrpgclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canrpgclasses#9965</guid>
-    <pubDate>Tue, 08 Sep 2026 19:17:14 -0000</pubDate>
-    <description>RPG classes for Vintage Story</description>
-  </item>
-  <item>
-    <title>C&amp;N Trader</title>
-    <link>https://mods.vintagestory.at/show/mod/cantrader</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cantrader#669</guid>
-    <pubDate>Tue, 08 Sep 2026 19:11:35 -0000</pubDate>
-    <description>Custom trader for server</description>
-  </item>
-  <item>
-    <title>Early Bird Specials Server mod</title>
-    <link>https://mods.vintagestory.at/show/mod/ebs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ebs#11611</guid>
-    <pubDate>Tue, 08 Sep 2026 19:10:09 -0000</pubDate>
-    <description>Adds some fun things for the Early Bird Specials server!</description>
-  </item>
-  <item>
-    <title>Make Beer</title>
-    <link>https://mods.vintagestory.at/show/mod/makebeer</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/makebeer#11477</guid>
-    <pubDate>Tue, 08 Sep 2026 19:00:30 -0000</pubDate>
-    <description>The Make Beer modification opens the path of traditional brewing to players. </description>
   </item>
 </channel>
 </rss>
