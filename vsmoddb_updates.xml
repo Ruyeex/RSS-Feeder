@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 09 Sep 2026 03:45:12 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 09 Sep 2026 08:47:49 +0000</lastBuildDate>
+  <item>
+    <title>moontweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/moontweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moontweaks#11454</guid>
+    <pubDate>Wed, 09 Sep 2026 08:43:21 -0000</pubDate>
+    <description>Server-side Lua scripting! Add mod compat &amp; make new recipes with ease.</description>
+  </item>
+  <item>
+    <title>Target Health</title>
+    <link>https://mods.vintagestory.at/show/mod/targethealth</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/targethealth#11545</guid>
+    <pubDate>Wed, 09 Sep 2026 08:33:47 -0000</pubDate>
+    <description>Floating health bar with customizable skins and floating damage numbers</description>
+  </item>
+  <item>
+    <title>FendragonSMP Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/fendragonsmpfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonsmpfork#11554</guid>
+    <pubDate>Wed, 09 Sep 2026 08:33:01 -0000</pubDate>
+    <description>Fork version of FendragonSMP for Fendragon server</description>
+  </item>
+  <item>
+    <title>Slings Progression</title>
+    <link>https://mods.vintagestory.at/show/mod/slings</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slings#5152</guid>
+    <pubDate>Wed, 09 Sep 2026 07:26:30 -0000</pubDate>
+    <description>Adds new slingshots that can be obtained by progressing through the game.</description>
+  </item>
+  <item>
+    <title>Waypoint Beacon</title>
+    <link>https://mods.vintagestory.at/show/mod/waypointbeacon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waypointbeacon#7102</guid>
+    <pubDate>Wed, 09 Sep 2026 07:08:14 -0000</pubDate>
+    <description>Your map knows. Your eyes can too - 3D beacons for waypoints</description>
+  </item>
+  <item>
+    <title>Gourmand</title>
+    <link>https://mods.vintagestory.at/show/mod/2471</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/2471#2471</guid>
+    <pubDate>Wed, 09 Sep 2026 06:40:05 -0000</pubDate>
+    <description>Health buff for eating a greater variety of foods</description>
+  </item>
+  <item>
+    <title>Immersive Trader Notes</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivetradernotes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivetradernotes#8592</guid>
+    <pubDate>Wed, 09 Sep 2026 06:36:02 -0000</pubDate>
+    <description>Write down notes about traders' wares and prices directly into a book.</description>
+  </item>
+  <item>
+    <title>Scribe: Notes &amp; Tasks</title>
+    <link>https://mods.vintagestory.at/show/mod/scribe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scribe#10607</guid>
+    <pubDate>Wed, 09 Sep 2026 06:06:06 -0000</pubDate>
+    <description>Items and stations to take notes and track tasks in-game. Pin to-dos on your HUD. Multiplayer-ready.</description>
+  </item>
+  <item>
+    <title>Client-side Entity AI API Library</title>
+    <link>https://mods.vintagestory.at/show/mod/cliententityailib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cliententityailib#11624</guid>
+    <pubDate>Wed, 09 Sep 2026 05:13:05 -0000</pubDate>
+    <description>Client-only Entity AI API library. Contains function for spawning entities and moving them.</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Wed, 09 Sep 2026 04:31:01 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>The Pepper Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/8855</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8855#8855</guid>
+    <pubDate>Wed, 09 Sep 2026 04:24:04 -0000</pubDate>
+    <description>Grow and harvest perennial pepper bushes with custom models, seasonal dormancy, and a spicy heat sys</description>
+  </item>
+  <item>
+    <title>Newfies PlayerList</title>
+    <link>https://mods.vintagestory.at/show/mod/11626</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11626#11626</guid>
+    <pubDate>Wed, 09 Sep 2026 03:46:20 -0000</pubDate>
+    <description>A clean, lightweight and configurable player list for Newfie’s Server Essentials Suite</description>
+  </item>
   <item>
     <title>Newfie's Anti-Cheat Client</title>
     <link>https://mods.vintagestory.at/show/mod/11551</link>
@@ -39,13 +123,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkabledeck#11390</guid>
     <pubDate>Wed, 09 Sep 2026 02:49:19 -0000</pubDate>
     <description>EXPERIMENTAL - Walk around on Shipwright boat decks while they sail. Requires Shipwright.</description>
-  </item>
-  <item>
-    <title>Client-side Entity AI API Library</title>
-    <link>https://mods.vintagestory.at/show/mod/cliententityailib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cliententityailib#11624</guid>
-    <pubDate>Wed, 09 Sep 2026 02:42:26 -0000</pubDate>
-    <description>Client-only Entity AI API library. Contains function for spawning entities and moving them.</description>
   </item>
   <item>
     <title>Walk With Jesus</title>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
     <pubDate>Tue, 08 Sep 2026 21:18:12 -0000</pubDate>
     <description>Bring your world to life! Play custom ABC/MIDI sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux - Expansion B</title>
-    <link>https://mods.vintagestory.at/show/mod/11573</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11573#11573</guid>
-    <pubDate>Tue, 08 Sep 2026 21:17:59 -0000</pubDate>
-    <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
-  </item>
-  <item>
-    <title>FrameForgeTSR</title>
-    <link>https://mods.vintagestory.at/show/mod/frameforgetsr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frameforgetsr#10733</guid>
-    <pubDate>Tue, 08 Sep 2026 21:14:08 -0000</pubDate>
-    <description>Runtime and Visual System to give back frames while looking amazing.</description>
-  </item>
-  <item>
-    <title>BotaniaStory</title>
-    <link>https://mods.vintagestory.at/show/mod/8113</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8113#8113</guid>
-    <pubDate>Tue, 08 Sep 2026 21:13:52 -0000</pubDate>
-    <description>BotaniaStory - nature magic, mana, and automation in Vintage Story!</description>
-  </item>
-  <item>
-    <title>TaborServers</title>
-    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
-    <pubDate>Tue, 08 Sep 2026 21:04:38 -0000</pubDate>
-    <description>Patches fo most of Tabor servers</description>
-  </item>
-  <item>
-    <title>vinconomystandfix</title>
-    <link>https://mods.vintagestory.at/show/mod/vinconomystandfix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vinconomystandfix#11617</guid>
-    <pubDate>Tue, 08 Sep 2026 20:54:58 -0000</pubDate>
-    <description>Fixes the Vinconomy 5.3.0 helmet stand and clothing stand</description>
-  </item>
-  <item>
-    <title>RiftLauncher - Independent launcher software.</title>
-    <link>https://mods.vintagestory.at/show/mod/riftlauncher</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftlauncher#11016</guid>
-    <pubDate>Tue, 08 Sep 2026 20:43:41 -0000</pubDate>
-    <description>Focused on multiple versions and installations, safe backups and, mod browsing built in.</description>
-  </item>
-  <item>
-    <title>Universal barrel liquid fix</title>
-    <link>https://mods.vintagestory.at/show/mod/ublx</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ublx#9601</guid>
-    <pubDate>Tue, 08 Sep 2026 20:40:39 -0000</pubDate>
-    <description>Just dll for CZ4 Tabor server barrels</description>
-  </item>
-  <item>
-    <title>Tuna's Cute and Cozy Clothes</title>
-    <link>https://mods.vintagestory.at/show/mod/11596</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11596#11596</guid>
-    <pubDate>Tue, 08 Sep 2026 20:15:35 -0000</pubDate>
-    <description>Non-Vanilla friendly clothes (:</description>
-  </item>
-  <item>
-    <title>ADS - Admin Defense System</title>
-    <link>https://mods.vintagestory.at/show/mod/ads</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ads#11616</guid>
-    <pubDate>Tue, 08 Sep 2026 20:11:03 -0000</pubDate>
-    <description>Admin tools that log who broke, placed and used every block, with an inspector, filtered lookups,</description>
-  </item>
-  <item>
-    <title>TentBag-Reworked</title>
-    <link>https://mods.vintagestory.at/show/mod/tentbagreworked</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tentbagreworked#3558</guid>
-    <pubDate>Tue, 08 Sep 2026 19:54:59 -0000</pubDate>
-    <description>Adds a tent bag for Vintage Story with scaling hunger cost based on tent complexity</description>
-  </item>
-  <item>
-    <title>Rustbound Magic</title>
-    <link>https://mods.vintagestory.at/show/mod/rustboundmagic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustboundmagic#1290</guid>
-    <pubDate>Tue, 08 Sep 2026 19:47:40 -0000</pubDate>
-    <description>Adds magic to Vintage Story.</description>
   </item>
 </channel>
 </rss>
