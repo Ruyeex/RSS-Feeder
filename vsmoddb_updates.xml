@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 10 Sep 2026 20:34:31 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 10 Sep 2026 22:59:18 +0000</lastBuildDate>
+  <item>
+    <title>Ice Cellar</title>
+    <link>https://mods.vintagestory.at/show/mod/10837</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10837#10837</guid>
+    <pubDate>Thu, 10 Sep 2026 22:36:13 -0000</pubDate>
+    <description>Chill your cellar with ice and keep food fresh, longer.</description>
+  </item>
+  <item>
+    <title>Immersive Maps</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivemaps</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivemaps#6740</guid>
+    <pubDate>Thu, 10 Sep 2026 22:27:55 -0000</pubDate>
+    <description>Immersive Maps adds new physical maps that the player can craft and hold in 3D space.</description>
+  </item>
+  <item>
+    <title>vinconomystandfix</title>
+    <link>https://mods.vintagestory.at/show/mod/vinconomystandfix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vinconomystandfix#11617</guid>
+    <pubDate>Thu, 10 Sep 2026 22:24:07 -0000</pubDate>
+    <description>Fixes the Vinconomy 5.3.0 helmet stand and clothing stand</description>
+  </item>
+  <item>
+    <title>muppersrpg</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersrpg</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersrpg#11629</guid>
+    <pubDate>Thu, 10 Sep 2026 22:22:26 -0000</pubDate>
+    <description>rpg, rarity, stats and reskin for every weapon/tool/armor.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Manidae</title>
+    <link>https://mods.vintagestory.at/show/mod/manidae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/manidae#2150</guid>
+    <pubDate>Thu, 10 Sep 2026 22:07:44 -0000</pubDate>
+    <description>A collection of pangolins from the Holocene.</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Thu, 10 Sep 2026 21:42:28 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>The Complete Set</title>
+    <link>https://mods.vintagestory.at/show/mod/11648</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11648#11648</guid>
+    <pubDate>Thu, 10 Sep 2026 21:39:14 -0000</pubDate>
+    <description>A mod that adds all the "missing" flower pots, planters, and storage vessels.</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Thu, 10 Sep 2026 21:30:36 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
+  <item>
+    <title>ChatLink</title>
+    <link>https://mods.vintagestory.at/show/mod/chatlink</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chatlink#8804</guid>
+    <pubDate>Thu, 10 Sep 2026 20:38:58 -0000</pubDate>
+    <description>Turns HTTP/HTTPS URLs item/block names in chat into clickable links and blocks configured unsafe web</description>
+  </item>
   <item>
     <title>Immersive beds</title>
     <link>https://mods.vintagestory.at/show/mod/immbeds</link>
@@ -32,20 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deartibusrusticis#11159</guid>
     <pubDate>Thu, 10 Sep 2026 18:59:52 -0000</pubDate>
     <description>Adds 19 new crops and 5 meals inspired by medieval European agriculture.</description>
-  </item>
-  <item>
-    <title>muppersrpg</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersrpg</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersrpg#11629</guid>
-    <pubDate>Thu, 10 Sep 2026 18:48:14 -0000</pubDate>
-    <description>rpg, rarity, stats and reskin for every weapon/tool/armor.</description>
-  </item>
-  <item>
-    <title>vinconomystandfix</title>
-    <link>https://mods.vintagestory.at/show/mod/vinconomystandfix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vinconomystandfix#11617</guid>
-    <pubDate>Thu, 10 Sep 2026 18:15:55 -0000</pubDate>
-    <description>Fixes the Vinconomy 5.3.0 helmet stand and clothing stand</description>
   </item>
   <item>
     <title>Simple Voice Chat</title>
@@ -95,13 +144,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10739#10739</guid>
     <pubDate>Thu, 10 Sep 2026 17:09:15 -0000</pubDate>
     <description>Road Network allows you to spawn roads automatically, which snuggle to the terrain.</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Thu, 10 Sep 2026 16:40:58 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
   </item>
   <item>
     <title>C&amp;N Events</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebuckets#11536</guid>
     <pubDate>Thu, 10 Sep 2026 14:26:02 -0000</pubDate>
     <description>Leave those exhausting trips to the spring behind and let the new buckets and tanks do the hard work</description>
-  </item>
-  <item>
-    <title>Rock Attac - Armor Protec</title>
-    <link>https://mods.vintagestory.at/show/mod/caveinarmor</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caveinarmor#9035</guid>
-    <pubDate>Thu, 10 Sep 2026 14:19:54 -0000</pubDate>
-    <description>Enables vanilla armor to natively mitigate crushing damage from falling blocks.</description>
-  </item>
-  <item>
-    <title>Temporally Stable Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/tstweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tstweaks#5193</guid>
-    <pubDate>Thu, 10 Sep 2026 14:14:03 -0000</pubDate>
-    <description>Various tweaks for the Temporally Stable server.</description>
-  </item>
-  <item>
-    <title>Steen's Snakes</title>
-    <link>https://mods.vintagestory.at/show/mod/11641</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11641#11641</guid>
-    <pubDate>Thu, 10 Sep 2026 13:34:18 -0000</pubDate>
-    <description>This mod adds snakes.</description>
-  </item>
-  <item>
-    <title>SaltyWater's Radial Crafting - RC SERVER VERSION</title>
-    <link>https://mods.vintagestory.at/show/mod/11642</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11642#11642</guid>
-    <pubDate>Thu, 10 Sep 2026 13:31:57 -0000</pubDate>
-    <description>Tweaks Radial Crafting to use tools from hotbar again</description>
-  </item>
-  <item>
-    <title>Zoom Button Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/zoombuttonpatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zoombuttonpatch#10443</guid>
-    <pubDate>Thu, 10 Sep 2026 13:28:01 -0000</pubDate>
-    <description>Compatibility Update! More GUI hidden while zooming!</description>
-  </item>
-  <item>
-    <title>Bow Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/bowpatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bowpatch#10613</guid>
-    <pubDate>Thu, 10 Sep 2026 13:26:32 -0000</pubDate>
-    <description>Clears the screen while aiming. Compatible with Combat Overhaul Fork!</description>
   </item>
 </channel>
 </rss>
