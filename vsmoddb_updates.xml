@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 10 Sep 2026 03:43:07 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 10 Sep 2026 08:45:42 +0000</lastBuildDate>
+  <item>
+    <title>Grid for Beams</title>
+    <link>https://mods.vintagestory.at/show/mod/gridforbeams</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gridforbeams#11157</guid>
+    <pubDate>Thu, 10 Sep 2026 08:23:46 -0000</pubDate>
+    <description>Adds a grid and markers to blocks when holding a beam. Has a separate grid for chiseled blocks</description>
+  </item>
+  <item>
+    <title>CollapseStory</title>
+    <link>https://mods.vintagestory.at/show/mod/7776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
+    <pubDate>Thu, 10 Sep 2026 08:13:33 -0000</pubDate>
+    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Thu, 10 Sep 2026 07:52:31 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
+  <item>
+    <title>Grassroots</title>
+    <link>https://mods.vintagestory.at/show/mod/grassroots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
+    <pubDate>Thu, 10 Sep 2026 07:41:24 -0000</pubDate>
+    <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
+  </item>
+  <item>
+    <title>Scribe: Notes &amp; Tasks</title>
+    <link>https://mods.vintagestory.at/show/mod/scribe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scribe#10607</guid>
+    <pubDate>Thu, 10 Sep 2026 07:06:46 -0000</pubDate>
+    <description>Items and stations to take notes and track tasks in-game. Pin to-dos on your HUD. Multiplayer-ready.</description>
+  </item>
+  <item>
+    <title>Rat's Stuff</title>
+    <link>https://mods.vintagestory.at/show/mod/11640</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11640#11640</guid>
+    <pubDate>Thu, 10 Sep 2026 06:59:49 -0000</pubDate>
+    <description>My first mod, for now I just did some new swords.</description>
+  </item>
+  <item>
+    <title>VSA - WorkingBellows</title>
+    <link>https://mods.vintagestory.at/show/mod/11639</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11639#11639</guid>
+    <pubDate>Thu, 10 Sep 2026 06:44:04 -0000</pubDate>
+    <description>Large bellows work now with linkage arm, large bellows and linkage arm can be crafted in survival</description>
+  </item>
+  <item>
+    <title>Tuna's Cute and Cozy Clothes</title>
+    <link>https://mods.vintagestory.at/show/mod/11596</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11596#11596</guid>
+    <pubDate>Thu, 10 Sep 2026 05:46:28 -0000</pubDate>
+    <description>Non-Vanilla friendly clothes (:</description>
+  </item>
+  <item>
+    <title>Night Vision Toggle (With Sound Effect)</title>
+    <link>https://mods.vintagestory.at/show/mod/11638</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11638#11638</guid>
+    <pubDate>Thu, 10 Sep 2026 05:14:46 -0000</pubDate>
+    <description>Adds a toggle hotkey for your night vision goggles, with sound effects.</description>
+  </item>
+  <item>
+    <title>Newfies Server Essentials Suite</title>
+    <link>https://mods.vintagestory.at/show/mod/11556</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
+    <pubDate>Thu, 10 Sep 2026 05:06:00 -0000</pubDate>
+    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
+  </item>
+  <item>
+    <title>Newfie's Anti-Cheat Client</title>
+    <link>https://mods.vintagestory.at/show/mod/11551</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11551#11551</guid>
+    <pubDate>Thu, 10 Sep 2026 04:33:18 -0000</pubDate>
+    <description>Newfie’s Integrity Monitor</description>
+  </item>
+  <item>
+    <title>Advanced Geology</title>
+    <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedgeology#7167</guid>
+    <pubDate>Thu, 10 Sep 2026 04:24:36 -0000</pubDate>
+    <description>Total overhaul of vanilla oregen and adds many new rocks and minerals</description>
+  </item>
   <item>
     <title>Carlton's Stickworks</title>
     <link>https://mods.vintagestory.at/show/mod/carltonstickworks</link>
@@ -90,13 +174,6 @@
     <description>Runtime and Visual System to give back frames while looking amazing.</description>
   </item>
   <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Thu, 10 Sep 2026 01:36:20 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
     <title>Torches Contribute Heat</title>
     <link>https://mods.vintagestory.at/show/mod/torchescontributeheat</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/torchescontributeheat#8173</guid>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rhinocerotidae#2130</guid>
     <pubDate>Wed, 09 Sep 2026 22:21:44 -0000</pubDate>
     <description>A collection of rhinos from the Holocene.</description>
-  </item>
-  <item>
-    <title>Jelly Bundle</title>
-    <link>https://mods.vintagestory.at/show/mod/10059</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10059#10059</guid>
-    <pubDate>Wed, 09 Sep 2026 22:19:44 -0000</pubDate>
-    <description>A compilation of tweaks for the Swamp Jelly server.</description>
-  </item>
-  <item>
-    <title>Distant Vistas</title>
-    <link>https://mods.vintagestory.at/show/mod/distantvistas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/distantvistas#11259</guid>
-    <pubDate>Wed, 09 Sep 2026 22:13:22 -0000</pubDate>
-    <description>1.2.2 see far-lands, then farseer is customed and used for performance and for visual effect.</description>
-  </item>
-  <item>
-    <title>Animalica Dark Vision Compat</title>
-    <link>https://mods.vintagestory.at/show/mod/advc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advc#11372</guid>
-    <pubDate>Wed, 09 Sep 2026 22:01:54 -0000</pubDate>
-    <description>a compatibility patch to add custom night vision to some animalica models via the dark vision mod</description>
-  </item>
-  <item>
-    <title>Client-side Entity AI API Library</title>
-    <link>https://mods.vintagestory.at/show/mod/cliententityailib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cliententityailib#11624</guid>
-    <pubDate>Wed, 09 Sep 2026 21:30:14 -0000</pubDate>
-    <description>Client-only Entity AI API library. Contains function for spawning entities and moving them.</description>
-  </item>
-  <item>
-    <title>Seraph Leveling ReClassed</title>
-    <link>https://mods.vintagestory.at/show/mod/11234</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11234#11234</guid>
-    <pubDate>Wed, 09 Sep 2026 21:10:40 -0000</pubDate>
-    <description>Level up and gain traits in a vanilla-friendly way, with additional mod support</description>
-  </item>
-  <item>
-    <title>Tuna's Cute and Cozy Clothes</title>
-    <link>https://mods.vintagestory.at/show/mod/11596</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11596#11596</guid>
-    <pubDate>Wed, 09 Sep 2026 20:46:08 -0000</pubDate>
-    <description>Non-Vanilla friendly clothes (:</description>
-  </item>
-  <item>
-    <title>DragoniaQuests</title>
-    <link>https://mods.vintagestory.at/show/mod/10737</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10737#10737</guid>
-    <pubDate>Wed, 09 Sep 2026 20:21:26 -0000</pubDate>
-    <description>Quests from server Dragonia from based on alegacy base.</description>
-  </item>
-  <item>
-    <title>BotaniaStory</title>
-    <link>https://mods.vintagestory.at/show/mod/8113</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8113#8113</guid>
-    <pubDate>Wed, 09 Sep 2026 19:54:19 -0000</pubDate>
-    <description>BotaniaStory - nature magic, mana, and automation in Vintage Story!</description>
-  </item>
-  <item>
-    <title>CollapseStory</title>
-    <link>https://mods.vintagestory.at/show/mod/7776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
-    <pubDate>Wed, 09 Sep 2026 19:33:03 -0000</pubDate>
-    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
-  </item>
-  <item>
-    <title>CZ/SK Waypoints NextGen</title>
-    <link>https://mods.vintagestory.at/show/mod/wpnczsk</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wpnczsk#11634</guid>
-    <pubDate>Wed, 09 Sep 2026 19:25:27 -0000</pubDate>
-    <description>CZ/SK language mod for Waypoints NextGen</description>
-  </item>
-  <item>
-    <title>Forgotten Armory: Chinese Dynasties</title>
-    <link>https://mods.vintagestory.at/show/mod/5062</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5062#5062</guid>
-    <pubDate>Wed, 09 Sep 2026 19:06:16 -0000</pubDate>
-    <description>Mod adding multiple iron+ Scale armor variations in the style of Chinese Dynasties</description>
   </item>
 </channel>
 </rss>
