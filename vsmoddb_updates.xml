@@ -4,20 +4,132 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 09 Sep 2026 23:02:17 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 10 Sep 2026 03:43:07 +0000</lastBuildDate>
   <item>
-    <title>AstraTerra</title>
-    <link>https://mods.vintagestory.at/show/mod/8706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
-    <pubDate>Wed, 09 Sep 2026 22:53:16 -0000</pubDate>
-    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
+    <title>Carlton's Stickworks</title>
+    <link>https://mods.vintagestory.at/show/mod/carltonstickworks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carltonstickworks#7766</guid>
+    <pubDate>Thu, 10 Sep 2026 03:42:51 -0000</pubDate>
+    <description>Carve sticks out of firewood using a knife. Higher tier knives increase efficiency.</description>
+  </item>
+  <item>
+    <title>Newfies PlayerList</title>
+    <link>https://mods.vintagestory.at/show/mod/11626</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11626#11626</guid>
+    <pubDate>Thu, 10 Sep 2026 03:35:47 -0000</pubDate>
+    <description>A clean, lightweight and configurable player list for Newfie’s Server Essentials Suite</description>
+  </item>
+  <item>
+    <title>Nil's Sinister Boar Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/11255</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11255#11255</guid>
+    <pubDate>Thu, 10 Sep 2026 03:21:43 -0000</pubDate>
+    <description>Adds Ridable boars.  Extremely low effort. </description>
+  </item>
+  <item>
+    <title>Augur</title>
+    <link>https://mods.vintagestory.at/show/mod/augur</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/augur#11405</guid>
+    <pubDate>Thu, 10 Sep 2026 02:59:40 -0000</pubDate>
+    <description>Sense rock and ore deposits through meditation</description>
+  </item>
+  <item>
+    <title>Server Map</title>
+    <link>https://mods.vintagestory.at/show/mod/servermap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/servermap#11601</guid>
+    <pubDate>Thu, 10 Sep 2026 02:35:09 -0000</pubDate>
+    <description>2D and free-flight 3D browser maps for Vintage Story servers</description>
+  </item>
+  <item>
+    <title>The Quire Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/tqp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tqp#10455</guid>
+    <pubDate>Thu, 10 Sep 2026 02:15:53 -0000</pubDate>
+    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
+  </item>
+  <item>
+    <title>Age of Seraphs Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
+    <pubDate>Thu, 10 Sep 2026 02:01:13 -0000</pubDate>
+    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
+  </item>
+  <item>
+    <title>Craftsmanship</title>
+    <link>https://mods.vintagestory.at/show/mod/11590</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11590#11590</guid>
+    <pubDate>Thu, 10 Sep 2026 01:55:57 -0000</pubDate>
+    <description>Over 1,000 new items, creatures and weapons added</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Thu, 10 Sep 2026 01:52:42 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
   </item>
   <item>
     <title>Astra Extera</title>
     <link>https://mods.vintagestory.at/show/mod/11217</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11217#11217</guid>
-    <pubDate>Wed, 09 Sep 2026 22:36:44 -0000</pubDate>
+    <pubDate>Thu, 10 Sep 2026 01:49:59 -0000</pubDate>
     <description>Why proc. gener  just a world, how about a galaxy, and star system for that world !? </description>
+  </item>
+  <item>
+    <title>AstraTerra</title>
+    <link>https://mods.vintagestory.at/show/mod/8706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
+    <pubDate>Thu, 10 Sep 2026 01:48:12 -0000</pubDate>
+    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
+  </item>
+  <item>
+    <title>FrameForgeTSR</title>
+    <link>https://mods.vintagestory.at/show/mod/frameforgetsr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frameforgetsr#10733</guid>
+    <pubDate>Thu, 10 Sep 2026 01:47:45 -0000</pubDate>
+    <description>Runtime and Visual System to give back frames while looking amazing.</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Thu, 10 Sep 2026 01:36:20 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
+  <item>
+    <title>Torches Contribute Heat</title>
+    <link>https://mods.vintagestory.at/show/mod/torchescontributeheat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/torchescontributeheat#8173</guid>
+    <pubDate>Thu, 10 Sep 2026 00:52:20 -0000</pubDate>
+    <description>Torches now act as minor heat sources, warming nearby players and rooms.</description>
+  </item>
+  <item>
+    <title>Simple Water Tweaks VSR patch</title>
+    <link>https://mods.vintagestory.at/show/mod/swtvsr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swtvsr#9211</guid>
+    <pubDate>Thu, 10 Sep 2026 00:45:09 -0000</pubDate>
+    <description>Adds compatibility between Simple Water Tweaks and various shader mods</description>
+  </item>
+  <item>
+    <title>Simple water tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/simplewatertweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplewatertweaks#9126</guid>
+    <pubDate>Thu, 10 Sep 2026 00:43:54 -0000</pubDate>
+    <description>This mod modifies the game's water by adding an alternative wave effect and a more vibrant color </description>
+  </item>
+  <item>
+    <title>Waywheel</title>
+    <link>https://mods.vintagestory.at/show/mod/waywheel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waywheel#11526</guid>
+    <pubDate>Thu, 10 Sep 2026 00:41:31 -0000</pubDate>
+    <description>A radial-menu system built to make frequently used items faster and easier to access!</description>
+  </item>
+  <item>
+    <title>No Protected Zones</title>
+    <link>https://mods.vintagestory.at/show/mod/noprotection</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noprotection#8258</guid>
+    <pubDate>Wed, 09 Sep 2026 23:35:06 -0000</pubDate>
+    <description>With great power comes great responsibility.</description>
   </item>
   <item>
     <title>Fauna of the Stone Age: Rhinocerotidae</title>
@@ -97,123 +209,11 @@
     <description>CZ/SK language mod for Waypoints NextGen</description>
   </item>
   <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Wed, 09 Sep 2026 19:17:42 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
     <title>Forgotten Armory: Chinese Dynasties</title>
     <link>https://mods.vintagestory.at/show/mod/5062</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5062#5062</guid>
     <pubDate>Wed, 09 Sep 2026 19:06:16 -0000</pubDate>
     <description>Mod adding multiple iron+ Scale armor variations in the style of Chinese Dynasties</description>
-  </item>
-  <item>
-    <title>Forgotten Armory: Gothic style</title>
-    <link>https://mods.vintagestory.at/show/mod/4326</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4326#4326</guid>
-    <pubDate>Wed, 09 Sep 2026 19:05:02 -0000</pubDate>
-    <description>Mod adding multiple iron and beyond plate armor variations inspired by Gothic style</description>
-  </item>
-  <item>
-    <title>Forgotten Armory: Greenwich style</title>
-    <link>https://mods.vintagestory.at/show/mod/4321</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4321#4321</guid>
-    <pubDate>Wed, 09 Sep 2026 19:04:42 -0000</pubDate>
-    <description>Mod adding multiple iron and beyond plate armor variations inspired by Greenwich blacksmiths style</description>
-  </item>
-  <item>
-    <title>Better Husbandry</title>
-    <link>https://mods.vintagestory.at/show/mod/betterhusbandry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhusbandry#11009</guid>
-    <pubDate>Wed, 09 Sep 2026 19:04:24 -0000</pubDate>
-    <description>Changes animal husbandry by rewarding players for petting and feeding their animals.</description>
-  </item>
-  <item>
-    <title>Forgotten Armory: Core</title>
-    <link>https://mods.vintagestory.at/show/mod/11459</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11459#11459</guid>
-    <pubDate>Wed, 09 Sep 2026 19:04:11 -0000</pubDate>
-    <description>The Core mod for all the Forgotten armory mods</description>
-  </item>
-  <item>
-    <title>C&amp;N RPG Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/canrpgclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canrpgclasses#9965</guid>
-    <pubDate>Wed, 09 Sep 2026 18:52:07 -0000</pubDate>
-    <description>RPG classes for Vintage Story</description>
-  </item>
-  <item>
-    <title>NDL Villagers</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlvillagers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlvillagers#3429</guid>
-    <pubDate>Wed, 09 Sep 2026 18:47:01 -0000</pubDate>
-    <description>Adds Villagers/Guards/Clerics to populate your builds and also a way to get traders in your builds!</description>
-  </item>
-  <item>
-    <title>Extra Firearms [FORK]</title>
-    <link>https://mods.vintagestory.at/show/mod/5658</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5658#5658</guid>
-    <pubDate>Wed, 09 Sep 2026 18:42:36 -0000</pubDate>
-    <description>Finish version of the Extra Firearms mod with a lot of firearms</description>
-  </item>
-  <item>
-    <title>Wheellock firearm pack</title>
-    <link>https://mods.vintagestory.at/show/mod/7955</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7955#7955</guid>
-    <pubDate>Wed, 09 Sep 2026 18:40:27 -0000</pubDate>
-    <description>A collection of different types of wheellock firearms</description>
-  </item>
-  <item>
-    <title>Blunderbuss Pistol</title>
-    <link>https://mods.vintagestory.at/show/mod/11632</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11632#11632</guid>
-    <pubDate>Wed, 09 Sep 2026 18:39:16 -0000</pubDate>
-    <description>A pistol that shoots pellets instead of bullets</description>
-  </item>
-  <item>
-    <title>Dragoon Pistol</title>
-    <link>https://mods.vintagestory.at/show/mod/11631</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11631#11631</guid>
-    <pubDate>Wed, 09 Sep 2026 18:37:11 -0000</pubDate>
-    <description>A flintlock pistol that uses slugs instead of bullet</description>
-  </item>
-  <item>
-    <title>Matchlock Pistol</title>
-    <link>https://mods.vintagestory.at/show/mod/11630</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11630#11630</guid>
-    <pubDate>Wed, 09 Sep 2026 18:35:10 -0000</pubDate>
-    <description>A simple matchlock pistol</description>
-  </item>
-  <item>
-    <title>Clothes Have Pockets</title>
-    <link>https://mods.vintagestory.at/show/mod/clotheshavepockets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clotheshavepockets#10218</guid>
-    <pubDate>Wed, 09 Sep 2026 18:21:56 -0000</pubDate>
-    <description>Adds pockets (inventory slots) to various clothing items</description>
-  </item>
-  <item>
-    <title>Magical Moon - FRustyMagic</title>
-    <link>https://mods.vintagestory.at/show/mod/10975</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10975#10975</guid>
-    <pubDate>Wed, 09 Sep 2026 18:09:35 -0000</pubDate>
-    <description>An entirely in-world, small, moon magic mod. Play around with beams of light!</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Wed, 09 Sep 2026 18:07:07 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>RunicMagic</title>
-    <link>https://mods.vintagestory.at/show/mod/11486</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11486#11486</guid>
-    <pubDate>Wed, 09 Sep 2026 17:58:41 -0000</pubDate>
-    <description>Discover a world specific runic language, research its words, and write your own spells.</description>
   </item>
 </channel>
 </rss>
