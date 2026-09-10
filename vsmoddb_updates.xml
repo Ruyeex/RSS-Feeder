@@ -4,20 +4,97 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 10 Sep 2026 08:45:42 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 10 Sep 2026 13:23:17 +0000</lastBuildDate>
+  <item>
+    <title>Place it Anywhere</title>
+    <link>https://mods.vintagestory.at/show/mod/9914</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9914#9914</guid>
+    <pubDate>Thu, 10 Sep 2026 13:22:25 -0000</pubDate>
+    <description>Place any item as decoration on floors, walls and ceilings. Up to 64 items per cell.</description>
+  </item>
+  <item>
+    <title>QuasimoDOVS Clock</title>
+    <link>https://mods.vintagestory.at/show/mod/11244</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11244#11244</guid>
+    <pubDate>Thu, 10 Sep 2026 13:11:33 -0000</pubDate>
+    <description>Easy access to fast info at your screen! QuasimoDOVS Clock!</description>
+  </item>
+  <item>
+    <title>Secure Cooking Pots</title>
+    <link>https://mods.vintagestory.at/show/mod/securecookingpots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/securecookingpots#9942</guid>
+    <pubDate>Thu, 10 Sep 2026 13:10:15 -0000</pubDate>
+    <description>No more lost liquids while cooking. You'll get burnt if you try.</description>
+  </item>
+  <item>
+    <title>Integrated Mod Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/imm</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/imm#11458</guid>
+    <pubDate>Thu, 10 Sep 2026 12:52:37 -0000</pubDate>
+    <description>Configure your mods, fetch dependencies, and resolve conflicts entirely in-game!</description>
+  </item>
+  <item>
+    <title>From Golden Combs</title>
+    <link>https://mods.vintagestory.at/show/mod/fromgoldencombs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fromgoldencombs#354</guid>
+    <pubDate>Thu, 10 Sep 2026 12:41:37 -0000</pubDate>
+    <description>Adds Ceramic Hives and Langstroth Hives with Configurable Production Rates and Times</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Thu, 10 Sep 2026 12:33:47 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>Grenades!</title>
+    <link>https://mods.vintagestory.at/show/mod/lkgrenades</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lkgrenades#3268</guid>
+    <pubDate>Thu, 10 Sep 2026 12:16:06 -0000</pubDate>
+    <description>Adds grenades for your combat blasting needs</description>
+  </item>
+  <item>
+    <title>muppersrpg</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersrpg</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersrpg#11629</guid>
+    <pubDate>Thu, 10 Sep 2026 11:21:59 -0000</pubDate>
+    <description>rpg, rarity, stats and reskin for every weapon/tool/armor.</description>
+  </item>
+  <item>
+    <title>Simple Voice Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
+    <pubDate>Thu, 10 Sep 2026 11:15:03 -0000</pubDate>
+    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
+  </item>
+  <item>
+    <title>CollapseStory</title>
+    <link>https://mods.vintagestory.at/show/mod/7776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
+    <pubDate>Thu, 10 Sep 2026 09:46:27 -0000</pubDate>
+    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Thu, 10 Sep 2026 09:20:27 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
+  <item>
+    <title>FendragonSMP Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/fendragonsmpfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonsmpfork#11554</guid>
+    <pubDate>Thu, 10 Sep 2026 09:18:38 -0000</pubDate>
+    <description>Fork version of FendragonSMP for Fendragon server</description>
+  </item>
   <item>
     <title>Grid for Beams</title>
     <link>https://mods.vintagestory.at/show/mod/gridforbeams</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gridforbeams#11157</guid>
     <pubDate>Thu, 10 Sep 2026 08:23:46 -0000</pubDate>
     <description>Adds a grid and markers to blocks when holding a beam. Has a separate grid for chiseled blocks</description>
-  </item>
-  <item>
-    <title>CollapseStory</title>
-    <link>https://mods.vintagestory.at/show/mod/7776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
-    <pubDate>Thu, 10 Sep 2026 08:13:33 -0000</pubDate>
-    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
   </item>
   <item>
     <title>Feral Kinship: Companions</title>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
     <pubDate>Thu, 10 Sep 2026 02:01:13 -0000</pubDate>
     <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
-  </item>
-  <item>
-    <title>Craftsmanship</title>
-    <link>https://mods.vintagestory.at/show/mod/11590</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11590#11590</guid>
-    <pubDate>Thu, 10 Sep 2026 01:55:57 -0000</pubDate>
-    <description>Over 1,000 new items, creatures and weapons added</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Thu, 10 Sep 2026 01:52:42 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
-  </item>
-  <item>
-    <title>Astra Extera</title>
-    <link>https://mods.vintagestory.at/show/mod/11217</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11217#11217</guid>
-    <pubDate>Thu, 10 Sep 2026 01:49:59 -0000</pubDate>
-    <description>Why proc. gener  just a world, how about a galaxy, and star system for that world !? </description>
-  </item>
-  <item>
-    <title>AstraTerra</title>
-    <link>https://mods.vintagestory.at/show/mod/8706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8706#8706</guid>
-    <pubDate>Thu, 10 Sep 2026 01:48:12 -0000</pubDate>
-    <description>Turns the night sky into an dynamic starfield, create and monitor your own constellations.</description>
-  </item>
-  <item>
-    <title>FrameForgeTSR</title>
-    <link>https://mods.vintagestory.at/show/mod/frameforgetsr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frameforgetsr#10733</guid>
-    <pubDate>Thu, 10 Sep 2026 01:47:45 -0000</pubDate>
-    <description>Runtime and Visual System to give back frames while looking amazing.</description>
-  </item>
-  <item>
-    <title>Torches Contribute Heat</title>
-    <link>https://mods.vintagestory.at/show/mod/torchescontributeheat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/torchescontributeheat#8173</guid>
-    <pubDate>Thu, 10 Sep 2026 00:52:20 -0000</pubDate>
-    <description>Torches now act as minor heat sources, warming nearby players and rooms.</description>
-  </item>
-  <item>
-    <title>Simple Water Tweaks VSR patch</title>
-    <link>https://mods.vintagestory.at/show/mod/swtvsr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swtvsr#9211</guid>
-    <pubDate>Thu, 10 Sep 2026 00:45:09 -0000</pubDate>
-    <description>Adds compatibility between Simple Water Tweaks and various shader mods</description>
-  </item>
-  <item>
-    <title>Simple water tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/simplewatertweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplewatertweaks#9126</guid>
-    <pubDate>Thu, 10 Sep 2026 00:43:54 -0000</pubDate>
-    <description>This mod modifies the game's water by adding an alternative wave effect and a more vibrant color </description>
-  </item>
-  <item>
-    <title>Waywheel</title>
-    <link>https://mods.vintagestory.at/show/mod/waywheel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waywheel#11526</guid>
-    <pubDate>Thu, 10 Sep 2026 00:41:31 -0000</pubDate>
-    <description>A radial-menu system built to make frequently used items faster and easier to access!</description>
-  </item>
-  <item>
-    <title>No Protected Zones</title>
-    <link>https://mods.vintagestory.at/show/mod/noprotection</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noprotection#8258</guid>
-    <pubDate>Wed, 09 Sep 2026 23:35:06 -0000</pubDate>
-    <description>With great power comes great responsibility.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Rhinocerotidae</title>
-    <link>https://mods.vintagestory.at/show/mod/rhinocerotidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rhinocerotidae#2130</guid>
-    <pubDate>Wed, 09 Sep 2026 22:21:44 -0000</pubDate>
-    <description>A collection of rhinos from the Holocene.</description>
   </item>
 </channel>
 </rss>
