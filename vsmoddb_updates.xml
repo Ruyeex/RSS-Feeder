@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 11 Sep 2026 21:35:13 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 11 Sep 2026 23:57:18 +0000</lastBuildDate>
+  <item>
+    <title>Niltrias's Sinister Cookery</title>
+    <link>https://mods.vintagestory.at/show/mod/11215</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11215#11215</guid>
+    <pubDate>Fri, 11 Sep 2026 23:29:06 -0000</pubDate>
+    <description>Low-effort AI mod built for personal server only.  Should not be used by anyone. </description>
+  </item>
+  <item>
+    <title>IndustrialStory</title>
+    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
+    <pubDate>Fri, 11 Sep 2026 23:25:59 -0000</pubDate>
+    <description>Overhauls metalworking, chemistry, and glassworking. </description>
+  </item>
+  <item>
+    <title>Rickety Translocation</title>
+    <link>https://mods.vintagestory.at/show/mod/ricketytranslocation</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ricketytranslocation#5103</guid>
+    <pubDate>Fri, 11 Sep 2026 23:25:45 -0000</pubDate>
+    <description>This mod retextures base game translocators while also adding new linkable player crafted ones.</description>
+  </item>
+  <item>
+    <title>KarinServerCLassLock&amp;Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/11606</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11606#11606</guid>
+    <pubDate>Fri, 11 Sep 2026 23:14:13 -0000</pubDate>
+    <description>Locks race-specific classes to their race and adds traits for the Karin Archipelago private server.</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Fri, 11 Sep 2026 22:28:33 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
+  <item>
+    <title>Method Gaming Core</title>
+    <link>https://mods.vintagestory.at/show/mod/methodgamingcore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/methodgamingcore#11074</guid>
+    <pubDate>Fri, 11 Sep 2026 22:05:50 -0000</pubDate>
+    <description>The Official Method Gaming Core mod, required to connect to Method Gaming: Conquest</description>
+  </item>
+  <item>
+    <title>Advanced Geology</title>
+    <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedgeology#7167</guid>
+    <pubDate>Fri, 11 Sep 2026 21:53:28 -0000</pubDate>
+    <description>Total overhaul of vanilla oregen and adds many new rocks and minerals</description>
+  </item>
+  <item>
+    <title>Notice Board [v3.0]!</title>
+    <link>https://mods.vintagestory.at/show/mod/noticeboard</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noticeboard#2498</guid>
+    <pubDate>Fri, 11 Sep 2026 21:51:36 -0000</pubDate>
+    <description>Notice board where you can post and read player notices. Focused on RP aspect.</description>
+  </item>
+  <item>
+    <title>Vintage Goat Player Model</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagegoatplayermodel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagegoatplayermodel#5225</guid>
+    <pubDate>Fri, 11 Sep 2026 21:41:41 -0000</pubDate>
+    <description>Adds a goat player model to the game it uses Player Model Lib!</description>
+  </item>
   <item>
     <title>Combat Overhaul Balance</title>
     <link>https://mods.vintagestory.at/show/mod/4215</link>
@@ -55,20 +118,6 @@
     <description>Handbook enhancements, faster Creative Inventory, and optimized crafting for large modpacks.</description>
   </item>
   <item>
-    <title>Vintage Goat Player Model</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagegoatplayermodel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagegoatplayermodel#5225</guid>
-    <pubDate>Fri, 11 Sep 2026 19:19:57 -0000</pubDate>
-    <description>Adds a goat player model to the game it uses Player Model Lib by Maltiez!</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Fri, 11 Sep 2026 19:08:51 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
     <title>One More Quench!</title>
     <link>https://mods.vintagestory.at/show/mod/11643</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11643#11643</guid>
@@ -95,13 +144,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
     <pubDate>Fri, 11 Sep 2026 17:50:50 -0000</pubDate>
     <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
-  </item>
-  <item>
-    <title>Advanced Geology</title>
-    <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedgeology#7167</guid>
-    <pubDate>Fri, 11 Sep 2026 17:36:24 -0000</pubDate>
-    <description>Total overhaul of vanilla oregen and adds many new rocks and minerals</description>
   </item>
   <item>
     <title>Walkable Deck (Experimental)</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pantherinae#1125</guid>
     <pubDate>Fri, 11 Sep 2026 15:41:03 -0000</pubDate>
     <description>A collection of big cats from human history.</description>
-  </item>
-  <item>
-    <title>Insanity Lib</title>
-    <link>https://mods.vintagestory.at/show/mod/insanitylib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/insanitylib#3966</guid>
-    <pubDate>Fri, 11 Sep 2026 15:03:07 -0000</pubDate>
-    <description>A library mod with modding utilities</description>
-  </item>
-  <item>
-    <title>Czech Patch - Čeština do módů</title>
-    <link>https://mods.vintagestory.at/show/mod/czechpatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/czechpatch#2800</guid>
-    <pubDate>Fri, 11 Sep 2026 14:26:12 -0000</pubDate>
-    <description>Mod, který přidá české překlady některých módů do hry. Adds Czech translations to some mods</description>
-  </item>
-  <item>
-    <title>Icebox</title>
-    <link>https://mods.vintagestory.at/show/mod/cmicebox</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cmicebox#9170</guid>
-    <pubDate>Fri, 11 Sep 2026 14:25:53 -0000</pubDate>
-    <description>A vintage icebox, place a block of ice inside and it will keep your food fresh.</description>
-  </item>
-  <item>
-    <title>Skaven/Rat Player Model</title>
-    <link>https://mods.vintagestory.at/show/mod/skavenratplayermodel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skavenratplayermodel#5322</guid>
-    <pubDate>Fri, 11 Sep 2026 14:25:31 -0000</pubDate>
-    <description>Adds a Skaven/Rat player model to the game it uses Player Model Lib!</description>
-  </item>
-  <item>
-    <title>FendragonSMP Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/fendragonsmpfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonsmpfork#11554</guid>
-    <pubDate>Fri, 11 Sep 2026 14:17:25 -0000</pubDate>
-    <description>Fork version of FendragonSMP for Fendragon server</description>
-  </item>
-  <item>
-    <title>Oils! Resoaped Standalone</title>
-    <link>https://mods.vintagestory.at/show/mod/oilsresoapedsa</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oilsresoapedsa#10040</guid>
-    <pubDate>Fri, 11 Sep 2026 14:11:50 -0000</pubDate>
-    <description>A content mod that adds plant oils &amp; some alternative recipes, e.g. treating hides and quicklime. </description>
   </item>
 </channel>
 </rss>
