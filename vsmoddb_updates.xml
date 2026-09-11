@@ -4,13 +4,139 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 11 Sep 2026 10:50:24 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 11 Sep 2026 14:53:43 +0000</lastBuildDate>
   <item>
-    <title>Aldi's Classes / Sttep and Brew Tea Patch</title>
+    <title>Czech Patch - Čeština do módů</title>
+    <link>https://mods.vintagestory.at/show/mod/czechpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/czechpatch#2800</guid>
+    <pubDate>Fri, 11 Sep 2026 14:26:12 -0000</pubDate>
+    <description>Mod, který přidá české překlady některých módů do hry. Adds Czech translations to some mods</description>
+  </item>
+  <item>
+    <title>Icebox</title>
+    <link>https://mods.vintagestory.at/show/mod/cmicebox</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cmicebox#9170</guid>
+    <pubDate>Fri, 11 Sep 2026 14:25:53 -0000</pubDate>
+    <description>A vintage icebox, place a block of ice inside and it will keep your food fresh.</description>
+  </item>
+  <item>
+    <title>Skaven/Rat Player Model</title>
+    <link>https://mods.vintagestory.at/show/mod/skavenratplayermodel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skavenratplayermodel#5322</guid>
+    <pubDate>Fri, 11 Sep 2026 14:25:31 -0000</pubDate>
+    <description>Adds a Skaven/Rat player model to the game it uses Player Model Lib!</description>
+  </item>
+  <item>
+    <title>FendragonSMP Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/fendragonsmpfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonsmpfork#11554</guid>
+    <pubDate>Fri, 11 Sep 2026 14:17:25 -0000</pubDate>
+    <description>Fork version of FendragonSMP for Fendragon server</description>
+  </item>
+  <item>
+    <title>Oils! Resoaped Standalone</title>
+    <link>https://mods.vintagestory.at/show/mod/oilsresoapedsa</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oilsresoapedsa#10040</guid>
+    <pubDate>Fri, 11 Sep 2026 14:11:50 -0000</pubDate>
+    <description>A content mod that adds plant oils &amp; some alternative recipes, e.g. treating hides and quicklime. </description>
+  </item>
+  <item>
+    <title>Lycan's Traits for My Race My Rules</title>
+    <link>https://mods.vintagestory.at/show/mod/lycanstraits</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lycanstraits#11658</guid>
+    <pubDate>Fri, 11 Sep 2026 14:05:38 -0000</pubDate>
+    <description>Adds a bunch of new traits modifying different stats to be used for customizing classes &amp; races.</description>
+  </item>
+  <item>
+    <title>Open Hand</title>
+    <link>https://mods.vintagestory.at/show/mod/openhand</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/openhand#11548</guid>
+    <pubDate>Fri, 11 Sep 2026 13:58:06 -0000</pubDate>
+    <description>An always-empty hand option for the discerning adventurer</description>
+  </item>
+  <item>
+    <title>ChatLink</title>
+    <link>https://mods.vintagestory.at/show/mod/chatlink</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chatlink#8804</guid>
+    <pubDate>Fri, 11 Sep 2026 13:45:23 -0000</pubDate>
+    <description>Turns HTTP/HTTPS URLs item/block names in chat into clickable links and blocks configured unsafe web</description>
+  </item>
+  <item>
+    <title>Sakura No Sato</title>
+    <link>https://mods.vintagestory.at/show/mod/sakuranosato</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sakuranosato#9306</guid>
+    <pubDate>Fri, 11 Sep 2026 13:23:28 -0000</pubDate>
+    <description>A VSVillage based conversion mod set in Sengoku (15th century) Japan</description>
+  </item>
+  <item>
+    <title>Tobias The Tank Engine</title>
+    <link>https://mods.vintagestory.at/show/mod/10702</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10702#10702</guid>
+    <pubDate>Fri, 11 Sep 2026 12:49:26 -0000</pubDate>
+    <description>F̸e̴e̷d̴ ̴s̶e̵r̸a̶p̷h̴s̶ ̶i̷n̵t̶o̶ ̷m̵y̶ ̴l̷i̷t̷ ̴b̵o̶i̷l̵e̸r̸</description>
+  </item>
+  <item>
+    <title>The Basics - Roleplay (RP) Proximity Chat and more!</title>
+    <link>https://mods.vintagestory.at/show/mod/thebasics</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thebasics#640</guid>
+    <pubDate>Fri, 11 Sep 2026 12:36:42 -0000</pubDate>
+    <description>Configurable Roleplay (RP) proximity chat system, various QoL features, and more!</description>
+  </item>
+  <item>
+    <title>VSA - WorkingBellows</title>
+    <link>https://mods.vintagestory.at/show/mod/11639</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11639#11639</guid>
+    <pubDate>Fri, 11 Sep 2026 12:33:28 -0000</pubDate>
+    <description>Large bellows work now with linkage arm, large bellows and linkage arm can be crafted in survival</description>
+  </item>
+  <item>
+    <title>Transmittance</title>
+    <link>https://mods.vintagestory.at/show/mod/transmittance</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/transmittance#10494</guid>
+    <pubDate>Fri, 11 Sep 2026 12:13:32 -0000</pubDate>
+    <description>Sunlight passing through colored glass gets colored appropriately</description>
+  </item>
+  <item>
+    <title>Paths and Roadways Rebalanced</title>
+    <link>https://mods.vintagestory.at/show/mod/pathsandroadways</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pathsandroadways#11488</guid>
+    <pubDate>Fri, 11 Sep 2026 12:02:07 -0000</pubDate>
+    <description>Adds walkspeed bonuses to Bricks, Cobblestone, Packed Earth and more! Nerfs Vanilla Paths.</description>
+  </item>
+  <item>
+    <title>ottermods</title>
+    <link>https://mods.vintagestory.at/show/mod/ottermods</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ottermods#11141</guid>
+    <pubDate>Fri, 11 Sep 2026 12:02:00 -0000</pubDate>
+    <description>Otter Creek Server Tweaks</description>
+  </item>
+  <item>
+    <title>Aldi's Classes / Steep and Brew Tea Patch</title>
     <link>https://mods.vintagestory.at/show/mod/11647</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11647#11647</guid>
-    <pubDate>Fri, 11 Sep 2026 10:44:46 -0000</pubDate>
+    <pubDate>Fri, 11 Sep 2026 11:38:16 -0000</pubDate>
     <description>Small tweak that should make it so Recipes that produce any kind of tea can only be made in a kettle</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Fri, 11 Sep 2026 11:09:04 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>muppersrpg</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersrpg</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersrpg#11629</guid>
+    <pubDate>Fri, 11 Sep 2026 11:07:49 -0000</pubDate>
+    <description>rpg, rarity, stats and reskin for every weapon/tool/armor.</description>
+  </item>
+  <item>
+    <title>Spiro Focused Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/spirofocusedclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spirofocusedclasses#11066</guid>
+    <pubDate>Fri, 11 Sep 2026 11:01:06 -0000</pubDate>
+    <description>Class tweaks designed specifically for the Spiro server</description>
   </item>
   <item>
     <title>Immersive Maps</title>
@@ -88,132 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alternativeblockoutline#11563</guid>
     <pubDate>Fri, 11 Sep 2026 09:17:44 -0000</pubDate>
     <description>Alternative Block Outline</description>
-  </item>
-  <item>
-    <title>Walkable Deck (Experimental)</title>
-    <link>https://mods.vintagestory.at/show/mod/walkabledeck</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkabledeck#11390</guid>
-    <pubDate>Fri, 11 Sep 2026 08:56:24 -0000</pubDate>
-    <description>EXPERIMENTAL - Stand up and walk a boat deck while it sails. Vanilla boats; no other mod required.</description>
-  </item>
-  <item>
-    <title>Vintage Goat Player Model</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagegoatplayermodel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagegoatplayermodel#5225</guid>
-    <pubDate>Fri, 11 Sep 2026 06:10:23 -0000</pubDate>
-    <description>Adds a goat player model to the game it uses Player Model Lib by Maltiez!</description>
-  </item>
-  <item>
-    <title>The Almanac: Trades, Callings &amp; Mastery</title>
-    <link>https://mods.vintagestory.at/show/mod/almanactcm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanactcm#10453</guid>
-    <pubDate>Fri, 11 Sep 2026 06:09:03 -0000</pubDate>
-    <description>Twenty-two trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>Advanced Tool Parts</title>
-    <link>https://mods.vintagestory.at/show/mod/advancedtoolparts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedtoolparts#11633</guid>
-    <pubDate>Fri, 11 Sep 2026 04:29:27 -0000</pubDate>
-    <description>Add handles and bindings to your tools to make them faster and last longer!</description>
-  </item>
-  <item>
-    <title>quarry vintage</title>
-    <link>https://mods.vintagestory.at/show/mod/quarry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/quarry#7458</guid>
-    <pubDate>Fri, 11 Sep 2026 04:07:37 -0000</pubDate>
-    <description>Automatic quarry: runs on coal or windmill power and keeps chunks loaded while mining.</description>
-  </item>
-  <item>
-    <title>Ring</title>
-    <link>https://mods.vintagestory.at/show/mod/11575</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11575#11575</guid>
-    <pubDate>Fri, 11 Sep 2026 04:04:08 -0000</pubDate>
-    <description>Special rings with effects, durability, and monster loot.</description>
-  </item>
-  <item>
-    <title>TURBOJOIN</title>
-    <link>https://mods.vintagestory.at/show/mod/11337</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11337#11337</guid>
-    <pubDate>Fri, 11 Sep 2026 03:29:33 -0000</pubDate>
-    <description>(hopefully) speeds up server load time</description>
-  </item>
-  <item>
-    <title>Newfies Server Essentials Suite</title>
-    <link>https://mods.vintagestory.at/show/mod/11556</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
-    <pubDate>Fri, 11 Sep 2026 02:20:27 -0000</pubDate>
-    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
-  </item>
-  <item>
-    <title>Newfie's Anti-Cheat Client</title>
-    <link>https://mods.vintagestory.at/show/mod/11551</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11551#11551</guid>
-    <pubDate>Fri, 11 Sep 2026 02:10:43 -0000</pubDate>
-    <description>Newfie’s Integrity Monitor</description>
-  </item>
-  <item>
-    <title>Waxlight Launcher</title>
-    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
-    <pubDate>Fri, 11 Sep 2026 01:43:00 -0000</pubDate>
-    <description>Manage Vintage Story instances, mods, versions and accounts from one modern launcher</description>
-  </item>
-  <item>
-    <title>The Pepper Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/8855</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8855#8855</guid>
-    <pubDate>Fri, 11 Sep 2026 01:41:58 -0000</pubDate>
-    <description>Grow and harvest perennial pepper bushes with custom models, seasonal dormancy, and a spicy heat sys</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Fri, 11 Sep 2026 01:41:35 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
-    <title>Better Husbandry</title>
-    <link>https://mods.vintagestory.at/show/mod/betterhusbandry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhusbandry#11009</guid>
-    <pubDate>Fri, 11 Sep 2026 01:05:26 -0000</pubDate>
-    <description>Changes animal husbandry by rewarding players for petting and feeding their animals.</description>
-  </item>
-  <item>
-    <title>Immersive Trader Notes</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivetradernotes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivetradernotes#8592</guid>
-    <pubDate>Fri, 11 Sep 2026 00:25:05 -0000</pubDate>
-    <description>Write down notes about traders' wares and prices directly into a book.</description>
-  </item>
-  <item>
-    <title>Manual Landslides</title>
-    <link>https://mods.vintagestory.at/show/mod/11651</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11651#11651</guid>
-    <pubDate>Fri, 11 Sep 2026 00:11:42 -0000</pubDate>
-    <description>Create landslides by throwing stones or using slings (wilderness survival)</description>
-  </item>
-  <item>
-    <title>Yang's Transport Tycoon</title>
-    <link>https://mods.vintagestory.at/show/mod/yangtransport</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yangtransport#6871</guid>
-    <pubDate>Thu, 10 Sep 2026 23:50:52 -0000</pubDate>
-    <description>Construct and operate industrial transport machinery.</description>
-  </item>
-  <item>
-    <title>Tuna's Cute and Cozy Clothes</title>
-    <link>https://mods.vintagestory.at/show/mod/11596</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11596#11596</guid>
-    <pubDate>Thu, 10 Sep 2026 23:33:04 -0000</pubDate>
-    <description>Non-Vanilla friendly clothes (:</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux - Expansion A</title>
-    <link>https://mods.vintagestory.at/show/mod/10825</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10825#10825</guid>
-    <pubDate>Thu, 10 Sep 2026 23:26:37 -0000</pubDate>
-    <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
   </item>
 </channel>
 </rss>
