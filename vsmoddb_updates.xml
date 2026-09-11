@@ -4,13 +4,83 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 11 Sep 2026 00:57:05 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 11 Sep 2026 05:47:28 +0000</lastBuildDate>
+  <item>
+    <title>Advanced Tool Parts</title>
+    <link>https://mods.vintagestory.at/show/mod/advancedtoolparts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedtoolparts#11633</guid>
+    <pubDate>Fri, 11 Sep 2026 04:29:27 -0000</pubDate>
+    <description>Add handles and bindings to your tools to make them faster and last longer!</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Fri, 11 Sep 2026 04:19:56 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>quarry vintage</title>
+    <link>https://mods.vintagestory.at/show/mod/quarry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/quarry#7458</guid>
+    <pubDate>Fri, 11 Sep 2026 04:07:37 -0000</pubDate>
+    <description>Automatic quarry: runs on coal or windmill power and keeps chunks loaded while mining.</description>
+  </item>
+  <item>
+    <title>Ring</title>
+    <link>https://mods.vintagestory.at/show/mod/11575</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11575#11575</guid>
+    <pubDate>Fri, 11 Sep 2026 04:04:08 -0000</pubDate>
+    <description>Special rings with effects, durability, and monster loot.</description>
+  </item>
+  <item>
+    <title>TURBOJOIN</title>
+    <link>https://mods.vintagestory.at/show/mod/11337</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11337#11337</guid>
+    <pubDate>Fri, 11 Sep 2026 03:29:33 -0000</pubDate>
+    <description>(hopefully) speeds up server load time</description>
+  </item>
   <item>
     <title>Newfies Server Essentials Suite</title>
     <link>https://mods.vintagestory.at/show/mod/11556</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
-    <pubDate>Fri, 11 Sep 2026 00:31:10 -0000</pubDate>
+    <pubDate>Fri, 11 Sep 2026 02:20:27 -0000</pubDate>
     <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
+  </item>
+  <item>
+    <title>Newfie's Anti-Cheat Client</title>
+    <link>https://mods.vintagestory.at/show/mod/11551</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11551#11551</guid>
+    <pubDate>Fri, 11 Sep 2026 02:10:43 -0000</pubDate>
+    <description>Newfie’s Integrity Monitor</description>
+  </item>
+  <item>
+    <title>Waxlight Launcher</title>
+    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
+    <pubDate>Fri, 11 Sep 2026 01:43:00 -0000</pubDate>
+    <description>Manage Vintage Story instances, mods, versions and accounts from one modern launcher</description>
+  </item>
+  <item>
+    <title>The Pepper Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/8855</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8855#8855</guid>
+    <pubDate>Fri, 11 Sep 2026 01:41:58 -0000</pubDate>
+    <description>Grow and harvest perennial pepper bushes with custom models, seasonal dormancy, and a spicy heat sys</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Fri, 11 Sep 2026 01:41:35 -0000</pubDate>
+    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
+  </item>
+  <item>
+    <title>Better Husbandry</title>
+    <link>https://mods.vintagestory.at/show/mod/betterhusbandry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhusbandry#11009</guid>
+    <pubDate>Fri, 11 Sep 2026 01:05:26 -0000</pubDate>
+    <description>Changes animal husbandry by rewarding players for petting and feeding their animals.</description>
   </item>
   <item>
     <title>Immersive Trader Notes</title>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivemaps#6740</guid>
     <pubDate>Thu, 10 Sep 2026 22:27:55 -0000</pubDate>
     <description>Immersive Maps adds new physical maps that the player can craft and hold in 3D space.</description>
-  </item>
-  <item>
-    <title>vinconomystandfix</title>
-    <link>https://mods.vintagestory.at/show/mod/vinconomystandfix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vinconomystandfix#11617</guid>
-    <pubDate>Thu, 10 Sep 2026 22:24:07 -0000</pubDate>
-    <description>Fixes the Vinconomy 5.3.0 helmet stand and clothing stand</description>
-  </item>
-  <item>
-    <title>muppersrpg</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersrpg</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersrpg#11629</guid>
-    <pubDate>Thu, 10 Sep 2026 22:22:26 -0000</pubDate>
-    <description>rpg, rarity, stats and reskin for every weapon/tool/armor.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Manidae</title>
-    <link>https://mods.vintagestory.at/show/mod/manidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/manidae#2150</guid>
-    <pubDate>Thu, 10 Sep 2026 22:07:44 -0000</pubDate>
-    <description>A collection of pangolins from the Holocene.</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Thu, 10 Sep 2026 21:42:28 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>The Complete Set</title>
-    <link>https://mods.vintagestory.at/show/mod/11648</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11648#11648</guid>
-    <pubDate>Thu, 10 Sep 2026 21:39:14 -0000</pubDate>
-    <description>A mod that adds all the "missing" flower pots, planters, and storage vessels.</description>
-  </item>
-  <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Thu, 10 Sep 2026 21:30:36 -0000</pubDate>
-    <description>The factory must grow!</description>
-  </item>
-  <item>
-    <title>ChatLink</title>
-    <link>https://mods.vintagestory.at/show/mod/chatlink</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chatlink#8804</guid>
-    <pubDate>Thu, 10 Sep 2026 20:38:58 -0000</pubDate>
-    <description>Turns HTTP/HTTPS URLs item/block names in chat into clickable links and blocks configured unsafe web</description>
-  </item>
-  <item>
-    <title>Immersive beds</title>
-    <link>https://mods.vintagestory.at/show/mod/immbeds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immbeds#11646</guid>
-    <pubDate>Thu, 10 Sep 2026 20:14:46 -0000</pubDate>
-    <description>Adds a bed with 4k+ variants.</description>
-  </item>
-  <item>
-    <title>Server Map</title>
-    <link>https://mods.vintagestory.at/show/mod/servermap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/servermap#11601</guid>
-    <pubDate>Thu, 10 Sep 2026 19:39:11 -0000</pubDate>
-    <description>2D and free-flight 3D browser maps for Vintage Story servers</description>
-  </item>
-  <item>
-    <title>Mehfood's Lance Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/lancemod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lancemod#11644</guid>
-    <pubDate>Thu, 10 Sep 2026 19:06:37 -0000</pubDate>
-    <description>Adds extra long spears for mounted combat</description>
   </item>
 </channel>
 </rss>
