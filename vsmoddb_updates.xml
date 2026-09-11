@@ -4,7 +4,112 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 11 Sep 2026 14:53:43 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 11 Sep 2026 18:14:46 +0000</lastBuildDate>
+  <item>
+    <title>WoNH Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/wonhtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wonhtweaks#8336</guid>
+    <pubDate>Fri, 11 Sep 2026 18:01:02 -0000</pubDate>
+    <description>Tweaks and modifications for the Vintage Story New Horizons server.</description>
+  </item>
+  <item>
+    <title>ChatLink</title>
+    <link>https://mods.vintagestory.at/show/mod/chatlink</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chatlink#8804</guid>
+    <pubDate>Fri, 11 Sep 2026 17:52:45 -0000</pubDate>
+    <description>Turns HTTP/HTTPS URLs item/block names in chat into clickable links and blocks configured unsafe web</description>
+  </item>
+  <item>
+    <title>C&amp;N Events</title>
+    <link>https://mods.vintagestory.at/show/mod/canevents</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
+    <pubDate>Fri, 11 Sep 2026 17:50:50 -0000</pubDate>
+    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
+  </item>
+  <item>
+    <title>Advanced Geology</title>
+    <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedgeology#7167</guid>
+    <pubDate>Fri, 11 Sep 2026 17:36:24 -0000</pubDate>
+    <description>Total overhaul of vanilla oregen and adds many new rocks and minerals</description>
+  </item>
+  <item>
+    <title>Walkable Deck (Experimental)</title>
+    <link>https://mods.vintagestory.at/show/mod/walkabledeck</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkabledeck#11390</guid>
+    <pubDate>Fri, 11 Sep 2026 17:04:11 -0000</pubDate>
+    <description>EXPERIMENTAL - Stand up and walk a boat deck while it sails. Vanilla boats; no other mod required.</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Fri, 11 Sep 2026 16:44:06 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>New Dawn Logo</title>
+    <link>https://mods.vintagestory.at/show/mod/11666</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11666#11666</guid>
+    <pubDate>Fri, 11 Sep 2026 16:25:42 -0000</pubDate>
+    <description>Logo block</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Rhinocerotidae</title>
+    <link>https://mods.vintagestory.at/show/mod/rhinocerotidae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rhinocerotidae#2130</guid>
+    <pubDate>Fri, 11 Sep 2026 15:48:12 -0000</pubDate>
+    <description>A collection of rhinos from the Holocene.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Casuariidae Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/casuariidae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/casuariidae#2066</guid>
+    <pubDate>Fri, 11 Sep 2026 15:47:12 -0000</pubDate>
+    <description>A collection of Cassowary, Emu and flightless Australian birds from human history.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Sirenia</title>
+    <link>https://mods.vintagestory.at/show/mod/sirenia</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sirenia#2019</guid>
+    <pubDate>Fri, 11 Sep 2026 15:46:16 -0000</pubDate>
+    <description>A collection of manatee and dugong from the Holocene.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Machairodontinae</title>
+    <link>https://mods.vintagestory.at/show/mod/machairodontinae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/machairodontinae#1900</guid>
+    <pubDate>Fri, 11 Sep 2026 15:45:28 -0000</pubDate>
+    <description>A collection of saber cats from human history.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Caninae</title>
+    <link>https://mods.vintagestory.at/show/mod/caninae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caninae#1438</guid>
+    <pubDate>Fri, 11 Sep 2026 15:44:42 -0000</pubDate>
+    <description>A collection of dogs from the Holocene.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Capreolinae</title>
+    <link>https://mods.vintagestory.at/show/mod/capreolinae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/capreolinae#1254</guid>
+    <pubDate>Fri, 11 Sep 2026 15:43:43 -0000</pubDate>
+    <description>A collection of New World deer from the Holocene.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Pantherinae</title>
+    <link>https://mods.vintagestory.at/show/mod/pantherinae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pantherinae#1125</guid>
+    <pubDate>Fri, 11 Sep 2026 15:41:03 -0000</pubDate>
+    <description>A collection of big cats from human history.</description>
+  </item>
+  <item>
+    <title>Insanity Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/insanitylib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/insanitylib#3966</guid>
+    <pubDate>Fri, 11 Sep 2026 15:03:07 -0000</pubDate>
+    <description>A library mod with modding utilities</description>
+  </item>
   <item>
     <title>Czech Patch - Čeština do módů</title>
     <link>https://mods.vintagestory.at/show/mod/czechpatch</link>
@@ -53,13 +158,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/openhand#11548</guid>
     <pubDate>Fri, 11 Sep 2026 13:58:06 -0000</pubDate>
     <description>An always-empty hand option for the discerning adventurer</description>
-  </item>
-  <item>
-    <title>ChatLink</title>
-    <link>https://mods.vintagestory.at/show/mod/chatlink</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chatlink#8804</guid>
-    <pubDate>Fri, 11 Sep 2026 13:45:23 -0000</pubDate>
-    <description>Turns HTTP/HTTPS URLs item/block names in chat into clickable links and blocks configured unsafe web</description>
   </item>
   <item>
     <title>Sakura No Sato</title>
@@ -116,104 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11647#11647</guid>
     <pubDate>Fri, 11 Sep 2026 11:38:16 -0000</pubDate>
     <description>Small tweak that should make it so Recipes that produce any kind of tea can only be made in a kettle</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Fri, 11 Sep 2026 11:09:04 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
-  </item>
-  <item>
-    <title>muppersrpg</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersrpg</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersrpg#11629</guid>
-    <pubDate>Fri, 11 Sep 2026 11:07:49 -0000</pubDate>
-    <description>rpg, rarity, stats and reskin for every weapon/tool/armor.</description>
-  </item>
-  <item>
-    <title>Spiro Focused Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/spirofocusedclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spirofocusedclasses#11066</guid>
-    <pubDate>Fri, 11 Sep 2026 11:01:06 -0000</pubDate>
-    <description>Class tweaks designed specifically for the Spiro server</description>
-  </item>
-  <item>
-    <title>Immersive Maps</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivemaps</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivemaps#6740</guid>
-    <pubDate>Fri, 11 Sep 2026 10:31:32 -0000</pubDate>
-    <description>Immersive Maps adds new physical maps that the player can craft and hold in 3D space.</description>
-  </item>
-  <item>
-    <title>WoNH Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/wonhtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wonhtweaks#8336</guid>
-    <pubDate>Fri, 11 Sep 2026 10:29:45 -0000</pubDate>
-    <description>Tweaks and modifications for the Vintage Story New Horizons server.</description>
-  </item>
-  <item>
-    <title>Make Beer</title>
-    <link>https://mods.vintagestory.at/show/mod/makebeer</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/makebeer#11477</guid>
-    <pubDate>Fri, 11 Sep 2026 09:56:33 -0000</pubDate>
-    <description>The Make Beer modification opens the path of traditional brewing to players. </description>
-  </item>
-  <item>
-    <title>More Buckets</title>
-    <link>https://mods.vintagestory.at/show/mod/morebuckets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebuckets#11536</guid>
-    <pubDate>Fri, 11 Sep 2026 09:55:59 -0000</pubDate>
-    <description>Leave those exhausting trips to the spring behind and let the new buckets and tanks do the hard work</description>
-  </item>
-  <item>
-    <title>vinconomystandfix</title>
-    <link>https://mods.vintagestory.at/show/mod/vinconomystandfix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vinconomystandfix#11617</guid>
-    <pubDate>Fri, 11 Sep 2026 09:55:05 -0000</pubDate>
-    <description>Fixes the Vinconomy 5.3.0 helmet stand and clothing stand</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Fri, 11 Sep 2026 09:48:47 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>The Complete Set</title>
-    <link>https://mods.vintagestory.at/show/mod/11648</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11648#11648</guid>
-    <pubDate>Fri, 11 Sep 2026 09:45:01 -0000</pubDate>
-    <description>A mod that adds all the "missing" flower pots, planters, and storage vessels.</description>
-  </item>
-  <item>
-    <title>Distant Vistas</title>
-    <link>https://mods.vintagestory.at/show/mod/distantvistas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/distantvistas#11259</guid>
-    <pubDate>Fri, 11 Sep 2026 09:40:14 -0000</pubDate>
-    <description>Use 0.79.0. Play-only, no overlay until seasons are right. Walk-capture LOD.</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Fri, 11 Sep 2026 09:34:15 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title> Scriptorium - VTML editor</title>
-    <link>https://mods.vintagestory.at/show/mod/vtml</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vtml#11605</guid>
-    <pubDate>Fri, 11 Sep 2026 09:19:32 -0000</pubDate>
-    <description>Scriptorium - VTML Book Editor</description>
-  </item>
-  <item>
-    <title>Alternative Block Outline</title>
-    <link>https://mods.vintagestory.at/show/mod/alternativeblockoutline</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alternativeblockoutline#11563</guid>
-    <pubDate>Fri, 11 Sep 2026 09:17:44 -0000</pubDate>
-    <description>Alternative Block Outline</description>
   </item>
 </channel>
 </rss>
