@@ -4,7 +4,147 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 12 Sep 2026 13:24:52 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 12 Sep 2026 16:49:30 +0000</lastBuildDate>
+  <item>
+    <title>Navarlio Customs</title>
+    <link>https://mods.vintagestory.at/show/mod/navarliocustoms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/navarliocustoms#1522</guid>
+    <pubDate>Sat, 12 Sep 2026 16:40:01 -0000</pubDate>
+    <description>Custom crafts for the Navarlio server.</description>
+  </item>
+  <item>
+    <title>Simple Bed Spawn</title>
+    <link>https://mods.vintagestory.at/show/mod/palmiersamasimplebedspawn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/palmiersamasimplebedspawn#11424</guid>
+    <pubDate>Sat, 12 Sep 2026 16:37:57 -0000</pubDate>
+    <description>A simple Vintage Story mod that sets your spawn point when you sleep in a bed.</description>
+  </item>
+  <item>
+    <title>QoLInventoryHotkeys</title>
+    <link>https://mods.vintagestory.at/show/mod/11695</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11695#11695</guid>
+    <pubDate>Sat, 12 Sep 2026 16:08:53 -0000</pubDate>
+    <description>QoL hotkeys for inventory and crafting management</description>
+  </item>
+  <item>
+    <title>Simple Discord Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/11696</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11696#11696</guid>
+    <pubDate>Sat, 12 Sep 2026 16:08:23 -0000</pubDate>
+    <description>Simple Discord Mod</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Sat, 12 Sep 2026 16:07:00 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>Lord of the Flies - Reflown</title>
+    <link>https://mods.vintagestory.at/show/mod/lordofthefliesreflown</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lordofthefliesreflown#11694</guid>
+    <pubDate>Sat, 12 Sep 2026 15:58:37 -0000</pubDate>
+    <description>Shows clouds of flies near any container with rot inside! Client side only. Recompiled for 1.22.X</description>
+  </item>
+  <item>
+    <title>Vinconomy - A Vintage Story Economy Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/vinconomy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vinconomy#1580</guid>
+    <pubDate>Sat, 12 Sep 2026 15:44:57 -0000</pubDate>
+    <description>Adds player shops, trading, and commerce.</description>
+  </item>
+  <item>
+    <title>VSUX Framework</title>
+    <link>https://mods.vintagestory.at/show/mod/11671</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11671#11671</guid>
+    <pubDate>Sat, 12 Sep 2026 15:26:15 -0000</pubDate>
+    <description>A reusable UI and presentation framework for Vintage Story</description>
+  </item>
+  <item>
+    <title>Admin Suite</title>
+    <link>https://mods.vintagestory.at/show/mod/adminsuite</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/adminsuite#11652</guid>
+    <pubDate>Sat, 12 Sep 2026 15:25:43 -0000</pubDate>
+    <description>A staff moderation panel (GUI) for Vintage Story</description>
+  </item>
+  <item>
+    <title>Tuna's Cute and Cozy Clothes</title>
+    <link>https://mods.vintagestory.at/show/mod/11596</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11596#11596</guid>
+    <pubDate>Sat, 12 Sep 2026 15:12:33 -0000</pubDate>
+    <description>Non-Vanilla friendly clothes (:</description>
+  </item>
+  <item>
+    <title>configkit</title>
+    <link>https://mods.vintagestory.at/show/mod/configkit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/configkit#11506</guid>
+    <pubDate>Sat, 12 Sep 2026 15:03:03 -0000</pubDate>
+    <description>In-game settings for your mods, without ImGui (alternative to configlib).</description>
+  </item>
+  <item>
+    <title>Olla</title>
+    <link>https://mods.vintagestory.at/show/mod/olla</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/olla#5784</guid>
+    <pubDate>Sat, 12 Sep 2026 14:59:59 -0000</pubDate>
+    <description> Bring ancient irrigation technology to Vintage Story! This mod adds ollas (pronounced "oy-yahs")</description>
+  </item>
+  <item>
+    <title>Autodoor Reopened</title>
+    <link>https://mods.vintagestory.at/show/mod/autodoorreopened</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autodoorreopened#11692</guid>
+    <pubDate>Sat, 12 Sep 2026 14:57:25 -0000</pubDate>
+    <description>Makes doors, trapdoors, &amp; gates open &amp; close around you automatically! Completely configurable.</description>
+  </item>
+  <item>
+    <title>Server Map</title>
+    <link>https://mods.vintagestory.at/show/mod/servermap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/servermap#11601</guid>
+    <pubDate>Sat, 12 Sep 2026 14:56:58 -0000</pubDate>
+    <description>2D and free-flight 3D browser maps for Vintage Story servers</description>
+  </item>
+  <item>
+    <title>Robo-Seraph Playermodel</title>
+    <link>https://mods.vintagestory.at/show/mod/mechaseraph</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mechaseraph#5596</guid>
+    <pubDate>Sat, 12 Sep 2026 14:42:56 -0000</pubDate>
+    <description>Adds a robotic seraph character model.</description>
+  </item>
+  <item>
+    <title>WOO Fantasy Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
+    <pubDate>Sat, 12 Sep 2026 14:34:30 -0000</pubDate>
+    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Sat, 12 Sep 2026 14:04:27 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
+  <item>
+    <title>ExitWarpLimiter</title>
+    <link>https://mods.vintagestory.at/show/mod/exitwarplimiter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/exitwarplimiter#9298</guid>
+    <pubDate>Sat, 12 Sep 2026 14:00:57 -0000</pubDate>
+    <description>Optional: disable repair, disable use and filter destination picks only on existing terrain.</description>
+  </item>
+  <item>
+    <title>Profiles</title>
+    <link>https://mods.vintagestory.at/show/mod/profiles</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/profiles#11669</guid>
+    <pubDate>Sat, 12 Sep 2026 13:51:11 -0000</pubDate>
+    <description>Save character appearances, models, classes, and mod data as resuable profiles</description>
+  </item>
+  <item>
+    <title>Chert to Flint</title>
+    <link>https://mods.vintagestory.at/show/mod/cherttoflint</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cherttoflint#11564</guid>
+    <pubDate>Sat, 12 Sep 2026 13:27:54 -0000</pubDate>
+    <description>A tiny, lore-friendly recipe mod.</description>
+  </item>
   <item>
     <title>Frontier Claims Map</title>
     <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
@@ -62,13 +202,6 @@
     <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
   </item>
   <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Sat, 12 Sep 2026 11:20:13 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
     <title>Shadehouse</title>
     <link>https://mods.vintagestory.at/show/mod/shadehouse</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shadehouse#8698</guid>
@@ -81,139 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
     <pubDate>Sat, 12 Sep 2026 11:16:40 -0000</pubDate>
     <description>Pre-industrial craft, done properly. Fibre, clay, kilns— one step at a time.</description>
-  </item>
-  <item>
-    <title>Vintage Canvas</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagecanvas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagecanvas#9406</guid>
-    <pubDate>Sat, 12 Sep 2026 11:16:10 -0000</pubDate>
-    <description>Craft canvases, mix paint, and use brushes to decorate your world!</description>
-  </item>
-  <item>
-    <title>KarinServerCLassLock&amp;Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/11606</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11606#11606</guid>
-    <pubDate>Sat, 12 Sep 2026 11:12:05 -0000</pubDate>
-    <description>Locks race-specific classes to their race and adds traits for the Karin Archipelago private server.</description>
-  </item>
-  <item>
-    <title>Simple Bed Spawn</title>
-    <link>https://mods.vintagestory.at/show/mod/palmiersamasimplebedspawn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/palmiersamasimplebedspawn#11424</guid>
-    <pubDate>Sat, 12 Sep 2026 10:54:11 -0000</pubDate>
-    <description>A simple Vintage Story mod that sets your spawn point when you sleep in a bed.</description>
-  </item>
-  <item>
-    <title>ottermods</title>
-    <link>https://mods.vintagestory.at/show/mod/ottermods</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ottermods#11141</guid>
-    <pubDate>Sat, 12 Sep 2026 10:52:51 -0000</pubDate>
-    <description>Otter Creek Server Tweaks</description>
-  </item>
-  <item>
-    <title>Long term food</title>
-    <link>https://mods.vintagestory.at/show/mod/longtermfood</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/longtermfood#2374</guid>
-    <pubDate>Sat, 12 Sep 2026 10:48:06 -0000</pubDate>
-    <description>Adds food that does not spoil for a very long time.</description>
-  </item>
-  <item>
-    <title>Terrain Diffusion Rainfall Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/11689</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11689#11689</guid>
-    <pubDate>Sat, 12 Sep 2026 10:35:46 -0000</pubDate>
-    <description>Server-side addon for Terrain Diffusion that makes precipitation queries and farmland watering agree</description>
-  </item>
-  <item>
-    <title>FrameForgeTSR</title>
-    <link>https://mods.vintagestory.at/show/mod/frameforgetsr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frameforgetsr#10733</guid>
-    <pubDate>Sat, 12 Sep 2026 10:18:50 -0000</pubDate>
-    <description>Runtime and Visual System to give back frames while looking amazing.</description>
-  </item>
-  <item>
-    <title>VS Server Panel</title>
-    <link>https://mods.vintagestory.at/show/mod/vsserverpanel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsserverpanel#2115</guid>
-    <pubDate>Sat, 12 Sep 2026 09:18:20 -0000</pubDate>
-    <description>Shows players a server panel upon loading with a server config for customization.</description>
-  </item>
-  <item>
-    <title>forlorn and blackguard additions continued</title>
-    <link>https://mods.vintagestory.at/show/mod/11412</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11412#11412</guid>
-    <pubDate>Sat, 12 Sep 2026 09:16:21 -0000</pubDate>
-    <description>a continuation of mods forlorn additions and blackguard additions.</description>
-  </item>
-  <item>
-    <title>VSUX Framework</title>
-    <link>https://mods.vintagestory.at/show/mod/11671</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11671#11671</guid>
-    <pubDate>Sat, 12 Sep 2026 09:10:45 -0000</pubDate>
-    <description>A reusable UI and presentation framework for Vintage Story</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Sat, 12 Sep 2026 09:05:19 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
-    <title>Vertical Transport</title>
-    <link>https://mods.vintagestory.at/show/mod/verticaltransport</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/verticaltransport#9544</guid>
-    <pubDate>Sat, 12 Sep 2026 08:42:41 -0000</pubDate>
-    <description>Four tiers of faster ladders. And the ultimate device for vertical transportation: The Televator!</description>
-  </item>
-  <item>
-    <title>Lycan's Traits for My Race My Rules</title>
-    <link>https://mods.vintagestory.at/show/mod/lycanstraits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lycanstraits#11658</guid>
-    <pubDate>Sat, 12 Sep 2026 08:36:36 -0000</pubDate>
-    <description>Adds a bunch of new traits modifying different stats to be used for customizing classes &amp; races.</description>
-  </item>
-  <item>
-    <title>ServerKits</title>
-    <link>https://mods.vintagestory.at/show/mod/serverkits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/serverkits#10285</guid>
-    <pubDate>Sat, 12 Sep 2026 08:14:48 -0000</pubDate>
-    <description>Kits to claim on servers</description>
-  </item>
-  <item>
-    <title>Alternative Block Outline</title>
-    <link>https://mods.vintagestory.at/show/mod/alternativeblockoutline</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alternativeblockoutline#11563</guid>
-    <pubDate>Sat, 12 Sep 2026 08:10:58 -0000</pubDate>
-    <description>Alternative Block Outline</description>
-  </item>
-  <item>
-    <title>Fast Map</title>
-    <link>https://mods.vintagestory.at/show/mod/8499</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8499#8499</guid>
-    <pubDate>Sat, 12 Sep 2026 07:53:34 -0000</pubDate>
-    <description>Map, but Fast</description>
-  </item>
-  <item>
-    <title>Fox's Fancies</title>
-    <link>https://mods.vintagestory.at/show/mod/11687</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11687#11687</guid>
-    <pubDate>Sat, 12 Sep 2026 07:13:20 -0000</pubDate>
-    <description>A (soon to be) collection of small additions that I didn't want to split up! No AI!</description>
-  </item>
-  <item>
-    <title>ADS - Admin Defense System</title>
-    <link>https://mods.vintagestory.at/show/mod/ads</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ads#11616</guid>
-    <pubDate>Sat, 12 Sep 2026 06:51:03 -0000</pubDate>
-    <description>Toolkit that logs who broke, placed and used every block, with an inspector, filtered lookups, +more</description>
-  </item>
-  <item>
-    <title>Walkable Deck (Experimental)</title>
-    <link>https://mods.vintagestory.at/show/mod/walkabledeck</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkabledeck#11390</guid>
-    <pubDate>Sat, 12 Sep 2026 06:43:03 -0000</pubDate>
-    <description>EXPERIMENTAL - Stand up and walk a boat deck while it sails. Vanilla boats; no other mod required.</description>
   </item>
 </channel>
 </rss>
