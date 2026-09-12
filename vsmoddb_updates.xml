@@ -4,7 +4,119 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 12 Sep 2026 16:49:30 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 12 Sep 2026 19:01:45 +0000</lastBuildDate>
+  <item>
+    <title>WoNH Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/wonhtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wonhtweaks#8336</guid>
+    <pubDate>Sat, 12 Sep 2026 18:59:52 -0000</pubDate>
+    <description>Tweaks and modifications for the Vintage Story New Horizons server.</description>
+  </item>
+  <item>
+    <title>ottermods</title>
+    <link>https://mods.vintagestory.at/show/mod/ottermods</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ottermods#11141</guid>
+    <pubDate>Sat, 12 Sep 2026 18:56:35 -0000</pubDate>
+    <description>Otter Creek Server Tweaks</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Sat, 12 Sep 2026 18:55:20 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>Vintage Goat Player Model</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagegoatplayermodel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagegoatplayermodel#5225</guid>
+    <pubDate>Sat, 12 Sep 2026 18:51:55 -0000</pubDate>
+    <description>Adds a goat player model to the game it uses Player Model Lib!</description>
+  </item>
+  <item>
+    <title>Tuna's Cute and Cozy Clothes</title>
+    <link>https://mods.vintagestory.at/show/mod/11596</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11596#11596</guid>
+    <pubDate>Sat, 12 Sep 2026 18:48:52 -0000</pubDate>
+    <description>Non-Vanilla friendly clothes (:</description>
+  </item>
+  <item>
+    <title>Moonlit Titles</title>
+    <link>https://mods.vintagestory.at/show/mod/moontitles</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moontitles#11700</guid>
+    <pubDate>Sat, 12 Sep 2026 18:45:16 -0000</pubDate>
+    <description>A mod to add unlockable titles for players</description>
+  </item>
+  <item>
+    <title>Immersive Fibercraft</title>
+    <link>https://mods.vintagestory.at/show/mod/5814</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5814#5814</guid>
+    <pubDate>Sat, 12 Sep 2026 18:05:59 -0000</pubDate>
+    <description>Adds new immersive spinning and weaving crafting mechanics to VintageStory! Try the new loom!</description>
+  </item>
+  <item>
+    <title>Window Display - Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/windowdisplaypatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplaypatches#10532</guid>
+    <pubDate>Sat, 12 Sep 2026 18:03:19 -0000</pubDate>
+    <description>Used to add custom transforms and to enable the particles of items on display</description>
+  </item>
+  <item>
+    <title>Expanded Beekeeping - Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/8221</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8221#8221</guid>
+    <pubDate>Sat, 12 Sep 2026 18:00:27 -0000</pubDate>
+    <description>Fork of Expanded Beekeeping. Vanilla+ expansion for beekeeping.</description>
+  </item>
+  <item>
+    <title>Cocktail Madness!</title>
+    <link>https://mods.vintagestory.at/show/mod/11680</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11680#11680</guid>
+    <pubDate>Sat, 12 Sep 2026 17:57:56 -0000</pubDate>
+    <description>Allows for the mixing of alcoholic and non alcoholic beverages.</description>
+  </item>
+  <item>
+    <title>Dirt to clay</title>
+    <link>https://mods.vintagestory.at/show/mod/11699</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11699#11699</guid>
+    <pubDate>Sat, 12 Sep 2026 17:51:10 -0000</pubDate>
+    <description>Dirt to clay</description>
+  </item>
+  <item>
+    <title>Universal Display Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/universaldisplaylib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/universaldisplaylib#10487</guid>
+    <pubDate>Sat, 12 Sep 2026 17:50:17 -0000</pubDate>
+    <description>The Lib has changed to be more than just windows so other modders can use it</description>
+  </item>
+  <item>
+    <title>Duskridge Settlers: Core</title>
+    <link>https://mods.vintagestory.at/show/mod/11672</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11672#11672</guid>
+    <pubDate>Sat, 12 Sep 2026 17:48:21 -0000</pubDate>
+    <description>Build and manage settlements with working NPCs, jobs, zones, storage, combat, and more.</description>
+  </item>
+  <item>
+    <title>Clothes Have Pockets</title>
+    <link>https://mods.vintagestory.at/show/mod/clotheshavepockets</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clotheshavepockets#10218</guid>
+    <pubDate>Sat, 12 Sep 2026 17:33:09 -0000</pubDate>
+    <description>Adds pockets (inventory slots) to various clothing items</description>
+  </item>
+  <item>
+    <title>Frontier Claims Map</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Sat, 12 Sep 2026 17:31:50 -0000</pubDate>
+    <description>Claim map and access controls for internal testing on a private server.</description>
+  </item>
+  <item>
+    <title>Grass (reed) baskets</title>
+    <link>https://mods.vintagestory.at/show/mod/11698</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11698#11698</guid>
+    <pubDate>Sat, 12 Sep 2026 16:49:44 -0000</pubDate>
+    <description>Grass (reed) baskets</description>
+  </item>
   <item>
     <title>Navarlio Customs</title>
     <link>https://mods.vintagestory.at/show/mod/navarliocustoms</link>
@@ -34,13 +146,6 @@
     <description>Simple Discord Mod</description>
   </item>
   <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Sat, 12 Sep 2026 16:07:00 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
     <title>Lord of the Flies - Reflown</title>
     <link>https://mods.vintagestory.at/show/mod/lordofthefliesreflown</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lordofthefliesreflown#11694</guid>
@@ -67,13 +172,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/adminsuite#11652</guid>
     <pubDate>Sat, 12 Sep 2026 15:25:43 -0000</pubDate>
     <description>A staff moderation panel (GUI) for Vintage Story</description>
-  </item>
-  <item>
-    <title>Tuna's Cute and Cozy Clothes</title>
-    <link>https://mods.vintagestory.at/show/mod/11596</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11596#11596</guid>
-    <pubDate>Sat, 12 Sep 2026 15:12:33 -0000</pubDate>
-    <description>Non-Vanilla friendly clothes (:</description>
   </item>
   <item>
     <title>configkit</title>
@@ -116,104 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
     <pubDate>Sat, 12 Sep 2026 14:34:30 -0000</pubDate>
     <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
-  </item>
-  <item>
-    <title>topgsmod</title>
-    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Sat, 12 Sep 2026 14:04:27 -0000</pubDate>
-    <description>TopGs Community Mod</description>
-  </item>
-  <item>
-    <title>ExitWarpLimiter</title>
-    <link>https://mods.vintagestory.at/show/mod/exitwarplimiter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/exitwarplimiter#9298</guid>
-    <pubDate>Sat, 12 Sep 2026 14:00:57 -0000</pubDate>
-    <description>Optional: disable repair, disable use and filter destination picks only on existing terrain.</description>
-  </item>
-  <item>
-    <title>Profiles</title>
-    <link>https://mods.vintagestory.at/show/mod/profiles</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/profiles#11669</guid>
-    <pubDate>Sat, 12 Sep 2026 13:51:11 -0000</pubDate>
-    <description>Save character appearances, models, classes, and mod data as resuable profiles</description>
-  </item>
-  <item>
-    <title>Chert to Flint</title>
-    <link>https://mods.vintagestory.at/show/mod/cherttoflint</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cherttoflint#11564</guid>
-    <pubDate>Sat, 12 Sep 2026 13:27:54 -0000</pubDate>
-    <description>A tiny, lore-friendly recipe mod.</description>
-  </item>
-  <item>
-    <title>Frontier Claims Map</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
-    <pubDate>Sat, 12 Sep 2026 12:54:21 -0000</pubDate>
-    <description>Claim map and access controls for internal testing on a private server.</description>
-  </item>
-  <item>
-    <title>Threnkal Traits Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/threnkaltraits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/threnkaltraits#11184</guid>
-    <pubDate>Sat, 12 Sep 2026 12:43:24 -0000</pubDate>
-    <description>A simple mod to add Trais to my Threnkal race Mod</description>
-  </item>
-  <item>
-    <title>Threnkal</title>
-    <link>https://mods.vintagestory.at/show/mod/threnkal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/threnkal#10944</guid>
-    <pubDate>Sat, 12 Sep 2026 12:42:29 -0000</pubDate>
-    <description>A race of cow folks based on minotaurs and taurens from WoW.</description>
-  </item>
-  <item>
-    <title>Footprints</title>
-    <link>https://mods.vintagestory.at/show/mod/footprints</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/footprints#5625</guid>
-    <pubDate>Sat, 12 Sep 2026 12:17:33 -0000</pubDate>
-    <description>Animals and Players leave footprints when moving.</description>
-  </item>
-  <item>
-    <title>xSkills Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7605</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
-    <pubDate>Sat, 12 Sep 2026 12:16:36 -0000</pubDate>
-    <description>RPG-style skill system with abilities, perks, and progression.</description>
-  </item>
-  <item>
-    <title>xSkills Fork Classic Edition</title>
-    <link>https://mods.vintagestory.at/show/mod/11574</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11574#11574</guid>
-    <pubDate>Sat, 12 Sep 2026 12:16:23 -0000</pubDate>
-    <description>Classic RPG-style skill system with abilities, perks, and progression now with old classic menu.</description>
-  </item>
-  <item>
-    <title>Aldi's HarmoClasses Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/harmoclassestweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/harmoclassestweaks#11156</guid>
-    <pubDate>Sat, 12 Sep 2026 11:58:51 -0000</pubDate>
-    <description>Aldi's Classes mod tweaked for a community server.</description>
-  </item>
-  <item>
-    <title>Player Model NPCs </title>
-    <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
-    <pubDate>Sat, 12 Sep 2026 11:43:20 -0000</pubDate>
-    <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
-  </item>
-  <item>
-    <title>Shadehouse</title>
-    <link>https://mods.vintagestory.at/show/mod/shadehouse</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shadehouse#8698</guid>
-    <pubDate>Sat, 12 Sep 2026 11:18:52 -0000</pubDate>
-    <description>Adds a way to build a 'shadehouse', to grow crops in hot temperatures.</description>
-  </item>
-  <item>
-    <title>Rudiments</title>
-    <link>https://mods.vintagestory.at/show/mod/9305</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
-    <pubDate>Sat, 12 Sep 2026 11:16:40 -0000</pubDate>
-    <description>Pre-industrial craft, done properly. Fibre, clay, kilns— one step at a time.</description>
   </item>
 </channel>
 </rss>
