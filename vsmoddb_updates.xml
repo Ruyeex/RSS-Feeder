@@ -4,19 +4,138 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 13 Sep 2026 10:03:11 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 13 Sep 2026 14:49:59 +0000</lastBuildDate>
+  <item>
+    <title>Dragonia Translations</title>
+    <link>https://mods.vintagestory.at/show/mod/10016</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10016#10016</guid>
+    <pubDate>Sun, 13 Sep 2026 14:04:28 -0000</pubDate>
+    <description>Переводы и отредактированные переводы под стиль сервера. </description>
+  </item>
+  <item>
+    <title>Lycan's Traits for My Race My Rules</title>
+    <link>https://mods.vintagestory.at/show/mod/lycanstraits</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lycanstraits#11658</guid>
+    <pubDate>Sun, 13 Sep 2026 13:32:37 -0000</pubDate>
+    <description>Adds a bunch of new traits modifying different stats to be used for customizing classes &amp; races.</description>
+  </item>
+  <item>
+    <title>Jaunt: Entity Movement System</title>
+    <link>https://mods.vintagestory.at/show/mod/jaunt</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jaunt#4254</guid>
+    <pubDate>Sun, 13 Sep 2026 13:16:50 -0000</pubDate>
+    <description>Library providing an extended entity riding system with additional control patterns and stamina</description>
+  </item>
+  <item>
+    <title>Czech Patch - Čeština do módů</title>
+    <link>https://mods.vintagestory.at/show/mod/czechpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/czechpatch#2800</guid>
+    <pubDate>Sun, 13 Sep 2026 13:15:23 -0000</pubDate>
+    <description>Mod, který přidá české překlady některých módů do hry. Adds Czech translations to some mods</description>
+  </item>
+  <item>
+    <title>Desk Picture Frame Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/deskpictureframe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deskpictureframe#5163</guid>
+    <pubDate>Sun, 13 Sep 2026 13:07:33 -0000</pubDate>
+    <description>Adds Desk Picture Frames and Wall Frames - Can add your own images via the mod config folder</description>
+  </item>
+  <item>
+    <title>Metal Bowls Mod (for more bowls)</title>
+    <link>https://mods.vintagestory.at/show/mod/bowlmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bowlmod#9237</guid>
+    <pubDate>Sun, 13 Sep 2026 13:05:15 -0000</pubDate>
+    <description>Adds metal bowls</description>
+  </item>
+  <item>
+    <title>GGBC's Repair</title>
+    <link>https://mods.vintagestory.at/show/mod/ggbcsrepair</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ggbcsrepair#6561</guid>
+    <pubDate>Sun, 13 Sep 2026 12:54:36 -0000</pubDate>
+    <description>A very lightweight mod for balanced item repair. Compatible with ItemRarity, xSkills, and others</description>
+  </item>
+  <item>
+    <title>muppersrpg</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersrpg</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersrpg#11629</guid>
+    <pubDate>Sun, 13 Sep 2026 12:21:54 -0000</pubDate>
+    <description>rpg, rarity, stats and reskin for every weapon/tool/armor.</description>
+  </item>
+  <item>
+    <title>Spiro Loading Screen</title>
+    <link>https://mods.vintagestory.at/show/mod/spiroloadingscreen</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spiroloadingscreen#11628</guid>
+    <pubDate>Sun, 13 Sep 2026 12:18:53 -0000</pubDate>
+    <description>Custom loading screen with server-side world preloading and chunk readiness checks.</description>
+  </item>
+  <item>
+    <title>Abilities</title>
+    <link>https://mods.vintagestory.at/show/mod/11723</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11723#11723</guid>
+    <pubDate>Sun, 13 Sep 2026 12:07:39 -0000</pubDate>
+    <description>Gives everyone an ability to make everyone more unique.</description>
+  </item>
+  <item>
+    <title>Frontier Claims Map</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Sun, 13 Sep 2026 11:56:59 -0000</pubDate>
+    <description>Claim map and access controls for internal testing on a private server.</description>
+  </item>
+  <item>
+    <title>Profiles</title>
+    <link>https://mods.vintagestory.at/show/mod/profiles</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/profiles#11669</guid>
+    <pubDate>Sun, 13 Sep 2026 11:35:06 -0000</pubDate>
+    <description>Save character appearances, models, classes, and mod data as resuable profiles</description>
+  </item>
+  <item>
+    <title>Steen's Snakes</title>
+    <link>https://mods.vintagestory.at/show/mod/11641</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11641#11641</guid>
+    <pubDate>Sun, 13 Sep 2026 11:21:48 -0000</pubDate>
+    <description>This mod adds snakes.</description>
+  </item>
+  <item>
+    <title>DarkGirlStuff</title>
+    <link>https://mods.vintagestory.at/show/mod/11165</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11165#11165</guid>
+    <pubDate>Sun, 13 Sep 2026 10:51:27 -0000</pubDate>
+    <description>ADD some stuff, items, cloths for an server</description>
+  </item>
+  <item>
+    <title>It's a Bite!</title>
+    <link>https://mods.vintagestory.at/show/mod/itsabite</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/itsabite#11722</guid>
+    <pubDate>Sun, 13 Sep 2026 10:47:14 -0000</pubDate>
+    <description>Plays a bell sound when fish bites your hook</description>
+  </item>
+  <item>
+    <title>Magic Mirror</title>
+    <link>https://mods.vintagestory.at/show/mod/magicmirror</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/magicmirror#11721</guid>
+    <pubDate>Sun, 13 Sep 2026 10:45:01 -0000</pubDate>
+    <description>an immersive way to change your appearance and size </description>
+  </item>
+  <item>
+    <title>Renewable Fallen Sticks</title>
+    <link>https://mods.vintagestory.at/show/mod/11720</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11720#11720</guid>
+    <pubDate>Sun, 13 Sep 2026 10:36:49 -0000</pubDate>
+    <description>Regrows fallen sticks near mature trees over time, including trees grown from saplings.</description>
+  </item>
   <item>
     <title>Overhaul lib legacy compatibility</title>
     <link>https://mods.vintagestory.at/show/mod/overhaulliblegacycompat</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/overhaulliblegacycompat#8401</guid>
-    <pubDate>Sun, 13 Sep 2026 10:00:48 -0000</pubDate>
+    <pubDate>Sun, 13 Sep 2026 10:13:36 -0000</pubDate>
     <description>Compat for firearms, crossbows, combatoverhaul</description>
   </item>
   <item>
     <title>Armory Fork</title>
     <link>https://mods.vintagestory.at/show/mod/armoryfork</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/armoryfork#8416</guid>
-    <pubDate>Sun, 13 Sep 2026 10:00:24 -0000</pubDate>
+    <pubDate>Sun, 13 Sep 2026 10:13:20 -0000</pubDate>
     <description>1.22 Fork</description>
   </item>
   <item>
@@ -95,125 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sailboatbed#11697</guid>
     <pubDate>Sun, 13 Sep 2026 07:15:03 -0000</pubDate>
     <description>Take a nap at sea.</description>
-  </item>
-  <item>
-    <title>Oak Compatibilty</title>
-    <link>https://mods.vintagestory.at/show/mod/11718</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11718#11718</guid>
-    <pubDate>Sun, 13 Sep 2026 07:02:55 -0000</pubDate>
-    <description>1:1 oak bark interchange between Ancient Tools (fork) &amp; A Culinary Artillery oak bark.</description>
-  </item>
-  <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Sun, 13 Sep 2026 06:53:09 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
-  </item>
-  <item>
-    <title>The Almanac: Trades, Callings &amp; Mastery</title>
-    <link>https://mods.vintagestory.at/show/mod/almanactcm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanactcm#10453</guid>
-    <pubDate>Sun, 13 Sep 2026 06:52:15 -0000</pubDate>
-    <description>Twenty-two trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>Frontier Claims Map</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
-    <pubDate>Sun, 13 Sep 2026 06:47:59 -0000</pubDate>
-    <description>Claim map and access controls for internal testing on a private server.</description>
-  </item>
-  <item>
-    <title>Effectlib examples</title>
-    <link>https://mods.vintagestory.at/show/mod/11717</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11717#11717</guid>
-    <pubDate>Sun, 13 Sep 2026 06:45:07 -0000</pubDate>
-    <description>Three items as examples for what can be done with effectlib</description>
-  </item>
-  <item>
-    <title>The Marginalia: Conjuction</title>
-    <link>https://mods.vintagestory.at/show/mod/tmcon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tmcon#11478</guid>
-    <pubDate>Sun, 13 Sep 2026 06:37:48 -0000</pubDate>
-    <description>The world is not held together; it is held. Raise the Anchorhold, feed it, and mind the fog.</description>
-  </item>
-  <item>
-    <title>Effectlib</title>
-    <link>https://mods.vintagestory.at/show/mod/effectlib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/effectlib#11715</guid>
-    <pubDate>Sun, 13 Sep 2026 06:24:59 -0000</pubDate>
-    <description>A library for player effect handling given by items</description>
-  </item>
-  <item>
-    <title>CollapseStory</title>
-    <link>https://mods.vintagestory.at/show/mod/7776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
-    <pubDate>Sun, 13 Sep 2026 06:22:28 -0000</pubDate>
-    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
-  </item>
-  <item>
-    <title>Fennel Swag</title>
-    <link>https://mods.vintagestory.at/show/mod/11294</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11294#11294</guid>
-    <pubDate>Sun, 13 Sep 2026 05:45:34 -0000</pubDate>
-    <description>Adds some features for fennel because it isn't any good</description>
-  </item>
-  <item>
-    <title>Cadaver's Soups and Stuff</title>
-    <link>https://mods.vintagestory.at/show/mod/11713</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11713#11713</guid>
-    <pubDate>Sun, 13 Sep 2026 04:58:15 -0000</pubDate>
-    <description>Soups, stews, and drinks now give you satiety over time as you digest them. Read the description.</description>
-  </item>
-  <item>
-    <title>Extra Firearms [FORK]</title>
-    <link>https://mods.vintagestory.at/show/mod/5658</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5658#5658</guid>
-    <pubDate>Sun, 13 Sep 2026 04:47:58 -0000</pubDate>
-    <description>Finish version of the Extra Firearms mod with a lot of firearms</description>
-  </item>
-  <item>
-    <title>The Pepper Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/8855</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8855#8855</guid>
-    <pubDate>Sun, 13 Sep 2026 04:36:27 -0000</pubDate>
-    <description>Grow and harvest perennial pepper bushes with custom models, seasonal dormancy, and a spicy heat sys</description>
-  </item>
-  <item>
-    <title>Wilderlands Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/3007</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3007#3007</guid>
-    <pubDate>Sun, 13 Sep 2026 04:13:40 -0000</pubDate>
-    <description>Mod that contains a large number of adjustments, for use on Wilderlands servers.</description>
-  </item>
-  <item>
-    <title>Easy Flax Twine</title>
-    <link>https://mods.vintagestory.at/show/mod/11712</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11712#11712</guid>
-    <pubDate>Sun, 13 Sep 2026 03:47:31 -0000</pubDate>
-    <description>Make Flax Twine with grass.</description>
-  </item>
-  <item>
-    <title>Seraph Leveling ReClassed</title>
-    <link>https://mods.vintagestory.at/show/mod/11234</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11234#11234</guid>
-    <pubDate>Sun, 13 Sep 2026 03:19:33 -0000</pubDate>
-    <description>Level up and gain traits in a vanilla-friendly way, with additional mod support</description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/11476</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
-    <pubDate>Sun, 13 Sep 2026 03:17:29 -0000</pubDate>
-    <description>For details on content, please contact me directly via Discord.</description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Chapter 2</title>
-    <link>https://mods.vintagestory.at/show/mod/11428</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
-    <pubDate>Sun, 13 Sep 2026 03:16:23 -0000</pubDate>
-    <description>Chapter 2 additions for C&amp;C.</description>
   </item>
 </channel>
 </rss>
