@@ -4,7 +4,182 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 13 Sep 2026 04:19:20 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 13 Sep 2026 10:03:11 +0000</lastBuildDate>
+  <item>
+    <title>Overhaul lib legacy compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/overhaulliblegacycompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/overhaulliblegacycompat#8401</guid>
+    <pubDate>Sun, 13 Sep 2026 10:00:48 -0000</pubDate>
+    <description>Compat for firearms, crossbows, combatoverhaul</description>
+  </item>
+  <item>
+    <title>Armory Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/armoryfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/armoryfork#8416</guid>
+    <pubDate>Sun, 13 Sep 2026 10:00:24 -0000</pubDate>
+    <description>1.22 Fork</description>
+  </item>
+  <item>
+    <title>TURBOJOIN</title>
+    <link>https://mods.vintagestory.at/show/mod/11337</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11337#11337</guid>
+    <pubDate>Sun, 13 Sep 2026 09:16:05 -0000</pubDate>
+    <description>(hopefully) speeds up server load time</description>
+  </item>
+  <item>
+    <title>Moonlit Titles</title>
+    <link>https://mods.vintagestory.at/show/mod/moontitles</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moontitles#11700</guid>
+    <pubDate>Sun, 13 Sep 2026 09:06:23 -0000</pubDate>
+    <description>A mod to add unlockable titles for players</description>
+  </item>
+  <item>
+    <title>Vintage Goat Player Model</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagegoatplayermodel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagegoatplayermodel#5225</guid>
+    <pubDate>Sun, 13 Sep 2026 08:45:40 -0000</pubDate>
+    <description>Adds a goat player model to the game it uses Player Model Lib!</description>
+  </item>
+  <item>
+    <title>xSkills Fork Classic Edition</title>
+    <link>https://mods.vintagestory.at/show/mod/11574</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11574#11574</guid>
+    <pubDate>Sun, 13 Sep 2026 08:35:00 -0000</pubDate>
+    <description>Classic RPG-style skill system with abilities, perks, and progression now with old classic menu.</description>
+  </item>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Sun, 13 Sep 2026 08:34:44 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sun, 13 Sep 2026 08:34:37 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Hammer Crushed Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/11719</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11719#11719</guid>
+    <pubDate>Sun, 13 Sep 2026 08:03:45 -0000</pubDate>
+    <description>This is a mod that allows you to smash rock salt, limestone, chalk, and marble with a hammer.</description>
+  </item>
+  <item>
+    <title>GiMap</title>
+    <link>https://mods.vintagestory.at/show/mod/gimap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gimap#6153</guid>
+    <pubDate>Sun, 13 Sep 2026 08:03:20 -0000</pubDate>
+    <description>Ultimative map for your Vintage Story</description>
+  </item>
+  <item>
+    <title>Leaf Model Reducer</title>
+    <link>https://mods.vintagestory.at/show/mod/leafmodelreducer</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leafmodelreducer#11714</guid>
+    <pubDate>Sun, 13 Sep 2026 07:49:44 -0000</pubDate>
+    <description>Extends the existing LODs on leaf blocks with a third level of detail for improved performance.</description>
+  </item>
+  <item>
+    <title>Rat's Stuff</title>
+    <link>https://mods.vintagestory.at/show/mod/11640</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11640#11640</guid>
+    <pubDate>Sun, 13 Sep 2026 07:27:23 -0000</pubDate>
+    <description>My first mod, for now I just did some new swords.</description>
+  </item>
+  <item>
+    <title>Sailboat Bed</title>
+    <link>https://mods.vintagestory.at/show/mod/sailboatbed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sailboatbed#11697</guid>
+    <pubDate>Sun, 13 Sep 2026 07:15:03 -0000</pubDate>
+    <description>Take a nap at sea.</description>
+  </item>
+  <item>
+    <title>Oak Compatibilty</title>
+    <link>https://mods.vintagestory.at/show/mod/11718</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11718#11718</guid>
+    <pubDate>Sun, 13 Sep 2026 07:02:55 -0000</pubDate>
+    <description>1:1 oak bark interchange between Ancient Tools (fork) &amp; A Culinary Artillery oak bark.</description>
+  </item>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Sun, 13 Sep 2026 06:53:09 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/almanactcm</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanactcm#10453</guid>
+    <pubDate>Sun, 13 Sep 2026 06:52:15 -0000</pubDate>
+    <description>Twenty-two trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>Frontier Claims Map</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Sun, 13 Sep 2026 06:47:59 -0000</pubDate>
+    <description>Claim map and access controls for internal testing on a private server.</description>
+  </item>
+  <item>
+    <title>Effectlib examples</title>
+    <link>https://mods.vintagestory.at/show/mod/11717</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11717#11717</guid>
+    <pubDate>Sun, 13 Sep 2026 06:45:07 -0000</pubDate>
+    <description>Three items as examples for what can be done with effectlib</description>
+  </item>
+  <item>
+    <title>The Marginalia: Conjuction</title>
+    <link>https://mods.vintagestory.at/show/mod/tmcon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tmcon#11478</guid>
+    <pubDate>Sun, 13 Sep 2026 06:37:48 -0000</pubDate>
+    <description>The world is not held together; it is held. Raise the Anchorhold, feed it, and mind the fog.</description>
+  </item>
+  <item>
+    <title>Effectlib</title>
+    <link>https://mods.vintagestory.at/show/mod/effectlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/effectlib#11715</guid>
+    <pubDate>Sun, 13 Sep 2026 06:24:59 -0000</pubDate>
+    <description>A library for player effect handling given by items</description>
+  </item>
+  <item>
+    <title>CollapseStory</title>
+    <link>https://mods.vintagestory.at/show/mod/7776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
+    <pubDate>Sun, 13 Sep 2026 06:22:28 -0000</pubDate>
+    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
+  </item>
+  <item>
+    <title>Fennel Swag</title>
+    <link>https://mods.vintagestory.at/show/mod/11294</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11294#11294</guid>
+    <pubDate>Sun, 13 Sep 2026 05:45:34 -0000</pubDate>
+    <description>Adds some features for fennel because it isn't any good</description>
+  </item>
+  <item>
+    <title>Cadaver's Soups and Stuff</title>
+    <link>https://mods.vintagestory.at/show/mod/11713</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11713#11713</guid>
+    <pubDate>Sun, 13 Sep 2026 04:58:15 -0000</pubDate>
+    <description>Soups, stews, and drinks now give you satiety over time as you digest them. Read the description.</description>
+  </item>
+  <item>
+    <title>Extra Firearms [FORK]</title>
+    <link>https://mods.vintagestory.at/show/mod/5658</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5658#5658</guid>
+    <pubDate>Sun, 13 Sep 2026 04:47:58 -0000</pubDate>
+    <description>Finish version of the Extra Firearms mod with a lot of firearms</description>
+  </item>
+  <item>
+    <title>The Pepper Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/8855</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8855#8855</guid>
+    <pubDate>Sun, 13 Sep 2026 04:36:27 -0000</pubDate>
+    <description>Grow and harvest perennial pepper bushes with custom models, seasonal dormancy, and a spicy heat sys</description>
+  </item>
   <item>
     <title>Wilderlands Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/3007</link>
@@ -39,181 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
     <pubDate>Sun, 13 Sep 2026 03:16:23 -0000</pubDate>
     <description>Chapter 2 additions for C&amp;C.</description>
-  </item>
-  <item>
-    <title>Th3 Dungeons Topen trance Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/11711</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11711#11711</guid>
-    <pubDate>Sun, 13 Sep 2026 03:12:45 -0000</pubDate>
-    <description>Forks Th3Dungeons top entrance mod from its version 0.4.4 version which had all 9 dungeons spawning</description>
-  </item>
-  <item>
-    <title>Th3 Dungeons Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/11710</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11710#11710</guid>
-    <pubDate>Sun, 13 Sep 2026 03:01:16 -0000</pubDate>
-    <description>Forks over version 0.4.4 of Th3Dungeons to 1.22 with all 9 dungeon layouts</description>
-  </item>
-  <item>
-    <title>Quern Top Renderer Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/11709</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11709#11709</guid>
-    <pubDate>Sun, 13 Sep 2026 02:55:35 -0000</pubDate>
-    <description>Fixes an issue with the quern top renderer when using mods</description>
-  </item>
-  <item>
-    <title>CollapseStory</title>
-    <link>https://mods.vintagestory.at/show/mod/7776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
-    <pubDate>Sun, 13 Sep 2026 02:44:34 -0000</pubDate>
-    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
-  </item>
-  <item>
-    <title>Rustbound Magic</title>
-    <link>https://mods.vintagestory.at/show/mod/rustboundmagic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustboundmagic#1290</guid>
-    <pubDate>Sun, 13 Sep 2026 02:34:14 -0000</pubDate>
-    <description>Adds magic to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Footprints</title>
-    <link>https://mods.vintagestory.at/show/mod/footprints</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/footprints#5625</guid>
-    <pubDate>Sun, 13 Sep 2026 02:12:59 -0000</pubDate>
-    <description>Animals and Players leave footprints when moving.</description>
-  </item>
-  <item>
-    <title>GamepadCompanionVS</title>
-    <link>https://mods.vintagestory.at/show/mod/8669</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8669#8669</guid>
-    <pubDate>Sun, 13 Sep 2026 02:04:54 -0000</pubDate>
-    <description>Native gamepad support for Vintage Story 1.22+ — 12-slot radial menu, virtual cursor for GUI, etc. </description>
-  </item>
-  <item>
-    <title>Simple Water Tweaks VSR patch</title>
-    <link>https://mods.vintagestory.at/show/mod/swtvsr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swtvsr#9211</guid>
-    <pubDate>Sun, 13 Sep 2026 02:01:36 -0000</pubDate>
-    <description>Adds compatibility between Simple Water Tweaks and various shader mods</description>
-  </item>
-  <item>
-    <title>Simple water tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/simplewatertweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplewatertweaks#9126</guid>
-    <pubDate>Sun, 13 Sep 2026 02:00:13 -0000</pubDate>
-    <description>This mod modifies the game's water by adding an alternative wave effect and a more vibrant color </description>
-  </item>
-  <item>
-    <title>Shades of Cyan Server Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/11708</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11708#11708</guid>
-    <pubDate>Sun, 13 Sep 2026 01:38:39 -0000</pubDate>
-    <description>Fixes and patches for the Shades of Cyan server</description>
-  </item>
-  <item>
-    <title>Equus: Shared Ancestry</title>
-    <link>https://mods.vintagestory.at/show/mod/equussharedancestry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equussharedancestry#11300</guid>
-    <pubDate>Sun, 13 Sep 2026 01:24:33 -0000</pubDate>
-    <description>This mod allows you to crossbreed Destriers and Ferus</description>
-  </item>
-  <item>
-    <title>Butchering – FotSA (Fauna of the Stone Age) Compatibility Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/butcheringfotsacompatability</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butcheringfotsacompatability#11301</guid>
-    <pubDate>Sun, 13 Sep 2026 01:22:10 -0000</pubDate>
-    <description>A focused compatibility add-on for Butchering and the modular Fauna of the Stone Age animal packs on</description>
-  </item>
-  <item>
-    <title>WOO Presents: Fantasy Crops</title>
-    <link>https://mods.vintagestory.at/show/mod/9100</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9100#9100</guid>
-    <pubDate>Sun, 13 Sep 2026 01:09:59 -0000</pubDate>
-    <description>Fantasy Crops catered to play on the Whispers of Oldwood, available for all.</description>
-  </item>
-  <item>
-    <title>KarinServerCLassLock&amp;Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/11606</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11606#11606</guid>
-    <pubDate>Sun, 13 Sep 2026 00:26:08 -0000</pubDate>
-    <description>Locks race-specific classes to their race and adds traits for the Karin Archipelago private server.</description>
-  </item>
-  <item>
-    <title>Umbrella</title>
-    <link>https://mods.vintagestory.at/show/mod/umbrella</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/umbrella#11482</guid>
-    <pubDate>Sun, 13 Sep 2026 00:22:45 -0000</pubDate>
-    <description>Adds an umbrella that prevents you from getting wet in the rain.</description>
-  </item>
-  <item>
-    <title>QoLInventoryHotkeys</title>
-    <link>https://mods.vintagestory.at/show/mod/11695</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11695#11695</guid>
-    <pubDate>Sun, 13 Sep 2026 00:15:18 -0000</pubDate>
-    <description>QoL hotkeys for inventory and crafting management</description>
-  </item>
-  <item>
-    <title>SGSTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/11706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11706#11706</guid>
-    <pubDate>Sun, 13 Sep 2026 00:10:44 -0000</pubDate>
-    <description>Tweaks and Patches for the SGS server.</description>
-  </item>
-  <item>
-    <title>Furio's Telescope</title>
-    <link>https://mods.vintagestory.at/show/mod/telescopemod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/telescopemod#10648</guid>
-    <pubDate>Sat, 12 Sep 2026 23:57:36 -0000</pubDate>
-    <description>Functional Telescopes with celestial body Observation Mechanic.</description>
-  </item>
-  <item>
-    <title>Make Tea Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/maketeaforked</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/maketeaforked#4758</guid>
-    <pubDate>Sat, 12 Sep 2026 23:45:57 -0000</pubDate>
-    <description>Make clay teapots and mugs, brew tea and drink it.</description>
-  </item>
-  <item>
-    <title>Tuna's Cute and Cozy Clothes</title>
-    <link>https://mods.vintagestory.at/show/mod/11596</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11596#11596</guid>
-    <pubDate>Sat, 12 Sep 2026 23:38:00 -0000</pubDate>
-    <description>Non-Vanilla friendly clothes (:</description>
-  </item>
-  <item>
-    <title>Walkable Entities</title>
-    <link>https://mods.vintagestory.at/show/mod/walkableentities</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkableentities#11704</guid>
-    <pubDate>Sat, 12 Sep 2026 23:30:56 -0000</pubDate>
-    <description>For now: walkable sailboats and ships; a framework to make your modded entities walkable</description>
-  </item>
-  <item>
-    <title>Wood Aging</title>
-    <link>https://mods.vintagestory.at/show/mod/woodaging</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woodaging#11705</guid>
-    <pubDate>Sat, 12 Sep 2026 23:04:53 -0000</pubDate>
-    <description>Adds crafting recipes for the various Aged, Rotten, and Burned wood types!</description>
-  </item>
-  <item>
-    <title>More Blood Thingies!</title>
-    <link>https://mods.vintagestory.at/show/mod/10959</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
-    <pubDate>Sat, 12 Sep 2026 22:56:48 -0000</pubDate>
-    <description>Adds all the features for bloodbread that should have been.</description>
-  </item>
-  <item>
-    <title>Cocktail Madness!</title>
-    <link>https://mods.vintagestory.at/show/mod/11680</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11680#11680</guid>
-    <pubDate>Sat, 12 Sep 2026 22:55:10 -0000</pubDate>
-    <description>Allows for the mixing of alcoholic and non alcoholic beverages.</description>
-  </item>
-  <item>
-    <title>Gourmand</title>
-    <link>https://mods.vintagestory.at/show/mod/2471</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/2471#2471</guid>
-    <pubDate>Sat, 12 Sep 2026 22:33:31 -0000</pubDate>
-    <description>Health buff for eating a greater variety of foods</description>
   </item>
 </channel>
 </rss>
