@@ -4,12 +4,201 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 14 Sep 2026 12:33:53 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 14 Sep 2026 18:25:27 +0000</lastBuildDate>
+  <item>
+    <title>Ashen - (race)</title>
+    <link>https://mods.vintagestory.at/show/mod/ashenrace</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ashenrace#11583</guid>
+    <pubDate>Mon, 14 Sep 2026 18:21:20 -0000</pubDate>
+    <description>A joke mod that adds a strange player model.</description>
+  </item>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Mon, 14 Sep 2026 17:20:47 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
+  <item>
+    <title>TraderTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10569</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
+    <pubDate>Mon, 14 Sep 2026 17:19:49 -0000</pubDate>
+    <description>Allow to manage traders</description>
+  </item>
+  <item>
+    <title>Toolsmith Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/toolsmithplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/toolsmithplus#11756</guid>
+    <pubDate>Mon, 14 Sep 2026 17:19:23 -0000</pubDate>
+    <description>A mod that upgrades Toolsmith by adding compat for weapons as well as some new items!</description>
+  </item>
+  <item>
+    <title>SimpleSteam</title>
+    <link>https://mods.vintagestory.at/show/mod/11213</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11213#11213</guid>
+    <pubDate>Mon, 14 Sep 2026 17:14:39 -0000</pubDate>
+    <description>A boiler you fill with water and light a fire under, turning a wooden drive gear on its side.</description>
+  </item>
+  <item>
+    <title>Effectlib</title>
+    <link>https://mods.vintagestory.at/show/mod/effectlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/effectlib#11715</guid>
+    <pubDate>Mon, 14 Sep 2026 17:14:23 -0000</pubDate>
+    <description>A library for player effect handling given by items</description>
+  </item>
+  <item>
+    <title>NavarlioClasses</title>
+    <link>https://mods.vintagestory.at/show/mod/navarlioclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/navarlioclasses#1595</guid>
+    <pubDate>Mon, 14 Sep 2026 17:13:23 -0000</pubDate>
+    <description>Modification of the MoreClasses mod for the Navarlio Server.</description>
+  </item>
+  <item>
+    <title>DarkGirlStuff</title>
+    <link>https://mods.vintagestory.at/show/mod/11165</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11165#11165</guid>
+    <pubDate>Mon, 14 Sep 2026 17:11:39 -0000</pubDate>
+    <description>ADD some stuff, items, cloths for an server</description>
+  </item>
+  <item>
+    <title>TekTools</title>
+    <link>https://mods.vintagestory.at/show/mod/11615</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11615#11615</guid>
+    <pubDate>Mon, 14 Sep 2026 17:10:52 -0000</pubDate>
+    <description>Adds a dedicated Tools tab to the Vintage Story character window, providing a clean home for TekTool</description>
+  </item>
+  <item>
+    <title>Rudiments</title>
+    <link>https://mods.vintagestory.at/show/mod/9305</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
+    <pubDate>Mon, 14 Sep 2026 17:08:25 -0000</pubDate>
+    <description>Pre-industrial craft, done properly. Fibre, clay, kilns— one step at a time.</description>
+  </item>
+  <item>
+    <title>VSA - IMIB</title>
+    <link>https://mods.vintagestory.at/show/mod/11746</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11746#11746</guid>
+    <pubDate>Mon, 14 Sep 2026 17:02:28 -0000</pubDate>
+    <description>Forges &amp; Bellows... i made it bigger... as requested...</description>
+  </item>
+  <item>
+    <title>RKN Recover Player Inventory</title>
+    <link>https://mods.vintagestory.at/show/mod/11755</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11755#11755</guid>
+    <pubDate>Mon, 14 Sep 2026 17:01:14 -0000</pubDate>
+    <description>Add server commands for retrieving inventory items of offline players</description>
+  </item>
+  <item>
+    <title>VSA - SolidBeams</title>
+    <link>https://mods.vintagestory.at/show/mod/11586</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11586#11586</guid>
+    <pubDate>Mon, 14 Sep 2026 16:56:30 -0000</pubDate>
+    <description>Very simple mod, beams now have selection outlines &amp; collision boxes</description>
+  </item>
+  <item>
+    <title>Rift Closure</title>
+    <link>https://mods.vintagestory.at/show/mod/riftclosure</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftclosure#11754</guid>
+    <pubDate>Mon, 14 Sep 2026 16:47:07 -0000</pubDate>
+    <description>Rifts close when rust creatures nearby are slain.</description>
+  </item>
+  <item>
+    <title>xSkills Fork: Config Skills Exclusivity</title>
+    <link>https://mods.vintagestory.at/show/mod/xskillsforkconfigexclusivity</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xskillsforkconfigexclusivity#11751</guid>
+    <pubDate>Mon, 14 Sep 2026 16:23:46 -0000</pubDate>
+    <description>Configure which xSkills abilities can be learned together.</description>
+  </item>
+  <item>
+    <title>Moonlit fantasy pack</title>
+    <link>https://mods.vintagestory.at/show/mod/6273</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6273#6273</guid>
+    <pubDate>Mon, 14 Sep 2026 16:14:32 -0000</pubDate>
+    <description>A weapon and armour pack for the moonlit fantasy server</description>
+  </item>
+  <item>
+    <title>Moonlit Dolls</title>
+    <link>https://mods.vintagestory.at/show/mod/moondolls</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moondolls#11752</guid>
+    <pubDate>Mon, 14 Sep 2026 16:13:43 -0000</pubDate>
+    <description>test version for playable and craftable dolls</description>
+  </item>
+  <item>
+    <title>HealthBar </title>
+    <link>https://mods.vintagestory.at/show/mod/healthbar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/healthbar#3954</guid>
+    <pubDate>Mon, 14 Sep 2026 16:04:26 -0000</pubDate>
+    <description>Shows a clean, distance-scaled health bar above mobs.</description>
+  </item>
+  <item>
+    <title>Make Beer</title>
+    <link>https://mods.vintagestory.at/show/mod/makebeer</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/makebeer#11477</guid>
+    <pubDate>Mon, 14 Sep 2026 15:32:25 -0000</pubDate>
+    <description>The Make Beer modification opens the path of traditional brewing to players. </description>
+  </item>
+  <item>
+    <title>LessClayMolds_1.0.0</title>
+    <link>https://mods.vintagestory.at/show/mod/lessclaymolds100</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lessclaymolds100#11750</guid>
+    <pubDate>Mon, 14 Sep 2026 14:59:17 -0000</pubDate>
+    <description>Reduces clay tool molds to encourage anvil smithing while keeping essential recipes.</description>
+  </item>
+  <item>
+    <title>My Race My Rules</title>
+    <link>https://mods.vintagestory.at/show/mod/myracemyrules</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/myracemyrules#11504</guid>
+    <pubDate>Mon, 14 Sep 2026 14:29:33 -0000</pubDate>
+    <description>Customize settings and traits on races added by other mods.</description>
+  </item>
+  <item>
+    <title>Temporal Convergence</title>
+    <link>https://mods.vintagestory.at/show/mod/9887</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9887#9887</guid>
+    <pubDate>Mon, 14 Sep 2026 14:22:29 -0000</pubDate>
+    <description>Expands the creatures emerging from temporal rifts with new eldritch entities, afflicted automatons,</description>
+  </item>
+  <item>
+    <title>MTC_Toolheads_GridPatch</title>
+    <link>https://mods.vintagestory.at/show/mod/mtcthgp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mtcthgp#11749</guid>
+    <pubDate>Mon, 14 Sep 2026 13:50:54 -0000</pubDate>
+    <description>Addon for Salty´s Manual: Tool Crafting Companion &amp; Manual Tool Crafting by SaltyWater</description>
+  </item>
+  <item>
+    <title>TraderShopFix</title>
+    <link>https://mods.vintagestory.at/show/mod/traderfix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traderfix#11740</guid>
+    <pubDate>Mon, 14 Sep 2026 13:49:11 -0000</pubDate>
+    <description>Fixing a few things that really annoyed me</description>
+  </item>
+  <item>
+    <title>Stone Bake Oven</title>
+    <link>https://mods.vintagestory.at/show/mod/stonebakeoven</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stonebakeoven#1163</guid>
+    <pubDate>Mon, 14 Sep 2026 13:46:19 -0000</pubDate>
+    <description>You can create a Stone Bake Oven for all your large baking needs. Now with cooking pot spots!</description>
+  </item>
+  <item>
+    <title>HomeGui</title>
+    <link>https://mods.vintagestory.at/show/mod/hg</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hg#11281</guid>
+    <pubDate>Mon, 14 Sep 2026 13:43:56 -0000</pubDate>
+    <description>Gui for teleport commands in Th3essentials</description>
+  </item>
+  <item>
+    <title>Nuggets By Hammer 1.0</title>
+    <link>https://mods.vintagestory.at/show/mod/nuggetsbyhammer</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nuggetsbyhammer#11748</guid>
+    <pubDate>Mon, 14 Sep 2026 12:47:21 -0000</pubDate>
+    <description>Nuggets only with hammer</description>
+  </item>
   <item>
     <title>Holdfast</title>
     <link>https://mods.vintagestory.at/show/mod/holdfast</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/holdfast#10247</guid>
-    <pubDate>Mon, 14 Sep 2026 12:32:43 -0000</pubDate>
+    <pubDate>Mon, 14 Sep 2026 12:33:54 -0000</pubDate>
     <description>Found a town. Hire workers. Watch it grow one building at a time.</description>
   </item>
   <item>
@@ -25,195 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fertilesoilpotrecipe#11745</guid>
     <pubDate>Mon, 14 Sep 2026 11:57:24 -0000</pubDate>
     <description>Terre moyennement fertile ne drop plus, il faut la craft (+ Tera petra)</description>
-  </item>
-  <item>
-    <title>Th3 Dungeons Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/11710</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11710#11710</guid>
-    <pubDate>Mon, 14 Sep 2026 11:49:39 -0000</pubDate>
-    <description>Forks over version 0.4.4 of Th3Dungeons to 1.22 with all 9 dungeon layouts</description>
-  </item>
-  <item>
-    <title>Th3 Dungeons Topen trance Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/11711</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11711#11711</guid>
-    <pubDate>Mon, 14 Sep 2026 11:48:13 -0000</pubDate>
-    <description>Forks Th3Dungeons top entrance mod from its version 0.4.4 version which had all 9 dungeons spawning</description>
-  </item>
-  <item>
-    <title>Land Of Estrellas</title>
-    <link>https://mods.vintagestory.at/show/mod/loe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/loe#10629</guid>
-    <pubDate>Mon, 14 Sep 2026 09:51:40 -0000</pubDate>
-    <description>The offical modpack of The Land of Estrellas server </description>
-  </item>
-  <item>
-    <title>Server Map</title>
-    <link>https://mods.vintagestory.at/show/mod/servermap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/servermap#11601</guid>
-    <pubDate>Mon, 14 Sep 2026 09:47:38 -0000</pubDate>
-    <description>2D and free-flight 3D browser maps for Vintage Story servers</description>
-  </item>
-  <item>
-    <title>Fantail's Grass to Flax</title>
-    <link>https://mods.vintagestory.at/show/mod/11743</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11743#11743</guid>
-    <pubDate>Mon, 14 Sep 2026 09:27:21 -0000</pubDate>
-    <description>Ever need flax fiber but those pesky plants take too long to grow? Look no further!</description>
-  </item>
-  <item>
-    <title>Walkable Entities</title>
-    <link>https://mods.vintagestory.at/show/mod/walkableentities</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkableentities#11704</guid>
-    <pubDate>Mon, 14 Sep 2026 09:20:36 -0000</pubDate>
-    <description>For now: walkable sailboats, ships and trains; a framework to make your modded entities walkable</description>
-  </item>
-  <item>
-    <title>CustomTableau</title>
-    <link>https://mods.vintagestory.at/show/mod/9120</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9120#9120</guid>
-    <pubDate>Mon, 14 Sep 2026 07:55:24 -0000</pubDate>
-    <description>CustomTableau adds customizable wall paintings to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Mon, 14 Sep 2026 07:31:58 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Cocktail Madness!</title>
-    <link>https://mods.vintagestory.at/show/mod/11680</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11680#11680</guid>
-    <pubDate>Mon, 14 Sep 2026 07:26:34 -0000</pubDate>
-    <description>Allows for the mixing of alcoholic and non alcoholic beverages.</description>
-  </item>
-  <item>
-    <title>Teapot's Giant Boar</title>
-    <link>https://mods.vintagestory.at/show/mod/teapotsgiantboar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantboar#11742</guid>
-    <pubDate>Mon, 14 Sep 2026 07:05:07 -0000</pubDate>
-    <description>Chunky boys that can be your companions and mounts. In wild, they might trigger your bear traumas.</description>
-  </item>
-  <item>
-    <title>beast tamer</title>
-    <link>https://mods.vintagestory.at/show/mod/10810</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10810#10810</guid>
-    <pubDate>Mon, 14 Sep 2026 06:25:03 -0000</pubDate>
-    <description>adds a new class to my server</description>
-  </item>
-  <item>
-    <title>Party Hats</title>
-    <link>https://mods.vintagestory.at/show/mod/partyhats</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/partyhats#9645</guid>
-    <pubDate>Mon, 14 Sep 2026 06:06:49 -0000</pubDate>
-    <description>Party Hats!! Adds RS style party hats and a party hat cracker with confetti and random chances!</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Angmar</title>
-    <link>https://mods.vintagestory.at/show/mod/angmar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/angmar#11741</guid>
-    <pubDate>Mon, 14 Sep 2026 04:49:23 -0000</pubDate>
-    <description>Conquer the north under the banner of the Witch-king!</description>
-  </item>
-  <item>
-    <title>moontweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/moontweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moontweaks#11454</guid>
-    <pubDate>Mon, 14 Sep 2026 04:48:56 -0000</pubDate>
-    <description>Server-side Lua scripting! Add mod compat &amp; make new recipes with ease.</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Middle-Earth Races</title>
-    <link>https://mods.vintagestory.at/show/mod/7155</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7155#7155</guid>
-    <pubDate>Mon, 14 Sep 2026 04:30:48 -0000</pubDate>
-    <description>Races and Subraces from the Lord of the Rings</description>
-  </item>
-  <item>
-    <title>Strike the earth! (WIP)</title>
-    <link>https://mods.vintagestory.at/show/mod/striketheearth</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/striketheearth#11502</guid>
-    <pubDate>Mon, 14 Sep 2026 04:24:38 -0000</pubDate>
-    <description>Allows to play as lore accurate dwarves and other races from dwarf fortress.</description>
-  </item>
-  <item>
-    <title>Frontier Claims Map</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
-    <pubDate>Mon, 14 Sep 2026 04:12:57 -0000</pubDate>
-    <description>Claim map and access controls for internal testing on a private server.</description>
-  </item>
-  <item>
-    <title>Torches Last for 999 hours</title>
-    <link>https://mods.vintagestory.at/show/mod/tlf999</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tlf999#7077</guid>
-    <pubDate>Mon, 14 Sep 2026 04:03:14 -0000</pubDate>
-    <description>Torches Last for 999 hours.</description>
-  </item>
-  <item>
-    <title>Open Hand</title>
-    <link>https://mods.vintagestory.at/show/mod/openhand</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/openhand#11548</guid>
-    <pubDate>Mon, 14 Sep 2026 03:40:12 -0000</pubDate>
-    <description>An always-empty hand option for the discerning adventurer</description>
-  </item>
-  <item>
-    <title>Scribe: Notes &amp; Tasks</title>
-    <link>https://mods.vintagestory.at/show/mod/scribe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scribe#10607</guid>
-    <pubDate>Mon, 14 Sep 2026 03:36:16 -0000</pubDate>
-    <description>Items and stations to take notes and track tasks in-game. Pin to-dos on your HUD. Multiplayer-ready.</description>
-  </item>
-  <item>
-    <title>DST - NPC additions</title>
-    <link>https://mods.vintagestory.at/show/mod/dstnpcadditions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dstnpcadditions#11739</guid>
-    <pubDate>Mon, 14 Sep 2026 03:31:14 -0000</pubDate>
-    <description>Additional NPC mobs using the vanilla villager model. </description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Mon, 14 Sep 2026 03:11:51 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
-  </item>
-  <item>
-    <title>VS Instruments Redux - Expansion C</title>
-    <link>https://mods.vintagestory.at/show/mod/11649</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11649#11649</guid>
-    <pubDate>Mon, 14 Sep 2026 03:07:35 -0000</pubDate>
-    <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/10555</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
-    <pubDate>Mon, 14 Sep 2026 03:06:30 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC/MIDI sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>Leaf Model Reducer</title>
-    <link>https://mods.vintagestory.at/show/mod/leafmodelreducer</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leafmodelreducer#11714</guid>
-    <pubDate>Mon, 14 Sep 2026 02:47:53 -0000</pubDate>
-    <description>Extends the existing LODs on leaf blocks with a third level of detail for improved performance.</description>
-  </item>
-  <item>
-    <title>Plaster Variants</title>
-    <link>https://mods.vintagestory.at/show/mod/8657</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8657#8657</guid>
-    <pubDate>Mon, 14 Sep 2026 02:25:03 -0000</pubDate>
-    <description>Add plaster variants </description>
-  </item>
-  <item>
-    <title>Newfie's Server Essentials Discord</title>
-    <link>https://mods.vintagestory.at/show/mod/11732</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11732#11732</guid>
-    <pubDate>Mon, 14 Sep 2026 02:04:33 -0000</pubDate>
-    <description>Connect your Vintage Story server to Discord.</description>
   </item>
 </channel>
 </rss>
