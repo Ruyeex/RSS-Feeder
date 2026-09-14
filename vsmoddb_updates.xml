@@ -4,7 +4,112 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 14 Sep 2026 05:59:53 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 14 Sep 2026 12:33:53 +0000</lastBuildDate>
+  <item>
+    <title>Holdfast</title>
+    <link>https://mods.vintagestory.at/show/mod/holdfast</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/holdfast#10247</guid>
+    <pubDate>Mon, 14 Sep 2026 12:32:43 -0000</pubDate>
+    <description>Found a town. Hire workers. Watch it grow one building at a time.</description>
+  </item>
+  <item>
+    <title>Newfies Xskills Adlis patch</title>
+    <link>https://mods.vintagestory.at/show/mod/11735</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11735#11735</guid>
+    <pubDate>Mon, 14 Sep 2026 12:02:05 -0000</pubDate>
+    <description>adds compatibility between DeadSigma’s xSkills Fork and Aldi’s Classes.</description>
+  </item>
+  <item>
+    <title>Fertile Soil Pot Recipe 1.0</title>
+    <link>https://mods.vintagestory.at/show/mod/fertilesoilpotrecipe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fertilesoilpotrecipe#11745</guid>
+    <pubDate>Mon, 14 Sep 2026 11:57:24 -0000</pubDate>
+    <description>Terre moyennement fertile ne drop plus, il faut la craft (+ Tera petra)</description>
+  </item>
+  <item>
+    <title>Th3 Dungeons Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/11710</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11710#11710</guid>
+    <pubDate>Mon, 14 Sep 2026 11:49:39 -0000</pubDate>
+    <description>Forks over version 0.4.4 of Th3Dungeons to 1.22 with all 9 dungeon layouts</description>
+  </item>
+  <item>
+    <title>Th3 Dungeons Topen trance Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/11711</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11711#11711</guid>
+    <pubDate>Mon, 14 Sep 2026 11:48:13 -0000</pubDate>
+    <description>Forks Th3Dungeons top entrance mod from its version 0.4.4 version which had all 9 dungeons spawning</description>
+  </item>
+  <item>
+    <title>Land Of Estrellas</title>
+    <link>https://mods.vintagestory.at/show/mod/loe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/loe#10629</guid>
+    <pubDate>Mon, 14 Sep 2026 09:51:40 -0000</pubDate>
+    <description>The offical modpack of The Land of Estrellas server </description>
+  </item>
+  <item>
+    <title>Server Map</title>
+    <link>https://mods.vintagestory.at/show/mod/servermap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/servermap#11601</guid>
+    <pubDate>Mon, 14 Sep 2026 09:47:38 -0000</pubDate>
+    <description>2D and free-flight 3D browser maps for Vintage Story servers</description>
+  </item>
+  <item>
+    <title>Fantail's Grass to Flax</title>
+    <link>https://mods.vintagestory.at/show/mod/11743</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11743#11743</guid>
+    <pubDate>Mon, 14 Sep 2026 09:27:21 -0000</pubDate>
+    <description>Ever need flax fiber but those pesky plants take too long to grow? Look no further!</description>
+  </item>
+  <item>
+    <title>Walkable Entities</title>
+    <link>https://mods.vintagestory.at/show/mod/walkableentities</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkableentities#11704</guid>
+    <pubDate>Mon, 14 Sep 2026 09:20:36 -0000</pubDate>
+    <description>For now: walkable sailboats, ships and trains; a framework to make your modded entities walkable</description>
+  </item>
+  <item>
+    <title>CustomTableau</title>
+    <link>https://mods.vintagestory.at/show/mod/9120</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9120#9120</guid>
+    <pubDate>Mon, 14 Sep 2026 07:55:24 -0000</pubDate>
+    <description>CustomTableau adds customizable wall paintings to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Mon, 14 Sep 2026 07:31:58 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Cocktail Madness!</title>
+    <link>https://mods.vintagestory.at/show/mod/11680</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11680#11680</guid>
+    <pubDate>Mon, 14 Sep 2026 07:26:34 -0000</pubDate>
+    <description>Allows for the mixing of alcoholic and non alcoholic beverages.</description>
+  </item>
+  <item>
+    <title>Teapot's Giant Boar</title>
+    <link>https://mods.vintagestory.at/show/mod/teapotsgiantboar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantboar#11742</guid>
+    <pubDate>Mon, 14 Sep 2026 07:05:07 -0000</pubDate>
+    <description>Chunky boys that can be your companions and mounts. In wild, they might trigger your bear traumas.</description>
+  </item>
+  <item>
+    <title>beast tamer</title>
+    <link>https://mods.vintagestory.at/show/mod/10810</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10810#10810</guid>
+    <pubDate>Mon, 14 Sep 2026 06:25:03 -0000</pubDate>
+    <description>adds a new class to my server</description>
+  </item>
+  <item>
+    <title>Party Hats</title>
+    <link>https://mods.vintagestory.at/show/mod/partyhats</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/partyhats#9645</guid>
+    <pubDate>Mon, 14 Sep 2026 06:06:49 -0000</pubDate>
+    <description>Party Hats!! Adds RS style party hats and a party hat cracker with confetti and random chances!</description>
+  </item>
   <item>
     <title>To Rule Them All: Angmar</title>
     <link>https://mods.vintagestory.at/show/mod/angmar</link>
@@ -18,13 +123,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moontweaks#11454</guid>
     <pubDate>Mon, 14 Sep 2026 04:48:56 -0000</pubDate>
     <description>Server-side Lua scripting! Add mod compat &amp; make new recipes with ease.</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Mon, 14 Sep 2026 04:34:13 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
   <item>
     <title>To Rule Them All: Middle-Earth Races</title>
@@ -116,104 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11732#11732</guid>
     <pubDate>Mon, 14 Sep 2026 02:04:33 -0000</pubDate>
     <description>Connect your Vintage Story server to Discord.</description>
-  </item>
-  <item>
-    <title>Newfies Server Essentials Suite</title>
-    <link>https://mods.vintagestory.at/show/mod/11556</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
-    <pubDate>Mon, 14 Sep 2026 02:02:38 -0000</pubDate>
-    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
-  </item>
-  <item>
-    <title>Unpacked Dirt</title>
-    <link>https://mods.vintagestory.at/show/mod/unpackeddirt</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/unpackeddirt#11233</guid>
-    <pubDate>Mon, 14 Sep 2026 01:58:15 -0000</pubDate>
-    <description>Adds recipes to make barren soil to preserve your landscape.</description>
-  </item>
-  <item>
-    <title>Newfies Xskills Adlis patch</title>
-    <link>https://mods.vintagestory.at/show/mod/11735</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11735#11735</guid>
-    <pubDate>Mon, 14 Sep 2026 01:17:08 -0000</pubDate>
-    <description>adds compatibility between DeadSigma’s xSkills Fork and Aldi’s Classes.</description>
-  </item>
-  <item>
-    <title>Prosequor - Skills, Levels, Trees and Stats</title>
-    <link>https://mods.vintagestory.at/show/mod/11674</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11674#11674</guid>
-    <pubDate>Mon, 14 Sep 2026 01:11:51 -0000</pubDate>
-    <description>Adds a full-throated, first-class skill, levelling and attributes system to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Butchering Patch for Sonya's Quality Fowl</title>
-    <link>https://mods.vintagestory.at/show/mod/10874</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10874#10874</guid>
-    <pubDate>Mon, 14 Sep 2026 01:06:47 -0000</pubDate>
-    <description>A patch for Sonya's Quality Fowl and Butchering with non-generic models</description>
-  </item>
-  <item>
-    <title>Temporal Emissions</title>
-    <link>https://mods.vintagestory.at/show/mod/temporalemissions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/temporalemissions#11650</guid>
-    <pubDate>Mon, 14 Sep 2026 00:44:15 -0000</pubDate>
-    <description>Adds STALKER "emission" concept to the vanilla temporal storms</description>
-  </item>
-  <item>
-    <title>Embers of the Kingdoms</title>
-    <link>https://mods.vintagestory.at/show/mod/eotk</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eotk#11734</guid>
-    <pubDate>Mon, 14 Sep 2026 00:09:08 -0000</pubDate>
-    <description>Optional client mod for Ashes of the Kingdoms</description>
-  </item>
-  <item>
-    <title>Newfie's Anti-Cheat Client</title>
-    <link>https://mods.vintagestory.at/show/mod/11551</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11551#11551</guid>
-    <pubDate>Mon, 14 Sep 2026 00:01:08 -0000</pubDate>
-    <description>Newfie’s Integrity Monitor</description>
-  </item>
-  <item>
-    <title>Logic Blocks</title>
-    <link>https://mods.vintagestory.at/show/mod/5827</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5827#5827</guid>
-    <pubDate>Sun, 13 Sep 2026 23:55:17 -0000</pubDate>
-    <description>This mod provides blocks for logic and interactions with gates.</description>
-  </item>
-  <item>
-    <title>Craftsmanship</title>
-    <link>https://mods.vintagestory.at/show/mod/11590</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11590#11590</guid>
-    <pubDate>Sun, 13 Sep 2026 23:44:08 -0000</pubDate>
-    <description>Over 1,000 new items, creatures and weapons added</description>
-  </item>
-  <item>
-    <title>Tuna's Cute and Cozy Clothes</title>
-    <link>https://mods.vintagestory.at/show/mod/11596</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11596#11596</guid>
-    <pubDate>Sun, 13 Sep 2026 23:27:10 -0000</pubDate>
-    <description>Non-Vanilla friendly clothes (:</description>
-  </item>
-  <item>
-    <title>Feverstone Wilds</title>
-    <link>https://mods.vintagestory.at/show/mod/feverstonewilds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feverstonewilds#967</guid>
-    <pubDate>Sun, 13 Sep 2026 23:22:34 -0000</pubDate>
-    <description>Feverstone Wilds is a fantasy mod mixed with realism that can help you or challenge you.</description>
-  </item>
-  <item>
-    <title>Expie Player Model cat_tron7 Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/11737</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11737#11737</guid>
-    <pubDate>Sun, 13 Sep 2026 23:12:07 -0000</pubDate>
-    <description>A series of tweaks to the original Expie Player Model mod.</description>
-  </item>
-  <item>
-    <title>Butchering – FotSA (Fauna of the Stone Age) Compatibility Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/butcheringfotsacompatability</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butcheringfotsacompatability#11301</guid>
-    <pubDate>Sun, 13 Sep 2026 23:02:40 -0000</pubDate>
-    <description>A focused compatibility add-on for Butchering and the modular Fauna of the Stone Age animal packs on</description>
   </item>
 </channel>
 </rss>
