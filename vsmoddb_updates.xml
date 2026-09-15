@@ -4,20 +4,139 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 15 Sep 2026 18:01:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 15 Sep 2026 21:57:44 +0000</lastBuildDate>
+  <item>
+    <title>Tuna's Cute and Cozy Clothes</title>
+    <link>https://mods.vintagestory.at/show/mod/11596</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11596#11596</guid>
+    <pubDate>Tue, 15 Sep 2026 21:50:44 -0000</pubDate>
+    <description>Non-Vanilla friendly clothes (:</description>
+  </item>
+  <item>
+    <title>Navarlio Customs</title>
+    <link>https://mods.vintagestory.at/show/mod/navarliocustoms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/navarliocustoms#1522</guid>
+    <pubDate>Tue, 15 Sep 2026 21:38:44 -0000</pubDate>
+    <description>Custom crafts for the Navarlio server.</description>
+  </item>
+  <item>
+    <title>Ballista Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/ballistapatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ballistapatch#11682</guid>
+    <pubDate>Tue, 15 Sep 2026 21:26:40 -0000</pubDate>
+    <description>Reworked Ballistas with mountable logic. Now on boats!</description>
+  </item>
+  <item>
+    <title>TurretLib</title>
+    <link>https://mods.vintagestory.at/show/mod/turretlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/turretlib#11059</guid>
+    <pubDate>Tue, 15 Sep 2026 21:19:03 -0000</pubDate>
+    <description>Library for mountable rotating turrets-like devices</description>
+  </item>
+  <item>
+    <title>Lineage: Riverlords</title>
+    <link>https://mods.vintagestory.at/show/mod/11781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11781#11781</guid>
+    <pubDate>Tue, 15 Sep 2026 21:04:30 -0000</pubDate>
+    <description>A Set of Plate Armor for the House Rivertal on CoT.</description>
+  </item>
+  <item>
+    <title>Gemmage - Resin Tapping &amp; Processing</title>
+    <link>https://mods.vintagestory.at/show/mod/gemmage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gemmage#11780</guid>
+    <pubDate>Tue, 15 Sep 2026 20:54:32 -0000</pubDate>
+    <description>Tap pine and acacia trees for renewable resin, then process it into useful products.</description>
+  </item>
+  <item>
+    <title>Server Map</title>
+    <link>https://mods.vintagestory.at/show/mod/servermap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/servermap#11601</guid>
+    <pubDate>Tue, 15 Sep 2026 20:51:58 -0000</pubDate>
+    <description>2D and free-flight 3D browser maps for Vintage Story servers</description>
+  </item>
+  <item>
+    <title>Toolsmith Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/toolsmithplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/toolsmithplus#11756</guid>
+    <pubDate>Tue, 15 Sep 2026 20:47:07 -0000</pubDate>
+    <description>A mod that upgrades Toolsmith by adding compat for weapons as well as some new items!</description>
+  </item>
+  <item>
+    <title>Crockwrights of Eriador</title>
+    <link>https://mods.vintagestory.at/show/mod/crockwrights</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crockwrights#9923</guid>
+    <pubDate>Tue, 15 Sep 2026 20:36:30 -0000</pubDate>
+    <description>Crafting recipes for many ceramic pieces</description>
+  </item>
+  <item>
+    <title>LogicalNerfsDirection</title>
+    <link>https://mods.vintagestory.at/show/mod/9983</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9983#9983</guid>
+    <pubDate>Tue, 15 Sep 2026 20:17:21 -0000</pubDate>
+    <description>Removes direction tells from roller, knapping surfaces, clay forms, and disables the debug overlay.</description>
+  </item>
+  <item>
+    <title>CollapseStory</title>
+    <link>https://mods.vintagestory.at/show/mod/7776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
+    <pubDate>Tue, 15 Sep 2026 20:13:56 -0000</pubDate>
+    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
+  </item>
+  <item>
+    <title>Yang's Transport Tycoon</title>
+    <link>https://mods.vintagestory.at/show/mod/yangtransport</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yangtransport#6871</guid>
+    <pubDate>Tue, 15 Sep 2026 20:00:30 -0000</pubDate>
+    <description>Construct and operate industrial transport machinery.</description>
+  </item>
+  <item>
+    <title>IndustrialStory</title>
+    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
+    <pubDate>Tue, 15 Sep 2026 19:41:33 -0000</pubDate>
+    <description>Overhauls metalworking, chemistry, and glassworking. </description>
+  </item>
+  <item>
+    <title>WONH Currency</title>
+    <link>https://mods.vintagestory.at/show/mod/vsnhcurrency</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsnhcurrency#8108</guid>
+    <pubDate>Tue, 15 Sep 2026 19:18:18 -0000</pubDate>
+    <description>Time Based Currency</description>
+  </item>
+  <item>
+    <title>FotSA Butchering Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/fotsabutcheringcompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsabutcheringcompat#9501</guid>
+    <pubDate>Tue, 15 Sep 2026 19:17:21 -0000</pubDate>
+    <description>Butchering compatibility for FotSA mods</description>
+  </item>
+  <item>
+    <title>VS Server Panel</title>
+    <link>https://mods.vintagestory.at/show/mod/vsserverpanel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsserverpanel#2115</guid>
+    <pubDate>Tue, 15 Sep 2026 19:01:41 -0000</pubDate>
+    <description>Shows players a server panel upon loading with a server config for customization.</description>
+  </item>
+  <item>
+    <title>VSUX Framework</title>
+    <link>https://mods.vintagestory.at/show/mod/11671</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11671#11671</guid>
+    <pubDate>Tue, 15 Sep 2026 19:00:41 -0000</pubDate>
+    <description>A reusable UI and presentation framework for Vintage Story</description>
+  </item>
+  <item>
+    <title>Rebalanced Trader Prices</title>
+    <link>https://mods.vintagestory.at/show/mod/10822</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10822#10822</guid>
+    <pubDate>Tue, 15 Sep 2026 18:23:46 -0000</pubDate>
+    <description>Adjusts trader prices to hopefully be more desirable.</description>
+  </item>
   <item>
     <title>More Blood Thingies!</title>
     <link>https://mods.vintagestory.at/show/mod/10959</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
     <pubDate>Tue, 15 Sep 2026 17:29:43 -0000</pubDate>
     <description>Adds all the features for bloodbread that should have been.</description>
-  </item>
-  <item>
-    <title>CollapseStory</title>
-    <link>https://mods.vintagestory.at/show/mod/7776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
-    <pubDate>Tue, 15 Sep 2026 17:21:18 -0000</pubDate>
-    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
   </item>
   <item>
     <title>Ballista</title>
@@ -53,13 +172,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hg#11281</guid>
     <pubDate>Tue, 15 Sep 2026 15:17:57 -0000</pubDate>
     <description>Gui for teleport commands in Th3essentials</description>
-  </item>
-  <item>
-    <title>Server Map</title>
-    <link>https://mods.vintagestory.at/show/mod/servermap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/servermap#11601</guid>
-    <pubDate>Tue, 15 Sep 2026 15:00:31 -0000</pubDate>
-    <description>2D and free-flight 3D browser maps for Vintage Story servers</description>
   </item>
   <item>
     <title>Translocator Locator Redux</title>
@@ -102,118 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bloodtrail#5069</guid>
     <pubDate>Tue, 15 Sep 2026 10:56:15 -0000</pubDate>
     <description>Animals leave blood trails when wounded by a player.</description>
-  </item>
-  <item>
-    <title>Footprints</title>
-    <link>https://mods.vintagestory.at/show/mod/footprints</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/footprints#5625</guid>
-    <pubDate>Tue, 15 Sep 2026 10:55:04 -0000</pubDate>
-    <description>Animals and Players leave footprints when moving.</description>
-  </item>
-  <item>
-    <title>Black Bronze Hubs</title>
-    <link>https://mods.vintagestory.at/show/mod/11775</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11775#11775</guid>
-    <pubDate>Tue, 15 Sep 2026 10:50:40 -0000</pubDate>
-    <description>simple yet effective!</description>
-  </item>
-  <item>
-    <title>FendragonSMP Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/fendragonsmpfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonsmpfork#11554</guid>
-    <pubDate>Tue, 15 Sep 2026 10:16:05 -0000</pubDate>
-    <description>Fork version of FendragonSMP for Fendragon server</description>
-  </item>
-  <item>
-    <title>Spiro Focused Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/spirofocusedclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spirofocusedclasses#11066</guid>
-    <pubDate>Tue, 15 Sep 2026 10:02:38 -0000</pubDate>
-    <description>Class tweaks designed specifically for the Spiro server</description>
-  </item>
-  <item>
-    <title>Dead at the end: Butterflies, dead</title>
-    <link>https://mods.vintagestory.at/show/mod/butterfliesdeadrename</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butterfliesdeadrename#4677</guid>
-    <pubDate>Tue, 15 Sep 2026 08:56:09 -0000</pubDate>
-    <description>Renames Dead Butterflies for better readability, so you don't always have to skip the first word.</description>
-  </item>
-  <item>
-    <title>FendragonBCS Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/fendragonbcsfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonbcsfork#11513</guid>
-    <pubDate>Tue, 15 Sep 2026 08:42:25 -0000</pubDate>
-    <description>Fork of FendragonBCS - a mod that adds a construction system for upgrading your backpacks</description>
-  </item>
-  <item>
-    <title>Slings Progression</title>
-    <link>https://mods.vintagestory.at/show/mod/slings</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slings#5152</guid>
-    <pubDate>Tue, 15 Sep 2026 08:26:03 -0000</pubDate>
-    <description>Adds new slingshots that can be obtained by progressing through the game.</description>
-  </item>
-  <item>
-    <title>More Creative World Layers</title>
-    <link>https://mods.vintagestory.at/show/mod/morecreativeworldlayers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morecreativeworldlayers#1355</guid>
-    <pubDate>Tue, 15 Sep 2026 07:51:41 -0000</pubDate>
-    <description>Start with 32 layers in flat creative worlds</description>
-  </item>
-  <item>
-    <title>DST - NPC additions</title>
-    <link>https://mods.vintagestory.at/show/mod/dstnpcadditions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dstnpcadditions#11739</guid>
-    <pubDate>Tue, 15 Sep 2026 07:49:22 -0000</pubDate>
-    <description>Additional NPC mobs using the vanilla villager model. </description>
-  </item>
-  <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Tue, 15 Sep 2026 07:34:19 -0000</pubDate>
-    <description>The factory must grow!</description>
-  </item>
-  <item>
-    <title>Genealogy</title>
-    <link>https://mods.vintagestory.at/show/mod/11774</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11774#11774</guid>
-    <pubDate>Tue, 15 Sep 2026 07:08:44 -0000</pubDate>
-    <description>Livestock with real inherited traits!</description>
-  </item>
-  <item>
-    <title>CompostTweak</title>
-    <link>https://mods.vintagestory.at/show/mod/3682</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3682#3682</guid>
-    <pubDate>Tue, 15 Sep 2026 06:37:59 -0000</pubDate>
-    <description>Makes composting alot more interactive and adds more things to compost.</description>
-  </item>
-  <item>
-    <title>SmithingPlusPlus</title>
-    <link>https://mods.vintagestory.at/show/mod/smithingplusplus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smithingplusplus#11771</guid>
-    <pubDate>Tue, 15 Sep 2026 05:41:42 -0000</pubDate>
-    <description>Smithing Plus fork with extensive bug and performance fixes.</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Tue, 15 Sep 2026 04:58:53 -0000</pubDate>
-    <description>Turns tamed foxes into full companions with perks, moods, packs, expeditions, and more.</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Tue, 15 Sep 2026 04:46:01 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Newfies Spleef - Alpha</title>
-    <link>https://mods.vintagestory.at/show/mod/11773</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11773#11773</guid>
-    <pubDate>Tue, 15 Sep 2026 04:12:39 -0000</pubDate>
-    <description>Newfies Spleef!! Minigames in Vintage Story</description>
   </item>
 </channel>
 </rss>
