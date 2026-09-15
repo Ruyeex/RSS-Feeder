@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 14 Sep 2026 22:20:22 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 15 Sep 2026 01:15:40 +0000</lastBuildDate>
+  <item>
+    <title>VS Instruments Redux - SoundFont Synthesis</title>
+    <link>https://mods.vintagestory.at/show/mod/11767</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11767#11767</guid>
+    <pubDate>Tue, 15 Sep 2026 01:04:31 -0000</pubDate>
+    <description>Harmony Patch for VS Instruments Redux allowing direct use of soundfonts for better sound quality.</description>
+  </item>
+  <item>
+    <title>Arc's Patchs</title>
+    <link>https://mods.vintagestory.at/show/mod/arcspatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arcspatches#11768</guid>
+    <pubDate>Tue, 15 Sep 2026 00:51:44 -0000</pubDate>
+    <description>Small QoL changes for modded server play</description>
+  </item>
+  <item>
+    <title>Prosequor - Skills, Levels, Trees and Stats</title>
+    <link>https://mods.vintagestory.at/show/mod/11674</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11674#11674</guid>
+    <pubDate>Tue, 15 Sep 2026 00:35:46 -0000</pubDate>
+    <description>Adds a full-throated, first-class skill, levelling and attributes system to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Natural Accessories</title>
+    <link>https://mods.vintagestory.at/show/mod/naturalaccessories</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/naturalaccessories#11766</guid>
+    <pubDate>Tue, 15 Sep 2026 00:17:47 -0000</pubDate>
+    <description>Run into the woods and get leaves in your hair</description>
+  </item>
+  <item>
+    <title>Quench Salvage</title>
+    <link>https://mods.vintagestory.at/show/mod/quenchsalvage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/quenchsalvage#7633</guid>
+    <pubDate>Tue, 15 Sep 2026 00:00:07 -0000</pubDate>
+    <description>A mod that adjusts the quench failure to return some metal bits back.</description>
+  </item>
+  <item>
+    <title>Newfies Server Essentials Suite</title>
+    <link>https://mods.vintagestory.at/show/mod/11556</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
+    <pubDate>Mon, 14 Sep 2026 23:50:10 -0000</pubDate>
+    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
+  </item>
+  <item>
+    <title>Custom Latitude</title>
+    <link>https://mods.vintagestory.at/show/mod/customlatitude</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customlatitude#7591</guid>
+    <pubDate>Mon, 14 Sep 2026 23:49:04 -0000</pubDate>
+    <description>Choose a starting latitude and month easily! Start at the eqator, poles or anywhere in between!</description>
+  </item>
+  <item>
+    <title>Newfie's Server Essentials Discord</title>
+    <link>https://mods.vintagestory.at/show/mod/11732</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11732#11732</guid>
+    <pubDate>Mon, 14 Sep 2026 23:48:48 -0000</pubDate>
+    <description>Connect your Vintage Story server to Discord.</description>
+  </item>
+  <item>
+    <title>Grinding Stone Calcinated Flint Powder Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/grindingstonecalcinated</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grindingstonecalcinated#11765</guid>
+    <pubDate>Mon, 14 Sep 2026 23:44:49 -0000</pubDate>
+    <description>Allows calcined flint chunks to be crushed in the grinding stone into calcined flint powder.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Mon, 14 Sep 2026 23:29:15 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
+  </item>
+  <item>
+    <title>DRT AgX Kraken - Shader</title>
+    <link>https://mods.vintagestory.at/show/mod/drtagx</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drtagx#2913</guid>
+    <pubDate>Mon, 14 Sep 2026 22:35:13 -0000</pubDate>
+    <description>AgX Kraken ish display transform.</description>
+  </item>
   <item>
     <title>Mod Traductions FR — V1.0.0</title>
     <link>https://mods.vintagestory.at/show/mod/tradfr</link>
@@ -41,18 +118,11 @@
     <description>Custom crafts for the Navarlio server.</description>
   </item>
   <item>
-    <title>Warstouch Hunting</title>
+    <title>Private Hunting App</title>
     <link>https://mods.vintagestory.at/show/mod/11761</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11761#11761</guid>
     <pubDate>Mon, 14 Sep 2026 21:52:19 -0000</pubDate>
-    <description>Realistic hunting with blood trails and progressive slowing for wounded animals.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Mon, 14 Sep 2026 21:39:48 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
+    <description>.</description>
   </item>
   <item>
     <title>Toolsmith Plus</title>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11213#11213</guid>
     <pubDate>Mon, 14 Sep 2026 17:14:39 -0000</pubDate>
     <description>A boiler you fill with water and light a fire under, turning a wooden drive gear on its side.</description>
-  </item>
-  <item>
-    <title>Effectlib</title>
-    <link>https://mods.vintagestory.at/show/mod/effectlib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/effectlib#11715</guid>
-    <pubDate>Mon, 14 Sep 2026 17:14:23 -0000</pubDate>
-    <description>A library for player effect handling given by items</description>
-  </item>
-  <item>
-    <title>DarkGirlStuff</title>
-    <link>https://mods.vintagestory.at/show/mod/11165</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11165#11165</guid>
-    <pubDate>Mon, 14 Sep 2026 17:11:39 -0000</pubDate>
-    <description>ADD some stuff, items, cloths for an server</description>
-  </item>
-  <item>
-    <title>TekTools</title>
-    <link>https://mods.vintagestory.at/show/mod/11615</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11615#11615</guid>
-    <pubDate>Mon, 14 Sep 2026 17:10:52 -0000</pubDate>
-    <description>Adds a dedicated Tools tab to the Vintage Story character window, providing a clean home for TekTool</description>
-  </item>
-  <item>
-    <title>Rudiments</title>
-    <link>https://mods.vintagestory.at/show/mod/9305</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
-    <pubDate>Mon, 14 Sep 2026 17:08:25 -0000</pubDate>
-    <description>Pre-industrial craft, done properly. Fibre, clay, kilns— one step at a time.</description>
-  </item>
-  <item>
-    <title>VSA - IMIB</title>
-    <link>https://mods.vintagestory.at/show/mod/11746</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11746#11746</guid>
-    <pubDate>Mon, 14 Sep 2026 17:02:28 -0000</pubDate>
-    <description>Forges &amp; Bellows... i made it bigger... as requested...</description>
-  </item>
-  <item>
-    <title>RKN Recover Player Inventory</title>
-    <link>https://mods.vintagestory.at/show/mod/11755</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11755#11755</guid>
-    <pubDate>Mon, 14 Sep 2026 17:01:14 -0000</pubDate>
-    <description>Add server commands for retrieving inventory items of offline players</description>
-  </item>
-  <item>
-    <title>VSA - SolidBeams</title>
-    <link>https://mods.vintagestory.at/show/mod/11586</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11586#11586</guid>
-    <pubDate>Mon, 14 Sep 2026 16:56:30 -0000</pubDate>
-    <description>Very simple mod, beams now have selection outlines &amp; collision boxes</description>
-  </item>
-  <item>
-    <title>Rift Closure</title>
-    <link>https://mods.vintagestory.at/show/mod/riftclosure</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftclosure#11754</guid>
-    <pubDate>Mon, 14 Sep 2026 16:47:07 -0000</pubDate>
-    <description>Rifts close when rust creatures nearby are slain.</description>
-  </item>
-  <item>
-    <title>xSkills Fork: Config Skills Exclusivity</title>
-    <link>https://mods.vintagestory.at/show/mod/xskillsforkconfigexclusivity</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xskillsforkconfigexclusivity#11751</guid>
-    <pubDate>Mon, 14 Sep 2026 16:23:46 -0000</pubDate>
-    <description>Configure which xSkills abilities can be learned together.</description>
-  </item>
-  <item>
-    <title>Moonlit fantasy pack</title>
-    <link>https://mods.vintagestory.at/show/mod/6273</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6273#6273</guid>
-    <pubDate>Mon, 14 Sep 2026 16:14:32 -0000</pubDate>
-    <description>A weapon and armour pack for the moonlit fantasy server</description>
   </item>
 </channel>
 </rss>
