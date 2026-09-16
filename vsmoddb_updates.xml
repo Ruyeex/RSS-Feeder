@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 16 Sep 2026 11:04:28 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 16 Sep 2026 16:24:18 +0000</lastBuildDate>
+  <item>
+    <title>Packrat</title>
+    <link>https://mods.vintagestory.at/show/mod/6138</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6138#6138</guid>
+    <pubDate>Wed, 16 Sep 2026 15:58:49 -0000</pubDate>
+    <description>Unified Storage Browser showing the contents of all chests and crates within reach</description>
+  </item>
+  <item>
+    <title>Human mod fork (For Lost land Server)</title>
+    <link>https://mods.vintagestory.at/show/mod/lostlandclassesss</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lostlandclassesss#8896</guid>
+    <pubDate>Wed, 16 Sep 2026 15:22:31 -0000</pubDate>
+    <description>Hi! This is a modification to the humans mod by Maltiez, for the Lost - Lands server</description>
+  </item>
+  <item>
+    <title>Forlorn Hope armory</title>
+    <link>https://mods.vintagestory.at/show/mod/heavyforlonarmor</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/heavyforlonarmor#3386</guid>
+    <pubDate>Wed, 16 Sep 2026 15:15:26 -0000</pubDate>
+    <description>Mod thats adds new Forlorn Hope themed armor and weapons.</description>
+  </item>
+  <item>
+    <title>CollapseStory</title>
+    <link>https://mods.vintagestory.at/show/mod/7776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
+    <pubDate>Wed, 16 Sep 2026 14:56:44 -0000</pubDate>
+    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
+  </item>
+  <item>
+    <title>Teapot's Giant Boar</title>
+    <link>https://mods.vintagestory.at/show/mod/teapotsgiantboar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantboar#11742</guid>
+    <pubDate>Wed, 16 Sep 2026 14:51:04 -0000</pubDate>
+    <description>Chunky boys that can be your companions and mounts. In wild, they might trigger your bear traumas.</description>
+  </item>
+  <item>
+    <title>Immersive Body Temperature</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivebodytemperature</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebodytemperature#7966</guid>
+    <pubDate>Wed, 16 Sep 2026 14:41:16 -0000</pubDate>
+    <description>Prepare for summer! Makes hot climates as challenging as cold ones.</description>
+  </item>
+  <item>
+    <title>Rusty Piligrimm</title>
+    <link>https://mods.vintagestory.at/show/mod/10709</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10709#10709</guid>
+    <pubDate>Wed, 16 Sep 2026 14:27:37 -0000</pubDate>
+    <description>This mod adds a new terrifying enemy to your world.</description>
+  </item>
+  <item>
+    <title>ServerGuard</title>
+    <link>https://mods.vintagestory.at/show/mod/serverguard</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/serverguard#11731</guid>
+    <pubDate>Wed, 16 Sep 2026 14:07:35 -0000</pubDate>
+    <description>Server-side anticheat with ore n' inventory concealment, entity hiding, and ore and creature decoys.</description>
+  </item>
+  <item>
+    <title>moontweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/moontweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moontweaks#11454</guid>
+    <pubDate>Wed, 16 Sep 2026 14:01:53 -0000</pubDate>
+    <description>Server-side Lua scripting! Add mod compat &amp; make new recipes with ease.</description>
+  </item>
+  <item>
+    <title>BotaniaStory</title>
+    <link>https://mods.vintagestory.at/show/mod/8113</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8113#8113</guid>
+    <pubDate>Wed, 16 Sep 2026 13:18:53 -0000</pubDate>
+    <description>BotaniaStory - nature magic, mana, and automation in Vintage Story!</description>
+  </item>
+  <item>
+    <title>Vint's Bottles unoffical ACA/EF Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/11794</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11794#11794</guid>
+    <pubDate>Wed, 16 Sep 2026 12:35:12 -0000</pubDate>
+    <description>Use Expanded Food's corks with Vint's bottles! &amp; more.</description>
+  </item>
+  <item>
+    <title>No Protected Zones</title>
+    <link>https://mods.vintagestory.at/show/mod/noprotection</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noprotection#8258</guid>
+    <pubDate>Wed, 16 Sep 2026 12:34:52 -0000</pubDate>
+    <description>With great power comes great responsibility.</description>
+  </item>
   <item>
     <title>FendragonSMP Fork</title>
     <link>https://mods.vintagestory.at/show/mod/fendragonsmpfork</link>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
     <pubDate>Wed, 16 Sep 2026 04:48:15 -0000</pubDate>
     <description>For details on content, please contact me directly via Discord.</description>
-  </item>
-  <item>
-    <title>Pal's Portable Vehicles</title>
-    <link>https://mods.vintagestory.at/show/mod/portablevehicles</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/portablevehicles#11790</guid>
-    <pubDate>Wed, 16 Sep 2026 04:45:13 -0000</pubDate>
-    <description>Adds wondrously eccentric man-portable jonas tech vehicles.</description>
-  </item>
-  <item>
-    <title>Hazmat Suit</title>
-    <link>https://mods.vintagestory.at/show/mod/hazmatsuit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hazmatsuit#7157</guid>
-    <pubDate>Wed, 16 Sep 2026 04:44:31 -0000</pubDate>
-    <description>Adds a hazmat protective suit with a charging rack and many more features</description>
-  </item>
-  <item>
-    <title>Wooden Fortifications</title>
-    <link>https://mods.vintagestory.at/show/mod/woodfortifications</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woodfortifications#1345</guid>
-    <pubDate>Wed, 16 Sep 2026 04:44:11 -0000</pubDate>
-    <description>A collection of wooden fortifications to help defend your home!</description>
-  </item>
-  <item>
-    <title>BarktoRope</title>
-    <link>https://mods.vintagestory.at/show/mod/btrat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/btrat#11787</guid>
-    <pubDate>Wed, 16 Sep 2026 04:12:02 -0000</pubDate>
-    <description>Craft rope from Ancient Tools bark: 9 bark pieces make 1 rope roll.</description>
-  </item>
-  <item>
-    <title>Barbershop Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/10424</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10424#10424</guid>
-    <pubDate>Wed, 16 Sep 2026 04:09:59 -0000</pubDate>
-    <description>Re-implements Barbershop as a full-fledged profession.</description>
-  </item>
-  <item>
-    <title>AncientTools_BarkBasket_Backpack_v1.0.0</title>
-    <link>https://mods.vintagestory.at/show/mod/atbbbp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atbbbp#11786</guid>
-    <pubDate>Wed, 16 Sep 2026 03:36:14 -0000</pubDate>
-    <description>Makes Ancient Tools bark baskets wearable: 4 slots equipped, 8 slots when placed.</description>
-  </item>
-  <item>
-    <title>Wood Aging</title>
-    <link>https://mods.vintagestory.at/show/mod/woodaging</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woodaging#11705</guid>
-    <pubDate>Wed, 16 Sep 2026 03:09:55 -0000</pubDate>
-    <description>Adds crafting recipes for the various Aged, Rotten, and Burned wood types!</description>
-  </item>
-  <item>
-    <title>Rift Traveler</title>
-    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
-    <pubDate>Wed, 16 Sep 2026 02:35:09 -0000</pubDate>
-    <description>Explore or close rifts, craft temporal tech, teleport home, and transmit cargo across dimensions</description>
-  </item>
-  <item>
-    <title>Genealogy</title>
-    <link>https://mods.vintagestory.at/show/mod/11774</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11774#11774</guid>
-    <pubDate>Wed, 16 Sep 2026 02:26:09 -0000</pubDate>
-    <description>Livestock with real inherited traits!</description>
-  </item>
-  <item>
-    <title>Newfies Spleef - Alpha</title>
-    <link>https://mods.vintagestory.at/show/mod/11773</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11773#11773</guid>
-    <pubDate>Wed, 16 Sep 2026 02:16:35 -0000</pubDate>
-    <description>Newfies Spleef!! Minigames in Vintage Story</description>
-  </item>
-  <item>
-    <title>Conquest VS Compatability: VOM, TS, MA</title>
-    <link>https://mods.vintagestory.at/show/mod/11088</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11088#11088</guid>
-    <pubDate>Wed, 16 Sep 2026 02:06:42 -0000</pubDate>
-    <description>Patches Conquest VS to support mods: Terrain Slabs &amp; Visible Ores and Minerals</description>
-  </item>
-  <item>
-    <title>Combat Overhaul Balance</title>
-    <link>https://mods.vintagestory.at/show/mod/4215</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4215#4215</guid>
-    <pubDate>Wed, 16 Sep 2026 01:34:01 -0000</pubDate>
-    <description>Balances the values of the Combat Overhaul mod.</description>
   </item>
 </channel>
 </rss>
