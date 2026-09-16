@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 16 Sep 2026 19:52:27 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 16 Sep 2026 22:43:22 +0000</lastBuildDate>
+  <item>
+    <title>Optimum - High-performance client software.</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Wed, 16 Sep 2026 22:28:45 -0000</pubDate>
+    <description>A patched client runtime for smoother Vintage Story frames.</description>
+  </item>
+  <item>
+    <title>Tin to Solder</title>
+    <link>https://mods.vintagestory.at/show/mod/11802</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11802#11802</guid>
+    <pubDate>Wed, 16 Sep 2026 22:21:04 -0000</pubDate>
+    <description>Adds a simple early-game recipe to cut Tin Ingots into Soldering Bars</description>
+  </item>
+  <item>
+    <title>Moonlit Dolls</title>
+    <link>https://mods.vintagestory.at/show/mod/moondolls</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moondolls#11752</guid>
+    <pubDate>Wed, 16 Sep 2026 21:46:43 -0000</pubDate>
+    <description>test version for playable and craftable dolls</description>
+  </item>
+  <item>
+    <title>Navarlio Customs</title>
+    <link>https://mods.vintagestory.at/show/mod/navarliocustoms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/navarliocustoms#1522</guid>
+    <pubDate>Wed, 16 Sep 2026 21:35:55 -0000</pubDate>
+    <description>Custom crafts for the Navarlio server.</description>
+  </item>
+  <item>
+    <title>C&amp;N Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/canclaims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canclaims#589</guid>
+    <pubDate>Wed, 16 Sep 2026 21:21:18 -0000</pubDate>
+    <description>Land protection mod.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
+    <pubDate>Wed, 16 Sep 2026 21:20:38 -0000</pubDate>
+    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
+  </item>
+  <item>
+    <title>Barbershop Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/10424</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10424#10424</guid>
+    <pubDate>Wed, 16 Sep 2026 21:13:23 -0000</pubDate>
+    <description>Re-implements Barbershop as a full-fledged profession.</description>
+  </item>
+  <item>
+    <title>Crown &amp; Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/11476</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
+    <pubDate>Wed, 16 Sep 2026 21:08:33 -0000</pubDate>
+    <description>For details on content, please contact me directly via Discord.</description>
+  </item>
+  <item>
+    <title>BetterChinese</title>
+    <link>https://mods.vintagestory.at/show/mod/betterchinese</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterchinese#2568</guid>
+    <pubDate>Wed, 16 Sep 2026 20:02:12 -0000</pubDate>
+    <description>更好的汉化</description>
+  </item>
   <item>
     <title>Progressive Bleeding</title>
     <link>https://mods.vintagestory.at/show/mod/11796</link>
@@ -53,13 +116,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canrpgclasses#9965</guid>
     <pubDate>Wed, 16 Sep 2026 18:30:46 -0000</pubDate>
     <description>RPG classes for Vintage Story</description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/11476</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
-    <pubDate>Wed, 16 Sep 2026 18:28:15 -0000</pubDate>
-    <description>For details on content, please contact me directly via Discord.</description>
   </item>
   <item>
     <title>Eternal Seraph: Chests</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantboar#11742</guid>
     <pubDate>Wed, 16 Sep 2026 14:51:04 -0000</pubDate>
     <description>Chunky boys that can be your companions and mounts. In wild, they might trigger your bear traumas.</description>
-  </item>
-  <item>
-    <title>Immersive Body Temperature</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivebodytemperature</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebodytemperature#7966</guid>
-    <pubDate>Wed, 16 Sep 2026 14:41:16 -0000</pubDate>
-    <description>Prepare for summer! Makes hot climates as challenging as cold ones.</description>
-  </item>
-  <item>
-    <title>Rusty Piligrimm</title>
-    <link>https://mods.vintagestory.at/show/mod/10709</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10709#10709</guid>
-    <pubDate>Wed, 16 Sep 2026 14:27:37 -0000</pubDate>
-    <description>This mod adds a new terrifying enemy to your world.</description>
-  </item>
-  <item>
-    <title>ServerGuard</title>
-    <link>https://mods.vintagestory.at/show/mod/serverguard</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/serverguard#11731</guid>
-    <pubDate>Wed, 16 Sep 2026 14:07:35 -0000</pubDate>
-    <description>Server-side anticheat with ore n' inventory concealment, entity hiding, and ore and creature decoys.</description>
-  </item>
-  <item>
-    <title>moontweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/moontweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moontweaks#11454</guid>
-    <pubDate>Wed, 16 Sep 2026 14:01:53 -0000</pubDate>
-    <description>Server-side Lua scripting! Add mod compat &amp; make new recipes with ease.</description>
-  </item>
-  <item>
-    <title>BotaniaStory</title>
-    <link>https://mods.vintagestory.at/show/mod/8113</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8113#8113</guid>
-    <pubDate>Wed, 16 Sep 2026 13:18:53 -0000</pubDate>
-    <description>BotaniaStory - nature magic, mana, and automation in Vintage Story!</description>
-  </item>
-  <item>
-    <title>Vint's Bottles unoffical ACA/EF Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/11794</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11794#11794</guid>
-    <pubDate>Wed, 16 Sep 2026 12:35:12 -0000</pubDate>
-    <description>Use Expanded Food's corks with Vint's bottles! &amp; more.</description>
-  </item>
-  <item>
-    <title>No Protected Zones</title>
-    <link>https://mods.vintagestory.at/show/mod/noprotection</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noprotection#8258</guid>
-    <pubDate>Wed, 16 Sep 2026 12:34:52 -0000</pubDate>
-    <description>With great power comes great responsibility.</description>
-  </item>
-  <item>
-    <title>WildFrontierTraitMod</title>
-    <link>https://mods.vintagestory.at/show/mod/wildfrontiertrait</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wildfrontiertrait#10974</guid>
-    <pubDate>Wed, 16 Sep 2026 10:39:47 -0000</pubDate>
-    <description>Wild Frontier Custom Trait mod for different racialequality races, yangs char creator</description>
   </item>
 </channel>
 </rss>
