@@ -4,7 +4,147 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 17 Sep 2026 18:00:18 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 17 Sep 2026 21:56:55 +0000</lastBuildDate>
+  <item>
+    <title>Age of Seraphs Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
+    <pubDate>Thu, 17 Sep 2026 21:53:07 -0000</pubDate>
+    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
+  </item>
+  <item>
+    <title>Grim Atmosphere</title>
+    <link>https://mods.vintagestory.at/show/mod/11832</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11832#11832</guid>
+    <pubDate>Thu, 17 Sep 2026 21:31:48 -0000</pubDate>
+    <description>Make the world dark.</description>
+  </item>
+  <item>
+    <title>Weaponsmith a Toolsmith addon</title>
+    <link>https://mods.vintagestory.at/show/mod/toolsmithweapons</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/toolsmithweapons#11813</guid>
+    <pubDate>Thu, 17 Sep 2026 21:09:13 -0000</pubDate>
+    <description>Adds the same functionality to vanilla weapons as Toolsmith does for tools</description>
+  </item>
+  <item>
+    <title>Weapon Pack Alpha - Rebalanced</title>
+    <link>https://mods.vintagestory.at/show/mod/3314</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
+    <pubDate>Thu, 17 Sep 2026 20:49:09 -0000</pubDate>
+    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
+  </item>
+  <item>
+    <title>Drifters Don't Spawn in Rooms</title>
+    <link>https://mods.vintagestory.at/show/mod/11830</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11830#11830</guid>
+    <pubDate>Thu, 17 Sep 2026 20:33:37 -0000</pubDate>
+    <description>A mod that adds configurability to Vintage Story rooms, like preventing drifter spawns</description>
+  </item>
+  <item>
+    <title>BetterChinese</title>
+    <link>https://mods.vintagestory.at/show/mod/betterchinese</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterchinese#2568</guid>
+    <pubDate>Thu, 17 Sep 2026 20:20:22 -0000</pubDate>
+    <description>更好的汉化</description>
+  </item>
+  <item>
+    <title>FendragonSMP Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/fendragonsmpfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonsmpfork#11554</guid>
+    <pubDate>Thu, 17 Sep 2026 19:55:09 -0000</pubDate>
+    <description>Fork version of FendragonSMP for Fendragon server</description>
+  </item>
+  <item>
+    <title>FendragonBCS Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/fendragonbcsfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonbcsfork#11513</guid>
+    <pubDate>Thu, 17 Sep 2026 19:54:55 -0000</pubDate>
+    <description>Fork of FendragonBCS - a mod that adds a construction system for upgrading your backpacks</description>
+  </item>
+  <item>
+    <title>Wilderlands Rustbound</title>
+    <link>https://mods.vintagestory.at/show/mod/3004</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3004#3004</guid>
+    <pubDate>Thu, 17 Sep 2026 19:44:49 -0000</pubDate>
+    <description>Overhauls drifter canon, adds a slew of new Rust-related entities and challenges.</description>
+  </item>
+  <item>
+    <title>Jonastech Shape Projector</title>
+    <link>https://mods.vintagestory.at/show/mod/11490</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11490#11490</guid>
+    <pubDate>Thu, 17 Sep 2026 19:34:37 -0000</pubDate>
+    <description>Casts exact circles, rings, polygons and spirals as building guides. Level or draped on terrain.</description>
+  </item>
+  <item>
+    <title>Multitools</title>
+    <link>https://mods.vintagestory.at/show/mod/multitools</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/multitools#4150</guid>
+    <pubDate>Thu, 17 Sep 2026 19:33:48 -0000</pubDate>
+    <description>A simple mod which adds new multitools</description>
+  </item>
+  <item>
+    <title>Meadows Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10662</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10662#10662</guid>
+    <pubDate>Thu, 17 Sep 2026 19:28:46 -0000</pubDate>
+    <description>Nothing fancy, just server-specific adjustments</description>
+  </item>
+  <item>
+    <title>NDL Villagers</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlvillagers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlvillagers#3429</guid>
+    <pubDate>Thu, 17 Sep 2026 18:58:52 -0000</pubDate>
+    <description>Adds Villagers/Guards/Clerics to populate your builds and also a way to get traders in your builds!</description>
+  </item>
+  <item>
+    <title>MPE - Power Splitter</title>
+    <link>https://mods.vintagestory.at/show/mod/mpepowersplitter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mpepowersplitter#11744</guid>
+    <pubDate>Thu, 17 Sep 2026 18:58:49 -0000</pubDate>
+    <description>Adds compact power splitters as an alternative to the bulky large wooden gear.</description>
+  </item>
+  <item>
+    <title>Viresap</title>
+    <link>https://mods.vintagestory.at/show/mod/viresap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/viresap#10791</guid>
+    <pubDate>Thu, 17 Sep 2026 18:55:11 -0000</pubDate>
+    <description>A small mod adding a red poisonous swamp water, as well as a few crafting recipes with it</description>
+  </item>
+  <item>
+    <title>Valyrian Steel</title>
+    <link>https://mods.vintagestory.at/show/mod/valyriansteel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/valyriansteel#11727</guid>
+    <pubDate>Thu, 17 Sep 2026 18:49:22 -0000</pubDate>
+    <description>Adds new type of metal, better than steel, difficult to obtain. Based on Game of Thrones.</description>
+  </item>
+  <item>
+    <title>Method Gaming Core</title>
+    <link>https://mods.vintagestory.at/show/mod/methodgamingcore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/methodgamingcore#11074</guid>
+    <pubDate>Thu, 17 Sep 2026 18:47:50 -0000</pubDate>
+    <description>The Official Method Gaming Core mod, required to connect to Method Gaming: Conquest</description>
+  </item>
+  <item>
+    <title>Gardener's Delight- Otter Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/gardenersdelightotterfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gardenersdelightotterfork#11829</guid>
+    <pubDate>Thu, 17 Sep 2026 18:29:52 -0000</pubDate>
+    <description>The official Otter Creek server fork of Gardener's Delight, featuring custom stability tweaks.</description>
+  </item>
+  <item>
+    <title>Better Jonas Devices - Otter Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/betterjonasdevicesotterfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterjonasdevicesotterfork#11828</guid>
+    <pubDate>Thu, 17 Sep 2026 18:22:26 -0000</pubDate>
+    <description>The official Otter Creek server fork of Better Jonas Devices, featuring performance &amp; game fixes.</description>
+  </item>
+  <item>
+    <title>Notice Board [v3.0]!</title>
+    <link>https://mods.vintagestory.at/show/mod/noticeboard</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noticeboard#2498</guid>
+    <pubDate>Thu, 17 Sep 2026 18:22:09 -0000</pubDate>
+    <description>Notice board where you can post and read player notices. Focused on RP aspect.</description>
+  </item>
   <item>
     <title>Oak Compatibilty</title>
     <link>https://mods.vintagestory.at/show/mod/11718</link>
@@ -32,13 +172,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsonlyworse#11799</guid>
     <pubDate>Thu, 17 Sep 2026 17:41:07 -0000</pubDate>
     <description>A dedicated mod for the Only Worse server. New POI , blocks, items and more</description>
-  </item>
-  <item>
-    <title>NDL Villagers</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlvillagers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlvillagers#3429</guid>
-    <pubDate>Thu, 17 Sep 2026 17:32:17 -0000</pubDate>
-    <description>Adds Villagers/Guards/Clerics to populate your builds and also a way to get traders in your builds!</description>
   </item>
   <item>
     <title>Hex's Mechworks</title>
@@ -81,139 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
     <pubDate>Thu, 17 Sep 2026 16:40:21 -0000</pubDate>
     <description>Chapter 2 additions for C&amp;C.</description>
-  </item>
-  <item>
-    <title>XSkills Fork Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/xskillsforkfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xskillsforkfork#9140</guid>
-    <pubDate>Thu, 17 Sep 2026 16:33:50 -0000</pubDate>
-    <description>XSkills Fork Fork is a fork of El_Neuman's fork of Xandu's XSkills.</description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/11476</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
-    <pubDate>Thu, 17 Sep 2026 16:31:43 -0000</pubDate>
-    <description>For details on content, please contact me directly via Discord.</description>
-  </item>
-  <item>
-    <title>Weapon Animation Pack - Alpha</title>
-    <link>https://mods.vintagestory.at/show/mod/wapalpha</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wapalpha#11808</guid>
-    <pubDate>Thu, 17 Sep 2026 16:30:47 -0000</pubDate>
-    <description>Animation Pack that adds several types of animations useful for many modded weapons and the like.</description>
-  </item>
-  <item>
-    <title>Mod Traductions FR</title>
-    <link>https://mods.vintagestory.at/show/mod/tradfr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tradfr#11764</guid>
-    <pubDate>Thu, 17 Sep 2026 15:38:55 -0000</pubDate>
-    <description>Traductions françaises complètes et harmonisées pour une sélection de mods Vintage Story.</description>
-  </item>
-  <item>
-    <title>Tallybook</title>
-    <link>https://mods.vintagestory.at/show/mod/10864</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10864#10864</guid>
-    <pubDate>Thu, 17 Sep 2026 15:01:12 -0000</pubDate>
-    <description>Crafting shopping list, quest tracker, story guide, and world/player reference. Fully client-side.</description>
-  </item>
-  <item>
-    <title>hudLTO</title>
-    <link>https://mods.vintagestory.at/show/mod/hudlto</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hudlto#11823</guid>
-    <pubDate>Thu, 17 Sep 2026 14:11:42 -0000</pubDate>
-    <description>HUD officiel du serveur Les Terres Oubliées – une interface claire pour une survie immersive.</description>
-  </item>
-  <item>
-    <title>Hazmat Suit</title>
-    <link>https://mods.vintagestory.at/show/mod/hazmatsuit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hazmatsuit#7157</guid>
-    <pubDate>Thu, 17 Sep 2026 14:07:29 -0000</pubDate>
-    <description>Adds a hazmat protective suit with a charging rack and many more features</description>
-  </item>
-  <item>
-    <title>Threnkal Traits Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/threnkaltraits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/threnkaltraits#11184</guid>
-    <pubDate>Thu, 17 Sep 2026 13:56:29 -0000</pubDate>
-    <description>A simple mod to add Trais to my Threnkal race Mod</description>
-  </item>
-  <item>
-    <title>Traditional Livestock</title>
-    <link>https://mods.vintagestory.at/show/mod/tradlivestock</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tradlivestock#11806</guid>
-    <pubDate>Thu, 17 Sep 2026 13:56:26 -0000</pubDate>
-    <description>Pink domestic pigs and milkable cattle that spawn in temperate grasslands. Butchering support.</description>
-  </item>
-  <item>
-    <title>Threnkal</title>
-    <link>https://mods.vintagestory.at/show/mod/threnkal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/threnkal#10944</guid>
-    <pubDate>Thu, 17 Sep 2026 13:56:08 -0000</pubDate>
-    <description>A race of cow folks based on minotaurs and taurens from WoW.</description>
-  </item>
-  <item>
-    <title>Salt Water to Lava</title>
-    <link>https://mods.vintagestory.at/show/mod/11820</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11820#11820</guid>
-    <pubDate>Thu, 17 Sep 2026 13:10:29 -0000</pubDate>
-    <description>Changes all ocean water to lava. </description>
-  </item>
-  <item>
-    <title>OffhandHungerTool</title>
-    <link>https://mods.vintagestory.at/show/mod/11812</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11812#11812</guid>
-    <pubDate>Thu, 17 Sep 2026 12:29:28 -0000</pubDate>
-    <description>A simple hunger Tool </description>
-  </item>
-  <item>
-    <title>Progressive Bleeding</title>
-    <link>https://mods.vintagestory.at/show/mod/11796</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11796#11796</guid>
-    <pubDate>Thu, 17 Sep 2026 12:16:13 -0000</pubDate>
-    <description>Progressive bleeding, stacking wounds, blood trails, and permanent slow effects.</description>
-  </item>
-  <item>
-    <title>WorldEngine for VS Toolkit</title>
-    <link>https://mods.vintagestory.at/show/mod/10643</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10643#10643</guid>
-    <pubDate>Thu, 17 Sep 2026 12:02:51 -0000</pubDate>
-    <description>A planet-based world generation pipeline.</description>
-  </item>
-  <item>
-    <title>WorldEngine for VS</title>
-    <link>https://mods.vintagestory.at/show/mod/10880</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10880#10880</guid>
-    <pubDate>Thu, 17 Sep 2026 11:57:05 -0000</pubDate>
-    <description>A planet-based world generator.</description>
-  </item>
-  <item>
-    <title>Weaponsmith a Toolsmith addon</title>
-    <link>https://mods.vintagestory.at/show/mod/toolsmithweapons</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/toolsmithweapons#11813</guid>
-    <pubDate>Thu, 17 Sep 2026 11:45:51 -0000</pubDate>
-    <description>Adds the same functionality to vanilla weapons as Toolsmith does for tools</description>
-  </item>
-  <item>
-    <title>SubZero Farming</title>
-    <link>https://mods.vintagestory.at/show/mod/subzerofarming</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/subzerofarming#10047</guid>
-    <pubDate>Thu, 17 Sep 2026 11:41:25 -0000</pubDate>
-    <description>Allow crops to grow even in darkness and freezing temperatures.</description>
-  </item>
-  <item>
-    <title>Galeret Traits Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/galerettraits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/galerettraits#10565</guid>
-    <pubDate>Thu, 17 Sep 2026 10:54:31 -0000</pubDate>
-    <description>A simple mod to add Trais to my Galeret race Mod</description>
-  </item>
-  <item>
-    <title>Galeret</title>
-    <link>https://mods.vintagestory.at/show/mod/galeret</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/galeret#9970</guid>
-    <pubDate>Thu, 17 Sep 2026 10:53:58 -0000</pubDate>
-    <description>A race of cat people based on kahjit</description>
   </item>
 </channel>
 </rss>
