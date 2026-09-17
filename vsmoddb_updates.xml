@@ -4,27 +4,97 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 17 Sep 2026 01:09:14 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 17 Sep 2026 07:20:10 +0000</lastBuildDate>
   <item>
-    <title>Newfies Spleef - Alpha</title>
-    <link>https://mods.vintagestory.at/show/mod/11773</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11773#11773</guid>
-    <pubDate>Thu, 17 Sep 2026 01:07:52 -0000</pubDate>
-    <description>Newfies Spleef!! Minigames in Vintage Story</description>
+    <title>Old World Overhaul</title>
+    <link>https://mods.vintagestory.at/show/mod/oldworldoverhaul</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oldworldoverhaul#6443</guid>
+    <pubDate>Thu, 17 Sep 2026 07:04:44 -0000</pubDate>
+    <description>Complete HD Overhaul of the Vanilla Vintage Story World Tons of Hand Drawn Images in Krita.128x Plus</description>
+  </item>
+  <item>
+    <title>Glow Fletching Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/glofe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glofe#11809</guid>
+    <pubDate>Thu, 17 Sep 2026 06:41:01 -0000</pubDate>
+    <description>Nine colors of glow fletching with 4 dynamic light levels!</description>
+  </item>
+  <item>
+    <title>BetterChinese</title>
+    <link>https://mods.vintagestory.at/show/mod/betterchinese</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterchinese#2568</guid>
+    <pubDate>Thu, 17 Sep 2026 05:09:33 -0000</pubDate>
+    <description>更好的汉化</description>
+  </item>
+  <item>
+    <title>Vintage Goat Player Model</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagegoatplayermodel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagegoatplayermodel#5225</guid>
+    <pubDate>Thu, 17 Sep 2026 04:25:08 -0000</pubDate>
+    <description>Adds a goat player model to the game it uses Player Model Lib!</description>
+  </item>
+  <item>
+    <title>FrameForgeTSR</title>
+    <link>https://mods.vintagestory.at/show/mod/frameforgetsr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frameforgetsr#10733</guid>
+    <pubDate>Thu, 17 Sep 2026 03:42:49 -0000</pubDate>
+    <description>Runtime and Visual System to give back frames while looking amazing.</description>
+  </item>
+  <item>
+    <title>FontSettings</title>
+    <link>https://mods.vintagestory.at/show/mod/fontsettings</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fontsettings#2574</guid>
+    <pubDate>Thu, 17 Sep 2026 03:26:50 -0000</pubDate>
+    <description>Allows selecting installed fonts for games, compatible with vsimgui.</description>
+  </item>
+  <item>
+    <title>Jelly Bundle</title>
+    <link>https://mods.vintagestory.at/show/mod/10059</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10059#10059</guid>
+    <pubDate>Thu, 17 Sep 2026 02:54:28 -0000</pubDate>
+    <description>A compilation of tweaks for the Swamp Jelly server.</description>
   </item>
   <item>
     <title>Newfies Server Essentials Suite</title>
     <link>https://mods.vintagestory.at/show/mod/11556</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
-    <pubDate>Thu, 17 Sep 2026 01:03:10 -0000</pubDate>
+    <pubDate>Thu, 17 Sep 2026 01:58:46 -0000</pubDate>
     <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
+  </item>
+  <item>
+    <title>Craftsmanship</title>
+    <link>https://mods.vintagestory.at/show/mod/11590</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11590#11590</guid>
+    <pubDate>Thu, 17 Sep 2026 01:45:42 -0000</pubDate>
+    <description>Over 1,000 new items, creatures and weapons added</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Thu, 17 Sep 2026 01:33:40 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
   </item>
   <item>
     <title>Traditional Livestock</title>
     <link>https://mods.vintagestory.at/show/mod/tradlivestock</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tradlivestock#11806</guid>
-    <pubDate>Thu, 17 Sep 2026 01:00:00 -0000</pubDate>
+    <pubDate>Thu, 17 Sep 2026 01:28:36 -0000</pubDate>
     <description>Pink domestic pigs and milkable cattle that spawn in temperate grasslands. Butchering support.</description>
+  </item>
+  <item>
+    <title>Lunchbox</title>
+    <link>https://mods.vintagestory.at/show/mod/lunchbox</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lunchbox#6518</guid>
+    <pubDate>Thu, 17 Sep 2026 01:23:08 -0000</pubDate>
+    <description>Adds storage containers which automatically feeds the player when hungry</description>
+  </item>
+  <item>
+    <title>Newfies Spleef - Alpha</title>
+    <link>https://mods.vintagestory.at/show/mod/11773</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11773#11773</guid>
+    <pubDate>Thu, 17 Sep 2026 01:13:40 -0000</pubDate>
+    <description>Newfies Spleef!! Minigames in Vintage Story</description>
   </item>
   <item>
     <title>Bigger Texture Atlas</title>
@@ -81,13 +151,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11626#11626</guid>
     <pubDate>Wed, 16 Sep 2026 23:34:07 -0000</pubDate>
     <description>A clean, lightweight and configurable player list for Newfie’s Server Essentials Suite</description>
-  </item>
-  <item>
-    <title>Vintage Goat Player Model</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagegoatplayermodel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagegoatplayermodel#5225</guid>
-    <pubDate>Wed, 16 Sep 2026 23:28:06 -0000</pubDate>
-    <description>Adds a goat player model to the game it uses Player Model Lib!</description>
   </item>
   <item>
     <title>VS Instruments Redux - Expansion A</title>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/navarliocustoms#1522</guid>
     <pubDate>Wed, 16 Sep 2026 21:35:55 -0000</pubDate>
     <description>Custom crafts for the Navarlio server.</description>
-  </item>
-  <item>
-    <title>C&amp;N Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/canclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canclaims#589</guid>
-    <pubDate>Wed, 16 Sep 2026 21:21:18 -0000</pubDate>
-    <description>Land protection mod.</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
-    <pubDate>Wed, 16 Sep 2026 21:20:38 -0000</pubDate>
-    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
-  </item>
-  <item>
-    <title>Barbershop Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/10424</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10424#10424</guid>
-    <pubDate>Wed, 16 Sep 2026 21:13:23 -0000</pubDate>
-    <description>Re-implements Barbershop as a full-fledged profession.</description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/11476</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
-    <pubDate>Wed, 16 Sep 2026 21:08:33 -0000</pubDate>
-    <description>For details on content, please contact me directly via Discord.</description>
-  </item>
-  <item>
-    <title>BetterChinese</title>
-    <link>https://mods.vintagestory.at/show/mod/betterchinese</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterchinese#2568</guid>
-    <pubDate>Wed, 16 Sep 2026 20:02:12 -0000</pubDate>
-    <description>更好的汉化</description>
-  </item>
-  <item>
-    <title>FendragonSMP Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/fendragonsmpfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonsmpfork#11554</guid>
-    <pubDate>Wed, 16 Sep 2026 19:41:03 -0000</pubDate>
-    <description>Fork version of FendragonSMP for Fendragon server</description>
-  </item>
-  <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Wed, 16 Sep 2026 19:33:02 -0000</pubDate>
-    <description>The factory must grow!</description>
-  </item>
-  <item>
-    <title>The Quire Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/tqp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tqp#10455</guid>
-    <pubDate>Wed, 16 Sep 2026 18:54:10 -0000</pubDate>
-    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
-  </item>
-  <item>
-    <title>The Almanac: Trades, Callings &amp; Mastery</title>
-    <link>https://mods.vintagestory.at/show/mod/almanactcm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanactcm#10453</guid>
-    <pubDate>Wed, 16 Sep 2026 18:53:46 -0000</pubDate>
-    <description>Twenty-two trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
   </item>
 </channel>
 </rss>
