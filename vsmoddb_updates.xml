@@ -4,7 +4,133 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 18 Sep 2026 10:47:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 14:48:49 +0000</lastBuildDate>
+  <item>
+    <title>Dyed Sails</title>
+    <link>https://mods.vintagestory.at/show/mod/dyedsails</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dyedsails#11852</guid>
+    <pubDate>Fri, 18 Sep 2026 14:30:33 -0000</pubDate>
+    <description>Make sails as usual and then dye them in a barrel for wild looking windmills</description>
+  </item>
+  <item>
+    <title>Profiles</title>
+    <link>https://mods.vintagestory.at/show/mod/profiles</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/profiles#11669</guid>
+    <pubDate>Fri, 18 Sep 2026 14:15:45 -0000</pubDate>
+    <description>Save character appearances, models, classes, and mod data as resuable profiles</description>
+  </item>
+  <item>
+    <title>XSkills VR Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/11850</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11850#11850</guid>
+    <pubDate>Fri, 18 Sep 2026 13:19:18 -0000</pubDate>
+    <description>Adds compatability between XSkills and VR-ry.</description>
+  </item>
+  <item>
+    <title>Alegacy patches</title>
+    <link>https://mods.vintagestory.at/show/mod/6997</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6997#6997</guid>
+    <pubDate>Fri, 18 Sep 2026 13:07:11 -0000</pubDate>
+    <description>targeted patches for the Alegacy server setup</description>
+  </item>
+  <item>
+    <title>Alegacy: Foundation</title>
+    <link>https://mods.vintagestory.at/show/mod/albase</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/albase#6694</guid>
+    <pubDate>Fri, 18 Sep 2026 13:06:32 -0000</pubDate>
+    <description>Foundation quest pack for the Alegacy Server.</description>
+  </item>
+  <item>
+    <title>Alegacy Quest Framework</title>
+    <link>https://mods.vintagestory.at/show/mod/alegacyquestframework</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyquestframework#6609</guid>
+    <pubDate>Fri, 18 Sep 2026 13:06:07 -0000</pubDate>
+    <description>Alegacy Quest Framework is a full-featured quest and boss combat engine for Vintage Story.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
+    <pubDate>Fri, 18 Sep 2026 13:05:26 -0000</pubDate>
+    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
+  </item>
+  <item>
+    <title>Arcanum Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/arcanumlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arcanumlib#11325</guid>
+    <pubDate>Fri, 18 Sep 2026 13:05:01 -0000</pubDate>
+    <description>A shared utility library for Vintage Story: HUD, particles, effects, persistence, and more.</description>
+  </item>
+  <item>
+    <title>Single Use Firestarter</title>
+    <link>https://mods.vintagestory.at/show/mod/singleusefirestarter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/singleusefirestarter#1741</guid>
+    <pubDate>Fri, 18 Sep 2026 12:30:18 -0000</pubDate>
+    <description>Firestarters can only be used once before breaking.</description>
+  </item>
+  <item>
+    <title>Prosequor - Skills, Levels, Trees and Stats</title>
+    <link>https://mods.vintagestory.at/show/mod/11674</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11674#11674</guid>
+    <pubDate>Fri, 18 Sep 2026 12:25:21 -0000</pubDate>
+    <description>Adds a full-throated, first-class skill, levelling and attributes system to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Rustbound Magic</title>
+    <link>https://mods.vintagestory.at/show/mod/rustboundmagic</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustboundmagic#1290</guid>
+    <pubDate>Fri, 18 Sep 2026 12:25:11 -0000</pubDate>
+    <description>Adds magic to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Fri, 18 Sep 2026 12:07:40 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>VintageTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagetweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagetweaks#4441</guid>
+    <pubDate>Fri, 18 Sep 2026 12:06:38 -0000</pubDate>
+    <description>VintageTweaks! A collection of small quality of life tweaks I would like to see in Vintage Story.</description>
+  </item>
+  <item>
+    <title>VS Instruments Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/10555</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
+    <pubDate>Fri, 18 Sep 2026 11:28:35 -0000</pubDate>
+    <description>Bring your world to life! Play custom ABC/MIDI sheet music files on working in-game instruments.</description>
+  </item>
+  <item>
+    <title>VS Instruments Redux - Expansion A</title>
+    <link>https://mods.vintagestory.at/show/mod/10825</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10825#10825</guid>
+    <pubDate>Fri, 18 Sep 2026 11:27:57 -0000</pubDate>
+    <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
+  </item>
+  <item>
+    <title>VS Instruments Redux - Expansion B</title>
+    <link>https://mods.vintagestory.at/show/mod/11573</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11573#11573</guid>
+    <pubDate>Fri, 18 Sep 2026 11:27:32 -0000</pubDate>
+    <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
+  </item>
+  <item>
+    <title>race addition</title>
+    <link>https://mods.vintagestory.at/show/mod/10150</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10150#10150</guid>
+    <pubDate>Fri, 18 Sep 2026 11:18:11 -0000</pubDate>
+    <description>adds a race to my server</description>
+  </item>
+  <item>
+    <title>Shroudmire Abecedarium</title>
+    <link>https://mods.vintagestory.at/show/mod/11849</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11849#11849</guid>
+    <pubDate>Fri, 18 Sep 2026 10:58:58 -0000</pubDate>
+    <description>Handboog Guide page for Shroudmire private Server</description>
+  </item>
   <item>
     <title>racialnpcs</title>
     <link>https://mods.vintagestory.at/show/mod/10160</link>
@@ -32,13 +158,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10159#10159</guid>
     <pubDate>Fri, 18 Sep 2026 09:53:09 -0000</pubDate>
     <description>let npcs use vinconomy</description>
-  </item>
-  <item>
-    <title>Shroudmire Abecedarium</title>
-    <link>https://mods.vintagestory.at/show/mod/11849</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11849#11849</guid>
-    <pubDate>Fri, 18 Sep 2026 09:43:54 -0000</pubDate>
-    <description>Handboog Guide page for Shroudmire private Server</description>
   </item>
   <item>
     <title>Roma Victrix</title>
@@ -90,130 +209,11 @@
     <description>Aims to add quality-of-life enhancements, missing functionality, and minor bug fixes</description>
   </item>
   <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Fri, 18 Sep 2026 08:10:58 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>race addition</title>
-    <link>https://mods.vintagestory.at/show/mod/10150</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10150#10150</guid>
-    <pubDate>Fri, 18 Sep 2026 07:52:18 -0000</pubDate>
-    <description>adds a race to my server</description>
-  </item>
-  <item>
     <title>SurfaceLoreSpawnsAndRiftsRedux</title>
     <link>https://mods.vintagestory.at/show/mod/surfacelorespawnsandriftsredux</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/surfacelorespawnsandriftsredux#11840</guid>
     <pubDate>Fri, 18 Sep 2026 07:04:29 -0000</pubDate>
     <description>Reworks surface enemy spawns and adds better spawn functionality to Rifts</description>
-  </item>
-  <item>
-    <title>DST - NPC additions</title>
-    <link>https://mods.vintagestory.at/show/mod/dstnpcadditions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dstnpcadditions#11739</guid>
-    <pubDate>Fri, 18 Sep 2026 05:49:57 -0000</pubDate>
-    <description>Additional NPC mobs using the vanilla villager model. </description>
-  </item>
-  <item>
-    <title>VS Roofing Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/vsroofing</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsroofing#5036</guid>
-    <pubDate>Fri, 18 Sep 2026 05:44:30 -0000</pubDate>
-    <description>Gridless roof building system with vanilla style roofs, glass houses and more!</description>
-  </item>
-  <item>
-    <title>VS RmlUi</title>
-    <link>https://mods.vintagestory.at/show/mod/vsrmlui</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsrmlui#11841</guid>
-    <pubDate>Fri, 18 Sep 2026 05:42:00 -0000</pubDate>
-    <description>RmlUi interface framework for Vintage Story mods. Provides RML/RCSS documents and a managed C# API.</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Fri, 18 Sep 2026 04:27:41 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>topgsmod</title>
-    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Fri, 18 Sep 2026 04:22:03 -0000</pubDate>
-    <description>TopGs Community Mod</description>
-  </item>
-  <item>
-    <title>OtterCreekServer</title>
-    <link>https://mods.vintagestory.at/show/mod/ottercreekmods</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ottercreekmods#11835</guid>
-    <pubDate>Fri, 18 Sep 2026 03:14:58 -0000</pubDate>
-    <description>Otter Creek server tweak mods</description>
-  </item>
-  <item>
-    <title>Wilderlands Rustbound</title>
-    <link>https://mods.vintagestory.at/show/mod/3004</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3004#3004</guid>
-    <pubDate>Fri, 18 Sep 2026 02:23:23 -0000</pubDate>
-    <description>Overhauls drifter canon, adds a slew of new Rust-related entities and challenges.</description>
-  </item>
-  <item>
-    <title>QoLInventoryHotkeys</title>
-    <link>https://mods.vintagestory.at/show/mod/11695</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11695#11695</guid>
-    <pubDate>Fri, 18 Sep 2026 01:35:00 -0000</pubDate>
-    <description>Lightweight mod that adds QoL hotkeys for inventory and crafting management</description>
-  </item>
-  <item>
-    <title>Night Bat Flocks</title>
-    <link>https://mods.vintagestory.at/show/mod/11836</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11836#11836</guid>
-    <pubDate>Fri, 18 Sep 2026 01:31:29 -0000</pubDate>
-    <description>Flocks of bats fly at night.</description>
-  </item>
-  <item>
-    <title>Ancient Forest Armor</title>
-    <link>https://mods.vintagestory.at/show/mod/ancientforestarmor</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancientforestarmor#11702</guid>
-    <pubDate>Fri, 18 Sep 2026 01:23:54 -0000</pubDate>
-    <description>Customisable Elven Elk inspired armor, Comes in steel and iron variants</description>
-  </item>
-  <item>
-    <title>MTC_Toolheads_GridPatch</title>
-    <link>https://mods.vintagestory.at/show/mod/mtcthgp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mtcthgp#11749</guid>
-    <pubDate>Fri, 18 Sep 2026 00:54:58 -0000</pubDate>
-    <description>Retire les crafts d’outils à tête, mais conserve arcs, frondes et pinces.</description>
-  </item>
-  <item>
-    <title>VintageTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagetweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagetweaks#4441</guid>
-    <pubDate>Fri, 18 Sep 2026 00:44:04 -0000</pubDate>
-    <description>VintageTweaks! A collection of small quality of life tweaks I would like to see in Vintage Story.</description>
-  </item>
-  <item>
-    <title>SapTap</title>
-    <link>https://mods.vintagestory.at/show/mod/11837</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11837#11837</guid>
-    <pubDate>Fri, 18 Sep 2026 00:18:37 -0000</pubDate>
-    <description>Tap resin-oozing pine and acacia with metal spiles; hang a bucket, collect sap by the season.</description>
-  </item>
-  <item>
-    <title>VS Discord Relay</title>
-    <link>https://mods.vintagestory.at/show/mod/10775</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10775#10775</guid>
-    <pubDate>Thu, 17 Sep 2026 23:54:43 -0000</pubDate>
-    <description>A simple discord to server chat bridge for your Vintage Story server needs!</description>
-  </item>
-  <item>
-    <title>Newfies Server Essentials Suite</title>
-    <link>https://mods.vintagestory.at/show/mod/11556</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
-    <pubDate>Thu, 17 Sep 2026 23:51:50 -0000</pubDate>
-    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
   </item>
 </channel>
 </rss>
