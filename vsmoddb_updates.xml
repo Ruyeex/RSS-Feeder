@@ -4,7 +4,126 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 18 Sep 2026 14:48:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 18:08:23 +0000</lastBuildDate>
+  <item>
+    <title>Vintage Healing</title>
+    <link>https://mods.vintagestory.at/show/mod/vsheal</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsheal#11190</guid>
+    <pubDate>Fri, 18 Sep 2026 17:30:16 -0000</pubDate>
+    <description>Adds antiseptic, slow healing poultices and bandages.</description>
+  </item>
+  <item>
+    <title>SurfaceLoreSpawnsAndRiftsRedux</title>
+    <link>https://mods.vintagestory.at/show/mod/surfacelorespawnsandriftsredux</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/surfacelorespawnsandriftsredux#11840</guid>
+    <pubDate>Fri, 18 Sep 2026 17:28:11 -0000</pubDate>
+    <description>Reworks surface enemy spawns and adds better spawn functionality to Rifts</description>
+  </item>
+  <item>
+    <title>Craftsmanship</title>
+    <link>https://mods.vintagestory.at/show/mod/11590</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11590#11590</guid>
+    <pubDate>Fri, 18 Sep 2026 17:10:25 -0000</pubDate>
+    <description>Over 1,000 new items, creatures and weapons added</description>
+  </item>
+  <item>
+    <title>Drifters Don't Spawn in Rooms</title>
+    <link>https://mods.vintagestory.at/show/mod/11830</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11830#11830</guid>
+    <pubDate>Fri, 18 Sep 2026 16:56:46 -0000</pubDate>
+    <description>A mod that adds configurability to Vintage Story rooms, like preventing drifter spawns</description>
+  </item>
+  <item>
+    <title>racialnpcs</title>
+    <link>https://mods.vintagestory.at/show/mod/10160</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10160#10160</guid>
+    <pubDate>Fri, 18 Sep 2026 16:39:34 -0000</pubDate>
+    <description>allows npcs of multiple races to be created</description>
+  </item>
+  <item>
+    <title>Weapon Pack Alpha - Rebalanced</title>
+    <link>https://mods.vintagestory.at/show/mod/3314</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
+    <pubDate>Fri, 18 Sep 2026 16:26:32 -0000</pubDate>
+    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
+  </item>
+  <item>
+    <title>Duskridge Settlers: Core</title>
+    <link>https://mods.vintagestory.at/show/mod/11672</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11672#11672</guid>
+    <pubDate>Fri, 18 Sep 2026 16:25:23 -0000</pubDate>
+    <description>Build and manage settlements with working NPCs, jobs, zones, storage, combat, and more.</description>
+  </item>
+  <item>
+    <title>FendragonSMP Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/fendragonsmpfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonsmpfork#11554</guid>
+    <pubDate>Fri, 18 Sep 2026 16:23:47 -0000</pubDate>
+    <description>Fork version of FendragonSMP for Fendragon server</description>
+  </item>
+  <item>
+    <title>Meadows Server Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/11855</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11855#11855</guid>
+    <pubDate>Fri, 18 Sep 2026 15:48:24 -0000</pubDate>
+    <description>Tweaks for a server</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Dinornithiformes Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/dinornithidae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dinornithidae#2195</guid>
+    <pubDate>Fri, 18 Sep 2026 15:41:17 -0000</pubDate>
+    <description>A collection of Moa and other New Zealand flightless birds from the Holocene.</description>
+  </item>
+  <item>
+    <title>GrappleHook — Otter Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/11827</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11827#11827</guid>
+    <pubDate>Fri, 18 Sep 2026 15:26:45 -0000</pubDate>
+    <description>An optimized grappling hook mod fork tailored for fluid traversal and performance in Otter Creek.</description>
+  </item>
+  <item>
+    <title>Overhead Compass</title>
+    <link>https://mods.vintagestory.at/show/mod/overheadcompass</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/overheadcompass#11854</guid>
+    <pubDate>Fri, 18 Sep 2026 15:24:00 -0000</pubDate>
+    <description>Wear a crafted iron compass pendant for a HUD compass bar with your heading and pinned waypoints.</description>
+  </item>
+  <item>
+    <title>Better Jonas Devices - Otter Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/betterjonasdevicesotterfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterjonasdevicesotterfork#11828</guid>
+    <pubDate>Fri, 18 Sep 2026 15:21:57 -0000</pubDate>
+    <description>The official Otter Creek server fork of Better Jonas Devices, featuring performance &amp; game fixes.</description>
+  </item>
+  <item>
+    <title>Yang's Transport Tycoon</title>
+    <link>https://mods.vintagestory.at/show/mod/yangtransport</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yangtransport#6871</guid>
+    <pubDate>Fri, 18 Sep 2026 15:20:03 -0000</pubDate>
+    <description>Construct and operate industrial transport machinery.</description>
+  </item>
+  <item>
+    <title>Gardener's Delight- Otter Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/gardenersdelightotterfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gardenersdelightotterfork#11829</guid>
+    <pubDate>Fri, 18 Sep 2026 15:18:07 -0000</pubDate>
+    <description>The official Otter Creek server fork of Gardener's Delight, featuring custom stability tweaks.</description>
+  </item>
+  <item>
+    <title>Pack de Traduction Française</title>
+    <link>https://mods.vintagestory.at/show/mod/packfr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/packfr#11805</guid>
+    <pubDate>Fri, 18 Sep 2026 15:14:16 -0000</pubDate>
+    <description>Ce mod ajoute une traduction française pour une sélection de mods communautaires. </description>
+  </item>
+  <item>
+    <title>Notice Board [v3.0]!</title>
+    <link>https://mods.vintagestory.at/show/mod/noticeboard</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noticeboard#2498</guid>
+    <pubDate>Fri, 18 Sep 2026 14:55:09 -0000</pubDate>
+    <description>Notice board where you can post and read player notices. Focused on RP aspect.</description>
+  </item>
   <item>
     <title>Dyed Sails</title>
     <link>https://mods.vintagestory.at/show/mod/dyedsails</link>
@@ -95,125 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagetweaks#4441</guid>
     <pubDate>Fri, 18 Sep 2026 12:06:38 -0000</pubDate>
     <description>VintageTweaks! A collection of small quality of life tweaks I would like to see in Vintage Story.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/10555</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10555#10555</guid>
-    <pubDate>Fri, 18 Sep 2026 11:28:35 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC/MIDI sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux - Expansion A</title>
-    <link>https://mods.vintagestory.at/show/mod/10825</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10825#10825</guid>
-    <pubDate>Fri, 18 Sep 2026 11:27:57 -0000</pubDate>
-    <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux - Expansion B</title>
-    <link>https://mods.vintagestory.at/show/mod/11573</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11573#11573</guid>
-    <pubDate>Fri, 18 Sep 2026 11:27:32 -0000</pubDate>
-    <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
-  </item>
-  <item>
-    <title>race addition</title>
-    <link>https://mods.vintagestory.at/show/mod/10150</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10150#10150</guid>
-    <pubDate>Fri, 18 Sep 2026 11:18:11 -0000</pubDate>
-    <description>adds a race to my server</description>
-  </item>
-  <item>
-    <title>Shroudmire Abecedarium</title>
-    <link>https://mods.vintagestory.at/show/mod/11849</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11849#11849</guid>
-    <pubDate>Fri, 18 Sep 2026 10:58:58 -0000</pubDate>
-    <description>Handboog Guide page for Shroudmire private Server</description>
-  </item>
-  <item>
-    <title>racialnpcs</title>
-    <link>https://mods.vintagestory.at/show/mod/10160</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10160#10160</guid>
-    <pubDate>Fri, 18 Sep 2026 10:32:47 -0000</pubDate>
-    <description>allows npcs of multiple races to be created</description>
-  </item>
-  <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
-    <pubDate>Fri, 18 Sep 2026 10:16:37 -0000</pubDate>
-    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
-  </item>
-  <item>
-    <title>Immersive Woodworking</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivewoodworking</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivewoodworking#9606</guid>
-    <pubDate>Fri, 18 Sep 2026 09:59:31 -0000</pubDate>
-    <description>Focused immersion mod that makes processing timber feel like work, not paperwork. </description>
-  </item>
-  <item>
-    <title>vinconbridge</title>
-    <link>https://mods.vintagestory.at/show/mod/10159</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10159#10159</guid>
-    <pubDate>Fri, 18 Sep 2026 09:53:09 -0000</pubDate>
-    <description>let npcs use vinconomy</description>
-  </item>
-  <item>
-    <title>Roma Victrix</title>
-    <link>https://mods.vintagestory.at/show/mod/romavictrix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/romavictrix#11848</guid>
-    <pubDate>Fri, 18 Sep 2026 09:34:04 -0000</pubDate>
-    <description>Roma Victrix is a comprehensive Roman themed mod aimed at bringing the entire history of Rome to VS.</description>
-  </item>
-  <item>
-    <title>Teapot's Giant Boar</title>
-    <link>https://mods.vintagestory.at/show/mod/teapotsgiantboar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantboar#11742</guid>
-    <pubDate>Fri, 18 Sep 2026 09:29:44 -0000</pubDate>
-    <description>Chunky boys that can be your companions and mounts. In wild, they might trigger your bear traumas.</description>
-  </item>
-  <item>
-    <title>Feverstone Wilds</title>
-    <link>https://mods.vintagestory.at/show/mod/feverstonewilds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feverstonewilds#967</guid>
-    <pubDate>Fri, 18 Sep 2026 09:26:14 -0000</pubDate>
-    <description>Feverstone Wilds is a fantasy mod mixed with realism that can help you or challenge you.</description>
-  </item>
-  <item>
-    <title>NDL Villagers</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlvillagers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlvillagers#3429</guid>
-    <pubDate>Fri, 18 Sep 2026 08:40:43 -0000</pubDate>
-    <description>Adds Villagers/Guards/Clerics to populate your builds and also a way to get traders in your builds!</description>
-  </item>
-  <item>
-    <title>Animalica Core</title>
-    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
-    <pubDate>Fri, 18 Sep 2026 08:18:54 -0000</pubDate>
-    <description>Core mod for playable animals. Does nothing on it's own</description>
-  </item>
-  <item>
-    <title>VSA - Replica</title>
-    <link>https://mods.vintagestory.at/show/mod/9115</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
-    <pubDate>Fri, 18 Sep 2026 08:14:10 -0000</pubDate>
-    <description> (Valkyrian Skies for VS basically) Build block-made moving ships and structures</description>
-  </item>
-  <item>
-    <title>Vanilla: Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/vanillaexpanded</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillaexpanded#6221</guid>
-    <pubDate>Fri, 18 Sep 2026 08:11:05 -0000</pubDate>
-    <description>Aims to add quality-of-life enhancements, missing functionality, and minor bug fixes</description>
-  </item>
-  <item>
-    <title>SurfaceLoreSpawnsAndRiftsRedux</title>
-    <link>https://mods.vintagestory.at/show/mod/surfacelorespawnsandriftsredux</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/surfacelorespawnsandriftsredux#11840</guid>
-    <pubDate>Fri, 18 Sep 2026 07:04:29 -0000</pubDate>
-    <description>Reworks surface enemy spawns and adds better spawn functionality to Rifts</description>
   </item>
 </channel>
 </rss>
