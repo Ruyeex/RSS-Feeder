@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 18 Sep 2026 21:28:59 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 23:57:41 +0000</lastBuildDate>
+  <item>
+    <title>Null Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/nullclaims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullclaims#11867</guid>
+    <pubDate>Fri, 18 Sep 2026 23:32:32 -0000</pubDate>
+    <description>Land claiming without commands: one hotkey opens a window that drives vanilla's own claim system.</description>
+  </item>
+  <item>
+    <title>Null Lockdown</title>
+    <link>https://mods.vintagestory.at/show/mod/nulllockdown</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nulllockdown#11865</guid>
+    <pubDate>Fri, 18 Sep 2026 23:29:25 -0000</pubDate>
+    <description>Hardcore navigation: no world map, no coordinate readouts, and the server-side leaks closed too.</description>
+  </item>
+  <item>
+    <title>Null Compass</title>
+    <link>https://mods.vintagestory.at/show/mod/nullcompass</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullcompass#11863</guid>
+    <pubDate>Fri, 18 Sep 2026 23:24:09 -0000</pubDate>
+    <description>Three compasses and a temporal beacon that can be attuned. Bearings, never positions.</description>
+  </item>
+  <item>
+    <title>Walkable Entities</title>
+    <link>https://mods.vintagestory.at/show/mod/walkableentities</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkableentities#11704</guid>
+    <pubDate>Fri, 18 Sep 2026 23:19:07 -0000</pubDate>
+    <description>For now: walkable sailboats, ships and trains; a framework to make your modded entities walkable</description>
+  </item>
+  <item>
+    <title>Waywheel</title>
+    <link>https://mods.vintagestory.at/show/mod/waywheel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waywheel#11526</guid>
+    <pubDate>Fri, 18 Sep 2026 23:15:03 -0000</pubDate>
+    <description>A radial-menu system built to make frequently used items faster and easier to access!</description>
+  </item>
+  <item>
+    <title>Buy My cheese!</title>
+    <link>https://mods.vintagestory.at/show/mod/11864</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11864#11864</guid>
+    <pubDate>Fri, 18 Sep 2026 23:14:36 -0000</pubDate>
+    <description>Allows you to sell cheese, butter and dairy goods from DairyPlus to merchants!</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Spheniscidae</title>
+    <link>https://mods.vintagestory.at/show/mod/spheniscidae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spheniscidae#2711</guid>
+    <pubDate>Fri, 18 Sep 2026 23:01:51 -0000</pubDate>
+    <description>A collection of penguins from the Holocene.</description>
+  </item>
+  <item>
+    <title>Moonlit Titles</title>
+    <link>https://mods.vintagestory.at/show/mod/moontitles</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moontitles#11700</guid>
+    <pubDate>Fri, 18 Sep 2026 23:01:51 -0000</pubDate>
+    <description>A mod to add unlockable titles for players</description>
+  </item>
+  <item>
+    <title>Yang's Transport Tycoon</title>
+    <link>https://mods.vintagestory.at/show/mod/yangtransport</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yangtransport#6871</guid>
+    <pubDate>Fri, 18 Sep 2026 22:40:29 -0000</pubDate>
+    <description>Construct and operate industrial transport machinery.</description>
+  </item>
+  <item>
+    <title>Hearth &amp; Draught [Public Beta]</title>
+    <link>https://mods.vintagestory.at/show/mod/hearthanddraught</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hearthanddraught#11803</guid>
+    <pubDate>Fri, 18 Sep 2026 22:26:12 -0000</pubDate>
+    <description>Windows, chimneys, log burners and open fires, with room heating and ventilation.</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Fri, 18 Sep 2026 22:15:18 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>SMEX / Industrial Story Mold COMPAT</title>
+    <link>https://mods.vintagestory.at/show/mod/smexindustrialcompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smexindustrialcompat#11862</guid>
+    <pubDate>Fri, 18 Sep 2026 22:01:36 -0000</pubDate>
+    <description>COMPAT preserving SMEX ceramic mold clayforming recipes with Industrial Story</description>
+  </item>
   <item>
     <title>Meteoric Steel</title>
     <link>https://mods.vintagestory.at/show/mod/meteoricsteel</link>
@@ -104,13 +188,6 @@
     <description>Adds a dedicated Tools tab to the Vintage Story character window, providing a clean home for TekTool</description>
   </item>
   <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Fri, 18 Sep 2026 18:18:30 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
     <title>Hex's Mechworks</title>
     <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11590#11590</guid>
     <pubDate>Fri, 18 Sep 2026 17:10:25 -0000</pubDate>
     <description>Over 1,000 new items, creatures and weapons added</description>
-  </item>
-  <item>
-    <title>Drifters Don't Spawn in Rooms</title>
-    <link>https://mods.vintagestory.at/show/mod/11830</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11830#11830</guid>
-    <pubDate>Fri, 18 Sep 2026 16:56:46 -0000</pubDate>
-    <description>A mod that adds configurability to Vintage Story rooms, like preventing drifter spawns</description>
-  </item>
-  <item>
-    <title>racialnpcs</title>
-    <link>https://mods.vintagestory.at/show/mod/10160</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10160#10160</guid>
-    <pubDate>Fri, 18 Sep 2026 16:39:34 -0000</pubDate>
-    <description>allows npcs of multiple races to be created</description>
-  </item>
-  <item>
-    <title>Weapon Pack Alpha - Rebalanced</title>
-    <link>https://mods.vintagestory.at/show/mod/3314</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
-    <pubDate>Fri, 18 Sep 2026 16:26:32 -0000</pubDate>
-    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
-  </item>
-  <item>
-    <title>Duskridge Settlers: Core</title>
-    <link>https://mods.vintagestory.at/show/mod/11672</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11672#11672</guid>
-    <pubDate>Fri, 18 Sep 2026 16:25:23 -0000</pubDate>
-    <description>Build and manage settlements with working NPCs, jobs, zones, storage, combat, and more.</description>
-  </item>
-  <item>
-    <title>FendragonSMP Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/fendragonsmpfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonsmpfork#11554</guid>
-    <pubDate>Fri, 18 Sep 2026 16:23:47 -0000</pubDate>
-    <description>Fork version of FendragonSMP for Fendragon server</description>
-  </item>
-  <item>
-    <title>Meadows Server Additions</title>
-    <link>https://mods.vintagestory.at/show/mod/11855</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11855#11855</guid>
-    <pubDate>Fri, 18 Sep 2026 15:48:24 -0000</pubDate>
-    <description>Tweaks for a server</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Dinornithiformes Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/dinornithidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dinornithidae#2195</guid>
-    <pubDate>Fri, 18 Sep 2026 15:41:17 -0000</pubDate>
-    <description>A collection of Moa and other New Zealand flightless birds from the Holocene.</description>
-  </item>
-  <item>
-    <title>GrappleHook — Otter Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/11827</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11827#11827</guid>
-    <pubDate>Fri, 18 Sep 2026 15:26:45 -0000</pubDate>
-    <description>An optimized grappling hook mod fork tailored for fluid traversal and performance in Otter Creek.</description>
-  </item>
-  <item>
-    <title>Overhead Compass</title>
-    <link>https://mods.vintagestory.at/show/mod/overheadcompass</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/overheadcompass#11854</guid>
-    <pubDate>Fri, 18 Sep 2026 15:24:00 -0000</pubDate>
-    <description>Wear a crafted iron compass pendant for a HUD compass bar with your heading and pinned waypoints.</description>
-  </item>
-  <item>
-    <title>Better Jonas Devices - Otter Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/betterjonasdevicesotterfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterjonasdevicesotterfork#11828</guid>
-    <pubDate>Fri, 18 Sep 2026 15:21:57 -0000</pubDate>
-    <description>The official Otter Creek server fork of Better Jonas Devices, featuring performance &amp; game fixes.</description>
-  </item>
-  <item>
-    <title>Yang's Transport Tycoon</title>
-    <link>https://mods.vintagestory.at/show/mod/yangtransport</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yangtransport#6871</guid>
-    <pubDate>Fri, 18 Sep 2026 15:20:03 -0000</pubDate>
-    <description>Construct and operate industrial transport machinery.</description>
   </item>
 </channel>
 </rss>
