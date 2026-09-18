@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 18 Sep 2026 00:02:18 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 05:37:23 +0000</lastBuildDate>
+  <item>
+    <title>racialnpcs</title>
+    <link>https://mods.vintagestory.at/show/mod/10160</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10160#10160</guid>
+    <pubDate>Fri, 18 Sep 2026 05:35:26 -0000</pubDate>
+    <description>allows npcs of multiple races to be created</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Fri, 18 Sep 2026 04:27:41 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Fri, 18 Sep 2026 04:22:03 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
+  <item>
+    <title>OtterCreekServer</title>
+    <link>https://mods.vintagestory.at/show/mod/ottercreekmods</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ottercreekmods#11835</guid>
+    <pubDate>Fri, 18 Sep 2026 03:14:58 -0000</pubDate>
+    <description>Otter Creek server tweak mods</description>
+  </item>
+  <item>
+    <title>Wilderlands Rustbound</title>
+    <link>https://mods.vintagestory.at/show/mod/3004</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3004#3004</guid>
+    <pubDate>Fri, 18 Sep 2026 02:23:23 -0000</pubDate>
+    <description>Overhauls drifter canon, adds a slew of new Rust-related entities and challenges.</description>
+  </item>
+  <item>
+    <title>QoLInventoryHotkeys</title>
+    <link>https://mods.vintagestory.at/show/mod/11695</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11695#11695</guid>
+    <pubDate>Fri, 18 Sep 2026 01:35:00 -0000</pubDate>
+    <description>Lightweight mod that adds QoL hotkeys for inventory and crafting management</description>
+  </item>
+  <item>
+    <title>Night Bat Flocks</title>
+    <link>https://mods.vintagestory.at/show/mod/11836</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11836#11836</guid>
+    <pubDate>Fri, 18 Sep 2026 01:31:29 -0000</pubDate>
+    <description>Flocks of bats fly at night.</description>
+  </item>
+  <item>
+    <title>Ancient Forest Armor</title>
+    <link>https://mods.vintagestory.at/show/mod/ancientforestarmor</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancientforestarmor#11702</guid>
+    <pubDate>Fri, 18 Sep 2026 01:23:54 -0000</pubDate>
+    <description>Customisable Elven Elk inspired armor, Comes in steel and iron variants</description>
+  </item>
+  <item>
+    <title>MTC_Toolheads_GridPatch</title>
+    <link>https://mods.vintagestory.at/show/mod/mtcthgp</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mtcthgp#11749</guid>
+    <pubDate>Fri, 18 Sep 2026 00:54:58 -0000</pubDate>
+    <description>Retire les crafts d’outils à tête, mais conserve arcs, frondes et pinces.</description>
+  </item>
+  <item>
+    <title>VintageTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagetweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagetweaks#4441</guid>
+    <pubDate>Fri, 18 Sep 2026 00:44:04 -0000</pubDate>
+    <description>VintageTweaks! A collection of small quality of life tweaks I would like to see in Vintage Story.</description>
+  </item>
+  <item>
+    <title>SapTap</title>
+    <link>https://mods.vintagestory.at/show/mod/11837</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11837#11837</guid>
+    <pubDate>Fri, 18 Sep 2026 00:18:37 -0000</pubDate>
+    <description>Tap resin-oozing pine and acacia with metal spiles; hang a bucket, collect sap by the season.</description>
+  </item>
   <item>
     <title>VS Discord Relay</title>
     <link>https://mods.vintagestory.at/show/mod/10775</link>
@@ -32,13 +109,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yangtransport#6871</guid>
     <pubDate>Thu, 17 Sep 2026 23:44:36 -0000</pubDate>
     <description>Construct and operate industrial transport machinery.</description>
-  </item>
-  <item>
-    <title>OtterCreekServer</title>
-    <link>https://mods.vintagestory.at/show/mod/ottercreekmods</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ottercreekmods#11835</guid>
-    <pubDate>Thu, 17 Sep 2026 23:40:12 -0000</pubDate>
-    <description>Otter Creek server tweak mods</description>
   </item>
   <item>
     <title>Wayfinder</title>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicab#9795</guid>
     <pubDate>Thu, 17 Sep 2026 22:15:58 -0000</pubDate>
     <description>Adds Bears as player choices</description>
-  </item>
-  <item>
-    <title>Animalica Core</title>
-    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
-    <pubDate>Thu, 17 Sep 2026 22:15:26 -0000</pubDate>
-    <description>Core mod for playable animals. Does nothing on it's own</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Thu, 17 Sep 2026 21:53:07 -0000</pubDate>
-    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
-  </item>
-  <item>
-    <title>Grim Atmosphere</title>
-    <link>https://mods.vintagestory.at/show/mod/11832</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11832#11832</guid>
-    <pubDate>Thu, 17 Sep 2026 21:31:48 -0000</pubDate>
-    <description>Make the world dark.</description>
-  </item>
-  <item>
-    <title>Weaponsmith a Toolsmith addon</title>
-    <link>https://mods.vintagestory.at/show/mod/toolsmithweapons</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/toolsmithweapons#11813</guid>
-    <pubDate>Thu, 17 Sep 2026 21:09:13 -0000</pubDate>
-    <description>Adds the same functionality to vanilla weapons as Toolsmith does for tools</description>
-  </item>
-  <item>
-    <title>Weapon Pack Alpha - Rebalanced</title>
-    <link>https://mods.vintagestory.at/show/mod/3314</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
-    <pubDate>Thu, 17 Sep 2026 20:49:09 -0000</pubDate>
-    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
-  </item>
-  <item>
-    <title>Drifters Don't Spawn in Rooms</title>
-    <link>https://mods.vintagestory.at/show/mod/11830</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11830#11830</guid>
-    <pubDate>Thu, 17 Sep 2026 20:33:37 -0000</pubDate>
-    <description>A mod that adds configurability to Vintage Story rooms, like preventing drifter spawns</description>
-  </item>
-  <item>
-    <title>BetterChinese</title>
-    <link>https://mods.vintagestory.at/show/mod/betterchinese</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterchinese#2568</guid>
-    <pubDate>Thu, 17 Sep 2026 20:20:22 -0000</pubDate>
-    <description>更好的汉化</description>
-  </item>
-  <item>
-    <title>FendragonSMP Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/fendragonsmpfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonsmpfork#11554</guid>
-    <pubDate>Thu, 17 Sep 2026 19:55:09 -0000</pubDate>
-    <description>Fork version of FendragonSMP for Fendragon server</description>
-  </item>
-  <item>
-    <title>FendragonBCS Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/fendragonbcsfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonbcsfork#11513</guid>
-    <pubDate>Thu, 17 Sep 2026 19:54:55 -0000</pubDate>
-    <description>Fork of FendragonBCS - a mod that adds a construction system for upgrading your backpacks</description>
-  </item>
-  <item>
-    <title>Wilderlands Rustbound</title>
-    <link>https://mods.vintagestory.at/show/mod/3004</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3004#3004</guid>
-    <pubDate>Thu, 17 Sep 2026 19:44:49 -0000</pubDate>
-    <description>Overhauls drifter canon, adds a slew of new Rust-related entities and challenges.</description>
   </item>
 </channel>
 </rss>
