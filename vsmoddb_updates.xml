@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 19 Sep 2026 20:14:17 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 19 Sep 2026 22:44:19 +0000</lastBuildDate>
+  <item>
+    <title>Feverstone Wilds</title>
+    <link>https://mods.vintagestory.at/show/mod/feverstonewilds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feverstonewilds#967</guid>
+    <pubDate>Sat, 19 Sep 2026 22:40:53 -0000</pubDate>
+    <description>Feverstone Wilds is a fantasy mod mixed with realism that can help you or challenge you.</description>
+  </item>
+  <item>
+    <title>Vampirism</title>
+    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
+    <pubDate>Sat, 19 Sep 2026 22:33:10 -0000</pubDate>
+    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
+  </item>
+  <item>
+    <title>Roasted Bones (and bone stock)</title>
+    <link>https://mods.vintagestory.at/show/mod/11880</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11880#11880</guid>
+    <pubDate>Sat, 19 Sep 2026 22:07:47 -0000</pubDate>
+    <description>Roast bones and add them to your soup for a few extra nutrients or turn them into bone stock!</description>
+  </item>
+  <item>
+    <title>MathClaims</title>
+    <link>https://mods.vintagestory.at/show/mod/mathclaims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mathclaims#11889</guid>
+    <pubDate>Sat, 19 Sep 2026 22:06:11 -0000</pubDate>
+    <description>Proteção territorial 16×16 integrada ao mapa, com limites visuais em Ctrl+P</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Sat, 19 Sep 2026 21:59:36 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
+  </item>
+  <item>
+    <title>Moonlit magic</title>
+    <link>https://mods.vintagestory.at/show/mod/moonlitmagic</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmagic#11891</guid>
+    <pubDate>Sat, 19 Sep 2026 21:56:36 -0000</pubDate>
+    <description>Biome based magic system</description>
+  </item>
+  <item>
+    <title>RSU Faction Core</title>
+    <link>https://mods.vintagestory.at/show/mod/rsufactioncore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rsufactioncore#11873</guid>
+    <pubDate>Sat, 19 Sep 2026 21:23:06 -0000</pubDate>
+    <description>Map-driven countries, one-time journeys, settlements, trust and diplomacy in the Book of Rsu.</description>
+  </item>
+  <item>
+    <title>Immersive Woodworking</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivewoodworking</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivewoodworking#9606</guid>
+    <pubDate>Sat, 19 Sep 2026 21:13:29 -0000</pubDate>
+    <description>Focused immersion mod that makes processing timber feel like work, not paperwork. </description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Sat, 19 Sep 2026 21:08:52 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
+  <item>
+    <title>Moonlit fantasy pack</title>
+    <link>https://mods.vintagestory.at/show/mod/6273</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6273#6273</guid>
+    <pubDate>Sat, 19 Sep 2026 21:05:29 -0000</pubDate>
+    <description>A weapon and armour pack for the moonlit fantasy server</description>
+  </item>
+  <item>
+    <title>Plant Debris Hedges</title>
+    <link>https://mods.vintagestory.at/show/mod/plantdebrishedges</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plantdebrishedges#10463</guid>
+    <pubDate>Sat, 19 Sep 2026 21:04:13 -0000</pubDate>
+    <description>Adds craftable "Hedge" blocks from plant debris, using the model of legacy bushes.</description>
+  </item>
+  <item>
+    <title>DST - NPC additions</title>
+    <link>https://mods.vintagestory.at/show/mod/dstnpcadditions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dstnpcadditions#11739</guid>
+    <pubDate>Sat, 19 Sep 2026 20:46:00 -0000</pubDate>
+    <description>Additional NPC mobs using the vanilla villager model. </description>
+  </item>
   <item>
     <title>Kobold Player Model Redux</title>
     <link>https://mods.vintagestory.at/show/mod/koboldrdx</link>
@@ -90,13 +174,6 @@
     <description>Compost bin (modded barrel with 8 slots), accepts perishables and dry plant matter.</description>
   </item>
   <item>
-    <title>MathClaims</title>
-    <link>https://mods.vintagestory.at/show/mod/mathclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mathclaims#11889</guid>
-    <pubDate>Sat, 19 Sep 2026 18:27:58 -0000</pubDate>
-    <description>Proteção territorial 16×16 integrada ao mapa, com limites visuais em Ctrl+P</description>
-  </item>
-  <item>
     <title>Zippy's Re-seeding Reeds Updated</title>
     <link>https://mods.vintagestory.at/show/mod/11888</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11888#11888</guid>
@@ -118,13 +195,6 @@
     <description>Gives tamed animals personalities, backpacks, duties, talents, breeding, and expeditions.</description>
   </item>
   <item>
-    <title>Vampirism</title>
-    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
-    <pubDate>Sat, 19 Sep 2026 17:33:24 -0000</pubDate>
-    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
-  </item>
-  <item>
     <title>Tuna's Cute and Cozy Clothes</title>
     <link>https://mods.vintagestory.at/show/mod/11596</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11596#11596</guid>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xskillsxaldisclassespatch#11610</guid>
     <pubDate>Sat, 19 Sep 2026 16:37:34 -0000</pubDate>
     <description>Adds higher skill levels to xSkills Skills for classes in Aldi's Classes.</description>
-  </item>
-  <item>
-    <title>Roasted Bones (and bone stock)</title>
-    <link>https://mods.vintagestory.at/show/mod/11880</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11880#11880</guid>
-    <pubDate>Sat, 19 Sep 2026 16:12:20 -0000</pubDate>
-    <description>Roast bones and add them to your soup for a few extra nutrients or turn them into bone stock!</description>
-  </item>
-  <item>
-    <title>OvenSmoking</title>
-    <link>https://mods.vintagestory.at/show/mod/ovensmoking</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ovensmoking#11887</guid>
-    <pubDate>Sat, 19 Sep 2026 16:07:09 -0000</pubDate>
-    <description>Smoking racks smoke food when placed above a hot Stone Bake Oven</description>
-  </item>
-  <item>
-    <title>Fast Firewood</title>
-    <link>https://mods.vintagestory.at/show/mod/fastfirewood</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fastfirewood#11886</guid>
-    <pubDate>Sat, 19 Sep 2026 16:00:59 -0000</pubDate>
-    <description>Fast Firewood fills a firewood stack in one keypress. </description>
-  </item>
-  <item>
-    <title>smaller containers</title>
-    <link>https://mods.vintagestory.at/show/mod/smallercontainers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smallercontainers#11885</guid>
-    <pubDate>Sat, 19 Sep 2026 15:57:06 -0000</pubDate>
-    <description>Mod to make the game more painful by halving all storage slots.</description>
-  </item>
-  <item>
-    <title>Shroudmire Abecedarium</title>
-    <link>https://mods.vintagestory.at/show/mod/11849</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11849#11849</guid>
-    <pubDate>Sat, 19 Sep 2026 15:46:13 -0000</pubDate>
-    <description>Handboog Guide page for Shroudmire private Server</description>
-  </item>
-  <item>
-    <title>Jaunt: Entity Movement System</title>
-    <link>https://mods.vintagestory.at/show/mod/jaunt</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jaunt#4254</guid>
-    <pubDate>Sat, 19 Sep 2026 15:40:31 -0000</pubDate>
-    <description>Library providing an extended entity riding system with additional control patterns and stamina</description>
-  </item>
-  <item>
-    <title>Blahaj Raft</title>
-    <link>https://mods.vintagestory.at/show/mod/6738</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6738#6738</guid>
-    <pubDate>Sat, 19 Sep 2026 15:37:15 -0000</pubDate>
-    <description>Turns a certain secret raft from PrimitiveSurvival into a Blahaj</description>
-  </item>
-  <item>
-    <title>Vanilla armory</title>
-    <link>https://mods.vintagestory.at/show/mod/3927</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3927#3927</guid>
-    <pubDate>Sat, 19 Sep 2026 15:33:48 -0000</pubDate>
-    <description>Implements unused vanilla weapons and some armor in vanilla style</description>
-  </item>
-  <item>
-    <title>Oversized Horrors</title>
-    <link>https://mods.vintagestory.at/show/mod/10371</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10371#10371</guid>
-    <pubDate>Sat, 19 Sep 2026 15:32:31 -0000</pubDate>
-    <description>Massive versions of normal VS enemies</description>
-  </item>
-  <item>
-    <title>Forgematic</title>
-    <link>https://mods.vintagestory.at/show/mod/forgematic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/forgematic#11833</guid>
-    <pubDate>Sat, 19 Sep 2026 15:31:04 -0000</pubDate>
-    <description>A mod that forges for you; client-side only.</description>
   </item>
 </channel>
 </rss>
