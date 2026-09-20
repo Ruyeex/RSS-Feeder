@@ -4,13 +4,153 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 20 Sep 2026 00:47:28 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 05:51:04 +0000</lastBuildDate>
+  <item>
+    <title>Buzzwords</title>
+    <link>https://mods.vintagestory.at/show/mod/buzzwords</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/buzzwords#686</guid>
+    <pubDate>Sun, 20 Sep 2026 05:42:01 -0000</pubDate>
+    <description>Accessibility mod that shows a 'BzZzZzZ...' text alert to notify you that bees are nearby.</description>
+  </item>
+  <item>
+    <title>ChatLink</title>
+    <link>https://mods.vintagestory.at/show/mod/chatlink</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chatlink#8804</guid>
+    <pubDate>Sun, 20 Sep 2026 05:40:22 -0000</pubDate>
+    <description>Turns HTTP/HTTPS URLs item/block names in chat into clickable links and blocks configured unsafe web</description>
+  </item>
+  <item>
+    <title>Natural Fashion</title>
+    <link>https://mods.vintagestory.at/show/mod/11900</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11900#11900</guid>
+    <pubDate>Sun, 20 Sep 2026 04:52:36 -0000</pubDate>
+    <description>A mod that adds different types of horns that can be worn as crowns</description>
+  </item>
+  <item>
+    <title>Millwright</title>
+    <link>https://mods.vintagestory.at/show/mod/millwright</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/millwright#1344</guid>
+    <pubDate>Sun, 20 Sep 2026 04:49:42 -0000</pubDate>
+    <description>Building better horizontal and vertical windmills, rotors, axles, and brakes since 1386. </description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sun, 20 Sep 2026 04:18:12 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Salty´s Roasting Stick</title>
+    <link>https://mods.vintagestory.at/show/mod/roastingstick</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/roastingstick#11899</guid>
+    <pubDate>Sun, 20 Sep 2026 03:20:16 -0000</pubDate>
+    <description>Let's you use a stick to roast food</description>
+  </item>
+  <item>
+    <title>Progressive Bleeding</title>
+    <link>https://mods.vintagestory.at/show/mod/11796</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11796#11796</guid>
+    <pubDate>Sun, 20 Sep 2026 03:15:51 -0000</pubDate>
+    <description>Progressive bleeding, stacking wounds, blood trails, and permanent slow effects.</description>
+  </item>
+  <item>
+    <title>NDL ExpandedGrowth (Mushroom Growth Module)</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthmushrooms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthmushrooms#5922</guid>
+    <pubDate>Sun, 20 Sep 2026 03:14:55 -0000</pubDate>
+    <description>Adds a method for growing mushrooms!</description>
+  </item>
+  <item>
+    <title>Deciduous Trees</title>
+    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
+    <pubDate>Sun, 20 Sep 2026 02:51:18 -0000</pubDate>
+    <description>Trees slowly shed their leaves based on temperature. Vanilla or Eco Machina compatible.</description>
+  </item>
+  <item>
+    <title>Ember Diagnostics</title>
+    <link>https://mods.vintagestory.at/show/mod/emberdiagnostics</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/emberdiagnostics#11898</guid>
+    <pubDate>Sun, 20 Sep 2026 02:47:40 -0000</pubDate>
+    <description>Record client performance and investigate stutters with detailed offline reports.</description>
+  </item>
   <item>
     <title>ClimateOrbs</title>
     <link>https://mods.vintagestory.at/show/mod/climateorbs</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/climateorbs#11895</guid>
-    <pubDate>Sun, 20 Sep 2026 00:46:42 -0000</pubDate>
+    <pubDate>Sun, 20 Sep 2026 02:36:35 -0000</pubDate>
     <description>Magical orbs that warm crops and preserve stored food.</description>
+  </item>
+  <item>
+    <title>Vanilla armory</title>
+    <link>https://mods.vintagestory.at/show/mod/3927</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3927#3927</guid>
+    <pubDate>Sun, 20 Sep 2026 02:21:52 -0000</pubDate>
+    <description>Implements unused vanilla weapons and some armor in vanilla style</description>
+  </item>
+  <item>
+    <title>BetterChinese</title>
+    <link>https://mods.vintagestory.at/show/mod/betterchinese</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterchinese#2568</guid>
+    <pubDate>Sun, 20 Sep 2026 02:14:11 -0000</pubDate>
+    <description>更好的汉化</description>
+  </item>
+  <item>
+    <title>Expie Player Model cat_tron7 Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/11737</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11737#11737</guid>
+    <pubDate>Sun, 20 Sep 2026 02:14:08 -0000</pubDate>
+    <description>A series of tweaks to the original Expie Player Model mod.</description>
+  </item>
+  <item>
+    <title>OtterCreekServer</title>
+    <link>https://mods.vintagestory.at/show/mod/ottercreekmods</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ottercreekmods#11835</guid>
+    <pubDate>Sun, 20 Sep 2026 02:07:23 -0000</pubDate>
+    <description>Otter Creek server tweak mods</description>
+  </item>
+  <item>
+    <title>Fox Socks</title>
+    <link>https://mods.vintagestory.at/show/mod/foxsocks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/foxsocks#6454</guid>
+    <pubDate>Sun, 20 Sep 2026 02:02:08 -0000</pubDate>
+    <description>Socks for your fox</description>
+  </item>
+  <item>
+    <title>VS Terrain Diffusion</title>
+    <link>https://mods.vintagestory.at/show/mod/vsterraindiffusion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsterraindiffusion#10918</guid>
+    <pubDate>Sun, 20 Sep 2026 02:00:38 -0000</pubDate>
+    <description>Generate terrain with a neural heightmap model trained on real Earth topography</description>
+  </item>
+  <item>
+    <title>Nature's Call</title>
+    <link>https://mods.vintagestory.at/show/mod/naturescall</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/naturescall#3402</guid>
+    <pubDate>Sun, 20 Sep 2026 01:54:48 -0000</pubDate>
+    <description>Nature calls, and you must answer.</description>
+  </item>
+  <item>
+    <title>Blahaj Raft</title>
+    <link>https://mods.vintagestory.at/show/mod/6738</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6738#6738</guid>
+    <pubDate>Sun, 20 Sep 2026 01:38:44 -0000</pubDate>
+    <description>Turns a certain secret raft from PrimitiveSurvival into a Blahaj</description>
+  </item>
+  <item>
+    <title>Seraphs Ledger</title>
+    <link>https://mods.vintagestory.at/show/mod/9783</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9783#9783</guid>
+    <pubDate>Sun, 20 Sep 2026 00:52:49 -0000</pubDate>
+    <description>Sort vessel contents by freshness &amp; an Animal Tally Board.</description>
+  </item>
+  <item>
+    <title>MathClaims</title>
+    <link>https://mods.vintagestory.at/show/mod/mathclaims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mathclaims#11889</guid>
+    <pubDate>Sun, 20 Sep 2026 00:49:45 -0000</pubDate>
+    <description>Proteção territorial 16×16 integrada ao mapa, com limites visuais em Ctrl+P</description>
   </item>
   <item>
     <title>SapTap</title>
@@ -39,13 +179,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11590#11590</guid>
     <pubDate>Sat, 19 Sep 2026 23:18:26 -0000</pubDate>
     <description>Over 1,000 new items, creatures and weapons added</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sat, 19 Sep 2026 22:51:36 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
   <item>
     <title>Ambien's Easy Chunk Claim</title>
@@ -81,139 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11880#11880</guid>
     <pubDate>Sat, 19 Sep 2026 22:07:47 -0000</pubDate>
     <description>Roast bones and add them to your soup for a few extra nutrients or turn them into bone stock!</description>
-  </item>
-  <item>
-    <title>MathClaims</title>
-    <link>https://mods.vintagestory.at/show/mod/mathclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mathclaims#11889</guid>
-    <pubDate>Sat, 19 Sep 2026 22:06:11 -0000</pubDate>
-    <description>Proteção territorial 16×16 integrada ao mapa, com limites visuais em Ctrl+P</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Sat, 19 Sep 2026 21:59:36 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
-  </item>
-  <item>
-    <title>Moonlit magic</title>
-    <link>https://mods.vintagestory.at/show/mod/moonlitmagic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmagic#11891</guid>
-    <pubDate>Sat, 19 Sep 2026 21:56:36 -0000</pubDate>
-    <description>Biome based magic system</description>
-  </item>
-  <item>
-    <title>RSU Faction Core</title>
-    <link>https://mods.vintagestory.at/show/mod/rsufactioncore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rsufactioncore#11873</guid>
-    <pubDate>Sat, 19 Sep 2026 21:23:06 -0000</pubDate>
-    <description>Map-driven countries, one-time journeys, settlements, trust and diplomacy in the Book of Rsu.</description>
-  </item>
-  <item>
-    <title>Immersive Woodworking</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivewoodworking</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivewoodworking#9606</guid>
-    <pubDate>Sat, 19 Sep 2026 21:13:29 -0000</pubDate>
-    <description>Focused immersion mod that makes processing timber feel like work, not paperwork. </description>
-  </item>
-  <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Sat, 19 Sep 2026 21:08:52 -0000</pubDate>
-    <description>The factory must grow!</description>
-  </item>
-  <item>
-    <title>Moonlit fantasy pack</title>
-    <link>https://mods.vintagestory.at/show/mod/6273</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6273#6273</guid>
-    <pubDate>Sat, 19 Sep 2026 21:05:29 -0000</pubDate>
-    <description>A weapon and armour pack for the moonlit fantasy server</description>
-  </item>
-  <item>
-    <title>Plant Debris Hedges</title>
-    <link>https://mods.vintagestory.at/show/mod/plantdebrishedges</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plantdebrishedges#10463</guid>
-    <pubDate>Sat, 19 Sep 2026 21:04:13 -0000</pubDate>
-    <description>Adds craftable "Hedge" blocks from plant debris, using the model of legacy bushes.</description>
-  </item>
-  <item>
-    <title>DST - NPC additions</title>
-    <link>https://mods.vintagestory.at/show/mod/dstnpcadditions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dstnpcadditions#11739</guid>
-    <pubDate>Sat, 19 Sep 2026 20:46:00 -0000</pubDate>
-    <description>Additional NPC mobs using the vanilla villager model. </description>
-  </item>
-  <item>
-    <title>Kobold Player Model Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/koboldrdx</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/koboldrdx#4814</guid>
-    <pubDate>Sat, 19 Sep 2026 20:10:32 -0000</pubDate>
-    <description>A complete 1.21+ remake of Soi's Kobold player model, for PlayerModelLib by Maltiez!</description>
-  </item>
-  <item>
-    <title>Newfies Server Essentials Suite</title>
-    <link>https://mods.vintagestory.at/show/mod/11556</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
-    <pubDate>Sat, 19 Sep 2026 19:51:46 -0000</pubDate>
-    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
-  </item>
-  <item>
-    <title>Butchering – FotSA (Fauna of the Stone Age) Compatibility Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/butcheringfotsacompatability</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butcheringfotsacompatability#11301</guid>
-    <pubDate>Sat, 19 Sep 2026 19:32:42 -0000</pubDate>
-    <description>A focused compatibility add-on for Butchering and the modular Fauna of the Stone Age animal packs on</description>
-  </item>
-  <item>
-    <title>Pack de Traduction Française</title>
-    <link>https://mods.vintagestory.at/show/mod/packfr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/packfr#11805</guid>
-    <pubDate>Sat, 19 Sep 2026 19:23:39 -0000</pubDate>
-    <description>Ce mod ajoute une traduction française pour une sélection de mods communautaires. </description>
-  </item>
-  <item>
-    <title>Animalica Requests</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicare</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicare#11876</guid>
-    <pubDate>Sat, 19 Sep 2026 19:23:39 -0000</pubDate>
-    <description>Adds deer antlers for foxes and hares, plus a tailless fox option.</description>
-  </item>
-  <item>
-    <title>DRT AgX Kraken - Shader</title>
-    <link>https://mods.vintagestory.at/show/mod/drtagx</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drtagx#2913</guid>
-    <pubDate>Sat, 19 Sep 2026 19:16:47 -0000</pubDate>
-    <description>AgX Kraken ish display transform.</description>
-  </item>
-  <item>
-    <title>Yellowcake</title>
-    <link>https://mods.vintagestory.at/show/mod/7998</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7998#7998</guid>
-    <pubDate>Sat, 19 Sep 2026 19:14:35 -0000</pubDate>
-    <description>Yellowcake is a mod that adds a dangerous late-game radioactive fuel chain.</description>
-  </item>
-  <item>
-    <title>Dynamic Seasonal Temperature</title>
-    <link>https://mods.vintagestory.at/show/mod/11883</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11883#11883</guid>
-    <pubDate>Sat, 19 Sep 2026 19:01:44 -0000</pubDate>
-    <description>Adds long-term climate variability - some years mild, some brutally cold or scorching hot.</description>
-  </item>
-  <item>
-    <title>Yang's Transport Tycoon</title>
-    <link>https://mods.vintagestory.at/show/mod/yangtransport</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yangtransport#6871</guid>
-    <pubDate>Sat, 19 Sep 2026 18:59:53 -0000</pubDate>
-    <description>Construct and operate industrial transport machinery.</description>
-  </item>
-  <item>
-    <title>Primitive Survival</title>
-    <link>https://mods.vintagestory.at/show/mod/primitivesurvival</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/primitivesurvival#322</guid>
-    <pubDate>Sat, 19 Sep 2026 18:58:54 -0000</pubDate>
-    <description>Fishing, trapping, irrigation, smoker, nightcrawlers, snakes, and much more!</description>
   </item>
 </channel>
 </rss>
