@@ -4,20 +4,132 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 20 Sep 2026 05:51:04 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 10:53:49 +0000</lastBuildDate>
+  <item>
+    <title>SmoothFalx Replacer</title>
+    <link>https://mods.vintagestory.at/show/mod/11783</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11783#11783</guid>
+    <pubDate>Sun, 20 Sep 2026 10:34:38 -0000</pubDate>
+    <description>Falx Model Replacer</description>
+  </item>
+  <item>
+    <title>Hide Crafting Grid</title>
+    <link>https://mods.vintagestory.at/show/mod/hidecraftinggrid</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hidecraftinggrid#11905</guid>
+    <pubDate>Sun, 20 Sep 2026 09:42:54 -0000</pubDate>
+    <description>Simply hides the crafting grid. Intended to be used with mods adding other ways to craft things.</description>
+  </item>
+  <item>
+    <title>Native HDR</title>
+    <link>https://mods.vintagestory.at/show/mod/hdr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hdr#11902</guid>
+    <pubDate>Sun, 20 Sep 2026 09:38:35 -0000</pubDate>
+    <description>Adds Native HDR to Vintage Story. Windows only.</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Varangian Style</title>
+    <link>https://mods.vintagestory.at/show/mod/6520</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6520#6520</guid>
+    <pubDate>Sun, 20 Sep 2026 09:27:06 -0000</pubDate>
+    <description>Mod adding multiple iron and steel plate and scale armor variations inspired by the Varangians</description>
+  </item>
+  <item>
+    <title>Cogwork</title>
+    <link>https://mods.vintagestory.at/show/mod/cogwork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cogwork#11904</guid>
+    <pubDate>Sun, 20 Sep 2026 08:46:36 -0000</pubDate>
+    <description>Copper-wire circuits, moving machines, rail carts and illustrated automation lessons.</description>
+  </item>
+  <item>
+    <title>Of Hooves and Antlers</title>
+    <link>https://mods.vintagestory.at/show/mod/6035</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6035#6035</guid>
+    <pubDate>Sun, 20 Sep 2026 08:33:26 -0000</pubDate>
+    <description>Mod adding rideable / tameable variants of Vanilla rideable sized animals</description>
+  </item>
+  <item>
+    <title>Plant Debris Hedges</title>
+    <link>https://mods.vintagestory.at/show/mod/plantdebrishedges</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plantdebrishedges#10463</guid>
+    <pubDate>Sun, 20 Sep 2026 08:05:14 -0000</pubDate>
+    <description>Adds craftable "Hedge" blocks from plant debris, using the model of legacy bushes.</description>
+  </item>
+  <item>
+    <title>Riftborn Souls</title>
+    <link>https://mods.vintagestory.at/show/mod/riftbornsouls</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftbornsouls#11901</guid>
+    <pubDate>Sun, 20 Sep 2026 07:39:39 -0000</pubDate>
+    <description>Nine unique races, each defined by one innate gift.</description>
+  </item>
+  <item>
+    <title>Hardcore Ice World Server Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/11685</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11685#11685</guid>
+    <pubDate>Sun, 20 Sep 2026 06:52:34 -0000</pubDate>
+    <description>So far, it’s only a patch for the ceiling grain shelf that couldn’t be attached to chiseled blocks b</description>
+  </item>
+  <item>
+    <title>C&amp;N Player Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/canplayerskills</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canplayerskills#11474</guid>
+    <pubDate>Sun, 20 Sep 2026 06:44:28 -0000</pubDate>
+    <description>TFC-style skills</description>
+  </item>
+  <item>
+    <title>C&amp;N Jewelry</title>
+    <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
+    <pubDate>Sun, 20 Sep 2026 06:40:27 -0000</pubDate>
+    <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
+  </item>
+  <item>
+    <title>Vintage Kinematics</title>
+    <link>https://mods.vintagestory.at/show/mod/8639</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8639#8639</guid>
+    <pubDate>Sun, 20 Sep 2026 06:22:56 -0000</pubDate>
+    <description>Rotation networks, belts, crushers, and automation for Vintage Story</description>
+  </item>
+  <item>
+    <title>ChatLink</title>
+    <link>https://mods.vintagestory.at/show/mod/chatlink</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chatlink#8804</guid>
+    <pubDate>Sun, 20 Sep 2026 06:14:17 -0000</pubDate>
+    <description>Turns HTTP/HTTPS URLs item/block names in chat into clickable links and blocks configured unsafe web</description>
+  </item>
+  <item>
+    <title>Tuna's Cute and Cozy Clothes</title>
+    <link>https://mods.vintagestory.at/show/mod/11596</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11596#11596</guid>
+    <pubDate>Sun, 20 Sep 2026 06:08:59 -0000</pubDate>
+    <description>Bunch of clothes i like</description>
+  </item>
+  <item>
+    <title>Zoom Button - Reborn</title>
+    <link>https://mods.vintagestory.at/show/mod/zoombutton</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/zoombutton#443</guid>
+    <pubDate>Sun, 20 Sep 2026 05:53:06 -0000</pubDate>
+    <description>Where's all that damn wolf howling coming from?  Press Z to squint and find out.</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/almanactcm</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanactcm#10453</guid>
+    <pubDate>Sun, 20 Sep 2026 05:52:03 -0000</pubDate>
+    <description>Twenty-two trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>CAN Jewelry: Adornments</title>
+    <link>https://mods.vintagestory.at/show/mod/canjewelryadornments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelryadornments#11242</guid>
+    <pubDate>Sun, 20 Sep 2026 05:51:43 -0000</pubDate>
+    <description>Wearable jewelry - rings, earrings, tiaras, necklaces, monocles and more - plus display stands, all </description>
+  </item>
   <item>
     <title>Buzzwords</title>
     <link>https://mods.vintagestory.at/show/mod/buzzwords</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/buzzwords#686</guid>
     <pubDate>Sun, 20 Sep 2026 05:42:01 -0000</pubDate>
     <description>Accessibility mod that shows a 'BzZzZzZ...' text alert to notify you that bees are nearby.</description>
-  </item>
-  <item>
-    <title>ChatLink</title>
-    <link>https://mods.vintagestory.at/show/mod/chatlink</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chatlink#8804</guid>
-    <pubDate>Sun, 20 Sep 2026 05:40:22 -0000</pubDate>
-    <description>Turns HTTP/HTTPS URLs item/block names in chat into clickable links and blocks configured unsafe web</description>
   </item>
   <item>
     <title>Natural Fashion</title>
@@ -102,118 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11737#11737</guid>
     <pubDate>Sun, 20 Sep 2026 02:14:08 -0000</pubDate>
     <description>A series of tweaks to the original Expie Player Model mod.</description>
-  </item>
-  <item>
-    <title>OtterCreekServer</title>
-    <link>https://mods.vintagestory.at/show/mod/ottercreekmods</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ottercreekmods#11835</guid>
-    <pubDate>Sun, 20 Sep 2026 02:07:23 -0000</pubDate>
-    <description>Otter Creek server tweak mods</description>
-  </item>
-  <item>
-    <title>Fox Socks</title>
-    <link>https://mods.vintagestory.at/show/mod/foxsocks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/foxsocks#6454</guid>
-    <pubDate>Sun, 20 Sep 2026 02:02:08 -0000</pubDate>
-    <description>Socks for your fox</description>
-  </item>
-  <item>
-    <title>VS Terrain Diffusion</title>
-    <link>https://mods.vintagestory.at/show/mod/vsterraindiffusion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsterraindiffusion#10918</guid>
-    <pubDate>Sun, 20 Sep 2026 02:00:38 -0000</pubDate>
-    <description>Generate terrain with a neural heightmap model trained on real Earth topography</description>
-  </item>
-  <item>
-    <title>Nature's Call</title>
-    <link>https://mods.vintagestory.at/show/mod/naturescall</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/naturescall#3402</guid>
-    <pubDate>Sun, 20 Sep 2026 01:54:48 -0000</pubDate>
-    <description>Nature calls, and you must answer.</description>
-  </item>
-  <item>
-    <title>Blahaj Raft</title>
-    <link>https://mods.vintagestory.at/show/mod/6738</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6738#6738</guid>
-    <pubDate>Sun, 20 Sep 2026 01:38:44 -0000</pubDate>
-    <description>Turns a certain secret raft from PrimitiveSurvival into a Blahaj</description>
-  </item>
-  <item>
-    <title>Seraphs Ledger</title>
-    <link>https://mods.vintagestory.at/show/mod/9783</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9783#9783</guid>
-    <pubDate>Sun, 20 Sep 2026 00:52:49 -0000</pubDate>
-    <description>Sort vessel contents by freshness &amp; an Animal Tally Board.</description>
-  </item>
-  <item>
-    <title>MathClaims</title>
-    <link>https://mods.vintagestory.at/show/mod/mathclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mathclaims#11889</guid>
-    <pubDate>Sun, 20 Sep 2026 00:49:45 -0000</pubDate>
-    <description>Proteção territorial 16×16 integrada ao mapa, com limites visuais em Ctrl+P</description>
-  </item>
-  <item>
-    <title>SapTap</title>
-    <link>https://mods.vintagestory.at/show/mod/11837</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11837#11837</guid>
-    <pubDate>Sun, 20 Sep 2026 00:38:07 -0000</pubDate>
-    <description>Tap resin-oozing pine and acacia with metal spiles; hang a bucket, collect sap by the season.</description>
-  </item>
-  <item>
-    <title>Cooking Freedom!</title>
-    <link>https://mods.vintagestory.at/show/mod/11884</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11884#11884</guid>
-    <pubDate>Sat, 19 Sep 2026 23:58:37 -0000</pubDate>
-    <description>Vanilla+ expansion to cooking recipe combinations!</description>
-  </item>
-  <item>
-    <title>race addition</title>
-    <link>https://mods.vintagestory.at/show/mod/10150</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10150#10150</guid>
-    <pubDate>Sat, 19 Sep 2026 23:31:05 -0000</pubDate>
-    <description>adds a race to my server</description>
-  </item>
-  <item>
-    <title>Craftsmanship</title>
-    <link>https://mods.vintagestory.at/show/mod/11590</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11590#11590</guid>
-    <pubDate>Sat, 19 Sep 2026 23:18:26 -0000</pubDate>
-    <description>Over 1,000 new items, creatures and weapons added</description>
-  </item>
-  <item>
-    <title>Ambien's Easy Chunk Claim</title>
-    <link>https://mods.vintagestory.at/show/mod/9368</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9368#9368</guid>
-    <pubDate>Sat, 19 Sep 2026 22:50:20 -0000</pubDate>
-    <description>Simple chunk claiming made for servers</description>
-  </item>
-  <item>
-    <title>Log Splitter</title>
-    <link>https://mods.vintagestory.at/show/mod/logsplitter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/logsplitter#2793</guid>
-    <pubDate>Sat, 19 Sep 2026 22:48:39 -0000</pubDate>
-    <description>Split your text channels into markdown files!</description>
-  </item>
-  <item>
-    <title>Feverstone Wilds</title>
-    <link>https://mods.vintagestory.at/show/mod/feverstonewilds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feverstonewilds#967</guid>
-    <pubDate>Sat, 19 Sep 2026 22:40:53 -0000</pubDate>
-    <description>Feverstone Wilds is a fantasy mod mixed with realism that can help you or challenge you.</description>
-  </item>
-  <item>
-    <title>Vampirism</title>
-    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
-    <pubDate>Sat, 19 Sep 2026 22:33:10 -0000</pubDate>
-    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
-  </item>
-  <item>
-    <title>Roasted Bones (and bone stock)</title>
-    <link>https://mods.vintagestory.at/show/mod/11880</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11880#11880</guid>
-    <pubDate>Sat, 19 Sep 2026 22:07:47 -0000</pubDate>
-    <description>Roast bones and add them to your soup for a few extra nutrients or turn them into bone stock!</description>
   </item>
 </channel>
 </rss>
