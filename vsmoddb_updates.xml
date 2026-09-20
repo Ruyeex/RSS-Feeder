@@ -4,7 +4,119 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 20 Sep 2026 10:53:49 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 14:35:38 +0000</lastBuildDate>
+  <item>
+    <title>Abilities</title>
+    <link>https://mods.vintagestory.at/show/mod/11723</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11723#11723</guid>
+    <pubDate>Sun, 20 Sep 2026 14:25:26 -0000</pubDate>
+    <description>Gives everyone an ability to make everyone more unique.</description>
+  </item>
+  <item>
+    <title>Spatial Audio Effects</title>
+    <link>https://mods.vintagestory.at/show/mod/spatialaudioeffects</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spatialaudioeffects#11908</guid>
+    <pubDate>Sun, 20 Sep 2026 14:09:05 -0000</pubDate>
+    <description>Replaces stereo weather tracks and ambient loops with positional emitters.</description>
+  </item>
+  <item>
+    <title>Casablanca Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/11911</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11911#11911</guid>
+    <pubDate>Sun, 20 Sep 2026 13:43:58 -0000</pubDate>
+    <description>For the Casablanca server setup.</description>
+  </item>
+  <item>
+    <title>Riftborn Souls</title>
+    <link>https://mods.vintagestory.at/show/mod/riftbornsouls</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftbornsouls#11901</guid>
+    <pubDate>Sun, 20 Sep 2026 13:30:20 -0000</pubDate>
+    <description>Nine unique races, each defined by one innate gift.</description>
+  </item>
+  <item>
+    <title>BotaniaStory</title>
+    <link>https://mods.vintagestory.at/show/mod/8113</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8113#8113</guid>
+    <pubDate>Sun, 20 Sep 2026 13:27:46 -0000</pubDate>
+    <description>BotaniaStory - nature magic, mana, and automation in Vintage Story!</description>
+  </item>
+  <item>
+    <title>NoMoreLeaveMessage</title>
+    <link>https://mods.vintagestory.at/show/mod/11881</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11881#11881</guid>
+    <pubDate>Sun, 20 Sep 2026 13:15:14 -0000</pubDate>
+    <description>server-side Vintage Story mod that suppresses only the public player leave/removal announcement.</description>
+  </item>
+  <item>
+    <title>Spatial Audio Linux and macOS natives</title>
+    <link>https://mods.vintagestory.at/show/mod/spatialaudiounix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spatialaudiounix#11910</guid>
+    <pubDate>Sun, 20 Sep 2026 13:07:20 -0000</pubDate>
+    <description>The Linux and macOS libraries for Spatial Audio.</description>
+  </item>
+  <item>
+    <title>GetAGrip </title>
+    <link>https://mods.vintagestory.at/show/mod/11724</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11724#11724</guid>
+    <pubDate>Sun, 20 Sep 2026 13:00:58 -0000</pubDate>
+    <description>A new take on the tool crafting system.</description>
+  </item>
+  <item>
+    <title>Spatial Audio (Alpha)</title>
+    <link>https://mods.vintagestory.at/show/mod/spatialaudio</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spatialaudio#11906</guid>
+    <pubDate>Sun, 20 Sep 2026 13:00:36 -0000</pubDate>
+    <description>Full Ambisonic Audio for Vintage Story. Windows Spatial Audio support.</description>
+  </item>
+  <item>
+    <title>Spiro Loading Screen</title>
+    <link>https://mods.vintagestory.at/show/mod/spiroloadingscreen</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spiroloadingscreen#11628</guid>
+    <pubDate>Sun, 20 Sep 2026 12:47:38 -0000</pubDate>
+    <description>Custom loading screen with server-side world preloading and chunk readiness checks.</description>
+  </item>
+  <item>
+    <title>[VEEP]Vintage Engineering &lt;-&gt; Electrical Progressive</title>
+    <link>https://mods.vintagestory.at/show/mod/veep</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/veep#4279</guid>
+    <pubDate>Sun, 20 Sep 2026 12:38:57 -0000</pubDate>
+    <description>Adds a block that converts Electrical Progressive to Vintage Engineering power and back.</description>
+  </item>
+  <item>
+    <title>Rift Weapons</title>
+    <link>https://mods.vintagestory.at/show/mod/riftweapons</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftweapons#4417</guid>
+    <pubDate>Sun, 20 Sep 2026 11:44:09 -0000</pubDate>
+    <description>Adds a Sword with different designs depending on metal tier</description>
+  </item>
+  <item>
+    <title>Jaunt: Entity Movement System</title>
+    <link>https://mods.vintagestory.at/show/mod/jaunt</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jaunt#4254</guid>
+    <pubDate>Sun, 20 Sep 2026 11:40:34 -0000</pubDate>
+    <description>Library providing an extended entity riding system with additional control patterns and stamina</description>
+  </item>
+  <item>
+    <title>Eventide Visibility</title>
+    <link>https://mods.vintagestory.at/show/mod/eventidevisibility</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eventidevisibility#11909</guid>
+    <pubDate>Sun, 20 Sep 2026 11:39:11 -0000</pubDate>
+    <description>Civilization-aware terrain map, Rust fog, and reduced world streaming for Eventide servers.</description>
+  </item>
+  <item>
+    <title>Eventide Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Sun, 20 Sep 2026 11:37:46 -0000</pubDate>
+    <description>Claim maps, settlements, and access permissions for the Eventide server.</description>
+  </item>
+  <item>
+    <title>Cogwork</title>
+    <link>https://mods.vintagestory.at/show/mod/cogwork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cogwork#11904</guid>
+    <pubDate>Sun, 20 Sep 2026 11:29:40 -0000</pubDate>
+    <description>Copper-wire circuits, moving machines, rail carts and illustrated automation lessons.</description>
+  </item>
   <item>
     <title>SmoothFalx Replacer</title>
     <link>https://mods.vintagestory.at/show/mod/11783</link>
@@ -34,13 +146,6 @@
     <description>Mod adding multiple iron and steel plate and scale armor variations inspired by the Varangians</description>
   </item>
   <item>
-    <title>Cogwork</title>
-    <link>https://mods.vintagestory.at/show/mod/cogwork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cogwork#11904</guid>
-    <pubDate>Sun, 20 Sep 2026 08:46:36 -0000</pubDate>
-    <description>Copper-wire circuits, moving machines, rail carts and illustrated automation lessons.</description>
-  </item>
-  <item>
     <title>Of Hooves and Antlers</title>
     <link>https://mods.vintagestory.at/show/mod/6035</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6035#6035</guid>
@@ -53,13 +158,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plantdebrishedges#10463</guid>
     <pubDate>Sun, 20 Sep 2026 08:05:14 -0000</pubDate>
     <description>Adds craftable "Hedge" blocks from plant debris, using the model of legacy bushes.</description>
-  </item>
-  <item>
-    <title>Riftborn Souls</title>
-    <link>https://mods.vintagestory.at/show/mod/riftbornsouls</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftbornsouls#11901</guid>
-    <pubDate>Sun, 20 Sep 2026 07:39:39 -0000</pubDate>
-    <description>Nine unique races, each defined by one innate gift.</description>
   </item>
   <item>
     <title>Hardcore Ice World Server Patches</title>
@@ -116,104 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanactcm#10453</guid>
     <pubDate>Sun, 20 Sep 2026 05:52:03 -0000</pubDate>
     <description>Twenty-two trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>CAN Jewelry: Adornments</title>
-    <link>https://mods.vintagestory.at/show/mod/canjewelryadornments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelryadornments#11242</guid>
-    <pubDate>Sun, 20 Sep 2026 05:51:43 -0000</pubDate>
-    <description>Wearable jewelry - rings, earrings, tiaras, necklaces, monocles and more - plus display stands, all </description>
-  </item>
-  <item>
-    <title>Buzzwords</title>
-    <link>https://mods.vintagestory.at/show/mod/buzzwords</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/buzzwords#686</guid>
-    <pubDate>Sun, 20 Sep 2026 05:42:01 -0000</pubDate>
-    <description>Accessibility mod that shows a 'BzZzZzZ...' text alert to notify you that bees are nearby.</description>
-  </item>
-  <item>
-    <title>Natural Fashion</title>
-    <link>https://mods.vintagestory.at/show/mod/11900</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11900#11900</guid>
-    <pubDate>Sun, 20 Sep 2026 04:52:36 -0000</pubDate>
-    <description>A mod that adds different types of horns that can be worn as crowns</description>
-  </item>
-  <item>
-    <title>Millwright</title>
-    <link>https://mods.vintagestory.at/show/mod/millwright</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/millwright#1344</guid>
-    <pubDate>Sun, 20 Sep 2026 04:49:42 -0000</pubDate>
-    <description>Building better horizontal and vertical windmills, rotors, axles, and brakes since 1386. </description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sun, 20 Sep 2026 04:18:12 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Salty´s Roasting Stick</title>
-    <link>https://mods.vintagestory.at/show/mod/roastingstick</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/roastingstick#11899</guid>
-    <pubDate>Sun, 20 Sep 2026 03:20:16 -0000</pubDate>
-    <description>Let's you use a stick to roast food</description>
-  </item>
-  <item>
-    <title>Progressive Bleeding</title>
-    <link>https://mods.vintagestory.at/show/mod/11796</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11796#11796</guid>
-    <pubDate>Sun, 20 Sep 2026 03:15:51 -0000</pubDate>
-    <description>Progressive bleeding, stacking wounds, blood trails, and permanent slow effects.</description>
-  </item>
-  <item>
-    <title>NDL ExpandedGrowth (Mushroom Growth Module)</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthmushrooms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthmushrooms#5922</guid>
-    <pubDate>Sun, 20 Sep 2026 03:14:55 -0000</pubDate>
-    <description>Adds a method for growing mushrooms!</description>
-  </item>
-  <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Sun, 20 Sep 2026 02:51:18 -0000</pubDate>
-    <description>Trees slowly shed their leaves based on temperature. Vanilla or Eco Machina compatible.</description>
-  </item>
-  <item>
-    <title>Ember Diagnostics</title>
-    <link>https://mods.vintagestory.at/show/mod/emberdiagnostics</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/emberdiagnostics#11898</guid>
-    <pubDate>Sun, 20 Sep 2026 02:47:40 -0000</pubDate>
-    <description>Record client performance and investigate stutters with detailed offline reports.</description>
-  </item>
-  <item>
-    <title>ClimateOrbs</title>
-    <link>https://mods.vintagestory.at/show/mod/climateorbs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/climateorbs#11895</guid>
-    <pubDate>Sun, 20 Sep 2026 02:36:35 -0000</pubDate>
-    <description>Magical orbs that warm crops and preserve stored food.</description>
-  </item>
-  <item>
-    <title>Vanilla armory</title>
-    <link>https://mods.vintagestory.at/show/mod/3927</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3927#3927</guid>
-    <pubDate>Sun, 20 Sep 2026 02:21:52 -0000</pubDate>
-    <description>Implements unused vanilla weapons and some armor in vanilla style</description>
-  </item>
-  <item>
-    <title>BetterChinese</title>
-    <link>https://mods.vintagestory.at/show/mod/betterchinese</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterchinese#2568</guid>
-    <pubDate>Sun, 20 Sep 2026 02:14:11 -0000</pubDate>
-    <description>更好的汉化</description>
-  </item>
-  <item>
-    <title>Expie Player Model cat_tron7 Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/11737</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11737#11737</guid>
-    <pubDate>Sun, 20 Sep 2026 02:14:08 -0000</pubDate>
-    <description>A series of tweaks to the original Expie Player Model mod.</description>
   </item>
 </channel>
 </rss>
