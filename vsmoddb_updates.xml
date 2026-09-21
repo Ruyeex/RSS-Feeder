@@ -4,13 +4,167 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 21 Sep 2026 10:28:08 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 16:50:25 +0000</lastBuildDate>
+  <item>
+    <title>Cooking Freedom!</title>
+    <link>https://mods.vintagestory.at/show/mod/11884</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11884#11884</guid>
+    <pubDate>Mon, 21 Sep 2026 16:47:17 -0000</pubDate>
+    <description>Vanilla+ expansion to cooking recipe combinations!</description>
+  </item>
+  <item>
+    <title>Expanded Fruits and Nuts</title>
+    <link>https://mods.vintagestory.at/show/mod/11938</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11938#11938</guid>
+    <pubDate>Mon, 21 Sep 2026 15:34:13 -0000</pubDate>
+    <description>A collection of patches and expansions for Expanded Foods, Wildcraft: Fruits and Nuts and more!</description>
+  </item>
+  <item>
+    <title>Return of the Atlatl 1.22 Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/returnoftheatlatlfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/returnoftheatlatlfork#11861</guid>
+    <pubDate>Mon, 21 Sep 2026 15:23:15 -0000</pubDate>
+    <description>Fork of Return of the Atlatl</description>
+  </item>
+  <item>
+    <title>Moonlit magic</title>
+    <link>https://mods.vintagestory.at/show/mod/moonlitmagic</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmagic#11891</guid>
+    <pubDate>Mon, 21 Sep 2026 13:44:13 -0000</pubDate>
+    <description>Biome based magic system</description>
+  </item>
+  <item>
+    <title>Lunchbox</title>
+    <link>https://mods.vintagestory.at/show/mod/lunchbox</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lunchbox#6518</guid>
+    <pubDate>Mon, 21 Sep 2026 13:16:35 -0000</pubDate>
+    <description>Adds storage containers which automatically feeds the player when hungry</description>
+  </item>
+  <item>
+    <title>Blood Trail</title>
+    <link>https://mods.vintagestory.at/show/mod/bloodtrail</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bloodtrail#5069</guid>
+    <pubDate>Mon, 21 Sep 2026 13:01:25 -0000</pubDate>
+    <description>Animals leave blood trails when wounded by a player.</description>
+  </item>
+  <item>
+    <title>Footprints</title>
+    <link>https://mods.vintagestory.at/show/mod/footprints</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/footprints#5625</guid>
+    <pubDate>Mon, 21 Sep 2026 12:59:46 -0000</pubDate>
+    <description>Animals and Players leave footprints when moving.</description>
+  </item>
+  <item>
+    <title>LogicalNerfsDirection</title>
+    <link>https://mods.vintagestory.at/show/mod/9983</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9983#9983</guid>
+    <pubDate>Mon, 21 Sep 2026 12:25:28 -0000</pubDate>
+    <description>Removes direction tells from roller, knapping surfaces, clay forms, and disables the debug overlay.</description>
+  </item>
+  <item>
+    <title>Null Cartography</title>
+    <link>https://mods.vintagestory.at/show/mod/nullcartography</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullcartography#11877</guid>
+    <pubDate>Mon, 21 Sep 2026 12:10:42 -0000</pubDate>
+    <description>Survey the land by hand and draw your own charts. Pixels and bearings, never coordinates.</description>
+  </item>
+  <item>
+    <title>StormvaldServerMod</title>
+    <link>https://mods.vintagestory.at/show/mod/11142</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11142#11142</guid>
+    <pubDate>Mon, 21 Sep 2026 11:36:32 -0000</pubDate>
+    <description>Servermod</description>
+  </item>
+  <item>
+    <title>TraderTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10569</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
+    <pubDate>Mon, 21 Sep 2026 11:25:18 -0000</pubDate>
+    <description>Allow to manage traders</description>
+  </item>
+  <item>
+    <title>Swap Offhand Hotkey</title>
+    <link>https://mods.vintagestory.at/show/mod/swapoffhandhotkey</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swapoffhandhotkey#5089</guid>
+    <pubDate>Mon, 21 Sep 2026 11:20:17 -0000</pubDate>
+    <description>Hover over an inventory slot and press a key to swap with your offhand slot</description>
+  </item>
+  <item>
+    <title>Alegacy Quest Framework</title>
+    <link>https://mods.vintagestory.at/show/mod/alegacyquestframework</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyquestframework#6609</guid>
+    <pubDate>Mon, 21 Sep 2026 11:17:20 -0000</pubDate>
+    <description>Alegacy Quest Framework is a full-featured quest and boss combat engine for Vintage Story.</description>
+  </item>
+  <item>
+    <title>Alegacy: Foundation</title>
+    <link>https://mods.vintagestory.at/show/mod/albase</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/albase#6694</guid>
+    <pubDate>Mon, 21 Sep 2026 11:15:17 -0000</pubDate>
+    <description>Foundation quest pack for the Alegacy Server.</description>
+  </item>
+  <item>
+    <title>Arcanum Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/arcanumlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arcanumlib#11325</guid>
+    <pubDate>Mon, 21 Sep 2026 11:14:48 -0000</pubDate>
+    <description>A shared utility library for Vintage Story: HUD, particles, effects, persistence, and more.</description>
+  </item>
+  <item>
+    <title>Prosequor Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/11726</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11726#11726</guid>
+    <pubDate>Mon, 21 Sep 2026 11:14:26 -0000</pubDate>
+    <description>Adds compatibility between popular Vintage Story mods and Prosequor.</description>
+  </item>
+  <item>
+    <title>Alegacy patches</title>
+    <link>https://mods.vintagestory.at/show/mod/6997</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6997#6997</guid>
+    <pubDate>Mon, 21 Sep 2026 11:14:08 -0000</pubDate>
+    <description>targeted patches for the Alegacy server setup</description>
+  </item>
+  <item>
+    <title>NoMoreLeaveMessage</title>
+    <link>https://mods.vintagestory.at/show/mod/11881</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11881#11881</guid>
+    <pubDate>Mon, 21 Sep 2026 10:59:31 -0000</pubDate>
+    <description>server-side Vintage Story mod that suppresses only the public player leave/removal announcement.</description>
+  </item>
+  <item>
+    <title>Amu-less-light</title>
+    <link>https://mods.vintagestory.at/show/mod/6205</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6205#6205</guid>
+    <pubDate>Mon, 21 Sep 2026 10:55:55 -0000</pubDate>
+    <description>Just Amulight with a Light Level of 10 (less than the Oil Lamp)</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Mon, 21 Sep 2026 10:42:17 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
+  </item>
+  <item>
+    <title>The Quenchiest/One Last Quench.</title>
+    <link>https://mods.vintagestory.at/show/mod/thequenchiest</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thequenchiest#11936</guid>
+    <pubDate>Mon, 21 Sep 2026 10:32:17 -0000</pubDate>
+    <description>Quench gambling with less disastrous results.</description>
+  </item>
   <item>
     <title>BotaniaStory</title>
     <link>https://mods.vintagestory.at/show/mod/8113</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8113#8113</guid>
     <pubDate>Mon, 21 Sep 2026 10:19:14 -0000</pubDate>
     <description>BotaniaStory - nature magic, mana, and automation in Vintage Story!</description>
+  </item>
+  <item>
+    <title>Witchlight</title>
+    <link>https://mods.vintagestory.at/show/mod/witchlight</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/witchlight#11875</guid>
+    <pubDate>Mon, 21 Sep 2026 09:46:19 -0000</pubDate>
+    <description>Second monitor map packed with features and accessibilty options.</description>
   </item>
   <item>
     <title>Photo Mode</title>
@@ -60,160 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/trekteleporter#11785</guid>
     <pubDate>Mon, 21 Sep 2026 03:59:47 -0000</pubDate>
     <description>Adds turbolifts and teleportation pads to the game for specific megabuilds.</description>
-  </item>
-  <item>
-    <title>Wilderlands Rustbound</title>
-    <link>https://mods.vintagestory.at/show/mod/3004</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3004#3004</guid>
-    <pubDate>Mon, 21 Sep 2026 03:49:01 -0000</pubDate>
-    <description>Overhauls drifter canon, adds a slew of new Rust-related entities and challenges.</description>
-  </item>
-  <item>
-    <title>Compost Bin</title>
-    <link>https://mods.vintagestory.at/show/mod/7503</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7503#7503</guid>
-    <pubDate>Mon, 21 Sep 2026 03:08:50 -0000</pubDate>
-    <description>Compost bin (modded barrel with 8 slots), accepts perishables and dry plant matter.</description>
-  </item>
-  <item>
-    <title>EF Chef's Tricks WCF Mechanical Oil Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/efchefswcfmechfix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/efchefswcfmechfix#11933</guid>
-    <pubDate>Mon, 21 Sep 2026 03:07:47 -0000</pubDate>
-    <description>Fixes handbook crashes caused by broken Chef's Tricks mechanical oil recipes.</description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/11476</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
-    <pubDate>Mon, 21 Sep 2026 02:27:14 -0000</pubDate>
-    <description>For details on content, please contact me directly via Discord.</description>
-  </item>
-  <item>
-    <title>Yang's Transport Tycoon</title>
-    <link>https://mods.vintagestory.at/show/mod/yangtransport</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yangtransport#6871</guid>
-    <pubDate>Mon, 21 Sep 2026 01:43:16 -0000</pubDate>
-    <description>Construct and operate industrial transport machinery.</description>
-  </item>
-  <item>
-    <title>BPFFC Place-on-Slabs Compatibility Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/11931</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11931#11931</guid>
-    <pubDate>Mon, 21 Sep 2026 01:37:12 -0000</pubDate>
-    <description>Makes BPFFC no longer place on slabs.</description>
-  </item>
-  <item>
-    <title>Flow Field Collisions</title>
-    <link>https://mods.vintagestory.at/show/mod/7488</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7488#7488</guid>
-    <pubDate>Mon, 21 Sep 2026 01:35:04 -0000</pubDate>
-    <description>Back-Propagated Flow Field Collisions. Whatever that means.</description>
-  </item>
-  <item>
-    <title>Bacon Bacon Bacon</title>
-    <link>https://mods.vintagestory.at/show/mod/baconbaconbacon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/baconbaconbacon#6895</guid>
-    <pubDate>Mon, 21 Sep 2026 01:24:24 -0000</pubDate>
-    <description>The first and (so far) only entirely and ridiculously bacon-centric mod for Vintage Story</description>
-  </item>
-  <item>
-    <title>Craftsmanship</title>
-    <link>https://mods.vintagestory.at/show/mod/11590</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11590#11590</guid>
-    <pubDate>Mon, 21 Sep 2026 01:19:13 -0000</pubDate>
-    <description>Over 1,000 new items, creatures and weapons added</description>
-  </item>
-  <item>
-    <title>Rift Traveler</title>
-    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
-    <pubDate>Mon, 21 Sep 2026 01:13:09 -0000</pubDate>
-    <description>Explore or close rifts, craft temporal tech, teleport home, and transmit cargo across dimensions</description>
-  </item>
-  <item>
-    <title>YTT Place-on-Slabs Compatibility Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/11930</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11930#11930</guid>
-    <pubDate>Mon, 21 Sep 2026 00:52:05 -0000</pubDate>
-    <description>Makes rails from YTT no longer place on slabs.</description>
-  </item>
-  <item>
-    <title>race addition</title>
-    <link>https://mods.vintagestory.at/show/mod/10150</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10150#10150</guid>
-    <pubDate>Mon, 21 Sep 2026 00:44:32 -0000</pubDate>
-    <description>adds a race to my server</description>
-  </item>
-  <item>
-    <title>Chiselled Pie-Making Surfaces</title>
-    <link>https://mods.vintagestory.at/show/mod/11914</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11914#11914</guid>
-    <pubDate>Mon, 21 Sep 2026 00:26:03 -0000</pubDate>
-    <description>Simple patch that allows you to make pies on any chiselled surface.</description>
-  </item>
-  <item>
-    <title>Cartographer</title>
-    <link>https://mods.vintagestory.at/show/mod/nbcartographer</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nbcartographer#1869</guid>
-    <pubDate>Sun, 20 Sep 2026 23:52:32 -0000</pubDate>
-    <description>Allows to share waypoints between players</description>
-  </item>
-  <item>
-    <title>Blasting Powder from Charcoal</title>
-    <link>https://mods.vintagestory.at/show/mod/11929</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11929#11929</guid>
-    <pubDate>Sun, 20 Sep 2026 23:50:20 -0000</pubDate>
-    <description>Saltpeter + Powdered Sulfur + Powdered Charcoal = BlastingPowder</description>
-  </item>
-  <item>
-    <title>Vinconomy - A Vintage Story Economy Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/vinconomy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vinconomy#1580</guid>
-    <pubDate>Sun, 20 Sep 2026 23:36:45 -0000</pubDate>
-    <description>Adds player shops, trading, and commerce.</description>
-  </item>
-  <item>
-    <title>Commercially</title>
-    <link>https://mods.vintagestory.at/show/mod/commercially</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/commercially#10727</guid>
-    <pubDate>Sun, 20 Sep 2026 23:32:56 -0000</pubDate>
-    <description>An Economic framework for ownable blocks</description>
-  </item>
-  <item>
-    <title>Custom Music Radio</title>
-    <link>https://mods.vintagestory.at/show/mod/customradio</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customradio#11927</guid>
-    <pubDate>Sun, 20 Sep 2026 23:08:27 -0000</pubDate>
-    <description>A physical radio that streams server-owned Ogg Vorbis music to clients</description>
-  </item>
-  <item>
-    <title>Pewter Additions: Copper and NIckel</title>
-    <link>https://mods.vintagestory.at/show/mod/11928</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11928#11928</guid>
-    <pubDate>Sun, 20 Sep 2026 23:07:52 -0000</pubDate>
-    <description>Adds copper, nickel and cupronickel variants for Pewter tableware.</description>
-  </item>
-  <item>
-    <title>Natural Accessories</title>
-    <link>https://mods.vintagestory.at/show/mod/naturalaccessories</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/naturalaccessories#11766</guid>
-    <pubDate>Sun, 20 Sep 2026 23:05:13 -0000</pubDate>
-    <description>Run into the woods and get leaves in your hair</description>
-  </item>
-  <item>
-    <title>Haunford Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/11926</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11926#11926</guid>
-    <pubDate>Sun, 20 Sep 2026 23:00:59 -0000</pubDate>
-    <description>A collection of patches for Haunfords Private Server</description>
-  </item>
-  <item>
-    <title>Source-ify</title>
-    <link>https://mods.vintagestory.at/show/mod/sourceify</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sourceify#4766</guid>
-    <pubDate>Sun, 20 Sep 2026 23:00:18 -0000</pubDate>
-    <description>Replaces various ingame sfx with ones commonly used/found in source engine games</description>
   </item>
 </channel>
 </rss>
