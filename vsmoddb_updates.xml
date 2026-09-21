@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 21 Sep 2026 20:51:39 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 23:54:28 +0000</lastBuildDate>
+  <item>
+    <title>kris-copper-additions</title>
+    <link>https://mods.vintagestory.at/show/mod/kriscopperadditions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kriscopperadditions#11951</guid>
+    <pubDate>Mon, 21 Sep 2026 23:41:16 -0000</pubDate>
+    <description>Module adds 6 different types of Copper</description>
+  </item>
+  <item>
+    <title>Glow Fletching Expanded - Combatoverhaul Version</title>
+    <link>https://mods.vintagestory.at/show/mod/glofeco</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glofeco#11949</guid>
+    <pubDate>Mon, 21 Sep 2026 23:32:47 -0000</pubDate>
+    <description>CombatOverhaul forked compatible version of Glow Fletching Expanded. Adds nine glowing arrow colors</description>
+  </item>
+  <item>
+    <title>Aegis - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/aegisclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aegisclient#10240</guid>
+    <pubDate>Mon, 21 Sep 2026 23:29:01 -0000</pubDate>
+    <description>Early client support for an upcoming Vintage Story multiplayer games network.</description>
+  </item>
+  <item>
+    <title>Crown &amp; Coalition Chapter 2</title>
+    <link>https://mods.vintagestory.at/show/mod/11428</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
+    <pubDate>Mon, 21 Sep 2026 23:09:54 -0000</pubDate>
+    <description>Chapter 2 additions for C&amp;C.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Chests</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalschests</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalschests#8152</guid>
+    <pubDate>Mon, 21 Sep 2026 23:01:27 -0000</pubDate>
+    <description>These chests were created for the [UA] Eternal Seraph server</description>
+  </item>
+  <item>
+    <title>Haunford Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/11926</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11926#11926</guid>
+    <pubDate>Mon, 21 Sep 2026 22:38:20 -0000</pubDate>
+    <description>A collection of patches for Haunfords Private Server</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Mon, 21 Sep 2026 22:17:52 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Casablanca Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/11911</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11911#11911</guid>
+    <pubDate>Mon, 21 Sep 2026 22:12:04 -0000</pubDate>
+    <description>For the Casablanca server setup.</description>
+  </item>
+  <item>
+    <title>Moonlit magic</title>
+    <link>https://mods.vintagestory.at/show/mod/moonlitmagic</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmagic#11891</guid>
+    <pubDate>Mon, 21 Sep 2026 21:49:28 -0000</pubDate>
+    <description>Biome based magic system</description>
+  </item>
+  <item>
+    <title>immersivewoodworking_traduccion español_latinoamericano</title>
+    <link>https://mods.vintagestory.at/show/mod/mmersivewoodworkingtraduccionespaol</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mmersivewoodworkingtraduccionespaol#11948</guid>
+    <pubDate>Mon, 21 Sep 2026 21:48:06 -0000</pubDate>
+    <description>traduccion para immersivewoodworking al español latinoamericano..  </description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Dovidarium</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalsdovidarium</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalsdovidarium#11441</guid>
+    <pubDate>Mon, 21 Sep 2026 21:21:40 -0000</pubDate>
+    <description>Handbook enhancements, faster Creative Inventory, and optimized crafting for large modpacks.</description>
+  </item>
   <item>
     <title>Aged</title>
     <link>https://mods.vintagestory.at/show/mod/aged</link>
@@ -104,20 +181,6 @@
     <description>this mod saves the headache of doing large leather production math in your head </description>
   </item>
   <item>
-    <title>Aegis - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/aegisclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aegisclient#10240</guid>
-    <pubDate>Mon, 21 Sep 2026 18:25:19 -0000</pubDate>
-    <description>Early client support for an upcoming Vintage Story multiplayer games network.</description>
-  </item>
-  <item>
-    <title>Casablanca Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/11911</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11911#11911</guid>
-    <pubDate>Mon, 21 Sep 2026 18:18:49 -0000</pubDate>
-    <description>For the Casablanca server setup.</description>
-  </item>
-  <item>
     <title>Animalica - Abilities</title>
     <link>https://mods.vintagestory.at/show/mod/animalicaa</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaa#10949</guid>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11938#11938</guid>
     <pubDate>Mon, 21 Sep 2026 15:34:13 -0000</pubDate>
     <description>A collection of patches and expansions for Expanded Foods, Wildcraft: Fruits and Nuts and more!</description>
-  </item>
-  <item>
-    <title>Return of the Atlatl 1.22 Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/returnoftheatlatlfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/returnoftheatlatlfork#11861</guid>
-    <pubDate>Mon, 21 Sep 2026 15:23:15 -0000</pubDate>
-    <description>Fork of Return of the Atlatl</description>
-  </item>
-  <item>
-    <title>Moonlit magic</title>
-    <link>https://mods.vintagestory.at/show/mod/moonlitmagic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmagic#11891</guid>
-    <pubDate>Mon, 21 Sep 2026 13:44:13 -0000</pubDate>
-    <description>Biome based magic system</description>
-  </item>
-  <item>
-    <title>Lunchbox</title>
-    <link>https://mods.vintagestory.at/show/mod/lunchbox</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lunchbox#6518</guid>
-    <pubDate>Mon, 21 Sep 2026 13:16:35 -0000</pubDate>
-    <description>Adds storage containers which automatically feeds the player when hungry</description>
-  </item>
-  <item>
-    <title>Blood Trail</title>
-    <link>https://mods.vintagestory.at/show/mod/bloodtrail</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bloodtrail#5069</guid>
-    <pubDate>Mon, 21 Sep 2026 13:01:25 -0000</pubDate>
-    <description>Animals leave blood trails when wounded by a player.</description>
-  </item>
-  <item>
-    <title>Footprints</title>
-    <link>https://mods.vintagestory.at/show/mod/footprints</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/footprints#5625</guid>
-    <pubDate>Mon, 21 Sep 2026 12:59:46 -0000</pubDate>
-    <description>Animals and Players leave footprints when moving.</description>
-  </item>
-  <item>
-    <title>Null Cartography</title>
-    <link>https://mods.vintagestory.at/show/mod/nullcartography</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullcartography#11877</guid>
-    <pubDate>Mon, 21 Sep 2026 12:10:42 -0000</pubDate>
-    <description>Survey the land by hand and draw your own charts. Pixels and bearings, never coordinates.</description>
-  </item>
-  <item>
-    <title>StormvaldServerMod</title>
-    <link>https://mods.vintagestory.at/show/mod/11142</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11142#11142</guid>
-    <pubDate>Mon, 21 Sep 2026 11:36:32 -0000</pubDate>
-    <description>Servermod</description>
-  </item>
-  <item>
-    <title>TraderTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10569</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
-    <pubDate>Mon, 21 Sep 2026 11:25:18 -0000</pubDate>
-    <description>Allow to manage traders</description>
-  </item>
-  <item>
-    <title>Swap Offhand Hotkey</title>
-    <link>https://mods.vintagestory.at/show/mod/swapoffhandhotkey</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swapoffhandhotkey#5089</guid>
-    <pubDate>Mon, 21 Sep 2026 11:20:17 -0000</pubDate>
-    <description>Hover over an inventory slot and press a key to swap with your offhand slot</description>
   </item>
 </channel>
 </rss>
