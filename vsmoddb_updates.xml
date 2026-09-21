@@ -4,7 +4,63 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 21 Sep 2026 04:31:22 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 10:28:08 +0000</lastBuildDate>
+  <item>
+    <title>BotaniaStory</title>
+    <link>https://mods.vintagestory.at/show/mod/8113</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8113#8113</guid>
+    <pubDate>Mon, 21 Sep 2026 10:19:14 -0000</pubDate>
+    <description>BotaniaStory - nature magic, mana, and automation in Vintage Story!</description>
+  </item>
+  <item>
+    <title>Photo Mode</title>
+    <link>https://mods.vintagestory.at/show/mod/photomode</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/photomode#10465</guid>
+    <pubDate>Mon, 21 Sep 2026 09:13:57 -0000</pubDate>
+    <description>Press the HotKey to enable Photo mode and take your best screenshots!</description>
+  </item>
+  <item>
+    <title>Spatial Audio Linux and macOS natives</title>
+    <link>https://mods.vintagestory.at/show/mod/spatialaudiounix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spatialaudiounix#11910</guid>
+    <pubDate>Mon, 21 Sep 2026 08:40:19 -0000</pubDate>
+    <description>The Linux and macOS libraries for Spatial Audio.</description>
+  </item>
+  <item>
+    <title>Spatial Audio (Alpha)</title>
+    <link>https://mods.vintagestory.at/show/mod/spatialaudio</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spatialaudio#11906</guid>
+    <pubDate>Mon, 21 Sep 2026 08:40:06 -0000</pubDate>
+    <description>Full Ambisonic Audio for Vintage Story. Windows Spatial Audio support.</description>
+  </item>
+  <item>
+    <title>Tuna's Cute and Cozy Clothes</title>
+    <link>https://mods.vintagestory.at/show/mod/11596</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11596#11596</guid>
+    <pubDate>Mon, 21 Sep 2026 08:21:48 -0000</pubDate>
+    <description>Bunch of clothes i like</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Mon, 21 Sep 2026 07:45:55 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>DST - NPC additions</title>
+    <link>https://mods.vintagestory.at/show/mod/dstnpcadditions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dstnpcadditions#11739</guid>
+    <pubDate>Mon, 21 Sep 2026 05:32:41 -0000</pubDate>
+    <description>Additional NPC mobs using the vanilla villager model. </description>
+  </item>
+  <item>
+    <title>Star Trek Turbolift and Teleport pad</title>
+    <link>https://mods.vintagestory.at/show/mod/trekteleporter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/trekteleporter#11785</guid>
+    <pubDate>Mon, 21 Sep 2026 03:59:47 -0000</pubDate>
+    <description>Adds turbolifts and teleportation pads to the game for specific megabuilds.</description>
+  </item>
   <item>
     <title>Wilderlands Rustbound</title>
     <link>https://mods.vintagestory.at/show/mod/3004</link>
@@ -32,13 +88,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
     <pubDate>Mon, 21 Sep 2026 02:27:14 -0000</pubDate>
     <description>For details on content, please contact me directly via Discord.</description>
-  </item>
-  <item>
-    <title>Spatial Audio (Alpha)</title>
-    <link>https://mods.vintagestory.at/show/mod/spatialaudio</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spatialaudio#11906</guid>
-    <pubDate>Mon, 21 Sep 2026 02:18:18 -0000</pubDate>
-    <description>Full Ambisonic Audio for Vintage Story. Windows Spatial Audio support.</description>
   </item>
   <item>
     <title>Yang's Transport Tycoon</title>
@@ -95,13 +144,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10150#10150</guid>
     <pubDate>Mon, 21 Sep 2026 00:44:32 -0000</pubDate>
     <description>adds a race to my server</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Mon, 21 Sep 2026 00:43:52 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
   <item>
     <title>Chiselled Pie-Making Surfaces</title>
@@ -172,48 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sourceify#4766</guid>
     <pubDate>Sun, 20 Sep 2026 23:00:18 -0000</pubDate>
     <description>Replaces various ingame sfx with ones commonly used/found in source engine games</description>
-  </item>
-  <item>
-    <title>Crucibulum</title>
-    <link>https://mods.vintagestory.at/show/mod/crucibulum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crucibulum#11374</guid>
-    <pubDate>Sun, 20 Sep 2026 22:51:28 -0000</pubDate>
-    <description>Set a crucible in the forge and melt metal where you smith it</description>
-  </item>
-  <item>
-    <title>Healing Malk</title>
-    <link>https://mods.vintagestory.at/show/mod/healingmalk</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/healingmalk#10341</guid>
-    <pubDate>Sun, 20 Sep 2026 22:01:14 -0000</pubDate>
-    <description>milk know heals you for 1 hp ૮꒰ ˶• ༝ •˶꒱ა</description>
-  </item>
-  <item>
-    <title>Moonlit magic</title>
-    <link>https://mods.vintagestory.at/show/mod/moonlitmagic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmagic#11891</guid>
-    <pubDate>Sun, 20 Sep 2026 21:49:16 -0000</pubDate>
-    <description>Biome based magic system</description>
-  </item>
-  <item>
-    <title>Hydrate or Diedrate</title>
-    <link>https://mods.vintagestory.at/show/mod/hydrateordiedrate</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hydrateordiedrate#2282</guid>
-    <pubDate>Sun, 20 Sep 2026 21:48:44 -0000</pubDate>
-    <description>A mod that adds thirst and hydration mechanics as well as hot weather survival.</description>
-  </item>
-  <item>
-    <title>Cooking Freedom!</title>
-    <link>https://mods.vintagestory.at/show/mod/11884</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11884#11884</guid>
-    <pubDate>Sun, 20 Sep 2026 21:45:47 -0000</pubDate>
-    <description>Vanilla+ expansion to cooking recipe combinations!</description>
-  </item>
-  <item>
-    <title>Newfies Server Essentials Suite</title>
-    <link>https://mods.vintagestory.at/show/mod/11556</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
-    <pubDate>Sun, 20 Sep 2026 21:42:49 -0000</pubDate>
-    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
   </item>
 </channel>
 </rss>
