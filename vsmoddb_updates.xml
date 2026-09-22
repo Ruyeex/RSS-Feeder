@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 22 Sep 2026 03:56:43 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 22 Sep 2026 09:12:55 +0000</lastBuildDate>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Tue, 22 Sep 2026 08:52:01 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>BotaniaStory</title>
+    <link>https://mods.vintagestory.at/show/mod/8113</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8113#8113</guid>
+    <pubDate>Tue, 22 Sep 2026 08:30:20 -0000</pubDate>
+    <description>BotaniaStory - nature magic, mana, and automation in Vintage Story!</description>
+  </item>
+  <item>
+    <title>No Grass Shadow</title>
+    <link>https://mods.vintagestory.at/show/mod/nograssshadow</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nograssshadow#11956</guid>
+    <pubDate>Tue, 22 Sep 2026 08:18:27 -0000</pubDate>
+    <description>Disables grass shadows.</description>
+  </item>
+  <item>
+    <title>Casablanca Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/11911</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11911#11911</guid>
+    <pubDate>Tue, 22 Sep 2026 08:05:30 -0000</pubDate>
+    <description>For the Casablanca server setup.</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Tue, 22 Sep 2026 07:05:16 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
+  <item>
+    <title>Genealogy</title>
+    <link>https://mods.vintagestory.at/show/mod/11774</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11774#11774</guid>
+    <pubDate>Tue, 22 Sep 2026 06:52:43 -0000</pubDate>
+    <description>Livestock with real inherited traits!</description>
+  </item>
+  <item>
+    <title>Elevator Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/11939</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11939#11939</guid>
+    <pubDate>Tue, 22 Sep 2026 05:27:07 -0000</pubDate>
+    <description>Quick and dirty implementation for creating your own elevators.</description>
+  </item>
+  <item>
+    <title>Custom Server Commands</title>
+    <link>https://mods.vintagestory.at/show/mod/11955</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11955#11955</guid>
+    <pubDate>Tue, 22 Sep 2026 05:23:03 -0000</pubDate>
+    <description>Some cool custom secret admin commands for my server :o</description>
+  </item>
+  <item>
+    <title>Shepherd's Herding</title>
+    <link>https://mods.vintagestory.at/show/mod/11321</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11321#11321</guid>
+    <pubDate>Tue, 22 Sep 2026 04:58:07 -0000</pubDate>
+    <description>An Addon for Adventurers Walking stick that allows the player to dynamically herd their Livestock</description>
+  </item>
+  <item>
+    <title>FrameForgeTSR</title>
+    <link>https://mods.vintagestory.at/show/mod/frameforgetsr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frameforgetsr#10733</guid>
+    <pubDate>Tue, 22 Sep 2026 04:37:24 -0000</pubDate>
+    <description>Runtime and Visual System to give back frames while looking amazing. NEW FEATURE the Auto Atlas!!</description>
+  </item>
+  <item>
+    <title>TURBOJOIN</title>
+    <link>https://mods.vintagestory.at/show/mod/11337</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11337#11337</guid>
+    <pubDate>Tue, 22 Sep 2026 04:32:30 -0000</pubDate>
+    <description>(hopefully) speeds up server load time</description>
+  </item>
   <item>
     <title>Wilderlands Waymarkers</title>
     <link>https://mods.vintagestory.at/show/mod/3338</link>
@@ -118,13 +195,6 @@
     <description>Adds Floating text to your game.</description>
   </item>
   <item>
-    <title>TURBOJOIN</title>
-    <link>https://mods.vintagestory.at/show/mod/11337</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11337#11337</guid>
-    <pubDate>Mon, 21 Sep 2026 23:54:53 -0000</pubDate>
-    <description>(hopefully) speeds up server load time</description>
-  </item>
-  <item>
     <title>kris-copper-additions</title>
     <link>https://mods.vintagestory.at/show/mod/kriscopperadditions</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kriscopperadditions#11951</guid>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
     <pubDate>Mon, 21 Sep 2026 23:09:54 -0000</pubDate>
     <description>Chapter 2 additions for C&amp;C.</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Chests</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalschests</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalschests#8152</guid>
-    <pubDate>Mon, 21 Sep 2026 23:01:27 -0000</pubDate>
-    <description>These chests were created for the [UA] Eternal Seraph server</description>
-  </item>
-  <item>
-    <title>Haunford Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/11926</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11926#11926</guid>
-    <pubDate>Mon, 21 Sep 2026 22:38:20 -0000</pubDate>
-    <description>A collection of patches for Haunfords Private Server</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Mon, 21 Sep 2026 22:17:52 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Casablanca Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/11911</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11911#11911</guid>
-    <pubDate>Mon, 21 Sep 2026 22:12:04 -0000</pubDate>
-    <description>For the Casablanca server setup.</description>
-  </item>
-  <item>
-    <title>Moonlit magic</title>
-    <link>https://mods.vintagestory.at/show/mod/moonlitmagic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmagic#11891</guid>
-    <pubDate>Mon, 21 Sep 2026 21:49:28 -0000</pubDate>
-    <description>Biome based magic system</description>
-  </item>
-  <item>
-    <title>immersivewoodworking_traduccion español_latinoamericano</title>
-    <link>https://mods.vintagestory.at/show/mod/mmersivewoodworkingtraduccionespaol</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mmersivewoodworkingtraduccionespaol#11948</guid>
-    <pubDate>Mon, 21 Sep 2026 21:48:06 -0000</pubDate>
-    <description>traduccion para immersivewoodworking al español latinoamericano..  </description>
-  </item>
-  <item>
-    <title>Aged</title>
-    <link>https://mods.vintagestory.at/show/mod/aged</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aged#2460</guid>
-    <pubDate>Mon, 21 Sep 2026 20:50:30 -0000</pubDate>
-    <description>Simple mod that add making aged wooden, corroded, ashlar  stuff and much more</description>
-  </item>
-  <item>
-    <title>LogicalNerfsDirection</title>
-    <link>https://mods.vintagestory.at/show/mod/9983</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9983#9983</guid>
-    <pubDate>Mon, 21 Sep 2026 20:37:01 -0000</pubDate>
-    <description>Removes direction tells from roller, knapping surfaces, clay forms, and disables the debug overlay.</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
-    <pubDate>Mon, 21 Sep 2026 20:22:40 -0000</pubDate>
-    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
-  </item>
-  <item>
-    <title>Rain Curtains &amp; Rainbows</title>
-    <link>https://mods.vintagestory.at/show/mod/11941</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11941#11941</guid>
-    <pubDate>Mon, 21 Sep 2026 20:22:38 -0000</pubDate>
-    <description>Adds distant rain curtains under precipitating storms and physics-driven rainbows</description>
   </item>
 </channel>
 </rss>
