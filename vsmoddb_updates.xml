@@ -4,7 +4,154 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 22 Sep 2026 14:27:35 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 22 Sep 2026 18:35:35 +0000</lastBuildDate>
+  <item>
+    <title>Simple Voice Chat: Web Microphone</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechatwebmic</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechatwebmic#11959</guid>
+    <pubDate>Tue, 22 Sep 2026 18:28:10 -0000</pubDate>
+    <description>Standalone web microphone endpoint for Simple Voice Chat servers</description>
+  </item>
+  <item>
+    <title>Signals Link</title>
+    <link>https://mods.vintagestory.at/show/mod/signalslink</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/signalslink#5907</guid>
+    <pubDate>Tue, 22 Sep 2026 18:27:59 -0000</pubDate>
+    <description>Automate your world: chutes, hoses, docks and anchors controlled by signals and paper</description>
+  </item>
+  <item>
+    <title>CollapseStory</title>
+    <link>https://mods.vintagestory.at/show/mod/7776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
+    <pubDate>Tue, 22 Sep 2026 18:21:38 -0000</pubDate>
+    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Dovidarium</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalsdovidarium</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalsdovidarium#11441</guid>
+    <pubDate>Tue, 22 Sep 2026 18:18:24 -0000</pubDate>
+    <description>Handbook enhancements, faster Creative Inventory, and optimized crafting for large modpacks.</description>
+  </item>
+  <item>
+    <title>Grim Accessories</title>
+    <link>https://mods.vintagestory.at/show/mod/svxga</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/svxga#11961</guid>
+    <pubDate>Tue, 22 Sep 2026 18:13:45 -0000</pubDate>
+    <description>A collection of accessories for VS that aims to give players an alternative to all the whimsy</description>
+  </item>
+  <item>
+    <title>Ballista Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/ballistapatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ballistapatch#11682</guid>
+    <pubDate>Tue, 22 Sep 2026 18:02:55 -0000</pubDate>
+    <description>Reworked Ballistas with mountable logic. Now on boats!</description>
+  </item>
+  <item>
+    <title>TurretLib</title>
+    <link>https://mods.vintagestory.at/show/mod/turretlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/turretlib#11059</guid>
+    <pubDate>Tue, 22 Sep 2026 17:59:16 -0000</pubDate>
+    <description>Library for mountable rotating turrets-like devices</description>
+  </item>
+  <item>
+    <title>Casablanca Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/11911</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11911#11911</guid>
+    <pubDate>Tue, 22 Sep 2026 17:57:40 -0000</pubDate>
+    <description>For the Casablanca server setup.</description>
+  </item>
+  <item>
+    <title>Signals Link YTT</title>
+    <link>https://mods.vintagestory.at/show/mod/signalslinkytt</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/signalslinkytt#11916</guid>
+    <pubDate>Tue, 22 Sep 2026 17:52:26 -0000</pubDate>
+    <description>Bridge mod: Signals Link docks load and unload Yang's Transport Tycoon trains automatically.</description>
+  </item>
+  <item>
+    <title>Signals Link EP</title>
+    <link>https://mods.vintagestory.at/show/mod/signalslinkep</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/signalslinkep#5908</guid>
+    <pubDate>Tue, 22 Sep 2026 17:50:51 -0000</pubDate>
+    <description>Extends Signals mod with control elements for interacting with the Electrical Progressive mod.</description>
+  </item>
+  <item>
+    <title>Hazmat Suit</title>
+    <link>https://mods.vintagestory.at/show/mod/hazmatsuit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hazmatsuit#7157</guid>
+    <pubDate>Tue, 22 Sep 2026 17:42:51 -0000</pubDate>
+    <description>Adds a hazmat protective suit with a charging rack and many more features</description>
+  </item>
+  <item>
+    <title>Vanilla: Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/vanillaexpanded</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillaexpanded#6221</guid>
+    <pubDate>Tue, 22 Sep 2026 17:37:23 -0000</pubDate>
+    <description>Aims to add quality-of-life enhancements, missing functionality, and minor bug fixes</description>
+  </item>
+  <item>
+    <title>FrameForgeTSR</title>
+    <link>https://mods.vintagestory.at/show/mod/frameforgetsr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frameforgetsr#10733</guid>
+    <pubDate>Tue, 22 Sep 2026 17:24:23 -0000</pubDate>
+    <description>Runtime and Visual System to give back frames while looking amazing. NEW FEATURE the Auto Atlas!!</description>
+  </item>
+  <item>
+    <title>Craftsmanship</title>
+    <link>https://mods.vintagestory.at/show/mod/11590</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11590#11590</guid>
+    <pubDate>Tue, 22 Sep 2026 17:06:25 -0000</pubDate>
+    <description>Over 1,000 new items, creatures and weapons added</description>
+  </item>
+  <item>
+    <title>Taxidermy</title>
+    <link>https://mods.vintagestory.at/show/mod/taxidermy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taxidermy#11946</guid>
+    <pubDate>Tue, 22 Sep 2026 16:52:11 -0000</pubDate>
+    <description>Mount the animals you hunt - the whole animal in a pose of your choosing, or the head on the wall.</description>
+  </item>
+  <item>
+    <title>Waxlight Launcher</title>
+    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
+    <pubDate>Tue, 22 Sep 2026 16:25:23 -0000</pubDate>
+    <description>Manage Vintage Story instances, mods, versions and accounts from one modern launcher</description>
+  </item>
+  <item>
+    <title>Tin Nails And Strips</title>
+    <link>https://mods.vintagestory.at/show/mod/11514</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11514#11514</guid>
+    <pubDate>Tue, 22 Sep 2026 16:18:28 -0000</pubDate>
+    <description>Adds Tin Nails And Strips</description>
+  </item>
+  <item>
+    <title>Return of the Atlatl 1.22 Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/returnoftheatlatlfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/returnoftheatlatlfork#11861</guid>
+    <pubDate>Tue, 22 Sep 2026 16:17:38 -0000</pubDate>
+    <description>Fork of Return of the Atlatl</description>
+  </item>
+  <item>
+    <title>Rift Traveler</title>
+    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
+    <pubDate>Tue, 22 Sep 2026 15:56:07 -0000</pubDate>
+    <description>Explore or close rifts, craft temporal tech, teleport home, and transmit cargo across dimensions</description>
+  </item>
+  <item>
+    <title>CZ4-Tech server patches</title>
+    <link>https://mods.vintagestory.at/show/mod/cz4tech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cz4tech#8141</guid>
+    <pubDate>Tue, 22 Sep 2026 15:43:45 -0000</pubDate>
+    <description>Patches and translations for server Tábor -CZ4 server</description>
+  </item>
+  <item>
+    <title>DRT AgX Kraken - Shader</title>
+    <link>https://mods.vintagestory.at/show/mod/drtagx</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drtagx#2913</guid>
+    <pubDate>Tue, 22 Sep 2026 15:02:02 -0000</pubDate>
+    <description>AgX Kraken ish display transform.</description>
+  </item>
   <item>
     <title>Room Climates [Beta]</title>
     <link>https://mods.vintagestory.at/show/mod/roomclimates</link>
@@ -67,153 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsinstrumentsredux#10555</guid>
     <pubDate>Tue, 22 Sep 2026 12:39:57 -0000</pubDate>
     <description>Bring your world to life! Play custom ABC/MIDI sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux - Expansion B</title>
-    <link>https://mods.vintagestory.at/show/mod/vsinstrumentsreduxexpansionb</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsinstrumentsreduxexpansionb#11573</guid>
-    <pubDate>Tue, 22 Sep 2026 12:39:02 -0000</pubDate>
-    <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
-  </item>
-  <item>
-    <title>kris-copper-additions</title>
-    <link>https://mods.vintagestory.at/show/mod/kriscopperadditions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kriscopperadditions#11951</guid>
-    <pubDate>Tue, 22 Sep 2026 12:23:23 -0000</pubDate>
-    <description>Module adds 6 different types of Copper</description>
-  </item>
-  <item>
-    <title>Directional Smithing</title>
-    <link>https://mods.vintagestory.at/show/mod/11943</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11943#11943</guid>
-    <pubDate>Tue, 22 Sep 2026 12:12:14 -0000</pubDate>
-    <description>Adds hammer mode that automatically sets direction of the voxel move depending on the voxel part hit</description>
-  </item>
-  <item>
-    <title>Moonlit magic</title>
-    <link>https://mods.vintagestory.at/show/mod/moonlitmagic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmagic#11891</guid>
-    <pubDate>Tue, 22 Sep 2026 11:18:43 -0000</pubDate>
-    <description>Biome based magic system</description>
-  </item>
-  <item>
-    <title>Return of the Atlatl 1.22 Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/returnoftheatlatlfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/returnoftheatlatlfork#11861</guid>
-    <pubDate>Tue, 22 Sep 2026 10:22:33 -0000</pubDate>
-    <description>Fork of Return of the Atlatl</description>
-  </item>
-  <item>
-    <title>Teapot's Giant Boar</title>
-    <link>https://mods.vintagestory.at/show/mod/teapotsgiantboar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantboar#11742</guid>
-    <pubDate>Tue, 22 Sep 2026 09:57:53 -0000</pubDate>
-    <description>Chunky boys that can be your companions and mounts. In wild, they might trigger your bear traumas.</description>
-  </item>
-  <item>
-    <title>VS Terrain Diffusion</title>
-    <link>https://mods.vintagestory.at/show/mod/vsterraindiffusion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsterraindiffusion#10918</guid>
-    <pubDate>Tue, 22 Sep 2026 09:56:22 -0000</pubDate>
-    <description>Generate terrain and climates with a model trained on real Earth topography</description>
-  </item>
-  <item>
-    <title>Dynamic Seasonal Temperature</title>
-    <link>https://mods.vintagestory.at/show/mod/11883</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11883#11883</guid>
-    <pubDate>Tue, 22 Sep 2026 09:42:21 -0000</pubDate>
-    <description>Adds long-term climate variability - some years mild, some brutally cold or scorching hot.</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Tue, 22 Sep 2026 08:52:01 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>BotaniaStory</title>
-    <link>https://mods.vintagestory.at/show/mod/8113</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8113#8113</guid>
-    <pubDate>Tue, 22 Sep 2026 08:30:20 -0000</pubDate>
-    <description>BotaniaStory - nature magic, mana, and automation in Vintage Story!</description>
-  </item>
-  <item>
-    <title>No Grass Shadow</title>
-    <link>https://mods.vintagestory.at/show/mod/nograssshadow</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nograssshadow#11956</guid>
-    <pubDate>Tue, 22 Sep 2026 08:18:27 -0000</pubDate>
-    <description>Disables grass shadows.</description>
-  </item>
-  <item>
-    <title>Casablanca Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/11911</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11911#11911</guid>
-    <pubDate>Tue, 22 Sep 2026 08:05:30 -0000</pubDate>
-    <description>For the Casablanca server setup.</description>
-  </item>
-  <item>
-    <title>topgsmod</title>
-    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Tue, 22 Sep 2026 07:05:16 -0000</pubDate>
-    <description>TopGs Community Mod</description>
-  </item>
-  <item>
-    <title>Genealogy</title>
-    <link>https://mods.vintagestory.at/show/mod/11774</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11774#11774</guid>
-    <pubDate>Tue, 22 Sep 2026 06:52:43 -0000</pubDate>
-    <description>Livestock with real inherited traits!</description>
-  </item>
-  <item>
-    <title>Elevator Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/11939</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11939#11939</guid>
-    <pubDate>Tue, 22 Sep 2026 05:27:07 -0000</pubDate>
-    <description>Quick and dirty implementation for creating your own elevators.</description>
-  </item>
-  <item>
-    <title>Custom Server Commands</title>
-    <link>https://mods.vintagestory.at/show/mod/11955</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11955#11955</guid>
-    <pubDate>Tue, 22 Sep 2026 05:23:03 -0000</pubDate>
-    <description>Some cool custom secret admin commands for my server :o</description>
-  </item>
-  <item>
-    <title>Shepherd's Herding</title>
-    <link>https://mods.vintagestory.at/show/mod/11321</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11321#11321</guid>
-    <pubDate>Tue, 22 Sep 2026 04:58:07 -0000</pubDate>
-    <description>An Addon for Adventurers Walking stick that allows the player to dynamically herd their Livestock</description>
-  </item>
-  <item>
-    <title>FrameForgeTSR</title>
-    <link>https://mods.vintagestory.at/show/mod/frameforgetsr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frameforgetsr#10733</guid>
-    <pubDate>Tue, 22 Sep 2026 04:37:24 -0000</pubDate>
-    <description>Runtime and Visual System to give back frames while looking amazing. NEW FEATURE the Auto Atlas!!</description>
-  </item>
-  <item>
-    <title>TURBOJOIN</title>
-    <link>https://mods.vintagestory.at/show/mod/11337</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11337#11337</guid>
-    <pubDate>Tue, 22 Sep 2026 04:32:30 -0000</pubDate>
-    <description>(hopefully) speeds up server load time</description>
-  </item>
-  <item>
-    <title>Wilderlands Waymarkers</title>
-    <link>https://mods.vintagestory.at/show/mod/3338</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3338#3338</guid>
-    <pubDate>Tue, 22 Sep 2026 03:42:32 -0000</pubDate>
-    <description>Adds buoys and cairns with assorted functionalities for marking routes over land and sea.</description>
-  </item>
-  <item>
-    <title>Blood Fennel Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/11296</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11296#11296</guid>
-    <pubDate>Tue, 22 Sep 2026 03:34:27 -0000</pubDate>
-    <description>Bridges my two mods, "More Blood Thingies," and "Fennel Swag."</description>
   </item>
 </channel>
 </rss>
