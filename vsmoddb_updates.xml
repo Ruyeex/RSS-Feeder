@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 23 Sep 2026 20:00:10 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 22:54:11 +0000</lastBuildDate>
+  <item>
+    <title>Prosequor Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/11726</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11726#11726</guid>
+    <pubDate>Wed, 23 Sep 2026 22:36:21 -0000</pubDate>
+    <description>Adds compatibility between popular Vintage Story mods and Prosequor.</description>
+  </item>
+  <item>
+    <title>Prosequor - Skills, Levels, Trees and Stats</title>
+    <link>https://mods.vintagestory.at/show/mod/11674</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11674#11674</guid>
+    <pubDate>Wed, 23 Sep 2026 22:35:43 -0000</pubDate>
+    <description>Adds a full-throated, first-class skill, levelling and attributes system to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Schadenfreude</title>
+    <link>https://mods.vintagestory.at/show/mod/schadenfreude</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/schadenfreude#11987</guid>
+    <pubDate>Wed, 23 Sep 2026 22:23:03 -0000</pubDate>
+    <description>If dumb (hilarious) ingame events were a mod, it would be this one</description>
+  </item>
+  <item>
+    <title>Immersive Backpacks Compat &amp; Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivebackpackscompattweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebackpackscompattweaks#10746</guid>
+    <pubDate>Wed, 23 Sep 2026 20:48:38 -0000</pubDate>
+    <description>A mod that adds compat for other mods to Immersive Backpacks and makes some tweaks!</description>
+  </item>
+  <item>
+    <title>Atlas</title>
+    <link>https://mods.vintagestory.at/show/mod/atlas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
+    <pubDate>Wed, 23 Sep 2026 20:45:17 -0000</pubDate>
+    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Wed, 23 Sep 2026 20:39:46 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#10281</guid>
+    <pubDate>Wed, 23 Sep 2026 20:30:43 -0000</pubDate>
+    <description>VS Director workspace with camera paths, replay, action workflows, and live offscreen recording.</description>
+  </item>
+  <item>
+    <title>Marcy9's Kobold Traits</title>
+    <link>https://mods.vintagestory.at/show/mod/marcy9skobolds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/marcy9skobolds#11334</guid>
+    <pubDate>Wed, 23 Sep 2026 20:12:13 -0000</pubDate>
+    <description>a set of traits that forces kobold players to be silly little guys.</description>
+  </item>
+  <item>
+    <title>Marcy9'sNymphTraits</title>
+    <link>https://mods.vintagestory.at/show/mod/marcy9snymphtraits</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/marcy9snymphtraits#11370</guid>
+    <pubDate>Wed, 23 Sep 2026 20:10:28 -0000</pubDate>
+    <description>Silly Nymph Traits for my server </description>
+  </item>
   <item>
     <title>Gondola Cable Car</title>
     <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/machairodontinae#1900</guid>
     <pubDate>Wed, 23 Sep 2026 19:15:44 -0000</pubDate>
     <description>A collection of saber cats from human history.</description>
-  </item>
-  <item>
-    <title>Realistic Monster Loot</title>
-    <link>https://mods.vintagestory.at/show/mod/7630</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7630#7630</guid>
-    <pubDate>Wed, 23 Sep 2026 19:15:18 -0000</pubDate>
-    <description>Adds new realistic item drops to Drifters, Shivers, Bowtorns, and Locusts</description>
-  </item>
-  <item>
-    <title>Cheaper Metal Blocks</title>
-    <link>https://mods.vintagestory.at/show/mod/7610</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7610#7610</guid>
-    <pubDate>Wed, 23 Sep 2026 19:15:01 -0000</pubDate>
-    <description>Riveted metal blocks cost less metal plates</description>
-  </item>
-  <item>
-    <title>Realistic Panning Loot</title>
-    <link>https://mods.vintagestory.at/show/mod/7581</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7581#7581</guid>
-    <pubDate>Wed, 23 Sep 2026 19:14:46 -0000</pubDate>
-    <description>Adds new realistic loot from panning</description>
-  </item>
-  <item>
-    <title>Rust Iron into Scrap</title>
-    <link>https://mods.vintagestory.at/show/mod/7548</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7548#7548</guid>
-    <pubDate>Wed, 23 Sep 2026 19:14:32 -0000</pubDate>
-    <description>Iron items sealed in barrels rust and produce metal scrap</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Capreolinae</title>
-    <link>https://mods.vintagestory.at/show/mod/capreolinae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/capreolinae#1254</guid>
-    <pubDate>Wed, 23 Sep 2026 19:14:28 -0000</pubDate>
-    <description>A collection of New World deer from the Holocene.</description>
-  </item>
-  <item>
-    <title>Coils of Rope from Flax</title>
-    <link>https://mods.vintagestory.at/show/mod/coilsofropefromflax</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/coilsofropefromflax#7251</guid>
-    <pubDate>Wed, 23 Sep 2026 19:14:20 -0000</pubDate>
-    <description>Coils of rope can be made from flax twine and are cheaper</description>
-  </item>
-  <item>
-    <title>Bronze Meteoric Mining</title>
-    <link>https://mods.vintagestory.at/show/mod/7580</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7580#7580</guid>
-    <pubDate>Wed, 23 Sep 2026 19:13:43 -0000</pubDate>
-    <description>Meteoric Iron can be mined with a pickaxe, worked on a bronze anvil, and more.</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Chisel32</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalschisel32</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalschisel32#8883</guid>
-    <pubDate>Wed, 23 Sep 2026 19:11:40 -0000</pubDate>
-    <description>Chisel32 adds high-detail 32x32x32 chiseling with a dedicated Fine Chisel tool</description>
-  </item>
-  <item>
-    <title>Rustwall</title>
-    <link>https://mods.vintagestory.at/show/mod/rustwall</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustwall#6183</guid>
-    <pubDate>Wed, 23 Sep 2026 19:08:34 -0000</pubDate>
-    <description>Overhaul mod intended for use in multiplayer servers.</description>
   </item>
 </channel>
 </rss>
