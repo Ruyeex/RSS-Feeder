@@ -4,20 +4,132 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 23 Sep 2026 11:01:35 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 16:22:47 +0000</lastBuildDate>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Wed, 23 Sep 2026 16:19:02 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>Minimally Invasive Performance Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/miptfc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/miptfc#11962</guid>
+    <pubDate>Wed, 23 Sep 2026 16:18:00 -0000</pubDate>
+    <description>Client-side performance mod that should not break other mods.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Elephantidae</title>
+    <link>https://mods.vintagestory.at/show/mod/elephantidae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elephantidae#2989</guid>
+    <pubDate>Wed, 23 Sep 2026 16:12:40 -0000</pubDate>
+    <description>A collection of elephants from the Holocene.</description>
+  </item>
   <item>
     <title>Tuna's Cute and Cozy Clothes</title>
     <link>https://mods.vintagestory.at/show/mod/11596</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11596#11596</guid>
-    <pubDate>Wed, 23 Sep 2026 10:41:11 -0000</pubDate>
+    <pubDate>Wed, 23 Sep 2026 15:23:32 -0000</pubDate>
     <description>Bunch of clothes i like</description>
+  </item>
+  <item>
+    <title>Wear And Tear</title>
+    <link>https://mods.vintagestory.at/show/mod/wearandtear</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wearandtear#2764</guid>
+    <pubDate>Wed, 23 Sep 2026 15:13:42 -0000</pubDate>
+    <description>Mechanic that adds durability and maintenance to parts of the game that are missing it</description>
+  </item>
+  <item>
+    <title>Realistic snow melting</title>
+    <link>https://mods.vintagestory.at/show/mod/7065</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7065#7065</guid>
+    <pubDate>Wed, 23 Sep 2026 15:09:00 -0000</pubDate>
+    <description>Makes snow melting dependant on temperature and shadow</description>
+  </item>
+  <item>
+    <title>Receding Pine-line</title>
+    <link>https://mods.vintagestory.at/show/mod/11980</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11980#11980</guid>
+    <pubDate>Wed, 23 Sep 2026 15:06:51 -0000</pubDate>
+    <description>Deserts have less pine and shrubs.</description>
+  </item>
+  <item>
+    <title>Insanity Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/insanitylib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/insanitylib#3966</guid>
+    <pubDate>Wed, 23 Sep 2026 15:01:49 -0000</pubDate>
+    <description>A library mod with modding utilities</description>
+  </item>
+  <item>
+    <title>steamworks</title>
+    <link>https://mods.vintagestory.at/show/mod/9040</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9040#9040</guid>
+    <pubDate>Wed, 23 Sep 2026 14:57:37 -0000</pubDate>
+    <description>Steamworks adds late‑game steam power: boilers, engines, pumps, pipes, and a powered sawmill.</description>
+  </item>
+  <item>
+    <title>VS Terrain Diffusion</title>
+    <link>https://mods.vintagestory.at/show/mod/vsterraindiffusion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsterraindiffusion#10918</guid>
+    <pubDate>Wed, 23 Sep 2026 14:49:19 -0000</pubDate>
+    <description>Generate terrain and climates with a model trained on real Earth topography</description>
   </item>
   <item>
     <title>CollapseStory</title>
     <link>https://mods.vintagestory.at/show/mod/7776</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
-    <pubDate>Wed, 23 Sep 2026 10:18:47 -0000</pubDate>
+    <pubDate>Wed, 23 Sep 2026 14:37:37 -0000</pubDate>
     <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
+  </item>
+  <item>
+    <title>Null Lockdown</title>
+    <link>https://mods.vintagestory.at/show/mod/nulllockdown</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nulllockdown#11865</guid>
+    <pubDate>Wed, 23 Sep 2026 14:34:49 -0000</pubDate>
+    <description>Hardcore navigation: no world map, no coordinate readouts, and the server-side leaks closed too.</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Wed, 23 Sep 2026 14:34:02 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
+  <item>
+    <title>Witchlight</title>
+    <link>https://mods.vintagestory.at/show/mod/witchlight</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/witchlight#11875</guid>
+    <pubDate>Wed, 23 Sep 2026 13:33:00 -0000</pubDate>
+    <description>Second monitor map packed with features and accessibilty options.</description>
+  </item>
+  <item>
+    <title>Pack de Traduction Française</title>
+    <link>https://mods.vintagestory.at/show/mod/packfr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/packfr#11805</guid>
+    <pubDate>Wed, 23 Sep 2026 13:18:50 -0000</pubDate>
+    <description>Ce mod ajoute une traduction française pour une sélection de mods communautaires. </description>
+  </item>
+  <item>
+    <title>Mastodon Trunk fix</title>
+    <link>https://mods.vintagestory.at/show/mod/9661</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9661#9661</guid>
+    <pubDate>Wed, 23 Sep 2026 13:04:12 -0000</pubDate>
+    <description>Mastodon Trunk fixed</description>
+  </item>
+  <item>
+    <title>Hardcore Ice World Server Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/11685</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11685#11685</guid>
+    <pubDate>Wed, 23 Sep 2026 12:56:07 -0000</pubDate>
+    <description>So far, it’s only a patch for the ceiling grain shelf that couldn’t be attached to chiseled blocks b</description>
+  </item>
+  <item>
+    <title>Improved Moose &amp; Hyena</title>
+    <link>https://mods.vintagestory.at/show/mod/11964</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11964#11964</guid>
+    <pubDate>Wed, 23 Sep 2026 11:48:30 -0000</pubDate>
+    <description>Ever felt like the moose and hyena were complete pushovers? Well, this mod fixes that!</description>
   </item>
   <item>
     <title>Tuna's Cute and Kind Faces</title>
@@ -41,13 +153,6 @@
     <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
   </item>
   <item>
-    <title>VS Terrain Diffusion</title>
-    <link>https://mods.vintagestory.at/show/mod/vsterraindiffusion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsterraindiffusion#10918</guid>
-    <pubDate>Wed, 23 Sep 2026 09:47:53 -0000</pubDate>
-    <description>Generate terrain and climates with a model trained on real Earth topography</description>
-  </item>
-  <item>
     <title>VS Director: OBS Plugins</title>
     <link>https://mods.vintagestory.at/show/mod/vsdirectorobs</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirectorobs#11978</guid>
@@ -55,25 +160,11 @@
     <description>It includes the OBS plugin required for off-screen rendering</description>
   </item>
   <item>
-    <title>Mastodon Trunk fix</title>
-    <link>https://mods.vintagestory.at/show/mod/9661</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9661#9661</guid>
-    <pubDate>Wed, 23 Sep 2026 09:06:27 -0000</pubDate>
-    <description>Mastodon Trunk fixed</description>
-  </item>
-  <item>
     <title>Toned Down Predators</title>
     <link>https://mods.vintagestory.at/show/mod/toneddownpredators</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/toneddownpredators#6620</guid>
     <pubDate>Wed, 23 Sep 2026 08:38:54 -0000</pubDate>
-    <description>Makes predators less annoying with realistic behavior and stat changes.</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Wed, 23 Sep 2026 08:37:27 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
+    <description>Makes predators less annoying with realistic behavior, also makes them afraid of fire.</description>
   </item>
   <item>
     <title>Atlas</title>
@@ -123,97 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4045#4045</guid>
     <pubDate>Wed, 23 Sep 2026 06:16:47 -0000</pubDate>
     <description>Smith metal into leaf to cheaply apply metallic textures to a chiseled block.</description>
-  </item>
-  <item>
-    <title>Relic Tools</title>
-    <link>https://mods.vintagestory.at/show/mod/relictools</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/relictools#4412</guid>
-    <pubDate>Wed, 23 Sep 2026 06:07:13 -0000</pubDate>
-    <description>Adds survival recipes for ruin blocks. Also soap making!</description>
-  </item>
-  <item>
-    <title>Ancient Forest Armor Uranium Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/ancientforestarmoruranium</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancientforestarmoruranium#11976</guid>
-    <pubDate>Wed, 23 Sep 2026 06:06:52 -0000</pubDate>
-    <description>Expansion to Ancient Forest Armor to add a Uranium Steel variant with glow in the dark trim</description>
-  </item>
-  <item>
-    <title>Casablanca Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/11911</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11911#11911</guid>
-    <pubDate>Wed, 23 Sep 2026 05:43:13 -0000</pubDate>
-    <description>For the Casablanca server setup.</description>
-  </item>
-  <item>
-    <title>Bikini Bear</title>
-    <link>https://mods.vintagestory.at/show/mod/bikinibear</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bikinibear#11173</guid>
-    <pubDate>Wed, 23 Sep 2026 05:05:17 -0000</pubDate>
-    <description>Every bear has a 10% chance to spawn in a bikini (6 styles) and a hat (7 styles). Configurable.</description>
-  </item>
-  <item>
-    <title>Season Remote</title>
-    <link>https://mods.vintagestory.at/show/mod/seasonremote</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seasonremote#11973</guid>
-    <pubDate>Wed, 23 Sep 2026 04:49:31 -0000</pubDate>
-    <description>This mod enables you to pause the changing of the seasons with a simple command.</description>
-  </item>
-  <item>
-    <title>BetterChinese</title>
-    <link>https://mods.vintagestory.at/show/mod/betterchinese</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterchinese#2568</guid>
-    <pubDate>Wed, 23 Sep 2026 03:42:41 -0000</pubDate>
-    <description>更好的汉化</description>
-  </item>
-  <item>
-    <title>Useful Traders Fixed</title>
-    <link>https://mods.vintagestory.at/show/mod/usefultradersfixed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/usefultradersfixed#11972</guid>
-    <pubDate>Wed, 23 Sep 2026 03:19:18 -0000</pubDate>
-    <description>Bug fix version of the mod by BrownishStorm</description>
-  </item>
-  <item>
-    <title>Augur</title>
-    <link>https://mods.vintagestory.at/show/mod/augur</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/augur#11405</guid>
-    <pubDate>Wed, 23 Sep 2026 02:47:09 -0000</pubDate>
-    <description>Sense rock and ore deposits through meditation</description>
-  </item>
-  <item>
-    <title>Bog Iron</title>
-    <link>https://mods.vintagestory.at/show/mod/11970</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11970#11970</guid>
-    <pubDate>Wed, 23 Sep 2026 02:01:46 -0000</pubDate>
-    <description>Bog Iron randomly spawns from mined peat, distribution based on climate.</description>
-  </item>
-  <item>
-    <title>Realistic Physiology and Survival Sim</title>
-    <link>https://mods.vintagestory.at/show/mod/10784</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10784#10784</guid>
-    <pubDate>Wed, 23 Sep 2026 02:01:39 -0000</pubDate>
-    <description>Imagine if Rimworld, Project Zomboid, and Oxygen not Included survival was combined.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Wed, 23 Sep 2026 01:51:20 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
-  </item>
-  <item>
-    <title>Sirayne's Fantasy Structures</title>
-    <link>https://mods.vintagestory.at/show/mod/fantasystructures</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fantasystructures#11969</guid>
-    <pubDate>Wed, 23 Sep 2026 01:39:20 -0000</pubDate>
-    <description>Brings your worldgen to life with some of my atmospheric structures.</description>
-  </item>
-  <item>
-    <title>Early Aviation!!!</title>
-    <link>https://mods.vintagestory.at/show/mod/11859</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11859#11859</guid>
-    <pubDate>Wed, 23 Sep 2026 01:03:57 -0000</pubDate>
-    <description>Planes!!!</description>
   </item>
 </channel>
 </rss>
