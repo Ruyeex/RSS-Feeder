@@ -4,13 +4,111 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 23 Sep 2026 00:07:05 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 05:37:21 +0000</lastBuildDate>
+  <item>
+    <title>Casablanca Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/11911</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11911#11911</guid>
+    <pubDate>Wed, 23 Sep 2026 05:22:37 -0000</pubDate>
+    <description>For the Casablanca server setup.</description>
+  </item>
+  <item>
+    <title>Bikini Bear</title>
+    <link>https://mods.vintagestory.at/show/mod/bikinibear</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bikinibear#11173</guid>
+    <pubDate>Wed, 23 Sep 2026 05:05:17 -0000</pubDate>
+    <description>Every bear has a 10% chance to spawn in a bikini (6 styles) and a hat (7 styles). Configurable.</description>
+  </item>
+  <item>
+    <title>Season Remote</title>
+    <link>https://mods.vintagestory.at/show/mod/seasonremote</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seasonremote#11973</guid>
+    <pubDate>Wed, 23 Sep 2026 04:49:31 -0000</pubDate>
+    <description>This mod enables you to pause the changing of the seasons with a simple command.</description>
+  </item>
+  <item>
+    <title>BetterChinese</title>
+    <link>https://mods.vintagestory.at/show/mod/betterchinese</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterchinese#2568</guid>
+    <pubDate>Wed, 23 Sep 2026 03:42:41 -0000</pubDate>
+    <description>更好的汉化</description>
+  </item>
+  <item>
+    <title>Useful Traders Fixed</title>
+    <link>https://mods.vintagestory.at/show/mod/usefultradersfixed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/usefultradersfixed#11972</guid>
+    <pubDate>Wed, 23 Sep 2026 03:19:18 -0000</pubDate>
+    <description>Bug fix version of the mod by BrownishStorm</description>
+  </item>
+  <item>
+    <title>Augur</title>
+    <link>https://mods.vintagestory.at/show/mod/augur</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/augur#11405</guid>
+    <pubDate>Wed, 23 Sep 2026 02:47:09 -0000</pubDate>
+    <description>Sense rock and ore deposits through meditation</description>
+  </item>
+  <item>
+    <title>Bog Iron</title>
+    <link>https://mods.vintagestory.at/show/mod/11970</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11970#11970</guid>
+    <pubDate>Wed, 23 Sep 2026 02:01:46 -0000</pubDate>
+    <description>Bog Iron randomly spawns from mined peat, distribution based on climate.</description>
+  </item>
+  <item>
+    <title>Realistic Physiology and Survival Sim</title>
+    <link>https://mods.vintagestory.at/show/mod/10784</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10784#10784</guid>
+    <pubDate>Wed, 23 Sep 2026 02:01:39 -0000</pubDate>
+    <description>Imagine if Rimworld, Project Zomboid, and Oxygen not Included survival was combined.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Wed, 23 Sep 2026 01:51:20 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
+  </item>
+  <item>
+    <title>Sirayne's Fantasy Structures</title>
+    <link>https://mods.vintagestory.at/show/mod/fantasystructures</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fantasystructures#11969</guid>
+    <pubDate>Wed, 23 Sep 2026 01:39:20 -0000</pubDate>
+    <description>Brings your worldgen to life with some of my atmospheric structures.</description>
+  </item>
+  <item>
+    <title>Early Aviation!!!</title>
+    <link>https://mods.vintagestory.at/show/mod/11859</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11859#11859</guid>
+    <pubDate>Wed, 23 Sep 2026 01:03:57 -0000</pubDate>
+    <description>Planes!!!</description>
+  </item>
+  <item>
+    <title>Genealogy</title>
+    <link>https://mods.vintagestory.at/show/mod/11774</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11774#11774</guid>
+    <pubDate>Wed, 23 Sep 2026 00:57:47 -0000</pubDate>
+    <description>Livestock with real inherited traits!</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Wed, 23 Sep 2026 00:43:49 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
   <item>
     <title>Glow Fletching Expanded - Combatoverhaul Version</title>
     <link>https://mods.vintagestory.at/show/mod/glofeco</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glofeco#11949</guid>
-    <pubDate>Wed, 23 Sep 2026 00:06:30 -0000</pubDate>
+    <pubDate>Wed, 23 Sep 2026 00:20:09 -0000</pubDate>
     <description>CombatOverhaul forked compatible version of Glow Fletching Expanded. Adds nine glowing arrow colors</description>
+  </item>
+  <item>
+    <title>Glow Fletching Expanded Stand-alone</title>
+    <link>https://mods.vintagestory.at/show/mod/glofe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glofe#11809</guid>
+    <pubDate>Wed, 23 Sep 2026 00:10:13 -0000</pubDate>
+    <description>Nine colors of glow fletching with 4 dynamic light levels!</description>
   </item>
   <item>
     <title>Niltrias's Sinister Cookery</title>
@@ -32,13 +130,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11967#11967</guid>
     <pubDate>Tue, 22 Sep 2026 23:58:16 -0000</pubDate>
     <description>Personal Server Cave Tweaks.  Will Devour Your World. </description>
-  </item>
-  <item>
-    <title>Cooler Commands</title>
-    <link>https://mods.vintagestory.at/show/mod/11968</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11968#11968</guid>
-    <pubDate>Tue, 22 Sep 2026 23:55:47 -0000</pubDate>
-    <description>Fun cool commands for my private server </description>
   </item>
   <item>
     <title>KCs Synth Player</title>
@@ -123,97 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/madcrow#7449</guid>
     <pubDate>Tue, 22 Sep 2026 21:43:04 -0000</pubDate>
     <description>A Gliders made to have the appearence of a Tobias's Mad Crow wings and Color Variants for Gliders</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Isengard</title>
-    <link>https://mods.vintagestory.at/show/mod/6475</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6475#6475</guid>
-    <pubDate>Tue, 22 Sep 2026 21:18:16 -0000</pubDate>
-    <description>The old world will burn in the fires of industry. The forests will fall. A new order will rise.</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Gondor</title>
-    <link>https://mods.vintagestory.at/show/mod/6584</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6584#6584</guid>
-    <pubDate>Tue, 22 Sep 2026 21:17:57 -0000</pubDate>
-    <description>Heirs of Númenor, wardens of the West.</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Mordor</title>
-    <link>https://mods.vintagestory.at/show/mod/6729</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6729#6729</guid>
-    <pubDate>Tue, 22 Sep 2026 21:17:38 -0000</pubDate>
-    <description>The legions of the Black Land are marching out once more.</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Misty Mountain Orcs</title>
-    <link>https://mods.vintagestory.at/show/mod/7123</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7123#7123</guid>
-    <pubDate>Tue, 22 Sep 2026 21:17:08 -0000</pubDate>
-    <description>In the deep caves of the Misty Mountains, cruelty is law.</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Rohan</title>
-    <link>https://mods.vintagestory.at/show/mod/7124</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7124#7124</guid>
-    <pubDate>Tue, 22 Sep 2026 21:16:46 -0000</pubDate>
-    <description>Ride for wrath! Ride for ruin!</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Woodland Realm</title>
-    <link>https://mods.vintagestory.at/show/mod/7125</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7125#7125</guid>
-    <pubDate>Tue, 22 Sep 2026 21:16:23 -0000</pubDate>
-    <description>Hidden in the Greenwood of Old, a kingdom still thrives.</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Dwarves</title>
-    <link>https://mods.vintagestory.at/show/mod/7283</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7283#7283</guid>
-    <pubDate>Tue, 22 Sep 2026 21:15:50 -0000</pubDate>
-    <description>By hammer and anvil, we shape the world.</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Middle-Earth Characters</title>
-    <link>https://mods.vintagestory.at/show/mod/7492</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7492#7492</guid>
-    <pubDate>Tue, 22 Sep 2026 21:15:31 -0000</pubDate>
-    <description>Don armor by the warriors, kings, and dark lords whose deeds shaped the fate of Middle-earth.</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Angmar</title>
-    <link>https://mods.vintagestory.at/show/mod/angmar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/angmar#11741</guid>
-    <pubDate>Tue, 22 Sep 2026 21:15:19 -0000</pubDate>
-    <description>Conquer the north under the banner of the Witch-king!</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Dale and Dorwinion</title>
-    <link>https://mods.vintagestory.at/show/mod/8865</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8865#8865</guid>
-    <pubDate>Tue, 22 Sep 2026 21:15:05 -0000</pubDate>
-    <description>Defend the trade routes for the common folk!</description>
-  </item>
-  <item>
-    <title>Weapon Pack Alpha - Rebalanced</title>
-    <link>https://mods.vintagestory.at/show/mod/3314</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
-    <pubDate>Tue, 22 Sep 2026 21:12:48 -0000</pubDate>
-    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Tue, 22 Sep 2026 21:02:55 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>Weapon Animation Pack - Alpha</title>
-    <link>https://mods.vintagestory.at/show/mod/wapalpha</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wapalpha#11808</guid>
-    <pubDate>Tue, 22 Sep 2026 20:58:13 -0000</pubDate>
-    <description>Animation Pack that adds several types of animations useful for many modded weapons and the like.</description>
   </item>
 </channel>
 </rss>
