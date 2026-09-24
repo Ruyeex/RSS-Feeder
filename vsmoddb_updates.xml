@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 24 Sep 2026 07:23:34 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 13:22:26 +0000</lastBuildDate>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Thu, 24 Sep 2026 13:00:11 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>StormvaldServerMod</title>
+    <link>https://mods.vintagestory.at/show/mod/11142</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11142#11142</guid>
+    <pubDate>Thu, 24 Sep 2026 12:58:05 -0000</pubDate>
+    <description>Servermod</description>
+  </item>
+  <item>
+    <title>Alchemy Traits</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemytraits</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemytraits#11729</guid>
+    <pubDate>Thu, 24 Sep 2026 12:55:49 -0000</pubDate>
+    <description>Makes the reshape potion from the Alchemy mod work with Sonito's Dynamic Traits Rebirth</description>
+  </item>
+  <item>
+    <title>Pack de Traduction Française</title>
+    <link>https://mods.vintagestory.at/show/mod/packfr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/packfr#11805</guid>
+    <pubDate>Thu, 24 Sep 2026 12:19:56 -0000</pubDate>
+    <description>Ce mod ajoute une traduction française pour une sélection de mods communautaires. </description>
+  </item>
+  <item>
+    <title>kris-copper-additions</title>
+    <link>https://mods.vintagestory.at/show/mod/kriscopperadditions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kriscopperadditions#11951</guid>
+    <pubDate>Thu, 24 Sep 2026 12:09:08 -0000</pubDate>
+    <description>Module adds 6 different types of Copper</description>
+  </item>
+  <item>
+    <title>muppersrpg</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersrpg</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersrpg#11629</guid>
+    <pubDate>Thu, 24 Sep 2026 12:05:27 -0000</pubDate>
+    <description>rpg, rarity, stats and reskin for every weapon/tool/armor.</description>
+  </item>
+  <item>
+    <title>SmithingPlusPlus</title>
+    <link>https://mods.vintagestory.at/show/mod/smithingplusplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smithingplusplus#11771</guid>
+    <pubDate>Thu, 24 Sep 2026 11:27:37 -0000</pubDate>
+    <description>Smithing Plus fork with extensive bug and performance fixes.</description>
+  </item>
+  <item>
+    <title>Room Climates [Beta]</title>
+    <link>https://mods.vintagestory.at/show/mod/roomclimates</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/roomclimates#11795</guid>
+    <pubDate>Thu, 24 Sep 2026 10:31:37 -0000</pubDate>
+    <description>Heat your house, cool your cellar and manage the temperature of your greenhouse.</description>
+  </item>
+  <item>
+    <title>More Uses for Peat</title>
+    <link>https://mods.vintagestory.at/show/mod/moreusesforpeat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreusesforpeat#10384</guid>
+    <pubDate>Thu, 24 Sep 2026 09:40:52 -0000</pubDate>
+    <description>Overhaul to peat piles and new features.</description>
+  </item>
+  <item>
+    <title>ND Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/11622</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11622#11622</guid>
+    <pubDate>Thu, 24 Sep 2026 09:22:10 -0000</pubDate>
+    <description>ND mulitple mod patches</description>
+  </item>
+  <item>
+    <title>Eques Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/allrebalanced</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/allrebalanced#10360</guid>
+    <pubDate>Thu, 24 Sep 2026 09:14:26 -0000</pubDate>
+    <description>An expansion of AllClasses. Expect more new classes and rebalancing of the old ones.</description>
+  </item>
+  <item>
+    <title>Shipwright</title>
+    <link>https://mods.vintagestory.at/show/mod/shipwright</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shipwright#8044</guid>
+    <pubDate>Thu, 24 Sep 2026 07:25:36 -0000</pubDate>
+    <description>Adds various sailed and rowed boats from all around the world.</description>
+  </item>
   <item>
     <title>Server Map</title>
     <link>https://mods.vintagestory.at/show/mod/servermap</link>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11929#11929</guid>
     <pubDate>Thu, 24 Sep 2026 02:46:17 -0000</pubDate>
     <description>Saltpeter + Powdered Sulfur + Powdered Charcoal = BlastingPowder</description>
-  </item>
-  <item>
-    <title>Weapon Pack Alpha - Rebalanced</title>
-    <link>https://mods.vintagestory.at/show/mod/3314</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
-    <pubDate>Thu, 24 Sep 2026 02:26:53 -0000</pubDate>
-    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
-  </item>
-  <item>
-    <title>Dyed Armor</title>
-    <link>https://mods.vintagestory.at/show/mod/dyedarmor</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dyedarmor#2799</guid>
-    <pubDate>Thu, 24 Sep 2026 01:57:05 -0000</pubDate>
-    <description>Ever wanted a set of colorful armor without being a "Tailor"? now you can!</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
-    <pubDate>Thu, 24 Sep 2026 01:10:52 -0000</pubDate>
-    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
-  </item>
-  <item>
-    <title>Alternative armor designs</title>
-    <link>https://mods.vintagestory.at/show/mod/5597</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5597#5597</guid>
-    <pubDate>Thu, 24 Sep 2026 01:07:58 -0000</pubDate>
-    <description>With this mod, you can make use of all vanilla armor designs for each respective armor pieces.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Thu, 24 Sep 2026 01:02:37 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
-  </item>
-  <item>
-    <title>Diet Setup</title>
-    <link>https://mods.vintagestory.at/show/mod/dietsetup</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dietsetup#11576</guid>
-    <pubDate>Thu, 24 Sep 2026 00:59:12 -0000</pubDate>
-    <description>Configurable food preferences, nutrition and spoilage responses, with optional race diets.</description>
-  </item>
-  <item>
-    <title>Drifter Monkey</title>
-    <link>https://mods.vintagestory.at/show/mod/6213</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6213#6213</guid>
-    <pubDate>Thu, 24 Sep 2026 00:58:41 -0000</pubDate>
-    <description>Makes drifters sound like monkeys</description>
-  </item>
-  <item>
-    <title>BetterChinese</title>
-    <link>https://mods.vintagestory.at/show/mod/betterchinese</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterchinese#2568</guid>
-    <pubDate>Thu, 24 Sep 2026 00:56:53 -0000</pubDate>
-    <description>更好的汉化</description>
-  </item>
-  <item>
-    <title>Telescopes</title>
-    <link>https://mods.vintagestory.at/show/mod/telescopes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/telescopes#11990</guid>
-    <pubDate>Thu, 24 Sep 2026 00:50:41 -0000</pubDate>
-    <description>Telescopes using TurretLib. Decorative only for now</description>
-  </item>
-  <item>
-    <title>Moonlit magic</title>
-    <link>https://mods.vintagestory.at/show/mod/moonlitmagic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmagic#11891</guid>
-    <pubDate>Thu, 24 Sep 2026 00:40:37 -0000</pubDate>
-    <description>Biome based magic system</description>
-  </item>
-  <item>
-    <title>Equus: Shared Ancestry</title>
-    <link>https://mods.vintagestory.at/show/mod/equussharedancestry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equussharedancestry#11300</guid>
-    <pubDate>Thu, 24 Sep 2026 00:23:11 -0000</pubDate>
-    <description>This mod allows you to crossbreed Destriers and Ferus</description>
-  </item>
-  <item>
-    <title>Realistic Physiology and Survival Sim</title>
-    <link>https://mods.vintagestory.at/show/mod/10784</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10784#10784</guid>
-    <pubDate>Thu, 24 Sep 2026 00:14:35 -0000</pubDate>
-    <description>Imagine if Rimworld, Project Zomboid, and Oxygen not Included survival was combined.</description>
   </item>
 </channel>
 </rss>
