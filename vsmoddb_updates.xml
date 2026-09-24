@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 24 Sep 2026 13:22:26 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 18:18:55 +0000</lastBuildDate>
+  <item>
+    <title>Vintage Canvas</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagecanvas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagecanvas#9406</guid>
+    <pubDate>Thu, 24 Sep 2026 17:54:07 -0000</pubDate>
+    <description>Craft canvases, mix paint, and use brushes to decorate your world!</description>
+  </item>
+  <item>
+    <title>Moonlit magic</title>
+    <link>https://mods.vintagestory.at/show/mod/moonlitmagic</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmagic#11891</guid>
+    <pubDate>Thu, 24 Sep 2026 17:34:53 -0000</pubDate>
+    <description>Biome based magic system</description>
+  </item>
+  <item>
+    <title>NDL Wooden Torch Holders</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlwoodentorchholders</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlwoodentorchholders#2979</guid>
+    <pubDate>Thu, 24 Sep 2026 17:10:58 -0000</pubDate>
+    <description>Adds craftable wooden torch holders to the game.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Dovidarium</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalsdovidarium</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalsdovidarium#11441</guid>
+    <pubDate>Thu, 24 Sep 2026 17:05:43 -0000</pubDate>
+    <description>Handbook enhancements, faster Creative Inventory, and optimized crafting for large modpacks.</description>
+  </item>
+  <item>
+    <title>NDL Villagers</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlvillagers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlvillagers#3429</guid>
+    <pubDate>Thu, 24 Sep 2026 16:38:40 -0000</pubDate>
+    <description>Adds Villagers/Guards/Clerics to populate your builds and also a way to get traders in your builds!</description>
+  </item>
+  <item>
+    <title>BotaniaStory</title>
+    <link>https://mods.vintagestory.at/show/mod/8113</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8113#8113</guid>
+    <pubDate>Thu, 24 Sep 2026 15:47:37 -0000</pubDate>
+    <description>BotaniaStory - nature magic, mana, and automation in Vintage Story!</description>
+  </item>
+  <item>
+    <title>Minimally Invasive Performance Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/miptfc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/miptfc#11962</guid>
+    <pubDate>Thu, 24 Sep 2026 15:43:03 -0000</pubDate>
+    <description>Client-side performance mod that should not break other mods.</description>
+  </item>
+  <item>
+    <title>Food Preference Customizer</title>
+    <link>https://mods.vintagestory.at/show/mod/12020</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12020#12020</guid>
+    <pubDate>Thu, 24 Sep 2026 15:31:59 -0000</pubDate>
+    <description>Admin tools for persistent per-player Food Preferences item and food-group overrides.</description>
+  </item>
+  <item>
+    <title>traduccion de mods a español LA</title>
+    <link>https://mods.vintagestory.at/show/mod/traduccionesdemodsla</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traduccionesdemodsla#11988</guid>
+    <pubDate>Thu, 24 Sep 2026 15:23:40 -0000</pubDate>
+    <description>traduccion de mods a español LA</description>
+  </item>
+  <item>
+    <title>Room Climates [Beta]</title>
+    <link>https://mods.vintagestory.at/show/mod/roomclimates</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/roomclimates#11795</guid>
+    <pubDate>Thu, 24 Sep 2026 14:05:25 -0000</pubDate>
+    <description>Heat your house, cool your cellar and manage the temperature of your greenhouse.</description>
+  </item>
+  <item>
+    <title>Aurora Configuralis</title>
+    <link>https://mods.vintagestory.at/show/mod/12019</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12019#12019</guid>
+    <pubDate>Thu, 24 Sep 2026 13:37:07 -0000</pubDate>
+    <description>Configurable temperature and darkness thresholds for the aurora</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Thu, 24 Sep 2026 13:35:54 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
   <item>
     <title>Muppers Arcana</title>
     <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
@@ -53,13 +137,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smithingplusplus#11771</guid>
     <pubDate>Thu, 24 Sep 2026 11:27:37 -0000</pubDate>
     <description>Smithing Plus fork with extensive bug and performance fixes.</description>
-  </item>
-  <item>
-    <title>Room Climates [Beta]</title>
-    <link>https://mods.vintagestory.at/show/mod/roomclimates</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/roomclimates#11795</guid>
-    <pubDate>Thu, 24 Sep 2026 10:31:37 -0000</pubDate>
-    <description>Heat your house, cool your cellar and manage the temperature of your greenhouse.</description>
   </item>
   <item>
     <title>More Uses for Peat</title>
@@ -125,13 +202,6 @@
     <description>Adds all the features for bloodbread that should have been.</description>
   </item>
   <item>
-    <title>traducciones de mods LA</title>
-    <link>https://mods.vintagestory.at/show/mod/traduccionesdemodsla</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traduccionesdemodsla#11988</guid>
-    <pubDate>Thu, 24 Sep 2026 06:15:39 -0000</pubDate>
-    <description>traduccion de mods a español LA</description>
-  </item>
-  <item>
     <title>RustVeganBound</title>
     <link>https://mods.vintagestory.at/show/mod/rustveganbound</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustveganbound#11998</guid>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/packmycob#11994</guid>
     <pubDate>Thu, 24 Sep 2026 05:47:10 -0000</pubDate>
     <description>A recipe to let twice the cob replace dirt for packed dirt.</description>
-  </item>
-  <item>
-    <title>Casablanca Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/11911</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11911#11911</guid>
-    <pubDate>Thu, 24 Sep 2026 05:44:32 -0000</pubDate>
-    <description>For the Casablanca server setup.</description>
-  </item>
-  <item>
-    <title>Tailor SUCKS!</title>
-    <link>https://mods.vintagestory.at/show/mod/tailorsucks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tailorsucks#11996</guid>
-    <pubDate>Thu, 24 Sep 2026 05:38:45 -0000</pubDate>
-    <description>Disables the Tailor class and makes all their recipes available to every class.</description>
-  </item>
-  <item>
-    <title>Clothier SUCKS!</title>
-    <link>https://mods.vintagestory.at/show/mod/clothiersucks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clothiersucks#11997</guid>
-    <pubDate>Thu, 24 Sep 2026 05:38:15 -0000</pubDate>
-    <description>Makes the Clothier trait only necessary for Gambesons. All other clothing recipes are all-class.</description>
-  </item>
-  <item>
-    <title>Moonlit fantasy pack</title>
-    <link>https://mods.vintagestory.at/show/mod/6273</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6273#6273</guid>
-    <pubDate>Thu, 24 Sep 2026 05:18:27 -0000</pubDate>
-    <description>A weapon and armour pack for the moonlit fantasy server</description>
-  </item>
-  <item>
-    <title>Season Remote</title>
-    <link>https://mods.vintagestory.at/show/mod/seasonremote</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seasonremote#11973</guid>
-    <pubDate>Thu, 24 Sep 2026 05:01:12 -0000</pubDate>
-    <description>This mod enables you to pause the changing of the seasons with a simple command.</description>
-  </item>
-  <item>
-    <title>Tuna's Cute and Kind Faces</title>
-    <link>https://mods.vintagestory.at/show/mod/11979</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11979#11979</guid>
-    <pubDate>Thu, 24 Sep 2026 04:58:30 -0000</pubDate>
-    <description>Adds new faces to character creation</description>
-  </item>
-  <item>
-    <title>Tuna's Cute and Cozy Clothes</title>
-    <link>https://mods.vintagestory.at/show/mod/11596</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11596#11596</guid>
-    <pubDate>Thu, 24 Sep 2026 04:57:49 -0000</pubDate>
-    <description>Bunch of clothes i like</description>
-  </item>
-  <item>
-    <title>RFMechanics</title>
-    <link>https://mods.vintagestory.at/show/mod/rfmechanics</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rfmechanics#11578</guid>
-    <pubDate>Thu, 24 Sep 2026 03:09:42 -0000</pubDate>
-    <description>Race-specific abilities and survival mechanics. WIP but currently has climbing, growing orcs, etc</description>
-  </item>
-  <item>
-    <title>Expedition Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/11991</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11991#11991</guid>
-    <pubDate>Thu, 24 Sep 2026 03:03:21 -0000</pubDate>
-    <description>A 100-slot expedition backpack that carries animals, carcasses and packed containers.</description>
-  </item>
-  <item>
-    <title>Blasting Powder from Charcoal</title>
-    <link>https://mods.vintagestory.at/show/mod/11929</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11929#11929</guid>
-    <pubDate>Thu, 24 Sep 2026 02:46:17 -0000</pubDate>
-    <description>Saltpeter + Powdered Sulfur + Powdered Charcoal = BlastingPowder</description>
   </item>
 </channel>
 </rss>
