@@ -4,7 +4,126 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 25 Sep 2026 13:22:50 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 18:18:51 +0000</lastBuildDate>
+  <item>
+    <title>Eventide Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Fri, 25 Sep 2026 17:53:19 -0000</pubDate>
+    <description>Claim maps, settlements, and access permissions for the Eventide server.</description>
+  </item>
+  <item>
+    <title>TraderTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10569</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
+    <pubDate>Fri, 25 Sep 2026 17:32:54 -0000</pubDate>
+    <description>Allow to manage traders</description>
+  </item>
+  <item>
+    <title>TekTools</title>
+    <link>https://mods.vintagestory.at/show/mod/11615</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11615#11615</guid>
+    <pubDate>Fri, 25 Sep 2026 17:32:09 -0000</pubDate>
+    <description>Adds a dedicated Tools tab to the Vintage Story character window, providing a clean home for TekTool</description>
+  </item>
+  <item>
+    <title>ReinforcedTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/11245</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11245#11245</guid>
+    <pubDate>Fri, 25 Sep 2026 17:31:18 -0000</pubDate>
+    <description>ADD Option to Plumb and Square</description>
+  </item>
+  <item>
+    <title>HardcoreSecurity</title>
+    <link>https://mods.vintagestory.at/show/mod/11858</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11858#11858</guid>
+    <pubDate>Fri, 25 Sep 2026 17:30:30 -0000</pubDate>
+    <description>Professional server-authoritative security, vanilla integrity verification, client policy enforcemen</description>
+  </item>
+  <item>
+    <title>DarkGirlStuff</title>
+    <link>https://mods.vintagestory.at/show/mod/11165</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11165#11165</guid>
+    <pubDate>Fri, 25 Sep 2026 17:29:39 -0000</pubDate>
+    <description>ADD some stuff, items, cloths for an server</description>
+  </item>
+  <item>
+    <title>VSCN Server Mod Fix Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
+    <pubDate>Fri, 25 Sep 2026 16:42:43 -0000</pubDate>
+    <description>VSCN Server Mod Fix Mod</description>
+  </item>
+  <item>
+    <title>Moonlit fantasy pack</title>
+    <link>https://mods.vintagestory.at/show/mod/6273</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6273#6273</guid>
+    <pubDate>Fri, 25 Sep 2026 16:40:30 -0000</pubDate>
+    <description>A weapon and armour pack for the moonlit fantasy server</description>
+  </item>
+  <item>
+    <title>Moonlit magic</title>
+    <link>https://mods.vintagestory.at/show/mod/moonlitmagic</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmagic#11891</guid>
+    <pubDate>Fri, 25 Sep 2026 16:39:39 -0000</pubDate>
+    <description>Biome based magic system</description>
+  </item>
+  <item>
+    <title>Kingdoms and Clans Base Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/kingandclanbase</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kingandclanbase#11001</guid>
+    <pubDate>Fri, 25 Sep 2026 16:14:34 -0000</pubDate>
+    <description>Mod for whitelisted server Kingdoms and Clans</description>
+  </item>
+  <item>
+    <title>VS RmlUi</title>
+    <link>https://mods.vintagestory.at/show/mod/vsrmlui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsrmlui#11841</guid>
+    <pubDate>Fri, 25 Sep 2026 15:45:11 -0000</pubDate>
+    <description>RmlUi interface framework for Vintage Story mods. Provides RML/RCSS documents and a managed C# API.</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Fri, 25 Sep 2026 15:44:10 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
+  <item>
+    <title>Better Husbandry</title>
+    <link>https://mods.vintagestory.at/show/mod/betterhusbandry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhusbandry#11009</guid>
+    <pubDate>Fri, 25 Sep 2026 15:14:30 -0000</pubDate>
+    <description>Changes animal husbandry by rewarding players for petting and feeding their animals.</description>
+  </item>
+  <item>
+    <title>Simple Voice Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
+    <pubDate>Fri, 25 Sep 2026 15:05:48 -0000</pubDate>
+    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
+  </item>
+  <item>
+    <title>Featherborn (Bird, Harpy player)</title>
+    <link>https://mods.vintagestory.at/show/mod/featherborn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/featherborn#8019</guid>
+    <pubDate>Fri, 25 Sep 2026 14:47:05 -0000</pubDate>
+    <description>Featherborn is a mod created to allow for a bird/avian/harpy player characters.</description>
+  </item>
+  <item>
+    <title>Elk Drowning Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/12037</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12037#12037</guid>
+    <pubDate>Fri, 25 Sep 2026 14:32:30 -0000</pubDate>
+    <description>Fixes an issue with Elk easily drowning themselves.</description>
+  </item>
+  <item>
+    <title>Insanity Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/insanitylib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/insanitylib#3966</guid>
+    <pubDate>Fri, 25 Sep 2026 14:09:13 -0000</pubDate>
+    <description>A library mod with modding utilities</description>
+  </item>
   <item>
     <title>Fix Vanilla Texture Overwrites</title>
     <link>https://mods.vintagestory.at/show/mod/12045</link>
@@ -95,125 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/miptfc#11962</guid>
     <pubDate>Fri, 25 Sep 2026 11:35:41 -0000</pubDate>
     <description>Client-side performance mod that should not break other mods.</description>
-  </item>
-  <item>
-    <title>Vintage Healing</title>
-    <link>https://mods.vintagestory.at/show/mod/vsheal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsheal#11190</guid>
-    <pubDate>Fri, 25 Sep 2026 11:17:17 -0000</pubDate>
-    <description>Adds antiseptic, slow healing poultices and bandages.</description>
-  </item>
-  <item>
-    <title>Tuna's Cute and Kind Faces</title>
-    <link>https://mods.vintagestory.at/show/mod/11979</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11979#11979</guid>
-    <pubDate>Fri, 25 Sep 2026 10:54:51 -0000</pubDate>
-    <description>Adds new faces to character creation</description>
-  </item>
-  <item>
-    <title>Chinese Compass</title>
-    <link>https://mods.vintagestory.at/show/mod/chinesecompass</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chinesecompass#12022</guid>
-    <pubDate>Fri, 25 Sep 2026 10:08:39 -0000</pubDate>
-    <description>Sinan and a wooden Chinese mariner's compass with a 24-mountain dial</description>
-  </item>
-  <item>
-    <title>ReRebalanced Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/11977</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11977#11977</guid>
-    <pubDate>Fri, 25 Sep 2026 09:40:59 -0000</pubDate>
-    <description>Rebalanced version of AllClasses Rebalanced</description>
-  </item>
-  <item>
-    <title>Schadenfreude</title>
-    <link>https://mods.vintagestory.at/show/mod/schadenfreude</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/schadenfreude#11987</guid>
-    <pubDate>Fri, 25 Sep 2026 08:46:12 -0000</pubDate>
-    <description>If dumb (hilarious) ingame events were a mod, it would be this one. Now with friendslop mode</description>
-  </item>
-  <item>
-    <title>Tuna's Cute and Cozy Clothes</title>
-    <link>https://mods.vintagestory.at/show/mod/11596</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11596#11596</guid>
-    <pubDate>Fri, 25 Sep 2026 08:42:25 -0000</pubDate>
-    <description>Bunch of clothes i like</description>
-  </item>
-  <item>
-    <title>VSCN Server Mod Fix Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
-    <pubDate>Fri, 25 Sep 2026 07:44:52 -0000</pubDate>
-    <description>VSCN Server Mod Fix Mod</description>
-  </item>
-  <item>
-    <title>Vampirism</title>
-    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
-    <pubDate>Fri, 25 Sep 2026 07:14:32 -0000</pubDate>
-    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
-  </item>
-  <item>
-    <title>Meadows Server Additions</title>
-    <link>https://mods.vintagestory.at/show/mod/11855</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11855#11855</guid>
-    <pubDate>Fri, 25 Sep 2026 06:13:54 -0000</pubDate>
-    <description>Tweaks for a server</description>
-  </item>
-  <item>
-    <title>Newfies Chat Guard</title>
-    <link>https://mods.vintagestory.at/show/mod/5250</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5250#5250</guid>
-    <pubDate>Fri, 25 Sep 2026 06:00:27 -0000</pubDate>
-    <description>Server-side mute + chat filter for Vintage Story. Timed/permanent mutes, offline support, word/regex</description>
-  </item>
-  <item>
-    <title>Newfies MOTD Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/5102</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5102#5102</guid>
-    <pubDate>Fri, 25 Sep 2026 05:58:59 -0000</pubDate>
-    <description>The BEST server Message of the day mod!</description>
-  </item>
-  <item>
-    <title>Newfie's Server Essentials Discord</title>
-    <link>https://mods.vintagestory.at/show/mod/11732</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11732#11732</guid>
-    <pubDate>Fri, 25 Sep 2026 05:55:43 -0000</pubDate>
-    <description>Connect your Vintage Story server to Discord.</description>
-  </item>
-  <item>
-    <title>Newfies Server Essentials Suite</title>
-    <link>https://mods.vintagestory.at/show/mod/11556</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
-    <pubDate>Fri, 25 Sep 2026 05:54:33 -0000</pubDate>
-    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
-  </item>
-  <item>
-    <title>Newfies PlayerList</title>
-    <link>https://mods.vintagestory.at/show/mod/11626</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11626#11626</guid>
-    <pubDate>Fri, 25 Sep 2026 05:45:00 -0000</pubDate>
-    <description>A clean, lightweight and configurable player list</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux - Expansion B</title>
-    <link>https://mods.vintagestory.at/show/mod/vsinstrumentsreduxexpansionb</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsinstrumentsreduxexpansionb#11573</guid>
-    <pubDate>Fri, 25 Sep 2026 05:23:01 -0000</pubDate>
-    <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/vsinstrumentsredux</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsinstrumentsredux#10555</guid>
-    <pubDate>Fri, 25 Sep 2026 05:22:38 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC/MIDI sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>Meadows Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10662</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10662#10662</guid>
-    <pubDate>Fri, 25 Sep 2026 04:59:35 -0000</pubDate>
-    <description>Nothing fancy, just server-specific adjustments</description>
   </item>
 </channel>
 </rss>
