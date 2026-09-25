@@ -4,7 +4,147 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 25 Sep 2026 07:18:23 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 13:22:50 +0000</lastBuildDate>
+  <item>
+    <title>Fix Vanilla Texture Overwrites</title>
+    <link>https://mods.vintagestory.at/show/mod/12045</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12045#12045</guid>
+    <pubDate>Fri, 25 Sep 2026 13:16:28 -0000</pubDate>
+    <description>Prevents wearable items from overwriting each other's textures</description>
+  </item>
+  <item>
+    <title>pawopenskeps</title>
+    <link>https://mods.vintagestory.at/show/mod/pawopenskeps</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pawopenskeps#12043</guid>
+    <pubDate>Fri, 25 Sep 2026 13:12:46 -0000</pubDate>
+    <description>Easy skep harvesting without breaking it</description>
+  </item>
+  <item>
+    <title>VSA - BUILDINGTOOLS</title>
+    <link>https://mods.vintagestory.at/show/mod/11892</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11892#11892</guid>
+    <pubDate>Fri, 25 Sep 2026 13:11:24 -0000</pubDate>
+    <description>Building tools to make building more streamlined</description>
+  </item>
+  <item>
+    <title>Wilderlands Soil Layering</title>
+    <link>https://mods.vintagestory.at/show/mod/8615</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8615#8615</guid>
+    <pubDate>Fri, 25 Sep 2026 13:06:41 -0000</pubDate>
+    <description>- Adds a feature that allows for layering down a soil block.</description>
+  </item>
+  <item>
+    <title>VS Siding Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/vssiding</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vssiding#12036</guid>
+    <pubDate>Fri, 25 Sep 2026 13:06:32 -0000</pubDate>
+    <description>Layered wall building: framing, infill, and finish materials for thinner, more realistic walls</description>
+  </item>
+  <item>
+    <title>Chisel it Everywhere</title>
+    <link>https://mods.vintagestory.at/show/mod/11306</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11306#11306</guid>
+    <pubDate>Fri, 25 Sep 2026 13:02:01 -0000</pubDate>
+    <description>Carve chisel decoration onto any block — even the ones the game normally forbids</description>
+  </item>
+  <item>
+    <title>Bricklayers</title>
+    <link>https://mods.vintagestory.at/show/mod/bricklayers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricklayers#117</guid>
+    <pubDate>Fri, 25 Sep 2026 12:56:22 -0000</pubDate>
+    <description>More clay, bricks, porcelain, glazings, colored glass, luminous glass.</description>
+  </item>
+  <item>
+    <title>Blood Trail</title>
+    <link>https://mods.vintagestory.at/show/mod/bloodtrail</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bloodtrail#5069</guid>
+    <pubDate>Fri, 25 Sep 2026 12:31:35 -0000</pubDate>
+    <description>Animals leave blood trails when wounded by a player.</description>
+  </item>
+  <item>
+    <title>Footprints</title>
+    <link>https://mods.vintagestory.at/show/mod/footprints</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/footprints#5625</guid>
+    <pubDate>Fri, 25 Sep 2026 12:31:30 -0000</pubDate>
+    <description>Animals and Players leave footprints when moving.</description>
+  </item>
+  <item>
+    <title>Pack de Traduction Française</title>
+    <link>https://mods.vintagestory.at/show/mod/packfr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/packfr#11805</guid>
+    <pubDate>Fri, 25 Sep 2026 12:20:08 -0000</pubDate>
+    <description>Ce mod ajoute une traduction française pour une sélection de mods communautaires. </description>
+  </item>
+  <item>
+    <title>StormvaldServerMod</title>
+    <link>https://mods.vintagestory.at/show/mod/11142</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11142#11142</guid>
+    <pubDate>Fri, 25 Sep 2026 12:02:51 -0000</pubDate>
+    <description>Servermod</description>
+  </item>
+  <item>
+    <title>W4RD0's Furniture</title>
+    <link>https://mods.vintagestory.at/show/mod/w4rd0sfurniture</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/w4rd0sfurniture#11214</guid>
+    <pubDate>Fri, 25 Sep 2026 12:01:16 -0000</pubDate>
+    <description>A furniture pack adding detailed furniture like tables, chairs, couches, beds, shelves &amp; a lot more.</description>
+  </item>
+  <item>
+    <title>Minimally Invasive Performance Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/miptfc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/miptfc#11962</guid>
+    <pubDate>Fri, 25 Sep 2026 11:35:41 -0000</pubDate>
+    <description>Client-side performance mod that should not break other mods.</description>
+  </item>
+  <item>
+    <title>Vintage Healing</title>
+    <link>https://mods.vintagestory.at/show/mod/vsheal</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsheal#11190</guid>
+    <pubDate>Fri, 25 Sep 2026 11:17:17 -0000</pubDate>
+    <description>Adds antiseptic, slow healing poultices and bandages.</description>
+  </item>
+  <item>
+    <title>Tuna's Cute and Kind Faces</title>
+    <link>https://mods.vintagestory.at/show/mod/11979</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11979#11979</guid>
+    <pubDate>Fri, 25 Sep 2026 10:54:51 -0000</pubDate>
+    <description>Adds new faces to character creation</description>
+  </item>
+  <item>
+    <title>Chinese Compass</title>
+    <link>https://mods.vintagestory.at/show/mod/chinesecompass</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chinesecompass#12022</guid>
+    <pubDate>Fri, 25 Sep 2026 10:08:39 -0000</pubDate>
+    <description>Sinan and a wooden Chinese mariner's compass with a 24-mountain dial</description>
+  </item>
+  <item>
+    <title>ReRebalanced Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/11977</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11977#11977</guid>
+    <pubDate>Fri, 25 Sep 2026 09:40:59 -0000</pubDate>
+    <description>Rebalanced version of AllClasses Rebalanced</description>
+  </item>
+  <item>
+    <title>Schadenfreude</title>
+    <link>https://mods.vintagestory.at/show/mod/schadenfreude</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/schadenfreude#11987</guid>
+    <pubDate>Fri, 25 Sep 2026 08:46:12 -0000</pubDate>
+    <description>If dumb (hilarious) ingame events were a mod, it would be this one. Now with friendslop mode</description>
+  </item>
+  <item>
+    <title>Tuna's Cute and Cozy Clothes</title>
+    <link>https://mods.vintagestory.at/show/mod/11596</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11596#11596</guid>
+    <pubDate>Fri, 25 Sep 2026 08:42:25 -0000</pubDate>
+    <description>Bunch of clothes i like</description>
+  </item>
+  <item>
+    <title>VSCN Server Mod Fix Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
+    <pubDate>Fri, 25 Sep 2026 07:44:52 -0000</pubDate>
+    <description>VSCN Server Mod Fix Mod</description>
+  </item>
   <item>
     <title>Vampirism</title>
     <link>https://mods.vintagestory.at/show/mod/vampirism</link>
@@ -74,146 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10662#10662</guid>
     <pubDate>Fri, 25 Sep 2026 04:59:35 -0000</pubDate>
     <description>Nothing fancy, just server-specific adjustments</description>
-  </item>
-  <item>
-    <title>Order of the Paladins</title>
-    <link>https://mods.vintagestory.at/show/mod/12038</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12038#12038</guid>
-    <pubDate>Fri, 25 Sep 2026 04:58:55 -0000</pubDate>
-    <description>Take the oath and join the paladins. Smite down the creatures of the night with holy power.</description>
-  </item>
-  <item>
-    <title>Featherborn (Bird, Harpy player)</title>
-    <link>https://mods.vintagestory.at/show/mod/featherborn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/featherborn#8019</guid>
-    <pubDate>Fri, 25 Sep 2026 04:54:29 -0000</pubDate>
-    <description>Featherborn is a mod created to allow for a bird/avian/harpy player characters.</description>
-  </item>
-  <item>
-    <title>traduccion de mods a español LA</title>
-    <link>https://mods.vintagestory.at/show/mod/traduccionesdemodsla</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traduccionesdemodsla#11988</guid>
-    <pubDate>Fri, 25 Sep 2026 04:50:05 -0000</pubDate>
-    <description>traduccion de mods a español LA</description>
-  </item>
-  <item>
-    <title>VS Siding Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/vssiding</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vssiding#12036</guid>
-    <pubDate>Fri, 25 Sep 2026 04:38:24 -0000</pubDate>
-    <description>Layered wall building: framing, infill, and finish materials for thinner, more realistic walls</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Fri, 25 Sep 2026 04:33:13 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Nature's Diva</title>
-    <link>https://mods.vintagestory.at/show/mod/11900</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11900#11900</guid>
-    <pubDate>Fri, 25 Sep 2026 04:23:52 -0000</pubDate>
-    <description>A mod that adds different types of horns that can be worn as crowns</description>
-  </item>
-  <item>
-    <title>Aegis - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/aegisclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aegisclient#10240</guid>
-    <pubDate>Fri, 25 Sep 2026 04:00:30 -0000</pubDate>
-    <description>Early client support for an upcoming Vintage Story multiplayer games network.</description>
-  </item>
-  <item>
-    <title>Rift Traveler</title>
-    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
-    <pubDate>Fri, 25 Sep 2026 03:27:32 -0000</pubDate>
-    <description>Explore or close rifts, craft temporal tech, teleport home, and transmit cargo across dimensions</description>
-  </item>
-  <item>
-    <title>Azem's renaming</title>
-    <link>https://mods.vintagestory.at/show/mod/azemrename</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/azemrename#12035</guid>
-    <pubDate>Fri, 25 Sep 2026 03:21:26 -0000</pubDate>
-    <description>rename your gear</description>
-  </item>
-  <item>
-    <title>Tool Handle Variants</title>
-    <link>https://mods.vintagestory.at/show/mod/toolhandlevariants</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/toolhandlevariants#12034</guid>
-    <pubDate>Fri, 25 Sep 2026 03:18:17 -0000</pubDate>
-    <description>Adds Handle Variant Group to Tools. </description>
-  </item>
-  <item>
-    <title>Food Preference Customizer</title>
-    <link>https://mods.vintagestory.at/show/mod/12020</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12020#12020</guid>
-    <pubDate>Fri, 25 Sep 2026 03:12:59 -0000</pubDate>
-    <description>Admin tools for persistent per-player Food Preferences item and food-group overrides.</description>
-  </item>
-  <item>
-    <title>Expedition Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/11991</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11991#11991</guid>
-    <pubDate>Fri, 25 Sep 2026 02:12:20 -0000</pubDate>
-    <description>A 100-slot expedition backpack that carries animals, carcasses and packed containers.</description>
-  </item>
-  <item>
-    <title>Season Remote</title>
-    <link>https://mods.vintagestory.at/show/mod/seasonremote</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seasonremote#11973</guid>
-    <pubDate>Fri, 25 Sep 2026 02:10:31 -0000</pubDate>
-    <description>This mod enables you to pause the changing of the seasons with a simple command.</description>
-  </item>
-  <item>
-    <title>Casablanca Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/11911</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11911#11911</guid>
-    <pubDate>Fri, 25 Sep 2026 01:59:43 -0000</pubDate>
-    <description>For the Casablanca server setup.</description>
-  </item>
-  <item>
-    <title>DWC Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/dwcclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dwcclasses#5708</guid>
-    <pubDate>Fri, 25 Sep 2026 01:56:09 -0000</pubDate>
-    <description>Custom classes for DWC's private server.</description>
-  </item>
-  <item>
-    <title>Duskridge Settlers: Core</title>
-    <link>https://mods.vintagestory.at/show/mod/11672</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11672#11672</guid>
-    <pubDate>Fri, 25 Sep 2026 01:54:46 -0000</pubDate>
-    <description>Build and manage settlements with working NPCs, jobs, zones, storage, combat, and more.</description>
-  </item>
-  <item>
-    <title>Balanced Diet</title>
-    <link>https://mods.vintagestory.at/show/mod/11992</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11992#11992</guid>
-    <pubDate>Fri, 25 Sep 2026 01:53:28 -0000</pubDate>
-    <description>Adds bonus satiety to meals that contain multiple food categories.</description>
-  </item>
-  <item>
-    <title>Early Aviation!!!</title>
-    <link>https://mods.vintagestory.at/show/mod/11859</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11859#11859</guid>
-    <pubDate>Fri, 25 Sep 2026 01:12:18 -0000</pubDate>
-    <description>Planes!!!</description>
-  </item>
-  <item>
-    <title>Ancient Forest Armor Meteoric Steel</title>
-    <link>https://mods.vintagestory.at/show/mod/ancientforestarmormeteoricsteel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancientforestarmormeteoricsteel#12032</guid>
-    <pubDate>Fri, 25 Sep 2026 01:11:49 -0000</pubDate>
-    <description>Customisable Elven Elk inspired armor, </description>
-  </item>
-  <item>
-    <title>Esoterica</title>
-    <link>https://mods.vintagestory.at/show/mod/6087</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6087#6087</guid>
-    <pubDate>Fri, 25 Sep 2026 01:03:56 -0000</pubDate>
-    <description>A sixth history community license mod merging the lore from Cultist Simulator with Vintage Story.</description>
   </item>
 </channel>
 </rss>
