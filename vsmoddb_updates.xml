@@ -4,13 +4,160 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 26 Sep 2026 07:14:01 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 12:46:04 +0000</lastBuildDate>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Sat, 26 Sep 2026 12:35:16 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
+  <item>
+    <title>xSkills Fork Classic Edition</title>
+    <link>https://mods.vintagestory.at/show/mod/11574</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11574#11574</guid>
+    <pubDate>Sat, 26 Sep 2026 12:34:50 -0000</pubDate>
+    <description>Classic RPG-style skill system with abilities, perks, and progression now with old classic menu.</description>
+  </item>
+  <item>
+    <title>xLib Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7618</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7618#7618</guid>
+    <pubDate>Sat, 26 Sep 2026 12:34:12 -0000</pubDate>
+    <description>XLib provides an interface to add skills, abilities and effects to the game.</description>
+  </item>
+  <item>
+    <title>VS RmlUi</title>
+    <link>https://mods.vintagestory.at/show/mod/vsrmlui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsrmlui#11841</guid>
+    <pubDate>Sat, 26 Sep 2026 12:26:35 -0000</pubDate>
+    <description>RmlUi interface framework for Vintage Story mods. Provides RML/RCSS documents and a managed C# API.</description>
+  </item>
+  <item>
+    <title>Limestone from Caves</title>
+    <link>https://mods.vintagestory.at/show/mod/4690</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4690#4690</guid>
+    <pubDate>Sat, 26 Sep 2026 11:53:51 -0000</pubDate>
+    <description>Changes the drops from Stalactites &amp; Stalacmites from their usual stonetype to limestone.</description>
+  </item>
+  <item>
+    <title>Player Model NPCs </title>
+    <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
+    <pubDate>Sat, 26 Sep 2026 10:39:41 -0000</pubDate>
+    <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
+  </item>
+  <item>
+    <title>Sturdy Leather Armor</title>
+    <link>https://mods.vintagestory.at/show/mod/12065</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12065#12065</guid>
+    <pubDate>Sat, 26 Sep 2026 10:30:21 -0000</pubDate>
+    <description>Adds sturdy leather versions of the leather armor and leather jerkin</description>
+  </item>
+  <item>
+    <title>Haunford Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/11926</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11926#11926</guid>
+    <pubDate>Sat, 26 Sep 2026 10:12:40 -0000</pubDate>
+    <description>A collection of patches for Haunfords Private Server</description>
+  </item>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Sat, 26 Sep 2026 10:07:53 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
+  <item>
+    <title>Effectlib examples</title>
+    <link>https://mods.vintagestory.at/show/mod/11717</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11717#11717</guid>
+    <pubDate>Sat, 26 Sep 2026 10:06:40 -0000</pubDate>
+    <description>Three items as examples for what can be done with effectlib</description>
+  </item>
+  <item>
+    <title>Eventide Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Sat, 26 Sep 2026 10:02:02 -0000</pubDate>
+    <description>Claim maps, settlements, and access permissions for the Eventide server.</description>
+  </item>
+  <item>
+    <title>Effectlib</title>
+    <link>https://mods.vintagestory.at/show/mod/effectlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/effectlib#11715</guid>
+    <pubDate>Sat, 26 Sep 2026 10:01:31 -0000</pubDate>
+    <description>A library for player effect handling given by items</description>
+  </item>
+  <item>
+    <title>Gemmage - Resin Tapping &amp; Processing</title>
+    <link>https://mods.vintagestory.at/show/mod/gemmage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gemmage#11780</guid>
+    <pubDate>Sat, 26 Sep 2026 09:42:48 -0000</pubDate>
+    <description>Tap pine and acacia trees for renewable resin, then process it into useful products.</description>
+  </item>
+  <item>
+    <title>FendragonSMP Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/fendragonsmpfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonsmpfork#11554</guid>
+    <pubDate>Sat, 26 Sep 2026 08:43:57 -0000</pubDate>
+    <description>Fork version of FendragonSMP for Fendragon server</description>
+  </item>
+  <item>
+    <title>VSAutoClay</title>
+    <link>https://mods.vintagestory.at/show/mod/vsautoclay</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsautoclay#12055</guid>
+    <pubDate>Sat, 26 Sep 2026 08:16:37 -0000</pubDate>
+    <description>Automatically finish clay forms by holding right-click</description>
+  </item>
+  <item>
+    <title>Signals Link</title>
+    <link>https://mods.vintagestory.at/show/mod/signalslink</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/signalslink#5907</guid>
+    <pubDate>Sat, 26 Sep 2026 08:11:08 -0000</pubDate>
+    <description>Automate your world: chutes, hoses, docks and anchors controlled by signals and paper</description>
+  </item>
+  <item>
+    <title>Cocktail Madness!</title>
+    <link>https://mods.vintagestory.at/show/mod/11680</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11680#11680</guid>
+    <pubDate>Sat, 26 Sep 2026 07:50:28 -0000</pubDate>
+    <description>Allows for the mixing of alcoholic and non alcoholic beverages.</description>
+  </item>
+  <item>
+    <title>Simple Voice Chat</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
+    <pubDate>Sat, 26 Sep 2026 07:34:36 -0000</pubDate>
+    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
+  </item>
   <item>
     <title>modlist alyssa temp</title>
     <link>https://mods.vintagestory.at/show/mod/12063</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12063#12063</guid>
-    <pubDate>Sat, 26 Sep 2026 07:09:24 -0000</pubDate>
+    <pubDate>Sat, 26 Sep 2026 07:26:31 -0000</pubDate>
     <description>list for the server</description>
+  </item>
+  <item>
+    <title>DST - NPC additions</title>
+    <link>https://mods.vintagestory.at/show/mod/dstnpcadditions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dstnpcadditions#11739</guid>
+    <pubDate>Sat, 26 Sep 2026 07:16:13 -0000</pubDate>
+    <description>Additional NPC mobs using the vanilla villager model. </description>
+  </item>
+  <item>
+    <title>VSA - BeamQoL</title>
+    <link>https://mods.vintagestory.at/show/mod/10475</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10475#10475</guid>
+    <pubDate>Sat, 26 Sep 2026 07:15:39 -0000</pubDate>
+    <description>Survival-compatible, symmetric &amp; systematic beam placement, clean snap logic. Updates will follow</description>
+  </item>
+  <item>
+    <title>traduccion de mods a español LA</title>
+    <link>https://mods.vintagestory.at/show/mod/traduccionesdemodsla</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traduccionesdemodsla#11988</guid>
+    <pubDate>Sat, 26 Sep 2026 07:15:22 -0000</pubDate>
+    <description>traduccion de mods a español LA</description>
   </item>
   <item>
     <title>Robo's Frogges whom are called Trogs but still frogs :)</title>
@@ -41,13 +188,6 @@
     <description>Fork 1.22.7 by Nilsson</description>
   </item>
   <item>
-    <title>Eventide Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
-    <pubDate>Sat, 26 Sep 2026 06:47:01 -0000</pubDate>
-    <description>Claim maps, settlements, and access permissions for the Eventide server.</description>
-  </item>
-  <item>
     <title>Sailboat Bed</title>
     <link>https://mods.vintagestory.at/show/mod/sailboatbed</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sailboatbed#11697</guid>
@@ -62,13 +202,6 @@
     <description>Reloads worlds chunks and restores them to the state of seed generation.</description>
   </item>
   <item>
-    <title>Haunford Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/11926</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11926#11926</guid>
-    <pubDate>Sat, 26 Sep 2026 05:50:21 -0000</pubDate>
-    <description>A collection of patches for Haunfords Private Server</description>
-  </item>
-  <item>
     <title>VSCN Server Mod: VSCN Server Mod Fix Mod</title>
     <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
@@ -81,139 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vssiding#12036</guid>
     <pubDate>Sat, 26 Sep 2026 05:42:07 -0000</pubDate>
     <description>Layered wall building: framing, infill, and finish materials for thinner, more realistic walls</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sat, 26 Sep 2026 05:36:15 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Feverstone Wilds</title>
-    <link>https://mods.vintagestory.at/show/mod/feverstonewilds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feverstonewilds#967</guid>
-    <pubDate>Sat, 26 Sep 2026 04:10:50 -0000</pubDate>
-    <description>Feverstone Wilds is a fantasy mod mixed with realism that can help you or challenge you.</description>
-  </item>
-  <item>
-    <title>traduccion de mods a español LA</title>
-    <link>https://mods.vintagestory.at/show/mod/traduccionesdemodsla</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traduccionesdemodsla#11988</guid>
-    <pubDate>Sat, 26 Sep 2026 04:10:15 -0000</pubDate>
-    <description>traduccion de mods a español LA</description>
-  </item>
-  <item>
-    <title>Cocktail Madness!</title>
-    <link>https://mods.vintagestory.at/show/mod/11680</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11680#11680</guid>
-    <pubDate>Sat, 26 Sep 2026 03:36:44 -0000</pubDate>
-    <description>Allows for the mixing of alcoholic and non alcoholic beverages.</description>
-  </item>
-  <item>
-    <title>Alternative feather traits</title>
-    <link>https://mods.vintagestory.at/show/mod/alternativefeathertraits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alternativefeathertraits#12059</guid>
-    <pubDate>Sat, 26 Sep 2026 03:08:44 -0000</pubDate>
-    <description>Adds different traits for the featherborn mod.</description>
-  </item>
-  <item>
-    <title>Newfies Server Essentials Suite</title>
-    <link>https://mods.vintagestory.at/show/mod/11556</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
-    <pubDate>Sat, 26 Sep 2026 03:01:03 -0000</pubDate>
-    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
-  </item>
-  <item>
-    <title>More Lanterns</title>
-    <link>https://mods.vintagestory.at/show/mod/apelanterns</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/apelanterns#2488</guid>
-    <pubDate>Sat, 26 Sep 2026 02:13:58 -0000</pubDate>
-    <description>Adds a variety of decorative and useful lanterns</description>
-  </item>
-  <item>
-    <title>Wrenchable Rooftiles</title>
-    <link>https://mods.vintagestory.at/show/mod/wrenchroof</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wrenchroof#2589</guid>
-    <pubDate>Sat, 26 Sep 2026 02:12:32 -0000</pubDate>
-    <description>Makes every rooftile rotatable with a wrench</description>
-  </item>
-  <item>
-    <title>Pack de Traduction Française</title>
-    <link>https://mods.vintagestory.at/show/mod/packfr</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/packfr#11805</guid>
-    <pubDate>Sat, 26 Sep 2026 01:56:00 -0000</pubDate>
-    <description>Ce mod ajoute une traduction française pour une sélection de mods communautaires. </description>
-  </item>
-  <item>
-    <title>Butterfly Displays</title>
-    <link>https://mods.vintagestory.at/show/mod/butterflydisplays</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butterflydisplays#4484</guid>
-    <pubDate>Sat, 26 Sep 2026 01:48:56 -0000</pubDate>
-    <description>Wall mounted plaques for displaying butterflies</description>
-  </item>
-  <item>
-    <title>Aegis - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/aegisclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aegisclient#10240</guid>
-    <pubDate>Sat, 26 Sep 2026 01:17:58 -0000</pubDate>
-    <description>Early client support for an upcoming Vintage Story multiplayer games network.</description>
-  </item>
-  <item>
-    <title>Server Health</title>
-    <link>https://mods.vintagestory.at/show/mod/12056</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12056#12056</guid>
-    <pubDate>Sat, 26 Sep 2026 00:24:57 -0000</pubDate>
-    <description>A server diagnostics flight recorder: stalls, crashes, exceptions, and a crash-safe black box.</description>
-  </item>
-  <item>
-    <title>More Beams</title>
-    <link>https://mods.vintagestory.at/show/mod/morebeams</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebeams#3289</guid>
-    <pubDate>Sat, 26 Sep 2026 00:23:21 -0000</pubDate>
-    <description>Create beams of various sizes and decorations.</description>
-  </item>
-  <item>
-    <title>Elk Adornments</title>
-    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
-    <pubDate>Sat, 26 Sep 2026 00:10:43 -0000</pubDate>
-    <description>Masks for you and your elk with Modular Elk Armor!</description>
-  </item>
-  <item>
-    <title>Compost Bin</title>
-    <link>https://mods.vintagestory.at/show/mod/7503</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7503#7503</guid>
-    <pubDate>Sat, 26 Sep 2026 00:05:50 -0000</pubDate>
-    <description>Compost bin (modded barrel with 8 slots), accepts perishables and dry plant matter.</description>
-  </item>
-  <item>
-    <title>Newfies MOTD Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/5102</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5102#5102</guid>
-    <pubDate>Fri, 25 Sep 2026 23:30:50 -0000</pubDate>
-    <description>The BEST server Message of the day mod!</description>
-  </item>
-  <item>
-    <title>Light Overhaul</title>
-    <link>https://mods.vintagestory.at/show/mod/lightoverhaul</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lightoverhaul#12052</guid>
-    <pubDate>Fri, 25 Sep 2026 23:17:07 -0000</pubDate>
-    <description>Personal modpack</description>
-  </item>
-  <item>
-    <title>Ancient Forest Armor</title>
-    <link>https://mods.vintagestory.at/show/mod/ancientforestarmor</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancientforestarmor#11702</guid>
-    <pubDate>Fri, 25 Sep 2026 22:52:19 -0000</pubDate>
-    <description>Customisable Elven Elk inspired armor, Comes in steel and iron variants</description>
-  </item>
-  <item>
-    <title>Ancient Forest Armor Uranium Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/ancientforestarmoruranium</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancientforestarmoruranium#11976</guid>
-    <pubDate>Fri, 25 Sep 2026 22:51:55 -0000</pubDate>
-    <description>Expansion to Ancient Forest Armor to add a Uranium Steel variant with glow in the dark trim</description>
   </item>
 </channel>
 </rss>
