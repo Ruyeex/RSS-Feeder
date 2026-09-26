@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 25 Sep 2026 22:03:36 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 01:16:15 +0000</lastBuildDate>
+  <item>
+    <title>Server Health</title>
+    <link>https://mods.vintagestory.at/show/mod/12056</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12056#12056</guid>
+    <pubDate>Sat, 26 Sep 2026 00:24:57 -0000</pubDate>
+    <description>A server diagnostics flight recorder: stalls, crashes, exceptions, and a crash-safe black box.</description>
+  </item>
+  <item>
+    <title>More Beams</title>
+    <link>https://mods.vintagestory.at/show/mod/morebeams</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebeams#3289</guid>
+    <pubDate>Sat, 26 Sep 2026 00:23:21 -0000</pubDate>
+    <description>Create beams of various sizes and decorations.</description>
+  </item>
+  <item>
+    <title>Elk Adornments</title>
+    <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
+    <pubDate>Sat, 26 Sep 2026 00:10:43 -0000</pubDate>
+    <description>Masks for you and your elk with Modular Elk Armor!</description>
+  </item>
+  <item>
+    <title>Compost Bin</title>
+    <link>https://mods.vintagestory.at/show/mod/7503</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7503#7503</guid>
+    <pubDate>Sat, 26 Sep 2026 00:05:50 -0000</pubDate>
+    <description>Compost bin (modded barrel with 8 slots), accepts perishables and dry plant matter.</description>
+  </item>
+  <item>
+    <title>Newfies Server Essentials Suite</title>
+    <link>https://mods.vintagestory.at/show/mod/11556</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
+    <pubDate>Fri, 25 Sep 2026 23:35:16 -0000</pubDate>
+    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
+  </item>
+  <item>
+    <title>Newfies MOTD Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/5102</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5102#5102</guid>
+    <pubDate>Fri, 25 Sep 2026 23:30:50 -0000</pubDate>
+    <description>The BEST server Message of the day mod!</description>
+  </item>
+  <item>
+    <title>Light Overhaul</title>
+    <link>https://mods.vintagestory.at/show/mod/lightoverhaul</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lightoverhaul#12052</guid>
+    <pubDate>Fri, 25 Sep 2026 23:17:07 -0000</pubDate>
+    <description>Personal modpack</description>
+  </item>
+  <item>
+    <title>Ancient Forest Armor</title>
+    <link>https://mods.vintagestory.at/show/mod/ancientforestarmor</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancientforestarmor#11702</guid>
+    <pubDate>Fri, 25 Sep 2026 22:52:19 -0000</pubDate>
+    <description>Customisable Elven Elk inspired armor, Comes in steel and iron variants</description>
+  </item>
+  <item>
+    <title>Ancient Forest Armor Uranium Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/ancientforestarmoruranium</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancientforestarmoruranium#11976</guid>
+    <pubDate>Fri, 25 Sep 2026 22:51:55 -0000</pubDate>
+    <description>Expansion to Ancient Forest Armor to add a Uranium Steel variant with glow in the dark trim</description>
+  </item>
+  <item>
+    <title>Realistic Berry Bush Grafting</title>
+    <link>https://mods.vintagestory.at/show/mod/realisticberrybushgrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticberrybushgrafting#12054</guid>
+    <pubDate>Fri, 25 Sep 2026 22:45:29 -0000</pubDate>
+    <description>  Allows you to combine the traits of berry bush graftings in a somewhat realistic fashion.</description>
+  </item>
+  <item>
+    <title>Fast Travel NPC</title>
+    <link>https://mods.vintagestory.at/show/mod/fasttravelnpc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fasttravelnpc#9686</guid>
+    <pubDate>Fri, 25 Sep 2026 22:44:26 -0000</pubDate>
+    <description>Allows players to fast travel in the world by paying rusty gears.</description>
+  </item>
+  <item>
+    <title>Server Chunk Backup</title>
+    <link>https://mods.vintagestory.at/show/mod/12053</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12053#12053</guid>
+    <pubDate>Fri, 25 Sep 2026 22:33:22 -0000</pubDate>
+    <description>Save you explored chunks as a local save file for offline experiments or build backup.</description>
+  </item>
   <item>
     <title>traduccion de mods a español LA</title>
     <link>https://mods.vintagestory.at/show/mod/traduccionesdemodsla</link>
@@ -32,20 +116,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11888#11888</guid>
     <pubDate>Fri, 25 Sep 2026 20:44:36 -0000</pubDate>
     <description> Zippy's Re-seeding Reeds Updated / propagating the reed plant</description>
-  </item>
-  <item>
-    <title>Ancient Forest Armor Uranium Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/ancientforestarmoruranium</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancientforestarmoruranium#11976</guid>
-    <pubDate>Fri, 25 Sep 2026 20:41:10 -0000</pubDate>
-    <description>Expansion to Ancient Forest Armor to add a Uranium Steel variant with glow in the dark trim</description>
-  </item>
-  <item>
-    <title>Ancient Forest Armor</title>
-    <link>https://mods.vintagestory.at/show/mod/ancientforestarmor</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancientforestarmor#11702</guid>
-    <pubDate>Fri, 25 Sep 2026 20:41:05 -0000</pubDate>
-    <description>Customisable Elven Elk inspired armor, Comes in steel and iron variants</description>
   </item>
   <item>
     <title>Eventide Claims</title>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11165#11165</guid>
     <pubDate>Fri, 25 Sep 2026 17:29:39 -0000</pubDate>
     <description>ADD some stuff, items, cloths for an server</description>
-  </item>
-  <item>
-    <title>VSCN Server Mod: VSCN Server Mod Fix Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
-    <pubDate>Fri, 25 Sep 2026 16:42:43 -0000</pubDate>
-    <description>VSCN Server Mod Fix Mod</description>
-  </item>
-  <item>
-    <title>Moonlit fantasy pack</title>
-    <link>https://mods.vintagestory.at/show/mod/6273</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6273#6273</guid>
-    <pubDate>Fri, 25 Sep 2026 16:40:30 -0000</pubDate>
-    <description>A weapon and armour pack for the moonlit fantasy server</description>
-  </item>
-  <item>
-    <title>Moonlit magic</title>
-    <link>https://mods.vintagestory.at/show/mod/moonlitmagic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmagic#11891</guid>
-    <pubDate>Fri, 25 Sep 2026 16:39:39 -0000</pubDate>
-    <description>Biome based magic system</description>
-  </item>
-  <item>
-    <title>Kingdoms and Clans Base Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/kingandclanbase</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kingandclanbase#11001</guid>
-    <pubDate>Fri, 25 Sep 2026 16:14:34 -0000</pubDate>
-    <description>Mod for whitelisted server Kingdoms and Clans</description>
-  </item>
-  <item>
-    <title>VS RmlUi</title>
-    <link>https://mods.vintagestory.at/show/mod/vsrmlui</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsrmlui#11841</guid>
-    <pubDate>Fri, 25 Sep 2026 15:45:11 -0000</pubDate>
-    <description>RmlUi interface framework for Vintage Story mods. Provides RML/RCSS documents and a managed C# API.</description>
-  </item>
-  <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Fri, 25 Sep 2026 15:44:10 -0000</pubDate>
-    <description>The factory must grow!</description>
-  </item>
-  <item>
-    <title>Better Husbandry</title>
-    <link>https://mods.vintagestory.at/show/mod/betterhusbandry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterhusbandry#11009</guid>
-    <pubDate>Fri, 25 Sep 2026 15:14:30 -0000</pubDate>
-    <description>Changes animal husbandry by rewarding players for petting and feeding their animals.</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Fri, 25 Sep 2026 15:05:48 -0000</pubDate>
-    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
-  </item>
-  <item>
-    <title>Featherborn (Bird, Harpy player)</title>
-    <link>https://mods.vintagestory.at/show/mod/featherborn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/featherborn#8019</guid>
-    <pubDate>Fri, 25 Sep 2026 14:47:05 -0000</pubDate>
-    <description>Featherborn is a mod created to allow for a bird/avian/harpy player characters.</description>
-  </item>
-  <item>
-    <title>Elk Drowning Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/12037</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12037#12037</guid>
-    <pubDate>Fri, 25 Sep 2026 14:32:30 -0000</pubDate>
-    <description>Fixes an issue with Elk easily drowning themselves.</description>
   </item>
 </channel>
 </rss>
