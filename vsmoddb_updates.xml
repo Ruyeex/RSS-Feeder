@@ -4,7 +4,203 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 27 Sep 2026 01:09:48 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 07:46:01 +0000</lastBuildDate>
+  <item>
+    <title>Meadows Server Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/11855</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11855#11855</guid>
+    <pubDate>Sun, 27 Sep 2026 07:37:26 -0000</pubDate>
+    <description>Tweaks for a server</description>
+  </item>
+  <item>
+    <title>VS RmlUi</title>
+    <link>https://mods.vintagestory.at/show/mod/vsrmlui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsrmlui#11841</guid>
+    <pubDate>Sun, 27 Sep 2026 07:30:26 -0000</pubDate>
+    <description>RmlUi interface framework for Vintage Story mods. Provides RML/RCSS documents and a managed C# API.</description>
+  </item>
+  <item>
+    <title>VSCN Server Mod: VSCN Server Mod Fix Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
+    <pubDate>Sun, 27 Sep 2026 07:28:49 -0000</pubDate>
+    <description>VSCN Server Mod Fix Mod</description>
+  </item>
+  <item>
+    <title>Visible Ores And Minerals</title>
+    <link>https://mods.vintagestory.at/show/mod/visibleoresandminerals</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/visibleoresandminerals#8616</guid>
+    <pubDate>Sun, 27 Sep 2026 07:26:08 -0000</pubDate>
+    <description>Makes ore and mineral deposits more visible and appealing with richness and type variants.</description>
+  </item>
+  <item>
+    <title>TheKingdoms: Draconic Races</title>
+    <link>https://mods.vintagestory.at/show/mod/thekingdomsdraconicraces</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thekingdomsdraconicraces#12086</guid>
+    <pubDate>Sun, 27 Sep 2026 07:21:16 -0000</pubDate>
+    <description>A dragon race mod for TheKindomsVS</description>
+  </item>
+  <item>
+    <title>Cooking with Cauldrons</title>
+    <link>https://mods.vintagestory.at/show/mod/12087</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12087#12087</guid>
+    <pubDate>Sun, 27 Sep 2026 07:19:37 -0000</pubDate>
+    <description>Addon mod for culinary artillery that allows you to cook in cauldrons</description>
+  </item>
+  <item>
+    <title>Effectlib</title>
+    <link>https://mods.vintagestory.at/show/mod/effectlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/effectlib#11715</guid>
+    <pubDate>Sun, 27 Sep 2026 07:19:36 -0000</pubDate>
+    <description>A library for player effect handling given by items</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Sun, 27 Sep 2026 07:14:37 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>BetterChinese</title>
+    <link>https://mods.vintagestory.at/show/mod/betterchinese</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterchinese#2568</guid>
+    <pubDate>Sun, 27 Sep 2026 07:07:03 -0000</pubDate>
+    <description>更好的汉化</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Sun, 27 Sep 2026 06:31:11 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Sun, 27 Sep 2026 06:20:59 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
+  <item>
+    <title>Simple Water Tweaks VSR patch</title>
+    <link>https://mods.vintagestory.at/show/mod/swtvsr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swtvsr#9211</guid>
+    <pubDate>Sun, 27 Sep 2026 06:10:00 -0000</pubDate>
+    <description>Adds compatibility between Simple Water Tweaks and various shader mods</description>
+  </item>
+  <item>
+    <title>Simple water tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/simplewatertweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplewatertweaks#9126</guid>
+    <pubDate>Sun, 27 Sep 2026 06:09:15 -0000</pubDate>
+    <description>This mod modifies the game's water by adding an alternative wave effect and a more vibrant color </description>
+  </item>
+  <item>
+    <title>KCs Dragon Gliding!</title>
+    <link>https://mods.vintagestory.at/show/mod/kcsdragongliding</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragongliding#9849</guid>
+    <pubDate>Sun, 27 Sep 2026 05:47:54 -0000</pubDate>
+    <description>Adds just the gliding trait to the winged species of Draicor!</description>
+  </item>
+  <item>
+    <title>KCs Dragon Traits!</title>
+    <link>https://mods.vintagestory.at/show/mod/kcsdragontraits</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragontraits#8335</guid>
+    <pubDate>Sun, 27 Sep 2026 05:47:06 -0000</pubDate>
+    <description>Give the Draicor PlayerModels traits!</description>
+  </item>
+  <item>
+    <title>KCs Dragon Player!</title>
+    <link>https://mods.vintagestory.at/show/mod/kcsdragons</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragons#8146</guid>
+    <pubDate>Sun, 27 Sep 2026 05:44:56 -0000</pubDate>
+    <description>Adds an anthropomorphic dragon player model to the game</description>
+  </item>
+  <item>
+    <title>Ambient Symphony</title>
+    <link>https://mods.vintagestory.at/show/mod/ambientsymphony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ambientsymphony#9921</guid>
+    <pubDate>Sun, 27 Sep 2026 05:20:14 -0000</pubDate>
+    <description>Give the silence a voice: rich, optimized cave + forest + biome ambience. Client-side, no server nee</description>
+  </item>
+  <item>
+    <title>Aegis - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/aegisclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aegisclient#10240</guid>
+    <pubDate>Sun, 27 Sep 2026 05:11:28 -0000</pubDate>
+    <description>Early client support for an upcoming Vintage Story multiplayer games network.</description>
+  </item>
+  <item>
+    <title>Professions</title>
+    <link>https://mods.vintagestory.at/show/mod/professions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/professions#11198</guid>
+    <pubDate>Sun, 27 Sep 2026 04:20:07 -0000</pubDate>
+    <description>Pick a trade and master it. Eleven professions with deep talent trees, earned by doing the work —</description>
+  </item>
+  <item>
+    <title>Expanded Foods: Core 2.0.0-dev.15</title>
+    <link>https://mods.vintagestory.at/show/mod/expandedfoods</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/expandedfoods#16</guid>
+    <pubDate>Sun, 27 Sep 2026 04:14:53 -0000</pubDate>
+    <description>Adds a variety of new uses for existing foods.</description>
+  </item>
+  <item>
+    <title>Expanded Foods: Chef's Tricks 1.0.0-dev.5</title>
+    <link>https://mods.vintagestory.at/show/mod/efchefstricks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/efchefstricks#9585</guid>
+    <pubDate>Sun, 27 Sep 2026 04:14:46 -0000</pubDate>
+    <description>Put your leftovers to good use!</description>
+  </item>
+  <item>
+    <title>A Culinary Artillery 2.0.0-dev.25</title>
+    <link>https://mods.vintagestory.at/show/mod/aculinaryartillery</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aculinaryartillery#843</guid>
+    <pubDate>Sun, 27 Sep 2026 04:14:30 -0000</pubDate>
+    <description>Adds an arsenal of tools to enhance the culinary experience.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Sun, 27 Sep 2026 02:45:40 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
+  </item>
+  <item>
+    <title>Vigor</title>
+    <link>https://mods.vintagestory.at/show/mod/vigor</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vigor#4425</guid>
+    <pubDate>Sun, 27 Sep 2026 02:35:19 -0000</pubDate>
+    <description>Adds a Stamina system to Vintage Story</description>
+  </item>
+  <item>
+    <title>Waypoint Compass</title>
+    <link>https://mods.vintagestory.at/show/mod/waypointcompass</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waypointcompass#12079</guid>
+    <pubDate>Sun, 27 Sep 2026 01:51:27 -0000</pubDate>
+    <description>Copper, bronze or steel compass watch: HUD compass with cardinals, waypoints and players.</description>
+  </item>
+  <item>
+    <title>Craftsmanship</title>
+    <link>https://mods.vintagestory.at/show/mod/11590</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11590#11590</guid>
+    <pubDate>Sun, 27 Sep 2026 01:42:23 -0000</pubDate>
+    <description>Over 1,000 new items, creatures and weapons added</description>
+  </item>
+  <item>
+    <title>Yeet! Reborn</title>
+    <link>https://mods.vintagestory.at/show/mod/yeetreborn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yeetreborn#11435</guid>
+    <pubDate>Sun, 27 Sep 2026 01:30:34 -0000</pubDate>
+    <description>Press a key (default: Y) to toss your selected item over the horizon! Ctrl+Y throws the whole stack.</description>
+  </item>
+  <item>
+    <title>Silly Aluminum</title>
+    <link>https://mods.vintagestory.at/show/mod/sillyaluminum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sillyaluminum#9576</guid>
+    <pubDate>Sun, 27 Sep 2026 01:16:19 -0000</pubDate>
+    <description>Adds aluminum and aluminum bronze. It is crafted from a (maybe probably maybe) historic process.</description>
+  </item>
   <item>
     <title>modlist alyssa temp</title>
     <link>https://mods.vintagestory.at/show/mod/12063</link>
@@ -18,202 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12084#12084</guid>
     <pubDate>Sun, 27 Sep 2026 00:32:28 -0000</pubDate>
     <description>Fork by Nilsson  1.22.7</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Sun, 27 Sep 2026 00:30:48 -0000</pubDate>
-    <description>Gives tamed animals personalities, backpacks, duties, talents, breeding, and expeditions.</description>
-  </item>
-  <item>
-    <title>ExtendedHUDInfoREBUILT</title>
-    <link>https://mods.vintagestory.at/show/mod/herospoompls</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/herospoompls#11480</guid>
-    <pubDate>Sun, 27 Sep 2026 00:26:52 -0000</pubDate>
-    <description>It's exactly what it sounds like. </description>
-  </item>
-  <item>
-    <title>quarry vintage</title>
-    <link>https://mods.vintagestory.at/show/mod/quarry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/quarry#7458</guid>
-    <pubDate>Sun, 27 Sep 2026 00:16:13 -0000</pubDate>
-    <description>Automatic quarry: runs on coal or windmill power and keeps chunks loaded while mining.</description>
-  </item>
-  <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Sun, 27 Sep 2026 00:05:19 -0000</pubDate>
-    <description>The factory must grow!</description>
-  </item>
-  <item>
-    <title>Newfies Server Essentials Suite</title>
-    <link>https://mods.vintagestory.at/show/mod/11556</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
-    <pubDate>Sat, 26 Sep 2026 23:55:58 -0000</pubDate>
-    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
-  </item>
-  <item>
-    <title>Newfie's Anti-Cheat Client</title>
-    <link>https://mods.vintagestory.at/show/mod/11551</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11551#11551</guid>
-    <pubDate>Sat, 26 Sep 2026 23:54:11 -0000</pubDate>
-    <description>Newfie’s Integrity Monitor</description>
-  </item>
-  <item>
-    <title>Drinkable Interaction Ordering Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/8711</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8711#8711</guid>
-    <pubDate>Sat, 26 Sep 2026 23:44:12 -0000</pubDate>
-    <description>Terrible and dirty hack to allow you to feed alcohol to locomotives.</description>
-  </item>
-  <item>
-    <title>K's Cartography Table - Unofficial Performance Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/12060</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12060#12060</guid>
-    <pubDate>Sat, 26 Sep 2026 23:37:07 -0000</pubDate>
-    <description>Unofficial fix for severe server lag during cartography table map transfers.</description>
-  </item>
-  <item>
-    <title>Boat Tags</title>
-    <link>https://mods.vintagestory.at/show/mod/boattags</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/boattags#5703</guid>
-    <pubDate>Sat, 26 Sep 2026 23:32:17 -0000</pubDate>
-    <description>Put a tag on your boat, to track it's position in the world</description>
-  </item>
-  <item>
-    <title>Gourmand</title>
-    <link>https://mods.vintagestory.at/show/mod/2471</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/2471#2471</guid>
-    <pubDate>Sat, 26 Sep 2026 23:24:24 -0000</pubDate>
-    <description>Health buff for eating a greater variety of foods</description>
-  </item>
-  <item>
-    <title>Seraph Leveling ReClassed</title>
-    <link>https://mods.vintagestory.at/show/mod/11234</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11234#11234</guid>
-    <pubDate>Sat, 26 Sep 2026 23:22:30 -0000</pubDate>
-    <description>Level up and gain traits in a vanilla-friendly way, with additional mod support</description>
-  </item>
-  <item>
-    <title>ServerGuard</title>
-    <link>https://mods.vintagestory.at/show/mod/serverguard</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/serverguard#11731</guid>
-    <pubDate>Sat, 26 Sep 2026 23:13:17 -0000</pubDate>
-    <description>Server-side anticheat with ore n' inventory concealment, entity hiding, and ore and creature decoys.</description>
-  </item>
-  <item>
-    <title> Hardcore Water Forked Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/12083</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12083#12083</guid>
-    <pubDate>Sat, 26 Sep 2026 22:04:21 -0000</pubDate>
-    <description>Fork of hardcorewaterforked with fixes</description>
-  </item>
-  <item>
-    <title>Humans and Barbershop Plus Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/12082</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12082#12082</guid>
-    <pubDate>Sat, 26 Sep 2026 22:03:04 -0000</pubDate>
-    <description>Allows Barbershop Plus' hair growth/ styling mechanics to apply to human characters from Humans.</description>
-  </item>
-  <item>
-    <title>Player Roster</title>
-    <link>https://mods.vintagestory.at/show/mod/playerroster</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playerroster#12080</guid>
-    <pubDate>Sat, 26 Sep 2026 22:00:21 -0000</pubDate>
-    <description>Hold Tab to see who's online: role, health, food, distance, AFK, ping, date and season.</description>
-  </item>
-  <item>
-    <title>Specialized Classes Fruiting Bag Placement</title>
-    <link>https://mods.vintagestory.at/show/mod/12017</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12017#12017</guid>
-    <pubDate>Sat, 26 Sep 2026 21:43:10 -0000</pubDate>
-    <description>Makes fruiting Bags from SC placable as blocks and harvestable as such as well.</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Sat, 26 Sep 2026 21:38:18 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>Dragons of Land and Sea Fixes &amp; Naming</title>
-    <link>https://mods.vintagestory.at/show/mod/dragonsoflandandseafixes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dragonsoflandandseafixes#12078</guid>
-    <pubDate>Sat, 26 Sep 2026 21:38:07 -0000</pubDate>
-    <description>Fixes some issues with the Dragons of Land and Sea mod</description>
-  </item>
-  <item>
-    <title>Dense Ground Storage Fixes</title>
-    <link>https://mods.vintagestory.at/show/mod/12075</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12075#12075</guid>
-    <pubDate>Sat, 26 Sep 2026 21:35:47 -0000</pubDate>
-    <description>Fixes an issue with an empty bowl and DSG and adds info about stored items in HUD</description>
-  </item>
-  <item>
-    <title>Pota Locks</title>
-    <link>https://mods.vintagestory.at/show/mod/potalocks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/potalocks#12074</guid>
-    <pubDate>Sat, 26 Sep 2026 21:31:27 -0000</pubDate>
-    <description>A superb mod for an specific french roleplay server</description>
-  </item>
-  <item>
-    <title>Prospector's Instinct</title>
-    <link>https://mods.vintagestory.at/show/mod/prospectorsinstinct</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/prospectorsinstinct#10192</guid>
-    <pubDate>Sat, 26 Sep 2026 21:29:25 -0000</pubDate>
-    <description>Subtle particle guidance that helps locate nearby ore while preserving the spirit of prospecting.</description>
-  </item>
-  <item>
-    <title>Portcullis, Drawbridges and stuff</title>
-    <link>https://mods.vintagestory.at/show/mod/portcullis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/portcullis#7736</guid>
-    <pubDate>Sat, 26 Sep 2026 21:24:10 -0000</pubDate>
-    <description>Adds Portcullis, Drawbridges, Brazier and a working lever to add some RP to your builds. </description>
-  </item>
-  <item>
-    <title>Smol Furniture</title>
-    <link>https://mods.vintagestory.at/show/mod/smolfurniture</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smolfurniture#10958</guid>
-    <pubDate>Sat, 26 Sep 2026 21:20:20 -0000</pubDate>
-    <description>FOR THE SMOL</description>
-  </item>
-  <item>
-    <title>Leanable Surfaces</title>
-    <link>https://mods.vintagestory.at/show/mod/leanable</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leanable#12077</guid>
-    <pubDate>Sat, 26 Sep 2026 21:17:21 -0000</pubDate>
-    <description>Lean tongs, hammers and other small tools against forges, anvils, chests and tables.</description>
-  </item>
-  <item>
-    <title>Robo's Frogges whom are diet Trogs (Traitless)</title>
-    <link>https://mods.vintagestory.at/show/mod/robostraitlessfrogges</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/robostraitlessfrogges#12073</guid>
-    <pubDate>Sat, 26 Sep 2026 21:10:05 -0000</pubDate>
-    <description>Adds in anthropomorphic frog folk named trogs! Without the traits for a more vanilla experience!</description>
-  </item>
-  <item>
-    <title>Aegis - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/aegisclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aegisclient#10240</guid>
-    <pubDate>Sat, 26 Sep 2026 20:32:39 -0000</pubDate>
-    <description>Early client support for an upcoming Vintage Story multiplayer games network.</description>
-  </item>
-  <item>
-    <title>FendragonSMC</title>
-    <link>https://mods.vintagestory.at/show/mod/fendragonsmc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonsmc#7648</guid>
-    <pubDate>Sat, 26 Sep 2026 20:28:46 -0000</pubDate>
-    <description>FendragonSMC - mod is part of the Fendragon mod ecosystem and is developed exclusively for server</description>
-  </item>
-  <item>
-    <title>Signals Link</title>
-    <link>https://mods.vintagestory.at/show/mod/signalslink</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/signalslink#5907</guid>
-    <pubDate>Sat, 26 Sep 2026 20:19:28 -0000</pubDate>
-    <description>Automate your world: chutes, hoses, docks and anchors controlled by signals and paper</description>
   </item>
 </channel>
 </rss>
