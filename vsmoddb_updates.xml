@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 27 Sep 2026 07:46:01 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 13:38:10 +0000</lastBuildDate>
+  <item>
+    <title>Dense Ground Storage Fixes</title>
+    <link>https://mods.vintagestory.at/show/mod/12075</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12075#12075</guid>
+    <pubDate>Sun, 27 Sep 2026 13:36:15 -0000</pubDate>
+    <description>Fixes an issue with an empty bowl and DSG and adds info about stored items in HUD</description>
+  </item>
+  <item>
+    <title>Tuna's Slick and Stylish Hairs</title>
+    <link>https://mods.vintagestory.at/show/mod/12090</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12090#12090</guid>
+    <pubDate>Sun, 27 Sep 2026 13:03:23 -0000</pubDate>
+    <description>&lt;(0_0&lt;) &lt;(0_0)&gt; (&gt;0_0)&gt;</description>
+  </item>
+  <item>
+    <title>Tuna's Cute and Cozy Clothes</title>
+    <link>https://mods.vintagestory.at/show/mod/11596</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11596#11596</guid>
+    <pubDate>Sun, 27 Sep 2026 12:55:55 -0000</pubDate>
+    <description>(does NOT contain anime)</description>
+  </item>
+  <item>
+    <title>Muppers Arcana</title>
+    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
+    <pubDate>Sun, 27 Sep 2026 12:32:27 -0000</pubDate>
+    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
+  </item>
+  <item>
+    <title>Metal Cooking Pots</title>
+    <link>https://mods.vintagestory.at/show/mod/metalpots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metalpots#3912</guid>
+    <pubDate>Sun, 27 Sep 2026 11:50:28 -0000</pubDate>
+    <description>Adds Cooking Pots made from metal with greater serving size</description>
+  </item>
+  <item>
+    <title>FF_Server_Mods</title>
+    <link>https://mods.vintagestory.at/show/mod/6030</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6030#6030</guid>
+    <pubDate>Sun, 27 Sep 2026 11:41:54 -0000</pubDate>
+    <description>some changes for our "[FF] Farms &amp; Forges" server</description>
+  </item>
+  <item>
+    <title>Eventide Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Sun, 27 Sep 2026 11:28:26 -0000</pubDate>
+    <description>Claim maps, settlements, and access permissions for the Eventide server.</description>
+  </item>
+  <item>
+    <title>Taxidermy</title>
+    <link>https://mods.vintagestory.at/show/mod/taxidermy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taxidermy#11946</guid>
+    <pubDate>Sun, 27 Sep 2026 11:25:30 -0000</pubDate>
+    <description>Mount the animals you hunt - the whole animal in a pose of your choosing, or the head on the wall.</description>
+  </item>
+  <item>
+    <title>FendragonPlayerTimeReward</title>
+    <link>https://mods.vintagestory.at/show/mod/fendragonptr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fendragonptr#6623</guid>
+    <pubDate>Sun, 27 Sep 2026 09:48:34 -0000</pubDate>
+    <description>Tracks real online time per player and gives rewards at configured minute</description>
+  </item>
+  <item>
+    <title>Falling blocks spawn manager</title>
+    <link>https://mods.vintagestory.at/show/mod/fallingspawnmanager</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fallingspawnmanager#7777</guid>
+    <pubDate>Sun, 27 Sep 2026 08:44:56 -0000</pubDate>
+    <description>Limits the number of blocks falling at the same time.</description>
+  </item>
+  <item>
+    <title>Signals Link</title>
+    <link>https://mods.vintagestory.at/show/mod/signalslink</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/signalslink#5907</guid>
+    <pubDate>Sun, 27 Sep 2026 08:38:41 -0000</pubDate>
+    <description>Automate your world: chutes, hoses, docks and anchors controlled by signals and paper</description>
+  </item>
   <item>
     <title>Meadows Server Additions</title>
     <link>https://mods.vintagestory.at/show/mod/11855</link>
@@ -67,13 +144,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterchinese#2568</guid>
     <pubDate>Sun, 27 Sep 2026 07:07:03 -0000</pubDate>
     <description>更好的汉化</description>
-  </item>
-  <item>
-    <title>Muppers Arcana</title>
-    <link>https://mods.vintagestory.at/show/mod/muppersarcana</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/muppersarcana#11095</guid>
-    <pubDate>Sun, 27 Sep 2026 06:31:11 -0000</pubDate>
-    <description>A book-learned magic mod: find spellbooks in ruins and from traders and learn powers.</description>
   </item>
   <item>
     <title>topgsmod</title>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/expandedfoods#16</guid>
     <pubDate>Sun, 27 Sep 2026 04:14:53 -0000</pubDate>
     <description>Adds a variety of new uses for existing foods.</description>
-  </item>
-  <item>
-    <title>Expanded Foods: Chef's Tricks 1.0.0-dev.5</title>
-    <link>https://mods.vintagestory.at/show/mod/efchefstricks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/efchefstricks#9585</guid>
-    <pubDate>Sun, 27 Sep 2026 04:14:46 -0000</pubDate>
-    <description>Put your leftovers to good use!</description>
-  </item>
-  <item>
-    <title>A Culinary Artillery 2.0.0-dev.25</title>
-    <link>https://mods.vintagestory.at/show/mod/aculinaryartillery</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aculinaryartillery#843</guid>
-    <pubDate>Sun, 27 Sep 2026 04:14:30 -0000</pubDate>
-    <description>Adds an arsenal of tools to enhance the culinary experience.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Sun, 27 Sep 2026 02:45:40 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
-  </item>
-  <item>
-    <title>Vigor</title>
-    <link>https://mods.vintagestory.at/show/mod/vigor</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vigor#4425</guid>
-    <pubDate>Sun, 27 Sep 2026 02:35:19 -0000</pubDate>
-    <description>Adds a Stamina system to Vintage Story</description>
-  </item>
-  <item>
-    <title>Waypoint Compass</title>
-    <link>https://mods.vintagestory.at/show/mod/waypointcompass</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waypointcompass#12079</guid>
-    <pubDate>Sun, 27 Sep 2026 01:51:27 -0000</pubDate>
-    <description>Copper, bronze or steel compass watch: HUD compass with cardinals, waypoints and players.</description>
-  </item>
-  <item>
-    <title>Craftsmanship</title>
-    <link>https://mods.vintagestory.at/show/mod/11590</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11590#11590</guid>
-    <pubDate>Sun, 27 Sep 2026 01:42:23 -0000</pubDate>
-    <description>Over 1,000 new items, creatures and weapons added</description>
-  </item>
-  <item>
-    <title>Yeet! Reborn</title>
-    <link>https://mods.vintagestory.at/show/mod/yeetreborn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yeetreborn#11435</guid>
-    <pubDate>Sun, 27 Sep 2026 01:30:34 -0000</pubDate>
-    <description>Press a key (default: Y) to toss your selected item over the horizon! Ctrl+Y throws the whole stack.</description>
-  </item>
-  <item>
-    <title>Silly Aluminum</title>
-    <link>https://mods.vintagestory.at/show/mod/sillyaluminum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sillyaluminum#9576</guid>
-    <pubDate>Sun, 27 Sep 2026 01:16:19 -0000</pubDate>
-    <description>Adds aluminum and aluminum bronze. It is crafted from a (maybe probably maybe) historic process.</description>
-  </item>
-  <item>
-    <title>modlist alyssa temp</title>
-    <link>https://mods.vintagestory.at/show/mod/12063</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12063#12063</guid>
-    <pubDate>Sun, 27 Sep 2026 00:41:01 -0000</pubDate>
-    <description>list for the server</description>
-  </item>
-  <item>
-    <title>Advanced Backpack  Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/12084</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12084#12084</guid>
-    <pubDate>Sun, 27 Sep 2026 00:32:28 -0000</pubDate>
-    <description>Fork by Nilsson  1.22.7</description>
   </item>
 </channel>
 </rss>
