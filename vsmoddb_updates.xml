@@ -4,216 +4,216 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 28 Sep 2026 15:04:49 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 21:39:57 +0000</lastBuildDate>
   <item>
-    <title>FF_Server_Mods</title>
-    <link>https://mods.vintagestory.at/show/mod/6030</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6030#6030</guid>
-    <pubDate>Mon, 28 Sep 2026 14:56:25 -0000</pubDate>
-    <description>some changes for our "[FF] Farms &amp; Forges" server</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Viverridae Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/viverridae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/viverridae#3334</guid>
-    <pubDate>Mon, 28 Sep 2026 14:48:45 -0000</pubDate>
-    <description>A collection of civets, genets and oyans from the Holocene.</description>
-  </item>
-  <item>
-    <title>Balanced Diet</title>
-    <link>https://mods.vintagestory.at/show/mod/11992</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11992#11992</guid>
-    <pubDate>Mon, 28 Sep 2026 14:47:29 -0000</pubDate>
-    <description>Adds bonus satiety to meals that contain multiple food categories.</description>
-  </item>
-  <item>
-    <title>My Race My Rules</title>
-    <link>https://mods.vintagestory.at/show/mod/myracemyrules</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/myracemyrules#11504</guid>
-    <pubDate>Mon, 28 Sep 2026 14:42:10 -0000</pubDate>
-    <description>Customize settings and traits on races added by other mods.</description>
-  </item>
-  <item>
-    <title>Dragons of Land and Sea Fixes</title>
-    <link>https://mods.vintagestory.at/show/mod/dragonsoflandandseafixes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dragonsoflandandseafixes#12078</guid>
-    <pubDate>Mon, 28 Sep 2026 14:11:34 -0000</pubDate>
-    <description>Fixes some issues with the Dragons of Land and Sea mod &amp; adds optional naming ability</description>
-  </item>
-  <item>
-    <title>Chart</title>
-    <link>https://mods.vintagestory.at/show/mod/chart</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chart#9071</guid>
-    <pubDate>Mon, 28 Sep 2026 14:02:26 -0000</pubDate>
-    <description>Per-dimension world map companion for Manifold. Client-side, alpha.</description>
+    <title>Shared Utilities</title>
+    <link>https://mods.vintagestory.at/show/mod/sharedutilities</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sharedutilities#12132</guid>
+    <pubDate>Mon, 28 Sep 2026 21:32:01 -0000</pubDate>
+    <description>Shared systems used by Lucio's mods. Install when another mod requires it.</description>
   </item>
   <item>
     <title>Vintage Przygoda: Korony</title>
     <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
-    <pubDate>Mon, 28 Sep 2026 13:57:59 -0000</pubDate>
+    <pubDate>Mon, 28 Sep 2026 21:26:56 -0000</pubDate>
     <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
   </item>
   <item>
-    <title>Manifold Sample</title>
-    <link>https://mods.vintagestory.at/show/mod/manifoldsample</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/manifoldsample#8920</guid>
-    <pubDate>Mon, 28 Sep 2026 13:27:01 -0000</pubDate>
-    <description>Demo mod for the Manifold dimension API: void and flat dimensions with travel commands.</description>
+    <title>Algernon's Terrain Sampler Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/algernonsterrainsampler</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/algernonsterrainsampler#7799</guid>
+    <pubDate>Mon, 28 Sep 2026 21:22:54 -0000</pubDate>
+    <description>Library that lets you quickly see what terrain looks like anywhere in the world</description>
   </item>
   <item>
-    <title>Manifold</title>
-    <link>https://mods.vintagestory.at/show/mod/manifold</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/manifold#8919</guid>
-    <pubDate>Mon, 28 Sep 2026 13:26:26 -0000</pubDate>
-    <description>API library for creating and managing custom dimensions in Vintage Story.</description>
+    <title>Genealogy</title>
+    <link>https://mods.vintagestory.at/show/mod/11774</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11774#11774</guid>
+    <pubDate>Mon, 28 Sep 2026 21:07:36 -0000</pubDate>
+    <description>Livestock with real inherited traits!</description>
   </item>
   <item>
-    <title>RunicMagic</title>
-    <link>https://mods.vintagestory.at/show/mod/11486</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11486#11486</guid>
-    <pubDate>Mon, 28 Sep 2026 13:17:25 -0000</pubDate>
-    <description>Discover a world specific runic language, research its words, and write your own spells.</description>
+    <title>Wilderlands Cave Systems</title>
+    <link>https://mods.vintagestory.at/show/mod/5356</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5356#5356</guid>
+    <pubDate>Mon, 28 Sep 2026 20:05:56 -0000</pubDate>
+    <description>Fundamentally overhauls cave generation, while keeping vanilla caves at configurable rates.</description>
   </item>
   <item>
-    <title>VS Terrain Diffusion</title>
-    <link>https://mods.vintagestory.at/show/mod/vsterraindiffusion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsterraindiffusion#10918</guid>
-    <pubDate>Mon, 28 Sep 2026 12:10:45 -0000</pubDate>
-    <description>Generate terrain and climates with a model trained on real Earth topography</description>
+    <title>Stone Roads</title>
+    <link>https://mods.vintagestory.at/show/mod/12029</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12029#12029</guid>
+    <pubDate>Mon, 28 Sep 2026 19:59:31 -0000</pubDate>
+    <description>Adds better quality customizable roads for faster transport.</description>
+  </item>
+  <item>
+    <title>Rustbound Magic Companion server tweak</title>
+    <link>https://mods.vintagestory.at/show/mod/12126</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12126#12126</guid>
+    <pubDate>Mon, 28 Sep 2026 19:29:57 -0000</pubDate>
+    <description>Tweaks some things for compatibility</description>
+  </item>
+  <item>
+    <title>Serverfixes for Miraserver</title>
+    <link>https://mods.vintagestory.at/show/mod/12127</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12127#12127</guid>
+    <pubDate>Mon, 28 Sep 2026 19:29:38 -0000</pubDate>
+    <description>My personal server fixes for small issues and errors</description>
+  </item>
+  <item>
+    <title>FF_Server_Mods</title>
+    <link>https://mods.vintagestory.at/show/mod/6030</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6030#6030</guid>
+    <pubDate>Mon, 28 Sep 2026 19:17:47 -0000</pubDate>
+    <description>some changes for our "[FF] Farms &amp; Forges" server</description>
+  </item>
+  <item>
+    <title>ParrySparks</title>
+    <link>https://mods.vintagestory.at/show/mod/12129</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12129#12129</guid>
+    <pubDate>Mon, 28 Sep 2026 19:17:14 -0000</pubDate>
+    <description>Makes parries in Combat Overhaul produce sparks, same ones as hitting the bell</description>
+  </item>
+  <item>
+    <title>C&amp;N Trader</title>
+    <link>https://mods.vintagestory.at/show/mod/cantrader</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cantrader#669</guid>
+    <pubDate>Mon, 28 Sep 2026 19:09:02 -0000</pubDate>
+    <description>Custom trader for server</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Mon, 28 Sep 2026 19:05:09 -0000</pubDate>
+    <description>The factory must grow!</description>
   </item>
   <item>
     <title>Signals Link</title>
     <link>https://mods.vintagestory.at/show/mod/signalslink</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/signalslink#5907</guid>
-    <pubDate>Mon, 28 Sep 2026 10:56:30 -0000</pubDate>
+    <pubDate>Mon, 28 Sep 2026 18:36:54 -0000</pubDate>
     <description>Automate your world: chutes, hoses, docks and anchors controlled by signals and paper</description>
   </item>
   <item>
-    <title>SafeHome</title>
-    <link>https://mods.vintagestory.at/show/mod/vssafehome</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vssafehome#12111</guid>
-    <pubDate>Mon, 28 Sep 2026 10:50:44 -0000</pubDate>
-    <description>Larger rooms, light-based spawn protection, and a spawn overlay with colorblind support.</description>
+    <title>RunicMagic</title>
+    <link>https://mods.vintagestory.at/show/mod/11486</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11486#11486</guid>
+    <pubDate>Mon, 28 Sep 2026 18:23:41 -0000</pubDate>
+    <description>Discover a world specific runic language, research its words, and write your own spells.</description>
   </item>
   <item>
-    <title>Vintage Healing</title>
-    <link>https://mods.vintagestory.at/show/mod/vsheal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsheal#11190</guid>
-    <pubDate>Mon, 28 Sep 2026 10:38:53 -0000</pubDate>
-    <description>Adds antiseptic, slow healing poultices and bandages.</description>
+    <title>Field and Foal Miraserver tweak</title>
+    <link>https://mods.vintagestory.at/show/mod/12128</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12128#12128</guid>
+    <pubDate>Mon, 28 Sep 2026 18:22:30 -0000</pubDate>
+    <description>tweak for some animal and farming stuff</description>
   </item>
   <item>
-    <title>Borderless Window Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/borderlesswindowfix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/borderlesswindowfix#12112</guid>
-    <pubDate>Mon, 28 Sep 2026 10:21:03 -0000</pubDate>
-    <description>Adds a true borderless fullscreen mode for Windows.</description>
+    <title>Charter -Custom MP MiraServer</title>
+    <link>https://mods.vintagestory.at/show/mod/12125</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12125#12125</guid>
+    <pubDate>Mon, 28 Sep 2026 18:17:01 -0000</pubDate>
+    <description>Custom Mod to handle server stuff</description>
   </item>
   <item>
-    <title>C&amp;N Jewelry</title>
-    <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
-    <pubDate>Mon, 28 Sep 2026 10:17:56 -0000</pubDate>
-    <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
+    <title>ServerGuard</title>
+    <link>https://mods.vintagestory.at/show/mod/serverguard</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/serverguard#11731</guid>
+    <pubDate>Mon, 28 Sep 2026 18:16:11 -0000</pubDate>
+    <description>Server-side anticheat with ore n' inventory concealment, entity hiding, and ore and creature decoys.</description>
   </item>
   <item>
-    <title>Prettyoric Iron</title>
-    <link>https://mods.vintagestory.at/show/mod/12110</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12110#12110</guid>
-    <pubDate>Mon, 28 Sep 2026 09:28:32 -0000</pubDate>
-    <description>makes meteoric iron pretty ☆*✦*(ﾉ◕▿◕)ﾉ*✦*☆</description>
+    <title>Cutwork -MiraServer</title>
+    <link>https://mods.vintagestory.at/show/mod/12123</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12123#12123</guid>
+    <pubDate>Mon, 28 Sep 2026 18:15:33 -0000</pubDate>
+    <description>Custom mod for personal server</description>
   </item>
   <item>
-    <title>Hearth &amp; Draught [Public Beta]</title>
-    <link>https://mods.vintagestory.at/show/mod/hearthanddraught</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hearthanddraught#11803</guid>
-    <pubDate>Mon, 28 Sep 2026 08:33:36 -0000</pubDate>
-    <description>Windows, chimneys, log burners and open fires, with room heating and ventilation.</description>
+    <title>Mastery custom server mod</title>
+    <link>https://mods.vintagestory.at/show/mod/12122</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12122#12122</guid>
+    <pubDate>Mon, 28 Sep 2026 18:14:32 -0000</pubDate>
+    <description>Custom mod for progression</description>
   </item>
   <item>
-    <title>VS Roofing Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/vsroofing</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsroofing#5036</guid>
-    <pubDate>Mon, 28 Sep 2026 08:00:01 -0000</pubDate>
-    <description>Gridless roof building system with vanilla style roofs, glass houses and more!</description>
+    <title>Rain Curtains &amp; Rainbows</title>
+    <link>https://mods.vintagestory.at/show/mod/11941</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11941#11941</guid>
+    <pubDate>Mon, 28 Sep 2026 18:08:36 -0000</pubDate>
+    <description>Adds distant rain curtains under precipitating storms and physics-driven rainbows</description>
   </item>
   <item>
-    <title>Animalica Core</title>
-    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
-    <pubDate>Mon, 28 Sep 2026 07:56:52 -0000</pubDate>
-    <description>Shared traits, diets, sizing, actions, and first-person support for Animalica player models.</description>
+    <title>Wood Stain ARL MiraServer Tweak</title>
+    <link>https://mods.vintagestory.at/show/mod/12117</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12117#12117</guid>
+    <pubDate>Mon, 28 Sep 2026 17:50:05 -0000</pubDate>
+    <description>Tweak that makes the mod wood stain work with ARL</description>
   </item>
   <item>
-    <title>Order of the Paladins</title>
-    <link>https://mods.vintagestory.at/show/mod/12038</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12038#12038</guid>
-    <pubDate>Mon, 28 Sep 2026 07:15:47 -0000</pubDate>
-    <description>Take the oath and join the paladins. Smite down the creatures of the night with holy power.</description>
+    <title>VS RmlUi</title>
+    <link>https://mods.vintagestory.at/show/mod/vsrmlui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsrmlui#11841</guid>
+    <pubDate>Mon, 28 Sep 2026 17:45:59 -0000</pubDate>
+    <description>RmlUi interface framework for Vintage Story mods. Provides RML/RCSS documents and a managed C# API.</description>
   </item>
   <item>
-    <title>Vampirism without cannibalism fork</title>
-    <link>https://mods.vintagestory.at/show/mod/12024</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12024#12024</guid>
-    <pubDate>Mon, 28 Sep 2026 07:12:32 -0000</pubDate>
-    <description>port of vampirism to remove cannibalism as a dependency.</description>
+    <title>TinkerTailor Immersive Backpacks Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/ttbib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ttbib#12118</guid>
+    <pubDate>Mon, 28 Sep 2026 17:44:00 -0000</pubDate>
+    <description>Temporary unofficial patch for TinkerTailor pouches and ImmersiveBackpacks side slots</description>
   </item>
   <item>
-    <title>Vampirism</title>
-    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
-    <pubDate>Mon, 28 Sep 2026 07:11:32 -0000</pubDate>
-    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
+    <title>Radial Crafting: MiraServerEdit</title>
+    <link>https://mods.vintagestory.at/show/mod/12116</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12116#12116</guid>
+    <pubDate>Mon, 28 Sep 2026 17:36:05 -0000</pubDate>
+    <description>Edit of Radial Crafting to tweak some things for personal server use</description>
   </item>
   <item>
-    <title>Advanced Geology</title>
-    <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedgeology#7167</guid>
-    <pubDate>Mon, 28 Sep 2026 06:56:21 -0000</pubDate>
-    <description>Total overhaul of vanilla oregen and adds many new rocks and minerals</description>
+    <title>BetterForest MiraServerTweak</title>
+    <link>https://mods.vintagestory.at/show/mod/12115</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12115#12115</guid>
+    <pubDate>Mon, 28 Sep 2026 17:34:51 -0000</pubDate>
+    <description>Tweak of the Better Forests mod</description>
   </item>
   <item>
-    <title>Walkable Entities</title>
-    <link>https://mods.vintagestory.at/show/mod/walkableentities</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkableentities#11704</guid>
-    <pubDate>Mon, 28 Sep 2026 06:49:20 -0000</pubDate>
-    <description>For now: walkable sailboats, ships and trains; a framework to make your modded entities walkable</description>
+    <title>Only Worse</title>
+    <link>https://mods.vintagestory.at/show/mod/onlyworse</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/onlyworse#11984</guid>
+    <pubDate>Mon, 28 Sep 2026 17:27:56 -0000</pubDate>
+    <description>A dedicated mod for the Only Worse server. New POI , blocks, items and more</description>
   </item>
   <item>
-    <title>Biomes</title>
-    <link>https://mods.vintagestory.at/show/mod/biomes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/biomes#1654</guid>
-    <pubDate>Mon, 28 Sep 2026 06:39:34 -0000</pubDate>
-    <description>All biomes/bioregions in one world</description>
+    <title>Mastery Library</title>
+    <link>https://mods.vintagestory.at/show/mod/masterylib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/masterylib#12095</guid>
+    <pubDate>Mon, 28 Sep 2026 17:19:24 -0000</pubDate>
+    <description>Library for Titan Quest style skill system</description>
   </item>
   <item>
-    <title>VSA - Atmos lite</title>
-    <link>https://mods.vintagestory.at/show/mod/12016</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12016#12016</guid>
-    <pubDate>Mon, 28 Sep 2026 06:35:35 -0000</pubDate>
-    <description>Modifies the weather and storms</description>
+    <title>Moonlit fantasy pack</title>
+    <link>https://mods.vintagestory.at/show/mod/6273</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6273#6273</guid>
+    <pubDate>Mon, 28 Sep 2026 17:18:19 -0000</pubDate>
+    <description>A weapon and armour pack for the moonlit fantasy server</description>
   </item>
   <item>
-    <title>VSA_API</title>
-    <link>https://mods.vintagestory.at/show/mod/9139</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9139#9139</guid>
-    <pubDate>Mon, 28 Sep 2026 06:34:58 -0000</pubDate>
-    <description>VSA API</description>
+    <title>Bespurr's Class Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/3629</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3629#3629</guid>
+    <pubDate>Mon, 28 Sep 2026 17:03:04 -0000</pubDate>
+    <description>A small tweak to adjust some class negatives.</description>
   </item>
   <item>
-    <title>qol crafts continued</title>
-    <link>https://mods.vintagestory.at/show/mod/12109</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12109#12109</guid>
-    <pubDate>Mon, 28 Sep 2026 06:34:14 -0000</pubDate>
-    <description>A continuation of qolcrafts</description>
-  </item>
-  <item>
-    <title>VSA - Hydrosphere Lite</title>
-    <link>https://mods.vintagestory.at/show/mod/12014</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12014#12014</guid>
-    <pubDate>Mon, 28 Sep 2026 06:28:54 -0000</pubDate>
-    <description>Adds waves, wave collisions, foam, etc...</description>
+    <title>C&amp;N Economy</title>
+    <link>https://mods.vintagestory.at/show/mod/caneconomy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caneconomy#2080</guid>
+    <pubDate>Mon, 28 Sep 2026 16:53:03 -0000</pubDate>
+    <description>Functionality for players money accounts</description>
   </item>
 </channel>
 </rss>
