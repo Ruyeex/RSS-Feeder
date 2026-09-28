@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 27 Sep 2026 21:53:50 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 00:22:56 +0000</lastBuildDate>
+  <item>
+    <title>Wootsteel</title>
+    <link>https://mods.vintagestory.at/show/mod/8933</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8933#8933</guid>
+    <pubDate>Sun, 27 Sep 2026 23:46:58 -0000</pubDate>
+    <description>Rediscovering forgotten metallurgy techniques </description>
+  </item>
+  <item>
+    <title>Glazed Fancy Pots</title>
+    <link>https://mods.vintagestory.at/show/mod/glazedpots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glazedpots#7000</guid>
+    <pubDate>Sun, 27 Sep 2026 23:43:57 -0000</pubDate>
+    <description>Glaze your own fancy vessels, planters, and flowerpots!</description>
+  </item>
+  <item>
+    <title>Russification For Mods</title>
+    <link>https://mods.vintagestory.at/show/mod/5312</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5312#5312</guid>
+    <pubDate>Sun, 27 Sep 2026 23:22:54 -0000</pubDate>
+    <description>Russian Translation Pack — a collection of Russian localizations for various Vintage Story mods.</description>
+  </item>
+  <item>
+    <title>Volumetric cloud studio</title>
+    <link>https://mods.vintagestory.at/show/mod/vcloudstudio</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vcloudstudio#12100</guid>
+    <pubDate>Sun, 27 Sep 2026 23:11:14 -0000</pubDate>
+    <description>Configurable volumetric clouds &amp; cloud lightning </description>
+  </item>
+  <item>
+    <title>Rift Traveler</title>
+    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
+    <pubDate>Sun, 27 Sep 2026 22:36:01 -0000</pubDate>
+    <description>Explore or close rifts, craft temporal tech, teleport home, and transmit cargo across dimensions</description>
+  </item>
+  <item>
+    <title>Vintage Przygoda: Korony</title>
+    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
+    <pubDate>Sun, 27 Sep 2026 22:22:18 -0000</pubDate>
+    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
+  </item>
+  <item>
+    <title>DST - NPC additions</title>
+    <link>https://mods.vintagestory.at/show/mod/dstnpcadditions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dstnpcadditions#11739</guid>
+    <pubDate>Sun, 27 Sep 2026 22:20:42 -0000</pubDate>
+    <description>Additional NPC mobs using the vanilla villager model. </description>
+  </item>
   <item>
     <title>Richtraders</title>
     <link>https://mods.vintagestory.at/show/mod/richtraders</link>
@@ -18,13 +67,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkableentities#11704</guid>
     <pubDate>Sun, 27 Sep 2026 21:33:10 -0000</pubDate>
     <description>For now: walkable sailboats, ships and trains; a framework to make your modded entities walkable</description>
-  </item>
-  <item>
-    <title>Vintage Przygoda: Korony</title>
-    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
-    <pubDate>Sun, 27 Sep 2026 21:24:37 -0000</pubDate>
-    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
   </item>
   <item>
     <title>BNI Essentials</title>
@@ -69,18 +111,11 @@
     <description>Adds better quality customizable roads for faster transport.</description>
   </item>
   <item>
-    <title>DST - NPC additions</title>
-    <link>https://mods.vintagestory.at/show/mod/dstnpcadditions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dstnpcadditions#11739</guid>
-    <pubDate>Sun, 27 Sep 2026 20:27:07 -0000</pubDate>
-    <description>Additional NPC mobs using the vanilla villager model. </description>
-  </item>
-  <item>
     <title>Komet - Performance Mod</title>
     <link>https://mods.vintagestory.at/show/mod/komet</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/komet#11423</guid>
     <pubDate>Sun, 27 Sep 2026 20:24:24 -0000</pubDate>
-    <description>Komet is a performance mod, which optimizes Vintage Story!</description>
+    <description>Komet is an awesome performance mod!</description>
   </item>
   <item>
     <title>VSCN Server Mod: VSCN Server Mod Fix Mod</title>
@@ -179,41 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traduccionesdemodsla#11988</guid>
     <pubDate>Sun, 27 Sep 2026 18:39:17 -0000</pubDate>
     <description>traduccion de mods a español LA</description>
-  </item>
-  <item>
-    <title>OldMans Enhanced Edition</title>
-    <link>https://mods.vintagestory.at/show/mod/oldmansenhancededition</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oldmansenhancededition#5339</guid>
-    <pubDate>Sun, 27 Sep 2026 18:13:29 -0000</pubDate>
-    <description>(WIP) Custom curated way of experiencing VS</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Chests</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalschests</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalschests#8152</guid>
-    <pubDate>Sun, 27 Sep 2026 18:03:29 -0000</pubDate>
-    <description>These chests were created for the [UA] Eternal Seraph server</description>
-  </item>
-  <item>
-    <title>RiftLauncher - Independent launcher software.</title>
-    <link>https://mods.vintagestory.at/show/mod/riftlauncher</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftlauncher#11016</guid>
-    <pubDate>Sun, 27 Sep 2026 17:57:57 -0000</pubDate>
-    <description>Focused on multiple versions and installations, safe backups and, mod browsing built in.</description>
-  </item>
-  <item>
-    <title>UniversalChat</title>
-    <link>https://mods.vintagestory.at/show/mod/11401</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11401#11401</guid>
-    <pubDate>Sun, 27 Sep 2026 17:53:46 -0000</pubDate>
-    <description>Adds a native Universal chat tab that mirrors General and translates each message locally.</description>
-  </item>
-  <item>
-    <title>Resin Regrow Remade</title>
-    <link>https://mods.vintagestory.at/show/mod/1256</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/1256#1256</guid>
-    <pubDate>Sun, 27 Sep 2026 17:51:59 -0000</pubDate>
-    <description>Remake of Resin Regrow for 1.18.5+</description>
   </item>
 </channel>
 </rss>
