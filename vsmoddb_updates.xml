@@ -4,216 +4,216 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 29 Sep 2026 15:28:32 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 20:30:55 +0000</lastBuildDate>
+  <item>
+    <title>Advanced Geology</title>
+    <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedgeology#7167</guid>
+    <pubDate>Tue, 29 Sep 2026 20:29:35 -0000</pubDate>
+    <description>Total overhaul of vanilla oregen and adds many new rocks and minerals</description>
+  </item>
+  <item>
+    <title>Haunford Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/11926</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11926#11926</guid>
+    <pubDate>Tue, 29 Sep 2026 20:27:58 -0000</pubDate>
+    <description>A collection of patches for Haunfords Private Server</description>
+  </item>
+  <item>
+    <title>Casablanca Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/11911</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11911#11911</guid>
+    <pubDate>Tue, 29 Sep 2026 20:22:19 -0000</pubDate>
+    <description>For the Casablanca server setup.</description>
+  </item>
   <item>
     <title>Fauna of the Stone Age: Chelonioidea</title>
     <link>https://mods.vintagestory.at/show/mod/chelonioidea</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chelonioidea#4054</guid>
-    <pubDate>Tue, 29 Sep 2026 15:27:40 -0000</pubDate>
+    <pubDate>Tue, 29 Sep 2026 20:12:31 -0000</pubDate>
     <description>A collection of sea turtles from the Holocene.</description>
   </item>
   <item>
-    <title>Falling blocks spawn manager</title>
-    <link>https://mods.vintagestory.at/show/mod/fallingspawnmanager</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fallingspawnmanager#7777</guid>
-    <pubDate>Tue, 29 Sep 2026 15:24:48 -0000</pubDate>
-    <description>Limits the number of blocks falling at the same time.</description>
+    <title>Just The Pepper</title>
+    <link>https://mods.vintagestory.at/show/mod/justthepepper</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justthepepper#4347</guid>
+    <pubDate>Tue, 29 Sep 2026 20:08:55 -0000</pubDate>
+    <description>Adds the ability to grow vanilla bell peppers</description>
   </item>
   <item>
-    <title>Pulse</title>
-    <link>https://mods.vintagestory.at/show/mod/pulse</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pulse#11475</guid>
-    <pubDate>Tue, 29 Sep 2026 15:17:03 -0000</pubDate>
-    <description>Your server's vital signs on a Prometheus endpoint. Grafana-ready, panel-friendly, OTLP optional.</description>
+    <title>Optimum - High-performance client software.</title>
+    <link>https://mods.vintagestory.at/show/mod/optimum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
+    <pubDate>Tue, 29 Sep 2026 20:07:52 -0000</pubDate>
+    <description>A patched client runtime for smoother Vintage Story frames.</description>
   </item>
   <item>
-    <title>Polaris</title>
-    <link>https://mods.vintagestory.at/show/mod/polaris</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/polaris#12136</guid>
-    <pubDate>Tue, 29 Sep 2026 14:56:41 -0000</pubDate>
-    <description>Removes classes and adds leveling and a passive screen.</description>
+    <title>World Atlas</title>
+    <link>https://mods.vintagestory.at/show/mod/12159</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12159#12159</guid>
+    <pubDate>Tue, 29 Sep 2026 20:00:59 -0000</pubDate>
+    <description>Quietly shares explored terrain map data between players on the same server.</description>
   </item>
   <item>
-    <title>NuttyLib</title>
-    <link>https://mods.vintagestory.at/show/mod/nuttylib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nuttylib#3131</guid>
-    <pubDate>Tue, 29 Sep 2026 14:55:49 -0000</pubDate>
-    <description>Library mod for rendering and guis.</description>
+    <title>Earthfed - More Fertilizers</title>
+    <link>https://mods.vintagestory.at/show/mod/earthfed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/earthfed#9238</guid>
+    <pubDate>Tue, 29 Sep 2026 19:53:01 -0000</pubDate>
+    <description>Realistic fertilizers made from feathers, seaweed, fish, and blood</description>
   </item>
   <item>
-    <title>Seasoned Firewood (Redux)</title>
-    <link>https://mods.vintagestory.at/show/mod/seasonedfirewoodredux</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seasonedfirewoodredux#8029</guid>
-    <pubDate>Tue, 29 Sep 2026 14:45:05 -0000</pubDate>
-    <description>A faithful continuation of the original mod by Fearadach.</description>
+    <title>Yang's Transport Tycoon</title>
+    <link>https://mods.vintagestory.at/show/mod/yangtransport</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yangtransport#6871</guid>
+    <pubDate>Tue, 29 Sep 2026 19:45:58 -0000</pubDate>
+    <description>Construct and operate industrial transport machinery.</description>
   </item>
   <item>
-    <title>Charter Settlers addon Miraserver tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/12151</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12151#12151</guid>
-    <pubDate>Tue, 29 Sep 2026 14:25:13 -0000</pubDate>
-    <description>adds stuff for the Charter Tweak mod</description>
+    <title>Echoes of the Lens: Starfall Guardians</title>
+    <link>https://mods.vintagestory.at/show/mod/12158</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12158#12158</guid>
+    <pubDate>Tue, 29 Sep 2026 19:25:16 -0000</pubDate>
+    <description>Mod for another Fantasy style plate armors</description>
   </item>
   <item>
-    <title>Mastery custom server mod</title>
-    <link>https://mods.vintagestory.at/show/mod/12122</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12122#12122</guid>
-    <pubDate>Tue, 29 Sep 2026 14:23:48 -0000</pubDate>
-    <description>Custom mod for progression</description>
+    <title>Immersive Heat</title>
+    <link>https://mods.vintagestory.at/show/mod/iheat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/iheat#10640</guid>
+    <pubDate>Tue, 29 Sep 2026 19:24:49 -0000</pubDate>
+    <description>Heat sources melt snow and ice around them, and have a dynamic heating radius.</description>
   </item>
   <item>
-    <title>Charter -Custom MP MiraServer</title>
-    <link>https://mods.vintagestory.at/show/mod/12125</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12125#12125</guid>
-    <pubDate>Tue, 29 Sep 2026 14:23:11 -0000</pubDate>
-    <description>Custom Mod to handle server stuff</description>
-  </item>
-  <item>
-    <title>Serverfixes for Miraserver</title>
-    <link>https://mods.vintagestory.at/show/mod/12127</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12127#12127</guid>
-    <pubDate>Tue, 29 Sep 2026 14:22:31 -0000</pubDate>
-    <description>My personal server fixes for small issues and errors</description>
-  </item>
-  <item>
-    <title>Field and Foal Miraserver tweak</title>
-    <link>https://mods.vintagestory.at/show/mod/12128</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12128#12128</guid>
-    <pubDate>Tue, 29 Sep 2026 14:22:12 -0000</pubDate>
-    <description>tweak for some animal and farming stuff</description>
-  </item>
-  <item>
-    <title>Valyrian Steel</title>
-    <link>https://mods.vintagestory.at/show/mod/valyriansteel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/valyriansteel#11727</guid>
-    <pubDate>Tue, 29 Sep 2026 13:43:29 -0000</pubDate>
-    <description>Adds new type of metal, better than steel, difficult to obtain. Based on Game of Thrones.</description>
-  </item>
-  <item>
-    <title>Mastery Library</title>
-    <link>https://mods.vintagestory.at/show/mod/masterylib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/masterylib#12095</guid>
-    <pubDate>Tue, 29 Sep 2026 13:24:51 -0000</pubDate>
-    <description>Library for Titan Quest style skill system</description>
-  </item>
-  <item>
-    <title>Destaria Masteries</title>
-    <link>https://mods.vintagestory.at/show/mod/destariamasteries</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/destariamasteries#12096</guid>
-    <pubDate>Tue, 29 Sep 2026 13:24:19 -0000</pubDate>
-    <description>Skills for the Destaria Server</description>
+    <title>Rust Drops</title>
+    <link>https://mods.vintagestory.at/show/mod/rustdrops</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustdrops#4101</guid>
+    <pubDate>Tue, 29 Sep 2026 19:17:32 -0000</pubDate>
+    <description>Rust/temporal corpses auto-drop loot and decay quickly (modded drops compatible)</description>
   </item>
   <item>
     <title>Vintage Przygoda: Korony</title>
     <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
-    <pubDate>Tue, 29 Sep 2026 12:49:10 -0000</pubDate>
+    <pubDate>Tue, 29 Sep 2026 19:06:54 -0000</pubDate>
     <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
   </item>
   <item>
-    <title>Tool Handle Variants</title>
-    <link>https://mods.vintagestory.at/show/mod/toolhandlevariants</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/toolhandlevariants#12034</guid>
-    <pubDate>Tue, 29 Sep 2026 12:43:30 -0000</pubDate>
-    <description>Adds Handle Variant Group to Tools. </description>
+    <title>MP Time Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/12157</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12157#12157</guid>
+    <pubDate>Tue, 29 Sep 2026 18:58:29 -0000</pubDate>
+    <description>Slows days and seasons when few players are online, and keeps absent players' food from rotting.</description>
   </item>
   <item>
-    <title>SmithingPlusPlus</title>
-    <link>https://mods.vintagestory.at/show/mod/smithingplusplus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smithingplusplus#11771</guid>
-    <pubDate>Tue, 29 Sep 2026 12:22:40 -0000</pubDate>
-    <description>Smithing Plus fork with extensive bug and performance fixes.</description>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Tue, 29 Sep 2026 18:44:56 -0000</pubDate>
+    <description>The factory must grow!</description>
   </item>
   <item>
-    <title>Easy Chisel Mode</title>
-    <link>https://mods.vintagestory.at/show/mod/6055</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6055#6055</guid>
-    <pubDate>Tue, 29 Sep 2026 12:02:08 -0000</pubDate>
-    <description>Press keys to switch chisel modes easily</description>
+    <title>TaborServers</title>
+    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
+    <pubDate>Tue, 29 Sep 2026 18:42:47 -0000</pubDate>
+    <description>Patches fo most of Tabor servers</description>
   </item>
   <item>
-    <title>UniversalChat</title>
-    <link>https://mods.vintagestory.at/show/mod/11401</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11401#11401</guid>
-    <pubDate>Tue, 29 Sep 2026 11:52:26 -0000</pubDate>
-    <description>Adds a native Universal chat tab that mirrors General and translates each message locally.</description>
+    <title>Draconis</title>
+    <link>https://mods.vintagestory.at/show/mod/draconis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/draconis#4543</guid>
+    <pubDate>Tue, 29 Sep 2026 18:41:09 -0000</pubDate>
+    <description>This mod adds 4 rideable dragons that the player can hatch and raise from eggs found in the wild</description>
   </item>
   <item>
-    <title>More Buckets</title>
-    <link>https://mods.vintagestory.at/show/mod/morebuckets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebuckets#11536</guid>
-    <pubDate>Tue, 29 Sep 2026 11:42:38 -0000</pubDate>
-    <description>Leave those exhausting trips to the spring behind and let the new buckets and tanks do the hard work</description>
+    <title>Forgotten Armory: Chinese Dynasties</title>
+    <link>https://mods.vintagestory.at/show/mod/5062</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5062#5062</guid>
+    <pubDate>Tue, 29 Sep 2026 18:35:21 -0000</pubDate>
+    <description>Mod adding multiple iron+ Scale armor variations in the style of Chinese Dynasties</description>
   </item>
   <item>
-    <title>VSCN Civilization Simulation</title>
-    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
-    <pubDate>Tue, 29 Sep 2026 11:37:21 -0000</pubDate>
-    <description>VSCN Civilization Simulation</description>
+    <title>C&amp;N Trader</title>
+    <link>https://mods.vintagestory.at/show/mod/cantrader</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cantrader#669</guid>
+    <pubDate>Tue, 29 Sep 2026 18:22:22 -0000</pubDate>
+    <description>Custom trader for server</description>
   </item>
   <item>
-    <title>No Bells</title>
-    <link>https://mods.vintagestory.at/show/mod/12148</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12148#12148</guid>
-    <pubDate>Tue, 29 Sep 2026 11:32:44 -0000</pubDate>
-    <description>Removes Bells.</description>
+    <title>Thermal HUD</title>
+    <link>https://mods.vintagestory.at/show/mod/thermalhud</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thermalhud#12150</guid>
+    <pubDate>Tue, 29 Sep 2026 18:12:42 -0000</pubDate>
+    <description>Shows temperature, sun position and drift activity level, and various secondary information.</description>
   </item>
   <item>
-    <title>IdleCamera</title>
-    <link>https://mods.vintagestory.at/show/mod/idlecamera</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/idlecamera#12131</guid>
-    <pubDate>Tue, 29 Sep 2026 11:26:28 -0000</pubDate>
-    <description>This mod creates a camera when you're AFK</description>
+    <title>IP Blocker</title>
+    <link>https://mods.vintagestory.at/show/mod/ipblocker</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ipblocker#12114</guid>
+    <pubDate>Tue, 29 Sep 2026 18:10:31 -0000</pubDate>
+    <description>Block single individuals or whole countries from joining your server.</description>
   </item>
   <item>
-    <title>Stasis Vault</title>
-    <link>https://mods.vintagestory.at/show/mod/stasisvault</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stasisvault#12049</guid>
-    <pubDate>Tue, 29 Sep 2026 10:47:45 -0000</pubDate>
-    <description>Refined Storage-style virtual storage: memory cylinders, wireless tablet, JEI crafting, food stasis</description>
+    <title>Minimally Invasive Performance Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/miptfc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/miptfc#11962</guid>
+    <pubDate>Tue, 29 Sep 2026 18:09:33 -0000</pubDate>
+    <description>Client-side performance mod that should not break other mods.</description>
+  </item>
+  <item>
+    <title>LangSync</title>
+    <link>https://mods.vintagestory.at/show/mod/12155</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12155#12155</guid>
+    <pubDate>Tue, 29 Sep 2026 18:04:36 -0000</pubDate>
+    <description>Sends lang entries from server-side mods to players on join</description>
+  </item>
+  <item>
+    <title>Wilderlands Caves</title>
+    <link>https://mods.vintagestory.at/show/mod/5356</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5356#5356</guid>
+    <pubDate>Tue, 29 Sep 2026 17:37:54 -0000</pubDate>
+    <description>Fundamentally overhauls cave generation, while keeping vanilla caves at configurable rates.</description>
+  </item>
+  <item>
+    <title>Eventide Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Tue, 29 Sep 2026 17:25:51 -0000</pubDate>
+    <description>Claim maps, settlements, and access permissions for the Eventide server.</description>
   </item>
   <item>
     <title>forsaken journal</title>
     <link>https://mods.vintagestory.at/show/mod/12146</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12146#12146</guid>
-    <pubDate>Tue, 29 Sep 2026 10:15:59 -0000</pubDate>
+    <pubDate>Tue, 29 Sep 2026 17:13:54 -0000</pubDate>
     <description>A client-side tabbed personal notebook for keeping player, trade, with add more tab</description>
   </item>
   <item>
-    <title>Dense Ground Storage Fixes</title>
-    <link>https://mods.vintagestory.at/show/mod/12075</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12075#12075</guid>
-    <pubDate>Tue, 29 Sep 2026 10:10:06 -0000</pubDate>
-    <description>Fixes an issue with an empty bowl and DSG and adds info about stored items in HUD</description>
+    <title>VSCN Civilization Simulation</title>
+    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
+    <pubDate>Tue, 29 Sep 2026 17:08:40 -0000</pubDate>
+    <description>VSCN Civilization Simulation</description>
   </item>
   <item>
-    <title>Vampirism without cannibalism fork</title>
-    <link>https://mods.vintagestory.at/show/mod/12024</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12024#12024</guid>
-    <pubDate>Tue, 29 Sep 2026 10:08:15 -0000</pubDate>
-    <description>port of vampirism to remove cannibalism as a dependency.</description>
+    <title>IOB Bigger Crocks</title>
+    <link>https://mods.vintagestory.at/show/mod/12154</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12154#12154</guid>
+    <pubDate>Tue, 29 Sep 2026 17:01:48 -0000</pubDate>
+    <description>IOB Bigger Crocks ups meal limit form 4 to 6 </description>
   </item>
   <item>
-    <title>Vampirism</title>
-    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
-    <pubDate>Tue, 29 Sep 2026 10:07:13 -0000</pubDate>
-    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
+    <title>Alegacy patches</title>
+    <link>https://mods.vintagestory.at/show/mod/6997</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6997#6997</guid>
+    <pubDate>Tue, 29 Sep 2026 16:36:42 -0000</pubDate>
+    <description>targeted patches for the Alegacy server setup</description>
   </item>
   <item>
-    <title>ReRebalanced Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/11977</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11977#11977</guid>
-    <pubDate>Tue, 29 Sep 2026 08:40:21 -0000</pubDate>
-    <description>Rebalanced version of AllClasses Rebalanced</description>
-  </item>
-  <item>
-    <title>Traders have less gears</title>
-    <link>https://mods.vintagestory.at/show/mod/12145</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12145#12145</guid>
-    <pubDate>Tue, 29 Sep 2026 08:32:50 -0000</pubDate>
-    <description>Traders have between 2-8 gears</description>
+    <title>Alegacy Quest Framework</title>
+    <link>https://mods.vintagestory.at/show/mod/alegacyquestframework</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyquestframework#6609</guid>
+    <pubDate>Tue, 29 Sep 2026 16:34:28 -0000</pubDate>
+    <description>Alegacy Quest Framework is a full-featured quest and boss combat engine for Vintage Story.</description>
   </item>
 </channel>
 </rss>
