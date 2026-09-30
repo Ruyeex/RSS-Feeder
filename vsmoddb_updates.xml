@@ -4,13 +4,209 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 30 Sep 2026 13:24:41 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 18:53:27 +0000</lastBuildDate>
+  <item>
+    <title>Destaria Masteries</title>
+    <link>https://mods.vintagestory.at/show/mod/destariamasteries</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/destariamasteries#12096</guid>
+    <pubDate>Wed, 30 Sep 2026 18:49:12 -0000</pubDate>
+    <description>Skills for the Destaria Server</description>
+  </item>
+  <item>
+    <title>VSCN Server Mod: Chinese Compass</title>
+    <link>https://mods.vintagestory.at/show/mod/chinesecompass</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chinesecompass#12022</guid>
+    <pubDate>Wed, 30 Sep 2026 18:40:59 -0000</pubDate>
+    <description>Sinan and a wooden Chinese mariner's compass with a 24-mountain dial</description>
+  </item>
+  <item>
+    <title>VSCN Civilization Simulation</title>
+    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
+    <pubDate>Wed, 30 Sep 2026 18:39:20 -0000</pubDate>
+    <description>VSCN Civilization Simulation</description>
+  </item>
+  <item>
+    <title>VSCN Roping</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnroping</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnroping#12142</guid>
+    <pubDate>Wed, 30 Sep 2026 18:36:40 -0000</pubDate>
+    <description>Throwable lassos, binding and tethering for players and creatures.</description>
+  </item>
+  <item>
+    <title>Blood is Egg</title>
+    <link>https://mods.vintagestory.at/show/mod/bloodisegg</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bloodisegg#4214</guid>
+    <pubDate>Wed, 30 Sep 2026 18:08:17 -0000</pubDate>
+    <description>Butchering Blood can be used as a liquid egg substitute in Expanded Food baking/cooking recipes</description>
+  </item>
+  <item>
+    <title>QP's Chisel Tools</title>
+    <link>https://mods.vintagestory.at/show/mod/chiseltools</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseltools#604</guid>
+    <pubDate>Wed, 30 Sep 2026 18:07:21 -0000</pubDate>
+    <description>Unleash your creativity while chiseling! Invaluable, survival friendly tool set for chiselers!</description>
+  </item>
+  <item>
+    <title>Plant Debris Hedges</title>
+    <link>https://mods.vintagestory.at/show/mod/plantdebrishedges</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plantdebrishedges#10463</guid>
+    <pubDate>Wed, 30 Sep 2026 17:57:28 -0000</pubDate>
+    <description>Adds craftable "Hedge" blocks from plant debris, using the model of legacy bushes.</description>
+  </item>
+  <item>
+    <title>C&amp;N Trader</title>
+    <link>https://mods.vintagestory.at/show/mod/cantrader</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cantrader#669</guid>
+    <pubDate>Wed, 30 Sep 2026 17:56:13 -0000</pubDate>
+    <description>Custom trader for server</description>
+  </item>
+  <item>
+    <title>RedSpecsTrashSlotFork</title>
+    <link>https://mods.vintagestory.at/show/mod/redspecstrashslotfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/redspecstrashslotfork#9442</guid>
+    <pubDate>Wed, 30 Sep 2026 17:30:44 -0000</pubDate>
+    <description>Simple slot added to the player's UI to give them a slot to throw stuff away. Fork version.</description>
+  </item>
   <item>
     <title>Vintage Przygoda: Korony</title>
     <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
-    <pubDate>Wed, 30 Sep 2026 13:18:27 -0000</pubDate>
+    <pubDate>Wed, 30 Sep 2026 17:12:14 -0000</pubDate>
     <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
+  </item>
+  <item>
+    <title>Simple Bed Spawn</title>
+    <link>https://mods.vintagestory.at/show/mod/palmiersamasimplebedspawn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/palmiersamasimplebedspawn#11424</guid>
+    <pubDate>Wed, 30 Sep 2026 16:38:48 -0000</pubDate>
+    <description>A simple Vintage Story mod that sets your spawn point when you sleep in a bed.</description>
+  </item>
+  <item>
+    <title>Dynamic Seasonal Temperature</title>
+    <link>https://mods.vintagestory.at/show/mod/11883</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11883#11883</guid>
+    <pubDate>Wed, 30 Sep 2026 16:27:32 -0000</pubDate>
+    <description>Adds long-term climate variability - some years mild, some brutally cold or scorching hot.</description>
+  </item>
+  <item>
+    <title>World Atlas</title>
+    <link>https://mods.vintagestory.at/show/mod/worldatlas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/worldatlas#12159</guid>
+    <pubDate>Wed, 30 Sep 2026 16:24:27 -0000</pubDate>
+    <description>Quietly shares explored terrain map data between players on the same server.</description>
+  </item>
+  <item>
+    <title>PrimitiveTranslator</title>
+    <link>https://mods.vintagestory.at/show/mod/primitivetranslator</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/primitivetranslator#12180</guid>
+    <pubDate>Wed, 30 Sep 2026 15:08:16 -0000</pubDate>
+    <description>A utility for comparing and translating localization files of VintageStory mods.</description>
+  </item>
+  <item>
+    <title>Aldi's and Salty's [Advanced PATCH]</title>
+    <link>https://mods.vintagestory.at/show/mod/rucksack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rucksack#7273</guid>
+    <pubDate>Wed, 30 Sep 2026 15:01:34 -0000</pubDate>
+    <description>The Rucksack, the lunch box, the resonant anchor, the blacksmith gloves, the Ignition bangle!</description>
+  </item>
+  <item>
+    <title>Le Cheese de Cubique</title>
+    <link>https://mods.vintagestory.at/show/mod/cubiquecheese</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cubiquecheese#815</guid>
+    <pubDate>Wed, 30 Sep 2026 14:54:51 -0000</pubDate>
+    <description>Cube supremacy! Adds new textures and shapes for cheese and pie fillings</description>
+  </item>
+  <item>
+    <title>Aldi's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/aldiclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aldiclasses#5327</guid>
+    <pubDate>Wed, 30 Sep 2026 14:54:21 -0000</pubDate>
+    <description>An extremely stable, compatible and customizable classes mod!</description>
+  </item>
+  <item>
+    <title>EasyMode</title>
+    <link>https://mods.vintagestory.at/show/mod/12179</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12179#12179</guid>
+    <pubDate>Wed, 30 Sep 2026 14:23:27 -0000</pubDate>
+    <description>Nerfs enemies health and damage.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Wed, 30 Sep 2026 14:22:53 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
+  </item>
+  <item>
+    <title>Farming Revamped</title>
+    <link>https://mods.vintagestory.at/show/mod/9033</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9033#9033</guid>
+    <pubDate>Wed, 30 Sep 2026 14:22:12 -0000</pubDate>
+    <description>A mod that makes farming more challenging and realistic.</description>
+  </item>
+  <item>
+    <title>VS Instruments Redux - Expansion B</title>
+    <link>https://mods.vintagestory.at/show/mod/vsinstrumentsreduxexpansionb</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsinstrumentsreduxexpansionb#11573</guid>
+    <pubDate>Wed, 30 Sep 2026 14:02:53 -0000</pubDate>
+    <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
+  </item>
+  <item>
+    <title>VS Instruments Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/vsinstrumentsredux</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsinstrumentsredux#10555</guid>
+    <pubDate>Wed, 30 Sep 2026 14:02:07 -0000</pubDate>
+    <description>Bring your world to life! Play custom ABC/MIDI sheet music files on working in-game instruments.</description>
+  </item>
+  <item>
+    <title>Real Smoke</title>
+    <link>https://mods.vintagestory.at/show/mod/realsmoke</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmoke#4591</guid>
+    <pubDate>Wed, 30 Sep 2026 13:53:52 -0000</pubDate>
+    <description>Physics-based smoke</description>
+  </item>
+  <item>
+    <title>CB Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Wed, 30 Sep 2026 13:47:30 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
+  <item>
+    <title>Mastery custom server mod</title>
+    <link>https://mods.vintagestory.at/show/mod/12122</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12122#12122</guid>
+    <pubDate>Wed, 30 Sep 2026 13:45:21 -0000</pubDate>
+    <description>Custom mod for progression</description>
+  </item>
+  <item>
+    <title>Serverfixes for Miraserver</title>
+    <link>https://mods.vintagestory.at/show/mod/12127</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12127#12127</guid>
+    <pubDate>Wed, 30 Sep 2026 13:45:02 -0000</pubDate>
+    <description>My personal server fixes for small issues and errors</description>
+  </item>
+  <item>
+    <title>Field and Foal Miraserver tweak</title>
+    <link>https://mods.vintagestory.at/show/mod/12128</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12128#12128</guid>
+    <pubDate>Wed, 30 Sep 2026 13:44:39 -0000</pubDate>
+    <description>tweak for some animal and farming stuff</description>
+  </item>
+  <item>
+    <title>Immersive Rope Miraservertweak</title>
+    <link>https://mods.vintagestory.at/show/mod/12177</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12177#12177</guid>
+    <pubDate>Wed, 30 Sep 2026 13:34:00 -0000</pubDate>
+    <description>Tweak of Immersive Rope, based on the OG</description>
+  </item>
+  <item>
+    <title>Map Click Teleport</title>
+    <link>https://mods.vintagestory.at/show/mod/mapclickteleport</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mapclickteleport#12140</guid>
+    <pubDate>Wed, 30 Sep 2026 13:28:26 -0000</pubDate>
+    <description>Allows you to "Shift + Left Click" on the world map to instantly teleport to that location.</description>
   </item>
   <item>
     <title>StormvaldServerMod</title>
@@ -18,202 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11142#11142</guid>
     <pubDate>Wed, 30 Sep 2026 13:09:33 -0000</pubDate>
     <description>Servermod</description>
-  </item>
-  <item>
-    <title>Dense Ground Storage Fixes</title>
-    <link>https://mods.vintagestory.at/show/mod/12075</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12075#12075</guid>
-    <pubDate>Wed, 30 Sep 2026 12:52:18 -0000</pubDate>
-    <description>Fixes an issue with an empty bowl and DSG and adds info about stored items in HUD</description>
-  </item>
-  <item>
-    <title>Cannibalism True Corpse</title>
-    <link>https://mods.vintagestory.at/show/mod/12041</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12041#12041</guid>
-    <pubDate>Wed, 30 Sep 2026 12:51:54 -0000</pubDate>
-    <description>Makes the corpse spawned by Cannibalism look like the player who died.</description>
-  </item>
-  <item>
-    <title>Flame Against Rust</title>
-    <link>https://mods.vintagestory.at/show/mod/8923</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8923#8923</guid>
-    <pubDate>Wed, 30 Sep 2026 12:42:52 -0000</pubDate>
-    <description>Allows configurable light-level spawn requirements for each individual hostile creature.</description>
-  </item>
-  <item>
-    <title>Arachnoids</title>
-    <link>https://mods.vintagestory.at/show/mod/arachnoids</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arachnoids#6662</guid>
-    <pubDate>Wed, 30 Sep 2026 12:30:11 -0000</pubDate>
-    <description>This mod adds a new race / species called Arachnoid. Inspired by the character Muffet from Undertale</description>
-  </item>
-  <item>
-    <title>Immersive Rope Miraservertweak</title>
-    <link>https://mods.vintagestory.at/show/mod/12177</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12177#12177</guid>
-    <pubDate>Wed, 30 Sep 2026 12:17:12 -0000</pubDate>
-    <description>Tweak of Immersive Rope, based on the OG</description>
-  </item>
-  <item>
-    <title>Optimum - High-performance client software.</title>
-    <link>https://mods.vintagestory.at/show/mod/optimum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/optimum#9833</guid>
-    <pubDate>Wed, 30 Sep 2026 11:02:09 -0000</pubDate>
-    <description>A patched client runtime for smoother Vintage Story frames.</description>
-  </item>
-  <item>
-    <title>forsaken journal</title>
-    <link>https://mods.vintagestory.at/show/mod/12146</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12146#12146</guid>
-    <pubDate>Wed, 30 Sep 2026 10:54:53 -0000</pubDate>
-    <description>A client-side tabbed notebook for players, trades, locations, notes, and custom tabs.</description>
-  </item>
-  <item>
-    <title>ND Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/11622</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11622#11622</guid>
-    <pubDate>Wed, 30 Sep 2026 10:34:38 -0000</pubDate>
-    <description>ND mulitple mod patches</description>
-  </item>
-  <item>
-    <title>Shadehouse</title>
-    <link>https://mods.vintagestory.at/show/mod/shadehouse</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shadehouse#8698</guid>
-    <pubDate>Wed, 30 Sep 2026 09:41:15 -0000</pubDate>
-    <description>Adds a way to build a 'shadehouse', to grow crops in hot temperatures.</description>
-  </item>
-  <item>
-    <title>otherbarrelrecipes2</title>
-    <link>https://mods.vintagestory.at/show/mod/12175</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12175#12175</guid>
-    <pubDate>Wed, 30 Sep 2026 09:34:42 -0000</pubDate>
-    <description>Barrel Recipes for our server.</description>
-  </item>
-  <item>
-    <title>Order of the Paladins</title>
-    <link>https://mods.vintagestory.at/show/mod/12038</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12038#12038</guid>
-    <pubDate>Wed, 30 Sep 2026 09:06:53 -0000</pubDate>
-    <description>Take the oath and join the paladins. Smite down the creatures of the night with holy power.</description>
-  </item>
-  <item>
-    <title>Hearth &amp; Draught [Public Beta]</title>
-    <link>https://mods.vintagestory.at/show/mod/hearthanddraught</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hearthanddraught#11803</guid>
-    <pubDate>Wed, 30 Sep 2026 09:06:02 -0000</pubDate>
-    <description>Windows, chimneys, log burners and open fires, with room heating and ventilation.</description>
-  </item>
-  <item>
-    <title>topgsmod</title>
-    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Wed, 30 Sep 2026 08:56:33 -0000</pubDate>
-    <description>TopGs Community Mod</description>
-  </item>
-  <item>
-    <title>Vampirism</title>
-    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
-    <pubDate>Wed, 30 Sep 2026 08:56:02 -0000</pubDate>
-    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
-  </item>
-  <item>
-    <title>Vampirism without cannibalism fork</title>
-    <link>https://mods.vintagestory.at/show/mod/12024</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12024#12024</guid>
-    <pubDate>Wed, 30 Sep 2026 08:55:18 -0000</pubDate>
-    <description>port of vampirism to remove cannibalism as a dependency.</description>
-  </item>
-  <item>
-    <title>VSCN Roping</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnroping</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnroping#12142</guid>
-    <pubDate>Wed, 30 Sep 2026 08:33:15 -0000</pubDate>
-    <description>Throwable lassos, binding and tethering for players and creatures.</description>
-  </item>
-  <item>
-    <title>VSCN Civilization Simulation</title>
-    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
-    <pubDate>Wed, 30 Sep 2026 08:14:23 -0000</pubDate>
-    <description>VSCN Civilization Simulation</description>
-  </item>
-  <item>
-    <title>VSCN Server Mod: VSCN Server Mod Fix Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
-    <pubDate>Wed, 30 Sep 2026 08:13:21 -0000</pubDate>
-    <description>VSCN Server Mod Fix Mod</description>
-  </item>
-  <item>
-    <title>Thermal HUD</title>
-    <link>https://mods.vintagestory.at/show/mod/thermalhud</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thermalhud#12150</guid>
-    <pubDate>Wed, 30 Sep 2026 08:06:01 -0000</pubDate>
-    <description>Shows temperature, sun position and drift activity level, and various other metrics.</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Wed, 30 Sep 2026 07:41:49 -0000</pubDate>
-    <description>General voice chat mod with proximity voice, custom channels, audio processing, and permissions.</description>
-  </item>
-  <item>
-    <title>EZ Translocators</title>
-    <link>https://mods.vintagestory.at/show/mod/eztranslocators</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eztranslocators#10641</guid>
-    <pubDate>Wed, 30 Sep 2026 06:16:07 -0000</pubDate>
-    <description>Break repaired translocators, place them wherever you want and use your map to teleport.</description>
-  </item>
-  <item>
-    <title>Praise the Sun</title>
-    <link>https://mods.vintagestory.at/show/mod/tzpraisethesun</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tzpraisethesun#7860</guid>
-    <pubDate>Wed, 30 Sep 2026 05:46:24 -0000</pubDate>
-    <description>Makes artificial light levels disallow spawning bowtorn, drifters, and shivers in a larger area</description>
-  </item>
-  <item>
-    <title>DST - NPC additions</title>
-    <link>https://mods.vintagestory.at/show/mod/dstnpcadditions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dstnpcadditions#11739</guid>
-    <pubDate>Wed, 30 Sep 2026 05:12:43 -0000</pubDate>
-    <description>Additional NPC mobs using the vanilla villager model. </description>
-  </item>
-  <item>
-    <title>VS Terrain Diffusion</title>
-    <link>https://mods.vintagestory.at/show/mod/vsterraindiffusion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsterraindiffusion#10918</guid>
-    <pubDate>Wed, 30 Sep 2026 04:15:40 -0000</pubDate>
-    <description>Generate terrain and climates with a model trained on real Earth topography</description>
-  </item>
-  <item>
-    <title>UX Overhaul for Player Model Lib - Alpha</title>
-    <link>https://mods.vintagestory.at/show/mod/12170</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12170#12170</guid>
-    <pubDate>Wed, 30 Sep 2026 03:45:12 -0000</pubDate>
-    <description>Overhauls the standard Player Model Lib UI.</description>
-  </item>
-  <item>
-    <title>Vintage Wings Pre-Alpha</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagewings</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagewings#12169</guid>
-    <pubDate>Wed, 30 Sep 2026 03:42:04 -0000</pubDate>
-    <description>Add wings to different player models.</description>
-  </item>
-  <item>
-    <title>SaB Expanded: Lattes and Cappuccinos</title>
-    <link>https://mods.vintagestory.at/show/mod/11613</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11613#11613</guid>
-    <pubDate>Wed, 30 Sep 2026 03:34:06 -0000</pubDate>
-    <description>Adds several milk/espresso drinks for Steep and Brew.</description>
-  </item>
-  <item>
-    <title>Antique Harmony | Music Additions / Alternative Soundtrack</title>
-    <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiqueharmony#7141</guid>
-    <pubDate>Wed, 30 Sep 2026 03:23:44 -0000</pubDate>
-    <description>Adds to/replaces soundtrack with original orchestral one, composed from scratch</description>
   </item>
 </channel>
 </rss>
