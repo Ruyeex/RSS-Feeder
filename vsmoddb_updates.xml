@@ -4,7 +4,133 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 29 Sep 2026 20:30:55 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 00:07:31 +0000</lastBuildDate>
+  <item>
+    <title>Haunting!</title>
+    <link>https://mods.vintagestory.at/show/mod/12160</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12160#12160</guid>
+    <pubDate>Wed, 30 Sep 2026 00:05:26 -0000</pubDate>
+    <description>Create several commands for player-entity possession.</description>
+  </item>
+  <item>
+    <title>VS Siding Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/vssiding</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vssiding#12036</guid>
+    <pubDate>Tue, 29 Sep 2026 23:24:56 -0000</pubDate>
+    <description>Layered wall building: framing, infill, and finish materials for thinner, more realistic walls</description>
+  </item>
+  <item>
+    <title>Debarked Logs to Firewood</title>
+    <link>https://mods.vintagestory.at/show/mod/tzdebarkedfirewood</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tzdebarkedfirewood#4856</guid>
+    <pubDate>Tue, 29 Sep 2026 23:17:45 -0000</pubDate>
+    <description>Chop ya debarked logs into firewood or sticks depending on age of log, as nature intended.</description>
+  </item>
+  <item>
+    <title> Auto Map Markers (Client-Side Only)</title>
+    <link>https://mods.vintagestory.at/show/mod/automapmarkersclientside</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/automapmarkersclientside#11048</guid>
+    <pubDate>Tue, 29 Sep 2026 23:15:48 -0000</pubDate>
+    <description>Fork of Auto Map Markers — works with no server-side install required.</description>
+  </item>
+  <item>
+    <title>Lucio's Prospecting</title>
+    <link>https://mods.vintagestory.at/show/mod/luciosprospecting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/luciosprospecting#12138</guid>
+    <pubDate>Tue, 29 Sep 2026 23:05:16 -0000</pubDate>
+    <description>A complete additive overhaul of the prospecting system.</description>
+  </item>
+  <item>
+    <title>Vintage Przygoda: Korony</title>
+    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
+    <pubDate>Tue, 29 Sep 2026 23:01:43 -0000</pubDate>
+    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
+  </item>
+  <item>
+    <title>Map Click Teleport</title>
+    <link>https://mods.vintagestory.at/show/mod/mapclickteleport</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mapclickteleport#12140</guid>
+    <pubDate>Tue, 29 Sep 2026 22:52:02 -0000</pubDate>
+    <description>Allows you to "Shift + Left Click" on the world map to instantly teleport to that location.</description>
+  </item>
+  <item>
+    <title>Orca Player Model (Orcaite)</title>
+    <link>https://mods.vintagestory.at/show/mod/orcaite</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/orcaite#9378</guid>
+    <pubDate>Tue, 29 Sep 2026 22:49:13 -0000</pubDate>
+    <description>Adds a custom Orca Player model.</description>
+  </item>
+  <item>
+    <title>Real Smoke</title>
+    <link>https://mods.vintagestory.at/show/mod/realsmoke</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmoke#4591</guid>
+    <pubDate>Tue, 29 Sep 2026 22:25:56 -0000</pubDate>
+    <description>Physics-based smoke</description>
+  </item>
+  <item>
+    <title>Other Barrel Recipes that we use</title>
+    <link>https://mods.vintagestory.at/show/mod/12161</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12161#12161</guid>
+    <pubDate>Tue, 29 Sep 2026 22:19:28 -0000</pubDate>
+    <description>Barrel Recipes for things we use all the time.</description>
+  </item>
+  <item>
+    <title>Meat Trough Compatibility Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/12162</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12162#12162</guid>
+    <pubDate>Tue, 29 Sep 2026 22:05:43 -0000</pubDate>
+    <description>Permite colocar carnes preparadas e charque do Butchering e Primitive Survival nos cochos</description>
+  </item>
+  <item>
+    <title>Ores Drop Rocks</title>
+    <link>https://mods.vintagestory.at/show/mod/7853</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7853#7853</guid>
+    <pubDate>Tue, 29 Sep 2026 22:02:07 -0000</pubDate>
+    <description>Ore blocks drop stones from their host material as well as more realistic stone mining speeds.</description>
+  </item>
+  <item>
+    <title>Reach Indicator</title>
+    <link>https://mods.vintagestory.at/show/mod/reachindicator</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/reachindicator#10634</guid>
+    <pubDate>Tue, 29 Sep 2026 21:41:36 -0000</pubDate>
+    <description>Shows the distance to your target on your last successful melee hit.</description>
+  </item>
+  <item>
+    <title>The neighbours</title>
+    <link>https://mods.vintagestory.at/show/mod/theneighbours</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/theneighbours#12143</guid>
+    <pubDate>Tue, 29 Sep 2026 21:33:13 -0000</pubDate>
+    <description>(Fork to  1.22.7 ) Do you want to be ripped apart? If not - skip this mod!</description>
+  </item>
+  <item>
+    <title>WOO³</title>
+    <link>https://mods.vintagestory.at/show/mod/8477</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8477#8477</guid>
+    <pubDate>Tue, 29 Sep 2026 21:24:09 -0000</pubDate>
+    <description>A modpack that contains custom content and server tweaks for the Whispers of Oldwood season 3.</description>
+  </item>
+  <item>
+    <title>Relight Torches</title>
+    <link>https://mods.vintagestory.at/show/mod/relighttorches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/relighttorches#567</guid>
+    <pubDate>Tue, 29 Sep 2026 21:17:37 -0000</pubDate>
+    <description>Torches can be relit when they expire.</description>
+  </item>
+  <item>
+    <title>Ruin Loot Gallery</title>
+    <link>https://mods.vintagestory.at/show/mod/ruinlootgallery</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ruinlootgallery#10986</guid>
+    <pubDate>Tue, 29 Sep 2026 21:17:23 -0000</pubDate>
+    <description>Browse and spawn every structure, or generate a world of loot-bearing ruins near spawn.</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Tue, 29 Sep 2026 20:43:31 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
   <item>
     <title>Advanced Geology</title>
     <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
@@ -88,132 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustdrops#4101</guid>
     <pubDate>Tue, 29 Sep 2026 19:17:32 -0000</pubDate>
     <description>Rust/temporal corpses auto-drop loot and decay quickly (modded drops compatible)</description>
-  </item>
-  <item>
-    <title>Vintage Przygoda: Korony</title>
-    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
-    <pubDate>Tue, 29 Sep 2026 19:06:54 -0000</pubDate>
-    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
-  </item>
-  <item>
-    <title>MP Time Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/12157</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12157#12157</guid>
-    <pubDate>Tue, 29 Sep 2026 18:58:29 -0000</pubDate>
-    <description>Slows days and seasons when few players are online, and keeps absent players' food from rotting.</description>
-  </item>
-  <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Tue, 29 Sep 2026 18:44:56 -0000</pubDate>
-    <description>The factory must grow!</description>
-  </item>
-  <item>
-    <title>TaborServers</title>
-    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
-    <pubDate>Tue, 29 Sep 2026 18:42:47 -0000</pubDate>
-    <description>Patches fo most of Tabor servers</description>
-  </item>
-  <item>
-    <title>Draconis</title>
-    <link>https://mods.vintagestory.at/show/mod/draconis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/draconis#4543</guid>
-    <pubDate>Tue, 29 Sep 2026 18:41:09 -0000</pubDate>
-    <description>This mod adds 4 rideable dragons that the player can hatch and raise from eggs found in the wild</description>
-  </item>
-  <item>
-    <title>Forgotten Armory: Chinese Dynasties</title>
-    <link>https://mods.vintagestory.at/show/mod/5062</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5062#5062</guid>
-    <pubDate>Tue, 29 Sep 2026 18:35:21 -0000</pubDate>
-    <description>Mod adding multiple iron+ Scale armor variations in the style of Chinese Dynasties</description>
-  </item>
-  <item>
-    <title>C&amp;N Trader</title>
-    <link>https://mods.vintagestory.at/show/mod/cantrader</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cantrader#669</guid>
-    <pubDate>Tue, 29 Sep 2026 18:22:22 -0000</pubDate>
-    <description>Custom trader for server</description>
-  </item>
-  <item>
-    <title>Thermal HUD</title>
-    <link>https://mods.vintagestory.at/show/mod/thermalhud</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thermalhud#12150</guid>
-    <pubDate>Tue, 29 Sep 2026 18:12:42 -0000</pubDate>
-    <description>Shows temperature, sun position and drift activity level, and various secondary information.</description>
-  </item>
-  <item>
-    <title>IP Blocker</title>
-    <link>https://mods.vintagestory.at/show/mod/ipblocker</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ipblocker#12114</guid>
-    <pubDate>Tue, 29 Sep 2026 18:10:31 -0000</pubDate>
-    <description>Block single individuals or whole countries from joining your server.</description>
-  </item>
-  <item>
-    <title>Minimally Invasive Performance Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/miptfc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/miptfc#11962</guid>
-    <pubDate>Tue, 29 Sep 2026 18:09:33 -0000</pubDate>
-    <description>Client-side performance mod that should not break other mods.</description>
-  </item>
-  <item>
-    <title>LangSync</title>
-    <link>https://mods.vintagestory.at/show/mod/12155</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12155#12155</guid>
-    <pubDate>Tue, 29 Sep 2026 18:04:36 -0000</pubDate>
-    <description>Sends lang entries from server-side mods to players on join</description>
-  </item>
-  <item>
-    <title>Wilderlands Caves</title>
-    <link>https://mods.vintagestory.at/show/mod/5356</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5356#5356</guid>
-    <pubDate>Tue, 29 Sep 2026 17:37:54 -0000</pubDate>
-    <description>Fundamentally overhauls cave generation, while keeping vanilla caves at configurable rates.</description>
-  </item>
-  <item>
-    <title>Eventide Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
-    <pubDate>Tue, 29 Sep 2026 17:25:51 -0000</pubDate>
-    <description>Claim maps, settlements, and access permissions for the Eventide server.</description>
-  </item>
-  <item>
-    <title>forsaken journal</title>
-    <link>https://mods.vintagestory.at/show/mod/12146</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12146#12146</guid>
-    <pubDate>Tue, 29 Sep 2026 17:13:54 -0000</pubDate>
-    <description>A client-side tabbed personal notebook for keeping player, trade, with add more tab</description>
-  </item>
-  <item>
-    <title>VSCN Civilization Simulation</title>
-    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
-    <pubDate>Tue, 29 Sep 2026 17:08:40 -0000</pubDate>
-    <description>VSCN Civilization Simulation</description>
-  </item>
-  <item>
-    <title>IOB Bigger Crocks</title>
-    <link>https://mods.vintagestory.at/show/mod/12154</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12154#12154</guid>
-    <pubDate>Tue, 29 Sep 2026 17:01:48 -0000</pubDate>
-    <description>IOB Bigger Crocks ups meal limit form 4 to 6 </description>
-  </item>
-  <item>
-    <title>Alegacy patches</title>
-    <link>https://mods.vintagestory.at/show/mod/6997</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6997#6997</guid>
-    <pubDate>Tue, 29 Sep 2026 16:36:42 -0000</pubDate>
-    <description>targeted patches for the Alegacy server setup</description>
-  </item>
-  <item>
-    <title>Alegacy Quest Framework</title>
-    <link>https://mods.vintagestory.at/show/mod/alegacyquestframework</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyquestframework#6609</guid>
-    <pubDate>Tue, 29 Sep 2026 16:34:28 -0000</pubDate>
-    <description>Alegacy Quest Framework is a full-featured quest and boss combat engine for Vintage Story.</description>
   </item>
 </channel>
 </rss>
