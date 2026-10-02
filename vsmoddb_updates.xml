@@ -4,7 +4,161 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 01 Oct 2026 21:38:21 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 01:23:14 +0000</lastBuildDate>
+  <item>
+    <title>Player Roster</title>
+    <link>https://mods.vintagestory.at/show/mod/playerroster</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playerroster#12080</guid>
+    <pubDate>Fri, 02 Oct 2026 01:21:54 -0000</pubDate>
+    <description>Hold Tab to see who's online: role, health, food, distance, AFK, ping, date and season.</description>
+  </item>
+  <item>
+    <title>Server Chunk Backup</title>
+    <link>https://mods.vintagestory.at/show/mod/12053</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12053#12053</guid>
+    <pubDate>Fri, 02 Oct 2026 01:21:20 -0000</pubDate>
+    <description>Save your explored chunks as a local save file for offline experiments or build backup.</description>
+  </item>
+  <item>
+    <title>Gentage</title>
+    <link>https://mods.vintagestory.at/show/mod/gentage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
+    <pubDate>Fri, 02 Oct 2026 01:19:50 -0000</pubDate>
+    <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
+  </item>
+  <item>
+    <title>Craftsmanship</title>
+    <link>https://mods.vintagestory.at/show/mod/11590</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11590#11590</guid>
+    <pubDate>Fri, 02 Oct 2026 00:34:34 -0000</pubDate>
+    <description>Over 1,000 new items, creatures and weapons added</description>
+  </item>
+  <item>
+    <title>Make Beer HoD</title>
+    <link>https://mods.vintagestory.at/show/mod/12221</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12221#12221</guid>
+    <pubDate>Fri, 02 Oct 2026 00:29:18 -0000</pubDate>
+    <description>Add-on for Make Beer: full Hydrate or Diedrate support</description>
+  </item>
+  <item>
+    <title>Haunting!</title>
+    <link>https://mods.vintagestory.at/show/mod/12160</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12160#12160</guid>
+    <pubDate>Fri, 02 Oct 2026 00:20:03 -0000</pubDate>
+    <description>Create several commands for player-entity possession.</description>
+  </item>
+  <item>
+    <title>Floating Text Images and Gifs</title>
+    <link>https://mods.vintagestory.at/show/mod/floatingtext</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floatingtext#11932</guid>
+    <pubDate>Fri, 02 Oct 2026 00:18:02 -0000</pubDate>
+    <description>Adds Floating text to your game.</description>
+  </item>
+  <item>
+    <title>Sirayne's Fantasy Structures</title>
+    <link>https://mods.vintagestory.at/show/mod/fantasystructures</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fantasystructures#11969</guid>
+    <pubDate>Fri, 02 Oct 2026 00:09:06 -0000</pubDate>
+    <description>Brings your worldgen to life with some of my atmospheric structures &amp; ruins.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Vanilla Values</title>
+    <link>https://mods.vintagestory.at/show/mod/fotsavanillavalues</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsavanillavalues#12023</guid>
+    <pubDate>Fri, 02 Oct 2026 00:03:39 -0000</pubDate>
+    <description>An optional add-on mod that changes Fauna of the Stone Age animal drops to Vanilla Values</description>
+  </item>
+  <item>
+    <title>Combat Without IMGUI!</title>
+    <link>https://mods.vintagestory.at/show/mod/12218</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12218#12218</guid>
+    <pubDate>Thu, 01 Oct 2026 23:57:39 -0000</pubDate>
+    <description>Allows the use of combat overhaul fork and armory fork without imgui!!</description>
+  </item>
+  <item>
+    <title>Vanilla++ Modpack</title>
+    <link>https://mods.vintagestory.at/show/mod/vanillaplusplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillaplusplus#12219</guid>
+    <pubDate>Thu, 01 Oct 2026 23:53:16 -0000</pubDate>
+    <description>A modpack attempting to improve upon all aspects of Vintage Story.</description>
+  </item>
+  <item>
+    <title>Pack de Traduction Française</title>
+    <link>https://mods.vintagestory.at/show/mod/packfr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/packfr#11805</guid>
+    <pubDate>Thu, 01 Oct 2026 23:51:51 -0000</pubDate>
+    <description>Ce mod ajoute une traduction française pour une sélection de mods communautaires. </description>
+  </item>
+  <item>
+    <title>Rift Traveler</title>
+    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
+    <pubDate>Thu, 01 Oct 2026 22:37:48 -0000</pubDate>
+    <description>Explore or close rifts, craft temporal tech, teleport home, and transmit cargo across dimensions</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Thu, 01 Oct 2026 22:32:37 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
+  <item>
+    <title>Chisel Rotation Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/chiselrotationfix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiselrotationfix#12217</guid>
+    <pubDate>Thu, 01 Oct 2026 22:21:33 -0000</pubDate>
+    <description>Fixes how chiseled blocks in a rotated structure can be made of the wrong block</description>
+  </item>
+  <item>
+    <title>Edge Of Lineage: Legion</title>
+    <link>https://mods.vintagestory.at/show/mod/eollegion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eollegion#12196</guid>
+    <pubDate>Thu, 01 Oct 2026 22:18:31 -0000</pubDate>
+    <description>Roman themed pack from Edge Of Lineage suite</description>
+  </item>
+  <item>
+    <title>Edge Of Lineage: Core</title>
+    <link>https://mods.vintagestory.at/show/mod/eolcore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eolcore#12195</guid>
+    <pubDate>Thu, 01 Oct 2026 22:17:52 -0000</pubDate>
+    <description>Core module of Edge of Lineage suite that introduces new weapons and crafting mechanics</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Dovidarium</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalsdovidarium</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalsdovidarium#11441</guid>
+    <pubDate>Thu, 01 Oct 2026 22:07:45 -0000</pubDate>
+    <description>Handbook enhancements, faster Creative Inventory, and optimized crafting for large modpacks.</description>
+  </item>
+  <item>
+    <title>SpecialisedClassesTweak</title>
+    <link>https://mods.vintagestory.at/show/mod/12216</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12216#12216</guid>
+    <pubDate>Thu, 01 Oct 2026 21:58:11 -0000</pubDate>
+    <description>Removed a few class recipes for a specific server</description>
+  </item>
+  <item>
+    <title>Ghaelen's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/9740</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9740#9740</guid>
+    <pubDate>Thu, 01 Oct 2026 21:55:39 -0000</pubDate>
+    <description>My personal tweaks I like to play with.</description>
+  </item>
+  <item>
+    <title>Return of the Atlatl 1.22 Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/returnoftheatlatlfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/returnoftheatlatlfork#11861</guid>
+    <pubDate>Thu, 01 Oct 2026 21:49:29 -0000</pubDate>
+    <description>Fork of Return of the Atlatl</description>
+  </item>
+  <item>
+    <title>Vintage Przygoda: Korony</title>
+    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
+    <pubDate>Thu, 01 Oct 2026 21:42:08 -0000</pubDate>
+    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
+  </item>
   <item>
     <title>PotaTrad</title>
     <link>https://mods.vintagestory.at/show/mod/potatrad</link>
@@ -60,160 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonesneozeylandicregion#2180</guid>
     <pubDate>Thu, 01 Oct 2026 20:03:30 -0000</pubDate>
     <description>Adds plants from the Neozeylandic Region to the game.</description>
-  </item>
-  <item>
-    <title>Floral Zones: Circumboreal Region</title>
-    <link>https://mods.vintagestory.at/show/mod/floralzonescircumborealregion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floralzonescircumborealregion#11383</guid>
-    <pubDate>Thu, 01 Oct 2026 20:02:48 -0000</pubDate>
-    <description>Adds plants from the Circumboreal Region to the game.</description>
-  </item>
-  <item>
-    <title>Aldi's X Prosequor</title>
-    <link>https://mods.vintagestory.at/show/mod/aldisxprosequor</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aldisxprosequor#12193</guid>
-    <pubDate>Thu, 01 Oct 2026 19:58:25 -0000</pubDate>
-    <description>Add Aldi's classes traits to Prosequor</description>
-  </item>
-  <item>
-    <title>Even more Dress to Impress</title>
-    <link>https://mods.vintagestory.at/show/mod/evenmoredresstoimpress</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evenmoredresstoimpress#11432</guid>
-    <pubDate>Thu, 01 Oct 2026 19:51:48 -0000</pubDate>
-    <description>Dress to Impress part 2</description>
-  </item>
-  <item>
-    <title>forsaken journal</title>
-    <link>https://mods.vintagestory.at/show/mod/12146</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12146#12146</guid>
-    <pubDate>Thu, 01 Oct 2026 19:43:26 -0000</pubDate>
-    <description>Client-side notebook with custom tabs, map sharing, shareable shop lists, trades, locations &amp; notes.</description>
-  </item>
-  <item>
-    <title>Vintage Przygoda: Korony</title>
-    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
-    <pubDate>Thu, 01 Oct 2026 19:36:00 -0000</pubDate>
-    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
-  </item>
-  <item>
-    <title>Kobold Player Model Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/koboldrdx</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/koboldrdx#4814</guid>
-    <pubDate>Thu, 01 Oct 2026 19:31:51 -0000</pubDate>
-    <description>A complete 1.21+ remake of Soi's Kobold player model, for PlayerModelLib by Maltiez!</description>
-  </item>
-  <item>
-    <title>Aegis - Client</title>
-    <link>https://mods.vintagestory.at/show/mod/aegisclient</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aegisclient#10240</guid>
-    <pubDate>Thu, 01 Oct 2026 19:29:01 -0000</pubDate>
-    <description>Early client support for an upcoming Vintage Story multiplayer games network.</description>
-  </item>
-  <item>
-    <title>Simple water tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/simplewatertweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplewatertweaks#9126</guid>
-    <pubDate>Thu, 01 Oct 2026 19:06:27 -0000</pubDate>
-    <description>This mod modifies the game's water by adding an alternative wave effect and a more vibrant color </description>
-  </item>
-  <item>
-    <title>FotSA Butchering Compat</title>
-    <link>https://mods.vintagestory.at/show/mod/fotsabutcheringcompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsabutcheringcompat#9501</guid>
-    <pubDate>Thu, 01 Oct 2026 18:45:36 -0000</pubDate>
-    <description>Butchering compatibility for FotSA mods</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Elephantidae</title>
-    <link>https://mods.vintagestory.at/show/mod/elephantidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elephantidae#2989</guid>
-    <pubDate>Thu, 01 Oct 2026 18:39:00 -0000</pubDate>
-    <description>A collection of elephants from the Holocene.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Sirenia</title>
-    <link>https://mods.vintagestory.at/show/mod/sirenia</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sirenia#2019</guid>
-    <pubDate>Thu, 01 Oct 2026 18:36:11 -0000</pubDate>
-    <description>A collection of manatee and dugong from the Holocene.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Caninae</title>
-    <link>https://mods.vintagestory.at/show/mod/caninae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caninae#1438</guid>
-    <pubDate>Thu, 01 Oct 2026 18:32:58 -0000</pubDate>
-    <description>A collection of dogs from the Holocene.</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Capreolinae</title>
-    <link>https://mods.vintagestory.at/show/mod/capreolinae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/capreolinae#1254</guid>
-    <pubDate>Thu, 01 Oct 2026 18:32:00 -0000</pubDate>
-    <description>A collection of New World deer from the Holocene.</description>
-  </item>
-  <item>
-    <title>Linked Inventories</title>
-    <link>https://mods.vintagestory.at/show/mod/linkedinventories</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/linkedinventories#12181</guid>
-    <pubDate>Thu, 01 Oct 2026 18:24:17 -0000</pubDate>
-    <description>Automatically opens and neatly positions the player inventory together with supported containers.</description>
-  </item>
-  <item>
-    <title>SafeHome</title>
-    <link>https://mods.vintagestory.at/show/mod/vssafehome</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vssafehome#12111</guid>
-    <pubDate>Thu, 01 Oct 2026 18:23:08 -0000</pubDate>
-    <description>Larger rooms, light-based spawn protection, and a spawn overlay with colorblind support.</description>
-  </item>
-  <item>
-    <title>Hex's Mechworks</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
-    <pubDate>Thu, 01 Oct 2026 18:03:00 -0000</pubDate>
-    <description>The factory must grow!</description>
-  </item>
-  <item>
-    <title>Teapot's Giant Boar</title>
-    <link>https://mods.vintagestory.at/show/mod/teapotsgiantboar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantboar#11742</guid>
-    <pubDate>Thu, 01 Oct 2026 18:00:14 -0000</pubDate>
-    <description>Chonky boys that can be your companions and mounts. In wild, they might trigger your bear traumas.</description>
-  </item>
-  <item>
-    <title>Flying Machine</title>
-    <link>https://mods.vintagestory.at/show/mod/12208</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12208#12208</guid>
-    <pubDate>Thu, 01 Oct 2026 17:52:54 -0000</pubDate>
-    <description>A craftable early-era biplane: smith the engine, stitch the wings, fill it with spirits and fly.</description>
-  </item>
-  <item>
-    <title>Gentage</title>
-    <link>https://mods.vintagestory.at/show/mod/gentage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
-    <pubDate>Thu, 01 Oct 2026 17:30:53 -0000</pubDate>
-    <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
-  </item>
-  <item>
-    <title>Waypoint Compass</title>
-    <link>https://mods.vintagestory.at/show/mod/waypointcompass</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waypointcompass#12079</guid>
-    <pubDate>Thu, 01 Oct 2026 17:28:37 -0000</pubDate>
-    <description>Copper, bronze or steel compass watch: HUD compass with cardinals, waypoints and players.</description>
-  </item>
-  <item>
-    <title>Wilderlands Caves</title>
-    <link>https://mods.vintagestory.at/show/mod/5356</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5356#5356</guid>
-    <pubDate>Thu, 01 Oct 2026 17:27:11 -0000</pubDate>
-    <description>Fundamentally overhauls cave generation, while keeping vanilla caves at configurable rates.</description>
-  </item>
-  <item>
-    <title>Player Roster</title>
-    <link>https://mods.vintagestory.at/show/mod/playerroster</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playerroster#12080</guid>
-    <pubDate>Thu, 01 Oct 2026 17:25:03 -0000</pubDate>
-    <description>Hold Tab to see who's online: role, health, food, distance, AFK, ping, date and season.</description>
   </item>
 </channel>
 </rss>
