@@ -4,7 +4,140 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 02 Oct 2026 20:27:30 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 00:14:24 +0000</lastBuildDate>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Fri, 02 Oct 2026 23:49:54 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Improved Metallurgy</title>
+    <link>https://mods.vintagestory.at/show/mod/improvedmetallurgy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/improvedmetallurgy#8312</guid>
+    <pubDate>Fri, 02 Oct 2026 23:40:53 -0000</pubDate>
+    <description>Adds advanced alloys and a multiblock blast furnace that allows for mass-smelting of metals.</description>
+  </item>
+  <item>
+    <title>Molds Tweak</title>
+    <link>https://mods.vintagestory.at/show/mod/moldstweak</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moldstweak#6690</guid>
+    <pubDate>Fri, 02 Oct 2026 23:32:03 -0000</pubDate>
+    <description>Tweak that makes some of the molds fill with less material.</description>
+  </item>
+  <item>
+    <title>Contrats &amp; Gages</title>
+    <link>https://mods.vintagestory.at/show/mod/12247</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12247#12247</guid>
+    <pubDate>Fri, 02 Oct 2026 23:29:39 -0000</pubDate>
+    <description>Player-made RôlePlay contracts</description>
+  </item>
+  <item>
+    <title>Salary Coin</title>
+    <link>https://mods.vintagestory.at/show/mod/salarycoin</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/salarycoin#11804</guid>
+    <pubDate>Fri, 02 Oct 2026 23:10:19 -0000</pubDate>
+    <description>Automatically distributes AnyCoin tokens to all logged-in and active players,</description>
+  </item>
+  <item>
+    <title>Gentage</title>
+    <link>https://mods.vintagestory.at/show/mod/gentage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
+    <pubDate>Fri, 02 Oct 2026 22:58:39 -0000</pubDate>
+    <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
+  </item>
+  <item>
+    <title>Napfland Localization</title>
+    <link>https://mods.vintagestory.at/show/mod/napflandlocalization</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/napflandlocalization#12244</guid>
+    <pubDate>Fri, 02 Oct 2026 22:36:29 -0000</pubDate>
+    <description>Сборник переводов модов на русский язык.</description>
+  </item>
+  <item>
+    <title>Frontiers Map - Norse Stamp Addon</title>
+    <link>https://mods.vintagestory.at/show/mod/12243</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12243#12243</guid>
+    <pubDate>Fri, 02 Oct 2026 22:30:22 -0000</pubDate>
+    <description>This mod adds 9 new stamps inspired by norse religion and Vikings to the game.</description>
+  </item>
+  <item>
+    <title>Blank map NationsRoyale Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/12239</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12239#12239</guid>
+    <pubDate>Fri, 02 Oct 2026 21:39:23 -0000</pubDate>
+    <description>A mod to disable the vanilla map terrain render but keeping the GUI, player pin and markers.</description>
+  </item>
+  <item>
+    <title>DeepVanillaCompat</title>
+    <link>https://mods.vintagestory.at/show/mod/deepvanillacompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deepvanillacompat#12241</guid>
+    <pubDate>Fri, 02 Oct 2026 21:31:05 -0000</pubDate>
+    <description>Compat &amp; Fixes, for my modpack :)</description>
+  </item>
+  <item>
+    <title>Immersive Woodworking</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivewoodworking</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivewoodworking#9606</guid>
+    <pubDate>Fri, 02 Oct 2026 21:30:03 -0000</pubDate>
+    <description>Focused immersion mod that makes processing timber feel like work, not paperwork. </description>
+  </item>
+  <item>
+    <title>CollapseStory</title>
+    <link>https://mods.vintagestory.at/show/mod/7776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
+    <pubDate>Fri, 02 Oct 2026 21:22:45 -0000</pubDate>
+    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
+  </item>
+  <item>
+    <title>Geology Expansion: Works</title>
+    <link>https://mods.vintagestory.at/show/mod/geologyexpansionworks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/geologyexpansionworks#12200</guid>
+    <pubDate>Fri, 02 Oct 2026 20:50:07 -0000</pubDate>
+    <description>Adds the works side of Geology Expansion: new building blocks, marble trading, salt lamps, &amp; more</description>
+  </item>
+  <item>
+    <title>Geology Expansion: World</title>
+    <link>https://mods.vintagestory.at/show/mod/geologyexpansionworld</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/geologyexpansionworld#12199</guid>
+    <pubDate>Fri, 02 Oct 2026 20:50:03 -0000</pubDate>
+    <description>Adds the world side of Geology Expansion: volcanoes, gems, vugs, &amp; more</description>
+  </item>
+  <item>
+    <title>Additional Hair Colors</title>
+    <link>https://mods.vintagestory.at/show/mod/8950</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8950#8950</guid>
+    <pubDate>Fri, 02 Oct 2026 20:42:47 -0000</pubDate>
+    <description>Gives the player a lot more options for hair colors, should work with modded races.</description>
+  </item>
+  <item>
+    <title>Extended Skin Colors</title>
+    <link>https://mods.vintagestory.at/show/mod/10437</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10437#10437</guid>
+    <pubDate>Fri, 02 Oct 2026 20:41:00 -0000</pubDate>
+    <description>Adds a hex color scroller to most humanoid races!</description>
+  </item>
+  <item>
+    <title>Extended Eye Colors</title>
+    <link>https://mods.vintagestory.at/show/mod/10402</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10402#10402</guid>
+    <pubDate>Fri, 02 Oct 2026 20:40:13 -0000</pubDate>
+    <description>Adds a hex scroller for more customisation!</description>
+  </item>
+  <item>
+    <title>Blood Fennel Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/11296</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11296#11296</guid>
+    <pubDate>Fri, 02 Oct 2026 20:36:38 -0000</pubDate>
+    <description>Bridges my two mods, "More Blood Thingies," and "Fennel Swag."</description>
+  </item>
+  <item>
+    <title>Craftsmanship</title>
+    <link>https://mods.vintagestory.at/show/mod/11590</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11590#11590</guid>
+    <pubDate>Fri, 02 Oct 2026 20:32:41 -0000</pubDate>
+    <description>Over 1,000 new items, creatures and weapons added</description>
+  </item>
   <item>
     <title>Linen Quiver </title>
     <link>https://mods.vintagestory.at/show/mod/12240</link>
@@ -34,25 +167,11 @@
     <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
   </item>
   <item>
-    <title>Blank map NationsRoyale Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/12239</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12239#12239</guid>
-    <pubDate>Fri, 02 Oct 2026 20:07:01 -0000</pubDate>
-    <description>A mod to disable the vanilla map terrain render but keeping the GUI, player pin and markers.</description>
-  </item>
-  <item>
     <title>Advanced Tool Parts</title>
     <link>https://mods.vintagestory.at/show/mod/advancedtoolparts</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedtoolparts#11633</guid>
     <pubDate>Fri, 02 Oct 2026 20:04:12 -0000</pubDate>
     <description>Add handles and bindings to your tools to make them faster and last longer!</description>
-  </item>
-  <item>
-    <title>Napfland Localization</title>
-    <link>https://mods.vintagestory.at/show/mod/napflandlocalization</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/napflandlocalization#12235</guid>
-    <pubDate>Fri, 02 Oct 2026 19:56:12 -0000</pubDate>
-    <description>Localization of some mods for my server</description>
   </item>
   <item>
     <title>Ancient Armory fix 1.22.xx</title>
@@ -67,13 +186,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/palmiersamasimplebedspawn#11424</guid>
     <pubDate>Fri, 02 Oct 2026 19:44:28 -0000</pubDate>
     <description>A simple Vintage Story mod that sets your spawn point when you sleep in a bed.</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Fri, 02 Oct 2026 19:23:06 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
   <item>
     <title>Vintage Przygoda: Korony</title>
@@ -102,118 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11294#11294</guid>
     <pubDate>Fri, 02 Oct 2026 18:44:56 -0000</pubDate>
     <description>Adds some features for fennel because it isn't any good</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Felinae</title>
-    <link>https://mods.vintagestory.at/show/mod/felinae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/felinae#2811</guid>
-    <pubDate>Fri, 02 Oct 2026 18:39:49 -0000</pubDate>
-    <description>A collection of cats from the Holocene.</description>
-  </item>
-  <item>
-    <title>CollapseStory</title>
-    <link>https://mods.vintagestory.at/show/mod/7776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
-    <pubDate>Fri, 02 Oct 2026 18:39:48 -0000</pubDate>
-    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
-  </item>
-  <item>
-    <title>Gentage</title>
-    <link>https://mods.vintagestory.at/show/mod/gentage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
-    <pubDate>Fri, 02 Oct 2026 18:35:33 -0000</pubDate>
-    <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
-  </item>
-  <item>
-    <title>Feil's Fauna Fixes</title>
-    <link>https://mods.vintagestory.at/show/mod/12237</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12237#12237</guid>
-    <pubDate>Fri, 02 Oct 2026 18:33:35 -0000</pubDate>
-    <description>Feil's Fauna Fixes and Additions.</description>
-  </item>
-  <item>
-    <title>Butchering – FotSA (Fauna of the Stone Age) Compatibility Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/butcheringfotsacompatability</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butcheringfotsacompatability#11301</guid>
-    <pubDate>Fri, 02 Oct 2026 18:21:55 -0000</pubDate>
-    <description>A focused compatibility add-on for Butchering and the modular Fauna of the Stone Age animal packs on</description>
-  </item>
-  <item>
-    <title>Auto IMM</title>
-    <link>https://mods.vintagestory.at/show/mod/autoimm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autoimm#12236</guid>
-    <pubDate>Fri, 02 Oct 2026 18:18:52 -0000</pubDate>
-    <description>Auto generates IMM config definitions for mods that don't add their own (and do have a config)</description>
-  </item>
-  <item>
-    <title>[Beta]RuneStory - Runescape Inspired Magic</title>
-    <link>https://mods.vintagestory.at/show/mod/runestory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/runestory#8384</guid>
-    <pubDate>Fri, 02 Oct 2026 18:04:26 -0000</pubDate>
-    <description>Runescape inspired magic casting and research system.</description>
-  </item>
-  <item>
-    <title>GuildsNClaims</title>
-    <link>https://mods.vintagestory.at/show/mod/guildsnclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/guildsnclaims#12232</guid>
-    <pubDate>Fri, 02 Oct 2026 18:01:48 -0000</pubDate>
-    <description>Guilds, Claims, per Chunk Controls and Audio for Admin Claims.</description>
-  </item>
-  <item>
-    <title>Add Some Colour</title>
-    <link>https://mods.vintagestory.at/show/mod/addsomecolour</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/addsomecolour#11857</guid>
-    <pubDate>Fri, 02 Oct 2026 17:53:01 -0000</pubDate>
-    <description>Adds some coloured planks, wood blocks, fences and fence gates.</description>
-  </item>
-  <item>
-    <title>Project Globe</title>
-    <link>https://mods.vintagestory.at/show/mod/projectglobe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/projectglobe#12167</guid>
-    <pubDate>Fri, 02 Oct 2026 16:50:38 -0000</pubDate>
-    <description>A silly little mod that gives the world wrap around/globe logic.</description>
-  </item>
-  <item>
-    <title>Just The Pepper</title>
-    <link>https://mods.vintagestory.at/show/mod/justthepepper</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justthepepper#4347</guid>
-    <pubDate>Fri, 02 Oct 2026 16:38:15 -0000</pubDate>
-    <description>Adds the ability to grow vanilla bell peppers</description>
-  </item>
-  <item>
-    <title>LTO Black Smith Plus - Floral Zones Circumboreal Region Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/12234</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12234#12234</guid>
-    <pubDate>Fri, 02 Oct 2026 16:24:35 -0000</pubDate>
-    <description>Compatibility patch that adds support for Floral Zones: Circumboreal Region.</description>
-  </item>
-  <item>
-    <title>Insanity Lib</title>
-    <link>https://mods.vintagestory.at/show/mod/insanitylib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/insanitylib#3966</guid>
-    <pubDate>Fri, 02 Oct 2026 16:23:30 -0000</pubDate>
-    <description>A library mod with modding utilities</description>
-  </item>
-  <item>
-    <title>Chisel Leaf</title>
-    <link>https://mods.vintagestory.at/show/mod/chiselleaf</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiselleaf#9235</guid>
-    <pubDate>Fri, 02 Oct 2026 15:40:05 -0000</pubDate>
-    <description>Adds craftable leaf blocks you can chisel</description>
-  </item>
-  <item>
-    <title>Transparent Chisel Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/12226</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12226#12226</guid>
-    <pubDate>Fri, 02 Oct 2026 15:31:16 -0000</pubDate>
-    <description>Fixes transparent texture culling for chiseled blocks</description>
-  </item>
-  <item>
-    <title>ExtendedHUDInfoREBUILT</title>
-    <link>https://mods.vintagestory.at/show/mod/herospoompls</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/herospoompls#11480</guid>
-    <pubDate>Fri, 02 Oct 2026 15:12:48 -0000</pubDate>
-    <description>HUD Info that displays QOL details without a background</description>
   </item>
 </channel>
 </rss>
