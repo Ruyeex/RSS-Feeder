@@ -4,7 +4,154 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 03 Oct 2026 06:10:03 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 12:18:48 +0000</lastBuildDate>
+  <item>
+    <title>Bricklayers</title>
+    <link>https://mods.vintagestory.at/show/mod/bricklayers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricklayers#117</guid>
+    <pubDate>Sat, 03 Oct 2026 12:04:47 -0000</pubDate>
+    <description>More clay, bricks, porcelain, glazings, colored glass, luminous glass.</description>
+  </item>
+  <item>
+    <title>VSCN 社区服务器中改进模组的模组</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
+    <pubDate>Sat, 03 Oct 2026 12:03:59 -0000</pubDate>
+    <description>VSCN 社区服务器中改进模组的模组</description>
+  </item>
+  <item>
+    <title>TekTools</title>
+    <link>https://mods.vintagestory.at/show/mod/11615</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11615#11615</guid>
+    <pubDate>Sat, 03 Oct 2026 11:55:30 -0000</pubDate>
+    <description>Adds a dedicated Tools tab to the Vintage Story character window, providing a clean home for TekTool</description>
+  </item>
+  <item>
+    <title>Carried</title>
+    <link>https://mods.vintagestory.at/show/mod/carried</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carried#11427</guid>
+    <pubDate>Sat, 03 Oct 2026 11:49:16 -0000</pubDate>
+    <description>Carry other players in various ways, or hold their hands. Bridal, firefighter, buddy, piggyback,</description>
+  </item>
+  <item>
+    <title>Valley of Ashes</title>
+    <link>https://mods.vintagestory.at/show/mod/valleyofashes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/valleyofashes#2288</guid>
+    <pubDate>Sat, 03 Oct 2026 11:44:11 -0000</pubDate>
+    <description>Craft wood and plant ash, ash sludge and optional potash.</description>
+  </item>
+  <item>
+    <title>veadotubevs</title>
+    <link>https://mods.vintagestory.at/show/mod/12267</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12267#12267</guid>
+    <pubDate>Sat, 03 Oct 2026 11:36:09 -0000</pubDate>
+    <description>Connector for vintage story + veadotube</description>
+  </item>
+  <item>
+    <title>Downed</title>
+    <link>https://mods.vintagestory.at/show/mod/downed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
+    <pubDate>Sat, 03 Oct 2026 11:23:57 -0000</pubDate>
+    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
+  </item>
+  <item>
+    <title>Dead</title>
+    <link>https://mods.vintagestory.at/show/mod/dead</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
+    <pubDate>Sat, 03 Oct 2026 11:23:28 -0000</pubDate>
+    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
+  </item>
+  <item>
+    <title>Player Model NPCs </title>
+    <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
+    <pubDate>Sat, 03 Oct 2026 10:53:37 -0000</pubDate>
+    <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
+  </item>
+  <item>
+    <title>FPGAutowhitelister</title>
+    <link>https://mods.vintagestory.at/show/mod/12265</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12265#12265</guid>
+    <pubDate>Sat, 03 Oct 2026 10:32:37 -0000</pubDate>
+    <description>Whitelists every non-serverside mod from the server mod folders in FairPlayGuardian on launch</description>
+  </item>
+  <item>
+    <title>ALDI's classes SAM FORK</title>
+    <link>https://mods.vintagestory.at/show/mod/7856</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7856#7856</guid>
+    <pubDate>Sat, 03 Oct 2026 10:14:58 -0000</pubDate>
+    <description>Completely rebalanced fork for the Steam and Mud server. Code by FiveCubeI3CTA</description>
+  </item>
+  <item>
+    <title>SAM Combat classes</title>
+    <link>https://mods.vintagestory.at/show/mod/12264</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12264#12264</guid>
+    <pubDate>Sat, 03 Oct 2026 10:11:25 -0000</pubDate>
+    <description>Special made combat classes for the SAM server</description>
+  </item>
+  <item>
+    <title>SAM Classes combat patch</title>
+    <link>https://mods.vintagestory.at/show/mod/12263</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12263#12263</guid>
+    <pubDate>Sat, 03 Oct 2026 10:09:21 -0000</pubDate>
+    <description>Patch for the combat classes on the SAM server (Season 2)</description>
+  </item>
+  <item>
+    <title>Auto IMM</title>
+    <link>https://mods.vintagestory.at/show/mod/autoimm</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autoimm#12236</guid>
+    <pubDate>Sat, 03 Oct 2026 09:22:23 -0000</pubDate>
+    <description>Auto generates IMM config definitions for mods that don't add their own (and do have a config)</description>
+  </item>
+  <item>
+    <title>Insanity Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/insanitylib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/insanitylib#3966</guid>
+    <pubDate>Sat, 03 Oct 2026 09:19:38 -0000</pubDate>
+    <description>A library mod with modding utilities</description>
+  </item>
+  <item>
+    <title>Conquest VS Compatability: VOM, TS, MA</title>
+    <link>https://mods.vintagestory.at/show/mod/11088</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11088#11088</guid>
+    <pubDate>Sat, 03 Oct 2026 07:53:13 -0000</pubDate>
+    <description>Patches Conquest VS to support mods: Terrain Slabs &amp; Visible Ores and Minerals</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks x Boric Alchemy Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmechboriccompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmechboriccompat#12259</guid>
+    <pubDate>Sat, 03 Oct 2026 07:32:30 -0000</pubDate>
+    <description>Adds some missing BA compat to Hex's Mechworks, specifically for rubber.</description>
+  </item>
+  <item>
+    <title>CollapseStory</title>
+    <link>https://mods.vintagestory.at/show/mod/7776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
+    <pubDate>Sat, 03 Oct 2026 07:29:03 -0000</pubDate>
+    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
+  </item>
+  <item>
+    <title>DST - NPC additions</title>
+    <link>https://mods.vintagestory.at/show/mod/dstnpcadditions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dstnpcadditions#11739</guid>
+    <pubDate>Sat, 03 Oct 2026 07:24:43 -0000</pubDate>
+    <description>Additional NPC mobs using the vanilla villager model. </description>
+  </item>
+  <item>
+    <title>Animalica Requests</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicare</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicare#11876</guid>
+    <pubDate>Sat, 03 Oct 2026 07:06:28 -0000</pubDate>
+    <description>Adds deer antlers for foxes and hares, plus a tailless fox option.</description>
+  </item>
+  <item>
+    <title>VS Terrain Diffusion</title>
+    <link>https://mods.vintagestory.at/show/mod/vsterraindiffusion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsterraindiffusion#10918</guid>
+    <pubDate>Sat, 03 Oct 2026 06:50:50 -0000</pubDate>
+    <description>Generate terrain and climates with a model trained on real Earth topography</description>
+  </item>
   <item>
     <title>The Quire Patches</title>
     <link>https://mods.vintagestory.at/show/mod/tqp</link>
@@ -25,13 +172,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11674#11674</guid>
     <pubDate>Sat, 03 Oct 2026 03:28:57 -0000</pubDate>
     <description>Adds a full-throated, first-class skill, levelling and attributes system to Vintage Story.</description>
-  </item>
-  <item>
-    <title>VSCN Server Mod: VSCN Server Mod Fix Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
-    <pubDate>Sat, 03 Oct 2026 03:08:20 -0000</pubDate>
-    <description>VSCN Server Mod Fix Mod</description>
   </item>
   <item>
     <title>EXPANDED MOLDS LITE (FORK)</title>
@@ -74,146 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5975#5975</guid>
     <pubDate>Sat, 03 Oct 2026 02:16:58 -0000</pubDate>
     <description>Wilderlands Stonebound overhauls the mining, mineral, and ore extraction systems of Vintage Story.</description>
-  </item>
-  <item>
-    <title>The Working Classes - 1.22 Compatibility and Bug Fixing Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/theworkingclasseswspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/theworkingclasseswspatch#10474</guid>
-    <pubDate>Sat, 03 Oct 2026 02:13:25 -0000</pubDate>
-    <description>A focused compatibility and bug-fix fork of The Working Classes for Vintage Story</description>
-  </item>
-  <item>
-    <title>Prosequor - Hydrate or Diedrate Compat</title>
-    <link>https://mods.vintagestory.at/show/mod/hodprocompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hodprocompat#12255</guid>
-    <pubDate>Sat, 03 Oct 2026 01:43:49 -0000</pubDate>
-    <description>I just wanna play with Prosequor and Hydrate or Diedrate and not have the weird meter overlap!! TT_T</description>
-  </item>
-  <item>
-    <title>EternalS: ConfiGUI</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalsconfigui</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalsconfigui#8893</guid>
-    <pubDate>Sat, 03 Oct 2026 01:38:46 -0000</pubDate>
-    <description>Client-side vanilla GUI customizer</description>
-  </item>
-  <item>
-    <title>traduccion de mods a español LA</title>
-    <link>https://mods.vintagestory.at/show/mod/traduccionesdemodsla</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traduccionesdemodsla#11988</guid>
-    <pubDate>Sat, 03 Oct 2026 01:32:55 -0000</pubDate>
-    <description>traduccion de mods a español LA</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Dovidarium</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalsdovidarium</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalsdovidarium#11441</guid>
-    <pubDate>Sat, 03 Oct 2026 01:06:04 -0000</pubDate>
-    <description>Handbook enhancements, faster Creative Inventory, and optimized crafting for large modpacks.</description>
-  </item>
-  <item>
-    <title>Salary Coin</title>
-    <link>https://mods.vintagestory.at/show/mod/salarycoin</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/salarycoin#11804</guid>
-    <pubDate>Sat, 03 Oct 2026 01:05:38 -0000</pubDate>
-    <description>Automatically distributes AnyCoin tokens to all logged-in and active players,</description>
-  </item>
-  <item>
-    <title>Smart TV</title>
-    <link>https://mods.vintagestory.at/show/mod/smarttv</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smarttv#12250</guid>
-    <pubDate>Sat, 03 Oct 2026 00:57:08 -0000</pubDate>
-    <description>This mod adds a flat screen wall mounted tv that is resizable. Only available in the creative menu</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
-    <pubDate>Sat, 03 Oct 2026 00:19:24 -0000</pubDate>
-    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
-  </item>
-  <item>
-    <title>Gentage</title>
-    <link>https://mods.vintagestory.at/show/mod/gentage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
-    <pubDate>Sat, 03 Oct 2026 00:17:53 -0000</pubDate>
-    <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Fri, 02 Oct 2026 23:49:54 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Improved Metallurgy</title>
-    <link>https://mods.vintagestory.at/show/mod/improvedmetallurgy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/improvedmetallurgy#8312</guid>
-    <pubDate>Fri, 02 Oct 2026 23:40:53 -0000</pubDate>
-    <description>Adds advanced alloys and a multiblock blast furnace that allows for mass-smelting of metals.</description>
-  </item>
-  <item>
-    <title>Molds Tweak</title>
-    <link>https://mods.vintagestory.at/show/mod/moldstweak</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moldstweak#6690</guid>
-    <pubDate>Fri, 02 Oct 2026 23:32:03 -0000</pubDate>
-    <description>Tweak that makes some of the molds fill with less material.</description>
-  </item>
-  <item>
-    <title>Contrats &amp; Gages</title>
-    <link>https://mods.vintagestory.at/show/mod/12247</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12247#12247</guid>
-    <pubDate>Fri, 02 Oct 2026 23:29:39 -0000</pubDate>
-    <description>Player-made RôlePlay contracts</description>
-  </item>
-  <item>
-    <title>Napfland Localization</title>
-    <link>https://mods.vintagestory.at/show/mod/napflandlocalization</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/napflandlocalization#12244</guid>
-    <pubDate>Fri, 02 Oct 2026 22:36:29 -0000</pubDate>
-    <description>Сборник переводов модов на русский язык.</description>
-  </item>
-  <item>
-    <title>Frontiers Map - Norse Stamp Addon</title>
-    <link>https://mods.vintagestory.at/show/mod/12243</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12243#12243</guid>
-    <pubDate>Fri, 02 Oct 2026 22:30:22 -0000</pubDate>
-    <description>This mod adds 9 new stamps inspired by norse religion and Vikings to the game.</description>
-  </item>
-  <item>
-    <title>Blank map NationsRoyale Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/12239</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12239#12239</guid>
-    <pubDate>Fri, 02 Oct 2026 21:39:23 -0000</pubDate>
-    <description>A mod to disable the vanilla map terrain render but keeping the GUI, player pin and markers.</description>
-  </item>
-  <item>
-    <title>DeepVanillaCompat</title>
-    <link>https://mods.vintagestory.at/show/mod/deepvanillacompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deepvanillacompat#12241</guid>
-    <pubDate>Fri, 02 Oct 2026 21:31:05 -0000</pubDate>
-    <description>Compat &amp; Fixes, for my modpack :)</description>
-  </item>
-  <item>
-    <title>Immersive Woodworking</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivewoodworking</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivewoodworking#9606</guid>
-    <pubDate>Fri, 02 Oct 2026 21:30:03 -0000</pubDate>
-    <description>Focused immersion mod that makes processing timber feel like work, not paperwork. </description>
-  </item>
-  <item>
-    <title>CollapseStory</title>
-    <link>https://mods.vintagestory.at/show/mod/7776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
-    <pubDate>Fri, 02 Oct 2026 21:22:45 -0000</pubDate>
-    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
-  </item>
-  <item>
-    <title>Geology Expansion: Works</title>
-    <link>https://mods.vintagestory.at/show/mod/geologyexpansionworks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/geologyexpansionworks#12200</guid>
-    <pubDate>Fri, 02 Oct 2026 20:50:07 -0000</pubDate>
-    <description>Adds the works side of Geology Expansion: new building blocks, marble trading, salt lamps, &amp; more</description>
   </item>
 </channel>
 </rss>
