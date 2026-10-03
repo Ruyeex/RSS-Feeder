@@ -4,20 +4,202 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 03 Oct 2026 17:04:02 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 20:45:09 +0000</lastBuildDate>
+  <item>
+    <title>Gentage</title>
+    <link>https://mods.vintagestory.at/show/mod/gentage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
+    <pubDate>Sat, 03 Oct 2026 20:39:55 -0000</pubDate>
+    <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
+  </item>
+  <item>
+    <title>Syrup and CO2</title>
+    <link>https://mods.vintagestory.at/show/mod/12284</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12284#12284</guid>
+    <pubDate>Sat, 03 Oct 2026 20:31:42 -0000</pubDate>
+    <description>Adds cola and soda as well as a carbonation system to the game!</description>
+  </item>
+  <item>
+    <title>Alegacy: Foundation</title>
+    <link>https://mods.vintagestory.at/show/mod/albase</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/albase#6694</guid>
+    <pubDate>Sat, 03 Oct 2026 20:16:44 -0000</pubDate>
+    <description>Foundation quest pack for the Alegacy Server.</description>
+  </item>
+  <item>
+    <title>Arcanum Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/arcanumlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arcanumlib#11325</guid>
+    <pubDate>Sat, 03 Oct 2026 20:14:42 -0000</pubDate>
+    <description>A shared utility library for Vintage Story: HUD, particles, effects, persistence, and more.</description>
+  </item>
+  <item>
+    <title>Alegacy Attire</title>
+    <link>https://mods.vintagestory.at/show/mod/alegacyattire</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyattire#12278</guid>
+    <pubDate>Sat, 03 Oct 2026 20:10:40 -0000</pubDate>
+    <description>Hundreds of medieval and horror-themed clothing pieces, sewn on a tailoring loom from pattern sets</description>
+  </item>
+  <item>
+    <title>Alegacy Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/alegacyclaims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyclaims#12279</guid>
+    <pubDate>Sat, 03 Oct 2026 20:09:30 -0000</pubDate>
+    <description>Chunk-aligned land claims managed on a world map: grant build and use access per player or group.</description>
+  </item>
+  <item>
+    <title>Emotes</title>
+    <link>https://mods.vintagestory.at/show/mod/emotes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/emotes#8235</guid>
+    <pubDate>Sat, 03 Oct 2026 20:05:41 -0000</pubDate>
+    <description>Adds more custom emotes to the game.</description>
+  </item>
+  <item>
+    <title>Distant Vistas</title>
+    <link>https://mods.vintagestory.at/show/mod/distantvistas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/distantvistas#11259</guid>
+    <pubDate>Sat, 03 Oct 2026 20:05:11 -0000</pubDate>
+    <description>Far land you've walked: solid ocean, horizon clouds, seasons, and shadows.</description>
+  </item>
+  <item>
+    <title>Eventide Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Sat, 03 Oct 2026 20:00:59 -0000</pubDate>
+    <description>Claim maps, settlements, and access permissions for the Eventide server.</description>
+  </item>
+  <item>
+    <title>No Random Chutes</title>
+    <link>https://mods.vintagestory.at/show/mod/norandomchutes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/norandomchutes#12282</guid>
+    <pubDate>Sat, 03 Oct 2026 19:35:48 -0000</pubDate>
+    <description>Replaces chute random fork direction with deterministic round robin distribution</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Sat, 03 Oct 2026 19:27:26 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
+  </item>
+  <item>
+    <title>Waxlight Launcher</title>
+    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
+    <pubDate>Sat, 03 Oct 2026 19:24:19 -0000</pubDate>
+    <description>Manage Vintage Story instances, mods, versions and accounts from one modern launcher</description>
+  </item>
+  <item>
+    <title>Primitive Tools Updated</title>
+    <link>https://mods.vintagestory.at/show/mod/primitivetoolsupdated</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/primitivetoolsupdated#8625</guid>
+    <pubDate>Sat, 03 Oct 2026 19:12:57 -0000</pubDate>
+    <description>Primitive Tools Updated is an updated version of Primitive Tools.</description>
+  </item>
+  <item>
+    <title>DRT AgX Kraken - Shader</title>
+    <link>https://mods.vintagestory.at/show/mod/drtagx</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drtagx#2913</guid>
+    <pubDate>Sat, 03 Oct 2026 19:09:06 -0000</pubDate>
+    <description>DRTAgX shapes the game's lighting into the picture your monitor presents.</description>
+  </item>
+  <item>
+    <title>DeepVanillaCompat</title>
+    <link>https://mods.vintagestory.at/show/mod/deepvanillacompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deepvanillacompat#12241</guid>
+    <pubDate>Sat, 03 Oct 2026 18:56:11 -0000</pubDate>
+    <description>Compat &amp; Fixes, for my modpack :)</description>
+  </item>
+  <item>
+    <title>tangleclasses</title>
+    <link>https://mods.vintagestory.at/show/mod/12281</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12281#12281</guid>
+    <pubDate>Sat, 03 Oct 2026 18:35:06 -0000</pubDate>
+    <description>classes for the tangleworld</description>
+  </item>
+  <item>
+    <title>Bone Bolt</title>
+    <link>https://mods.vintagestory.at/show/mod/12280</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12280#12280</guid>
+    <pubDate>Sat, 03 Oct 2026 18:28:34 -0000</pubDate>
+    <description>Bone Bolt</description>
+  </item>
+  <item>
+    <title>configkit</title>
+    <link>https://mods.vintagestory.at/show/mod/configkit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/configkit#11506</guid>
+    <pubDate>Sat, 03 Oct 2026 18:21:56 -0000</pubDate>
+    <description>In-game settings for your mods, without ImGui (alternative to configlib).</description>
+  </item>
+  <item>
+    <title>Cairn — Modpack Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/cairn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
+    <pubDate>Sat, 03 Oct 2026 18:14:17 -0000</pubDate>
+    <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
+  </item>
+  <item>
+    <title>Alegacy Quest Framework</title>
+    <link>https://mods.vintagestory.at/show/mod/alegacyquestframework</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyquestframework#6609</guid>
+    <pubDate>Sat, 03 Oct 2026 18:02:37 -0000</pubDate>
+    <description>Alegacy Quest Framework is a full-featured quest and boss combat engine for Vintage Story.</description>
+  </item>
+  <item>
+    <title>Alegacy patches</title>
+    <link>https://mods.vintagestory.at/show/mod/6997</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6997#6997</guid>
+    <pubDate>Sat, 03 Oct 2026 18:00:51 -0000</pubDate>
+    <description>targeted patches for the Alegacy server setup</description>
+  </item>
+  <item>
+    <title>CollapseStory</title>
+    <link>https://mods.vintagestory.at/show/mod/7776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
+    <pubDate>Sat, 03 Oct 2026 17:49:53 -0000</pubDate>
+    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
+  </item>
+  <item>
+    <title>Moonlit fantasy pack</title>
+    <link>https://mods.vintagestory.at/show/mod/6273</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6273#6273</guid>
+    <pubDate>Sat, 03 Oct 2026 17:36:10 -0000</pubDate>
+    <description>A weapon and armour pack for the moonlit fantasy server</description>
+  </item>
+  <item>
+    <title>Haunford Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/11926</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11926#11926</guid>
+    <pubDate>Sat, 03 Oct 2026 17:31:23 -0000</pubDate>
+    <description>A collection of patches for Haunfords Private Server</description>
+  </item>
+  <item>
+    <title>Swixy ClaimChunk</title>
+    <link>https://mods.vintagestory.at/show/mod/swixyclaimchunk</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swixyclaimchunk#9913</guid>
+    <pubDate>Sat, 03 Oct 2026 17:29:21 -0000</pubDate>
+    <description>Claiming made easy. Press [P], click a chunk, and it's yours!</description>
+  </item>
+  <item>
+    <title>Inventory Jump+Run Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/inventoryjumprunfix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/inventoryjumprunfix#12205</guid>
+    <pubDate>Sat, 03 Oct 2026 17:13:52 -0000</pubDate>
+    <description>Allows you to jump and sprint while the inventory is open.</description>
+  </item>
+  <item>
+    <title>Easier Clutter Repair</title>
+    <link>https://mods.vintagestory.at/show/mod/12277</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12277#12277</guid>
+    <pubDate>Sat, 03 Oct 2026 17:06:49 -0000</pubDate>
+    <description>A simple small fork of DPhKraken's Easier Glue &amp; Clutter Pickup I made for a sever.</description>
+  </item>
   <item>
     <title>Food Shelves</title>
     <link>https://mods.vintagestory.at/show/mod/foodshelves</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/foodshelves#2383</guid>
     <pubDate>Sat, 03 Oct 2026 16:51:53 -0000</pubDate>
     <description>Contains various food shelves and food storage, mainly made to be used alongside Expanded Foods.</description>
-  </item>
-  <item>
-    <title>Gentage</title>
-    <link>https://mods.vintagestory.at/show/mod/gentage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
-    <pubDate>Sat, 03 Oct 2026 16:43:50 -0000</pubDate>
-    <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
   </item>
   <item>
     <title>Linked Inventories</title>
@@ -27,193 +209,11 @@
     <description>Automatically opens and neatly positions the player inventory together with supported containers.</description>
   </item>
   <item>
-    <title>Inventory Jump+Run Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/inventoryjumprunfix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/inventoryjumprunfix#12205</guid>
-    <pubDate>Sat, 03 Oct 2026 16:23:08 -0000</pubDate>
-    <description>Allows you to jump and sprint while the inventory is open.</description>
-  </item>
-  <item>
     <title>Slap A Label On It</title>
     <link>https://mods.vintagestory.at/show/mod/slapalabelonit</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slapalabelonit#3417</guid>
     <pubDate>Sat, 03 Oct 2026 16:12:09 -0000</pubDate>
     <description>Ever wanted to add labels to already placed crates? With this mod you can!</description>
-  </item>
-  <item>
-    <title>Moonlit magic</title>
-    <link>https://mods.vintagestory.at/show/mod/moonlitmagic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmagic#11891</guid>
-    <pubDate>Sat, 03 Oct 2026 16:08:25 -0000</pubDate>
-    <description>Biome based magic system</description>
-  </item>
-  <item>
-    <title>Borderless Window Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/borderlesswindowfix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/borderlesswindowfix#12112</guid>
-    <pubDate>Sat, 03 Oct 2026 16:06:11 -0000</pubDate>
-    <description>Adds a true borderless fullscreen mode for Windows.</description>
-  </item>
-  <item>
-    <title>Dreamcatchers</title>
-    <link>https://mods.vintagestory.at/show/mod/dreamcatchers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dreamcatchers#858</guid>
-    <pubDate>Sat, 03 Oct 2026 16:01:19 -0000</pubDate>
-    <description>It can make creepy temporal storms and long nights a little bit lighter...</description>
-  </item>
-  <item>
-    <title>Signals</title>
-    <link>https://mods.vintagestory.at/show/mod/signals</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/signals#804</guid>
-    <pubDate>Sat, 03 Oct 2026 15:28:41 -0000</pubDate>
-    <description>Signals is a WIP mod allowing player to design "pseudo analogic" circuits. It adds triodes, resis...</description>
-  </item>
-  <item>
-    <title>Room Climates [Beta]</title>
-    <link>https://mods.vintagestory.at/show/mod/roomclimates</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/roomclimates#11795</guid>
-    <pubDate>Sat, 03 Oct 2026 15:23:10 -0000</pubDate>
-    <description>Heat your house, cool your cellar and manage the temperature of your greenhouse.</description>
-  </item>
-  <item>
-    <title>Taxidermy Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/taxidermypatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taxidermypatches#12067</guid>
-    <pubDate>Sat, 03 Oct 2026 15:12:32 -0000</pubDate>
-    <description>Patches that adds other animal mods to allow taxidermy mounts</description>
-  </item>
-  <item>
-    <title>Taxidermy</title>
-    <link>https://mods.vintagestory.at/show/mod/taxidermy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taxidermy#11946</guid>
-    <pubDate>Sat, 03 Oct 2026 14:55:51 -0000</pubDate>
-    <description>Mount the animals you hunt - the whole animal in a pose of your choosing, or the head on the wall.</description>
-  </item>
-  <item>
-    <title>Dragonia Translations</title>
-    <link>https://mods.vintagestory.at/show/mod/10016</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10016#10016</guid>
-    <pubDate>Sat, 03 Oct 2026 14:49:42 -0000</pubDate>
-    <description>Переводы и отредактированные переводы под стиль сервера. </description>
-  </item>
-  <item>
-    <title>Seraphs Ledger</title>
-    <link>https://mods.vintagestory.at/show/mod/9783</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9783#9783</guid>
-    <pubDate>Sat, 03 Oct 2026 14:40:48 -0000</pubDate>
-    <description>Sort vessel contents by freshness &amp; an Animal Tally Board.</description>
-  </item>
-  <item>
-    <title>Vintage Wings Pre-Alpha</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagewings</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagewings#12169</guid>
-    <pubDate>Sat, 03 Oct 2026 14:17:48 -0000</pubDate>
-    <description>Add wings to different player models.</description>
-  </item>
-  <item>
-    <title>Better Attack</title>
-    <link>https://mods.vintagestory.at/show/mod/betterattack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterattack#12066</guid>
-    <pubDate>Sat, 03 Oct 2026 14:14:01 -0000</pubDate>
-    <description>Hit an enemy in front of you even if you miss</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sat, 03 Oct 2026 14:02:29 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Marcy9's dracoir patch</title>
-    <link>https://mods.vintagestory.at/show/mod/marcy9dracoritraits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/marcy9dracoritraits#12269</guid>
-    <pubDate>Sat, 03 Oct 2026 13:45:39 -0000</pubDate>
-    <description>Mod that adds custom traits for the draconlet and draikin races optimised for my server</description>
-  </item>
-  <item>
-    <title>Hex's Mechworks x Boric Alchemy Compat</title>
-    <link>https://mods.vintagestory.at/show/mod/hexsmechboriccompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmechboriccompat#12259</guid>
-    <pubDate>Sat, 03 Oct 2026 13:40:14 -0000</pubDate>
-    <description>Adds some missing BA compat to Hex's Mechworks.</description>
-  </item>
-  <item>
-    <title>Feed or Fallow</title>
-    <link>https://mods.vintagestory.at/show/mod/11297</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11297#11297</guid>
-    <pubDate>Sat, 03 Oct 2026 13:39:11 -0000</pubDate>
-    <description>Your livestock get hungry now. (call for testers)</description>
-  </item>
-  <item>
-    <title>Teapot's Giant Boar</title>
-    <link>https://mods.vintagestory.at/show/mod/teapotsgiantboar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantboar#11742</guid>
-    <pubDate>Sat, 03 Oct 2026 12:51:05 -0000</pubDate>
-    <description>Chonky boys that can be your companions and mounts. In wild, they might trigger your bear traumas.</description>
-  </item>
-  <item>
-    <title>BotaniaStory</title>
-    <link>https://mods.vintagestory.at/show/mod/8113</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8113#8113</guid>
-    <pubDate>Sat, 03 Oct 2026 12:47:51 -0000</pubDate>
-    <description>BotaniaStory - nature magic, mana, and automation in Vintage Story!</description>
-  </item>
-  <item>
-    <title>DRT AgX Kraken - Shader</title>
-    <link>https://mods.vintagestory.at/show/mod/drtagx</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drtagx#2913</guid>
-    <pubDate>Sat, 03 Oct 2026 12:26:39 -0000</pubDate>
-    <description>DRTAgX shapes the game's lighting into the picture your monitor presents.</description>
-  </item>
-  <item>
-    <title>Window Display</title>
-    <link>https://mods.vintagestory.at/show/mod/windowdisplay</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplay#10488</guid>
-    <pubDate>Sat, 03 Oct 2026 12:25:27 -0000</pubDate>
-    <description>Adds Windows, an improved version of the Window Storage mod, uses Universal Display Lib</description>
-  </item>
-  <item>
-    <title>Bricklayers</title>
-    <link>https://mods.vintagestory.at/show/mod/bricklayers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bricklayers#117</guid>
-    <pubDate>Sat, 03 Oct 2026 12:04:47 -0000</pubDate>
-    <description>More clay, bricks, porcelain, glazings, colored glass, luminous glass.</description>
-  </item>
-  <item>
-    <title>VSCN 社区服务器中改进模组的模组</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
-    <pubDate>Sat, 03 Oct 2026 12:03:59 -0000</pubDate>
-    <description>VSCN 社区服务器中改进模组的模组</description>
-  </item>
-  <item>
-    <title>TekTools</title>
-    <link>https://mods.vintagestory.at/show/mod/11615</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11615#11615</guid>
-    <pubDate>Sat, 03 Oct 2026 11:55:30 -0000</pubDate>
-    <description>Adds a dedicated Tools tab to the Vintage Story character window, providing a clean home for TekTool</description>
-  </item>
-  <item>
-    <title>Carried</title>
-    <link>https://mods.vintagestory.at/show/mod/carried</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carried#11427</guid>
-    <pubDate>Sat, 03 Oct 2026 11:49:16 -0000</pubDate>
-    <description>Carry other players in various ways, or hold their hands. Bridal, firefighter, buddy, piggyback,</description>
-  </item>
-  <item>
-    <title>Valley of Ashes</title>
-    <link>https://mods.vintagestory.at/show/mod/valleyofashes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/valleyofashes#2288</guid>
-    <pubDate>Sat, 03 Oct 2026 11:44:11 -0000</pubDate>
-    <description>Craft wood and plant ash, ash sludge and optional potash.</description>
-  </item>
-  <item>
-    <title>Veadotube connector for VS</title>
-    <link>https://mods.vintagestory.at/show/mod/12267</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12267#12267</guid>
-    <pubDate>Sat, 03 Oct 2026 11:36:09 -0000</pubDate>
-    <description>Link your emotes to game!</description>
   </item>
 </channel>
 </rss>
