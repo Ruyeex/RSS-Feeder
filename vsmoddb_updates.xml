@@ -4,20 +4,118 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 03 Oct 2026 20:45:09 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 23:35:12 +0000</lastBuildDate>
+  <item>
+    <title>Crucibulum</title>
+    <link>https://mods.vintagestory.at/show/mod/crucibulum</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crucibulum#11374</guid>
+    <pubDate>Sat, 03 Oct 2026 23:31:33 -0000</pubDate>
+    <description>Set a crucible in the forge and melt metal where you smith it</description>
+  </item>
+  <item>
+    <title>StonewakeFR</title>
+    <link>https://mods.vintagestory.at/show/mod/12223</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12223#12223</guid>
+    <pubDate>Sat, 03 Oct 2026 23:24:26 -0000</pubDate>
+    <description>Complément français du modpack Stonewake pour Vintage Story.</description>
+  </item>
   <item>
     <title>Gentage</title>
     <link>https://mods.vintagestory.at/show/mod/gentage</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
-    <pubDate>Sat, 03 Oct 2026 20:39:55 -0000</pubDate>
+    <pubDate>Sat, 03 Oct 2026 23:20:40 -0000</pubDate>
     <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
+  </item>
+  <item>
+    <title>Outlier Network Core</title>
+    <link>https://mods.vintagestory.at/show/mod/outliernetworkcore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/outliernetworkcore#12288</guid>
+    <pubDate>Sat, 03 Oct 2026 23:03:18 -0000</pubDate>
+    <description>Wayfinder, jobs, homes, plots and cosmetic menus for players on Outlier Network.</description>
+  </item>
+  <item>
+    <title>RunicMagic</title>
+    <link>https://mods.vintagestory.at/show/mod/11486</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11486#11486</guid>
+    <pubDate>Sat, 03 Oct 2026 22:40:20 -0000</pubDate>
+    <description>Discover a world specific runic language, research its words, and write your own spells.</description>
+  </item>
+  <item>
+    <title>Teapot's Giant Boar</title>
+    <link>https://mods.vintagestory.at/show/mod/teapotsgiantboar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantboar#11742</guid>
+    <pubDate>Sat, 03 Oct 2026 22:34:19 -0000</pubDate>
+    <description>Chonky boys that can be your companions and mounts. In wild, they might trigger your bear traumas.</description>
+  </item>
+  <item>
+    <title>Edge Of Lineage: Legion</title>
+    <link>https://mods.vintagestory.at/show/mod/eollegion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eollegion#12196</guid>
+    <pubDate>Sat, 03 Oct 2026 22:11:53 -0000</pubDate>
+    <description>Roman themed pack from Edge Of Lineage suite</description>
+  </item>
+  <item>
+    <title>Edge Of Lineage: Core</title>
+    <link>https://mods.vintagestory.at/show/mod/eolcore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eolcore#12195</guid>
+    <pubDate>Sat, 03 Oct 2026 22:11:48 -0000</pubDate>
+    <description>Core module of Edge of Lineage suite that introduces new weapons and crafting mechanics</description>
+  </item>
+  <item>
+    <title>Unused Work Item Refund</title>
+    <link>https://mods.vintagestory.at/show/mod/12286</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12286#12286</guid>
+    <pubDate>Sat, 03 Oct 2026 22:05:43 -0000</pubDate>
+    <description>Refunds unworked work items from the anvil, turning them back into ingots or plates.</description>
+  </item>
+  <item>
+    <title>Atlas</title>
+    <link>https://mods.vintagestory.at/show/mod/atlas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
+    <pubDate>Sat, 03 Oct 2026 22:05:42 -0000</pubDate>
+    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
+  </item>
+  <item>
+    <title>DeepVanillaCompat</title>
+    <link>https://mods.vintagestory.at/show/mod/deepvanillacompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deepvanillacompat#12241</guid>
+    <pubDate>Sat, 03 Oct 2026 21:57:00 -0000</pubDate>
+    <description>Compat &amp; Fixes, for my modpack :)</description>
+  </item>
+  <item>
+    <title>Walkable Deck</title>
+    <link>https://mods.vintagestory.at/show/mod/walkabledeck</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkabledeck#11390</guid>
+    <pubDate>Sat, 03 Oct 2026 21:46:28 -0000</pubDate>
+    <description>Stand up and walk a boat deck while it sails. Vanilla boats; no other mod required.</description>
+  </item>
+  <item>
+    <title>tangleclasses</title>
+    <link>https://mods.vintagestory.at/show/mod/12281</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12281#12281</guid>
+    <pubDate>Sat, 03 Oct 2026 21:40:50 -0000</pubDate>
+    <description>classes for the tangleworld</description>
+  </item>
+  <item>
+    <title>Russification For Mods</title>
+    <link>https://mods.vintagestory.at/show/mod/5312</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5312#5312</guid>
+    <pubDate>Sat, 03 Oct 2026 21:27:18 -0000</pubDate>
+    <description>Russian Translation Pack — a collection of Russian localizations for various Vintage Story mods.</description>
   </item>
   <item>
     <title>Syrup and CO2</title>
     <link>https://mods.vintagestory.at/show/mod/12284</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12284#12284</guid>
-    <pubDate>Sat, 03 Oct 2026 20:31:42 -0000</pubDate>
+    <pubDate>Sat, 03 Oct 2026 21:12:03 -0000</pubDate>
     <description>Adds cola and soda as well as a carbonation system to the game!</description>
+  </item>
+  <item>
+    <title>Cocktail Madness!</title>
+    <link>https://mods.vintagestory.at/show/mod/11680</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11680#11680</guid>
+    <pubDate>Sat, 03 Oct 2026 20:47:42 -0000</pubDate>
+    <description>Allows for the mixing of alcoholic and non alcoholic beverages.</description>
   </item>
   <item>
     <title>Alegacy: Foundation</title>
@@ -104,20 +202,6 @@
     <description>DRTAgX shapes the game's lighting into the picture your monitor presents.</description>
   </item>
   <item>
-    <title>DeepVanillaCompat</title>
-    <link>https://mods.vintagestory.at/show/mod/deepvanillacompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deepvanillacompat#12241</guid>
-    <pubDate>Sat, 03 Oct 2026 18:56:11 -0000</pubDate>
-    <description>Compat &amp; Fixes, for my modpack :)</description>
-  </item>
-  <item>
-    <title>tangleclasses</title>
-    <link>https://mods.vintagestory.at/show/mod/12281</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12281#12281</guid>
-    <pubDate>Sat, 03 Oct 2026 18:35:06 -0000</pubDate>
-    <description>classes for the tangleworld</description>
-  </item>
-  <item>
     <title>Bone Bolt</title>
     <link>https://mods.vintagestory.at/show/mod/12280</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12280#12280</guid>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/configkit#11506</guid>
     <pubDate>Sat, 03 Oct 2026 18:21:56 -0000</pubDate>
     <description>In-game settings for your mods, without ImGui (alternative to configlib).</description>
-  </item>
-  <item>
-    <title>Cairn — Modpack Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/cairn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
-    <pubDate>Sat, 03 Oct 2026 18:14:17 -0000</pubDate>
-    <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
-  </item>
-  <item>
-    <title>Alegacy Quest Framework</title>
-    <link>https://mods.vintagestory.at/show/mod/alegacyquestframework</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyquestframework#6609</guid>
-    <pubDate>Sat, 03 Oct 2026 18:02:37 -0000</pubDate>
-    <description>Alegacy Quest Framework is a full-featured quest and boss combat engine for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Alegacy patches</title>
-    <link>https://mods.vintagestory.at/show/mod/6997</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6997#6997</guid>
-    <pubDate>Sat, 03 Oct 2026 18:00:51 -0000</pubDate>
-    <description>targeted patches for the Alegacy server setup</description>
-  </item>
-  <item>
-    <title>CollapseStory</title>
-    <link>https://mods.vintagestory.at/show/mod/7776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
-    <pubDate>Sat, 03 Oct 2026 17:49:53 -0000</pubDate>
-    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
-  </item>
-  <item>
-    <title>Moonlit fantasy pack</title>
-    <link>https://mods.vintagestory.at/show/mod/6273</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6273#6273</guid>
-    <pubDate>Sat, 03 Oct 2026 17:36:10 -0000</pubDate>
-    <description>A weapon and armour pack for the moonlit fantasy server</description>
-  </item>
-  <item>
-    <title>Haunford Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/11926</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11926#11926</guid>
-    <pubDate>Sat, 03 Oct 2026 17:31:23 -0000</pubDate>
-    <description>A collection of patches for Haunfords Private Server</description>
-  </item>
-  <item>
-    <title>Swixy ClaimChunk</title>
-    <link>https://mods.vintagestory.at/show/mod/swixyclaimchunk</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swixyclaimchunk#9913</guid>
-    <pubDate>Sat, 03 Oct 2026 17:29:21 -0000</pubDate>
-    <description>Claiming made easy. Press [P], click a chunk, and it's yours!</description>
-  </item>
-  <item>
-    <title>Inventory Jump+Run Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/inventoryjumprunfix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/inventoryjumprunfix#12205</guid>
-    <pubDate>Sat, 03 Oct 2026 17:13:52 -0000</pubDate>
-    <description>Allows you to jump and sprint while the inventory is open.</description>
-  </item>
-  <item>
-    <title>Easier Clutter Repair</title>
-    <link>https://mods.vintagestory.at/show/mod/12277</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12277#12277</guid>
-    <pubDate>Sat, 03 Oct 2026 17:06:49 -0000</pubDate>
-    <description>A simple small fork of DPhKraken's Easier Glue &amp; Clutter Pickup I made for a sever.</description>
-  </item>
-  <item>
-    <title>Food Shelves</title>
-    <link>https://mods.vintagestory.at/show/mod/foodshelves</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/foodshelves#2383</guid>
-    <pubDate>Sat, 03 Oct 2026 16:51:53 -0000</pubDate>
-    <description>Contains various food shelves and food storage, mainly made to be used alongside Expanded Foods.</description>
-  </item>
-  <item>
-    <title>Linked Inventories</title>
-    <link>https://mods.vintagestory.at/show/mod/linkedinventories</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/linkedinventories#12181</guid>
-    <pubDate>Sat, 03 Oct 2026 16:38:41 -0000</pubDate>
-    <description>Automatically opens and neatly positions the player inventory together with supported containers.</description>
-  </item>
-  <item>
-    <title>Slap A Label On It</title>
-    <link>https://mods.vintagestory.at/show/mod/slapalabelonit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slapalabelonit#3417</guid>
-    <pubDate>Sat, 03 Oct 2026 16:12:09 -0000</pubDate>
-    <description>Ever wanted to add labels to already placed crates? With this mod you can!</description>
   </item>
 </channel>
 </rss>
