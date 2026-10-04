@@ -4,7 +4,189 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 04 Oct 2026 04:55:33 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 11:00:25 +0000</lastBuildDate>
+  <item>
+    <title>PushShip</title>
+    <link>https://mods.vintagestory.at/show/mod/pushship</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pushship#12293</guid>
+    <pubDate>Sun, 04 Oct 2026 10:52:59 -0000</pubDate>
+    <description>Push nearby boats with Ctrl-right-click or /pushship - this facilitates Travel / RP </description>
+  </item>
+  <item>
+    <title>xSkills Fork Classic Edition</title>
+    <link>https://mods.vintagestory.at/show/mod/11574</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11574#11574</guid>
+    <pubDate>Sun, 04 Oct 2026 10:42:00 -0000</pubDate>
+    <description>Classic RPG-style skill system with abilities, perks, and progression now with old classic menu.</description>
+  </item>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Sun, 04 Oct 2026 10:41:41 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
+  <item>
+    <title>xLib Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7618</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7618#7618</guid>
+    <pubDate>Sun, 04 Oct 2026 10:41:17 -0000</pubDate>
+    <description>XLib provides an interface to add skills, abilities and effects to the game.</description>
+  </item>
+  <item>
+    <title>Mixed Stacks Bags</title>
+    <link>https://mods.vintagestory.at/show/mod/12296</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12296#12296</guid>
+    <pubDate>Sun, 04 Oct 2026 10:23:09 -0000</pubDate>
+    <description>A bag to put mixed mushrooms, berries or nuggets, so it only occupies 1 slot.</description>
+  </item>
+  <item>
+    <title>Better Attack</title>
+    <link>https://mods.vintagestory.at/show/mod/betterattack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterattack#12066</guid>
+    <pubDate>Sun, 04 Oct 2026 10:03:58 -0000</pubDate>
+    <description>Hit an enemy in front of you even if you miss</description>
+  </item>
+  <item>
+    <title>CollapseStory</title>
+    <link>https://mods.vintagestory.at/show/mod/7776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7776#7776</guid>
+    <pubDate>Sun, 04 Oct 2026 09:54:03 -0000</pubDate>
+    <description>Adds structural and material physics to building blocks, and greatly expands beam functionality.</description>
+  </item>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Sun, 04 Oct 2026 09:52:11 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
+  <item>
+    <title>Hearth &amp; Draught [Public Beta]</title>
+    <link>https://mods.vintagestory.at/show/mod/hearthanddraught</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hearthanddraught#11803</guid>
+    <pubDate>Sun, 04 Oct 2026 09:41:41 -0000</pubDate>
+    <description>Windows, chimneys, log burners and open fires, with room heating and ventilation.</description>
+  </item>
+  <item>
+    <title>Rift Traveler</title>
+    <link>https://mods.vintagestory.at/show/mod/rifttraveler</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rifttraveler#10646</guid>
+    <pubDate>Sun, 04 Oct 2026 08:56:49 -0000</pubDate>
+    <description>Explore or close rifts, craft temporal tech, teleport home, and transmit cargo across dimensions</description>
+  </item>
+  <item>
+    <title>No Random Chutes</title>
+    <link>https://mods.vintagestory.at/show/mod/norandomchutes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/norandomchutes#12282</guid>
+    <pubDate>Sun, 04 Oct 2026 08:17:22 -0000</pubDate>
+    <description>Replaces chute random fork direction with deterministic round robin distribution</description>
+  </item>
+  <item>
+    <title>Custom Music Radio</title>
+    <link>https://mods.vintagestory.at/show/mod/customradio</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customradio#11927</guid>
+    <pubDate>Sun, 04 Oct 2026 07:10:19 -0000</pubDate>
+    <description>A physical radio that streams server-owned Ogg Vorbis music to clients</description>
+  </item>
+  <item>
+    <title>Player Model Access</title>
+    <link>https://mods.vintagestory.at/show/mod/pmaccess</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pmaccess#11868</guid>
+    <pubDate>Sun, 04 Oct 2026 07:09:44 -0000</pubDate>
+    <description>Allows you to globally disable player models so you can enable it for specific people!</description>
+  </item>
+  <item>
+    <title>Tamables: Critters</title>
+    <link>https://mods.vintagestory.at/show/mod/tamablescritters</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tamablescritters#11270</guid>
+    <pubDate>Sun, 04 Oct 2026 07:09:26 -0000</pubDate>
+    <description>Adds PetAI taming for supported reptiles, Critters Pack animals, and More Animals.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Taming</title>
+    <link>https://mods.vintagestory.at/show/mod/fotsataming</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsataming#11206</guid>
+    <pubDate>Sun, 04 Oct 2026 07:09:12 -0000</pubDate>
+    <description>Adds taming ability through PetAI to allow a bunch of the FOTSA animals to be tamed.</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Sun, 04 Oct 2026 07:08:42 -0000</pubDate>
+    <description>Gives tamed animals personalities, backpacks, duties, talents, breeding, and expeditions.</description>
+  </item>
+  <item>
+    <title>Animal Kinship</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinship</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinship#9647</guid>
+    <pubDate>Sun, 04 Oct 2026 07:08:07 -0000</pubDate>
+    <description>Animals recognize their feral kin, with simple taming for supported wildlife.</description>
+  </item>
+  <item>
+    <title>Animalica Requests</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicare</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicare#11876</guid>
+    <pubDate>Sun, 04 Oct 2026 07:07:45 -0000</pubDate>
+    <description>Adds deer antlers for foxes and hares, plus a tailless fox option.</description>
+  </item>
+  <item>
+    <title>Animalica - Abilities</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicaa</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicaa#10949</guid>
+    <pubDate>Sun, 04 Oct 2026 07:07:29 -0000</pubDate>
+    <description>Adds scent, night sight, pounce, and adrenaline for supported animal player models.</description>
+  </item>
+  <item>
+    <title>Animalica Core</title>
+    <link>https://mods.vintagestory.at/show/mod/feralplayerpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feralplayerpack#9484</guid>
+    <pubDate>Sun, 04 Oct 2026 07:07:01 -0000</pubDate>
+    <description>Shared traits, diets, sizing, actions, and first-person support for Animalica player models.</description>
+  </item>
+  <item>
+    <title>Swixy ClaimChunk</title>
+    <link>https://mods.vintagestory.at/show/mod/swixyclaimchunk</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/swixyclaimchunk#9913</guid>
+    <pubDate>Sun, 04 Oct 2026 07:05:25 -0000</pubDate>
+    <description>Claiming made easy. Press [P], click a chunk, and it's yours!</description>
+  </item>
+  <item>
+    <title>VSA - Replica</title>
+    <link>https://mods.vintagestory.at/show/mod/9115</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
+    <pubDate>Sun, 04 Oct 2026 06:54:05 -0000</pubDate>
+    <description> (Valkyrian Skies for VS basically) Build block-made moving ships and structures</description>
+  </item>
+  <item>
+    <title>C4B Traducciones-ES ► MODS</title>
+    <link>https://mods.vintagestory.at/show/mod/c4btraduccionesmods</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/c4btraduccionesmods#2720</guid>
+    <pubDate>Sun, 04 Oct 2026 06:46:09 -0000</pubDate>
+    <description>Traducción de (más de 230) Mods en Español-ES</description>
+  </item>
+  <item>
+    <title>GhostChunks</title>
+    <link>https://mods.vintagestory.at/show/mod/ghostchunks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ghostchunks#12113</guid>
+    <pubDate>Sun, 04 Oct 2026 06:14:39 -0000</pubDate>
+    <description>Highly performant distant terrain LOD renderer, capable of rendering at 200+ fps!</description>
+  </item>
+  <item>
+    <title>Seraph Leveling ReClassed</title>
+    <link>https://mods.vintagestory.at/show/mod/11234</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11234#11234</guid>
+    <pubDate>Sun, 04 Oct 2026 06:06:10 -0000</pubDate>
+    <description>Level up and gain traits in a vanilla-friendly way, with additional mod support</description>
+  </item>
+  <item>
+    <title>DRT AgX Kraken - Shader</title>
+    <link>https://mods.vintagestory.at/show/mod/drtagx</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drtagx#2913</guid>
+    <pubDate>Sun, 04 Oct 2026 05:48:05 -0000</pubDate>
+    <description>DRTAgX shapes the game's lighting into the picture your monitor presents.</description>
+  </item>
   <item>
     <title>Distant Vistas</title>
     <link>https://mods.vintagestory.at/show/mod/distantvistas</link>
@@ -32,188 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/olla#5784</guid>
     <pubDate>Sun, 04 Oct 2026 03:42:34 -0000</pubDate>
     <description> Bring ancient irrigation technology to Vintage Story! This mod adds ollas (pronounced "oy-yahs")</description>
-  </item>
-  <item>
-    <title>Diet Setup</title>
-    <link>https://mods.vintagestory.at/show/mod/dietsetup</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dietsetup#11576</guid>
-    <pubDate>Sun, 04 Oct 2026 03:27:47 -0000</pubDate>
-    <description>Configurable food preferences, nutrition and spoilage responses, with optional race diets.</description>
-  </item>
-  <item>
-    <title>RFMechanics</title>
-    <link>https://mods.vintagestory.at/show/mod/rfmechanics</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rfmechanics#11578</guid>
-    <pubDate>Sun, 04 Oct 2026 03:26:35 -0000</pubDate>
-    <description>Race-specific abilities and survival mechanics. WIP but currently has climbing, growing orcs, etc</description>
-  </item>
-  <item>
-    <title>Race Framework</title>
-    <link>https://mods.vintagestory.at/show/mod/raceframework</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/raceframework#11577</guid>
-    <pubDate>Sun, 04 Oct 2026 03:25:12 -0000</pubDate>
-    <description>Racial strengths, drawbacks and class choices for various races</description>
-  </item>
-  <item>
-    <title>Gentage</title>
-    <link>https://mods.vintagestory.at/show/mod/gentage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
-    <pubDate>Sun, 04 Oct 2026 02:47:06 -0000</pubDate>
-    <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
-  </item>
-  <item>
-    <title>Lakul's Enhanced Vanilla Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/lakulsenhancedvanillatrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lakulsenhancedvanillatrees#7855</guid>
-    <pubDate>Sun, 04 Oct 2026 02:38:53 -0000</pubDate>
-    <description>Upsizes most vanilla trees for a more natural, immersive experience.</description>
-  </item>
-  <item>
-    <title>Cocktail Madness!</title>
-    <link>https://mods.vintagestory.at/show/mod/11680</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11680#11680</guid>
-    <pubDate>Sun, 04 Oct 2026 02:30:09 -0000</pubDate>
-    <description>Allows for the mixing of alcoholic and non alcoholic beverages.</description>
-  </item>
-  <item>
-    <title>The Pond Compat Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/12291</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12291#12291</guid>
-    <pubDate>Sun, 04 Oct 2026 02:08:25 -0000</pubDate>
-    <description>Compat Fix for Forester (The Pond Server)</description>
-  </item>
-  <item>
-    <title>/N/TTS</title>
-    <link>https://mods.vintagestory.at/show/mod/ntts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ntts#10353</guid>
-    <pubDate>Sun, 04 Oct 2026 01:54:13 -0000</pubDate>
-    <description>Text To Speech Mod</description>
-  </item>
-  <item>
-    <title>Smart TV</title>
-    <link>https://mods.vintagestory.at/show/mod/smarttv</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smarttv#12250</guid>
-    <pubDate>Sun, 04 Oct 2026 01:15:35 -0000</pubDate>
-    <description>This mod adds a flat screen wall mounted tv that is resizable. Only available in the creative menu</description>
-  </item>
-  <item>
-    <title>Outlier Network Core</title>
-    <link>https://mods.vintagestory.at/show/mod/outliernetworkcore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/outliernetworkcore#12288</guid>
-    <pubDate>Sun, 04 Oct 2026 01:11:52 -0000</pubDate>
-    <description>Wayfinder, jobs, homes, plots and cosmetic menus for players on Outlier Network.</description>
-  </item>
-  <item>
-    <title>Sky's Short Hair</title>
-    <link>https://mods.vintagestory.at/show/mod/12289</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12289#12289</guid>
-    <pubDate>Sun, 04 Oct 2026 00:52:21 -0000</pubDate>
-    <description>Adds a new hair type, a shoulder length hair with some nicer bangs</description>
-  </item>
-  <item>
-    <title>traduccion de mods a español LA</title>
-    <link>https://mods.vintagestory.at/show/mod/traduccionesdemodsla</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traduccionesdemodsla#11988</guid>
-    <pubDate>Sun, 04 Oct 2026 00:47:42 -0000</pubDate>
-    <description>traduccion de mods a español LA</description>
-  </item>
-  <item>
-    <title>Fornax</title>
-    <link>https://mods.vintagestory.at/show/mod/fornax</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fornax#11226</guid>
-    <pubDate>Sat, 03 Oct 2026 23:52:07 -0000</pubDate>
-    <description>The kiln between the pit kiln and the beehive kiln. Mud brick, firewood, and no iron at all.</description>
-  </item>
-  <item>
-    <title>Crucibulum</title>
-    <link>https://mods.vintagestory.at/show/mod/crucibulum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crucibulum#11374</guid>
-    <pubDate>Sat, 03 Oct 2026 23:31:33 -0000</pubDate>
-    <description>Set a crucible in the forge and melt metal where you smith it</description>
-  </item>
-  <item>
-    <title>StonewakeFR</title>
-    <link>https://mods.vintagestory.at/show/mod/12223</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12223#12223</guid>
-    <pubDate>Sat, 03 Oct 2026 23:24:26 -0000</pubDate>
-    <description>Complément français du modpack Stonewake pour Vintage Story.</description>
-  </item>
-  <item>
-    <title>RunicMagic</title>
-    <link>https://mods.vintagestory.at/show/mod/11486</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11486#11486</guid>
-    <pubDate>Sat, 03 Oct 2026 22:40:20 -0000</pubDate>
-    <description>Discover a world specific runic language, research its words, and write your own spells.</description>
-  </item>
-  <item>
-    <title>Teapot's Giant Boar</title>
-    <link>https://mods.vintagestory.at/show/mod/teapotsgiantboar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantboar#11742</guid>
-    <pubDate>Sat, 03 Oct 2026 22:34:19 -0000</pubDate>
-    <description>Chonky boys that can be your companions and mounts. In wild, they might trigger your bear traumas.</description>
-  </item>
-  <item>
-    <title>Edge Of Lineage: Legion</title>
-    <link>https://mods.vintagestory.at/show/mod/eollegion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eollegion#12196</guid>
-    <pubDate>Sat, 03 Oct 2026 22:11:53 -0000</pubDate>
-    <description>Roman themed pack from Edge Of Lineage suite</description>
-  </item>
-  <item>
-    <title>Edge Of Lineage: Core</title>
-    <link>https://mods.vintagestory.at/show/mod/eolcore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eolcore#12195</guid>
-    <pubDate>Sat, 03 Oct 2026 22:11:48 -0000</pubDate>
-    <description>Core module of Edge of Lineage suite that introduces new weapons and crafting mechanics</description>
-  </item>
-  <item>
-    <title>Unused Work Item Refund</title>
-    <link>https://mods.vintagestory.at/show/mod/12286</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12286#12286</guid>
-    <pubDate>Sat, 03 Oct 2026 22:05:43 -0000</pubDate>
-    <description>Refunds unworked work items from the anvil, turning them back into ingots or plates.</description>
-  </item>
-  <item>
-    <title>Atlas</title>
-    <link>https://mods.vintagestory.at/show/mod/atlas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
-    <pubDate>Sat, 03 Oct 2026 22:05:42 -0000</pubDate>
-    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
-  </item>
-  <item>
-    <title>DeepVanillaCompat</title>
-    <link>https://mods.vintagestory.at/show/mod/deepvanillacompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deepvanillacompat#12241</guid>
-    <pubDate>Sat, 03 Oct 2026 21:57:00 -0000</pubDate>
-    <description>Compat &amp; Fixes, for my modpack :)</description>
-  </item>
-  <item>
-    <title>Walkable Deck</title>
-    <link>https://mods.vintagestory.at/show/mod/walkabledeck</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkabledeck#11390</guid>
-    <pubDate>Sat, 03 Oct 2026 21:46:28 -0000</pubDate>
-    <description>Stand up and walk a boat deck while it sails. Vanilla boats; no other mod required.</description>
-  </item>
-  <item>
-    <title>tangleclasses</title>
-    <link>https://mods.vintagestory.at/show/mod/12281</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12281#12281</guid>
-    <pubDate>Sat, 03 Oct 2026 21:40:50 -0000</pubDate>
-    <description>classes for the tangleworld</description>
-  </item>
-  <item>
-    <title>Russification For Mods</title>
-    <link>https://mods.vintagestory.at/show/mod/5312</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5312#5312</guid>
-    <pubDate>Sat, 03 Oct 2026 21:27:18 -0000</pubDate>
-    <description>Russian Translation Pack — a collection of Russian localizations for various Vintage Story mods.</description>
-  </item>
-  <item>
-    <title>Syrup and CO2</title>
-    <link>https://mods.vintagestory.at/show/mod/12284</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12284#12284</guid>
-    <pubDate>Sat, 03 Oct 2026 21:12:03 -0000</pubDate>
-    <description>Adds cola and soda as well as a carbonation system to the game!</description>
   </item>
 </channel>
 </rss>
