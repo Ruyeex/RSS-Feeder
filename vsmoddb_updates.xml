@@ -4,7 +4,126 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 03 Oct 2026 23:35:12 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 04:55:33 +0000</lastBuildDate>
+  <item>
+    <title>Distant Vistas</title>
+    <link>https://mods.vintagestory.at/show/mod/distantvistas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/distantvistas#11259</guid>
+    <pubDate>Sun, 04 Oct 2026 04:38:24 -0000</pubDate>
+    <description>Far land you've walked: Valks clouds to the horizon, solid ocean, seasons.</description>
+  </item>
+  <item>
+    <title>Immersive Body Temperature and Disorientation compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/12292</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12292#12292</guid>
+    <pubDate>Sun, 04 Oct 2026 04:26:34 -0000</pubDate>
+    <description>Tells IBT to not look for the GUI elements Disorientation removes. Very quick and dirty</description>
+  </item>
+  <item>
+    <title>Casablanca Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/11911</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11911#11911</guid>
+    <pubDate>Sun, 04 Oct 2026 03:51:41 -0000</pubDate>
+    <description>For the Casablanca server setup.</description>
+  </item>
+  <item>
+    <title>Olla</title>
+    <link>https://mods.vintagestory.at/show/mod/olla</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/olla#5784</guid>
+    <pubDate>Sun, 04 Oct 2026 03:42:34 -0000</pubDate>
+    <description> Bring ancient irrigation technology to Vintage Story! This mod adds ollas (pronounced "oy-yahs")</description>
+  </item>
+  <item>
+    <title>Diet Setup</title>
+    <link>https://mods.vintagestory.at/show/mod/dietsetup</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dietsetup#11576</guid>
+    <pubDate>Sun, 04 Oct 2026 03:27:47 -0000</pubDate>
+    <description>Configurable food preferences, nutrition and spoilage responses, with optional race diets.</description>
+  </item>
+  <item>
+    <title>RFMechanics</title>
+    <link>https://mods.vintagestory.at/show/mod/rfmechanics</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rfmechanics#11578</guid>
+    <pubDate>Sun, 04 Oct 2026 03:26:35 -0000</pubDate>
+    <description>Race-specific abilities and survival mechanics. WIP but currently has climbing, growing orcs, etc</description>
+  </item>
+  <item>
+    <title>Race Framework</title>
+    <link>https://mods.vintagestory.at/show/mod/raceframework</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/raceframework#11577</guid>
+    <pubDate>Sun, 04 Oct 2026 03:25:12 -0000</pubDate>
+    <description>Racial strengths, drawbacks and class choices for various races</description>
+  </item>
+  <item>
+    <title>Gentage</title>
+    <link>https://mods.vintagestory.at/show/mod/gentage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
+    <pubDate>Sun, 04 Oct 2026 02:47:06 -0000</pubDate>
+    <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
+  </item>
+  <item>
+    <title>Lakul's Enhanced Vanilla Trees</title>
+    <link>https://mods.vintagestory.at/show/mod/lakulsenhancedvanillatrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lakulsenhancedvanillatrees#7855</guid>
+    <pubDate>Sun, 04 Oct 2026 02:38:53 -0000</pubDate>
+    <description>Upsizes most vanilla trees for a more natural, immersive experience.</description>
+  </item>
+  <item>
+    <title>Cocktail Madness!</title>
+    <link>https://mods.vintagestory.at/show/mod/11680</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11680#11680</guid>
+    <pubDate>Sun, 04 Oct 2026 02:30:09 -0000</pubDate>
+    <description>Allows for the mixing of alcoholic and non alcoholic beverages.</description>
+  </item>
+  <item>
+    <title>The Pond Compat Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/12291</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12291#12291</guid>
+    <pubDate>Sun, 04 Oct 2026 02:08:25 -0000</pubDate>
+    <description>Compat Fix for Forester (The Pond Server)</description>
+  </item>
+  <item>
+    <title>/N/TTS</title>
+    <link>https://mods.vintagestory.at/show/mod/ntts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ntts#10353</guid>
+    <pubDate>Sun, 04 Oct 2026 01:54:13 -0000</pubDate>
+    <description>Text To Speech Mod</description>
+  </item>
+  <item>
+    <title>Smart TV</title>
+    <link>https://mods.vintagestory.at/show/mod/smarttv</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smarttv#12250</guid>
+    <pubDate>Sun, 04 Oct 2026 01:15:35 -0000</pubDate>
+    <description>This mod adds a flat screen wall mounted tv that is resizable. Only available in the creative menu</description>
+  </item>
+  <item>
+    <title>Outlier Network Core</title>
+    <link>https://mods.vintagestory.at/show/mod/outliernetworkcore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/outliernetworkcore#12288</guid>
+    <pubDate>Sun, 04 Oct 2026 01:11:52 -0000</pubDate>
+    <description>Wayfinder, jobs, homes, plots and cosmetic menus for players on Outlier Network.</description>
+  </item>
+  <item>
+    <title>Sky's Short Hair</title>
+    <link>https://mods.vintagestory.at/show/mod/12289</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12289#12289</guid>
+    <pubDate>Sun, 04 Oct 2026 00:52:21 -0000</pubDate>
+    <description>Adds a new hair type, a shoulder length hair with some nicer bangs</description>
+  </item>
+  <item>
+    <title>traduccion de mods a español LA</title>
+    <link>https://mods.vintagestory.at/show/mod/traduccionesdemodsla</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traduccionesdemodsla#11988</guid>
+    <pubDate>Sun, 04 Oct 2026 00:47:42 -0000</pubDate>
+    <description>traduccion de mods a español LA</description>
+  </item>
+  <item>
+    <title>Fornax</title>
+    <link>https://mods.vintagestory.at/show/mod/fornax</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fornax#11226</guid>
+    <pubDate>Sat, 03 Oct 2026 23:52:07 -0000</pubDate>
+    <description>The kiln between the pit kiln and the beehive kiln. Mud brick, firewood, and no iron at all.</description>
+  </item>
   <item>
     <title>Crucibulum</title>
     <link>https://mods.vintagestory.at/show/mod/crucibulum</link>
@@ -18,20 +137,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12223#12223</guid>
     <pubDate>Sat, 03 Oct 2026 23:24:26 -0000</pubDate>
     <description>Complément français du modpack Stonewake pour Vintage Story.</description>
-  </item>
-  <item>
-    <title>Gentage</title>
-    <link>https://mods.vintagestory.at/show/mod/gentage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
-    <pubDate>Sat, 03 Oct 2026 23:20:40 -0000</pubDate>
-    <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
-  </item>
-  <item>
-    <title>Outlier Network Core</title>
-    <link>https://mods.vintagestory.at/show/mod/outliernetworkcore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/outliernetworkcore#12288</guid>
-    <pubDate>Sat, 03 Oct 2026 23:03:18 -0000</pubDate>
-    <description>Wayfinder, jobs, homes, plots and cosmetic menus for players on Outlier Network.</description>
   </item>
   <item>
     <title>RunicMagic</title>
@@ -109,111 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12284#12284</guid>
     <pubDate>Sat, 03 Oct 2026 21:12:03 -0000</pubDate>
     <description>Adds cola and soda as well as a carbonation system to the game!</description>
-  </item>
-  <item>
-    <title>Cocktail Madness!</title>
-    <link>https://mods.vintagestory.at/show/mod/11680</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11680#11680</guid>
-    <pubDate>Sat, 03 Oct 2026 20:47:42 -0000</pubDate>
-    <description>Allows for the mixing of alcoholic and non alcoholic beverages.</description>
-  </item>
-  <item>
-    <title>Alegacy: Foundation</title>
-    <link>https://mods.vintagestory.at/show/mod/albase</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/albase#6694</guid>
-    <pubDate>Sat, 03 Oct 2026 20:16:44 -0000</pubDate>
-    <description>Foundation quest pack for the Alegacy Server.</description>
-  </item>
-  <item>
-    <title>Arcanum Lib</title>
-    <link>https://mods.vintagestory.at/show/mod/arcanumlib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arcanumlib#11325</guid>
-    <pubDate>Sat, 03 Oct 2026 20:14:42 -0000</pubDate>
-    <description>A shared utility library for Vintage Story: HUD, particles, effects, persistence, and more.</description>
-  </item>
-  <item>
-    <title>Alegacy Attire</title>
-    <link>https://mods.vintagestory.at/show/mod/alegacyattire</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyattire#12278</guid>
-    <pubDate>Sat, 03 Oct 2026 20:10:40 -0000</pubDate>
-    <description>Hundreds of medieval and horror-themed clothing pieces, sewn on a tailoring loom from pattern sets</description>
-  </item>
-  <item>
-    <title>Alegacy Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/alegacyclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyclaims#12279</guid>
-    <pubDate>Sat, 03 Oct 2026 20:09:30 -0000</pubDate>
-    <description>Chunk-aligned land claims managed on a world map: grant build and use access per player or group.</description>
-  </item>
-  <item>
-    <title>Emotes</title>
-    <link>https://mods.vintagestory.at/show/mod/emotes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/emotes#8235</guid>
-    <pubDate>Sat, 03 Oct 2026 20:05:41 -0000</pubDate>
-    <description>Adds more custom emotes to the game.</description>
-  </item>
-  <item>
-    <title>Distant Vistas</title>
-    <link>https://mods.vintagestory.at/show/mod/distantvistas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/distantvistas#11259</guid>
-    <pubDate>Sat, 03 Oct 2026 20:05:11 -0000</pubDate>
-    <description>Far land you've walked: solid ocean, horizon clouds, seasons, and shadows.</description>
-  </item>
-  <item>
-    <title>Eventide Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
-    <pubDate>Sat, 03 Oct 2026 20:00:59 -0000</pubDate>
-    <description>Claim maps, settlements, and access permissions for the Eventide server.</description>
-  </item>
-  <item>
-    <title>No Random Chutes</title>
-    <link>https://mods.vintagestory.at/show/mod/norandomchutes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/norandomchutes#12282</guid>
-    <pubDate>Sat, 03 Oct 2026 19:35:48 -0000</pubDate>
-    <description>Replaces chute random fork direction with deterministic round robin distribution</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Sat, 03 Oct 2026 19:27:26 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
-  </item>
-  <item>
-    <title>Waxlight Launcher</title>
-    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
-    <pubDate>Sat, 03 Oct 2026 19:24:19 -0000</pubDate>
-    <description>Manage Vintage Story instances, mods, versions and accounts from one modern launcher</description>
-  </item>
-  <item>
-    <title>Primitive Tools Updated</title>
-    <link>https://mods.vintagestory.at/show/mod/primitivetoolsupdated</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/primitivetoolsupdated#8625</guid>
-    <pubDate>Sat, 03 Oct 2026 19:12:57 -0000</pubDate>
-    <description>Primitive Tools Updated is an updated version of Primitive Tools.</description>
-  </item>
-  <item>
-    <title>DRT AgX Kraken - Shader</title>
-    <link>https://mods.vintagestory.at/show/mod/drtagx</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drtagx#2913</guid>
-    <pubDate>Sat, 03 Oct 2026 19:09:06 -0000</pubDate>
-    <description>DRTAgX shapes the game's lighting into the picture your monitor presents.</description>
-  </item>
-  <item>
-    <title>Bone Bolt</title>
-    <link>https://mods.vintagestory.at/show/mod/12280</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12280#12280</guid>
-    <pubDate>Sat, 03 Oct 2026 18:28:34 -0000</pubDate>
-    <description>Bone Bolt</description>
-  </item>
-  <item>
-    <title>configkit</title>
-    <link>https://mods.vintagestory.at/show/mod/configkit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/configkit#11506</guid>
-    <pubDate>Sat, 03 Oct 2026 18:21:56 -0000</pubDate>
-    <description>In-game settings for your mods, without ImGui (alternative to configlib).</description>
   </item>
 </channel>
 </rss>
