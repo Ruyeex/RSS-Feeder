@@ -4,7 +4,119 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 04 Oct 2026 19:55:18 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 22:52:51 +0000</lastBuildDate>
+  <item>
+    <title>Dishware</title>
+    <link>https://mods.vintagestory.at/show/mod/10372</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10372#10372</guid>
+    <pubDate>Sun, 04 Oct 2026 22:51:46 -0000</pubDate>
+    <description>Adds ceramic dishes such as plates and cups.</description>
+  </item>
+  <item>
+    <title>Project Globe</title>
+    <link>https://mods.vintagestory.at/show/mod/projectglobe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/projectglobe#12167</guid>
+    <pubDate>Sun, 04 Oct 2026 22:45:48 -0000</pubDate>
+    <description>A silly little mod that gives the world wrap around/globe logic.</description>
+  </item>
+  <item>
+    <title>Gentage</title>
+    <link>https://mods.vintagestory.at/show/mod/gentage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
+    <pubDate>Sun, 04 Oct 2026 22:23:05 -0000</pubDate>
+    <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Vanilla Values</title>
+    <link>https://mods.vintagestory.at/show/mod/fotsavanillavalues</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fotsavanillavalues#12023</guid>
+    <pubDate>Sun, 04 Oct 2026 22:20:33 -0000</pubDate>
+    <description>An optional add-on mod that changes Fauna of the Stone Age animal drops to Vanilla Values</description>
+  </item>
+  <item>
+    <title>Floating Text Images and Gifs</title>
+    <link>https://mods.vintagestory.at/show/mod/floatingtext</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floatingtext#11932</guid>
+    <pubDate>Sun, 04 Oct 2026 22:08:56 -0000</pubDate>
+    <description>Adds Floating text to your game.</description>
+  </item>
+  <item>
+    <title>Smart TV</title>
+    <link>https://mods.vintagestory.at/show/mod/smarttv</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smarttv#12250</guid>
+    <pubDate>Sun, 04 Oct 2026 22:08:12 -0000</pubDate>
+    <description>This mod adds a flat screen wall mounted tv that is resizable. Only available in the creative menu</description>
+  </item>
+  <item>
+    <title>Better Fruit Press</title>
+    <link>https://mods.vintagestory.at/show/mod/10776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10776#10776</guid>
+    <pubDate>Sun, 04 Oct 2026 22:02:23 -0000</pubDate>
+    <description>Makes the fruit press quicker and allows squeezing over barrels.</description>
+  </item>
+  <item>
+    <title>Wilderlands Caves</title>
+    <link>https://mods.vintagestory.at/show/mod/5356</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5356#5356</guid>
+    <pubDate>Sun, 04 Oct 2026 21:56:19 -0000</pubDate>
+    <description>Fundamentally overhauls cave generation, while keeping vanilla caves at configurable rates.</description>
+  </item>
+  <item>
+    <title>Aegis - Client</title>
+    <link>https://mods.vintagestory.at/show/mod/aegisclient</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aegisclient#10240</guid>
+    <pubDate>Sun, 04 Oct 2026 21:54:59 -0000</pubDate>
+    <description>Early client support for an upcoming Vintage Story multiplayer games network.</description>
+  </item>
+  <item>
+    <title>Additional Hair Colors</title>
+    <link>https://mods.vintagestory.at/show/mod/8950</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8950#8950</guid>
+    <pubDate>Sun, 04 Oct 2026 21:40:26 -0000</pubDate>
+    <description>Gives the player a lot more options for hair colors, should work with modded races.</description>
+  </item>
+  <item>
+    <title>Packrat + MoreInventorys Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/12312</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12312#12312</guid>
+    <pubDate>Sun, 04 Oct 2026 21:34:48 -0000</pubDate>
+    <description>Makes MoreInventorys storage contents show up in Packrat's hotkey window, quick stacking items too.</description>
+  </item>
+  <item>
+    <title>QP's Chisel Tools</title>
+    <link>https://mods.vintagestory.at/show/mod/chiseltools</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseltools#604</guid>
+    <pubDate>Sun, 04 Oct 2026 21:08:50 -0000</pubDate>
+    <description>Unleash your creativity while chiseling! Invaluable, survival friendly tool set for chiselers!</description>
+  </item>
+  <item>
+    <title>Animalica Requests</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicare</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicare#11876</guid>
+    <pubDate>Sun, 04 Oct 2026 21:07:23 -0000</pubDate>
+    <description>Adds deer antlers for foxes and hares, plus a tailless fox option.</description>
+  </item>
+  <item>
+    <title>Outlier Network Core</title>
+    <link>https://mods.vintagestory.at/show/mod/outliernetworkcore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/outliernetworkcore#12288</guid>
+    <pubDate>Sun, 04 Oct 2026 20:42:38 -0000</pubDate>
+    <description>Wayfinder, jobs, homes, plots and cosmetic menus for players on Outlier Network.</description>
+  </item>
+  <item>
+    <title>Draconis_Dracaris</title>
+    <link>https://mods.vintagestory.at/show/mod/12304</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12304#12304</guid>
+    <pubDate>Sun, 04 Oct 2026 20:34:13 -0000</pubDate>
+    <description>Adds a fire breath mechanic to draconis dragons, targeted for our ever yander server</description>
+  </item>
+  <item>
+    <title>No Forced Village Climate</title>
+    <link>https://mods.vintagestory.at/show/mod/12309</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12309#12309</guid>
+    <pubDate>Sun, 04 Oct 2026 20:13:30 -0000</pubDate>
+    <description>This structure now always follows the surrounding climate..</description>
+  </item>
   <item>
     <title>VS Roofing Mod</title>
     <link>https://mods.vintagestory.at/show/mod/vsroofing</link>
@@ -25,13 +137,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xlebkasrecipebrowser#12307</guid>
     <pubDate>Sun, 04 Oct 2026 19:20:41 -0000</pubDate>
     <description>XRB is a JEI-style item and recipe browser for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Outlier Network Core</title>
-    <link>https://mods.vintagestory.at/show/mod/outliernetworkcore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/outliernetworkcore#12288</guid>
-    <pubDate>Sun, 04 Oct 2026 19:03:48 -0000</pubDate>
-    <description>Wayfinder, jobs, homes, plots and cosmetic menus for players on Outlier Network.</description>
   </item>
   <item>
     <title>Plant-based Fat</title>
@@ -109,111 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11960#11960</guid>
     <pubDate>Sun, 04 Oct 2026 17:42:26 -0000</pubDate>
     <description>Reloads worlds chunks and restores them to the state of seed generation.</description>
-  </item>
-  <item>
-    <title>Feverstone's Horses</title>
-    <link>https://mods.vintagestory.at/show/mod/feverstonehorses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feverstonehorses#540</guid>
-    <pubDate>Sun, 04 Oct 2026 17:38:10 -0000</pubDate>
-    <description>Introduces tameable, rideable horses to Vintage Story</description>
-  </item>
-  <item>
-    <title>Only Worse</title>
-    <link>https://mods.vintagestory.at/show/mod/onlyworse</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/onlyworse#11984</guid>
-    <pubDate>Sun, 04 Oct 2026 17:37:20 -0000</pubDate>
-    <description>A dedicated mod for the Only Worse server. New POI , blocks, items and more</description>
-  </item>
-  <item>
-    <title>Temporal Relics</title>
-    <link>https://mods.vintagestory.at/show/mod/9886</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9886#9886</guid>
-    <pubDate>Sun, 04 Oct 2026 17:25:20 -0000</pubDate>
-    <description>Adds randomized affixes to found equipment, introducing mundane, corrupted, and temporally enhanced </description>
-  </item>
-  <item>
-    <title>tangleclasses</title>
-    <link>https://mods.vintagestory.at/show/mod/12281</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12281#12281</guid>
-    <pubDate>Sun, 04 Oct 2026 17:16:02 -0000</pubDate>
-    <description>classes for the tangleworld</description>
-  </item>
-  <item>
-    <title>PrimitiveTranslator</title>
-    <link>https://mods.vintagestory.at/show/mod/primitivetranslator</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/primitivetranslator#12180</guid>
-    <pubDate>Sun, 04 Oct 2026 17:13:41 -0000</pubDate>
-    <description>A utility for comparing and translating localization files of VintageStory mods.</description>
-  </item>
-  <item>
-    <title>GamepadCompanionVS</title>
-    <link>https://mods.vintagestory.at/show/mod/8669</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8669#8669</guid>
-    <pubDate>Sun, 04 Oct 2026 17:03:54 -0000</pubDate>
-    <description>Native gamepad support for Vintage Story 1.22+ — 12-slot radial menu, virtual cursor for GUI, etc. </description>
-  </item>
-  <item>
-    <title>Draconis_Dracaris</title>
-    <link>https://mods.vintagestory.at/show/mod/12304</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12304#12304</guid>
-    <pubDate>Sun, 04 Oct 2026 16:58:58 -0000</pubDate>
-    <description>Adds a fire breath mechanic to draconis dragons, targeted for our ever yander server</description>
-  </item>
-  <item>
-    <title>topgsmod</title>
-    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Sun, 04 Oct 2026 16:55:44 -0000</pubDate>
-    <description>TopGs Community Mod</description>
-  </item>
-  <item>
-    <title>Packrat + Moreinventorys Compat</title>
-    <link>https://mods.vintagestory.at/show/mod/12257</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12257#12257</guid>
-    <pubDate>Sun, 04 Oct 2026 16:48:36 -0000</pubDate>
-    <description>Makes MoreInventorys storage contents show up in Packrat's hotkey window, quick stacking items too.</description>
-  </item>
-  <item>
-    <title>MathPlayerMarkerFix</title>
-    <link>https://mods.vintagestory.at/show/mod/mathplayermarkerfix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mathplayermarkerfix#12227</guid>
-    <pubDate>Sun, 04 Oct 2026 16:40:10 -0000</pubDate>
-    <description>Fixes the display of player markers on the map and minimap in multiplayer servers.</description>
-  </item>
-  <item>
-    <title>bony soil recipe</title>
-    <link>https://mods.vintagestory.at/show/mod/12303</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12303#12303</guid>
-    <pubDate>Sun, 04 Oct 2026 16:35:13 -0000</pubDate>
-    <description>adds a recipe for bony soil</description>
-  </item>
-  <item>
-    <title>VSCN 文明模拟主模组</title>
-    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
-    <pubDate>Sun, 04 Oct 2026 16:14:00 -0000</pubDate>
-    <description>For Chinese community servers only. VSCN 文明模拟模组</description>
-  </item>
-  <item>
-    <title>RiftLauncher - Independent launcher software.</title>
-    <link>https://mods.vintagestory.at/show/mod/riftlauncher</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riftlauncher#11016</guid>
-    <pubDate>Sun, 04 Oct 2026 15:55:51 -0000</pubDate>
-    <description>Focused on multiple versions and installations, safe backups and, mod browsing built in.</description>
-  </item>
-  <item>
-    <title>Gentage</title>
-    <link>https://mods.vintagestory.at/show/mod/gentage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
-    <pubDate>Sun, 04 Oct 2026 15:19:25 -0000</pubDate>
-    <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
-  </item>
-  <item>
-    <title>中国罗盘 Chinese Compass</title>
-    <link>https://mods.vintagestory.at/show/mod/chinesecompass</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chinesecompass#12302</guid>
-    <pubDate>Sun, 04 Oct 2026 15:15:36 -0000</pubDate>
-    <description>For Chinese community servers only.</description>
   </item>
 </channel>
 </rss>
