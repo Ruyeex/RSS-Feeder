@@ -4,216 +4,216 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 05 Oct 2026 18:05:40 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 00:39:19 +0000</lastBuildDate>
   <item>
-    <title>Bone Bolt</title>
-    <link>https://mods.vintagestory.at/show/mod/12280</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12280#12280</guid>
-    <pubDate>Mon, 05 Oct 2026 17:57:06 -0000</pubDate>
-    <description>Bone Bolt</description>
+    <title>套索 VSCN Roping</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnroping</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnroping#12308</guid>
+    <pubDate>Tue, 06 Oct 2026 00:36:23 -0000</pubDate>
+    <description>Throwable lassos, binding and tethering for players and creatures.</description>
   </item>
   <item>
-    <title>DRT AgX Kraken - Shader</title>
-    <link>https://mods.vintagestory.at/show/mod/drtagx</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drtagx#2913</guid>
-    <pubDate>Mon, 05 Oct 2026 17:37:09 -0000</pubDate>
-    <description>DRTAgX shapes the game's lighting into the picture your monitor presents.</description>
+    <title>Fauna of the Stone Age: Meiolaniidae</title>
+    <link>https://mods.vintagestory.at/show/mod/meiolaniidae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/meiolaniidae#3142</guid>
+    <pubDate>Tue, 06 Oct 2026 00:34:00 -0000</pubDate>
+    <description>A collection of horned turtles from human history.</description>
+  </item>
+  <item>
+    <title>Edge of Lineage: Saga</title>
+    <link>https://mods.vintagestory.at/show/mod/eolsaga</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eolsaga#12252</guid>
+    <pubDate>Tue, 06 Oct 2026 00:23:33 -0000</pubDate>
+    <description>Viking-inspired pack of weapons from Edge Of Lineage suite</description>
+  </item>
+  <item>
+    <title>Edge Of Lineage: Legion</title>
+    <link>https://mods.vintagestory.at/show/mod/eollegion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eollegion#12196</guid>
+    <pubDate>Tue, 06 Oct 2026 00:23:24 -0000</pubDate>
+    <description>Roman-inspired pack of weapons from Edge Of Lineage suite</description>
+  </item>
+  <item>
+    <title>Edge Of Lineage: Core</title>
+    <link>https://mods.vintagestory.at/show/mod/eolcore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eolcore#12195</guid>
+    <pubDate>Tue, 06 Oct 2026 00:23:22 -0000</pubDate>
+    <description>Core module of Edge of Lineage suite that introduces new weapons and crafting mechanics</description>
+  </item>
+  <item>
+    <title>Moonlit fantasy pack</title>
+    <link>https://mods.vintagestory.at/show/mod/6273</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6273#6273</guid>
+    <pubDate>Tue, 06 Oct 2026 00:14:12 -0000</pubDate>
+    <description>A weapon and armour pack for the moonlit fantasy server</description>
+  </item>
+  <item>
+    <title>ThePond BDTrees Log Crafting fix</title>
+    <link>https://mods.vintagestory.at/show/mod/12337</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12337#12337</guid>
+    <pubDate>Mon, 05 Oct 2026 23:40:20 -0000</pubDate>
+    <description>A small fix that allows BD:trees to be crafted into quartered logs and more.</description>
+  </item>
+  <item>
+    <title>The Pond Compat Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/12291</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12291#12291</guid>
+    <pubDate>Mon, 05 Oct 2026 23:35:42 -0000</pubDate>
+    <description>Compat Fix for Forester (The Pond Server)</description>
+  </item>
+  <item>
+    <title>Smart TV</title>
+    <link>https://mods.vintagestory.at/show/mod/smarttv</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smarttv#12250</guid>
+    <pubDate>Mon, 05 Oct 2026 23:21:38 -0000</pubDate>
+    <description>This mod adds a flat screen wall mounted tv that is resizable. Only available in the creative menu</description>
+  </item>
+  <item>
+    <title>GhostChunks</title>
+    <link>https://mods.vintagestory.at/show/mod/ghostchunks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ghostchunks#12113</guid>
+    <pubDate>Mon, 05 Oct 2026 23:05:34 -0000</pubDate>
+    <description>Highly performant distant terrain LOD renderer, capable of rendering at 200+ fps!</description>
+  </item>
+  <item>
+    <title>Mycodiversity Kebabs</title>
+    <link>https://mods.vintagestory.at/show/mod/mycokebab</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mycokebab#12335</guid>
+    <pubDate>Mon, 05 Oct 2026 22:39:12 -0000</pubDate>
+    <description>Making kebabs from the Long Term Food mod using the edible mushrooms from the Mycodiversity mod</description>
+  </item>
+  <item>
+    <title>Draconis_Dracaris</title>
+    <link>https://mods.vintagestory.at/show/mod/12304</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12304#12304</guid>
+    <pubDate>Mon, 05 Oct 2026 22:24:17 -0000</pubDate>
+    <description>Adds a fire breath mechanic to draconis dragons, targeted for our ever yander server</description>
+  </item>
+  <item>
+    <title>Warmer Dormancy</title>
+    <link>https://mods.vintagestory.at/show/mod/warmerdormancy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/warmerdormancy#12327</guid>
+    <pubDate>Mon, 05 Oct 2026 22:08:47 -0000</pubDate>
+    <description>Lets fruit trees enter dormancy in slightly warmer areas than usual.</description>
+  </item>
+  <item>
+    <title>Shuffle's Frontier Firearms</title>
+    <link>https://mods.vintagestory.at/show/mod/shufflesfrontierfirearms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shufflesfrontierfirearms#12330</guid>
+    <pubDate>Mon, 05 Oct 2026 21:51:55 -0000</pubDate>
+    <description>Revolvers, lever-actions, and other cartridge-era weapons</description>
+  </item>
+  <item>
+    <title>Dragonia Translations</title>
+    <link>https://mods.vintagestory.at/show/mod/10016</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10016#10016</guid>
+    <pubDate>Mon, 05 Oct 2026 21:24:44 -0000</pubDate>
+    <description>Переводы и отредактированные переводы под стиль сервера. </description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Mon, 05 Oct 2026 21:10:50 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
+  <item>
+    <title>Teapot's Giant Boar</title>
+    <link>https://mods.vintagestory.at/show/mod/teapotsgiantboar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantboar#11742</guid>
+    <pubDate>Mon, 05 Oct 2026 21:07:19 -0000</pubDate>
+    <description>Chonky boys that can be your companions and mounts. In wild, they might trigger your bear traumas.</description>
+  </item>
+  <item>
+    <title>Real Smoke</title>
+    <link>https://mods.vintagestory.at/show/mod/realsmoke</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmoke#4591</guid>
+    <pubDate>Mon, 05 Oct 2026 20:46:56 -0000</pubDate>
+    <description>Physics-based smoke</description>
+  </item>
+  <item>
+    <title>Veganized</title>
+    <link>https://mods.vintagestory.at/show/mod/veganfat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/veganfat#11012</guid>
+    <pubDate>Mon, 05 Oct 2026 20:20:42 -0000</pubDate>
+    <description>Plants make the real vanilla fat, wax and bone meal, so every recipe that wants them just works.</description>
+  </item>
+  <item>
+    <title>Moonlit Titles</title>
+    <link>https://mods.vintagestory.at/show/mod/moontitles</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moontitles#11700</guid>
+    <pubDate>Mon, 05 Oct 2026 20:07:36 -0000</pubDate>
+    <description>A mod to add unlockable titles for players</description>
+  </item>
+  <item>
+    <title>Moonlit magic</title>
+    <link>https://mods.vintagestory.at/show/mod/moonlitmagic</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmagic#11891</guid>
+    <pubDate>Mon, 05 Oct 2026 20:06:39 -0000</pubDate>
+    <description>Biome based magic system</description>
   </item>
   <item>
     <title>Walkable Deck</title>
     <link>https://mods.vintagestory.at/show/mod/walkabledeck</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkabledeck#11390</guid>
-    <pubDate>Mon, 05 Oct 2026 17:31:52 -0000</pubDate>
+    <pubDate>Mon, 05 Oct 2026 20:03:30 -0000</pubDate>
     <description>Stand up and walk a boat deck while it sails. Vanilla boats; no other mod required.</description>
-  </item>
-  <item>
-    <title>Napfland Localization</title>
-    <link>https://mods.vintagestory.at/show/mod/napflandlocalization</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/napflandlocalization#12244</guid>
-    <pubDate>Mon, 05 Oct 2026 17:30:35 -0000</pubDate>
-    <description>Сборник переводов модов на русский язык.</description>
-  </item>
-  <item>
-    <title>Useful Traders Fixed</title>
-    <link>https://mods.vintagestory.at/show/mod/usefultradersfixed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/usefultradersfixed#11972</guid>
-    <pubDate>Mon, 05 Oct 2026 17:30:11 -0000</pubDate>
-    <description>Bug fix version of the mod by BrownishStorm</description>
-  </item>
-  <item>
-    <title>Destaria Masteries</title>
-    <link>https://mods.vintagestory.at/show/mod/destariamasteries</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/destariamasteries#12096</guid>
-    <pubDate>Mon, 05 Oct 2026 16:59:21 -0000</pubDate>
-    <description>Skills for the Destaria Server</description>
-  </item>
-  <item>
-    <title>The Quire Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/tqp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tqp#10455</guid>
-    <pubDate>Mon, 05 Oct 2026 16:58:54 -0000</pubDate>
-    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
-  </item>
-  <item>
-    <title>中国罗盘 Chinese Compass</title>
-    <link>https://mods.vintagestory.at/show/mod/chinesecompass</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chinesecompass#12302</guid>
-    <pubDate>Mon, 05 Oct 2026 16:25:45 -0000</pubDate>
-    <description>For Chinese community servers only.</description>
-  </item>
-  <item>
-    <title>Featherborn (Bird, Harpy player)</title>
-    <link>https://mods.vintagestory.at/show/mod/featherborn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/featherborn#8019</guid>
-    <pubDate>Mon, 05 Oct 2026 16:11:19 -0000</pubDate>
-    <description>Featherborn is a mod created to allow for a bird/avian/harpy player characters.</description>
-  </item>
-  <item>
-    <title>Eventide Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
-    <pubDate>Mon, 05 Oct 2026 16:00:51 -0000</pubDate>
-    <description>Claim maps, settlements, and access permissions for the Eventide server.</description>
-  </item>
-  <item>
-    <title>More skin details - moles, freckles (Player Model Lib)</title>
-    <link>https://mods.vintagestory.at/show/mod/moreskindetails</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moreskindetails#12070</guid>
-    <pubDate>Mon, 05 Oct 2026 15:57:53 -0000</pubDate>
-    <description>Adding moles and freckles </description>
   </item>
   <item>
     <title>Vintage Przygoda: Korony</title>
     <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
-    <pubDate>Mon, 05 Oct 2026 15:34:33 -0000</pubDate>
+    <pubDate>Mon, 05 Oct 2026 20:02:06 -0000</pubDate>
     <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
   </item>
   <item>
-    <title>CB Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Mon, 05 Oct 2026 15:33:38 -0000</pubDate>
-    <description>JSON content patches</description>
+    <title>The Sumpter (Class)</title>
+    <link>https://mods.vintagestory.at/show/mod/thesumpter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thesumpter#11728</guid>
+    <pubDate>Mon, 05 Oct 2026 19:54:43 -0000</pubDate>
+    <description>Adds a new class focused on logistics. Comes with exclusive clothing, backpacks, and saddlebags.</description>
   </item>
   <item>
-    <title>Hydrate or Diedrate</title>
-    <link>https://mods.vintagestory.at/show/mod/hydrateordiedrate</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hydrateordiedrate#2282</guid>
-    <pubDate>Mon, 05 Oct 2026 15:17:47 -0000</pubDate>
-    <description>A mod that adds thirst and hydration mechanics as well as hot weather survival.</description>
+    <title>VSCN 社区服务器中改进模组的模组</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
+    <pubDate>Mon, 05 Oct 2026 19:47:13 -0000</pubDate>
+    <description>For Chinese community servers only. VSCN 社区服务器中改进模组的模组</description>
   </item>
   <item>
-    <title>Gentage</title>
-    <link>https://mods.vintagestory.at/show/mod/gentage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
-    <pubDate>Mon, 05 Oct 2026 15:09:52 -0000</pubDate>
-    <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
+    <title>Forgotten Armory: Chinese Dynasties</title>
+    <link>https://mods.vintagestory.at/show/mod/5062</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5062#5062</guid>
+    <pubDate>Mon, 05 Oct 2026 19:21:21 -0000</pubDate>
+    <description>Mod adding multiple iron+ Scale armor variations in the style of Chinese Dynasties</description>
   </item>
   <item>
-    <title>BetterEr Prospecting</title>
-    <link>https://mods.vintagestory.at/show/mod/bettererprospecting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettererprospecting#4916</guid>
-    <pubDate>Mon, 05 Oct 2026 15:03:43 -0000</pubDate>
-    <description>Altered prospecting experience with focus on reducing randomness</description>
+    <title>Forgotten Armory: Gothic style</title>
+    <link>https://mods.vintagestory.at/show/mod/4326</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4326#4326</guid>
+    <pubDate>Mon, 05 Oct 2026 19:20:56 -0000</pubDate>
+    <description>Mod adding multiple iron and beyond plate armor variations inspired by Gothic style</description>
   </item>
   <item>
-    <title>Holdfast</title>
-    <link>https://mods.vintagestory.at/show/mod/holdfast</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/holdfast#10247</guid>
-    <pubDate>Mon, 05 Oct 2026 14:25:02 -0000</pubDate>
-    <description>Found a town. Hire workers. Watch it grow one building at a time.</description>
+    <title>Forgotten Armory: Core</title>
+    <link>https://mods.vintagestory.at/show/mod/11459</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11459#11459</guid>
+    <pubDate>Mon, 05 Oct 2026 19:20:37 -0000</pubDate>
+    <description>The Core mod for all the Forgotten armory mods</description>
   </item>
   <item>
-    <title>That's my arrow!</title>
-    <link>https://mods.vintagestory.at/show/mod/6925</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6925#6925</guid>
-    <pubDate>Mon, 05 Oct 2026 13:56:39 -0000</pubDate>
-    <description>Adds a pickup cooldown on projectiles that disable others to take a recently shooted one</description>
+    <title>Forgotten Armory: Greenwich style</title>
+    <link>https://mods.vintagestory.at/show/mod/4321</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4321#4321</guid>
+    <pubDate>Mon, 05 Oct 2026 19:20:08 -0000</pubDate>
+    <description>Mod adding multiple iron and beyond plate armor variations inspired by Greenwich blacksmiths style</description>
   </item>
   <item>
-    <title>Short Reach</title>
-    <link>https://mods.vintagestory.at/show/mod/12322</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12322#12322</guid>
-    <pubDate>Mon, 05 Oct 2026 13:54:30 -0000</pubDate>
-    <description>Makes picking range shorter</description>
-  </item>
-  <item>
-    <title>RuModTranslation</title>
-    <link>https://mods.vintagestory.at/show/mod/rumodtranslation</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rumodtranslation#8445</guid>
-    <pubDate>Mon, 05 Oct 2026 13:06:40 -0000</pubDate>
-    <description>Collection of Russian Mod Translations</description>
-  </item>
-  <item>
-    <title>InventorySorter</title>
-    <link>https://mods.vintagestory.at/show/mod/12321</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12321#12321</guid>
-    <pubDate>Mon, 05 Oct 2026 12:09:04 -0000</pubDate>
-    <description>Sort your backpack, hotbar and any container</description>
-  </item>
-  <item>
-    <title>StormvaldServerMod</title>
-    <link>https://mods.vintagestory.at/show/mod/11142</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11142#11142</guid>
-    <pubDate>Mon, 05 Oct 2026 12:06:51 -0000</pubDate>
-    <description>Servermod</description>
-  </item>
-  <item>
-    <title>Temporal Storms Require a Fight</title>
-    <link>https://mods.vintagestory.at/show/mod/6113</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6113#6113</guid>
-    <pubDate>Mon, 05 Oct 2026 12:06:16 -0000</pubDate>
-    <description>Temporal Storms are more severe but reduced by killing drifters!</description>
-  </item>
-  <item>
-    <title>homesteadmods</title>
-    <link>https://mods.vintagestory.at/show/mod/11819</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11819#11819</guid>
-    <pubDate>Mon, 05 Oct 2026 11:30:56 -0000</pubDate>
-    <description>Homestead Server Tweaks</description>
-  </item>
-  <item>
-    <title>gardenersdelighthomesteadfork</title>
-    <link>https://mods.vintagestory.at/show/mod/11816</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11816#11816</guid>
-    <pubDate>Mon, 05 Oct 2026 11:24:35 -0000</pubDate>
-    <description>Fork of the Gardener's Delight mod. Compatibility with Floralzones.</description>
-  </item>
-  <item>
-    <title>UniversalChat</title>
-    <link>https://mods.vintagestory.at/show/mod/11401</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11401#11401</guid>
-    <pubDate>Mon, 05 Oct 2026 10:40:26 -0000</pubDate>
-    <description>Adds a native Universal chat tab that mirrors General and translates each message locally.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Mon, 05 Oct 2026 10:40:06 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
-  </item>
-  <item>
-    <title>TekTools</title>
-    <link>https://mods.vintagestory.at/show/mod/11615</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11615#11615</guid>
-    <pubDate>Mon, 05 Oct 2026 10:39:36 -0000</pubDate>
-    <description>Adds a dedicated Tools tab to the Vintage Story character window, providing a clean home for TekTool</description>
-  </item>
-  <item>
-    <title>Outlier Network Core</title>
-    <link>https://mods.vintagestory.at/show/mod/outliernetworkcore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/outliernetworkcore#12288</guid>
-    <pubDate>Mon, 05 Oct 2026 09:20:52 -0000</pubDate>
-    <description>Wayfinder, jobs, homes, plots and cosmetic menus for players on Outlier Network.</description>
-  </item>
-  <item>
-    <title>Atlas</title>
-    <link>https://mods.vintagestory.at/show/mod/atlas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/atlas#10023</guid>
-    <pubDate>Mon, 05 Oct 2026 08:32:47 -0000</pubDate>
-    <description>Integration testing for mods: xUnit scenarios against a real headless server, in your IDE and CI</description>
+    <title>Forgotten Armory: Varangian Style</title>
+    <link>https://mods.vintagestory.at/show/mod/6520</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6520#6520</guid>
+    <pubDate>Mon, 05 Oct 2026 19:20:01 -0000</pubDate>
+    <description>Mod adding multiple iron and steel plate and scale armor variations inspired by the Varangians</description>
   </item>
 </channel>
 </rss>
