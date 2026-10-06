@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 06 Oct 2026 07:19:06 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 14:51:36 +0000</lastBuildDate>
+  <item>
+    <title>Skaven/Rat Player Model</title>
+    <link>https://mods.vintagestory.at/show/mod/skavenratplayermodel</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skavenratplayermodel#5322</guid>
+    <pubDate>Tue, 06 Oct 2026 14:34:51 -0000</pubDate>
+    <description>Adds a Skaven/Rat player model to the game it uses Player Model Lib!</description>
+  </item>
+  <item>
+    <title>Vintage Przygoda: Korony</title>
+    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
+    <pubDate>Tue, 06 Oct 2026 14:05:09 -0000</pubDate>
+    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
+  </item>
+  <item>
+    <title>Immersive Woodworking</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivewoodworking</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivewoodworking#9606</guid>
+    <pubDate>Tue, 06 Oct 2026 14:02:21 -0000</pubDate>
+    <description>Focused immersion mod that makes processing timber feel like work, not paperwork. </description>
+  </item>
+  <item>
+    <title>Take A Seat</title>
+    <link>https://mods.vintagestory.at/show/mod/takeaseat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/takeaseat#12314</guid>
+    <pubDate>Tue, 06 Oct 2026 13:11:28 -0000</pubDate>
+    <description>Companion mod for W4RD0's Furniture mod - Take a seat!</description>
+  </item>
+  <item>
+    <title>Jailer</title>
+    <link>https://mods.vintagestory.at/show/mod/12347</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12347#12347</guid>
+    <pubDate>Tue, 06 Oct 2026 12:34:08 -0000</pubDate>
+    <description>Capture other players with shackles, hold them in your jail and pay their daily upkeep.</description>
+  </item>
+  <item>
+    <title>C4B Traducciones-ES ► MODS</title>
+    <link>https://mods.vintagestory.at/show/mod/c4btraduccionesmods</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/c4btraduccionesmods#2720</guid>
+    <pubDate>Tue, 06 Oct 2026 11:40:00 -0000</pubDate>
+    <description>Traducción de (más de 230) Mods en Español-ES</description>
+  </item>
+  <item>
+    <title>StormvaldServerMod</title>
+    <link>https://mods.vintagestory.at/show/mod/11142</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11142#11142</guid>
+    <pubDate>Tue, 06 Oct 2026 11:13:08 -0000</pubDate>
+    <description>Servermod</description>
+  </item>
+  <item>
+    <title>Status Hud Continued</title>
+    <link>https://mods.vintagestory.at/show/mod/statushudcont</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/statushudcont#1841</guid>
+    <pubDate>Tue, 06 Oct 2026 10:03:25 -0000</pubDate>
+    <description>Displays status information on the HUD.</description>
+  </item>
+  <item>
+    <title>Auto Config Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/autoconfiglib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/autoconfiglib#2947</guid>
+    <pubDate>Tue, 06 Oct 2026 10:02:31 -0000</pubDate>
+    <description>Auto generates ConfigLib implementation for mods that don't add their own</description>
+  </item>
+  <item>
+    <title>Moonlit magic</title>
+    <link>https://mods.vintagestory.at/show/mod/moonlitmagic</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmagic#11891</guid>
+    <pubDate>Tue, 06 Oct 2026 09:37:33 -0000</pubDate>
+    <description>Biome based magic system</description>
+  </item>
+  <item>
+    <title>Plant-based Fat Any Grain Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/plantbasedfatanygrainpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/plantbasedfatanygrainpatch#12346</guid>
+    <pubDate>Tue, 06 Oct 2026 09:06:21 -0000</pubDate>
+    <description>Lets the Plant Based Fat recipe use any grain, including grains added by other mods.</description>
+  </item>
+  <item>
+    <title>Teapot's Giant Boar</title>
+    <link>https://mods.vintagestory.at/show/mod/teapotsgiantboar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantboar#11742</guid>
+    <pubDate>Tue, 06 Oct 2026 07:44:57 -0000</pubDate>
+    <description>Chonky boys that can be your companions and mounts. In wild, they might trigger your bear traumas.</description>
+  </item>
   <item>
     <title>Aldi's Classes</title>
     <link>https://mods.vintagestory.at/show/mod/aldiclasses</link>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
     <pubDate>Tue, 06 Oct 2026 00:53:16 -0000</pubDate>
     <description>For Chinese community servers only. VSCN 文明模拟模组</description>
-  </item>
-  <item>
-    <title>Moonlit fantasy pack</title>
-    <link>https://mods.vintagestory.at/show/mod/6273</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6273#6273</guid>
-    <pubDate>Tue, 06 Oct 2026 00:50:03 -0000</pubDate>
-    <description>A weapon and armour pack for the moonlit fantasy server</description>
-  </item>
-  <item>
-    <title>Stairs</title>
-    <link>https://mods.vintagestory.at/show/mod/stairs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stairs#12340</guid>
-    <pubDate>Tue, 06 Oct 2026 00:44:22 -0000</pubDate>
-    <description>Open Stairs inpired by More Paths and Stairs steps</description>
-  </item>
-  <item>
-    <title>VSCN 社区服务器中改进模组的模组</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
-    <pubDate>Tue, 06 Oct 2026 00:42:40 -0000</pubDate>
-    <description>For Chinese community servers only. VSCN 社区服务器中改进模组的模组</description>
-  </item>
-  <item>
-    <title>Fauna of the Stone Age: Meiolaniidae</title>
-    <link>https://mods.vintagestory.at/show/mod/meiolaniidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/meiolaniidae#3142</guid>
-    <pubDate>Tue, 06 Oct 2026 00:34:00 -0000</pubDate>
-    <description>A collection of horned turtles from human history.</description>
-  </item>
-  <item>
-    <title>Edge of Lineage: Saga</title>
-    <link>https://mods.vintagestory.at/show/mod/eolsaga</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eolsaga#12252</guid>
-    <pubDate>Tue, 06 Oct 2026 00:23:33 -0000</pubDate>
-    <description>Viking-inspired pack of weapons from Edge Of Lineage suite</description>
-  </item>
-  <item>
-    <title>Edge Of Lineage: Legion</title>
-    <link>https://mods.vintagestory.at/show/mod/eollegion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eollegion#12196</guid>
-    <pubDate>Tue, 06 Oct 2026 00:23:24 -0000</pubDate>
-    <description>Roman-inspired pack of weapons from Edge Of Lineage suite</description>
-  </item>
-  <item>
-    <title>ThePond BDTrees Log Crafting fix</title>
-    <link>https://mods.vintagestory.at/show/mod/12337</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12337#12337</guid>
-    <pubDate>Mon, 05 Oct 2026 23:40:20 -0000</pubDate>
-    <description>A small fix that allows BD:trees to be crafted into quartered logs and more.</description>
-  </item>
-  <item>
-    <title>The Pond Compat Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/12291</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12291#12291</guid>
-    <pubDate>Mon, 05 Oct 2026 23:35:42 -0000</pubDate>
-    <description>Compat Fix for Forester (The Pond Server)</description>
-  </item>
-  <item>
-    <title>Smart TV</title>
-    <link>https://mods.vintagestory.at/show/mod/smarttv</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smarttv#12250</guid>
-    <pubDate>Mon, 05 Oct 2026 23:21:38 -0000</pubDate>
-    <description>This mod adds a flat screen wall mounted tv that is resizable. Only available in the creative menu</description>
-  </item>
-  <item>
-    <title>GhostChunks</title>
-    <link>https://mods.vintagestory.at/show/mod/ghostchunks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ghostchunks#12113</guid>
-    <pubDate>Mon, 05 Oct 2026 23:05:34 -0000</pubDate>
-    <description>Highly performant distant terrain LOD renderer, capable of rendering at 200+ fps!</description>
-  </item>
-  <item>
-    <title>Mycodiversity Kebabs</title>
-    <link>https://mods.vintagestory.at/show/mod/mycokebab</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mycokebab#12335</guid>
-    <pubDate>Mon, 05 Oct 2026 22:39:12 -0000</pubDate>
-    <description>Making kebabs from the Long Term Food mod using the edible mushrooms from the Mycodiversity mod</description>
-  </item>
-  <item>
-    <title>Draconis_Dracaris</title>
-    <link>https://mods.vintagestory.at/show/mod/12304</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12304#12304</guid>
-    <pubDate>Mon, 05 Oct 2026 22:24:17 -0000</pubDate>
-    <description>Adds a fire breath mechanic to draconis dragons, targeted for our ever yander server</description>
   </item>
 </channel>
 </rss>
