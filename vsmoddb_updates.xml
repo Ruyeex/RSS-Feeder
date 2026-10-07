@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 07 Oct 2026 06:57:52 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 14:24:07 +0000</lastBuildDate>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Wed, 07 Oct 2026 13:48:38 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
+  </item>
+  <item>
+    <title>Contrats &amp; Gages</title>
+    <link>https://mods.vintagestory.at/show/mod/12247</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12247#12247</guid>
+    <pubDate>Wed, 07 Oct 2026 13:14:11 -0000</pubDate>
+    <description>Player-made RôlePlay contracts</description>
+  </item>
+  <item>
+    <title>Chisel Metals</title>
+    <link>https://mods.vintagestory.at/show/mod/12353</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12353#12353</guid>
+    <pubDate>Wed, 07 Oct 2026 12:15:59 -0000</pubDate>
+    <description>Add ingots (64 voxels) and plates (128 voxels) to a chiseled block!</description>
+  </item>
+  <item>
+    <title>Coloured windmills and sails</title>
+    <link>https://mods.vintagestory.at/show/mod/12373</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12373#12373</guid>
+    <pubDate>Wed, 07 Oct 2026 12:15:18 -0000</pubDate>
+    <description>Ctrl+Shift+K and select a texture! Coloured linen and more strange options for sails :/ Clientside.</description>
+  </item>
+  <item>
+    <title>Prospecting Pick Chat Return</title>
+    <link>https://mods.vintagestory.at/show/mod/12368</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12368#12368</guid>
+    <pubDate>Wed, 07 Oct 2026 12:14:33 -0000</pubDate>
+    <description>After you take a sample with prospecting pick, mod returns you to chat after 5 seconds</description>
+  </item>
+  <item>
+    <title>Simple Crosses</title>
+    <link>https://mods.vintagestory.at/show/mod/simplecrosses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplecrosses#12372</guid>
+    <pubDate>Wed, 07 Oct 2026 11:37:53 -0000</pubDate>
+    <description>Add different kind of simple crosses and crucifix.</description>
+  </item>
+  <item>
+    <title>InventorySorter</title>
+    <link>https://mods.vintagestory.at/show/mod/12321</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12321#12321</guid>
+    <pubDate>Wed, 07 Oct 2026 10:38:40 -0000</pubDate>
+    <description>Sort your backpack, hotbar and any container and quick transfer items</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
+    <pubDate>Wed, 07 Oct 2026 10:18:15 -0000</pubDate>
+    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
+  </item>
+  <item>
+    <title>Insanity Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/insanitylib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/insanitylib#3966</guid>
+    <pubDate>Wed, 07 Oct 2026 09:39:39 -0000</pubDate>
+    <description>A library mod with modding utilities</description>
+  </item>
+  <item>
+    <title>Panning Machine</title>
+    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
+    <pubDate>Wed, 07 Oct 2026 09:38:13 -0000</pubDate>
+    <description>Simple machine for panning, now with a heavy-duty Industrial Panning Machine ⚙️</description>
+  </item>
+  <item>
+    <title>DRT AgX Kraken - Shader</title>
+    <link>https://mods.vintagestory.at/show/mod/drtagx</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drtagx#2913</guid>
+    <pubDate>Wed, 07 Oct 2026 08:36:39 -0000</pubDate>
+    <description>DRTAgX shapes the game's lighting into the picture your monitor presents.</description>
+  </item>
+  <item>
+    <title>Better Than Boats</title>
+    <link>https://mods.vintagestory.at/show/mod/11810</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11810#11810</guid>
+    <pubDate>Wed, 07 Oct 2026 07:43:16 -0000</pubDate>
+    <description>A Minecraft's Better Than Wolves reimagining inside Vintage Story.</description>
+  </item>
   <item>
     <title>VSCN 文明模拟主模组</title>
     <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
@@ -60,13 +144,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12367#12367</guid>
     <pubDate>Wed, 07 Oct 2026 05:36:33 -0000</pubDate>
     <description>RankForge + Th3Essentials Discord chat compatibility patch for clean relay and no duplicate names.</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
-    <pubDate>Wed, 07 Oct 2026 05:33:19 -0000</pubDate>
-    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
   </item>
   <item>
     <title>RankForge - Server Ranks &amp; Titles</title>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnroping#12308</guid>
     <pubDate>Wed, 07 Oct 2026 02:06:32 -0000</pubDate>
     <description>Throwable lassos, binding and tethering for players and creatures.</description>
-  </item>
-  <item>
-    <title>中国罗盘 Chinese Compass</title>
-    <link>https://mods.vintagestory.at/show/mod/chinesecompass</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chinesecompass#12302</guid>
-    <pubDate>Wed, 07 Oct 2026 01:59:45 -0000</pubDate>
-    <description>For Chinese community servers only.</description>
-  </item>
-  <item>
-    <title>Magic Charcoal</title>
-    <link>https://mods.vintagestory.at/show/mod/12351</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12351#12351</guid>
-    <pubDate>Wed, 07 Oct 2026 01:49:43 -0000</pubDate>
-    <description>*WARNING* This mod was made with the use of AI and was tested with a modlist of over 90 mods*</description>
-  </item>
-  <item>
-    <title>Forlorn Additions - Zlip'd</title>
-    <link>https://mods.vintagestory.at/show/mod/10990</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10990#10990</guid>
-    <pubDate>Wed, 07 Oct 2026 01:47:38 -0000</pubDate>
-    <description>Modification to the forlorn addition mod to add updated forging mechanics</description>
-  </item>
-  <item>
-    <title>Player Roster</title>
-    <link>https://mods.vintagestory.at/show/mod/playerroster</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playerroster#12080</guid>
-    <pubDate>Wed, 07 Oct 2026 01:38:06 -0000</pubDate>
-    <description>Hold Tab to see who's online: role, health, food, distance, AFK, ping, date and season.</description>
-  </item>
-  <item>
-    <title>Aldi's classes farmer seed extraction</title>
-    <link>https://mods.vintagestory.at/show/mod/12362</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12362#12362</guid>
-    <pubDate>Wed, 07 Oct 2026 01:38:06 -0000</pubDate>
-    <description>Allows farmers to craft seeds from crops</description>
-  </item>
-  <item>
-    <title>ShapeShift</title>
-    <link>https://mods.vintagestory.at/show/mod/shapeshift</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shapeshift#12360</guid>
-    <pubDate>Wed, 07 Oct 2026 01:27:51 -0000</pubDate>
-    <description>Shapeshift Toggle, Change between two forms!</description>
-  </item>
-  <item>
-    <title>eViSTool</title>
-    <link>https://mods.vintagestory.at/show/mod/evistool</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistool#12228</guid>
-    <pubDate>Wed, 07 Oct 2026 01:21:47 -0000</pubDate>
-    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
-  </item>
-  <item>
-    <title>Cairn — Modpack Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/cairn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
-    <pubDate>Wed, 07 Oct 2026 01:14:40 -0000</pubDate>
-    <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
-  </item>
-  <item>
-    <title>Glazed Fancy Pots</title>
-    <link>https://mods.vintagestory.at/show/mod/glazedpots</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glazedpots#7000</guid>
-    <pubDate>Wed, 07 Oct 2026 00:54:39 -0000</pubDate>
-    <description>Glaze your own fancy vessels, planters, and flowerpots!</description>
-  </item>
-  <item>
-    <title>Craftsmanship</title>
-    <link>https://mods.vintagestory.at/show/mod/11590</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11590#11590</guid>
-    <pubDate>Wed, 07 Oct 2026 00:49:55 -0000</pubDate>
-    <description>Over 1,000 new items, creatures and weapons added</description>
-  </item>
-  <item>
-    <title>Pee-Mail</title>
-    <link>https://mods.vintagestory.at/show/mod/peemail</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/peemail#12359</guid>
-    <pubDate>Wed, 07 Oct 2026 00:29:48 -0000</pubDate>
-    <description>Make Your Mark! New Scent-messaging system for use with Animalica</description>
   </item>
 </channel>
 </rss>
