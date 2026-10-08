@@ -4,7 +4,189 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 08 Oct 2026 15:20:45 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 21:07:33 +0000</lastBuildDate>
+  <item>
+    <title>Shuffle's Frontier Firearms</title>
+    <link>https://mods.vintagestory.at/show/mod/shufflesfrontierfirearms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shufflesfrontierfirearms#12330</guid>
+    <pubDate>Thu, 08 Oct 2026 20:52:34 -0000</pubDate>
+    <description>Revolvers, lever-actions, and other cartridge-era weapons</description>
+  </item>
+  <item>
+    <title>Vintage Aging</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageaging</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageaging#10206</guid>
+    <pubDate>Thu, 08 Oct 2026 20:18:42 -0000</pubDate>
+    <description>Tracks player in-game age, applies a probabilistic death-roll system and lives system.</description>
+  </item>
+  <item>
+    <title>Vintage Vampirism</title>
+    <link>https://mods.vintagestory.at/show/mod/10330</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10330#10330</guid>
+    <pubDate>Thu, 08 Oct 2026 20:13:25 -0000</pubDate>
+    <description>Opt-in vampirism class-independent system built on top of the Vintage Aging mod.</description>
+  </item>
+  <item>
+    <title>Alegacy patches</title>
+    <link>https://mods.vintagestory.at/show/mod/6997</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6997#6997</guid>
+    <pubDate>Thu, 08 Oct 2026 19:39:49 -0000</pubDate>
+    <description>targeted patches for the Alegacy server setup</description>
+  </item>
+  <item>
+    <title>Syrup and CO2</title>
+    <link>https://mods.vintagestory.at/show/mod/12284</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12284#12284</guid>
+    <pubDate>Thu, 08 Oct 2026 19:22:42 -0000</pubDate>
+    <description>Adds cola and soda as well as a carbonation system to the game!</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Iniidae Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/iniidae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/iniidae#3853</guid>
+    <pubDate>Thu, 08 Oct 2026 19:21:18 -0000</pubDate>
+    <description>A collection of freshwater dolphins from the Holocene.</description>
+  </item>
+  <item>
+    <title>Containers Bundle</title>
+    <link>https://mods.vintagestory.at/show/mod/containersbundle</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/containersbundle#4058</guid>
+    <pubDate>Thu, 08 Oct 2026 19:15:34 -0000</pubDate>
+    <description>Adds 11 new containers to enrich game's container progression! With visual display of fullness!</description>
+  </item>
+  <item>
+    <title>Livemap</title>
+    <link>https://mods.vintagestory.at/show/mod/12390</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12390#12390</guid>
+    <pubDate>Thu, 08 Oct 2026 18:48:53 -0000</pubDate>
+    <description>Live Map turns your server into a web map that anyone can open in a browser</description>
+  </item>
+  <item>
+    <title>Immersive Woodworking</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivewoodworking</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivewoodworking#9606</guid>
+    <pubDate>Thu, 08 Oct 2026 18:46:24 -0000</pubDate>
+    <description>Focused immersion mod that makes processing timber feel like work, not paperwork. </description>
+  </item>
+  <item>
+    <title>Just The Pepper</title>
+    <link>https://mods.vintagestory.at/show/mod/justthepepper</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justthepepper#4347</guid>
+    <pubDate>Thu, 08 Oct 2026 18:29:38 -0000</pubDate>
+    <description>Adds the ability to grow vanilla bell peppers</description>
+  </item>
+  <item>
+    <title>XRB</title>
+    <link>https://mods.vintagestory.at/show/mod/xlebkasrecipebrowser</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xlebkasrecipebrowser#12307</guid>
+    <pubDate>Thu, 08 Oct 2026 17:37:06 -0000</pubDate>
+    <description>XRB is a JEI-style item and recipe browser for Vintage Story.</description>
+  </item>
+  <item>
+    <title>Fancy Fences</title>
+    <link>https://mods.vintagestory.at/show/mod/12383</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12383#12383</guid>
+    <pubDate>Thu, 08 Oct 2026 17:32:41 -0000</pubDate>
+    <description>Adds new fences and fence gates.</description>
+  </item>
+  <item>
+    <title>Cocktail Madness!</title>
+    <link>https://mods.vintagestory.at/show/mod/11680</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11680#11680</guid>
+    <pubDate>Thu, 08 Oct 2026 17:18:15 -0000</pubDate>
+    <description>Allows for the mixing of alcoholic and non alcoholic beverages.</description>
+  </item>
+  <item>
+    <title>Walkable Deck</title>
+    <link>https://mods.vintagestory.at/show/mod/walkabledeck</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkabledeck#11390</guid>
+    <pubDate>Thu, 08 Oct 2026 17:07:29 -0000</pubDate>
+    <description>Stand up and walk a boat deck while it sails. Vanilla boats; no other mod required.</description>
+  </item>
+  <item>
+    <title>Edge of Lineage: Saga</title>
+    <link>https://mods.vintagestory.at/show/mod/eolsaga</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eolsaga#12252</guid>
+    <pubDate>Thu, 08 Oct 2026 17:00:59 -0000</pubDate>
+    <description>Viking-inspired pack of weapons from Edge Of Lineage suite</description>
+  </item>
+  <item>
+    <title>Edge Of Lineage: Legion</title>
+    <link>https://mods.vintagestory.at/show/mod/eollegion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eollegion#12196</guid>
+    <pubDate>Thu, 08 Oct 2026 17:00:58 -0000</pubDate>
+    <description>Roman-inspired pack of weapons from Edge Of Lineage suite</description>
+  </item>
+  <item>
+    <title>Edge Of Lineage: Core</title>
+    <link>https://mods.vintagestory.at/show/mod/eolcore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eolcore#12195</guid>
+    <pubDate>Thu, 08 Oct 2026 17:00:55 -0000</pubDate>
+    <description>Core module of Edge of Lineage suite that introduces new weapons and crafting mechanics</description>
+  </item>
+  <item>
+    <title>Casablanca Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/11911</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11911#11911</guid>
+    <pubDate>Thu, 08 Oct 2026 16:53:58 -0000</pubDate>
+    <description>For the Casablanca server setup.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
+    <pubDate>Thu, 08 Oct 2026 16:45:26 -0000</pubDate>
+    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
+  </item>
+  <item>
+    <title>War Without Reason</title>
+    <link>https://mods.vintagestory.at/show/mod/warwthtreason</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/warwthtreason#12324</guid>
+    <pubDate>Thu, 08 Oct 2026 16:43:13 -0000</pubDate>
+    <description>PvP has consequences. Even in safe zones.</description>
+  </item>
+  <item>
+    <title>Vintage Przygoda: Korony</title>
+    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
+    <pubDate>Thu, 08 Oct 2026 16:40:56 -0000</pubDate>
+    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
+  </item>
+  <item>
+    <title>eViSTool</title>
+    <link>https://mods.vintagestory.at/show/mod/evistool</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistool#12228</guid>
+    <pubDate>Thu, 08 Oct 2026 16:35:29 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>Panning Machine</title>
+    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
+    <pubDate>Thu, 08 Oct 2026 16:32:15 -0000</pubDate>
+    <description>Simple machine for panning, now with a heavy-duty Industrial Panning Machine ⚙️</description>
+  </item>
+  <item>
+    <title>kris-copper-additions</title>
+    <link>https://mods.vintagestory.at/show/mod/kriscopperadditions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kriscopperadditions#11951</guid>
+    <pubDate>Thu, 08 Oct 2026 16:29:48 -0000</pubDate>
+    <description>Module adds 6 different types of Copper</description>
+  </item>
+  <item>
+    <title>Contrats &amp; Gages - Russian Translation</title>
+    <link>https://mods.vintagestory.at/show/mod/12328</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12328#12328</guid>
+    <pubDate>Thu, 08 Oct 2026 16:04:11 -0000</pubDate>
+    <description>Full Russian (ru) translation for Contrats &amp; Gages. Requires the original mod.</description>
+  </item>
+  <item>
+    <title>Age of Flax x Art of Growing Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/12377</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12377#12377</guid>
+    <pubDate>Thu, 08 Oct 2026 15:31:08 -0000</pubDate>
+    <description>Compatibility between ArtofGrowing and AgeofFlax</description>
+  </item>
   <item>
     <title>Alegacy Attire</title>
     <link>https://mods.vintagestory.at/show/mod/alegacyattire</link>
@@ -32,188 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/albase#6694</guid>
     <pubDate>Thu, 08 Oct 2026 15:15:10 -0000</pubDate>
     <description>Foundation quest pack for the Alegacy Server.</description>
-  </item>
-  <item>
-    <title>Fancy Fences</title>
-    <link>https://mods.vintagestory.at/show/mod/12383</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12383#12383</guid>
-    <pubDate>Thu, 08 Oct 2026 13:34:05 -0000</pubDate>
-    <description>Adds new fences and fence gates.</description>
-  </item>
-  <item>
-    <title>NationGuard</title>
-    <link>https://mods.vintagestory.at/show/mod/12387</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12387#12387</guid>
-    <pubDate>Thu, 08 Oct 2026 12:39:59 -0000</pubDate>
-    <description>Stationary archer guards that auto-shoot players based on a whitelist or blacklist.</description>
-  </item>
-  <item>
-    <title>Old World Overhaul</title>
-    <link>https://mods.vintagestory.at/show/mod/oldworldoverhaul</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oldworldoverhaul#6443</guid>
-    <pubDate>Thu, 08 Oct 2026 11:16:03 -0000</pubDate>
-    <description>Complete HD Overhaul of the Vanilla Vintage Story World Tons of Hand Drawn Images in Krita.128x Plus</description>
-  </item>
-  <item>
-    <title>Blood Trail</title>
-    <link>https://mods.vintagestory.at/show/mod/bloodtrail</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bloodtrail#5069</guid>
-    <pubDate>Thu, 08 Oct 2026 10:56:34 -0000</pubDate>
-    <description>Animals leave blood trails when wounded by a player.</description>
-  </item>
-  <item>
-    <title>Footprints</title>
-    <link>https://mods.vintagestory.at/show/mod/footprints</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/footprints#5625</guid>
-    <pubDate>Thu, 08 Oct 2026 10:55:43 -0000</pubDate>
-    <description>Animals and Players leave footprints when moving.</description>
-  </item>
-  <item>
-    <title>Mefimotion</title>
-    <link>https://mods.vintagestory.at/show/mod/mefimotion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mefimotion#11386</guid>
-    <pubDate>Thu, 08 Oct 2026 10:43:06 -0000</pubDate>
-    <description>player model library with full support for 3D models</description>
-  </item>
-  <item>
-    <title>Customizable Fleeing</title>
-    <link>https://mods.vintagestory.at/show/mod/customizablefleeing</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customizablefleeing#11792</guid>
-    <pubDate>Thu, 08 Oct 2026 10:40:47 -0000</pubDate>
-    <description>Changes the default generation at which animals stop fleeing from you.</description>
-  </item>
-  <item>
-    <title>MiniMapZoomies</title>
-    <link>https://mods.vintagestory.at/show/mod/12386</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12386#12386</guid>
-    <pubDate>Thu, 08 Oct 2026 10:33:37 -0000</pubDate>
-    <description>a little mod that lets you zoom in and out of the mini map with pgup and pgdn keys</description>
-  </item>
-  <item>
-    <title>Modular/Immersive Backpack Fixes</title>
-    <link>https://mods.vintagestory.at/show/mod/12376</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12376#12376</guid>
-    <pubDate>Thu, 08 Oct 2026 09:58:32 -0000</pubDate>
-    <description>Glue fixes for Modular Backpacks + Immersive Backpacks. Built for my server's modlist.</description>
-  </item>
-  <item>
-    <title>Panning Machine</title>
-    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
-    <pubDate>Thu, 08 Oct 2026 09:43:55 -0000</pubDate>
-    <description>Simple machine for panning, now with a heavy-duty Industrial Panning Machine ⚙️</description>
-  </item>
-  <item>
-    <title>Dishware</title>
-    <link>https://mods.vintagestory.at/show/mod/10372</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10372#10372</guid>
-    <pubDate>Thu, 08 Oct 2026 08:23:59 -0000</pubDate>
-    <description>Adds ceramic dishes such as plates and cups.</description>
-  </item>
-  <item>
-    <title>Temporal Microwave</title>
-    <link>https://mods.vintagestory.at/show/mod/temporalmicrowave</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/temporalmicrowave#12385</guid>
-    <pubDate>Thu, 08 Oct 2026 05:19:22 -0000</pubDate>
-    <description>A Temporal Microwave! Cooks, warms and rewinds food to a fresher state.</description>
-  </item>
-  <item>
-    <title>Advanced Tool Parts</title>
-    <link>https://mods.vintagestory.at/show/mod/advancedtoolparts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedtoolparts#11633</guid>
-    <pubDate>Thu, 08 Oct 2026 04:43:26 -0000</pubDate>
-    <description>Add handles and bindings to your tools to make them faster and last longer!</description>
-  </item>
-  <item>
-    <title>DST - NPC additions</title>
-    <link>https://mods.vintagestory.at/show/mod/dstnpcadditions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dstnpcadditions#11739</guid>
-    <pubDate>Thu, 08 Oct 2026 04:33:12 -0000</pubDate>
-    <description>Additional NPC mobs using the vanilla villager model. </description>
-  </item>
-  <item>
-    <title>Wilderlands Rustbound</title>
-    <link>https://mods.vintagestory.at/show/mod/3004</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3004#3004</guid>
-    <pubDate>Thu, 08 Oct 2026 04:21:39 -0000</pubDate>
-    <description>Overhauls drifter canon, adds a slew of new Rust-related entities and challenges.</description>
-  </item>
-  <item>
-    <title>Walkable Deck</title>
-    <link>https://mods.vintagestory.at/show/mod/walkabledeck</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkabledeck#11390</guid>
-    <pubDate>Thu, 08 Oct 2026 04:02:44 -0000</pubDate>
-    <description>Stand up and walk a boat deck while it sails. Vanilla boats; no other mod required.</description>
-  </item>
-  <item>
-    <title>Starter Kit Bundle</title>
-    <link>https://mods.vintagestory.at/show/mod/vsstarterkit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsstarterkit#10924</guid>
-    <pubDate>Thu, 08 Oct 2026 03:59:06 -0000</pubDate>
-    <description>New players get a deployable bundle that unpacks into a stocked starter container.</description>
-  </item>
-  <item>
-    <title>Buddy Beacon</title>
-    <link>https://mods.vintagestory.at/show/mod/vsbuddybeacon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsbuddybeacon#6151</guid>
-    <pubDate>Thu, 08 Oct 2026 03:58:44 -0000</pubDate>
-    <description>Useful tools to play with buddies - Teleport/Summon to Target Player with Consent &amp; Beacon system.</description>
-  </item>
-  <item>
-    <title>Veganized</title>
-    <link>https://mods.vintagestory.at/show/mod/veganfat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/veganfat#11012</guid>
-    <pubDate>Thu, 08 Oct 2026 03:58:24 -0000</pubDate>
-    <description>Plants make the real vanilla fat, wax and bone meal, so every recipe that wants them just works.</description>
-  </item>
-  <item>
-    <title>Wilderlands Adjustments</title>
-    <link>https://mods.vintagestory.at/show/mod/7320</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7320#7320</guid>
-    <pubDate>Thu, 08 Oct 2026 03:43:56 -0000</pubDate>
-    <description>A repository for a number of configurable values to adjust base game and Wilderlands mods content.</description>
-  </item>
-  <item>
-    <title>BetterChinese</title>
-    <link>https://mods.vintagestory.at/show/mod/betterchinese</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterchinese#2568</guid>
-    <pubDate>Thu, 08 Oct 2026 03:39:21 -0000</pubDate>
-    <description>更好的汉化</description>
-  </item>
-  <item>
-    <title>RAM Garbage Collector</title>
-    <link>https://mods.vintagestory.at/show/mod/ramgarbagecollector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ramgarbagecollector#12356</guid>
-    <pubDate>Thu, 08 Oct 2026 03:34:41 -0000</pubDate>
-    <description>Generic RAM memory optimization and distance culling suite</description>
-  </item>
-  <item>
-    <title>Star Trek Turbolift and Teleport pad</title>
-    <link>https://mods.vintagestory.at/show/mod/trekteleporter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/trekteleporter#11785</guid>
-    <pubDate>Thu, 08 Oct 2026 03:29:35 -0000</pubDate>
-    <description>Adds turbolifts and teleportation pads to the game for specific megabuilds.</description>
-  </item>
-  <item>
-    <title>AnMiTech Continued</title>
-    <link>https://mods.vintagestory.at/show/mod/11603</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11603#11603</guid>
-    <pubDate>Thu, 08 Oct 2026 03:21:19 -0000</pubDate>
-    <description>restoring a forgotten mod that includes weapons and armors from various cultures</description>
-  </item>
-  <item>
-    <title>Newfies Server Essentials Suite</title>
-    <link>https://mods.vintagestory.at/show/mod/11556</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
-    <pubDate>Thu, 08 Oct 2026 02:51:31 -0000</pubDate>
-    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
-  </item>
-  <item>
-    <title>Pinku</title>
-    <link>https://mods.vintagestory.at/show/mod/12245</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12245#12245</guid>
-    <pubDate>Thu, 08 Oct 2026 02:12:13 -0000</pubDate>
-    <description>destroys the purple that dares to masquarade as pink; as well as other pink related things</description>
   </item>
 </channel>
 </rss>
