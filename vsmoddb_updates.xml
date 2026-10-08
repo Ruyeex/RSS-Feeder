@@ -4,7 +4,112 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 08 Oct 2026 07:05:40 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 15:20:45 +0000</lastBuildDate>
+  <item>
+    <title>Alegacy Attire</title>
+    <link>https://mods.vintagestory.at/show/mod/alegacyattire</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyattire#12278</guid>
+    <pubDate>Thu, 08 Oct 2026 15:19:55 -0000</pubDate>
+    <description>Hundreds of medieval and horror-themed clothing pieces, sewn on a tailoring loom from pattern sets</description>
+  </item>
+  <item>
+    <title>Alegacy Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/alegacyclaims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyclaims#12279</guid>
+    <pubDate>Thu, 08 Oct 2026 15:16:39 -0000</pubDate>
+    <description>Chunk-aligned land claims managed on a world map: grant build and use access per player or group.</description>
+  </item>
+  <item>
+    <title>Alegacy Quest Framework</title>
+    <link>https://mods.vintagestory.at/show/mod/alegacyquestframework</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyquestframework#6609</guid>
+    <pubDate>Thu, 08 Oct 2026 15:15:54 -0000</pubDate>
+    <description>Alegacy Quest Framework is a full-featured quest and boss combat engine for Vintage Story.</description>
+  </item>
+  <item>
+    <title>Alegacy: Foundation</title>
+    <link>https://mods.vintagestory.at/show/mod/albase</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/albase#6694</guid>
+    <pubDate>Thu, 08 Oct 2026 15:15:10 -0000</pubDate>
+    <description>Foundation quest pack for the Alegacy Server.</description>
+  </item>
+  <item>
+    <title>Fancy Fences</title>
+    <link>https://mods.vintagestory.at/show/mod/12383</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12383#12383</guid>
+    <pubDate>Thu, 08 Oct 2026 13:34:05 -0000</pubDate>
+    <description>Adds new fences and fence gates.</description>
+  </item>
+  <item>
+    <title>NationGuard</title>
+    <link>https://mods.vintagestory.at/show/mod/12387</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12387#12387</guid>
+    <pubDate>Thu, 08 Oct 2026 12:39:59 -0000</pubDate>
+    <description>Stationary archer guards that auto-shoot players based on a whitelist or blacklist.</description>
+  </item>
+  <item>
+    <title>Old World Overhaul</title>
+    <link>https://mods.vintagestory.at/show/mod/oldworldoverhaul</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oldworldoverhaul#6443</guid>
+    <pubDate>Thu, 08 Oct 2026 11:16:03 -0000</pubDate>
+    <description>Complete HD Overhaul of the Vanilla Vintage Story World Tons of Hand Drawn Images in Krita.128x Plus</description>
+  </item>
+  <item>
+    <title>Blood Trail</title>
+    <link>https://mods.vintagestory.at/show/mod/bloodtrail</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bloodtrail#5069</guid>
+    <pubDate>Thu, 08 Oct 2026 10:56:34 -0000</pubDate>
+    <description>Animals leave blood trails when wounded by a player.</description>
+  </item>
+  <item>
+    <title>Footprints</title>
+    <link>https://mods.vintagestory.at/show/mod/footprints</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/footprints#5625</guid>
+    <pubDate>Thu, 08 Oct 2026 10:55:43 -0000</pubDate>
+    <description>Animals and Players leave footprints when moving.</description>
+  </item>
+  <item>
+    <title>Mefimotion</title>
+    <link>https://mods.vintagestory.at/show/mod/mefimotion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mefimotion#11386</guid>
+    <pubDate>Thu, 08 Oct 2026 10:43:06 -0000</pubDate>
+    <description>player model library with full support for 3D models</description>
+  </item>
+  <item>
+    <title>Customizable Fleeing</title>
+    <link>https://mods.vintagestory.at/show/mod/customizablefleeing</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customizablefleeing#11792</guid>
+    <pubDate>Thu, 08 Oct 2026 10:40:47 -0000</pubDate>
+    <description>Changes the default generation at which animals stop fleeing from you.</description>
+  </item>
+  <item>
+    <title>MiniMapZoomies</title>
+    <link>https://mods.vintagestory.at/show/mod/12386</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12386#12386</guid>
+    <pubDate>Thu, 08 Oct 2026 10:33:37 -0000</pubDate>
+    <description>a little mod that lets you zoom in and out of the mini map with pgup and pgdn keys</description>
+  </item>
+  <item>
+    <title>Modular/Immersive Backpack Fixes</title>
+    <link>https://mods.vintagestory.at/show/mod/12376</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12376#12376</guid>
+    <pubDate>Thu, 08 Oct 2026 09:58:32 -0000</pubDate>
+    <description>Glue fixes for Modular Backpacks + Immersive Backpacks. Built for my server's modlist.</description>
+  </item>
+  <item>
+    <title>Panning Machine</title>
+    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
+    <pubDate>Thu, 08 Oct 2026 09:43:55 -0000</pubDate>
+    <description>Simple machine for panning, now with a heavy-duty Industrial Panning Machine ⚙️</description>
+  </item>
+  <item>
+    <title>Dishware</title>
+    <link>https://mods.vintagestory.at/show/mod/10372</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10372#10372</guid>
+    <pubDate>Thu, 08 Oct 2026 08:23:59 -0000</pubDate>
+    <description>Adds ceramic dishes such as plates and cups.</description>
+  </item>
   <item>
     <title>Temporal Microwave</title>
     <link>https://mods.vintagestory.at/show/mod/temporalmicrowave</link>
@@ -109,111 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12245#12245</guid>
     <pubDate>Thu, 08 Oct 2026 02:12:13 -0000</pubDate>
     <description>destroys the purple that dares to masquarade as pink; as well as other pink related things</description>
-  </item>
-  <item>
-    <title>qol crafts continued</title>
-    <link>https://mods.vintagestory.at/show/mod/12109</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12109#12109</guid>
-    <pubDate>Thu, 08 Oct 2026 01:19:08 -0000</pubDate>
-    <description>A continuation of qolcrafts</description>
-  </item>
-  <item>
-    <title>Candela</title>
-    <link>https://mods.vintagestory.at/show/mod/candela</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/candela#12341</guid>
-    <pubDate>Thu, 08 Oct 2026 01:18:47 -0000</pubDate>
-    <description>Candles that burn down, tallow candles you dip by hand, and clay moulds you pour. Light means work.</description>
-  </item>
-  <item>
-    <title>Outstanding Ebony</title>
-    <link>https://mods.vintagestory.at/show/mod/outstandingebony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/outstandingebony#11925</guid>
-    <pubDate>Thu, 08 Oct 2026 01:02:13 -0000</pubDate>
-    <description>Adds ebony fruit, also known as jackalberry, as a drop to ebony trees. Expanded Foods compatible!</description>
-  </item>
-  <item>
-    <title>VS Roofing Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/vsroofing</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsroofing#5036</guid>
-    <pubDate>Thu, 08 Oct 2026 00:53:03 -0000</pubDate>
-    <description>Gridless roof building system with vanilla style roofs, glass houses and more!</description>
-  </item>
-  <item>
-    <title>Prosequor - Skills, Levels, Trees and Stats</title>
-    <link>https://mods.vintagestory.at/show/mod/11674</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11674#11674</guid>
-    <pubDate>Thu, 08 Oct 2026 00:51:38 -0000</pubDate>
-    <description>Adds a full-throated, first-class skill, levelling and attributes system to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Smart TV</title>
-    <link>https://mods.vintagestory.at/show/mod/smarttv</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smarttv#12250</guid>
-    <pubDate>Thu, 08 Oct 2026 00:22:18 -0000</pubDate>
-    <description>This mod adds a flat screen wall mounted tv that is resizable. Only available in the creative menu</description>
-  </item>
-  <item>
-    <title>Wind Chimes</title>
-    <link>https://mods.vintagestory.at/show/mod/windchimes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windchimes#4105</guid>
-    <pubDate>Thu, 08 Oct 2026 00:03:59 -0000</pubDate>
-    <description>Add decorative wind chimes</description>
-  </item>
-  <item>
-    <title>Floating Text Images and Gifs</title>
-    <link>https://mods.vintagestory.at/show/mod/floatingtext</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/floatingtext#11932</guid>
-    <pubDate>Thu, 08 Oct 2026 00:01:57 -0000</pubDate>
-    <description>Adds Floating text to your game.</description>
-  </item>
-  <item>
-    <title>Esoterica</title>
-    <link>https://mods.vintagestory.at/show/mod/6087</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6087#6087</guid>
-    <pubDate>Wed, 07 Oct 2026 23:34:25 -0000</pubDate>
-    <description>A sixth history community license mod merging the lore from Cultist Simulator with Vintage Story.</description>
-  </item>
-  <item>
-    <title>Diet Setup</title>
-    <link>https://mods.vintagestory.at/show/mod/dietsetup</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dietsetup#11576</guid>
-    <pubDate>Wed, 07 Oct 2026 22:44:53 -0000</pubDate>
-    <description>Configurable food preferences, nutrition and spoilage responses, with optional race diets.</description>
-  </item>
-  <item>
-    <title>RFMechanics</title>
-    <link>https://mods.vintagestory.at/show/mod/rfmechanics</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rfmechanics#11578</guid>
-    <pubDate>Wed, 07 Oct 2026 22:43:52 -0000</pubDate>
-    <description>Race-specific abilities and survival mechanics. WIP but currently has climbing, growing orcs, etc</description>
-  </item>
-  <item>
-    <title>Race Framework</title>
-    <link>https://mods.vintagestory.at/show/mod/raceframework</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/raceframework#11577</guid>
-    <pubDate>Wed, 07 Oct 2026 22:42:43 -0000</pubDate>
-    <description>Racial strengths, drawbacks and class choices for various races</description>
-  </item>
-  <item>
-    <title>Fancy Fences</title>
-    <link>https://mods.vintagestory.at/show/mod/12383</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12383#12383</guid>
-    <pubDate>Wed, 07 Oct 2026 22:37:05 -0000</pubDate>
-    <description>Adds new fences and fence gates.</description>
-  </item>
-  <item>
-    <title>NDL ExpandedGrowth (Coral Growth Module)</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthcoral</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthcoral#5699</guid>
-    <pubDate>Wed, 07 Oct 2026 22:29:31 -0000</pubDate>
-    <description>Adds a method for growing/harvest coral chunks.</description>
-  </item>
-  <item>
-    <title>Lost and Found</title>
-    <link>https://mods.vintagestory.at/show/mod/lostandfound</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lostandfound#5848</guid>
-    <pubDate>Wed, 07 Oct 2026 22:05:38 -0000</pubDate>
-    <description>Players can find items that were lost/discarded by others via panning, terraforming or fishing!</description>
   </item>
 </channel>
 </rss>
