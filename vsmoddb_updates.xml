@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 09 Oct 2026 08:38:02 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 15:54:55 +0000</lastBuildDate>
+  <item>
+    <title>eViSTool</title>
+    <link>https://mods.vintagestory.at/show/mod/evistool</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistool#12228</guid>
+    <pubDate>Fri, 09 Oct 2026 15:31:31 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>Combat Overhaul Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/combatoverhaulforked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/combatoverhaulforked#8415</guid>
+    <pubDate>Fri, 09 Oct 2026 14:44:34 -0000</pubDate>
+    <description>1.22 fork</description>
+  </item>
+  <item>
+    <title>Overhaul lib legacy compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/overhaulliblegacycompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/overhaulliblegacycompat#8401</guid>
+    <pubDate>Fri, 09 Oct 2026 14:44:25 -0000</pubDate>
+    <description>Compat for firearms, crossbows, combatoverhaul</description>
+  </item>
+  <item>
+    <title>Decor Bazaar Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/decorbazaarpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/decorbazaarpatch#12408</guid>
+    <pubDate>Fri, 09 Oct 2026 14:39:49 -0000</pubDate>
+    <description>Should fix all issues with the "Decor Bazaar" mod on VS v1.22.7+</description>
+  </item>
+  <item>
+    <title>Teapot's Giant Boar</title>
+    <link>https://mods.vintagestory.at/show/mod/teapotsgiantboar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantboar#11742</guid>
+    <pubDate>Fri, 09 Oct 2026 14:28:43 -0000</pubDate>
+    <description>Chonky boys that can be your companions and mounts. In wild, they might trigger your bear traumas.</description>
+  </item>
+  <item>
+    <title>Teapot's Great Bighorn</title>
+    <link>https://mods.vintagestory.at/show/mod/teapotsgreatbighorn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgreatbighorn#12407</guid>
+    <pubDate>Fri, 09 Oct 2026 14:08:46 -0000</pubDate>
+    <description>Big mounts with bigger horns! Run across the wilderness in style!</description>
+  </item>
+  <item>
+    <title>Opttage Path</title>
+    <link>https://mods.vintagestory.at/show/mod/opttagepath</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/opttagepath#12395</guid>
+    <pubDate>Fri, 09 Oct 2026 11:46:35 -0000</pubDate>
+    <description>Lighter creatures for busy servers, and your PC too: same paths as the game, just faster.</description>
+  </item>
+  <item>
+    <title>GuildsNClaims</title>
+    <link>https://mods.vintagestory.at/show/mod/guildsnclaims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/guildsnclaims#12232</guid>
+    <pubDate>Fri, 09 Oct 2026 10:53:33 -0000</pubDate>
+    <description>Guilds, Claims, per Chunk Controls and Audio for Admin Claims.</description>
+  </item>
+  <item>
+    <title>Pack de Traduction Française</title>
+    <link>https://mods.vintagestory.at/show/mod/packfr</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/packfr#11805</guid>
+    <pubDate>Fri, 09 Oct 2026 10:21:59 -0000</pubDate>
+    <description>Ce mod ajoute une traduction française pour une sélection de mods communautaires. </description>
+  </item>
+  <item>
+    <title>Moonlit fantasy pack</title>
+    <link>https://mods.vintagestory.at/show/mod/6273</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6273#6273</guid>
+    <pubDate>Fri, 09 Oct 2026 09:43:56 -0000</pubDate>
+    <description>A weapon and armour pack for the moonlit fantasy server</description>
+  </item>
   <item>
     <title>Omok Tournaments</title>
     <link>https://mods.vintagestory.at/show/mod/omoktourney</link>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realistictorches#12397</guid>
     <pubDate>Fri, 09 Oct 2026 03:01:21 -0000</pubDate>
     <description>Brings torch mechanics somewhat closer to realism</description>
-  </item>
-  <item>
-    <title>topgsmod</title>
-    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Fri, 09 Oct 2026 02:56:05 -0000</pubDate>
-    <description>TopGs Community Mod</description>
-  </item>
-  <item>
-    <title>Vein Miner Revamp</title>
-    <link>https://mods.vintagestory.at/show/mod/veinminerrevamp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/veinminerrevamp#9516</guid>
-    <pubDate>Fri, 09 Oct 2026 02:21:36 -0000</pubDate>
-    <description>Hold sneak while breaking an ore to mine the entire connected vein at once. </description>
-  </item>
-  <item>
-    <title>OffhandHungerTool</title>
-    <link>https://mods.vintagestory.at/show/mod/11812</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11812#11812</guid>
-    <pubDate>Fri, 09 Oct 2026 02:20:22 -0000</pubDate>
-    <description>A simple hunger Tool </description>
-  </item>
-  <item>
-    <title>Expanded Foods: Meals Module 1.0.0-dev.9</title>
-    <link>https://mods.vintagestory.at/show/mod/efmealsmodule</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/efmealsmodule#9270</guid>
-    <pubDate>Fri, 09 Oct 2026 01:49:57 -0000</pubDate>
-    <description>Fancy new meals for the discerning palate. </description>
-  </item>
-  <item>
-    <title>Expanded Foods: Core 2.0.0-dev.16</title>
-    <link>https://mods.vintagestory.at/show/mod/expandedfoods</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/expandedfoods#16</guid>
-    <pubDate>Fri, 09 Oct 2026 01:49:38 -0000</pubDate>
-    <description>Adds a variety of new uses for existing foods.</description>
-  </item>
-  <item>
-    <title>VS Terrain Diffusion</title>
-    <link>https://mods.vintagestory.at/show/mod/vsterraindiffusion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsterraindiffusion#10918</guid>
-    <pubDate>Fri, 09 Oct 2026 01:46:06 -0000</pubDate>
-    <description>Generate terrain and climates with a model trained on real Earth topography</description>
-  </item>
-  <item>
-    <title>Opttage Path</title>
-    <link>https://mods.vintagestory.at/show/mod/opttagepath</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/opttagepath#12395</guid>
-    <pubDate>Fri, 09 Oct 2026 00:50:05 -0000</pubDate>
-    <description>Lighter creatures for busy servers: pathfinding off the main thread, same paths as the game.</description>
-  </item>
-  <item>
-    <title>HandcraftedRewards</title>
-    <link>https://mods.vintagestory.at/show/mod/12394</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12394#12394</guid>
-    <pubDate>Fri, 09 Oct 2026 00:47:07 -0000</pubDate>
-    <description>+5% working speed bonus on hand crafted tools</description>
-  </item>
-  <item>
-    <title>Get Some Tail!</title>
-    <link>https://mods.vintagestory.at/show/mod/getsometail</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/getsometail#12388</guid>
-    <pubDate>Fri, 09 Oct 2026 00:04:59 -0000</pubDate>
-    <description>Adds Tails! </description>
-  </item>
-  <item>
-    <title>Livemap</title>
-    <link>https://mods.vintagestory.at/show/mod/12390</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12390#12390</guid>
-    <pubDate>Thu, 08 Oct 2026 23:56:52 -0000</pubDate>
-    <description>Live Map turns your server into a web map that anyone can open in a browser</description>
   </item>
 </channel>
 </rss>
