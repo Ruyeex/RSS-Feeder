@@ -4,7 +4,105 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 08 Oct 2026 21:07:33 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 01:48:46 +0000</lastBuildDate>
+  <item>
+    <title>VS Terrain Diffusion</title>
+    <link>https://mods.vintagestory.at/show/mod/vsterraindiffusion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsterraindiffusion#10918</guid>
+    <pubDate>Fri, 09 Oct 2026 01:46:06 -0000</pubDate>
+    <description>Generate terrain and climates with a model trained on real Earth topography</description>
+  </item>
+  <item>
+    <title>Opttage Path</title>
+    <link>https://mods.vintagestory.at/show/mod/opttagepath</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/opttagepath#12395</guid>
+    <pubDate>Fri, 09 Oct 2026 00:50:05 -0000</pubDate>
+    <description>Lighter creatures for busy servers: pathfinding off the main thread, same paths as the game.</description>
+  </item>
+  <item>
+    <title>HandcraftedRewards</title>
+    <link>https://mods.vintagestory.at/show/mod/12394</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12394#12394</guid>
+    <pubDate>Fri, 09 Oct 2026 00:47:07 -0000</pubDate>
+    <description>+5% working speed bonus on hand crafted tools</description>
+  </item>
+  <item>
+    <title>Get Some Tail!</title>
+    <link>https://mods.vintagestory.at/show/mod/getsometail</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/getsometail#12388</guid>
+    <pubDate>Fri, 09 Oct 2026 00:04:59 -0000</pubDate>
+    <description>Adds Tails! </description>
+  </item>
+  <item>
+    <title>Livemap</title>
+    <link>https://mods.vintagestory.at/show/mod/12390</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12390#12390</guid>
+    <pubDate>Thu, 08 Oct 2026 23:56:52 -0000</pubDate>
+    <description>Live Map turns your server into a web map that anyone can open in a browser</description>
+  </item>
+  <item>
+    <title>Wanderer's Bindle</title>
+    <link>https://mods.vintagestory.at/show/mod/wanderersbindle</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wanderersbindle#12393</guid>
+    <pubDate>Thu, 08 Oct 2026 23:52:44 -0000</pubDate>
+    <description>Adds Wanderer's Bindle - offhand-carried bundle for your personal belongings!</description>
+  </item>
+  <item>
+    <title>Destaria Masteries</title>
+    <link>https://mods.vintagestory.at/show/mod/destariamasteries</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/destariamasteries#12096</guid>
+    <pubDate>Thu, 08 Oct 2026 23:51:00 -0000</pubDate>
+    <description>Skills for the Destaria Server</description>
+  </item>
+  <item>
+    <title>Komet - Performance Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/komet</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/komet#11423</guid>
+    <pubDate>Thu, 08 Oct 2026 22:57:46 -0000</pubDate>
+    <description>Komet is an awesome performance mod!</description>
+  </item>
+  <item>
+    <title>Colonial Firearms</title>
+    <link>https://mods.vintagestory.at/show/mod/colonialfirearms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/colonialfirearms#12392</guid>
+    <pubDate>Thu, 08 Oct 2026 22:45:53 -0000</pubDate>
+    <description>19th century firearms, brass cartridges, recoverable casings, and full ammunition manufacturing.</description>
+  </item>
+  <item>
+    <title>Realistic Rapids</title>
+    <link>https://mods.vintagestory.at/show/mod/realisticrapids</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticrapids#10227</guid>
+    <pubDate>Thu, 08 Oct 2026 22:37:11 -0000</pubDate>
+    <description>Makes rapids and waterwheels work more realistically. Official addon for Realistic Water</description>
+  </item>
+  <item>
+    <title>Realistic Water</title>
+    <link>https://mods.vintagestory.at/show/mod/realisticwater</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticwater#8297</guid>
+    <pubDate>Thu, 08 Oct 2026 22:35:29 -0000</pubDate>
+    <description>Makes water spread and flow more realistically, so that you can build aqueducts, dams, canals etc</description>
+  </item>
+  <item>
+    <title>Moonlit fantasy pack</title>
+    <link>https://mods.vintagestory.at/show/mod/6273</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6273#6273</guid>
+    <pubDate>Thu, 08 Oct 2026 22:00:26 -0000</pubDate>
+    <description>A weapon and armour pack for the moonlit fantasy server</description>
+  </item>
+  <item>
+    <title>Stairs</title>
+    <link>https://mods.vintagestory.at/show/mod/stairs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stairs#12340</guid>
+    <pubDate>Thu, 08 Oct 2026 21:33:09 -0000</pubDate>
+    <description>Open Stairs inpired by More Paths and Stairs steps</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmech</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmech#10965</guid>
+    <pubDate>Thu, 08 Oct 2026 21:30:48 -0000</pubDate>
+    <description>The factory must grow!</description>
+  </item>
   <item>
     <title>Shuffle's Frontier Firearms</title>
     <link>https://mods.vintagestory.at/show/mod/shufflesfrontierfirearms</link>
@@ -53,13 +151,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/containersbundle#4058</guid>
     <pubDate>Thu, 08 Oct 2026 19:15:34 -0000</pubDate>
     <description>Adds 11 new containers to enrich game's container progression! With visual display of fullness!</description>
-  </item>
-  <item>
-    <title>Livemap</title>
-    <link>https://mods.vintagestory.at/show/mod/12390</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12390#12390</guid>
-    <pubDate>Thu, 08 Oct 2026 18:48:53 -0000</pubDate>
-    <description>Live Map turns your server into a web map that anyone can open in a browser</description>
   </item>
   <item>
     <title>Immersive Woodworking</title>
@@ -123,97 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eolcore#12195</guid>
     <pubDate>Thu, 08 Oct 2026 17:00:55 -0000</pubDate>
     <description>Core module of Edge of Lineage suite that introduces new weapons and crafting mechanics</description>
-  </item>
-  <item>
-    <title>Casablanca Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/11911</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11911#11911</guid>
-    <pubDate>Thu, 08 Oct 2026 16:53:58 -0000</pubDate>
-    <description>For the Casablanca server setup.</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
-    <pubDate>Thu, 08 Oct 2026 16:45:26 -0000</pubDate>
-    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
-  </item>
-  <item>
-    <title>War Without Reason</title>
-    <link>https://mods.vintagestory.at/show/mod/warwthtreason</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/warwthtreason#12324</guid>
-    <pubDate>Thu, 08 Oct 2026 16:43:13 -0000</pubDate>
-    <description>PvP has consequences. Even in safe zones.</description>
-  </item>
-  <item>
-    <title>Vintage Przygoda: Korony</title>
-    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
-    <pubDate>Thu, 08 Oct 2026 16:40:56 -0000</pubDate>
-    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
-  </item>
-  <item>
-    <title>eViSTool</title>
-    <link>https://mods.vintagestory.at/show/mod/evistool</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistool#12228</guid>
-    <pubDate>Thu, 08 Oct 2026 16:35:29 -0000</pubDate>
-    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
-  </item>
-  <item>
-    <title>Panning Machine</title>
-    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
-    <pubDate>Thu, 08 Oct 2026 16:32:15 -0000</pubDate>
-    <description>Simple machine for panning, now with a heavy-duty Industrial Panning Machine ⚙️</description>
-  </item>
-  <item>
-    <title>kris-copper-additions</title>
-    <link>https://mods.vintagestory.at/show/mod/kriscopperadditions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kriscopperadditions#11951</guid>
-    <pubDate>Thu, 08 Oct 2026 16:29:48 -0000</pubDate>
-    <description>Module adds 6 different types of Copper</description>
-  </item>
-  <item>
-    <title>Contrats &amp; Gages - Russian Translation</title>
-    <link>https://mods.vintagestory.at/show/mod/12328</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12328#12328</guid>
-    <pubDate>Thu, 08 Oct 2026 16:04:11 -0000</pubDate>
-    <description>Full Russian (ru) translation for Contrats &amp; Gages. Requires the original mod.</description>
-  </item>
-  <item>
-    <title>Age of Flax x Art of Growing Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/12377</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12377#12377</guid>
-    <pubDate>Thu, 08 Oct 2026 15:31:08 -0000</pubDate>
-    <description>Compatibility between ArtofGrowing and AgeofFlax</description>
-  </item>
-  <item>
-    <title>Alegacy Attire</title>
-    <link>https://mods.vintagestory.at/show/mod/alegacyattire</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyattire#12278</guid>
-    <pubDate>Thu, 08 Oct 2026 15:19:55 -0000</pubDate>
-    <description>Hundreds of medieval and horror-themed clothing pieces, sewn on a tailoring loom from pattern sets</description>
-  </item>
-  <item>
-    <title>Alegacy Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/alegacyclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyclaims#12279</guid>
-    <pubDate>Thu, 08 Oct 2026 15:16:39 -0000</pubDate>
-    <description>Chunk-aligned land claims managed on a world map: grant build and use access per player or group.</description>
-  </item>
-  <item>
-    <title>Alegacy Quest Framework</title>
-    <link>https://mods.vintagestory.at/show/mod/alegacyquestframework</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyquestframework#6609</guid>
-    <pubDate>Thu, 08 Oct 2026 15:15:54 -0000</pubDate>
-    <description>Alegacy Quest Framework is a full-featured quest and boss combat engine for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Alegacy: Foundation</title>
-    <link>https://mods.vintagestory.at/show/mod/albase</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/albase#6694</guid>
-    <pubDate>Thu, 08 Oct 2026 15:15:10 -0000</pubDate>
-    <description>Foundation quest pack for the Alegacy Server.</description>
   </item>
 </channel>
 </rss>
