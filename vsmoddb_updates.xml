@@ -4,12 +4,208 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 10 Oct 2026 00:33:27 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 06:47:04 +0000</lastBuildDate>
+  <item>
+    <title>CB Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
+    <pubDate>Sat, 10 Oct 2026 06:44:26 -0000</pubDate>
+    <description>JSON content patches</description>
+  </item>
+  <item>
+    <title>CB Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Sat, 10 Oct 2026 06:42:39 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
+  <item>
+    <title>CB Factions</title>
+    <link>https://mods.vintagestory.at/show/mod/9586</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9586#9586</guid>
+    <pubDate>Sat, 10 Oct 2026 06:41:05 -0000</pubDate>
+    <description>Settlement and factions mod</description>
+  </item>
+  <item>
+    <title>CB Economy</title>
+    <link>https://mods.vintagestory.at/show/mod/9634</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9634#9634</guid>
+    <pubDate>Sat, 10 Oct 2026 06:40:21 -0000</pubDate>
+    <description>Economy mod</description>
+  </item>
+  <item>
+    <title>CB Nametags</title>
+    <link>https://mods.vintagestory.at/show/mod/10460</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10460#10460</guid>
+    <pubDate>Sat, 10 Oct 2026 06:36:52 -0000</pubDate>
+    <description>Nametag mod for more customization</description>
+  </item>
+  <item>
+    <title>CB Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/10778</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
+    <pubDate>Sat, 10 Oct 2026 06:36:18 -0000</pubDate>
+    <description>Skill and class mod for the CB server</description>
+  </item>
+  <item>
+    <title>CB Quests</title>
+    <link>https://mods.vintagestory.at/show/mod/10819</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10819#10819</guid>
+    <pubDate>Sat, 10 Oct 2026 06:35:34 -0000</pubDate>
+    <description>Adds quests for the the CB server</description>
+  </item>
+  <item>
+    <title>CB Feverstone Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/10907</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10907#10907</guid>
+    <pubDate>Sat, 10 Oct 2026 06:34:34 -0000</pubDate>
+    <description>Compatibility mod for Feverstone Wilds with other mods.</description>
+  </item>
+  <item>
+    <title>CB FotSA Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/11150</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11150#11150</guid>
+    <pubDate>Sat, 10 Oct 2026 06:32:38 -0000</pubDate>
+    <description>CB FotSA Compat</description>
+  </item>
+  <item>
+    <title>Better Attack</title>
+    <link>https://mods.vintagestory.at/show/mod/betterattack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterattack#12066</guid>
+    <pubDate>Sat, 10 Oct 2026 05:13:14 -0000</pubDate>
+    <description>Hit an enemy in front of you even if you miss</description>
+  </item>
+  <item>
+    <title>Geology Expansion: World</title>
+    <link>https://mods.vintagestory.at/show/mod/geologyexpansionworld</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/geologyexpansionworld#12199</guid>
+    <pubDate>Sat, 10 Oct 2026 04:54:16 -0000</pubDate>
+    <description>Adds the world side of Geology Expansion: volcanoes, gems, vugs, &amp; more</description>
+  </item>
+  <item>
+    <title>Chart Sync</title>
+    <link>https://mods.vintagestory.at/show/mod/12421</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12421#12421</guid>
+    <pubDate>Sat, 10 Oct 2026 04:21:25 -0000</pubDate>
+    <description>A mod that lets you place maps in the world, and Sync your map with other players ! </description>
+  </item>
+  <item>
+    <title>Grassroots</title>
+    <link>https://mods.vintagestory.at/show/mod/grassroots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
+    <pubDate>Sat, 10 Oct 2026 04:11:36 -0000</pubDate>
+    <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
+  </item>
+  <item>
+    <title>RAM Garbage Collector</title>
+    <link>https://mods.vintagestory.at/show/mod/ramgarbagecollector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ramgarbagecollector#12356</guid>
+    <pubDate>Sat, 10 Oct 2026 04:00:55 -0000</pubDate>
+    <description>Generic RAM memory optimization and distance culling suite</description>
+  </item>
+  <item>
+    <title>AnimalPickup</title>
+    <link>https://mods.vintagestory.at/show/mod/12420</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12420#12420</guid>
+    <pubDate>Sat, 10 Oct 2026 03:03:06 -0000</pubDate>
+    <description>Allows you to pickup baby animals!</description>
+  </item>
+  <item>
+    <title>Advanced Tool Parts</title>
+    <link>https://mods.vintagestory.at/show/mod/advancedtoolparts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedtoolparts#11633</guid>
+    <pubDate>Sat, 10 Oct 2026 02:27:54 -0000</pubDate>
+    <description>Add handles and bindings to your tools to make them faster and last longer!</description>
+  </item>
+  <item>
+    <title>Antique Harmony | Music Additions / Alternative Soundtrack</title>
+    <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiqueharmony#7141</guid>
+    <pubDate>Sat, 10 Oct 2026 02:19:48 -0000</pubDate>
+    <description>Adds to/replaces soundtrack with original orchestral one, composed from scratch</description>
+  </item>
+  <item>
+    <title>Root Walker</title>
+    <link>https://mods.vintagestory.at/show/mod/12419</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12419#12419</guid>
+    <pubDate>Sat, 10 Oct 2026 02:10:54 -0000</pubDate>
+    <description>New Root Walker Mob.</description>
+  </item>
+  <item>
+    <title>WarpMod</title>
+    <link>https://mods.vintagestory.at/show/mod/4513</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4513#4513</guid>
+    <pubDate>Sat, 10 Oct 2026 02:10:19 -0000</pubDate>
+    <description>Set custom warp points with the ability to share them between your group members!</description>
+  </item>
+  <item>
+    <title>Vintage Fantasy</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagefantasy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagefantasy#12418</guid>
+    <pubDate>Sat, 10 Oct 2026 02:05:54 -0000</pubDate>
+    <description>Whole buncha random shit to make the 194+ mods of the server not murder each other in their sleep</description>
+  </item>
+  <item>
+    <title>VS Instruments Redux - Expansion B</title>
+    <link>https://mods.vintagestory.at/show/mod/vsinstrumentsreduxexpansionb</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsinstrumentsreduxexpansionb#11573</guid>
+    <pubDate>Sat, 10 Oct 2026 01:54:11 -0000</pubDate>
+    <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
+  </item>
+  <item>
+    <title>VS Instruments Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/vsinstrumentsredux</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsinstrumentsredux#10555</guid>
+    <pubDate>Sat, 10 Oct 2026 01:53:01 -0000</pubDate>
+    <description>Bring your world to life! Play custom ABC/MIDI sheet music files on working in-game instruments.</description>
+  </item>
+  <item>
+    <title>Featherborn (Harpy, Avian, Goose, Bird Folk)</title>
+    <link>https://mods.vintagestory.at/show/mod/featherborn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/featherborn#8019</guid>
+    <pubDate>Sat, 10 Oct 2026 01:36:13 -0000</pubDate>
+    <description>Featherborn is a mod created to allow for a bird/avian/harpy player characters.</description>
+  </item>
+  <item>
+    <title>Real Smoke</title>
+    <link>https://mods.vintagestory.at/show/mod/realsmoke</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmoke#4591</guid>
+    <pubDate>Sat, 10 Oct 2026 01:30:10 -0000</pubDate>
+    <description>Physics-based smoke</description>
+  </item>
+  <item>
+    <title>Weapon Pack Alpha - Rebalanced</title>
+    <link>https://mods.vintagestory.at/show/mod/3314</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
+    <pubDate>Sat, 10 Oct 2026 01:21:33 -0000</pubDate>
+    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
+  </item>
+  <item>
+    <title>My Race My Rules</title>
+    <link>https://mods.vintagestory.at/show/mod/myracemyrules</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/myracemyrules#11504</guid>
+    <pubDate>Sat, 10 Oct 2026 01:17:10 -0000</pubDate>
+    <description>Customize settings and traits on races added by other mods.</description>
+  </item>
+  <item>
+    <title>Opttage Craft</title>
+    <link>https://mods.vintagestory.at/show/mod/opttagecraft</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/opttagecraft#12315</guid>
+    <pubDate>Sat, 10 Oct 2026 01:07:44 -0000</pubDate>
+    <description>Fast crafting grid for modded servers: same recipe as the game, no more crafting freezes.</description>
+  </item>
+  <item>
+    <title>Gentage</title>
+    <link>https://mods.vintagestory.at/show/mod/gentage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
+    <pubDate>Sat, 10 Oct 2026 01:07:07 -0000</pubDate>
+    <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
+  </item>
   <item>
     <title>Finite Torches</title>
     <link>https://mods.vintagestory.at/show/mod/12412</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12412#12412</guid>
-    <pubDate>Fri, 09 Oct 2026 23:32:06 -0000</pubDate>
+    <pubDate>Sat, 10 Oct 2026 00:54:29 -0000</pubDate>
     <description>Once lit, torches will burn for a limited time before going out, regardless of where they are.</description>
   </item>
   <item>
@@ -18,202 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillaexpanded#6221</guid>
     <pubDate>Fri, 09 Oct 2026 23:19:49 -0000</pubDate>
     <description>Aims to add quality-of-life enhancements, missing functionality, and minor bug fixes</description>
-  </item>
-  <item>
-    <title>Advanced Tool Parts</title>
-    <link>https://mods.vintagestory.at/show/mod/advancedtoolparts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedtoolparts#11633</guid>
-    <pubDate>Fri, 09 Oct 2026 23:14:32 -0000</pubDate>
-    <description>Add handles and bindings to your tools to make them faster and last longer!</description>
-  </item>
-  <item>
-    <title>Butchering Pekin Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/12417</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12417#12417</guid>
-    <pubDate>Fri, 09 Oct 2026 23:06:23 -0000</pubDate>
-    <description>Patch for Butchering Mod by CaptainOats</description>
-  </item>
-  <item>
-    <title>ReclaimedRealms ACA Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/acafix</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/acafix#12416</guid>
-    <pubDate>Fri, 09 Oct 2026 22:54:21 -0000</pubDate>
-    <description>Just a simple mod fix for A Culinary Artillery for the server "Reclaimed Realm"</description>
-  </item>
-  <item>
-    <title>LTO Black Smith +</title>
-    <link>https://mods.vintagestory.at/show/mod/ltobsplus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ltobsplus#11958</guid>
-    <pubDate>Fri, 09 Oct 2026 22:51:40 -0000</pubDate>
-    <description>Toolsmith + Smithing Plus + Weaponsmith and more — a full blacksmithing overhaul.</description>
-  </item>
-  <item>
-    <title>Smeltable Arrowheads</title>
-    <link>https://mods.vintagestory.at/show/mod/smlthead</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smlthead#3025</guid>
-    <pubDate>Fri, 09 Oct 2026 22:34:02 -0000</pubDate>
-    <description>Allows you to smelt your arrowheads for 10 units each.</description>
-  </item>
-  <item>
-    <title>Geology Expansion: World</title>
-    <link>https://mods.vintagestory.at/show/mod/geologyexpansionworld</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/geologyexpansionworld#12199</guid>
-    <pubDate>Fri, 09 Oct 2026 22:33:57 -0000</pubDate>
-    <description>Adds the world side of Geology Expansion: volcanoes, gems, vugs, &amp; more</description>
-  </item>
-  <item>
-    <title>WOO Fantasy Additions</title>
-    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
-    <pubDate>Fri, 09 Oct 2026 22:24:53 -0000</pubDate>
-    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
-  </item>
-  <item>
-    <title>Fancy Fences</title>
-    <link>https://mods.vintagestory.at/show/mod/12383</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12383#12383</guid>
-    <pubDate>Fri, 09 Oct 2026 22:21:07 -0000</pubDate>
-    <description>Adds new fences and fence gates.</description>
-  </item>
-  <item>
-    <title>The Quire Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/tqp</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tqp#10455</guid>
-    <pubDate>Fri, 09 Oct 2026 22:10:49 -0000</pubDate>
-    <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
-  </item>
-  <item>
-    <title>Vintage Przygoda: Korony</title>
-    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
-    <pubDate>Fri, 09 Oct 2026 22:08:44 -0000</pubDate>
-    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
-  </item>
-  <item>
-    <title>Gentage</title>
-    <link>https://mods.vintagestory.at/show/mod/gentage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
-    <pubDate>Fri, 09 Oct 2026 21:57:27 -0000</pubDate>
-    <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
-  </item>
-  <item>
-    <title>Newfies MOTD Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/5102</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5102#5102</guid>
-    <pubDate>Fri, 09 Oct 2026 21:51:18 -0000</pubDate>
-    <description>The BEST server Message of the day mod!</description>
-  </item>
-  <item>
-    <title>Newfies Chat Guard</title>
-    <link>https://mods.vintagestory.at/show/mod/5250</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5250#5250</guid>
-    <pubDate>Fri, 09 Oct 2026 21:38:24 -0000</pubDate>
-    <description>Server-side mute + chat filter for Vintage Story. Timed/permanent mutes, offline support, word/regex</description>
-  </item>
-  <item>
-    <title>Newfie's Server Essentials Discord</title>
-    <link>https://mods.vintagestory.at/show/mod/11732</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11732#11732</guid>
-    <pubDate>Fri, 09 Oct 2026 21:36:58 -0000</pubDate>
-    <description>Connect your Vintage Story server to Discord.</description>
-  </item>
-  <item>
-    <title>Alegacy Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/alegacyclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyclaims#12279</guid>
-    <pubDate>Fri, 09 Oct 2026 21:35:38 -0000</pubDate>
-    <description>Chunk-aligned land claims managed on a world map: grant build and use access per player or group.</description>
-  </item>
-  <item>
-    <title>eViSTool — Linux</title>
-    <link>https://mods.vintagestory.at/show/mod/evistoollinux</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoollinux#12414</guid>
-    <pubDate>Fri, 09 Oct 2026 21:27:42 -0000</pubDate>
-    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
-  </item>
-  <item>
-    <title>eViSTool — Windows</title>
-    <link>https://mods.vintagestory.at/show/mod/evistoolwin</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoolwin#12228</guid>
-    <pubDate>Fri, 09 Oct 2026 21:23:40 -0000</pubDate>
-    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
-  </item>
-  <item>
-    <title>Newfies Server Essentials Suite</title>
-    <link>https://mods.vintagestory.at/show/mod/11556</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
-    <pubDate>Fri, 09 Oct 2026 21:10:56 -0000</pubDate>
-    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
-  </item>
-  <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Fri, 09 Oct 2026 20:55:15 -0000</pubDate>
-    <description>Trees slowly shed their leaves based on temperature. Vanilla or Eco Machina compatible.</description>
-  </item>
-  <item>
-    <title>The Sumpter (Class)</title>
-    <link>https://mods.vintagestory.at/show/mod/thesumpter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thesumpter#11728</guid>
-    <pubDate>Fri, 09 Oct 2026 20:34:11 -0000</pubDate>
-    <description>Adds a new class focused on logistics. Comes with exclusive clothing, backpacks, and saddlebags.</description>
-  </item>
-  <item>
-    <title>Draconis_Dracaris</title>
-    <link>https://mods.vintagestory.at/show/mod/12304</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12304#12304</guid>
-    <pubDate>Fri, 09 Oct 2026 20:31:57 -0000</pubDate>
-    <description>Adds a fire breath mechanic to draconis dragons, targeted for our ever yander server</description>
-  </item>
-  <item>
-    <title>ShapeShift</title>
-    <link>https://mods.vintagestory.at/show/mod/shapeshift</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shapeshift#12360</guid>
-    <pubDate>Fri, 09 Oct 2026 20:29:19 -0000</pubDate>
-    <description>Shapeshift Toggle, Change between two forms!</description>
-  </item>
-  <item>
-    <title>The Almanac: Trades, Callings &amp; Mastery</title>
-    <link>https://mods.vintagestory.at/show/mod/almanactcm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanactcm#10453</guid>
-    <pubDate>Fri, 09 Oct 2026 19:27:18 -0000</pubDate>
-    <description>Twenty-two trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>Colored Chalk Pigments</title>
-    <link>https://mods.vintagestory.at/show/mod/chalkpigments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chalkpigments#2781</guid>
-    <pubDate>Fri, 09 Oct 2026 19:14:29 -0000</pubDate>
-    <description>Dye Chalk stones to add more color to your signs!</description>
-  </item>
-  <item>
-    <title>Casablanca Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/11911</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11911#11911</guid>
-    <pubDate>Fri, 09 Oct 2026 19:08:51 -0000</pubDate>
-    <description>For the Casablanca server setup.</description>
-  </item>
-  <item>
-    <title>Teapot's Giant Boar</title>
-    <link>https://mods.vintagestory.at/show/mod/teapotsgiantboar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantboar#11742</guid>
-    <pubDate>Fri, 09 Oct 2026 18:57:29 -0000</pubDate>
-    <description>Chonky boys that can be your companions and mounts. In wild, they might trigger your bear traumas.</description>
-  </item>
-  <item>
-    <title>GhostChunks</title>
-    <link>https://mods.vintagestory.at/show/mod/ghostchunks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ghostchunks#12113</guid>
-    <pubDate>Fri, 09 Oct 2026 18:50:56 -0000</pubDate>
-    <description>Highly performant distant terrain LOD renderer, capable of rendering at 200+ fps!</description>
-  </item>
-  <item>
-    <title>Propick Waypoint Culler</title>
-    <link>https://mods.vintagestory.at/show/mod/12411</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12411#12411</guid>
-    <pubDate>Fri, 09 Oct 2026 18:40:48 -0000</pubDate>
-    <description>Lets you drag and quick delete prospector pick waypoints.</description>
   </item>
 </channel>
 </rss>
