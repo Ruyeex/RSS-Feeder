@@ -4,7 +4,182 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 10 Oct 2026 13:22:28 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 18:17:15 +0000</lastBuildDate>
+  <item>
+    <title>Big Bellows Revival</title>
+    <link>https://mods.vintagestory.at/show/mod/bigbellowsrevival</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bigbellowsrevival#12434</guid>
+    <pubDate>Sat, 10 Oct 2026 18:12:40 -0000</pubDate>
+    <description>A fork of Big Bellows Fix by Onions</description>
+  </item>
+  <item>
+    <title>Jack's Composting</title>
+    <link>https://mods.vintagestory.at/show/mod/2645</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/2645#2645</guid>
+    <pubDate>Sat, 10 Oct 2026 18:02:08 -0000</pubDate>
+    <description>Changes the method of composting to make it more realistic and accessable.</description>
+  </item>
+  <item>
+    <title>Prosequor Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/11726</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11726#11726</guid>
+    <pubDate>Sat, 10 Oct 2026 17:58:25 -0000</pubDate>
+    <description>Adds compatibility between popular Vintage Story mods and Prosequor.</description>
+  </item>
+  <item>
+    <title>CB Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Sat, 10 Oct 2026 17:40:38 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
+  <item>
+    <title>GhostChunks</title>
+    <link>https://mods.vintagestory.at/show/mod/ghostchunks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ghostchunks#12113</guid>
+    <pubDate>Sat, 10 Oct 2026 17:39:53 -0000</pubDate>
+    <description>Highly performant distant terrain LOD renderer, capable of rendering at 200+ fps!</description>
+  </item>
+  <item>
+    <title>VSA - WorkingBellows</title>
+    <link>https://mods.vintagestory.at/show/mod/11639</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11639#11639</guid>
+    <pubDate>Sat, 10 Oct 2026 17:23:15 -0000</pubDate>
+    <description>Large bellows work now with linkage arm, large bellows and linkage arm can be crafted in survival</description>
+  </item>
+  <item>
+    <title>Prosequor - Skills, Levels, Trees and Stats</title>
+    <link>https://mods.vintagestory.at/show/mod/11674</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11674#11674</guid>
+    <pubDate>Sat, 10 Oct 2026 17:19:19 -0000</pubDate>
+    <description>Adds a full-throated, first-class skill, levelling and attributes system to Vintage Story.</description>
+  </item>
+  <item>
+    <title>Olla</title>
+    <link>https://mods.vintagestory.at/show/mod/olla</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/olla#5784</guid>
+    <pubDate>Sat, 10 Oct 2026 17:18:37 -0000</pubDate>
+    <description> Bring ancient irrigation technology to Vintage Story! This mod adds ollas (pronounced "oy-yahs")</description>
+  </item>
+  <item>
+    <title>C&amp;n Network</title>
+    <link>https://mods.vintagestory.at/show/mod/cannetwork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cannetwork#12433</guid>
+    <pubDate>Sat, 10 Oct 2026 17:16:12 -0000</pubDate>
+    <description>Connects a world to the cross-world trade server.</description>
+  </item>
+  <item>
+    <title>C&amp;N Auctionnet</title>
+    <link>https://mods.vintagestory.at/show/mod/canauctionnet</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canauctionnet#12432</guid>
+    <pubDate>Sat, 10 Oct 2026 17:10:26 -0000</pubDate>
+    <description>Trade with other worlds from the C&amp;N Auction window, over the C&amp;N Network trade server.</description>
+  </item>
+  <item>
+    <title>C&amp;N Auction</title>
+    <link>https://mods.vintagestory.at/show/mod/canauction</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canauction#11099</guid>
+    <pubDate>Sat, 10 Oct 2026 17:06:12 -0000</pubDate>
+    <description>Player-driven auction house with bids, buyouts, standing buy offers and an optional price-reactive m</description>
+  </item>
+  <item>
+    <title>Eques Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/allrebalanced</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/allrebalanced#10360</guid>
+    <pubDate>Sat, 10 Oct 2026 16:59:26 -0000</pubDate>
+    <description>An expansion of AllClasses. Expect more new classes and rebalancing of the old ones.</description>
+  </item>
+  <item>
+    <title>Decor Bazaar Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/decorbazaarpatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/decorbazaarpatch#12431</guid>
+    <pubDate>Sat, 10 Oct 2026 16:55:22 -0000</pubDate>
+    <description>Should fix all issues with "Decor Bazaar" v1.3.1 on VS v1.22.7+</description>
+  </item>
+  <item>
+    <title>Djuradj's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/12424</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12424#12424</guid>
+    <pubDate>Sat, 10 Oct 2026 16:28:46 -0000</pubDate>
+    <description>Small batch of tweaks and patches specifically intended for my private server. </description>
+  </item>
+  <item>
+    <title>Useful Traders</title>
+    <link>https://mods.vintagestory.at/show/mod/3257</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3257#3257</guid>
+    <pubDate>Sat, 10 Oct 2026 16:25:36 -0000</pubDate>
+    <description>Traders have more money and request trades that make sense.</description>
+  </item>
+  <item>
+    <title>eViSTool — Linux</title>
+    <link>https://mods.vintagestory.at/show/mod/evistoollinux</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoollinux#12414</guid>
+    <pubDate>Sat, 10 Oct 2026 16:25:13 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>eViSTool — Windows</title>
+    <link>https://mods.vintagestory.at/show/mod/evistoolwin</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoolwin#12228</guid>
+    <pubDate>Sat, 10 Oct 2026 16:24:53 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>ND Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/11622</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11622#11622</guid>
+    <pubDate>Sat, 10 Oct 2026 16:19:16 -0000</pubDate>
+    <description>ND mulitple mod patches</description>
+  </item>
+  <item>
+    <title>Guilds</title>
+    <link>https://mods.vintagestory.at/show/mod/guilds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/guilds#3239</guid>
+    <pubDate>Sat, 10 Oct 2026 16:15:08 -0000</pubDate>
+    <description>Chunk based claiming on the map and simplified groups.</description>
+  </item>
+  <item>
+    <title>Panning Machine</title>
+    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
+    <pubDate>Sat, 10 Oct 2026 15:57:05 -0000</pubDate>
+    <description>Simple machine for panning, now with a heavy-duty Industrial Panning Machine ⚙️</description>
+  </item>
+  <item>
+    <title>World Painter For Vintage Story</title>
+    <link>https://mods.vintagestory.at/show/mod/worldpainter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/worldpainter#5895</guid>
+    <pubDate>Sat, 10 Oct 2026 15:16:38 -0000</pubDate>
+    <description>Design your own worlds for Vintage Story using World Painter! 🌏🖌️🎨</description>
+  </item>
+  <item>
+    <title>Real Smoke</title>
+    <link>https://mods.vintagestory.at/show/mod/realsmoke</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmoke#4591</guid>
+    <pubDate>Sat, 10 Oct 2026 15:04:41 -0000</pubDate>
+    <description>Physics-based smoke</description>
+  </item>
+  <item>
+    <title>Salty's Forest Symphony Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/12430</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12430#12430</guid>
+    <pubDate>Sat, 10 Oct 2026 15:00:53 -0000</pubDate>
+    <description>Salty's Forest Symphony Fix</description>
+  </item>
+  <item>
+    <title>Candela</title>
+    <link>https://mods.vintagestory.at/show/mod/candela</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/candela#12341</guid>
+    <pubDate>Sat, 10 Oct 2026 14:26:09 -0000</pubDate>
+    <description>Candles that burn down, tallow candles you dip by hand, and clay moulds you pour. Light means work.</description>
+  </item>
+  <item>
+    <title>Seraph Leveling</title>
+    <link>https://mods.vintagestory.at/show/mod/6523</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6523#6523</guid>
+    <pubDate>Sat, 10 Oct 2026 13:48:20 -0000</pubDate>
+    <description>Level-up and gain traits in a vanilla friendly way</description>
+  </item>
   <item>
     <title>Dark Vision</title>
     <link>https://mods.vintagestory.at/show/mod/darkvision</link>
@@ -39,181 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12428#12428</guid>
     <pubDate>Sat, 10 Oct 2026 11:56:18 -0000</pubDate>
     <description>Lets you lock cooking, mixing, simmering and kneading recipes behind traits</description>
-  </item>
-  <item>
-    <title>DeepVanillaCompat</title>
-    <link>https://mods.vintagestory.at/show/mod/deepvanillacompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deepvanillacompat#12241</guid>
-    <pubDate>Sat, 10 Oct 2026 11:38:45 -0000</pubDate>
-    <description>Compat &amp; Fixes, for my modpack :)</description>
-  </item>
-  <item>
-    <title>Zippy's Re-seeding Reeds Updated</title>
-    <link>https://mods.vintagestory.at/show/mod/11888</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11888#11888</guid>
-    <pubDate>Sat, 10 Oct 2026 11:03:08 -0000</pubDate>
-    <description> Zippy's Re-seeding Reeds Updated / propagating the reed plant</description>
-  </item>
-  <item>
-    <title>Glass Display Shelves</title>
-    <link>https://mods.vintagestory.at/show/mod/glassdisplayshelves</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glassdisplayshelves#12427</guid>
-    <pubDate>Sat, 10 Oct 2026 10:53:18 -0000</pubDate>
-    <description>Adds Glass Display Shelves uses Universal Display Lib</description>
-  </item>
-  <item>
-    <title>Mixed Stacks Bags</title>
-    <link>https://mods.vintagestory.at/show/mod/12296</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12296#12296</guid>
-    <pubDate>Sat, 10 Oct 2026 10:38:20 -0000</pubDate>
-    <description>A bag to put mixed mushrooms, berries or nuggets, so it only occupies 1 slot.</description>
-  </item>
-  <item>
-    <title>BATS!</title>
-    <link>https://mods.vintagestory.at/show/mod/vampirebats</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirebats#12425</guid>
-    <pubDate>Sat, 10 Oct 2026 10:37:29 -0000</pubDate>
-    <description>Adds realistic flying bats to the game (They don't get stuck).      Also, renewable saltpeter. </description>
-  </item>
-  <item>
-    <title>Taxidermy</title>
-    <link>https://mods.vintagestory.at/show/mod/taxidermy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taxidermy#11946</guid>
-    <pubDate>Sat, 10 Oct 2026 10:27:29 -0000</pubDate>
-    <description>Mount the animals you hunt - the whole animal in a pose of your choosing, or the head on the wall.</description>
-  </item>
-  <item>
-    <title>Desk Picture Frame Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/deskpictureframe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deskpictureframe#5163</guid>
-    <pubDate>Sat, 10 Oct 2026 10:25:22 -0000</pubDate>
-    <description>Adds Desk Picture Frames and Wall Frames - Can add your own images via the mod config folder</description>
-  </item>
-  <item>
-    <title>Bookends</title>
-    <link>https://mods.vintagestory.at/show/mod/bookends</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bookends#5329</guid>
-    <pubDate>Sat, 10 Oct 2026 10:23:28 -0000</pubDate>
-    <description>This adds Bookends, to use on bookshelves</description>
-  </item>
-  <item>
-    <title>Figurines</title>
-    <link>https://mods.vintagestory.at/show/mod/figurines</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/figurines#4792</guid>
-    <pubDate>Sat, 10 Oct 2026 10:20:52 -0000</pubDate>
-    <description>This mod adds Figurines</description>
-  </item>
-  <item>
-    <title>Window Display - Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/windowdisplaypatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplaypatches#10532</guid>
-    <pubDate>Sat, 10 Oct 2026 10:19:22 -0000</pubDate>
-    <description>Used to add custom transforms and to enable the particles of items on display</description>
-  </item>
-  <item>
-    <title>Window Display</title>
-    <link>https://mods.vintagestory.at/show/mod/windowdisplay</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplay#10488</guid>
-    <pubDate>Sat, 10 Oct 2026 10:16:19 -0000</pubDate>
-    <description>Adds Windows, an improved version of the Window Storage mod, uses Universal Display Lib</description>
-  </item>
-  <item>
-    <title>Universal Display Lib</title>
-    <link>https://mods.vintagestory.at/show/mod/universaldisplaylib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/universaldisplaylib#10487</guid>
-    <pubDate>Sat, 10 Oct 2026 10:13:25 -0000</pubDate>
-    <description>The Lib has changed to be more than just windows so other modders can use it</description>
-  </item>
-  <item>
-    <title>Djuradj's Texture Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/12426</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12426#12426</guid>
-    <pubDate>Sat, 10 Oct 2026 10:07:15 -0000</pubDate>
-    <description>Small texture pack that alters seasonal grass colour.</description>
-  </item>
-  <item>
-    <title>Djuradj's Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/12424</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12424#12424</guid>
-    <pubDate>Sat, 10 Oct 2026 10:00:22 -0000</pubDate>
-    <description>Small batch of tweaks and patches specifically intended for my private server. </description>
-  </item>
-  <item>
-    <title>PushShip</title>
-    <link>https://mods.vintagestory.at/show/mod/pushship</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pushship#12293</guid>
-    <pubDate>Sat, 10 Oct 2026 09:46:06 -0000</pubDate>
-    <description>Push nearby boats with Ctrl-right-click or /pushship - this facilitates Travel / RP </description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sat, 10 Oct 2026 09:20:26 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Haunford Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/11926</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11926#11926</guid>
-    <pubDate>Sat, 10 Oct 2026 08:23:48 -0000</pubDate>
-    <description>A collection of patches for Haunfords Private Server</description>
-  </item>
-  <item>
-    <title>Teapot's Great Bighorn</title>
-    <link>https://mods.vintagestory.at/show/mod/teapotsgreatbighorn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgreatbighorn#12407</guid>
-    <pubDate>Sat, 10 Oct 2026 08:21:48 -0000</pubDate>
-    <description>Big mounts with bigger horns! Run across the wilderness in style!</description>
-  </item>
-  <item>
-    <title>Teapot's Giant Boar</title>
-    <link>https://mods.vintagestory.at/show/mod/teapotsgiantboar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantboar#11742</guid>
-    <pubDate>Sat, 10 Oct 2026 08:19:25 -0000</pubDate>
-    <description>Chonky boys that can be your companions and mounts. In wild, they might trigger your bear traumas.</description>
-  </item>
-  <item>
-    <title>Pee-Mail</title>
-    <link>https://mods.vintagestory.at/show/mod/peemail</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/peemail#12359</guid>
-    <pubDate>Sat, 10 Oct 2026 08:11:25 -0000</pubDate>
-    <description>Make Your Mark! New Scent-messaging system for use with Animalica</description>
-  </item>
-  <item>
-    <title>Downed</title>
-    <link>https://mods.vintagestory.at/show/mod/downed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
-    <pubDate>Sat, 10 Oct 2026 08:10:56 -0000</pubDate>
-    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
-  </item>
-  <item>
-    <title>Animalica Scent Rework</title>
-    <link>https://mods.vintagestory.at/show/mod/12364</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12364#12364</guid>
-    <pubDate>Sat, 10 Oct 2026 08:09:57 -0000</pubDate>
-    <description>Color-coded scent trails for Animalica. Requires compatible species.</description>
-  </item>
-  <item>
-    <title>ShapeShift</title>
-    <link>https://mods.vintagestory.at/show/mod/shapeshift</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shapeshift#12360</guid>
-    <pubDate>Sat, 10 Oct 2026 07:08:37 -0000</pubDate>
-    <description>Shapeshift Toggle, Change between two forms!</description>
-  </item>
-  <item>
-    <title>C&amp;N Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/canclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canclaims#589</guid>
-    <pubDate>Sat, 10 Oct 2026 07:07:01 -0000</pubDate>
-    <description>Land protection mod.</description>
-  </item>
-  <item>
-    <title>Get Some Tail!</title>
-    <link>https://mods.vintagestory.at/show/mod/getsometail</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/getsometail#12388</guid>
-    <pubDate>Sat, 10 Oct 2026 07:06:13 -0000</pubDate>
-    <description>Adds Tails! </description>
   </item>
 </channel>
 </rss>
