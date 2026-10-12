@@ -4,20 +4,90 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 11 Oct 2026 23:36:36 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 05:01:01 +0000</lastBuildDate>
+  <item>
+    <title>GhostChunks</title>
+    <link>https://mods.vintagestory.at/show/mod/ghostchunks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ghostchunks#12113</guid>
+    <pubDate>Mon, 12 Oct 2026 05:00:29 -0000</pubDate>
+    <description>Highly performant distant terrain LOD renderer, capable of rendering at 200+ fps!</description>
+  </item>
+  <item>
+    <title>Seraph Leveling ReClassed</title>
+    <link>https://mods.vintagestory.at/show/mod/11234</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11234#11234</guid>
+    <pubDate>Mon, 12 Oct 2026 04:53:59 -0000</pubDate>
+    <description>Level up and gain traits in a vanilla-friendly way, with additional mod support</description>
+  </item>
+  <item>
+    <title>BATS!</title>
+    <link>https://mods.vintagestory.at/show/mod/vampirebats</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirebats#12425</guid>
+    <pubDate>Mon, 12 Oct 2026 04:38:29 -0000</pubDate>
+    <description>Adds realistic flying bats to the game (They don't get stuck!).      Also, renewable saltpeter. </description>
+  </item>
+  <item>
+    <title>War Without Reason</title>
+    <link>https://mods.vintagestory.at/show/mod/warwthtreason</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/warwthtreason#12324</guid>
+    <pubDate>Mon, 12 Oct 2026 03:51:07 -0000</pubDate>
+    <description>PvP has consequences. Even in safe zones.</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Mon, 12 Oct 2026 03:49:05 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Rope Arrow</title>
+    <link>https://mods.vintagestory.at/show/mod/ropearrow</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ropearrow#12473</guid>
+    <pubDate>Mon, 12 Oct 2026 02:57:06 -0000</pubDate>
+    <description>Adds a new tool called "Rope Arrow" to the game that releases a climbable rope.</description>
+  </item>
+  <item>
+    <title>Pipeworks</title>
+    <link>https://mods.vintagestory.at/show/mod/12481</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12481#12481</guid>
+    <pubDate>Mon, 12 Oct 2026 02:44:14 -0000</pubDate>
+    <description>Real bathrooms: cast a tub, run hot water, take a bath, and use the toilet before it's too late.</description>
+  </item>
+  <item>
+    <title>[Infinitum] Prospecting HUD</title>
+    <link>https://mods.vintagestory.at/show/mod/infinitumprospectinghud</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/infinitumprospectinghud#12478</guid>
+    <pubDate>Mon, 12 Oct 2026 00:39:26 -0000</pubDate>
+    <description>Prospecting HUD with reading history, ore icons, and result comparisons.</description>
+  </item>
+  <item>
+    <title>Packrat + MoreInventorys Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/12312</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12312#12312</guid>
+    <pubDate>Mon, 12 Oct 2026 00:09:11 -0000</pubDate>
+    <description>Makes MoreInventorys contents show up in Packrat's hotkey window, and adds quick stack and sorting.</description>
+  </item>
+  <item>
+    <title>Smart TV</title>
+    <link>https://mods.vintagestory.at/show/mod/smarttv</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smarttv#12250</guid>
+    <pubDate>Sun, 11 Oct 2026 23:53:31 -0000</pubDate>
+    <description>This mod adds a flat screen wall mounted tv that is resizable. Only available in the creative menu</description>
+  </item>
+  <item>
+    <title>Smart TV Darcade</title>
+    <link>https://mods.vintagestory.at/show/mod/smarttvdarcade</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smarttvdarcade#12477</guid>
+    <pubDate>Sun, 11 Oct 2026 23:44:12 -0000</pubDate>
+    <description>An arcade add-on for Smart TV.</description>
+  </item>
   <item>
     <title>Faster Barrel Recipes</title>
     <link>https://mods.vintagestory.at/show/mod/12475</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12475#12475</guid>
     <pubDate>Sun, 11 Oct 2026 23:29:37 -0000</pubDate>
     <description>Fast Barrels</description>
-  </item>
-  <item>
-    <title>Rope Arrow</title>
-    <link>https://mods.vintagestory.at/show/mod/ropearrow</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ropearrow#12473</guid>
-    <pubDate>Sun, 11 Oct 2026 23:07:00 -0000</pubDate>
-    <description>Adds a new tool called "Rope Arrow" to the game that releases a climbable rope.</description>
   </item>
   <item>
     <title>Waypoint Compass</title>
@@ -39,13 +109,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/flowerbeds#11265</guid>
     <pubDate>Sun, 11 Oct 2026 22:46:34 -0000</pubDate>
     <description>Flowerbeds and arrangements to liven up your gardens.</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Sun, 11 Oct 2026 22:34:42 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
   </item>
   <item>
     <title>Sliding Gates</title>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12439#12439</guid>
     <pubDate>Sun, 11 Oct 2026 19:50:39 -0000</pubDate>
     <description>Patches for the Vintage Hoarder's Society Server</description>
-  </item>
-  <item>
-    <title>CB Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Sun, 11 Oct 2026 19:43:10 -0000</pubDate>
-    <description>Harmony patches for compatibility.</description>
-  </item>
-  <item>
-    <title>Art of Anatomy</title>
-    <link>https://mods.vintagestory.at/show/mod/artofanatomy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/artofanatomy#12188</guid>
-    <pubDate>Sun, 11 Oct 2026 19:40:29 -0000</pubDate>
-    <description>Body adornment additions &amp; mod support. Ears for all races &amp; eyelashes.</description>
-  </item>
-  <item>
-    <title>Art of Adornments</title>
-    <link>https://mods.vintagestory.at/show/mod/artofadornments</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/artofadornments#12105</guid>
-    <pubDate>Sun, 11 Oct 2026 19:35:27 -0000</pubDate>
-    <description>The ultimate medieval-fantasy-inspired Vintage Story clothing &amp; accessory mod.</description>
-  </item>
-  <item>
-    <title>GlobalSRVCore</title>
-    <link>https://mods.vintagestory.at/show/mod/globalsrvcore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/globalsrvcore#6670</guid>
-    <pubDate>Sun, 11 Oct 2026 19:29:06 -0000</pubDate>
-    <description>A collection of modified and altered mods for the GlobalSRV project server.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux - Expansion B</title>
-    <link>https://mods.vintagestory.at/show/mod/vsinstrumentsreduxexpansionb</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsinstrumentsreduxexpansionb#11573</guid>
-    <pubDate>Sun, 11 Oct 2026 19:03:04 -0000</pubDate>
-    <description>Adds additional instruments to VS Instruments Redux. Requires the core mod to function.</description>
-  </item>
-  <item>
-    <title>VS Instruments Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/vsinstrumentsredux</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsinstrumentsredux#10555</guid>
-    <pubDate>Sun, 11 Oct 2026 18:57:12 -0000</pubDate>
-    <description>Bring your world to life! Play custom ABC/MIDI sheet music files on working in-game instruments.</description>
-  </item>
-  <item>
-    <title>De Artibus Rusticis</title>
-    <link>https://mods.vintagestory.at/show/mod/deartibusrusticis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deartibusrusticis#11159</guid>
-    <pubDate>Sun, 11 Oct 2026 18:56:43 -0000</pubDate>
-    <description>Adds 19 new crops and 5 meals inspired by medieval European agriculture.</description>
-  </item>
-  <item>
-    <title>Tillerworks</title>
-    <link>https://mods.vintagestory.at/show/mod/10128</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10128#10128</guid>
-    <pubDate>Sun, 11 Oct 2026 18:55:06 -0000</pubDate>
-    <description>Drivable tractors and towable farming trailers with installable engines, wheels, and homemade fuel.</description>
-  </item>
-  <item>
-    <title>MechaSeraphComanion - OtterCreekOfficial</title>
-    <link>https://mods.vintagestory.at/show/mod/12445</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12445#12445</guid>
-    <pubDate>Sun, 11 Oct 2026 18:44:45 -0000</pubDate>
-    <description>A companion mod for the Robo/Mecha Seraph mod by skullanizer, Gekkota.</description>
   </item>
 </channel>
 </rss>
