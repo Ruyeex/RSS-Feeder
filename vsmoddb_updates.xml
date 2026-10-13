@@ -4,20 +4,97 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 13 Oct 2026 19:01:30 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 23:38:36 +0000</lastBuildDate>
+  <item>
+    <title>Wilderlands Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/7320</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7320#7320</guid>
+    <pubDate>Tue, 13 Oct 2026 23:08:58 -0000</pubDate>
+    <description>A repository for a number of configurable values to adjust base game and Wilderlands mods content.</description>
+  </item>
+  <item>
+    <title>(Slightly) Enhanced Thermokinetics </title>
+    <link>https://mods.vintagestory.at/show/mod/hottersmelting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hottersmelting#12519</guid>
+    <pubDate>Tue, 13 Oct 2026 22:27:59 -0000</pubDate>
+    <description>Smelting time now accounts for temperature above melting point and lowers time accordingly</description>
+  </item>
+  <item>
+    <title>Edible Botanicals: Musaceae and Arecaceae (bananas and coconuts)</title>
+    <link>https://mods.vintagestory.at/show/mod/12518</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12518#12518</guid>
+    <pubDate>Tue, 13 Oct 2026 22:20:06 -0000</pubDate>
+    <description>Banana plants and coconut palms with staged growth, harvests and full fruit-recipe support.</description>
+  </item>
+  <item>
+    <title>Finite Torches</title>
+    <link>https://mods.vintagestory.at/show/mod/12412</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12412#12412</guid>
+    <pubDate>Tue, 13 Oct 2026 21:44:47 -0000</pubDate>
+    <description>Once lit, torches will burn for a limited time before going out, regardless of where they are.</description>
+  </item>
+  <item>
+    <title>Growable Flowers</title>
+    <link>https://mods.vintagestory.at/show/mod/growableflowers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/growableflowers#12510</guid>
+    <pubDate>Tue, 13 Oct 2026 21:42:36 -0000</pubDate>
+    <description>A Mod that adds planter boxes to the game, that can grow herbs and flowers</description>
+  </item>
+  <item>
+    <title>Better Coke Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/bettercokeplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettercokeplus#12517</guid>
+    <pubDate>Tue, 13 Oct 2026 21:24:34 -0000</pubDate>
+    <description>Adds higher temperature coke variants to the game</description>
+  </item>
+  <item>
+    <title>Vintage Przygoda: Korony</title>
+    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
+    <pubDate>Tue, 13 Oct 2026 20:43:40 -0000</pubDate>
+    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
+  </item>
+  <item>
+    <title>Petroleum Age</title>
+    <link>https://mods.vintagestory.at/show/mod/12502</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12502#12502</guid>
+    <pubDate>Tue, 13 Oct 2026 20:29:15 -0000</pubDate>
+    <description>A.I. USED | Find oil, pump it, refine it, burn it.</description>
+  </item>
+  <item>
+    <title>Navarlio Customs</title>
+    <link>https://mods.vintagestory.at/show/mod/navarliocustoms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/navarliocustoms#1522</guid>
+    <pubDate>Tue, 13 Oct 2026 19:57:36 -0000</pubDate>
+    <description>Custom crafts for the Navarlio server.</description>
+  </item>
+  <item>
+    <title>DRT AgX Kraken - Shader</title>
+    <link>https://mods.vintagestory.at/show/mod/drtagx</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drtagx#2913</guid>
+    <pubDate>Tue, 13 Oct 2026 19:34:36 -0000</pubDate>
+    <description>DRTAgX shapes the game's lighting into the picture your monitor presents.</description>
+  </item>
+  <item>
+    <title>C&amp;N Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/canclaims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canclaims#589</guid>
+    <pubDate>Tue, 13 Oct 2026 19:27:53 -0000</pubDate>
+    <description>Land protection mod.</description>
+  </item>
+  <item>
+    <title>Stairs</title>
+    <link>https://mods.vintagestory.at/show/mod/stairs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stairs#12340</guid>
+    <pubDate>Tue, 13 Oct 2026 19:25:21 -0000</pubDate>
+    <description>Open Stairs inpired by More Paths and Stairs steps</description>
+  </item>
   <item>
     <title>Monkey Mischief</title>
     <link>https://mods.vintagestory.at/show/mod/12509</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12509#12509</guid>
     <pubDate>Tue, 13 Oct 2026 18:59:05 -0000</pubDate>
     <description>Adds monkeys to the game.</description>
-  </item>
-  <item>
-    <title>Vintage Przygoda: Korony</title>
-    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
-    <pubDate>Tue, 13 Oct 2026 18:58:44 -0000</pubDate>
-    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
   </item>
   <item>
     <title>VS Siding Mod</title>
@@ -55,25 +132,11 @@
     <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
   </item>
   <item>
-    <title>C&amp;N Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/canclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canclaims#589</guid>
-    <pubDate>Tue, 13 Oct 2026 17:25:50 -0000</pubDate>
-    <description>Land protection mod.</description>
-  </item>
-  <item>
     <title>C&amp;N Economy</title>
     <link>https://mods.vintagestory.at/show/mod/caneconomy</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caneconomy#2080</guid>
     <pubDate>Tue, 13 Oct 2026 17:25:27 -0000</pubDate>
     <description>Functionality for players money accounts</description>
-  </item>
-  <item>
-    <title>Growable Flowers</title>
-    <link>https://mods.vintagestory.at/show/mod/growableflowers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/growableflowers#12510</guid>
-    <pubDate>Tue, 13 Oct 2026 17:07:38 -0000</pubDate>
-    <description>A Mod that adds planter boxes to the game, that can grow herbs and flowers</description>
   </item>
   <item>
     <title>Eternal Seraph: Patch</title>
@@ -88,6 +151,13 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
     <pubDate>Tue, 13 Oct 2026 17:01:22 -0000</pubDate>
     <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
+  </item>
+  <item>
+    <title>Tuna's clothes for bixo</title>
+    <link>https://mods.vintagestory.at/show/mod/tunabixopatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tunabixopatch#12480</guid>
+    <pubDate>Tue, 13 Oct 2026 16:50:10 -0000</pubDate>
+    <description>Add's a bit more compat between the two mods.</description>
   </item>
   <item>
     <title>Add / Replace Music Template | Music pack template</title>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
     <pubDate>Tue, 13 Oct 2026 14:42:12 -0000</pubDate>
     <description>Potion mod that adds buffs to the player.</description>
-  </item>
-  <item>
-    <title>Frosty Cave Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/5974</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5974#5974</guid>
-    <pubDate>Tue, 13 Oct 2026 14:40:03 -0000</pubDate>
-    <description>Some simple recipe patches for the Frosty Cave Server</description>
-  </item>
-  <item>
-    <title>Effectlib</title>
-    <link>https://mods.vintagestory.at/show/mod/effectlib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/effectlib#11715</guid>
-    <pubDate>Tue, 13 Oct 2026 14:39:12 -0000</pubDate>
-    <description>A library for player effect handling given by items</description>
-  </item>
-  <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Tue, 13 Oct 2026 14:35:42 -0000</pubDate>
-    <description>Trees slowly shed their leaves based on temperature. Vanilla or Eco Machina compatible.</description>
-  </item>
-  <item>
-    <title>Gentage</title>
-    <link>https://mods.vintagestory.at/show/mod/gentage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
-    <pubDate>Tue, 13 Oct 2026 13:56:44 -0000</pubDate>
-    <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
-  </item>
-  <item>
-    <title>Opttage Path</title>
-    <link>https://mods.vintagestory.at/show/mod/opttagepath</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/opttagepath#12395</guid>
-    <pubDate>Tue, 13 Oct 2026 13:56:10 -0000</pubDate>
-    <description>Lighter creatures for busy servers, and your PC too: same paths as the game, just faster.</description>
-  </item>
-  <item>
-    <title>Modular/Immersive Backpack Fixes</title>
-    <link>https://mods.vintagestory.at/show/mod/12376</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12376#12376</guid>
-    <pubDate>Tue, 13 Oct 2026 13:32:58 -0000</pubDate>
-    <description>Fixes for Modular Backpacks + Immersive Backpacks.</description>
-  </item>
-  <item>
-    <title>Chisel Metals Lite</title>
-    <link>https://mods.vintagestory.at/show/mod/12508</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12508#12508</guid>
-    <pubDate>Tue, 13 Oct 2026 12:46:42 -0000</pubDate>
-    <description>Add ingots (64 voxels) and plates (128 voxels) to a chiseled block! Serverside. 11 metals</description>
-  </item>
-  <item>
-    <title>Null Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/nullclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullclaims#11867</guid>
-    <pubDate>Tue, 13 Oct 2026 12:10:13 -0000</pubDate>
-    <description>Land claiming without commands: one hotkey opens a window that drives vanilla's own claim system.</description>
-  </item>
-  <item>
-    <title>VSPT: Path Tracing</title>
-    <link>https://mods.vintagestory.at/show/mod/vspt</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vspt#12091</guid>
-    <pubDate>Tue, 13 Oct 2026 11:24:21 -0000</pubDate>
-    <description>A fully path traced HDR renderer for Vintage Story for NVIDIA GPUs</description>
-  </item>
-  <item>
-    <title>NationGuard</title>
-    <link>https://mods.vintagestory.at/show/mod/12387</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12387#12387</guid>
-    <pubDate>Tue, 13 Oct 2026 11:21:29 -0000</pubDate>
-    <description>Stationary archer guards that auto-shoot players based on a whitelist or blacklist.</description>
   </item>
 </channel>
 </rss>
