@@ -4,7 +4,140 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 13 Oct 2026 23:38:36 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 04:04:09 +0000</lastBuildDate>
+  <item>
+    <title>SpecializedBags Revived</title>
+    <link>https://mods.vintagestory.at/show/mod/specializedbagsrevived</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/specializedbagsrevived#2920</guid>
+    <pubDate>Wed, 14 Oct 2026 03:56:09 -0000</pubDate>
+    <description>Specialty bags that only hold items related to their bag type.</description>
+  </item>
+  <item>
+    <title>Smooth Stone Paths</title>
+    <link>https://mods.vintagestory.at/show/mod/smoothstonepaths</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smoothstonepaths#12523</guid>
+    <pubDate>Wed, 14 Oct 2026 03:50:16 -0000</pubDate>
+    <description>Stone paths soften and blend into neighboring grass, sand and dirt instead of ending in a hard edge.</description>
+  </item>
+  <item>
+    <title>Packrat + MoreInventorys Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/12312</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12312#12312</guid>
+    <pubDate>Wed, 14 Oct 2026 03:36:37 -0000</pubDate>
+    <description>Makes MoreInventorys contents show up in Packrat's hotkey window, and adds quick stack and sorting.</description>
+  </item>
+  <item>
+    <title>VSCN 文明模拟主模组</title>
+    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
+    <pubDate>Wed, 14 Oct 2026 03:35:29 -0000</pubDate>
+    <description>For Chinese community servers only（Civilization Simulation）</description>
+  </item>
+  <item>
+    <title>Nf3t - Water Sponge</title>
+    <link>https://mods.vintagestory.at/show/mod/8193</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8193#8193</guid>
+    <pubDate>Wed, 14 Oct 2026 03:20:20 -0000</pubDate>
+    <description>Adds a sponge for soaking up water in a configurable distance from the selected block</description>
+  </item>
+  <item>
+    <title>GamepadCompanionVS</title>
+    <link>https://mods.vintagestory.at/show/mod/8669</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8669#8669</guid>
+    <pubDate>Wed, 14 Oct 2026 03:14:28 -0000</pubDate>
+    <description>Native gamepad support for Vintage Story 1.22+ — 12-slot radial menu, virtual cursor for GUI, etc. </description>
+  </item>
+  <item>
+    <title>ND Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/11622</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11622#11622</guid>
+    <pubDate>Wed, 14 Oct 2026 03:02:46 -0000</pubDate>
+    <description>ND mulitple mod patches</description>
+  </item>
+  <item>
+    <title>中国罗盘</title>
+    <link>https://mods.vintagestory.at/show/mod/chinesecompass</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chinesecompass#12302</guid>
+    <pubDate>Wed, 14 Oct 2026 02:59:13 -0000</pubDate>
+    <description>For Chinese community servers only.</description>
+  </item>
+  <item>
+    <title>GildedChronicles - Translocator Repair</title>
+    <link>https://mods.vintagestory.at/show/mod/9184</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9184#9184</guid>
+    <pubDate>Wed, 14 Oct 2026 02:41:27 -0000</pubDate>
+    <description>Adds the ability to repair an unrepairable translocator.</description>
+  </item>
+  <item>
+    <title>Nf3t - Translocator Navigator</title>
+    <link>https://mods.vintagestory.at/show/mod/6784</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6784#6784</guid>
+    <pubDate>Wed, 14 Oct 2026 02:40:14 -0000</pubDate>
+    <description>Calculates the shortest path between your current position and a target, factoring in translocators.</description>
+  </item>
+  <item>
+    <title>Nf3t - Translocator Locator (Command)</title>
+    <link>https://mods.vintagestory.at/show/mod/6661</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6661#6661</guid>
+    <pubDate>Wed, 14 Oct 2026 02:38:37 -0000</pubDate>
+    <description>Adds a command to find Translocators as waypoints.</description>
+  </item>
+  <item>
+    <title>EatTogether</title>
+    <link>https://mods.vintagestory.at/show/mod/5117</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5117#5117</guid>
+    <pubDate>Wed, 14 Oct 2026 02:09:42 -0000</pubDate>
+    <description>A dining hall that provides stats boosts for eating in it</description>
+  </item>
+  <item>
+    <title>Feverstone Wilds</title>
+    <link>https://mods.vintagestory.at/show/mod/feverstonewilds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feverstonewilds#967</guid>
+    <pubDate>Wed, 14 Oct 2026 02:08:03 -0000</pubDate>
+    <description>Feverstone Wilds is a fantasy mod mixed with realism that can help you or challenge you.</description>
+  </item>
+  <item>
+    <title>Hot Spring Comfort: a Compatibility mod for Healing Springs and Tasshroom's Hardcore Winter</title>
+    <link>https://mods.vintagestory.at/show/mod/12499</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12499#12499</guid>
+    <pubDate>Wed, 14 Oct 2026 02:03:25 -0000</pubDate>
+    <description>Hot Spring Comfort is a compatibility mod for Healing Springs and Tasshroom's Hardcore Winter.</description>
+  </item>
+  <item>
+    <title>Europa: New Origins </title>
+    <link>https://mods.vintagestory.at/show/mod/europaneworigins</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/europaneworigins#12522</guid>
+    <pubDate>Wed, 14 Oct 2026 01:46:26 -0000</pubDate>
+    <description>Explore Europe with regional climates, resources, rivers, mountains, and story locations.</description>
+  </item>
+  <item>
+    <title>Advanced Geology</title>
+    <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedgeology#7167</guid>
+    <pubDate>Wed, 14 Oct 2026 01:15:01 -0000</pubDate>
+    <description>Total overhaul of vanilla oregen and adds many new rocks and minerals</description>
+  </item>
+  <item>
+    <title>Outlier Client Pack</title>
+    <link>https://mods.vintagestory.at/show/mod/outlierclientpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/outlierclientpack#12504</guid>
+    <pubDate>Wed, 14 Oct 2026 01:04:12 -0000</pubDate>
+    <description>Compact client pack for Outlier Network</description>
+  </item>
+  <item>
+    <title>Astro's Storage Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/12521</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12521#12521</guid>
+    <pubDate>Wed, 14 Oct 2026 00:33:37 -0000</pubDate>
+    <description>client side storage organizer, one button chest sorting + a merged chest window with search</description>
+  </item>
+  <item>
+    <title>VSCN 社区服务器中改进模组的模组</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
+    <pubDate>Wed, 14 Oct 2026 00:29:40 -0000</pubDate>
+    <description>For Chinese community servers only（Mod Fix Mod）</description>
+  </item>
   <item>
     <title>Wilderlands Adjustments</title>
     <link>https://mods.vintagestory.at/show/mod/7320</link>
@@ -69,151 +202,18 @@
     <description>Custom crafts for the Navarlio server.</description>
   </item>
   <item>
-    <title>DRT AgX Kraken - Shader</title>
-    <link>https://mods.vintagestory.at/show/mod/drtagx</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drtagx#2913</guid>
-    <pubDate>Tue, 13 Oct 2026 19:34:36 -0000</pubDate>
-    <description>DRTAgX shapes the game's lighting into the picture your monitor presents.</description>
+    <title>Remember It</title>
+    <link>https://mods.vintagestory.at/show/mod/rememberit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rememberit#12513</guid>
+    <pubDate>Tue, 13 Oct 2026 19:44:12 -0000</pubDate>
+    <description>Remembers where you have been and draws it onto your Frontier's Map, a little more each visit.</description>
   </item>
   <item>
-    <title>C&amp;N Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/canclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canclaims#589</guid>
-    <pubDate>Tue, 13 Oct 2026 19:27:53 -0000</pubDate>
-    <description>Land protection mod.</description>
-  </item>
-  <item>
-    <title>Stairs</title>
-    <link>https://mods.vintagestory.at/show/mod/stairs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stairs#12340</guid>
-    <pubDate>Tue, 13 Oct 2026 19:25:21 -0000</pubDate>
-    <description>Open Stairs inpired by More Paths and Stairs steps</description>
-  </item>
-  <item>
-    <title>Monkey Mischief</title>
-    <link>https://mods.vintagestory.at/show/mod/12509</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12509#12509</guid>
-    <pubDate>Tue, 13 Oct 2026 18:59:05 -0000</pubDate>
-    <description>Adds monkeys to the game.</description>
-  </item>
-  <item>
-    <title>VS Siding Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/vssiding</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vssiding#12036</guid>
-    <pubDate>Tue, 13 Oct 2026 18:53:05 -0000</pubDate>
-    <description>Layered wall building: framing, infill, and finish materials for thinner, more realistic walls</description>
-  </item>
-  <item>
-    <title>Add Some Paths</title>
-    <link>https://mods.vintagestory.at/show/mod/addsomepaths</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/addsomepaths#12511</guid>
-    <pubDate>Tue, 13 Oct 2026 18:48:50 -0000</pubDate>
-    <description>Adds gravel and packed dirt path blocks.</description>
-  </item>
-  <item>
-    <title>Eventide Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
-    <pubDate>Tue, 13 Oct 2026 18:09:12 -0000</pubDate>
-    <description>Claim maps, settlements, and access permissions for the Eventide server.</description>
-  </item>
-  <item>
-    <title>Antique Harmony | Music Additions / Alternative Soundtrack</title>
-    <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiqueharmony#7141</guid>
-    <pubDate>Tue, 13 Oct 2026 17:41:29 -0000</pubDate>
-    <description>Adds to/replaces soundtrack with original orchestral one, composed from scratch</description>
-  </item>
-  <item>
-    <title>Weapon Pack Alpha - Rebalanced</title>
-    <link>https://mods.vintagestory.at/show/mod/3314</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3314#3314</guid>
-    <pubDate>Tue, 13 Oct 2026 17:27:07 -0000</pubDate>
-    <description>Ever used this legendary mod and thought some things were too OP or weak? this should fix that.</description>
-  </item>
-  <item>
-    <title>C&amp;N Economy</title>
-    <link>https://mods.vintagestory.at/show/mod/caneconomy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caneconomy#2080</guid>
-    <pubDate>Tue, 13 Oct 2026 17:25:27 -0000</pubDate>
-    <description>Functionality for players money accounts</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
-    <pubDate>Tue, 13 Oct 2026 17:02:11 -0000</pubDate>
-    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
-  </item>
-  <item>
-    <title>WOO Fantasy Additions</title>
-    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
-    <pubDate>Tue, 13 Oct 2026 17:01:22 -0000</pubDate>
-    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
-  </item>
-  <item>
-    <title>Tuna's clothes for bixo</title>
-    <link>https://mods.vintagestory.at/show/mod/tunabixopatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tunabixopatch#12480</guid>
-    <pubDate>Tue, 13 Oct 2026 16:50:10 -0000</pubDate>
-    <description>Add's a bit more compat between the two mods.</description>
-  </item>
-  <item>
-    <title>Add / Replace Music Template | Music pack template</title>
-    <link>https://mods.vintagestory.at/show/mod/templateformusicadditions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/templateformusicadditions#8440</guid>
-    <pubDate>Tue, 13 Oct 2026 16:38:05 -0000</pubDate>
-    <description>Template to add more music to the OST with/witho removing the default soundtrack - universal compat.</description>
-  </item>
-  <item>
-    <title>Rope Arrow</title>
-    <link>https://mods.vintagestory.at/show/mod/ropearrow</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ropearrow#12473</guid>
-    <pubDate>Tue, 13 Oct 2026 16:32:05 -0000</pubDate>
-    <description>Adds a new tool called "Rope Arrow" to the game that releases a climbable rope.</description>
-  </item>
-  <item>
-    <title>Planar</title>
-    <link>https://mods.vintagestory.at/show/mod/10233</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10233#10233</guid>
-    <pubDate>Tue, 13 Oct 2026 15:58:02 -0000</pubDate>
-    <description>Turn one server into many worlds. Real generated terrain, walk forever, travel by World Gate.</description>
-  </item>
-  <item>
-    <title>VSCN 社区服务器中改进模组的模组</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
-    <pubDate>Tue, 13 Oct 2026 15:48:54 -0000</pubDate>
-    <description>For Chinese community servers only（Mod Fix Mod）</description>
-  </item>
-  <item>
-    <title>Esoterica</title>
-    <link>https://mods.vintagestory.at/show/mod/6087</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6087#6087</guid>
-    <pubDate>Tue, 13 Oct 2026 15:44:00 -0000</pubDate>
-    <description>A sixth history community license mod merging the lore from Cultist Simulator with Vintage Story.</description>
-  </item>
-  <item>
-    <title>Diverse Diets</title>
-    <link>https://mods.vintagestory.at/show/mod/diversediets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/diversediets#4006</guid>
-    <pubDate>Tue, 13 Oct 2026 15:30:57 -0000</pubDate>
-    <description>Allows base game foods to be used for feeding animals and placed in troughs</description>
-  </item>
-  <item>
-    <title>VHS Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/12439</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12439#12439</guid>
-    <pubDate>Tue, 13 Oct 2026 15:23:26 -0000</pubDate>
-    <description>Patches for the Vintage Hoarder's Society Server</description>
-  </item>
-  <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Tue, 13 Oct 2026 14:42:12 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
+    <title>Equus: Ponies (unofficial add-on)</title>
+    <link>https://mods.vintagestory.at/show/mod/equusponies</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusponies#12512</guid>
+    <pubDate>Tue, 13 Oct 2026 19:39:06 -0000</pubDate>
+    <description>Short-legged ponies for hobbits and other small folk, and a saddle seat that fits every race.</description>
   </item>
 </channel>
 </rss>
