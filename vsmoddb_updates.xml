@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 14 Oct 2026 09:58:14 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 14:59:49 +0000</lastBuildDate>
+  <item>
+    <title>Carry On</title>
+    <link>https://mods.vintagestory.at/show/mod/carryon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carryon#890</guid>
+    <pubDate>Wed, 14 Oct 2026 14:48:50 -0000</pubDate>
+    <description>Adds the capability to carry various things. Replaces CarryCapacity.</description>
+  </item>
+  <item>
+    <title>JavaCo (TM) Patent MotorCar</title>
+    <link>https://mods.vintagestory.at/show/mod/javacomotorcar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/javacomotorcar#12535</guid>
+    <pubDate>Wed, 14 Oct 2026 14:14:33 -0000</pubDate>
+    <description>The JavaCo Motorcar only comes in black, sorry. You can paint it yourself though. Also, other stuff.</description>
+  </item>
+  <item>
+    <title>More Crafting Recipes</title>
+    <link>https://mods.vintagestory.at/show/mod/12538</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12538#12538</guid>
+    <pubDate>Wed, 14 Oct 2026 14:09:55 -0000</pubDate>
+    <description>This mod adds more crafting recipes, it adds 23 recipes. AI used.</description>
+  </item>
+  <item>
+    <title>CarryOnLib</title>
+    <link>https://mods.vintagestory.at/show/mod/carryonlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carryonlib#4687</guid>
+    <pubDate>Wed, 14 Oct 2026 13:41:37 -0000</pubDate>
+    <description>CarryOnLib allows mods to use CarryOn functionality</description>
+  </item>
+  <item>
+    <title>Monkey Mischief</title>
+    <link>https://mods.vintagestory.at/show/mod/12509</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12509#12509</guid>
+    <pubDate>Wed, 14 Oct 2026 13:14:53 -0000</pubDate>
+    <description>Adds monkeys to the game.</description>
+  </item>
+  <item>
+    <title>Seed Drop Rate Increase</title>
+    <link>https://mods.vintagestory.at/show/mod/seeddroprate</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seeddroprate#3464</guid>
+    <pubDate>Wed, 14 Oct 2026 12:18:17 -0000</pubDate>
+    <description>Alywas wanted to expand your garden faster? Now you can! Seed Drop Rate Increased.</description>
+  </item>
+  <item>
+    <title>StormvaldServerMod</title>
+    <link>https://mods.vintagestory.at/show/mod/11142</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11142#11142</guid>
+    <pubDate>Wed, 14 Oct 2026 12:10:20 -0000</pubDate>
+    <description>Servermod</description>
+  </item>
+  <item>
+    <title>Chicken Feed Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/chickenfeedforked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chickenfeedforked#12500</guid>
+    <pubDate>Wed, 14 Oct 2026 12:02:16 -0000</pubDate>
+    <description>~This is a compatibiliy fix fork of Chicken Feed by VulcanoLV with additional mod support~</description>
+  </item>
+  <item>
+    <title>Vintage Przygoda: Korony</title>
+    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
+    <pubDate>Wed, 14 Oct 2026 11:26:39 -0000</pubDate>
+    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
+  </item>
+  <item>
+    <title>Walkable Entities</title>
+    <link>https://mods.vintagestory.at/show/mod/walkableentities</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkableentities#11704</guid>
+    <pubDate>Wed, 14 Oct 2026 10:45:50 -0000</pubDate>
+    <description>For now: walkable sailboats, ships and trains; a framework to make your modded entities walkable</description>
+  </item>
+  <item>
+    <title>VSCN 文明模拟主模组</title>
+    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
+    <pubDate>Wed, 14 Oct 2026 10:22:24 -0000</pubDate>
+    <description>For Chinese community servers only（Civilization Simulation）</description>
+  </item>
   <item>
     <title>DRT AgX Kraken - Shader</title>
     <link>https://mods.vintagestory.at/show/mod/drtagx</link>
@@ -18,13 +95,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
     <pubDate>Wed, 14 Oct 2026 07:09:01 -0000</pubDate>
     <description>For Chinese community servers only（Mod Fix Mod）</description>
-  </item>
-  <item>
-    <title>VSCN 文明模拟主模组</title>
-    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
-    <pubDate>Wed, 14 Oct 2026 07:07:40 -0000</pubDate>
-    <description>For Chinese community servers only（Civilization Simulation）</description>
   </item>
   <item>
     <title>Modular/Immersive Backpack Fixes</title>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5117#5117</guid>
     <pubDate>Wed, 14 Oct 2026 02:09:42 -0000</pubDate>
     <description>A dining hall that provides stats boosts for eating in it</description>
-  </item>
-  <item>
-    <title>Feverstone Wilds</title>
-    <link>https://mods.vintagestory.at/show/mod/feverstonewilds</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feverstonewilds#967</guid>
-    <pubDate>Wed, 14 Oct 2026 02:08:03 -0000</pubDate>
-    <description>Feverstone Wilds is a fantasy mod mixed with realism that can help you or challenge you.</description>
-  </item>
-  <item>
-    <title>Hot Spring Comfort: a Compatibility mod for Healing Springs and Tasshroom's Hardcore Winter</title>
-    <link>https://mods.vintagestory.at/show/mod/12499</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12499#12499</guid>
-    <pubDate>Wed, 14 Oct 2026 02:03:25 -0000</pubDate>
-    <description>Hot Spring Comfort is a compatibility mod for Healing Springs and Tasshroom's Hardcore Winter.</description>
-  </item>
-  <item>
-    <title>Europa: New Origins </title>
-    <link>https://mods.vintagestory.at/show/mod/europaneworigins</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/europaneworigins#12522</guid>
-    <pubDate>Wed, 14 Oct 2026 01:46:26 -0000</pubDate>
-    <description>Explore Europe with regional climates, resources, rivers, mountains, and story locations.</description>
-  </item>
-  <item>
-    <title>Advanced Geology</title>
-    <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedgeology#7167</guid>
-    <pubDate>Wed, 14 Oct 2026 01:15:01 -0000</pubDate>
-    <description>Total overhaul of vanilla oregen and adds many new rocks and minerals</description>
-  </item>
-  <item>
-    <title>Outlier Client Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/outlierclientpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/outlierclientpack#12504</guid>
-    <pubDate>Wed, 14 Oct 2026 01:04:12 -0000</pubDate>
-    <description>Compact client pack for Outlier Network</description>
-  </item>
-  <item>
-    <title>Astro's Storage Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/12521</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12521#12521</guid>
-    <pubDate>Wed, 14 Oct 2026 00:33:37 -0000</pubDate>
-    <description>client side storage organizer, one button chest sorting + a merged chest window with search</description>
-  </item>
-  <item>
-    <title>Wilderlands Adjustments</title>
-    <link>https://mods.vintagestory.at/show/mod/7320</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7320#7320</guid>
-    <pubDate>Tue, 13 Oct 2026 23:08:58 -0000</pubDate>
-    <description>A repository for a number of configurable values to adjust base game and Wilderlands mods content.</description>
-  </item>
-  <item>
-    <title>(Slightly) Enhanced Thermokinetics </title>
-    <link>https://mods.vintagestory.at/show/mod/hottersmelting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hottersmelting#12519</guid>
-    <pubDate>Tue, 13 Oct 2026 22:27:59 -0000</pubDate>
-    <description>Smelting time now accounts for temperature above melting point and lowers time accordingly</description>
-  </item>
-  <item>
-    <title>Edible Botanicals: Musaceae and Arecaceae (bananas and coconuts)</title>
-    <link>https://mods.vintagestory.at/show/mod/12518</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12518#12518</guid>
-    <pubDate>Tue, 13 Oct 2026 22:20:06 -0000</pubDate>
-    <description>Banana plants and coconut palms with staged growth, harvests and full fruit-recipe support.</description>
-  </item>
-  <item>
-    <title>Finite Torches</title>
-    <link>https://mods.vintagestory.at/show/mod/12412</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12412#12412</guid>
-    <pubDate>Tue, 13 Oct 2026 21:44:47 -0000</pubDate>
-    <description>Once lit, torches will burn for a limited time before going out, regardless of where they are.</description>
   </item>
 </channel>
 </rss>
