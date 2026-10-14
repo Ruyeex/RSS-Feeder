@@ -4,7 +4,70 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 14 Oct 2026 04:04:09 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 09:58:14 +0000</lastBuildDate>
+  <item>
+    <title>DRT AgX Kraken - Shader</title>
+    <link>https://mods.vintagestory.at/show/mod/drtagx</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drtagx#2913</guid>
+    <pubDate>Wed, 14 Oct 2026 08:21:51 -0000</pubDate>
+    <description>DRTAgX shapes the game's lighting into the picture your monitor presents.</description>
+  </item>
+  <item>
+    <title>VSCN 社区服务器中改进模组的模组</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
+    <pubDate>Wed, 14 Oct 2026 07:09:01 -0000</pubDate>
+    <description>For Chinese community servers only（Mod Fix Mod）</description>
+  </item>
+  <item>
+    <title>VSCN 文明模拟主模组</title>
+    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
+    <pubDate>Wed, 14 Oct 2026 07:07:40 -0000</pubDate>
+    <description>For Chinese community servers only（Civilization Simulation）</description>
+  </item>
+  <item>
+    <title>Modular/Immersive Backpack Fixes</title>
+    <link>https://mods.vintagestory.at/show/mod/12376</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12376#12376</guid>
+    <pubDate>Wed, 14 Oct 2026 07:04:50 -0000</pubDate>
+    <description>Fixes for Modular Backpacks + Immersive Backpacks.</description>
+  </item>
+  <item>
+    <title>Cellarworks</title>
+    <link>https://mods.vintagestory.at/show/mod/12529</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12529#12529</guid>
+    <pubDate>Wed, 14 Oct 2026 07:00:20 -0000</pubDate>
+    <description>Real cellar doors. Any sealed space underground keeps food like a cellar, however big or deep.</description>
+  </item>
+  <item>
+    <title>Edge of Lineage: Saga</title>
+    <link>https://mods.vintagestory.at/show/mod/eolsaga</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eolsaga#12252</guid>
+    <pubDate>Wed, 14 Oct 2026 06:42:30 -0000</pubDate>
+    <description>Viking-inspired pack of weapons from Edge Of Lineage suite</description>
+  </item>
+  <item>
+    <title>Edge Of Lineage: Core</title>
+    <link>https://mods.vintagestory.at/show/mod/eolcore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eolcore#12195</guid>
+    <pubDate>Wed, 14 Oct 2026 06:42:10 -0000</pubDate>
+    <description>Core module of Edge of Lineage suite that introduces new weapons and crafting mechanics</description>
+  </item>
+  <item>
+    <title>Backrooms: Survival Story</title>
+    <link>https://mods.vintagestory.at/show/mod/backrooms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/backrooms#12452</guid>
+    <pubDate>Wed, 14 Oct 2026 05:50:48 -0000</pubDate>
+    <description>You wake up in the Backrooms with nothing. Can you survive?</description>
+  </item>
+  <item>
+    <title>Spiro Loading Screen</title>
+    <link>https://mods.vintagestory.at/show/mod/spiroloadingscreen</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spiroloadingscreen#11628</guid>
+    <pubDate>Wed, 14 Oct 2026 04:19:30 -0000</pubDate>
+    <description>Custom loading screen with server-side world preloading and chunk readiness checks.</description>
+  </item>
   <item>
     <title>SpecializedBags Revived</title>
     <link>https://mods.vintagestory.at/show/mod/specializedbagsrevived</link>
@@ -25,13 +88,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12312#12312</guid>
     <pubDate>Wed, 14 Oct 2026 03:36:37 -0000</pubDate>
     <description>Makes MoreInventorys contents show up in Packrat's hotkey window, and adds quick stack and sorting.</description>
-  </item>
-  <item>
-    <title>VSCN 文明模拟主模组</title>
-    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
-    <pubDate>Wed, 14 Oct 2026 03:35:29 -0000</pubDate>
-    <description>For Chinese community servers only（Civilization Simulation）</description>
   </item>
   <item>
     <title>Nf3t - Water Sponge</title>
@@ -132,13 +188,6 @@
     <description>client side storage organizer, one button chest sorting + a merged chest window with search</description>
   </item>
   <item>
-    <title>VSCN 社区服务器中改进模组的模组</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
-    <pubDate>Wed, 14 Oct 2026 00:29:40 -0000</pubDate>
-    <description>For Chinese community servers only（Mod Fix Mod）</description>
-  </item>
-  <item>
     <title>Wilderlands Adjustments</title>
     <link>https://mods.vintagestory.at/show/mod/7320</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7320#7320</guid>
@@ -165,55 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12412#12412</guid>
     <pubDate>Tue, 13 Oct 2026 21:44:47 -0000</pubDate>
     <description>Once lit, torches will burn for a limited time before going out, regardless of where they are.</description>
-  </item>
-  <item>
-    <title>Growable Flowers</title>
-    <link>https://mods.vintagestory.at/show/mod/growableflowers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/growableflowers#12510</guid>
-    <pubDate>Tue, 13 Oct 2026 21:42:36 -0000</pubDate>
-    <description>A Mod that adds planter boxes to the game, that can grow herbs and flowers</description>
-  </item>
-  <item>
-    <title>Better Coke Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/bettercokeplus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettercokeplus#12517</guid>
-    <pubDate>Tue, 13 Oct 2026 21:24:34 -0000</pubDate>
-    <description>Adds higher temperature coke variants to the game</description>
-  </item>
-  <item>
-    <title>Vintage Przygoda: Korony</title>
-    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
-    <pubDate>Tue, 13 Oct 2026 20:43:40 -0000</pubDate>
-    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
-  </item>
-  <item>
-    <title>Petroleum Age</title>
-    <link>https://mods.vintagestory.at/show/mod/12502</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12502#12502</guid>
-    <pubDate>Tue, 13 Oct 2026 20:29:15 -0000</pubDate>
-    <description>A.I. USED | Find oil, pump it, refine it, burn it.</description>
-  </item>
-  <item>
-    <title>Navarlio Customs</title>
-    <link>https://mods.vintagestory.at/show/mod/navarliocustoms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/navarliocustoms#1522</guid>
-    <pubDate>Tue, 13 Oct 2026 19:57:36 -0000</pubDate>
-    <description>Custom crafts for the Navarlio server.</description>
-  </item>
-  <item>
-    <title>Remember It</title>
-    <link>https://mods.vintagestory.at/show/mod/rememberit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rememberit#12513</guid>
-    <pubDate>Tue, 13 Oct 2026 19:44:12 -0000</pubDate>
-    <description>Remembers where you have been and draws it onto your Frontier's Map, a little more each visit.</description>
-  </item>
-  <item>
-    <title>Equus: Ponies (unofficial add-on)</title>
-    <link>https://mods.vintagestory.at/show/mod/equusponies</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusponies#12512</guid>
-    <pubDate>Tue, 13 Oct 2026 19:39:06 -0000</pubDate>
-    <description>Short-legged ponies for hobbits and other small folk, and a saddle seat that fits every race.</description>
   </item>
 </channel>
 </rss>
