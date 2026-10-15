@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 15 Oct 2026 03:46:33 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 08:58:46 +0000</lastBuildDate>
+  <item>
+    <title>Pal's Portable Vehicles</title>
+    <link>https://mods.vintagestory.at/show/mod/portablevehicles</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/portablevehicles#11790</guid>
+    <pubDate>Thu, 15 Oct 2026 08:09:49 -0000</pubDate>
+    <description>Adds wondrously eccentric man-portable jonas tech vehicles.</description>
+  </item>
+  <item>
+    <title>VSCN 社区服务器中改进模组的模组</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
+    <pubDate>Thu, 15 Oct 2026 07:58:31 -0000</pubDate>
+    <description>For Chinese community servers only（Mod Fix Mod）</description>
+  </item>
+  <item>
+    <title>VSCN 文明模拟主模组</title>
+    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
+    <pubDate>Thu, 15 Oct 2026 07:38:19 -0000</pubDate>
+    <description>For Chinese community servers only（Civilization Simulation）</description>
+  </item>
+  <item>
+    <title>Distant Vistas</title>
+    <link>https://mods.vintagestory.at/show/mod/distantvistas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/distantvistas#11259</guid>
+    <pubDate>Thu, 15 Oct 2026 07:33:10 -0000</pubDate>
+    <description>Far land you've walked: cloud shadows, Valks clouds to the horizon, low-end presets, seasons.</description>
+  </item>
+  <item>
+    <title>Story Forge</title>
+    <link>https://mods.vintagestory.at/show/mod/storyforge</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/storyforge#5894</guid>
+    <pubDate>Thu, 15 Oct 2026 06:53:02 -0000</pubDate>
+    <description>Story Forge: Vintage Story launcher optimized for Windows, macOS and Linux (even Steam Deck)</description>
+  </item>
+  <item>
+    <title>NDL Cartography</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlcartography</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlcartography#12554</guid>
+    <pubDate>Thu, 15 Oct 2026 05:32:22 -0000</pubDate>
+    <description>Disables the world map and restricts it to a cartography table or a limited craft able map</description>
+  </item>
+  <item>
+    <title>ImFPVfixes</title>
+    <link>https://mods.vintagestory.at/show/mod/imfpvfixes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/imfpvfixes#12488</guid>
+    <pubDate>Thu, 15 Oct 2026 05:15:58 -0000</pubDate>
+    <description>'Fixes' Immersive First Person View Mode by disabling it when it's annoying.</description>
+  </item>
+  <item>
+    <title>Shipworks</title>
+    <link>https://mods.vintagestory.at/show/mod/12553</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12553#12553</guid>
+    <pubDate>Thu, 15 Oct 2026 05:11:57 -0000</pubDate>
+    <description>Build, sail and live aboard a walkable three-masted galleon.</description>
+  </item>
+  <item>
+    <title>qol crafts continued</title>
+    <link>https://mods.vintagestory.at/show/mod/12109</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12109#12109</guid>
+    <pubDate>Thu, 15 Oct 2026 04:15:55 -0000</pubDate>
+    <description>A continuation of qolcrafts</description>
+  </item>
+  <item>
+    <title>Edible Botanicals: Musaceae and Arecaceae (bananas and coconuts)</title>
+    <link>https://mods.vintagestory.at/show/mod/12518</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12518#12518</guid>
+    <pubDate>Thu, 15 Oct 2026 03:49:21 -0000</pubDate>
+    <description>Banana plants and coconut palms with staged growth, harvests and full fruit-recipe support.</description>
+  </item>
   <item>
     <title>Heraldry Add-On</title>
     <link>https://mods.vintagestory.at/show/mod/12153</link>
@@ -13,7 +83,7 @@
     <description>Adds 18 new Heraldry patterns in 11 colors, with support for both banners and capes.</description>
   </item>
   <item>
-    <title>JavaCo (TM) Patent MotorCar (Automobile)</title>
+    <title>JavaCo (TM) *NEW* Patent Motorwagon!</title>
     <link>https://mods.vintagestory.at/show/mod/javacomotorcar</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/javacomotorcar#12535</guid>
     <pubDate>Thu, 15 Oct 2026 03:20:23 -0000</pubDate>
@@ -83,13 +153,6 @@
     <description>This mod adds a flat screen wall mounted tv that is resizable. Only available in the creative menu</description>
   </item>
   <item>
-    <title>VSCN 文明模拟主模组</title>
-    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
-    <pubDate>Thu, 15 Oct 2026 00:49:06 -0000</pubDate>
-    <description>For Chinese community servers only（Civilization Simulation）</description>
-  </item>
-  <item>
     <title>Uranium Expanded (Metals and Tools)</title>
     <link>https://mods.vintagestory.at/show/mod/uraniumexpanded</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/uraniumexpanded#5981</guid>
@@ -151,69 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12547#12547</guid>
     <pubDate>Wed, 14 Oct 2026 22:27:13 -0000</pubDate>
     <description>Adds Floral Zone wood variants to Immersive Fibercraft.</description>
-  </item>
-  <item>
-    <title>Floral Zones + Purposeful Storage Compat</title>
-    <link>https://mods.vintagestory.at/show/mod/12546</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12546#12546</guid>
-    <pubDate>Wed, 14 Oct 2026 22:23:28 -0000</pubDate>
-    <description>Adds floral zones variants for purposeful storage</description>
-  </item>
-  <item>
-    <title>Komet - Performance Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/komet</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/komet#11423</guid>
-    <pubDate>Wed, 14 Oct 2026 22:23:01 -0000</pubDate>
-    <description>Komet is an awesome performance mod!</description>
-  </item>
-  <item>
-    <title>Floral Zones + Food Shelves Compatibility Addon</title>
-    <link>https://mods.vintagestory.at/show/mod/12545</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12545#12545</guid>
-    <pubDate>Wed, 14 Oct 2026 22:13:00 -0000</pubDate>
-    <description>Adds compatibility between Floral Zones and Food Shelves (wood)</description>
-  </item>
-  <item>
-    <title>Fiddleheads</title>
-    <link>https://mods.vintagestory.at/show/mod/fiddleheads</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fiddleheads#10421</guid>
-    <pubDate>Wed, 14 Oct 2026 22:12:42 -0000</pubDate>
-    <description>Fiddlehead Ferns - Harvest wild furled fronds and use them in meals as any other vegetable</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Wed, 14 Oct 2026 21:31:52 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>CoB Client Files [1]</title>
-    <link>https://mods.vintagestory.at/show/mod/cobexclusives</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cobexclusives#360</guid>
-    <pubDate>Wed, 14 Oct 2026 21:30:12 -0000</pubDate>
-    <description>Required to join the awesome Conquest of Blocks (aka 'CoB') multiplayer realm.</description>
-  </item>
-  <item>
-    <title>CoB Client Files [2]</title>
-    <link>https://mods.vintagestory.at/show/mod/cobexclusivestwo</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cobexclusivestwo#1885</guid>
-    <pubDate>Wed, 14 Oct 2026 21:29:39 -0000</pubDate>
-    <description>Required to join the awesome Conquest of Blocks (aka 'CoB') multiplayer realm.</description>
-  </item>
-  <item>
-    <title>TURBOJOIN</title>
-    <link>https://mods.vintagestory.at/show/mod/11337</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11337#11337</guid>
-    <pubDate>Wed, 14 Oct 2026 21:29:27 -0000</pubDate>
-    <description>(hopefully) speeds up server load time</description>
-  </item>
-  <item>
-    <title>XIT</title>
-    <link>https://mods.vintagestory.at/show/mod/xlebkainventorytoolkit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xlebkainventorytoolkit#12307</guid>
-    <pubDate>Wed, 14 Oct 2026 21:25:34 -0000</pubDate>
-    <description>Recipe browser, crafting autofill, inventory sorting, container search and hotbar refill.</description>
   </item>
 </channel>
 </rss>
