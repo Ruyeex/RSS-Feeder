@@ -4,20 +4,132 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 16 Oct 2026 06:50:21 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 12:09:11 +0000</lastBuildDate>
+  <item>
+    <title>Server Mod Sync</title>
+    <link>https://mods.vintagestory.at/show/mod/lhservermods</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lhservermods#12596</guid>
+    <pubDate>Fri, 16 Oct 2026 12:06:32 -0000</pubDate>
+    <description>The server streams its mods to connecting clients</description>
+  </item>
+  <item>
+    <title>eViSTool — Linux</title>
+    <link>https://mods.vintagestory.at/show/mod/evistoollinux</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoollinux#12414</guid>
+    <pubDate>Fri, 16 Oct 2026 11:40:49 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>eViSTool — Windows</title>
+    <link>https://mods.vintagestory.at/show/mod/evistoolwin</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoolwin#12228</guid>
+    <pubDate>Fri, 16 Oct 2026 11:40:40 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>BATS!</title>
+    <link>https://mods.vintagestory.at/show/mod/vampirebats</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirebats#12425</guid>
+    <pubDate>Fri, 16 Oct 2026 11:29:09 -0000</pubDate>
+    <description>Adds realistic flying bats to the game.      Also, renewable saltpeter. </description>
+  </item>
+  <item>
+    <title>Ahoy! - A Simple Sailing Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/ahoy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ahoy#12586</guid>
+    <pubDate>Fri, 16 Oct 2026 10:41:21 -0000</pubDate>
+    <description>Ahoy is a basic Vintage Story mod that adds simple arcade style sailing mechanics to the game.</description>
+  </item>
+  <item>
+    <title>VSCN 服务器改进模组的模组</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
+    <pubDate>Fri, 16 Oct 2026 10:26:45 -0000</pubDate>
+    <description>For Chinese community servers only（Mod Fix Mod）</description>
+  </item>
+  <item>
+    <title>DRT AgX Kraken - Shader</title>
+    <link>https://mods.vintagestory.at/show/mod/drtagx</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drtagx#2913</guid>
+    <pubDate>Fri, 16 Oct 2026 09:52:24 -0000</pubDate>
+    <description>DRTAgX shapes the game's lighting into the picture your monitor presents.</description>
+  </item>
+  <item>
+    <title>Pal's Enhanced Locusts</title>
+    <link>https://mods.vintagestory.at/show/mod/repairablelocust</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/repairablelocust#1685</guid>
+    <pubDate>Fri, 16 Oct 2026 09:27:31 -0000</pubDate>
+    <description>Expands Clockmaker locusts with new abilities, rebalances, and QoL features! (aka Repairable Locust)</description>
+  </item>
+  <item>
+    <title>Moonlit magic</title>
+    <link>https://mods.vintagestory.at/show/mod/moonlitmagic</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmagic#11891</guid>
+    <pubDate>Fri, 16 Oct 2026 09:08:51 -0000</pubDate>
+    <description>Learn spells and make your own custom magical wands and staffs</description>
+  </item>
+  <item>
+    <title>Deciduous Trees</title>
+    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
+    <pubDate>Fri, 16 Oct 2026 08:54:43 -0000</pubDate>
+    <description>Trees slowly shed their leaves based on temperature. Vanilla or Eco Machina compatible.</description>
+  </item>
+  <item>
+    <title>Animalica - Body Tools &amp; Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicabtc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicabtc#9867</guid>
+    <pubDate>Fri, 16 Oct 2026 08:27:36 -0000</pubDate>
+    <description>Wearable body tools and universal classes for Animalica player species.</description>
+  </item>
+  <item>
+    <title>Colonial Firearms Webley Drilled</title>
+    <link>https://mods.vintagestory.at/show/mod/12594</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12594#12594</guid>
+    <pubDate>Fri, 16 Oct 2026 08:25:06 -0000</pubDate>
+    <description>A simple mod that drills holes into the cylinder of the Webley revolver from Colonial Firearms.</description>
+  </item>
+  <item>
+    <title>Teapot's Great Bighorn</title>
+    <link>https://mods.vintagestory.at/show/mod/teapotsgreatbighorn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgreatbighorn#12407</guid>
+    <pubDate>Fri, 16 Oct 2026 07:56:26 -0000</pubDate>
+    <description>Big mounts with bigger horns! Run across the wilderness in style!</description>
+  </item>
+  <item>
+    <title>Teapot's Giant Boar</title>
+    <link>https://mods.vintagestory.at/show/mod/teapotsgiantboar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantboar#11742</guid>
+    <pubDate>Fri, 16 Oct 2026 07:56:10 -0000</pubDate>
+    <description>Chonky boys that can be your companions and mounts. In wild, they might trigger your bear traumas.</description>
+  </item>
+  <item>
+    <title>KCs Dragon Player!</title>
+    <link>https://mods.vintagestory.at/show/mod/kcsdragons</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragons#8146</guid>
+    <pubDate>Fri, 16 Oct 2026 07:40:52 -0000</pubDate>
+    <description>Adds an anthropomorphic dragon player model to the game</description>
+  </item>
+  <item>
+    <title>Fancy Fences</title>
+    <link>https://mods.vintagestory.at/show/mod/12383</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12383#12383</guid>
+    <pubDate>Fri, 16 Oct 2026 07:09:50 -0000</pubDate>
+    <description>Adds new fences and fence gates.</description>
+  </item>
+  <item>
+    <title>Neon's Fairy Lights &amp; MORE!</title>
+    <link>https://mods.vintagestory.at/show/mod/neonsfairylights</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/neonsfairylights#12591</guid>
+    <pubDate>Fri, 16 Oct 2026 07:00:51 -0000</pubDate>
+    <description>Hang Fairy Lights of all types, and attach lanterns and chiseled blocks &amp; more to them!</description>
+  </item>
   <item>
     <title>Seraph's Fortune</title>
     <link>https://mods.vintagestory.at/show/mod/seraphsfortune</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphsfortune#12592</guid>
     <pubDate>Fri, 16 Oct 2026 06:24:30 -0000</pubDate>
     <description>Property-trading board game for 2–6 players: bots, trades, auctions, turn clock and spectators.</description>
-  </item>
-  <item>
-    <title>VSCN 服务器改进模组的模组</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
-    <pubDate>Fri, 16 Oct 2026 06:10:32 -0000</pubDate>
-    <description>For Chinese community servers only（Mod Fix Mod）</description>
   </item>
   <item>
     <title>Wooden Spoon</title>
@@ -102,118 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12281#12281</guid>
     <pubDate>Fri, 16 Oct 2026 04:17:34 -0000</pubDate>
     <description>classes for the tangleworld</description>
-  </item>
-  <item>
-    <title>Moonlit magic</title>
-    <link>https://mods.vintagestory.at/show/mod/moonlitmagic</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmagic#11891</guid>
-    <pubDate>Fri, 16 Oct 2026 04:16:08 -0000</pubDate>
-    <description>Learn spells and make your own custom magical wands and staffs</description>
-  </item>
-  <item>
-    <title>Practical Electricity</title>
-    <link>https://mods.vintagestory.at/show/mod/practicalelectricity</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/practicalelectricity#12338</guid>
-    <pubDate>Fri, 16 Oct 2026 04:08:48 -0000</pubDate>
-    <description>Early-1800s DC electricity: real circuits from a vinegar cell to a coal-fired power station.</description>
-  </item>
-  <item>
-    <title>kris-bronze-additions</title>
-    <link>https://mods.vintagestory.at/show/mod/krisbronzeadditions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krisbronzeadditions#12577</guid>
-    <pubDate>Fri, 16 Oct 2026 03:31:51 -0000</pubDate>
-    <description>Addition to 8 different bronzes for more variations in building</description>
-  </item>
-  <item>
-    <title>KRPG Enchantment</title>
-    <link>https://mods.vintagestory.at/show/mod/krpgenchantment</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krpgenchantment#2216</guid>
-    <pubDate>Fri, 16 Oct 2026 03:22:18 -0000</pubDate>
-    <description>Adds MC-like enchantment system to VS.</description>
-  </item>
-  <item>
-    <title>Edible Botanicals: Musaceae and Arecaceae (bananas and coconuts)</title>
-    <link>https://mods.vintagestory.at/show/mod/12518</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12518#12518</guid>
-    <pubDate>Fri, 16 Oct 2026 03:19:36 -0000</pubDate>
-    <description>Banana plants and coconut palms with staged growth, harvests and full fruit-recipe support.</description>
-  </item>
-  <item>
-    <title>SmithingPlusPlus</title>
-    <link>https://mods.vintagestory.at/show/mod/smithingplusplus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smithingplusplus#11771</guid>
-    <pubDate>Fri, 16 Oct 2026 03:02:01 -0000</pubDate>
-    <description>Smithing Plus fork with extensive bug and performance fixes.</description>
-  </item>
-  <item>
-    <title>Show summary gear info</title>
-    <link>https://mods.vintagestory.at/show/mod/showsummarygearinfo</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/showsummarygearinfo#11957</guid>
-    <pubDate>Fri, 16 Oct 2026 02:57:12 -0000</pubDate>
-    <description>Just a  small feature for checking the general stats of gear without searching through it.</description>
-  </item>
-  <item>
-    <title>CB Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Fri, 16 Oct 2026 02:50:11 -0000</pubDate>
-    <description>JSON content patches</description>
-  </item>
-  <item>
-    <title>CB Factions</title>
-    <link>https://mods.vintagestory.at/show/mod/9586</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9586#9586</guid>
-    <pubDate>Fri, 16 Oct 2026 02:48:52 -0000</pubDate>
-    <description>Settlement and factions mod</description>
-  </item>
-  <item>
-    <title>Dolphin &amp; Whales (14 total) Updated</title>
-    <link>https://mods.vintagestory.at/show/mod/12575</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12575#12575</guid>
-    <pubDate>Fri, 16 Oct 2026 02:45:45 -0000</pubDate>
-    <description>Adds several whale types as well as dolphins to the game.</description>
-  </item>
-  <item>
-    <title>CB Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Fri, 16 Oct 2026 02:37:06 -0000</pubDate>
-    <description>Harmony patches for compatibility.</description>
-  </item>
-  <item>
-    <title>Newfies Chat Guard</title>
-    <link>https://mods.vintagestory.at/show/mod/5250</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5250#5250</guid>
-    <pubDate>Fri, 16 Oct 2026 02:32:34 -0000</pubDate>
-    <description>Server-side mute + chat filter for Vintage Story. Timed/permanent mutes, offline support, word/regex</description>
-  </item>
-  <item>
-    <title>Newfie's Server Essentials Discord</title>
-    <link>https://mods.vintagestory.at/show/mod/11732</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11732#11732</guid>
-    <pubDate>Fri, 16 Oct 2026 02:31:01 -0000</pubDate>
-    <description>Connect your Vintage Story server to Discord.</description>
-  </item>
-  <item>
-    <title>Newfies Server Essentials Suite</title>
-    <link>https://mods.vintagestory.at/show/mod/11556</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
-    <pubDate>Fri, 16 Oct 2026 02:28:56 -0000</pubDate>
-    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
-  </item>
-  <item>
-    <title>Goldfish Games Modpack</title>
-    <link>https://mods.vintagestory.at/show/mod/goldfishgames</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/goldfishgames#3124</guid>
-    <pubDate>Fri, 16 Oct 2026 01:58:30 -0000</pubDate>
-    <description>This is a modpack for those participating in the Goldfish Games server.</description>
-  </item>
-  <item>
-    <title>Bixo</title>
-    <link>https://mods.vintagestory.at/show/mod/bixo</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bixo#8058</guid>
-    <pubDate>Fri, 16 Oct 2026 01:53:24 -0000</pubDate>
-    <description>Creatures for Maltiez's Player Model Lib!</description>
   </item>
 </channel>
 </rss>
