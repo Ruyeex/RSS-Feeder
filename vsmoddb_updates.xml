@@ -4,7 +4,168 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 16 Oct 2026 20:39:34 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 23:18:17 +0000</lastBuildDate>
+  <item>
+    <title>Feverstone Wilds</title>
+    <link>https://mods.vintagestory.at/show/mod/feverstonewilds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feverstonewilds#967</guid>
+    <pubDate>Fri, 16 Oct 2026 23:17:34 -0000</pubDate>
+    <description>Feverstone Wilds is a fantasy mod mixed with realism that can help you or challenge you.</description>
+  </item>
+  <item>
+    <title>Cigarettes</title>
+    <link>https://mods.vintagestory.at/show/mod/12615</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12615#12615</guid>
+    <pubDate>Fri, 16 Oct 2026 22:27:54 -0000</pubDate>
+    <description>Smoke, Smoke!</description>
+  </item>
+  <item>
+    <title>Neon's Fairy Lights &amp; MORE!</title>
+    <link>https://mods.vintagestory.at/show/mod/neonsfairylights</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/neonsfairylights#12591</guid>
+    <pubDate>Fri, 16 Oct 2026 22:18:54 -0000</pubDate>
+    <description>Hang Fairy Lights of all types, and attach lanterns and chiseled blocks &amp; more to them!</description>
+  </item>
+  <item>
+    <title>Slightly Better Boats</title>
+    <link>https://mods.vintagestory.at/show/mod/12438</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12438#12438</guid>
+    <pubDate>Fri, 16 Oct 2026 22:18:23 -0000</pubDate>
+    <description>Fixes several collision issues and yaw/roll/pitch handling states for riding on rivers</description>
+  </item>
+  <item>
+    <title>Server Mod Sync</title>
+    <link>https://mods.vintagestory.at/show/mod/lhservermods</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lhservermods#12596</guid>
+    <pubDate>Fri, 16 Oct 2026 22:04:00 -0000</pubDate>
+    <description>The server streams its mods to connecting clients</description>
+  </item>
+  <item>
+    <title>Dolphin &amp; Whales (14 total) Updated</title>
+    <link>https://mods.vintagestory.at/show/mod/12575</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12575#12575</guid>
+    <pubDate>Fri, 16 Oct 2026 22:03:12 -0000</pubDate>
+    <description>Adds several whale types as well as dolphins to the game.</description>
+  </item>
+  <item>
+    <title>KCs Dragon Player!</title>
+    <link>https://mods.vintagestory.at/show/mod/kcsdragons</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kcsdragons#8146</guid>
+    <pubDate>Fri, 16 Oct 2026 21:58:41 -0000</pubDate>
+    <description>Adds an anthropomorphic dragon player model to the game</description>
+  </item>
+  <item>
+    <title>Floral Zones + Purposeful Storage Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/12546</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12546#12546</guid>
+    <pubDate>Fri, 16 Oct 2026 21:40:13 -0000</pubDate>
+    <description>Adds floral zones variants for purposeful storage</description>
+  </item>
+  <item>
+    <title>Minimally Invasive Performance Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/miptfc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/miptfc#11962</guid>
+    <pubDate>Fri, 16 Oct 2026 21:38:38 -0000</pubDate>
+    <description>Client-side performance mod that should not break other mods.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
+    <pubDate>Fri, 16 Oct 2026 21:34:21 -0000</pubDate>
+    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
+  </item>
+  <item>
+    <title>HideCombiner</title>
+    <link>https://mods.vintagestory.at/show/mod/6491</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6491#6491</guid>
+    <pubDate>Fri, 16 Oct 2026 21:24:08 -0000</pubDate>
+    <description>Allows crafting smaller raw hides into larger ones (2:1) and cutting larger hides into smaller ones </description>
+  </item>
+  <item>
+    <title>WWServerUtils</title>
+    <link>https://mods.vintagestory.at/show/mod/wwsu</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wwsu#12612</guid>
+    <pubDate>Fri, 16 Oct 2026 21:21:28 -0000</pubDate>
+    <description>Kits, homes, TPA, random teleports, rentable market plots and admin tools for my server.</description>
+  </item>
+  <item>
+    <title>Wrenchables</title>
+    <link>https://mods.vintagestory.at/show/mod/wrenchablesfirefalcon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wrenchablesfirefalcon#12611</guid>
+    <pubDate>Fri, 16 Oct 2026 21:20:58 -0000</pubDate>
+    <description>Simple transformation tweaks to vanilla objects, adds rotation interaction + specialized tuning tool</description>
+  </item>
+  <item>
+    <title>Window Display - Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/windowdisplaypatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplaypatches#10532</guid>
+    <pubDate>Fri, 16 Oct 2026 21:18:10 -0000</pubDate>
+    <description>Used to add custom transforms and to enable the particles of items on display</description>
+  </item>
+  <item>
+    <title>Window Display</title>
+    <link>https://mods.vintagestory.at/show/mod/windowdisplay</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplay#10488</guid>
+    <pubDate>Fri, 16 Oct 2026 21:17:13 -0000</pubDate>
+    <description>Adds various styles of windows and allows items to be placed on them</description>
+  </item>
+  <item>
+    <title>Metal Display Shelves</title>
+    <link>https://mods.vintagestory.at/show/mod/metaldisplayshelves</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metaldisplayshelves#12514</guid>
+    <pubDate>Fri, 16 Oct 2026 21:16:38 -0000</pubDate>
+    <description>Adds metal display shelves with wooden shelf panels, uses Universal Display Lib.</description>
+  </item>
+  <item>
+    <title>Wooden Display Shelves</title>
+    <link>https://mods.vintagestory.at/show/mod/woodendisplayshelves</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woodendisplayshelves#12501</guid>
+    <pubDate>Fri, 16 Oct 2026 21:16:08 -0000</pubDate>
+    <description>Adds wooden display shelves with wooden frames which can use different woods, Universal Display Lib.</description>
+  </item>
+  <item>
+    <title>Glass Display Shelves</title>
+    <link>https://mods.vintagestory.at/show/mod/glassdisplayshelves</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glassdisplayshelves#12427</guid>
+    <pubDate>Fri, 16 Oct 2026 21:15:26 -0000</pubDate>
+    <description>Adds glass display shelves with metal supports, uses Universal Display Lib.</description>
+  </item>
+  <item>
+    <title>Living Fire</title>
+    <link>https://mods.vintagestory.at/show/mod/12614</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12614#12614</guid>
+    <pubDate>Fri, 16 Oct 2026 21:14:00 -0000</pubDate>
+    <description>Persistent embers, tinder relighting and ash covering for vanilla firepits.</description>
+  </item>
+  <item>
+    <title>More Lanterns</title>
+    <link>https://mods.vintagestory.at/show/mod/apelanterns</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/apelanterns#2488</guid>
+    <pubDate>Fri, 16 Oct 2026 20:49:47 -0000</pubDate>
+    <description>Adds a variety of decorative and useful lanterns</description>
+  </item>
+  <item>
+    <title>Remember It</title>
+    <link>https://mods.vintagestory.at/show/mod/rememberit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rememberit#12513</guid>
+    <pubDate>Fri, 16 Oct 2026 20:48:57 -0000</pubDate>
+    <description>Remembers where you have been and draws it onto your Frontier's Map, a little more each visit.</description>
+  </item>
+  <item>
+    <title>Floral Zones + Shipwright Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/12548</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12548#12548</guid>
+    <pubDate>Fri, 16 Oct 2026 20:42:08 -0000</pubDate>
+    <description>Adds Floral Zones wood variants to Shipwright boats.</description>
+  </item>
+  <item>
+    <title>configkit</title>
+    <link>https://mods.vintagestory.at/show/mod/configkit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/configkit#11506</guid>
+    <pubDate>Fri, 16 Oct 2026 20:41:48 -0000</pubDate>
+    <description>In-game settings for your mods, without ImGui (alternative to configlib).</description>
+  </item>
   <item>
     <title>Aldi's Classes [Races PATCH]</title>
     <link>https://mods.vintagestory.at/show/mod/aldisraces</link>
@@ -53,167 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drtagx#2913</guid>
     <pubDate>Fri, 16 Oct 2026 19:36:29 -0000</pubDate>
     <description>DRTAgX shapes the game's lighting into the picture your monitor presents.</description>
-  </item>
-  <item>
-    <title>Century Arms</title>
-    <link>https://mods.vintagestory.at/show/mod/8111</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8111#8111</guid>
-    <pubDate>Fri, 16 Oct 2026 19:27:08 -0000</pubDate>
-    <description>A selection of firearms hailing from the late 19th and early 20th centuries.</description>
-  </item>
-  <item>
-    <title>Uranium Expanded (Metals and Tools)</title>
-    <link>https://mods.vintagestory.at/show/mod/uraniumexpanded</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/uraniumexpanded#5981</guid>
-    <pubDate>Fri, 16 Oct 2026 18:42:40 -0000</pubDate>
-    <description>Adds uranium based alloys, uranium glass, tools and uranium fever.</description>
-  </item>
-  <item>
-    <title>Equus: Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/equusponies</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusponies#12512</guid>
-    <pubDate>Fri, 16 Oct 2026 18:41:17 -0000</pubDate>
-    <description>Ponies for small folk, donkeys and mules, voices for every horse, and a saddle seat for every race.</description>
-  </item>
-  <item>
-    <title>C&amp;N Jewelry</title>
-    <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
-    <pubDate>Fri, 16 Oct 2026 18:40:51 -0000</pubDate>
-    <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
-  </item>
-  <item>
-    <title>C&amp;N Halloween</title>
-    <link>https://mods.vintagestory.at/show/mod/12453</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12453#12453</guid>
-    <pubDate>Fri, 16 Oct 2026 18:36:34 -0000</pubDate>
-    <description> Adds living pumpkins, a jack-o'-lantern, a scarecrow ward and a pumpkin mask.</description>
-  </item>
-  <item>
-    <title>GhostChunks</title>
-    <link>https://mods.vintagestory.at/show/mod/ghostchunks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ghostchunks#12113</guid>
-    <pubDate>Fri, 16 Oct 2026 18:07:53 -0000</pubDate>
-    <description>Highly performant distant terrain LOD renderer, capable of rendering at 200+ fps!</description>
-  </item>
-  <item>
-    <title>Metal Display Shelves</title>
-    <link>https://mods.vintagestory.at/show/mod/metaldisplayshelves</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/metaldisplayshelves#12514</guid>
-    <pubDate>Fri, 16 Oct 2026 17:57:38 -0000</pubDate>
-    <description>Adds metal display shelves with wooden shelf panels, uses Universal Display Lib.</description>
-  </item>
-  <item>
-    <title>Wooden Display Shelves</title>
-    <link>https://mods.vintagestory.at/show/mod/woodendisplayshelves</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woodendisplayshelves#12501</guid>
-    <pubDate>Fri, 16 Oct 2026 17:56:00 -0000</pubDate>
-    <description>Adds wooden display shelves with wooden frames which can use different woods, Universal Display Lib.</description>
-  </item>
-  <item>
-    <title>Glass Display Shelves</title>
-    <link>https://mods.vintagestory.at/show/mod/glassdisplayshelves</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/glassdisplayshelves#12427</guid>
-    <pubDate>Fri, 16 Oct 2026 17:51:41 -0000</pubDate>
-    <description>Adds glass display shelves with metal supports, uses Universal Display Lib.</description>
-  </item>
-  <item>
-    <title>Wooden Spoon</title>
-    <link>https://mods.vintagestory.at/show/mod/woodenspoon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woodenspoon#12590</guid>
-    <pubDate>Fri, 16 Oct 2026 17:50:38 -0000</pubDate>
-    <description>It's a mod that adds a wooden spoon for eating straight from the pot. </description>
-  </item>
-  <item>
-    <title>Crucibulum</title>
-    <link>https://mods.vintagestory.at/show/mod/crucibulum</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crucibulum#11374</guid>
-    <pubDate>Fri, 16 Oct 2026 17:50:22 -0000</pubDate>
-    <description>Set a crucible in the forge and melt metal where you smith it</description>
-  </item>
-  <item>
-    <title>Window Display</title>
-    <link>https://mods.vintagestory.at/show/mod/windowdisplay</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplay#10488</guid>
-    <pubDate>Fri, 16 Oct 2026 17:47:26 -0000</pubDate>
-    <description>Adds various styles of windows and allows items to be placed on them</description>
-  </item>
-  <item>
-    <title>Universal Display Lib</title>
-    <link>https://mods.vintagestory.at/show/mod/universaldisplaylib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/universaldisplaylib#10487</guid>
-    <pubDate>Fri, 16 Oct 2026 17:42:51 -0000</pubDate>
-    <description>The Lib has changed to be more than just windows so other modders can use it</description>
-  </item>
-  <item>
-    <title>Wilderlands Onus Massae</title>
-    <link>https://mods.vintagestory.at/show/mod/12563</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12563#12563</guid>
-    <pubDate>Fri, 16 Oct 2026 17:38:30 -0000</pubDate>
-    <description>Adds a simple weight and burden system to assets carried in player inventory.</description>
-  </item>
-  <item>
-    <title>Taxidermy</title>
-    <link>https://mods.vintagestory.at/show/mod/taxidermy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taxidermy#11946</guid>
-    <pubDate>Fri, 16 Oct 2026 17:37:45 -0000</pubDate>
-    <description>Mount the animals you hunt - the whole animal in a pose of your choosing, or the head on the wall.</description>
-  </item>
-  <item>
-    <title>Player Model lib</title>
-    <link>https://mods.vintagestory.at/show/mod/playermodellib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodellib#3910</guid>
-    <pubDate>Fri, 16 Oct 2026 17:28:38 -0000</pubDate>
-    <description>Library for adding new player races</description>
-  </item>
-  <item>
-    <title>Mixed Stacks Bags</title>
-    <link>https://mods.vintagestory.at/show/mod/12296</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12296#12296</guid>
-    <pubDate>Fri, 16 Oct 2026 17:19:34 -0000</pubDate>
-    <description>Bags that hold many kinds of berries, nuggets, ore, grain, arrows or fibers in a single slot. </description>
-  </item>
-  <item>
-    <title>VSCN 服务器改进模组的模组</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
-    <pubDate>Fri, 16 Oct 2026 17:15:20 -0000</pubDate>
-    <description>For Chinese community servers only（Mod Fix Mod）</description>
-  </item>
-  <item>
-    <title>VHS Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/12439</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12439#12439</guid>
-    <pubDate>Fri, 16 Oct 2026 17:03:21 -0000</pubDate>
-    <description>Patches for the Vintage Hoarder's Society Server</description>
-  </item>
-  <item>
-    <title>CoB Client Files [1]</title>
-    <link>https://mods.vintagestory.at/show/mod/cobexclusives</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cobexclusives#360</guid>
-    <pubDate>Fri, 16 Oct 2026 17:02:02 -0000</pubDate>
-    <description>Required to join the awesome Conquest of Blocks (aka 'CoB') multiplayer realm.</description>
-  </item>
-  <item>
-    <title>vintageparkserver</title>
-    <link>https://mods.vintagestory.at/show/mod/12437</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12437#12437</guid>
-    <pubDate>Fri, 16 Oct 2026 17:00:51 -0000</pubDate>
-    <description>Bringing in trees and things for our private server. </description>
-  </item>
-  <item>
-    <title>Wilderlands Onus Capacitatis</title>
-    <link>https://mods.vintagestory.at/show/mod/12608</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12608#12608</guid>
-    <pubDate>Fri, 16 Oct 2026 17:00:27 -0000</pubDate>
-    <description>- Adds a volume feature to the game's storage mechanics.</description>
-  </item>
-  <item>
-    <title>Star Trek Turbolift and Teleport pad</title>
-    <link>https://mods.vintagestory.at/show/mod/trekteleporter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/trekteleporter#11785</guid>
-    <pubDate>Fri, 16 Oct 2026 16:49:21 -0000</pubDate>
-    <description>Adds turbolifts and teleportation pads to the game for specific megabuilds.</description>
   </item>
 </channel>
 </rss>
