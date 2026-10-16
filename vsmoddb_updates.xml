@@ -4,7 +4,98 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 15 Oct 2026 22:03:23 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 01:02:50 +0000</lastBuildDate>
+  <item>
+    <title>Advanced Geology</title>
+    <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedgeology#7167</guid>
+    <pubDate>Fri, 16 Oct 2026 00:53:18 -0000</pubDate>
+    <description>Total overhaul of vanilla oregen and adds many new rocks and minerals</description>
+  </item>
+  <item>
+    <title>Chicken Feed Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/chickenfeedforked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chickenfeedforked#12500</guid>
+    <pubDate>Fri, 16 Oct 2026 00:22:48 -0000</pubDate>
+    <description>~This is a compatibiliy fix fork of Chicken Feed by VulcanoLV with additional mod support~</description>
+  </item>
+  <item>
+    <title>Ahoy! - A Simple Sailing Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/ahoy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ahoy#12586</guid>
+    <pubDate>Thu, 15 Oct 2026 23:35:40 -0000</pubDate>
+    <description>Ahoy is a basic Vintage Story mod that adds simple arcade style sailing mechanics to the game.</description>
+  </item>
+  <item>
+    <title>Story Forge</title>
+    <link>https://mods.vintagestory.at/show/mod/storyforge</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/storyforge#5894</guid>
+    <pubDate>Thu, 15 Oct 2026 23:14:36 -0000</pubDate>
+    <description>Story Forge: Vintage Story launcher optimized for Windows, macOS and Linux (even Steam Deck)</description>
+  </item>
+  <item>
+    <title>Growable Flowers</title>
+    <link>https://mods.vintagestory.at/show/mod/growableflowers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/growableflowers#12510</guid>
+    <pubDate>Thu, 15 Oct 2026 23:14:23 -0000</pubDate>
+    <description>A Mod that adds planter boxes to the game, that can grow herbs and flowers</description>
+  </item>
+  <item>
+    <title>kris-bronze-additions</title>
+    <link>https://mods.vintagestory.at/show/mod/krisbronzeadditions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krisbronzeadditions#12577</guid>
+    <pubDate>Thu, 15 Oct 2026 23:08:43 -0000</pubDate>
+    <description>Addition to 8 different bronzes for more variations in building</description>
+  </item>
+  <item>
+    <title>kris-copper-additions</title>
+    <link>https://mods.vintagestory.at/show/mod/kriscopperadditions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kriscopperadditions#11951</guid>
+    <pubDate>Thu, 15 Oct 2026 23:07:21 -0000</pubDate>
+    <description>Module adds 8 different types of Copper that can be found in the world</description>
+  </item>
+  <item>
+    <title>No Surface Rust Monsters</title>
+    <link>https://mods.vintagestory.at/show/mod/nosurfrustmon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nosurfrustmon#12585</guid>
+    <pubDate>Thu, 15 Oct 2026 22:43:26 -0000</pubDate>
+    <description>Disables rust monsters spawning above sea level except during storms.</description>
+  </item>
+  <item>
+    <title>Prosequor Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/11726</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11726#11726</guid>
+    <pubDate>Thu, 15 Oct 2026 22:43:12 -0000</pubDate>
+    <description>Adds compatibility between popular Vintage Story mods and Prosequor.</description>
+  </item>
+  <item>
+    <title>CoB Client Files [1]</title>
+    <link>https://mods.vintagestory.at/show/mod/cobexclusives</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cobexclusives#360</guid>
+    <pubDate>Thu, 15 Oct 2026 22:09:48 -0000</pubDate>
+    <description>Required to join the awesome Conquest of Blocks (aka 'CoB') multiplayer realm.</description>
+  </item>
+  <item>
+    <title>DarkGirlStuff</title>
+    <link>https://mods.vintagestory.at/show/mod/11165</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11165#11165</guid>
+    <pubDate>Thu, 15 Oct 2026 22:07:26 -0000</pubDate>
+    <description>ADD some stuff, items, cloths for an server</description>
+  </item>
+  <item>
+    <title>UniversalChat</title>
+    <link>https://mods.vintagestory.at/show/mod/11401</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11401#11401</guid>
+    <pubDate>Thu, 15 Oct 2026 22:06:12 -0000</pubDate>
+    <description>Adds a native Universal chat tab that mirrors General and translates each message locally.</description>
+  </item>
+  <item>
+    <title>TekTools</title>
+    <link>https://mods.vintagestory.at/show/mod/11615</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11615#11615</guid>
+    <pubDate>Thu, 15 Oct 2026 22:04:06 -0000</pubDate>
+    <description>Adds a dedicated Tools tab to the Vintage Story character window, providing a clean home for TekTool</description>
+  </item>
   <item>
     <title>HardcoreSecurity</title>
     <link>https://mods.vintagestory.at/show/mod/11858</link>
@@ -25,13 +116,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12584#12584</guid>
     <pubDate>Thu, 15 Oct 2026 21:44:47 -0000</pubDate>
     <description>Replaces sounds that Colonial Firearms uses with the sound from Firearms Resound.</description>
-  </item>
-  <item>
-    <title>kris-bronze-additions</title>
-    <link>https://mods.vintagestory.at/show/mod/krisbronzeadditions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krisbronzeadditions#12577</guid>
-    <pubDate>Thu, 15 Oct 2026 21:41:15 -0000</pubDate>
-    <description>Addition to 8 different bronzes for more variations in building</description>
   </item>
   <item>
     <title>Gondola Cable Car</title>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9139#9139</guid>
     <pubDate>Thu, 15 Oct 2026 19:03:13 -0000</pubDate>
     <description>VSA API</description>
-  </item>
-  <item>
-    <title>VSA - Replica</title>
-    <link>https://mods.vintagestory.at/show/mod/9115</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
-    <pubDate>Thu, 15 Oct 2026 19:03:00 -0000</pubDate>
-    <description> (Valkyrian Skies for VS basically) Build block-made moving ships and structures</description>
-  </item>
-  <item>
-    <title>C&amp;N Halloween</title>
-    <link>https://mods.vintagestory.at/show/mod/12453</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12453#12453</guid>
-    <pubDate>Thu, 15 Oct 2026 19:00:30 -0000</pubDate>
-    <description> Adds living pumpkins, a jack-o'-lantern, a scarecrow ward and a pumpkin mask.</description>
-  </item>
-  <item>
-    <title>C&amp;N Economy</title>
-    <link>https://mods.vintagestory.at/show/mod/caneconomy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caneconomy#2080</guid>
-    <pubDate>Thu, 15 Oct 2026 18:57:51 -0000</pubDate>
-    <description>Functionality for players money accounts</description>
-  </item>
-  <item>
-    <title>Simple Dairy Rework</title>
-    <link>https://mods.vintagestory.at/show/mod/12578</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12578#12578</guid>
-    <pubDate>Thu, 15 Oct 2026 18:49:49 -0000</pubDate>
-    <description>Reworks dairy as a food item to be the super food it has always been.</description>
-  </item>
-  <item>
-    <title>Shuffle's Frontier Firearms</title>
-    <link>https://mods.vintagestory.at/show/mod/shufflesfrontierfirearms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shufflesfrontierfirearms#12330</guid>
-    <pubDate>Thu, 15 Oct 2026 18:43:22 -0000</pubDate>
-    <description>Revolvers, lever-actions, and other cartridge-era weapons</description>
-  </item>
-  <item>
-    <title>Roasted Bones (and bone stock)</title>
-    <link>https://mods.vintagestory.at/show/mod/11880</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11880#11880</guid>
-    <pubDate>Thu, 15 Oct 2026 18:28:36 -0000</pubDate>
-    <description>Roast bones and add them to your soup for a few extra nutrients or turn them into bone stock!</description>
-  </item>
-  <item>
-    <title>Cooking Freedom!</title>
-    <link>https://mods.vintagestory.at/show/mod/11884</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11884#11884</guid>
-    <pubDate>Thu, 15 Oct 2026 18:23:57 -0000</pubDate>
-    <description>Vanilla+ expansion to cooking recipe combinations!</description>
-  </item>
-  <item>
-    <title>Cellarworks</title>
-    <link>https://mods.vintagestory.at/show/mod/12529</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12529#12529</guid>
-    <pubDate>Thu, 15 Oct 2026 17:39:54 -0000</pubDate>
-    <description>Real cellar doors. Any sealed space underground keeps food like a cellar, however big or deep.</description>
-  </item>
-  <item>
-    <title>Haunford Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/11926</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11926#11926</guid>
-    <pubDate>Thu, 15 Oct 2026 17:32:48 -0000</pubDate>
-    <description>A collection of patches for Haunfords Private Server</description>
-  </item>
-  <item>
-    <title>VSCN 社区服务器中改进模组的模组</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
-    <pubDate>Thu, 15 Oct 2026 17:32:16 -0000</pubDate>
-    <description>For Chinese community servers only（Mod Fix Mod）</description>
-  </item>
-  <item>
-    <title>Signals Tubes</title>
-    <link>https://mods.vintagestory.at/show/mod/signalstubes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/signalstubes#12459</guid>
-    <pubDate>Thu, 15 Oct 2026 17:18:38 -0000</pubDate>
-    <description>Burn a whole Signals circuit into one vacuum tube and plug it into a socket.</description>
-  </item>
-  <item>
-    <title>Contrats &amp; Gages – German Translation</title>
-    <link>https://mods.vintagestory.at/show/mod/12576</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12576#12576</guid>
-    <pubDate>Thu, 15 Oct 2026 16:25:40 -0000</pubDate>
-    <description>German translation addon for Contrats &amp; Gages. No gameplay changes.</description>
   </item>
 </channel>
 </rss>
