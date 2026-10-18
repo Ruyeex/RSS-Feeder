@@ -4,7 +4,98 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 17 Oct 2026 22:00:53 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 00:41:56 +0000</lastBuildDate>
+  <item>
+    <title>eViSTool — Linux</title>
+    <link>https://mods.vintagestory.at/show/mod/evistoollinux</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoollinux#12414</guid>
+    <pubDate>Sun, 18 Oct 2026 00:37:09 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>eViSTool — Windows</title>
+    <link>https://mods.vintagestory.at/show/mod/evistoolwin</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoolwin#12228</guid>
+    <pubDate>Sun, 18 Oct 2026 00:36:31 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>Syrup and CO2</title>
+    <link>https://mods.vintagestory.at/show/mod/12284</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12284#12284</guid>
+    <pubDate>Sun, 18 Oct 2026 00:34:02 -0000</pubDate>
+    <description>Adds cola and soda as well as a carbonation system to the game!</description>
+  </item>
+  <item>
+    <title>SheyderMod</title>
+    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
+    <pubDate>Sun, 18 Oct 2026 00:17:03 -0000</pubDate>
+    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
+  </item>
+  <item>
+    <title>Food Preservation &amp; Display</title>
+    <link>https://mods.vintagestory.at/show/mod/foodpreserve</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/foodpreserve#12135</guid>
+    <pubDate>Sat, 17 Oct 2026 23:46:09 -0000</pubDate>
+    <description>Taxidermy for food.</description>
+  </item>
+  <item>
+    <title>Ahoy! - A Simple Sailing Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/ahoy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ahoy#12586</guid>
+    <pubDate>Sat, 17 Oct 2026 23:30:14 -0000</pubDate>
+    <description>Ahoy is a basic Vintage Story mod that adds simple arcade style sailing mechanics to the game.</description>
+  </item>
+  <item>
+    <title>Questline</title>
+    <link>https://mods.vintagestory.at/show/mod/questline</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/questline#12495</guid>
+    <pubDate>Sat, 17 Oct 2026 23:15:58 -0000</pubDate>
+    <description>A quest book covering all of vanilla in 322 quests, with automatic task tracking and rewards</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Sat, 17 Oct 2026 22:55:01 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
+  <item>
+    <title>Vintage Fantasy</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagefantasy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagefantasy#12418</guid>
+    <pubDate>Sat, 17 Oct 2026 22:44:30 -0000</pubDate>
+    <description>Whole buncha random shit to make the 194+ mods of the server not murder each other in their sleep</description>
+  </item>
+  <item>
+    <title>TheStoneCoreAdminControl</title>
+    <link>https://mods.vintagestory.at/show/mod/thestonecoreadmincontrol</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thestonecoreadmincontrol#12643</guid>
+    <pubDate>Sat, 17 Oct 2026 22:40:36 -0000</pubDate>
+    <description>All-in-one server administration, moderation and player management suite for Vintage Story.</description>
+  </item>
+  <item>
+    <title>Seraph Leveling ReClassed</title>
+    <link>https://mods.vintagestory.at/show/mod/11234</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11234#11234</guid>
+    <pubDate>Sat, 17 Oct 2026 22:26:38 -0000</pubDate>
+    <description>Level up and gain traits in a vanilla-friendly way, with additional mod support</description>
+  </item>
+  <item>
+    <title>WOO Fantasy Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
+    <pubDate>Sat, 17 Oct 2026 22:14:54 -0000</pubDate>
+    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
+  </item>
+  <item>
+    <title>Chiseled Hats</title>
+    <link>https://mods.vintagestory.at/show/mod/chiseledhats</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseledhats#12642</guid>
+    <pubDate>Sat, 17 Oct 2026 22:08:22 -0000</pubDate>
+    <description>Adds chiseled hats that can turn any chiseled blocks into a wearable hat!</description>
+  </item>
   <item>
     <title>Wilderlands Adjustments</title>
     <link>https://mods.vintagestory.at/show/mod/7320</link>
@@ -123,97 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10779#10779</guid>
     <pubDate>Sat, 17 Oct 2026 19:25:49 -0000</pubDate>
     <description>Rot food and age alcohol.</description>
-  </item>
-  <item>
-    <title>Rough Seas</title>
-    <link>https://mods.vintagestory.at/show/mod/roughseas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/roughseas#12633</guid>
-    <pubDate>Sat, 17 Oct 2026 19:15:56 -0000</pubDate>
-    <description>The sea gets weather: storms, surf, currents. And six new vessels that wear, swamp and break.</description>
-  </item>
-  <item>
-    <title>Fix for Mighty Bamboo</title>
-    <link>https://mods.vintagestory.at/show/mod/12638</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12638#12638</guid>
-    <pubDate>Sat, 17 Oct 2026 19:10:15 -0000</pubDate>
-    <description>AI mod that switches \ for /</description>
-  </item>
-  <item>
-    <title>Grassroots</title>
-    <link>https://mods.vintagestory.at/show/mod/grassroots</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
-    <pubDate>Sat, 17 Oct 2026 19:09:30 -0000</pubDate>
-    <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
-  </item>
-  <item>
-    <title>Grassroots Coca</title>
-    <link>https://mods.vintagestory.at/show/mod/grassrootscoca</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassrootscoca#10921</guid>
-    <pubDate>Sat, 17 Oct 2026 19:04:43 -0000</pubDate>
-    <description>Coca farming. Grow, dry, leech, refine, and recrystallize. Extract the purest product.</description>
-  </item>
-  <item>
-    <title>Fancy Fences</title>
-    <link>https://mods.vintagestory.at/show/mod/12383</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12383#12383</guid>
-    <pubDate>Sat, 17 Oct 2026 19:04:27 -0000</pubDate>
-    <description>Adds new fences and fence gates.</description>
-  </item>
-  <item>
-    <title>Valioso</title>
-    <link>https://mods.vintagestory.at/show/mod/11120</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11120#11120</guid>
-    <pubDate>Sat, 17 Oct 2026 19:03:09 -0000</pubDate>
-    <description>Valioso Mod</description>
-  </item>
-  <item>
-    <title>SpecializedBags Revived</title>
-    <link>https://mods.vintagestory.at/show/mod/specializedbagsrevived</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/specializedbagsrevived#2920</guid>
-    <pubDate>Sat, 17 Oct 2026 18:38:14 -0000</pubDate>
-    <description>Specialty bags that only hold items related to their bag type.</description>
-  </item>
-  <item>
-    <title>eViSTool — Linux</title>
-    <link>https://mods.vintagestory.at/show/mod/evistoollinux</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoollinux#12414</guid>
-    <pubDate>Sat, 17 Oct 2026 18:15:38 -0000</pubDate>
-    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
-  </item>
-  <item>
-    <title>eViSTool — Windows</title>
-    <link>https://mods.vintagestory.at/show/mod/evistoolwin</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoolwin#12228</guid>
-    <pubDate>Sat, 17 Oct 2026 18:15:16 -0000</pubDate>
-    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
-  </item>
-  <item>
-    <title>Rustbound Magic: Craditz’s Crooked Codex</title>
-    <link>https://mods.vintagestory.at/show/mod/craditzscrookedcodex</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/craditzscrookedcodex#12628</guid>
-    <pubDate>Sat, 17 Oct 2026 18:02:40 -0000</pubDate>
-    <description>Adds 51 spells to Rustbound Magic, including chain lightning, portals, and stone sentries.</description>
-  </item>
-  <item>
-    <title>Signals Tubes</title>
-    <link>https://mods.vintagestory.at/show/mod/signalstubes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/signalstubes#12459</guid>
-    <pubDate>Sat, 17 Oct 2026 17:55:54 -0000</pubDate>
-    <description>Burn a whole Signals circuit into one vacuum tube and plug it into a socket.</description>
-  </item>
-  <item>
-    <title>Alegacy patches</title>
-    <link>https://mods.vintagestory.at/show/mod/6997</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6997#6997</guid>
-    <pubDate>Sat, 17 Oct 2026 17:51:32 -0000</pubDate>
-    <description>targeted patches for the Alegacy server setup</description>
-  </item>
-  <item>
-    <title>Good Hunting - Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/12485</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12485#12485</guid>
-    <pubDate>Sat, 17 Oct 2026 17:47:53 -0000</pubDate>
-    <description>User-scaleable via config file - increased meat and harvest drops</description>
   </item>
 </channel>
 </rss>
