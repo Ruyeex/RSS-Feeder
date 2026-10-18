@@ -4,216 +4,216 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 18 Oct 2026 14:20:51 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 17:52:39 +0000</lastBuildDate>
   <item>
-    <title>Null Smithy</title>
-    <link>https://mods.vintagestory.at/show/mod/nullsmithy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullsmithy#12658</guid>
-    <pubDate>Sun, 18 Oct 2026 13:58:34 -0000</pubDate>
-    <description>Makes the smith load-bearing: every metal tool needs a seasoned haft and a forged rivet.</description>
-  </item>
-  <item>
-    <title>Null Arts</title>
-    <link>https://mods.vintagestory.at/show/mod/nullarts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullarts#12659</guid>
-    <pubDate>Sun, 18 Oct 2026 13:58:11 -0000</pubDate>
-    <description>The breeding ladder for the four crops it never covered: fennel, cassava, pineapple, licorice.</description>
-  </item>
-  <item>
-    <title>Null Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/nullskills</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullskills#12660</guid>
-    <pubDate>Sun, 18 Oct 2026 13:57:12 -0000</pubDate>
-    <description>A maintained fork of XLib and XSkills for 1.22: thirteen skill trees, 185 abilities.</description>
-  </item>
-  <item>
-    <title>Null Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/nullclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullclasses#12661</guid>
-    <pubDate>Sun, 18 Oct 2026 13:54:02 -0000</pubDate>
-    <description>Fourteen trades, freely chosen. Your class is what others need from you; any can be earned.</description>
-  </item>
-  <item>
-    <title>VSCN 服务器改进模组的模组</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
-    <pubDate>Sun, 18 Oct 2026 13:53:38 -0000</pubDate>
-    <description>For Chinese community servers only（Mod Fix Mod）</description>
-  </item>
-  <item>
-    <title>TheStoneCoreAdminControl</title>
-    <link>https://mods.vintagestory.at/show/mod/thestonecoreadmincontrol</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thestonecoreadmincontrol#12643</guid>
-    <pubDate>Sun, 18 Oct 2026 13:52:57 -0000</pubDate>
-    <description>All-in-one server administration, moderation and player management suite for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Reinforced Tool Belt</title>
-    <link>https://mods.vintagestory.at/show/mod/reinforcedtoolbelt</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/reinforcedtoolbelt#12598</guid>
-    <pubDate>Sun, 18 Oct 2026 13:37:21 -0000</pubDate>
-    <description>Store up to 8 tools in your Reinforced Tool Belt and switch quickly with a hotkey wheel!</description>
-  </item>
-  <item>
-    <title>OffhandHungerTool</title>
-    <link>https://mods.vintagestory.at/show/mod/11812</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11812#11812</guid>
-    <pubDate>Sun, 18 Oct 2026 13:29:30 -0000</pubDate>
-    <description>A simple hunger Tool </description>
-  </item>
-  <item>
-    <title>Prosequor - Skills, Levels, Trees and Stats</title>
-    <link>https://mods.vintagestory.at/show/mod/11674</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11674#11674</guid>
-    <pubDate>Sun, 18 Oct 2026 13:21:34 -0000</pubDate>
-    <description>Adds a full-throated, first-class skill, levelling and attributes system to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Universal Display Lib</title>
-    <link>https://mods.vintagestory.at/show/mod/universaldisplaylib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/universaldisplaylib#10487</guid>
-    <pubDate>Sun, 18 Oct 2026 13:08:53 -0000</pubDate>
-    <description>The Lib has changed to be more than just windows so other modders can use it</description>
-  </item>
-  <item>
-    <title>Chiseled Block Display</title>
-    <link>https://mods.vintagestory.at/show/mod/chiseledblockdisplay</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseledblockdisplay#12645</guid>
-    <pubDate>Sun, 18 Oct 2026 13:03:03 -0000</pubDate>
-    <description>Uses the Universal Display Lib to allow free item placement, stacking, etc with chiseled blocks</description>
-  </item>
-  <item>
-    <title>Ground Display</title>
-    <link>https://mods.vintagestory.at/show/mod/grounddisplay</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grounddisplay#12644</guid>
-    <pubDate>Sun, 18 Oct 2026 13:02:34 -0000</pubDate>
-    <description>Uses the Universal Display Lib to allow free item placement, stacking and rotation on the ground</description>
-  </item>
-  <item>
-    <title>Dragonology</title>
-    <link>https://mods.vintagestory.at/show/mod/dragonology</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dragonology#12537</guid>
-    <pubDate>Sun, 18 Oct 2026 12:05:23 -0000</pubDate>
-    <description>Wyvern mod designed to feel like a vanilla addition including dragon armour &amp; wild dragon nests.</description>
-  </item>
-  <item>
-    <title>TraderTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10569</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
-    <pubDate>Sun, 18 Oct 2026 12:02:10 -0000</pubDate>
-    <description>Allow to manage traders</description>
-  </item>
-  <item>
-    <title>TekTools</title>
-    <link>https://mods.vintagestory.at/show/mod/11615</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11615#11615</guid>
-    <pubDate>Sun, 18 Oct 2026 12:01:31 -0000</pubDate>
-    <description>Adds a dedicated Tools tab to the Vintage Story character window, providing a clean home for TekTool</description>
-  </item>
-  <item>
-    <title>HardcoreSecurity</title>
-    <link>https://mods.vintagestory.at/show/mod/11858</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11858#11858</guid>
-    <pubDate>Sun, 18 Oct 2026 12:00:55 -0000</pubDate>
-    <description>Professional server-authoritative security, vanilla integrity verification, client policy enforcemen</description>
-  </item>
-  <item>
-    <title>HardcoreFarmer</title>
-    <link>https://mods.vintagestory.at/show/mod/12048</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12048#12048</guid>
-    <pubDate>Sun, 18 Oct 2026 12:00:25 -0000</pubDate>
-    <description>Adds Better generation-based livestock hunger, grazing/food-seeking AI, and chicken hatch crowding.</description>
-  </item>
-  <item>
-    <title>DarkGirlStuff</title>
-    <link>https://mods.vintagestory.at/show/mod/11165</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11165#11165</guid>
-    <pubDate>Sun, 18 Oct 2026 11:59:46 -0000</pubDate>
-    <description>ADD some stuff, items, cloths for an server</description>
-  </item>
-  <item>
-    <title>火箭（Fire Arrows）</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnfirearrows</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnfirearrows#12657</guid>
-    <pubDate>Sun, 18 Oct 2026 11:41:42 -0000</pubDate>
-    <description>For Chinese community servers only（Fire Arrows）</description>
-  </item>
-  <item>
-    <title>C4B Traducciones-ES ► MODS</title>
-    <link>https://mods.vintagestory.at/show/mod/c4btraduccionesmods</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/c4btraduccionesmods#2720</guid>
-    <pubDate>Sun, 18 Oct 2026 11:41:36 -0000</pubDate>
-    <description>Traducción de (más de 230) Mods en Español-ES</description>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Sun, 18 Oct 2026 17:44:13 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
   </item>
   <item>
     <title>Bigger Cooking Pot!</title>
     <link>https://mods.vintagestory.at/show/mod/12655</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12655#12655</guid>
-    <pubDate>Sun, 18 Oct 2026 11:20:58 -0000</pubDate>
+    <pubDate>Sun, 18 Oct 2026 17:36:47 -0000</pubDate>
     <description>A mod that makes cooking pots larger!</description>
   </item>
   <item>
-    <title>Downed</title>
-    <link>https://mods.vintagestory.at/show/mod/downed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
-    <pubDate>Sun, 18 Oct 2026 11:17:24 -0000</pubDate>
-    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
+    <title>Eriadorian Armory</title>
+    <link>https://mods.vintagestory.at/show/mod/eriadorianarmory</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eriadorianarmory#9322</guid>
+    <pubDate>Sun, 18 Oct 2026 17:29:13 -0000</pubDate>
+    <description>A collection of custom weapons and armors for the Kingdom of Eriador Vintagestory server.</description>
   </item>
   <item>
-    <title>VSCN 文明模拟主模组</title>
-    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
-    <pubDate>Sun, 18 Oct 2026 11:17:15 -0000</pubDate>
-    <description>For Chinese community servers only（Civilization Simulation）</description>
+    <title>Chronicles of Eriador</title>
+    <link>https://mods.vintagestory.at/show/mod/eriadorchronicles</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eriadorchronicles#9320</guid>
+    <pubDate>Sun, 18 Oct 2026 17:26:57 -0000</pubDate>
+    <description>A collection of custom items, recipes, and other patches for the Kingdom of Eriador VS server.</description>
   </item>
   <item>
-    <title>Seventh Night Zombies</title>
-    <link>https://mods.vintagestory.at/show/mod/12654</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12654#12654</guid>
-    <pubDate>Sun, 18 Oct 2026 10:48:56 -0000</pubDate>
-    <description>Survive the seventh-night zombie hordes: configurable waves, roaming zombies, Alpha Zombie</description>
+    <title>Classes of Eriador</title>
+    <link>https://mods.vintagestory.at/show/mod/eriadorclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eriadorclasses#9321</guid>
+    <pubDate>Sun, 18 Oct 2026 17:23:56 -0000</pubDate>
+    <description>A collection of custom classes for the Kingdom of Eriador Vintagestory server.</description>
   </item>
   <item>
-    <title>Automatic forging</title>
-    <link>https://mods.vintagestory.at/show/mod/automaticforging</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/automaticforging#8833</guid>
-    <pubDate>Sun, 18 Oct 2026 10:19:33 -0000</pubDate>
-    <description>A mod that automatically forges items for you using recorded smithing macros. CLIENT - ONLY</description>
+    <title>简单语音聊天</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
+    <pubDate>Sun, 18 Oct 2026 17:23:34 -0000</pubDate>
+    <description>For Chinese community servers only（Voice Chat Mod）</description>
   </item>
   <item>
-    <title>NationGuard</title>
-    <link>https://mods.vintagestory.at/show/mod/12387</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12387#12387</guid>
-    <pubDate>Sun, 18 Oct 2026 10:07:51 -0000</pubDate>
-    <description>Stationary archer guards that auto-shoot players based on a whitelist or blacklist.</description>
+    <title>JavaCo Industrial Additions!</title>
+    <link>https://mods.vintagestory.at/show/mod/javacomotorcar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/javacomotorcar#12535</guid>
+    <pubDate>Sun, 18 Oct 2026 17:20:31 -0000</pubDate>
+    <description>JavaCo brings you all the amenities of modern life!</description>
   </item>
   <item>
-    <title>Vintage Fantasy</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagefantasy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagefantasy#12418</guid>
-    <pubDate>Sun, 18 Oct 2026 09:40:25 -0000</pubDate>
-    <description>Whole buncha random shit to make the 194+ mods of the server not murder each other in their sleep</description>
+    <title>C4B Traducciones-ES ► MODS</title>
+    <link>https://mods.vintagestory.at/show/mod/c4btraduccionesmods</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/c4btraduccionesmods#2720</guid>
+    <pubDate>Sun, 18 Oct 2026 17:17:48 -0000</pubDate>
+    <description>Traducción de (más de 230) Mods en Español-ES</description>
   </item>
   <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Sun, 18 Oct 2026 08:09:51 -0000</pubDate>
-    <description>Gives tamed animals personalities, backpacks, duties, talents, breeding, and expeditions.</description>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Sun, 18 Oct 2026 17:15:32 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
   </item>
   <item>
-    <title>Pipeworks</title>
-    <link>https://mods.vintagestory.at/show/mod/12481</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12481#12481</guid>
-    <pubDate>Sun, 18 Oct 2026 07:47:37 -0000</pubDate>
-    <description>Real bathrooms: cast a tub, run hot water, take a bath, and use the toilet before it's too late.</description>
+    <title>Floral Cordages</title>
+    <link>https://mods.vintagestory.at/show/mod/fzcordage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fzcordage#12664</guid>
+    <pubDate>Sun, 18 Oct 2026 17:11:56 -0000</pubDate>
+    <description>Can now use fiber plants from Floral Zones to craft the cordage of Primitive Survival</description>
   </item>
   <item>
-    <title>Cellarworks</title>
-    <link>https://mods.vintagestory.at/show/mod/12529</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12529#12529</guid>
-    <pubDate>Sun, 18 Oct 2026 07:38:50 -0000</pubDate>
-    <description>Real cellar doors. Any sealed space underground keeps food like a cellar, however big or deep.</description>
+    <title>Better Than Boats</title>
+    <link>https://mods.vintagestory.at/show/mod/11810</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11810#11810</guid>
+    <pubDate>Sun, 18 Oct 2026 17:06:49 -0000</pubDate>
+    <description>A Minecraft's Better Than Wolves reimagining inside Vintage Story.</description>
+  </item>
+  <item>
+    <title>中国罗盘（Chinese Compass）</title>
+    <link>https://mods.vintagestory.at/show/mod/chinesecompass</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chinesecompass#12302</guid>
+    <pubDate>Sun, 18 Oct 2026 16:58:39 -0000</pubDate>
+    <description>For Chinese community servers only.（Chinese Compass）</description>
+  </item>
+  <item>
+    <title>Equus: Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/equusponies</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusponies#12512</guid>
+    <pubDate>Sun, 18 Oct 2026 16:55:25 -0000</pubDate>
+    <description>Ponies for small folk, donkeys and mules, voices for every horse, and a saddle seat for every race.</description>
+  </item>
+  <item>
+    <title>Axle in blocks</title>
+    <link>https://mods.vintagestory.at/show/mod/axleinblocks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/axleinblocks#441</guid>
+    <pubDate>Sun, 18 Oct 2026 16:51:17 -0000</pubDate>
+    <description>Allows hide axles, gears and transmission inside bricks, dry stone and wooden planks.</description>
+  </item>
+  <item>
+    <title>Ruin Respawn Voucher</title>
+    <link>https://mods.vintagestory.at/show/mod/ruinvoucher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ruinvoucher#12663</guid>
+    <pubDate>Sun, 18 Oct 2026 16:41:44 -0000</pubDate>
+    <description>Ruin Respawn Voucher for The Noble Orchard SMP</description>
+  </item>
+  <item>
+    <title>Living Fire</title>
+    <link>https://mods.vintagestory.at/show/mod/12614</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12614#12614</guid>
+    <pubDate>Sun, 18 Oct 2026 16:37:27 -0000</pubDate>
+    <description>Persistent embers, tinder relighting and ash covering for vanilla firepits.</description>
+  </item>
+  <item>
+    <title>eViSTool — Linux</title>
+    <link>https://mods.vintagestory.at/show/mod/evistoollinux</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoollinux#12414</guid>
+    <pubDate>Sun, 18 Oct 2026 16:21:51 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>eViSTool — Windows</title>
+    <link>https://mods.vintagestory.at/show/mod/evistoolwin</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoolwin#12228</guid>
+    <pubDate>Sun, 18 Oct 2026 16:21:26 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>Boric Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Sun, 18 Oct 2026 16:13:16 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
+  </item>
+  <item>
+    <title>火箭（Fire Arrows）</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnfirearrows</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnfirearrows#12657</guid>
+    <pubDate>Sun, 18 Oct 2026 16:11:17 -0000</pubDate>
+    <description>For Chinese community servers only（Fire Arrows）</description>
+  </item>
+  <item>
+    <title>Add Some Paths</title>
+    <link>https://mods.vintagestory.at/show/mod/addsomepaths</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/addsomepaths#12511</guid>
+    <pubDate>Sun, 18 Oct 2026 15:39:26 -0000</pubDate>
+    <description>Adds gravel and packed dirt path blocks.</description>
+  </item>
+  <item>
+    <title>Add Some Salty Paths</title>
+    <link>https://mods.vintagestory.at/show/mod/addsomesaltypaths</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/addsomesaltypaths#12662</guid>
+    <pubDate>Sun, 18 Oct 2026 15:17:11 -0000</pubDate>
+    <description>Adds salty stone, gravel and packed dirt path blocks that don't get covered in snow.</description>
+  </item>
+  <item>
+    <title>Vintage Healing</title>
+    <link>https://mods.vintagestory.at/show/mod/vsheal</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsheal#11190</guid>
+    <pubDate>Sun, 18 Oct 2026 15:10:56 -0000</pubDate>
+    <description>Adds antiseptic, slow healing poultices and bandages.</description>
+  </item>
+  <item>
+    <title>C&amp;N Claims Extended</title>
+    <link>https://mods.vintagestory.at/show/mod/canclaimsextended</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canclaimsextended#12603</guid>
+    <pubDate>Sun, 18 Oct 2026 14:41:11 -0000</pubDate>
+    <description>Land protection mod.</description>
+  </item>
+  <item>
+    <title>Null Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/nullclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullclasses#12661</guid>
+    <pubDate>Sun, 18 Oct 2026 14:37:33 -0000</pubDate>
+    <description>Fourteen trades, freely chosen. Your class is what others need from you; any can be earned.</description>
+  </item>
+  <item>
+    <title>Null Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/nullskills</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullskills#12660</guid>
+    <pubDate>Sun, 18 Oct 2026 14:37:28 -0000</pubDate>
+    <description>A maintained fork of XLib and XSkills for 1.22: thirteen skill trees, 185 abilities.</description>
+  </item>
+  <item>
+    <title>Null Arts</title>
+    <link>https://mods.vintagestory.at/show/mod/nullarts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullarts#12659</guid>
+    <pubDate>Sun, 18 Oct 2026 14:36:09 -0000</pubDate>
+    <description>The breeding ladder for the four crops it never covered: fennel, cassava, pineapple, licorice.</description>
+  </item>
+  <item>
+    <title>Null Smithy</title>
+    <link>https://mods.vintagestory.at/show/mod/nullsmithy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullsmithy#12658</guid>
+    <pubDate>Sun, 18 Oct 2026 14:36:04 -0000</pubDate>
+    <description>Makes the smith load-bearing: every metal tool needs a seasoned haft and a forged rivet.</description>
+  </item>
+  <item>
+    <title>Good Hunting</title>
+    <link>https://mods.vintagestory.at/show/mod/4050</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4050#4050</guid>
+    <pubDate>Sun, 18 Oct 2026 14:35:14 -0000</pubDate>
+    <description>Buffed and varied vanilla drops for animals for realism.</description>
+  </item>
+  <item>
+    <title>VSA_API</title>
+    <link>https://mods.vintagestory.at/show/mod/9139</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9139#9139</guid>
+    <pubDate>Sun, 18 Oct 2026 14:33:51 -0000</pubDate>
+    <description>VSA API</description>
   </item>
 </channel>
 </rss>
