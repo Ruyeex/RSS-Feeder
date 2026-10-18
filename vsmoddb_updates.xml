@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 18 Oct 2026 00:41:56 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 05:31:08 +0000</lastBuildDate>
+  <item>
+    <title>Ancient Forest Armor Uranium Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/ancientforestarmoruranium</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancientforestarmoruranium#11976</guid>
+    <pubDate>Sun, 18 Oct 2026 05:14:39 -0000</pubDate>
+    <description>Expansion to Ancient Forest Armor to add a Uranium Steel variant with glow in the dark trim</description>
+  </item>
+  <item>
+    <title>Shipworks+</title>
+    <link>https://mods.vintagestory.at/show/mod/12650</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12650#12650</guid>
+    <pubDate>Sun, 18 Oct 2026 03:51:29 -0000</pubDate>
+    <description>Design and build your own walkable ship, mast by mast and sail by sail, then sail it by the wind.</description>
+  </item>
+  <item>
+    <title>The Almanac: Illuminated</title>
+    <link>https://mods.vintagestory.at/show/mod/almanacilluminated</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanacilluminated#10454</guid>
+    <pubDate>Sun, 18 Oct 2026 03:51:04 -0000</pubDate>
+    <description>A living questbook opened with Alt+J. Chapters appear only for the mods you have loaded.</description>
+  </item>
+  <item>
+    <title>VSCN 文明模拟主模组</title>
+    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
+    <pubDate>Sun, 18 Oct 2026 03:16:17 -0000</pubDate>
+    <description>For Chinese community servers only（Civilization Simulation）</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Sun, 18 Oct 2026 02:48:55 -0000</pubDate>
+    <description>Gives tamed animals personalities, backpacks, duties, talents, breeding, and expeditions.</description>
+  </item>
+  <item>
+    <title>Wilderlands Caves</title>
+    <link>https://mods.vintagestory.at/show/mod/5356</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5356#5356</guid>
+    <pubDate>Sun, 18 Oct 2026 02:47:41 -0000</pubDate>
+    <description>Fundamentally overhauls cave generation, while keeping vanilla caves at configurable rates.</description>
+  </item>
+  <item>
+    <title>ND Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/11622</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11622#11622</guid>
+    <pubDate>Sun, 18 Oct 2026 02:44:32 -0000</pubDate>
+    <description>ND mulitple mod patches</description>
+  </item>
+  <item>
+    <title>Vintage Fantasy</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagefantasy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagefantasy#12418</guid>
+    <pubDate>Sun, 18 Oct 2026 02:37:24 -0000</pubDate>
+    <description>Whole buncha random shit to make the 194+ mods of the server not murder each other in their sleep</description>
+  </item>
+  <item>
+    <title>Seraph's Fortune</title>
+    <link>https://mods.vintagestory.at/show/mod/seraphsfortune</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphsfortune#12592</guid>
+    <pubDate>Sun, 18 Oct 2026 02:22:48 -0000</pubDate>
+    <description>Property-trading board game for 2–6 players: bots, trades, auctions, turn clock and spectators.</description>
+  </item>
+  <item>
+    <title>Dar's Server Utilities</title>
+    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
+    <pubDate>Sun, 18 Oct 2026 02:10:40 -0000</pubDate>
+    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
+  </item>
+  <item>
+    <title>Questline</title>
+    <link>https://mods.vintagestory.at/show/mod/questline</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/questline#12495</guid>
+    <pubDate>Sun, 18 Oct 2026 01:57:59 -0000</pubDate>
+    <description>A quest book covering all of vanilla in 322 quests, with automatic task tracking and rewards</description>
+  </item>
+  <item>
+    <title>Smooth Stone Paths</title>
+    <link>https://mods.vintagestory.at/show/mod/smoothstonepaths</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smoothstonepaths#12523</guid>
+    <pubDate>Sun, 18 Oct 2026 01:19:02 -0000</pubDate>
+    <description>Stone paths soften and blend into neighboring grass, sand and dirt instead of ending in a hard edge.</description>
+  </item>
   <item>
     <title>eViSTool — Linux</title>
     <link>https://mods.vintagestory.at/show/mod/evistoollinux</link>
@@ -48,25 +132,11 @@
     <description>Ahoy is a basic Vintage Story mod that adds simple arcade style sailing mechanics to the game.</description>
   </item>
   <item>
-    <title>Questline</title>
-    <link>https://mods.vintagestory.at/show/mod/questline</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/questline#12495</guid>
-    <pubDate>Sat, 17 Oct 2026 23:15:58 -0000</pubDate>
-    <description>A quest book covering all of vanilla in 322 quests, with automatic task tracking and rewards</description>
-  </item>
-  <item>
     <title>Gondola Cable Car</title>
     <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
     <pubDate>Sat, 17 Oct 2026 22:55:01 -0000</pubDate>
     <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>Vintage Fantasy</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagefantasy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagefantasy#12418</guid>
-    <pubDate>Sat, 17 Oct 2026 22:44:30 -0000</pubDate>
-    <description>Whole buncha random shit to make the 194+ mods of the server not murder each other in their sleep</description>
   </item>
   <item>
     <title>TheStoneCoreAdminControl</title>
@@ -118,13 +188,6 @@
     <description>Evocation, the power to summon spirits from the underworld and enchant items</description>
   </item>
   <item>
-    <title>Seraph's Fortune</title>
-    <link>https://mods.vintagestory.at/show/mod/seraphsfortune</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphsfortune#12592</guid>
-    <pubDate>Sat, 17 Oct 2026 21:11:03 -0000</pubDate>
-    <description>Property-trading board game for 2–6 players: bots, trades, auctions, turn clock and spectators.</description>
-  </item>
-  <item>
     <title>C&amp;N Fireworks</title>
     <link>https://mods.vintagestory.at/show/mod/12632</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12632#12632</guid>
@@ -146,74 +209,11 @@
     <description>Adds the world side of Geology Expansion: volcanoes, gems, vugs, &amp; more</description>
   </item>
   <item>
-    <title>The Almanac: Illuminated</title>
-    <link>https://mods.vintagestory.at/show/mod/almanacilluminated</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanacilluminated#10454</guid>
-    <pubDate>Sat, 17 Oct 2026 20:50:43 -0000</pubDate>
-    <description>A living questbook opened with Alt+J. Chapters appear only for the mods you have loaded.</description>
-  </item>
-  <item>
     <title>The Quire Patches</title>
     <link>https://mods.vintagestory.at/show/mod/tqp</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tqp#10455</guid>
     <pubDate>Sat, 17 Oct 2026 20:50:05 -0000</pubDate>
     <description>Cohesion patches and a pack guide that keep the Almanac's loaded mod set seamless.</description>
-  </item>
-  <item>
-    <title>The Almanac: Trades, Callings &amp; Mastery</title>
-    <link>https://mods.vintagestory.at/show/mod/almanactcm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanactcm#10453</guid>
-    <pubDate>Sat, 17 Oct 2026 20:49:03 -0000</pubDate>
-    <description>Twenty-two trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
-  </item>
-  <item>
-    <title>Sign Fonts</title>
-    <link>https://mods.vintagestory.at/show/mod/12621</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12621#12621</guid>
-    <pubDate>Sat, 17 Oct 2026 20:39:55 -0000</pubDate>
-    <description>Choose fonts for individual signs, with live previews and automatic Windows font discovery.</description>
-  </item>
-  <item>
-    <title>QaSSlingRendererFix</title>
-    <link>https://mods.vintagestory.at/show/mod/12640</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12640#12640</guid>
-    <pubDate>Sat, 17 Oct 2026 20:17:26 -0000</pubDate>
-    <description>Fixes weapons carried on slings lagging behind the player while moving</description>
-  </item>
-  <item>
-    <title>Advanced Geology</title>
-    <link>https://mods.vintagestory.at/show/mod/advancedgeology</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedgeology#7167</guid>
-    <pubDate>Sat, 17 Oct 2026 20:06:54 -0000</pubDate>
-    <description>Total overhaul of vanilla oregen and adds many new rocks and minerals</description>
-  </item>
-  <item>
-    <title>套索</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnroping</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnroping#12308</guid>
-    <pubDate>Sat, 17 Oct 2026 20:06:09 -0000</pubDate>
-    <description>For Chinese community servers only（roping）</description>
-  </item>
-  <item>
-    <title>Charcoal From Bamboo</title>
-    <link>https://mods.vintagestory.at/show/mod/12639</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12639#12639</guid>
-    <pubDate>Sat, 17 Oct 2026 19:44:10 -0000</pubDate>
-    <description>AI mod that allows bamboo in charcoal pits</description>
-  </item>
-  <item>
-    <title>𝓦𝓻𝓲𝓽𝓽𝓮𝓷 𝓦𝓸𝓻𝓭 - parchment and book overhaul</title>
-    <link>https://mods.vintagestory.at/show/mod/writtenword</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/writtenword#12602</guid>
-    <pubDate>Sat, 17 Oct 2026 19:27:32 -0000</pubDate>
-    <description>Parchment and book overhaul. Parchments can be placed on walls, adds nickname-only signatures</description>
-  </item>
-  <item>
-    <title>Rot Bin</title>
-    <link>https://mods.vintagestory.at/show/mod/10779</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10779#10779</guid>
-    <pubDate>Sat, 17 Oct 2026 19:25:49 -0000</pubDate>
-    <description>Rot food and age alcohol.</description>
   </item>
 </channel>
 </rss>
