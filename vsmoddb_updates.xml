@@ -4,7 +4,77 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 18 Oct 2026 20:16:59 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 22:51:22 +0000</lastBuildDate>
+  <item>
+    <title>NDL ExpandedGrowth (Tree Growth Module)</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthtrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthtrees#5697</guid>
+    <pubDate>Sun, 18 Oct 2026 22:34:29 -0000</pubDate>
+    <description>Adds a method for growing larger variants of trees.</description>
+  </item>
+  <item>
+    <title>WeaponDamageProficiencies</title>
+    <link>https://mods.vintagestory.at/show/mod/6810</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6810#6810</guid>
+    <pubDate>Sun, 18 Oct 2026 22:32:26 -0000</pubDate>
+    <description>Converts weapon proficiencies in Combat Overhaul from attack speed to damage</description>
+  </item>
+  <item>
+    <title>Colonial Firearms Reload Animations</title>
+    <link>https://mods.vintagestory.at/show/mod/12618</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12618#12618</guid>
+    <pubDate>Sun, 18 Oct 2026 22:17:29 -0000</pubDate>
+    <description>Reload animations for double-barrel shotgun and webley revolver from Colonial Firearms.</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/almanactcm</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanactcm#10453</guid>
+    <pubDate>Sun, 18 Oct 2026 22:09:27 -0000</pubDate>
+    <description>Twenty-two trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>Fish Breeding!</title>
+    <link>https://mods.vintagestory.at/show/mod/moth</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moth#12667</guid>
+    <pubDate>Sun, 18 Oct 2026 22:04:49 -0000</pubDate>
+    <description>A mod that allows you to breed fish using any type of grain!</description>
+  </item>
+  <item>
+    <title>Smart TV</title>
+    <link>https://mods.vintagestory.at/show/mod/smarttv</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smarttv#12250</guid>
+    <pubDate>Sun, 18 Oct 2026 21:45:35 -0000</pubDate>
+    <description>This mod adds a flat screen wall mounted tv that is resizable. Only available in the creative menu</description>
+  </item>
+  <item>
+    <title>Moonlit Mounts</title>
+    <link>https://mods.vintagestory.at/show/mod/moonlitmounts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmounts#12666</guid>
+    <pubDate>Sun, 18 Oct 2026 21:17:42 -0000</pubDate>
+    <description>ridable fantasy creatures</description>
+  </item>
+  <item>
+    <title>SpecialisedClassesTweak</title>
+    <link>https://mods.vintagestory.at/show/mod/12216</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12216#12216</guid>
+    <pubDate>Sun, 18 Oct 2026 21:01:33 -0000</pubDate>
+    <description>Removed a few class recipes for a specific server</description>
+  </item>
+  <item>
+    <title>Tillerworks</title>
+    <link>https://mods.vintagestory.at/show/mod/10128</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10128#10128</guid>
+    <pubDate>Sun, 18 Oct 2026 20:29:25 -0000</pubDate>
+    <description>Drivable tractors and towable farming trailers with installable engines, wheels, and homemade fuel.</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Sun, 18 Oct 2026 20:18:08 -0000</pubDate>
+    <description>Build a rideable cable car network in Vintage Story</description>
+  </item>
   <item>
     <title>Colonial Firearms</title>
     <link>https://mods.vintagestory.at/show/mod/colonialfirearms</link>
@@ -144,76 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eriadorchronicles#9320</guid>
     <pubDate>Sun, 18 Oct 2026 17:26:57 -0000</pubDate>
     <description>A collection of custom items, recipes, and other patches for the Kingdom of Eriador VS server.</description>
-  </item>
-  <item>
-    <title>Classes of Eriador</title>
-    <link>https://mods.vintagestory.at/show/mod/eriadorclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eriadorclasses#9321</guid>
-    <pubDate>Sun, 18 Oct 2026 17:23:56 -0000</pubDate>
-    <description>A collection of custom classes for the Kingdom of Eriador Vintagestory server.</description>
-  </item>
-  <item>
-    <title>简单语音聊天</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Sun, 18 Oct 2026 17:23:34 -0000</pubDate>
-    <description>For Chinese community servers only（Voice Chat Mod）</description>
-  </item>
-  <item>
-    <title>JavaCo Industrial Additions!</title>
-    <link>https://mods.vintagestory.at/show/mod/javacomotorcar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/javacomotorcar#12535</guid>
-    <pubDate>Sun, 18 Oct 2026 17:20:31 -0000</pubDate>
-    <description>JavaCo brings you all the amenities of modern life!</description>
-  </item>
-  <item>
-    <title>C4B Traducciones-ES ► MODS</title>
-    <link>https://mods.vintagestory.at/show/mod/c4btraduccionesmods</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/c4btraduccionesmods#2720</guid>
-    <pubDate>Sun, 18 Oct 2026 17:17:48 -0000</pubDate>
-    <description>Traducción de (más de 230) Mods en Español-ES</description>
-  </item>
-  <item>
-    <title>Gondola Cable Car</title>
-    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Sun, 18 Oct 2026 17:15:32 -0000</pubDate>
-    <description>Build a rideable cable car network in Vintage Story</description>
-  </item>
-  <item>
-    <title>Floral Cordages</title>
-    <link>https://mods.vintagestory.at/show/mod/fzcordage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fzcordage#12664</guid>
-    <pubDate>Sun, 18 Oct 2026 17:11:56 -0000</pubDate>
-    <description>Can now use fiber plants from Floral Zones to craft the cordage of Primitive Survival</description>
-  </item>
-  <item>
-    <title>Better Than Boats</title>
-    <link>https://mods.vintagestory.at/show/mod/11810</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11810#11810</guid>
-    <pubDate>Sun, 18 Oct 2026 17:06:49 -0000</pubDate>
-    <description>A Minecraft's Better Than Wolves reimagining inside Vintage Story.</description>
-  </item>
-  <item>
-    <title>中国罗盘（Chinese Compass）</title>
-    <link>https://mods.vintagestory.at/show/mod/chinesecompass</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chinesecompass#12302</guid>
-    <pubDate>Sun, 18 Oct 2026 16:58:39 -0000</pubDate>
-    <description>For Chinese community servers only.（Chinese Compass）</description>
-  </item>
-  <item>
-    <title>Equus: Expanded</title>
-    <link>https://mods.vintagestory.at/show/mod/equusponies</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusponies#12512</guid>
-    <pubDate>Sun, 18 Oct 2026 16:55:25 -0000</pubDate>
-    <description>Ponies for small folk, donkeys and mules, voices for every horse, and a saddle seat for every race.</description>
-  </item>
-  <item>
-    <title>Axle in blocks</title>
-    <link>https://mods.vintagestory.at/show/mod/axleinblocks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/axleinblocks#441</guid>
-    <pubDate>Sun, 18 Oct 2026 16:51:17 -0000</pubDate>
-    <description>Allows hide axles, gears and transmission inside bricks, dry stone and wooden planks.</description>
   </item>
 </channel>
 </rss>
