@@ -4,7 +4,112 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 18 Oct 2026 22:51:22 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 00:54:52 +0000</lastBuildDate>
+  <item>
+    <title>CB Factions</title>
+    <link>https://mods.vintagestory.at/show/mod/9586</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9586#9586</guid>
+    <pubDate>Mon, 19 Oct 2026 00:52:48 -0000</pubDate>
+    <description>Settlement and factions mod</description>
+  </item>
+  <item>
+    <title>Seventh Night Zombies</title>
+    <link>https://mods.vintagestory.at/show/mod/12654</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12654#12654</guid>
+    <pubDate>Mon, 19 Oct 2026 00:51:44 -0000</pubDate>
+    <description>Survive the seventh-night zombie hordes: configurable waves, roaming zombies, Alpha Zombie</description>
+  </item>
+  <item>
+    <title>Dar's Admin Cosmetics</title>
+    <link>https://mods.vintagestory.at/show/mod/darsadmincosmetics</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darsadmincosmetics#12670</guid>
+    <pubDate>Mon, 19 Oct 2026 00:28:48 -0000</pubDate>
+    <description>Mod for Sundered Isles server</description>
+  </item>
+  <item>
+    <title>Real Smoke</title>
+    <link>https://mods.vintagestory.at/show/mod/realsmoke</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realsmoke#4591</guid>
+    <pubDate>Mon, 19 Oct 2026 00:24:18 -0000</pubDate>
+    <description>Physics-based smoke</description>
+  </item>
+  <item>
+    <title>Sign Fonts</title>
+    <link>https://mods.vintagestory.at/show/mod/12621</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12621#12621</guid>
+    <pubDate>Mon, 19 Oct 2026 00:18:12 -0000</pubDate>
+    <description>Choose fonts for individual signs, with live previews and automatic Windows font discovery.</description>
+  </item>
+  <item>
+    <title>Null Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/nullclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullclasses#12661</guid>
+    <pubDate>Mon, 19 Oct 2026 00:11:52 -0000</pubDate>
+    <description>Fourteen trades, freely chosen. Your class is what others need from you; any can be earned.</description>
+  </item>
+  <item>
+    <title>Null Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/nullskills</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullskills#12660</guid>
+    <pubDate>Mon, 19 Oct 2026 00:11:50 -0000</pubDate>
+    <description>A maintained fork of XLib and XSkills for 1.22: thirteen skill trees, 185 abilities.</description>
+  </item>
+  <item>
+    <title>Null Cartography</title>
+    <link>https://mods.vintagestory.at/show/mod/nullcartography</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullcartography#11877</guid>
+    <pubDate>Mon, 19 Oct 2026 00:11:47 -0000</pubDate>
+    <description>Survey the land by hand and draw your own charts. Pixels and bearings, never coordinates.</description>
+  </item>
+  <item>
+    <title>Null Compass</title>
+    <link>https://mods.vintagestory.at/show/mod/nullcompass</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullcompass#11863</guid>
+    <pubDate>Mon, 19 Oct 2026 00:11:45 -0000</pubDate>
+    <description>Three compasses and a temporal beacon that can be attuned. Bearings, never positions.</description>
+  </item>
+  <item>
+    <title>Null Smithy</title>
+    <link>https://mods.vintagestory.at/show/mod/nullsmithy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullsmithy#12658</guid>
+    <pubDate>Mon, 19 Oct 2026 00:11:42 -0000</pubDate>
+    <description>Makes the smith load-bearing: every metal tool needs a seasoned haft and a forged rivet.</description>
+  </item>
+  <item>
+    <title>Evocation</title>
+    <link>https://mods.vintagestory.at/show/mod/12641</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12641#12641</guid>
+    <pubDate>Sun, 18 Oct 2026 23:53:15 -0000</pubDate>
+    <description>Evocation, the power to summon spirits from the underworld and enchant items</description>
+  </item>
+  <item>
+    <title>Kvn's Dev Utitlities</title>
+    <link>https://mods.vintagestory.at/show/mod/12668</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12668#12668</guid>
+    <pubDate>Sun, 18 Oct 2026 23:52:49 -0000</pubDate>
+    <description>Adds a few commands to make manually debugging mods a bit easier.</description>
+  </item>
+  <item>
+    <title>Craftsmanship</title>
+    <link>https://mods.vintagestory.at/show/mod/11590</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11590#11590</guid>
+    <pubDate>Sun, 18 Oct 2026 23:42:44 -0000</pubDate>
+    <description>Over 1,000 new items, creatures and weapons added. Cannabis system, monster loot system and more,</description>
+  </item>
+  <item>
+    <title>Bespurr's Class Tweaks CO compat</title>
+    <link>https://mods.vintagestory.at/show/mod/12544</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12544#12544</guid>
+    <pubDate>Sun, 18 Oct 2026 23:27:07 -0000</pubDate>
+    <description>Combat overhaul compatible version of my class tweak mod.</description>
+  </item>
+  <item>
+    <title>WOO Fantasy Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
+    <pubDate>Sun, 18 Oct 2026 23:02:17 -0000</pubDate>
+    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
+  </item>
   <item>
     <title>NDL ExpandedGrowth (Tree Growth Module)</title>
     <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthtrees</link>
@@ -97,13 +202,6 @@
     <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
   </item>
   <item>
-    <title>Null Smithy</title>
-    <link>https://mods.vintagestory.at/show/mod/nullsmithy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullsmithy#12658</guid>
-    <pubDate>Sun, 18 Oct 2026 19:38:07 -0000</pubDate>
-    <description>Makes the smith load-bearing: every metal tool needs a seasoned haft and a forged rivet.</description>
-  </item>
-  <item>
     <title>Vampirism without cannibalism fork</title>
     <link>https://mods.vintagestory.at/show/mod/12024</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12024#12024</guid>
@@ -116,104 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoollinux#12414</guid>
     <pubDate>Sun, 18 Oct 2026 19:37:30 -0000</pubDate>
     <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
-  </item>
-  <item>
-    <title>eViSTool — Windows</title>
-    <link>https://mods.vintagestory.at/show/mod/evistoolwin</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoolwin#12228</guid>
-    <pubDate>Sun, 18 Oct 2026 19:36:56 -0000</pubDate>
-    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
-  </item>
-  <item>
-    <title>Questline</title>
-    <link>https://mods.vintagestory.at/show/mod/questline</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/questline#12495</guid>
-    <pubDate>Sun, 18 Oct 2026 19:32:48 -0000</pubDate>
-    <description>A quest book covering all of vanilla in 322 quests, with automatic task tracking and rewards</description>
-  </item>
-  <item>
-    <title>Parrots</title>
-    <link>https://mods.vintagestory.at/show/mod/12620</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12620#12620</guid>
-    <pubDate>Sun, 18 Oct 2026 19:30:56 -0000</pubDate>
-    <description>Adds 26 parrots to the game.</description>
-  </item>
-  <item>
-    <title>VSA - Replica</title>
-    <link>https://mods.vintagestory.at/show/mod/9115</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
-    <pubDate>Sun, 18 Oct 2026 19:21:46 -0000</pubDate>
-    <description> (Valkyrian Skies for VS basically) Build block-made moving ships and structures</description>
-  </item>
-  <item>
-    <title>Low Light Spawns</title>
-    <link>https://mods.vintagestory.at/show/mod/lowlightspawns</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lowlightspawns#6248</guid>
-    <pubDate>Sun, 18 Oct 2026 19:07:48 -0000</pubDate>
-    <description>Simple mod to change the light level at which all monsters spawn</description>
-  </item>
-  <item>
-    <title>The Critters Pack 1.22</title>
-    <link>https://mods.vintagestory.at/show/mod/8428</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8428#8428</guid>
-    <pubDate>Sun, 18 Oct 2026 19:06:56 -0000</pubDate>
-    <description>Updated fork of the critters pack with chiappo's approval.</description>
-  </item>
-  <item>
-    <title>𝓦𝓻𝓲𝓽𝓽𝓮𝓷 𝓦𝓸𝓻𝓭 - parchment and book overhaul</title>
-    <link>https://mods.vintagestory.at/show/mod/writtenword</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/writtenword#12602</guid>
-    <pubDate>Sun, 18 Oct 2026 19:06:16 -0000</pubDate>
-    <description>Parchment and book overhaul. Parchments can be placed on walls, adds nickname-only signatures</description>
-  </item>
-  <item>
-    <title>Wingworks</title>
-    <link>https://mods.vintagestory.at/show/mod/wingworks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wingworks#9998</guid>
-    <pubDate>Sun, 18 Oct 2026 19:05:43 -0000</pubDate>
-    <description>A mod which add flight capabilities for players with specific traits.</description>
-  </item>
-  <item>
-    <title>Glider Revamp (Drathon's Fork)</title>
-    <link>https://mods.vintagestory.at/show/mod/gliderrevampdrathon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gliderrevampdrathon#10567</guid>
-    <pubDate>Sun, 18 Oct 2026 18:16:28 -0000</pubDate>
-    <description>A fork of Hunter404's Glider Revamp updated to the most recent game version.</description>
-  </item>
-  <item>
-    <title>Ruin Respawn Voucher</title>
-    <link>https://mods.vintagestory.at/show/mod/ruinvoucher</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ruinvoucher#12663</guid>
-    <pubDate>Sun, 18 Oct 2026 18:00:02 -0000</pubDate>
-    <description>Ruin Respawn Voucher for The Noble Orchard SMP</description>
-  </item>
-  <item>
-    <title>xSkills Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7605</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
-    <pubDate>Sun, 18 Oct 2026 17:44:13 -0000</pubDate>
-    <description>RPG-style skill system with abilities, perks, and progression.</description>
-  </item>
-  <item>
-    <title>Bigger Cooking Pot!</title>
-    <link>https://mods.vintagestory.at/show/mod/12655</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12655#12655</guid>
-    <pubDate>Sun, 18 Oct 2026 17:36:47 -0000</pubDate>
-    <description>A mod that makes cooking pots larger!</description>
-  </item>
-  <item>
-    <title>Eriadorian Armory</title>
-    <link>https://mods.vintagestory.at/show/mod/eriadorianarmory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eriadorianarmory#9322</guid>
-    <pubDate>Sun, 18 Oct 2026 17:29:13 -0000</pubDate>
-    <description>A collection of custom weapons and armors for the Kingdom of Eriador Vintagestory server.</description>
-  </item>
-  <item>
-    <title>Chronicles of Eriador</title>
-    <link>https://mods.vintagestory.at/show/mod/eriadorchronicles</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eriadorchronicles#9320</guid>
-    <pubDate>Sun, 18 Oct 2026 17:26:57 -0000</pubDate>
-    <description>A collection of custom items, recipes, and other patches for the Kingdom of Eriador VS server.</description>
   </item>
 </channel>
 </rss>
