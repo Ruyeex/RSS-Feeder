@@ -4,7 +4,147 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 20 Oct 2026 19:01:13 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 22:59:50 +0000</lastBuildDate>
+  <item>
+    <title>Deciduous Trees</title>
+    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
+    <pubDate>Tue, 20 Oct 2026 22:56:38 -0000</pubDate>
+    <description>Lightweight mod where trees slowly shed their leaves based on temperature. MAJOR 2.0 UPDATE!</description>
+  </item>
+  <item>
+    <title>Metal Bowls Mod (for more bowls)</title>
+    <link>https://mods.vintagestory.at/show/mod/bowlmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bowlmod#9237</guid>
+    <pubDate>Tue, 20 Oct 2026 22:38:13 -0000</pubDate>
+    <description>Adds metal bowls</description>
+  </item>
+  <item>
+    <title>Seventh Night Zombies</title>
+    <link>https://mods.vintagestory.at/show/mod/12654</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12654#12654</guid>
+    <pubDate>Tue, 20 Oct 2026 22:25:08 -0000</pubDate>
+    <description>Zombie hordes: waves, roaming zombies, Alpha Zombies, Zombie Masks</description>
+  </item>
+  <item>
+    <title>Teapot's Undead Legion</title>
+    <link>https://mods.vintagestory.at/show/mod/teapotsundeadlegion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsundeadlegion#12711</guid>
+    <pubDate>Tue, 20 Oct 2026 22:16:57 -0000</pubDate>
+    <description>Armed undead Revenants roam the night. Bind your own with a Temporal Core and lead them to battle!</description>
+  </item>
+  <item>
+    <title>Esoterica</title>
+    <link>https://mods.vintagestory.at/show/mod/6087</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6087#6087</guid>
+    <pubDate>Tue, 20 Oct 2026 21:50:14 -0000</pubDate>
+    <description>A sixth history community license mod merging the lore from Cultist Simulator with Vintage Story.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
+    <pubDate>Tue, 20 Oct 2026 21:39:20 -0000</pubDate>
+    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
+  </item>
+  <item>
+    <title>Aldi's [Small Creature ADDITION]</title>
+    <link>https://mods.vintagestory.at/show/mod/6617</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6617#6617</guid>
+    <pubDate>Tue, 20 Oct 2026 21:39:10 -0000</pubDate>
+    <description>The perfect class for little brothers, girlfriends and such who just want to play with you!</description>
+  </item>
+  <item>
+    <title>(Slightly) Enhanced Thermokinetics </title>
+    <link>https://mods.vintagestory.at/show/mod/hottersmelting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hottersmelting#12519</guid>
+    <pubDate>Tue, 20 Oct 2026 21:30:46 -0000</pubDate>
+    <description>Smelting time now accounts for temperature above melting point and lowers time accordingly</description>
+  </item>
+  <item>
+    <title>eViSTool — Linux</title>
+    <link>https://mods.vintagestory.at/show/mod/evistoollinux</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoollinux#12414</guid>
+    <pubDate>Tue, 20 Oct 2026 21:29:27 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>eViSTool — Windows</title>
+    <link>https://mods.vintagestory.at/show/mod/evistoolwin</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoolwin#12228</guid>
+    <pubDate>Tue, 20 Oct 2026 21:29:22 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>Modular/Immersive Backpack Fixes</title>
+    <link>https://mods.vintagestory.at/show/mod/12376</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12376#12376</guid>
+    <pubDate>Tue, 20 Oct 2026 21:13:25 -0000</pubDate>
+    <description>Fixes for Modular Backpacks + Immersive Backpacks.</description>
+  </item>
+  <item>
+    <title>Story Forge</title>
+    <link>https://mods.vintagestory.at/show/mod/storyforge</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/storyforge#5894</guid>
+    <pubDate>Tue, 20 Oct 2026 21:05:51 -0000</pubDate>
+    <description>Story Forge: Vintage Story launcher optimized for Windows, macOS and Linux (even Steam Deck)</description>
+  </item>
+  <item>
+    <title>vintageparkserver</title>
+    <link>https://mods.vintagestory.at/show/mod/12437</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12437#12437</guid>
+    <pubDate>Tue, 20 Oct 2026 20:58:20 -0000</pubDate>
+    <description>Bringing in trees and things for our private server. </description>
+  </item>
+  <item>
+    <title>VSCN 文明模拟主模组（Civilization Simulation）</title>
+    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
+    <pubDate>Tue, 20 Oct 2026 20:37:56 -0000</pubDate>
+    <description>For Chinese community servers only（Civilization Simulation）</description>
+  </item>
+  <item>
+    <title>Ventilation Dynamics</title>
+    <link>https://mods.vintagestory.at/show/mod/12710</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12710#12710</guid>
+    <pubDate>Tue, 20 Oct 2026 20:36:58 -0000</pubDate>
+    <description>Manage mine air to avoid chokedamp or firedamp. Use vents, heat, masks, or duct routes to survive.</description>
+  </item>
+  <item>
+    <title>CB Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Tue, 20 Oct 2026 19:49:52 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
+  <item>
+    <title>Mastery Library</title>
+    <link>https://mods.vintagestory.at/show/mod/masterylib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/masterylib#12095</guid>
+    <pubDate>Tue, 20 Oct 2026 19:48:00 -0000</pubDate>
+    <description>Library for Titan Quest style skill system</description>
+  </item>
+  <item>
+    <title>WoNH Races</title>
+    <link>https://mods.vintagestory.at/show/mod/wonhraces</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wonhraces#12686</guid>
+    <pubDate>Tue, 20 Oct 2026 19:45:12 -0000</pubDate>
+    <description>This mod adds playable races for the World of New Horizons server.</description>
+  </item>
+  <item>
+    <title>Destaria Masteries</title>
+    <link>https://mods.vintagestory.at/show/mod/destariamasteries</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/destariamasteries#12096</guid>
+    <pubDate>Tue, 20 Oct 2026 19:44:17 -0000</pubDate>
+    <description>Skills for the Destaria Server</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Tue, 20 Oct 2026 19:22:19 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
   <item>
     <title>Wilderlands Winter</title>
     <link>https://mods.vintagestory.at/show/mod/12678</link>
@@ -34,13 +174,6 @@
     <description>Introduces new extreme weather events. Blizzards, sandstorms, tornadoes, hurricanes and more!</description>
   </item>
   <item>
-    <title>Esoterica</title>
-    <link>https://mods.vintagestory.at/show/mod/6087</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6087#6087</guid>
-    <pubDate>Tue, 20 Oct 2026 17:21:35 -0000</pubDate>
-    <description>A sixth history community license mod merging the lore from Cultist Simulator with Vintage Story.</description>
-  </item>
-  <item>
     <title>Cooking Recipe Locker</title>
     <link>https://mods.vintagestory.at/show/mod/12428</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12428#12428</guid>
@@ -62,25 +195,11 @@
     <description>Addon for GiMap. Has a 2 maps: caves and ores.</description>
   </item>
   <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Tue, 20 Oct 2026 16:30:01 -0000</pubDate>
-    <description>Lightweight mod where trees slowly shed their leaves based on temperature. MAJOR 2.0 UPDATE!</description>
-  </item>
-  <item>
     <title>Null Skills</title>
     <link>https://mods.vintagestory.at/show/mod/nullskills</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullskills#12660</guid>
     <pubDate>Tue, 20 Oct 2026 16:19:12 -0000</pubDate>
     <description>A maintained fork of XLib and XSkills for 1.22: thirteen skill trees, 185 abilities.</description>
-  </item>
-  <item>
-    <title>VSCN 文明模拟主模组（Civilization Simulation）</title>
-    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
-    <pubDate>Tue, 20 Oct 2026 16:16:26 -0000</pubDate>
-    <description>For Chinese community servers only（Civilization Simulation）</description>
   </item>
   <item>
     <title>For Days to Come - Modpack</title>
@@ -95,125 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersiveminingtweak#12706</guid>
     <pubDate>Tue, 20 Oct 2026 16:02:36 -0000</pubDate>
     <description>Adjusted the tool animation speed in Immersive Mining to make it a little faster.</description>
-  </item>
-  <item>
-    <title>Stone Rift Idol</title>
-    <link>https://mods.vintagestory.at/show/mod/12108</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12108#12108</guid>
-    <pubDate>Tue, 20 Oct 2026 15:47:13 -0000</pubDate>
-    <description>A magic idol warding Temporal Rifts; grants powers when carried off-hand / RIFT BREAKER</description>
-  </item>
-  <item>
-    <title>VSCN 服务器改进模组的模组（Mod Fix Mod）</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
-    <pubDate>Tue, 20 Oct 2026 15:37:11 -0000</pubDate>
-    <description>For Chinese community servers only（Mod Fix Mod）</description>
-  </item>
-  <item>
-    <title>Wilderlands Caves</title>
-    <link>https://mods.vintagestory.at/show/mod/5356</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5356#5356</guid>
-    <pubDate>Tue, 20 Oct 2026 15:14:15 -0000</pubDate>
-    <description>Fundamentally overhauls cave generation, while keeping vanilla caves at configurable rates.</description>
-  </item>
-  <item>
-    <title>Aldi's Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/aldiclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aldiclasses#5327</guid>
-    <pubDate>Tue, 20 Oct 2026 14:57:54 -0000</pubDate>
-    <description>An extremely stable, compatible, uninvasive and customizable classes mod!</description>
-  </item>
-  <item>
-    <title>Rudiments</title>
-    <link>https://mods.vintagestory.at/show/mod/9305</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
-    <pubDate>Tue, 20 Oct 2026 14:44:49 -0000</pubDate>
-    <description>Pre-industrial craft, done properly. Fibre, clay, kilns— one step at a time.</description>
-  </item>
-  <item>
-    <title>Null Smithy</title>
-    <link>https://mods.vintagestory.at/show/mod/nullsmithy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullsmithy#12658</guid>
-    <pubDate>Tue, 20 Oct 2026 14:17:58 -0000</pubDate>
-    <description>Makes the smith load-bearing: every metal tool needs a seasoned haft and a forged rivet.</description>
-  </item>
-  <item>
-    <title>Null Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/nullclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullclasses#12661</guid>
-    <pubDate>Tue, 20 Oct 2026 14:17:55 -0000</pubDate>
-    <description>Fourteen trades, freely chosen. Your class is what others need from you; any can be earned.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy (Halloween Treat Bag Event)</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Tue, 20 Oct 2026 14:02:13 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
-  </item>
-  <item>
-    <title>Recipebook - Trait-locked recipes tab</title>
-    <link>https://mods.vintagestory.at/show/mod/11047</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11047#11047</guid>
-    <pubDate>Tue, 20 Oct 2026 13:40:58 -0000</pubDate>
-    <description>Adds a Recipes tab to the survival handbook, listing every trait-locked recipe grouped by trait.</description>
-  </item>
-  <item>
-    <title>Holdfast</title>
-    <link>https://mods.vintagestory.at/show/mod/holdfast</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/holdfast#10247</guid>
-    <pubDate>Tue, 20 Oct 2026 13:39:21 -0000</pubDate>
-    <description>Found a town. Hire workers. Watch it grow one building at a time.</description>
-  </item>
-  <item>
-    <title>ClientFix</title>
-    <link>https://mods.vintagestory.at/show/mod/12597</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12597#12597</guid>
-    <pubDate>Tue, 20 Oct 2026 12:58:37 -0000</pubDate>
-    <description>Fixes for SKUFEU server</description>
-  </item>
-  <item>
-    <title>RequiresTraitFix</title>
-    <link>https://mods.vintagestory.at/show/mod/10094</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10094#10094</guid>
-    <pubDate>Tue, 20 Oct 2026 12:55:50 -0000</pubDate>
-    <description>Fixes the requiresTrait recipe property never being synced for non-grid recipes</description>
-  </item>
-  <item>
-    <title>Aged Oak Log Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/12703</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12703#12703</guid>
-    <pubDate>Tue, 20 Oct 2026 12:37:20 -0000</pubDate>
-    <description>I couldn't find a mod that makes getting aged logs easier so i made my own.</description>
-  </item>
-  <item>
-    <title>Null Arts</title>
-    <link>https://mods.vintagestory.at/show/mod/nullarts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullarts#12659</guid>
-    <pubDate>Tue, 20 Oct 2026 12:23:16 -0000</pubDate>
-    <description>The breeding ladder for the four crops it never covered: fennel, cassava, pineapple, licorice.</description>
-  </item>
-  <item>
-    <title>CB Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Tue, 20 Oct 2026 12:04:13 -0000</pubDate>
-    <description>Harmony patches for compatibility.</description>
-  </item>
-  <item>
-    <title>Reinforced Tool Belt</title>
-    <link>https://mods.vintagestory.at/show/mod/reinforcedtoolbelt</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/reinforcedtoolbelt#12598</guid>
-    <pubDate>Tue, 20 Oct 2026 10:37:35 -0000</pubDate>
-    <description>Store up to 8 tools in your Reinforced Tool Belt and switch quickly with a hotkey wheel!</description>
-  </item>
-  <item>
-    <title>Moonlit Mounts</title>
-    <link>https://mods.vintagestory.at/show/mod/moonlitmounts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmounts#12666</guid>
-    <pubDate>Tue, 20 Oct 2026 10:09:01 -0000</pubDate>
-    <description>ridable fantasy creatures</description>
   </item>
 </channel>
 </rss>
