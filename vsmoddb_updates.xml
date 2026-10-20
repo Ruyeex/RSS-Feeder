@@ -4,7 +4,112 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 20 Oct 2026 09:50:46 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 14:47:58 +0000</lastBuildDate>
+  <item>
+    <title>Rudiments</title>
+    <link>https://mods.vintagestory.at/show/mod/9305</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
+    <pubDate>Tue, 20 Oct 2026 14:44:49 -0000</pubDate>
+    <description>Pre-industrial craft, done properly. Fibre, clay, kilns— one step at a time.</description>
+  </item>
+  <item>
+    <title>Null Smithy</title>
+    <link>https://mods.vintagestory.at/show/mod/nullsmithy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullsmithy#12658</guid>
+    <pubDate>Tue, 20 Oct 2026 14:17:58 -0000</pubDate>
+    <description>Makes the smith load-bearing: every metal tool needs a seasoned haft and a forged rivet.</description>
+  </item>
+  <item>
+    <title>Null Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/nullclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullclasses#12661</guid>
+    <pubDate>Tue, 20 Oct 2026 14:17:55 -0000</pubDate>
+    <description>Fourteen trades, freely chosen. Your class is what others need from you; any can be earned.</description>
+  </item>
+  <item>
+    <title>Null Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/nullskills</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullskills#12660</guid>
+    <pubDate>Tue, 20 Oct 2026 14:17:53 -0000</pubDate>
+    <description>A maintained fork of XLib and XSkills for 1.22: thirteen skill trees, 185 abilities.</description>
+  </item>
+  <item>
+    <title>Boric Alchemy (Halloween Treat Bag Event)</title>
+    <link>https://mods.vintagestory.at/show/mod/5577</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
+    <pubDate>Tue, 20 Oct 2026 14:02:13 -0000</pubDate>
+    <description>Welcome to the alchemists' guild &lt;3 </description>
+  </item>
+  <item>
+    <title>VSCN 文明模拟主模组（Civilization Simulation）</title>
+    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
+    <pubDate>Tue, 20 Oct 2026 13:42:30 -0000</pubDate>
+    <description>For Chinese community servers only（Civilization Simulation）</description>
+  </item>
+  <item>
+    <title>Recipebook - Trait-locked recipes tab</title>
+    <link>https://mods.vintagestory.at/show/mod/11047</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11047#11047</guid>
+    <pubDate>Tue, 20 Oct 2026 13:40:58 -0000</pubDate>
+    <description>Adds a Recipes tab to the survival handbook, listing every trait-locked recipe grouped by trait.</description>
+  </item>
+  <item>
+    <title>Holdfast</title>
+    <link>https://mods.vintagestory.at/show/mod/holdfast</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/holdfast#10247</guid>
+    <pubDate>Tue, 20 Oct 2026 13:39:21 -0000</pubDate>
+    <description>Found a town. Hire workers. Watch it grow one building at a time.</description>
+  </item>
+  <item>
+    <title>ClientFix</title>
+    <link>https://mods.vintagestory.at/show/mod/12597</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12597#12597</guid>
+    <pubDate>Tue, 20 Oct 2026 12:58:37 -0000</pubDate>
+    <description>Fixes for SKUFEU server</description>
+  </item>
+  <item>
+    <title>RequiresTraitFix</title>
+    <link>https://mods.vintagestory.at/show/mod/10094</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10094#10094</guid>
+    <pubDate>Tue, 20 Oct 2026 12:55:50 -0000</pubDate>
+    <description>Fixes the requiresTrait recipe property never being synced for non-grid recipes</description>
+  </item>
+  <item>
+    <title>Aged Oak Log Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/12703</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12703#12703</guid>
+    <pubDate>Tue, 20 Oct 2026 12:37:20 -0000</pubDate>
+    <description>I couldn't find a mod that makes getting aged logs easier so i made my own.</description>
+  </item>
+  <item>
+    <title>Null Arts</title>
+    <link>https://mods.vintagestory.at/show/mod/nullarts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullarts#12659</guid>
+    <pubDate>Tue, 20 Oct 2026 12:23:16 -0000</pubDate>
+    <description>The breeding ladder for the four crops it never covered: fennel, cassava, pineapple, licorice.</description>
+  </item>
+  <item>
+    <title>CB Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Tue, 20 Oct 2026 12:04:13 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
+  <item>
+    <title>Reinforced Tool Belt</title>
+    <link>https://mods.vintagestory.at/show/mod/reinforcedtoolbelt</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/reinforcedtoolbelt#12598</guid>
+    <pubDate>Tue, 20 Oct 2026 10:37:35 -0000</pubDate>
+    <description>Store up to 8 tools in your Reinforced Tool Belt and switch quickly with a hotkey wheel!</description>
+  </item>
+  <item>
+    <title>Moonlit Mounts</title>
+    <link>https://mods.vintagestory.at/show/mod/moonlitmounts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonlitmounts#12666</guid>
+    <pubDate>Tue, 20 Oct 2026 10:09:01 -0000</pubDate>
+    <description>ridable fantasy creatures</description>
+  </item>
   <item>
     <title>VSCN 服务器改进模组的模组（Mod Fix Mod）</title>
     <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
@@ -109,111 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kyuubs#5106</guid>
     <pubDate>Tue, 20 Oct 2026 07:09:31 -0000</pubDate>
     <description>Blocks for your building and chiseling needs!</description>
-  </item>
-  <item>
-    <title>CB Nametags</title>
-    <link>https://mods.vintagestory.at/show/mod/10460</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10460#10460</guid>
-    <pubDate>Tue, 20 Oct 2026 05:58:52 -0000</pubDate>
-    <description>Nametag mod for more customization</description>
-  </item>
-  <item>
-    <title>WoNH Races</title>
-    <link>https://mods.vintagestory.at/show/mod/wonhraces</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wonhraces#12686</guid>
-    <pubDate>Tue, 20 Oct 2026 05:48:45 -0000</pubDate>
-    <description>This mod adds playable races for the World of New Horizons server.</description>
-  </item>
-  <item>
-    <title>Seed Drop Rate Increase</title>
-    <link>https://mods.vintagestory.at/show/mod/seeddroprate</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seeddroprate#3464</guid>
-    <pubDate>Tue, 20 Oct 2026 05:25:07 -0000</pubDate>
-    <description>Alywas wanted to expand your garden faster? Now you can! Seed Drop Rate Increased.</description>
-  </item>
-  <item>
-    <title>Rhyzome Bread</title>
-    <link>https://mods.vintagestory.at/show/mod/rhyzomebread</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rhyzomebread#12699</guid>
-    <pubDate>Tue, 20 Oct 2026 05:12:47 -0000</pubDate>
-    <description>Rhyzome Bread for everyone :)</description>
-  </item>
-  <item>
-    <title>Aegis Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/classes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/classes#12698</guid>
-    <pubDate>Tue, 20 Oct 2026 05:02:32 -0000</pubDate>
-    <description>Custom character classes for Aegis Networks servers.</description>
-  </item>
-  <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Tue, 20 Oct 2026 04:58:47 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Tue, 20 Oct 2026 04:25:18 -0000</pubDate>
-    <description>Gives tamed animals personalities, backpacks, duties, talents, breeding, and expeditions.</description>
-  </item>
-  <item>
-    <title>Boat Owner Lock</title>
-    <link>https://mods.vintagestory.at/show/mod/12697</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12697#12697</guid>
-    <pubDate>Tue, 20 Oct 2026 03:52:13 -0000</pubDate>
-    <description>Lock up your boats!</description>
-  </item>
-  <item>
-    <title>Server Remote Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/12696</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12696#12696</guid>
-    <pubDate>Tue, 20 Oct 2026 03:26:10 -0000</pubDate>
-    <description>Player-bound remote storage with customizable limits, bulk item storage, and admin controls.</description>
-  </item>
-  <item>
-    <title>Halloween Haunt</title>
-    <link>https://mods.vintagestory.at/show/mod/12695</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12695#12695</guid>
-    <pubDate>Tue, 20 Oct 2026 03:18:55 -0000</pubDate>
-    <description>Old Hollow Jack brings pumpkin tricks and treats. Find them and discover the surprises!</description>
-  </item>
-  <item>
-    <title>Chart Sync</title>
-    <link>https://mods.vintagestory.at/show/mod/12421</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12421#12421</guid>
-    <pubDate>Tue, 20 Oct 2026 03:18:45 -0000</pubDate>
-    <description>A mod that lets you place maps in the world, and Sync your map with other players ! </description>
-  </item>
-  <item>
-    <title>Stranger's Vestments</title>
-    <link>https://mods.vintagestory.at/show/mod/12694</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12694#12694</guid>
-    <pubDate>Tue, 20 Oct 2026 03:16:07 -0000</pubDate>
-    <description>Clothing befitting mysterious strangers- hide your face, hide your identity</description>
-  </item>
-  <item>
-    <title>Cairn — Modpack Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/cairn</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cairn#10742</guid>
-    <pubDate>Tue, 20 Oct 2026 02:34:38 -0000</pubDate>
-    <description>A modpack manager for Vintage Story: complete, reproducible mod sets, each pack with its own worlds </description>
-  </item>
-  <item>
-    <title>Temporal Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/12693</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12693#12693</guid>
-    <pubDate>Tue, 20 Oct 2026 02:24:04 -0000</pubDate>
-    <description>Bulk storage designed to reduce server stress by replacing hundreds of chests with efficient storage</description>
-  </item>
-  <item>
-    <title>Tillerworks</title>
-    <link>https://mods.vintagestory.at/show/mod/10128</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10128#10128</guid>
-    <pubDate>Tue, 20 Oct 2026 01:47:01 -0000</pubDate>
-    <description>Drivable tractors and towable farming trailers with installable engines, wheels, and homemade fuel.</description>
   </item>
 </channel>
 </rss>
