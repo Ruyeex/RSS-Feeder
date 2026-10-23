@@ -4,216 +4,216 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 23 Oct 2026 13:11:28 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 18:10:16 +0000</lastBuildDate>
   <item>
-    <title>Rough Seas</title>
-    <link>https://mods.vintagestory.at/show/mod/roughseas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/roughseas#12633</guid>
-    <pubDate>Fri, 23 Oct 2026 13:07:05 -0000</pubDate>
-    <description>The sea gets weather: storms, surf, currents. And six new vessels that wear, swamp and break.</description>
+    <title>Rustic Cookery</title>
+    <link>https://mods.vintagestory.at/show/mod/12742</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12742#12742</guid>
+    <pubDate>Fri, 23 Oct 2026 18:07:56 -0000</pubDate>
+    <description>A more immersive take on cooking with two additional meal types and a big hunk of meat!</description>
+  </item>
+  <item>
+    <title>Universal Display Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/universaldisplaylib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/universaldisplaylib#10487</guid>
+    <pubDate>Fri, 23 Oct 2026 18:06:11 -0000</pubDate>
+    <description>The Lib has changed to be more than just windows so other modders can use it</description>
+  </item>
+  <item>
+    <title>BlockRespawn</title>
+    <link>https://mods.vintagestory.at/show/mod/12784</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12784#12784</guid>
+    <pubDate>Fri, 23 Oct 2026 17:58:07 -0000</pubDate>
+    <description>Save areas of blocks and have broken blocks respawn after a set time. Admin tool for servers.</description>
+  </item>
+  <item>
+    <title>C&amp;N Spawn Conditions</title>
+    <link>https://mods.vintagestory.at/show/mod/4699</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4699#4699</guid>
+    <pubDate>Fri, 23 Oct 2026 17:48:41 -0000</pubDate>
+    <description>Prevents spawn of mobs by set logic.</description>
+  </item>
+  <item>
+    <title>Animalica - Body Tools &amp; Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicabtc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicabtc#9867</guid>
+    <pubDate>Fri, 23 Oct 2026 17:40:02 -0000</pubDate>
+    <description>Wearable body tools and universal classes for Animalica player species.</description>
+  </item>
+  <item>
+    <title>Animal Kinship</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinship</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinship#9647</guid>
+    <pubDate>Fri, 23 Oct 2026 17:39:52 -0000</pubDate>
+    <description>Animals recognize their feral kin, with simple taming for supported wildlife.</description>
+  </item>
+  <item>
+    <title>Feral Kinship: Companions</title>
+    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
+    <pubDate>Fri, 23 Oct 2026 17:39:38 -0000</pubDate>
+    <description>Gives tamed animals personalities, backpacks, duties, talents, breeding, and expeditions.</description>
+  </item>
+  <item>
+    <title>Controlled Breeding</title>
+    <link>https://mods.vintagestory.at/show/mod/controlledbreeding</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/controlledbreeding#12786</guid>
+    <pubDate>Fri, 23 Oct 2026 17:36:13 -0000</pubDate>
+    <description>Allows you to configure breeding rates of vanilla animals and More Animals birds using ConfigLib</description>
+  </item>
+  <item>
+    <title>Wellworks</title>
+    <link>https://mods.vintagestory.at/show/mod/12743</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12743#12743</guid>
+    <pubDate>Fri, 23 Oct 2026 17:26:43 -0000</pubDate>
+    <description>There is water under your feet. Find it, dig for it, or drink from the river and pray.</description>
+  </item>
+  <item>
+    <title>Jack's Hardcore Stack Size</title>
+    <link>https://mods.vintagestory.at/show/mod/jacksstacksize</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jacksstacksize#12734</guid>
+    <pubDate>Fri, 23 Oct 2026 17:26:24 -0000</pubDate>
+    <description>1 inventory slot = 1 cubic meter</description>
+  </item>
+  <item>
+    <title>PATCH Fairplayguardian</title>
+    <link>https://mods.vintagestory.at/show/mod/12785</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12785#12785</guid>
+    <pubDate>Fri, 23 Oct 2026 17:10:14 -0000</pubDate>
+    <description>patch to create a parallel config file to adjust the message displayed when a player is kicked</description>
+  </item>
+  <item>
+    <title>Vintage Przygoda: Korony</title>
+    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
+    <pubDate>Fri, 23 Oct 2026 17:00:50 -0000</pubDate>
+    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
+  </item>
+  <item>
+    <title>Aegis Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/claim</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claim#12740</guid>
+    <pubDate>Fri, 23 Oct 2026 16:46:04 -0000</pubDate>
+    <description>Chunk claims for civilization servers, with nations, player towns, capitals and an admin painter on </description>
+  </item>
+  <item>
+    <title>简单语音聊天（Voice Chat Mod）</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
+    <pubDate>Fri, 23 Oct 2026 16:42:39 -0000</pubDate>
+    <description>For Chinese community servers only（Voice Chat Mod）</description>
   </item>
   <item>
     <title>VSCN 服务器改进模组的模组（Mod Fix Mod）</title>
     <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
-    <pubDate>Fri, 23 Oct 2026 12:43:22 -0000</pubDate>
+    <pubDate>Fri, 23 Oct 2026 16:41:15 -0000</pubDate>
     <description>For Chinese community servers only（Mod Fix Mod）</description>
   </item>
   <item>
-    <title>NationSettlers</title>
-    <link>https://mods.vintagestory.at/show/mod/12757</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12757#12757</guid>
-    <pubDate>Fri, 23 Oct 2026 12:01:08 -0000</pubDate>
-    <description>Settler NPC`s to handle some key settlement jobs</description>
-  </item>
-  <item>
-    <title>Vintage First Aid</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagefirstaid</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagefirstaid#12739</guid>
-    <pubDate>Fri, 23 Oct 2026 11:48:21 -0000</pubDate>
-    <description>Limb specific health, injuries and treatment</description>
+    <title>C&amp;N Limbo</title>
+    <link>https://mods.vintagestory.at/show/mod/12783</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12783#12783</guid>
+    <pubDate>Fri, 23 Oct 2026 16:36:21 -0000</pubDate>
+    <description>After death players are sent to limbo: wait out a timer or beat the parkour to the exit portal.</description>
   </item>
   <item>
     <title>eViSTool — Linux</title>
     <link>https://mods.vintagestory.at/show/mod/evistoollinux</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoollinux#12414</guid>
-    <pubDate>Fri, 23 Oct 2026 11:48:08 -0000</pubDate>
+    <pubDate>Fri, 23 Oct 2026 16:32:26 -0000</pubDate>
     <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
   </item>
   <item>
     <title>eViSTool — Windows</title>
     <link>https://mods.vintagestory.at/show/mod/evistoolwin</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoolwin#12228</guid>
-    <pubDate>Fri, 23 Oct 2026 11:47:47 -0000</pubDate>
+    <pubDate>Fri, 23 Oct 2026 16:32:06 -0000</pubDate>
     <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
   </item>
   <item>
-    <title>EoS Pack 2</title>
-    <link>https://mods.vintagestory.at/show/mod/12779</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12779#12779</guid>
-    <pubDate>Fri, 23 Oct 2026 11:41:10 -0000</pubDate>
-    <description>Currently in Testing! Trait-based respawn redirection to the nearest configured medical bed.</description>
+    <title>Wilderlands Spawnbound</title>
+    <link>https://mods.vintagestory.at/show/mod/7611</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7611#7611</guid>
+    <pubDate>Fri, 23 Oct 2026 16:15:03 -0000</pubDate>
+    <description>Adds feature that ties player stability to spawn location based on survival.</description>
   </item>
   <item>
-    <title>StormvaldServerMod</title>
-    <link>https://mods.vintagestory.at/show/mod/11142</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11142#11142</guid>
-    <pubDate>Fri, 23 Oct 2026 11:40:34 -0000</pubDate>
-    <description>Servermod</description>
+    <title>Jakemon's server patches</title>
+    <link>https://mods.vintagestory.at/show/mod/jakemonpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jakemonpatches#12756</guid>
+    <pubDate>Fri, 23 Oct 2026 16:05:04 -0000</pubDate>
+    <description>Some simple json patching for balance changes and race traits on my server.</description>
   </item>
   <item>
-    <title>Vintage Przygoda: Korony</title>
-    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
-    <pubDate>Fri, 23 Oct 2026 11:05:44 -0000</pubDate>
-    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
+    <title>More Buckets</title>
+    <link>https://mods.vintagestory.at/show/mod/morebuckets</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebuckets#11536</guid>
+    <pubDate>Fri, 23 Oct 2026 15:39:00 -0000</pubDate>
+    <description>Leave those exhausting trips to the spring behind and let the new buckets and tanks do the hard work</description>
   </item>
   <item>
-    <title>topgsmod</title>
-    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
-    <pubDate>Fri, 23 Oct 2026 10:40:30 -0000</pubDate>
-    <description>TopGs Community Mod</description>
+    <title>NDL Cartography</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlcartography</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlcartography#12554</guid>
+    <pubDate>Fri, 23 Oct 2026 15:13:00 -0000</pubDate>
+    <description>Disables the world map and restricts it to a cartography table or a limited craft able map</description>
   </item>
   <item>
-    <title>Lazzeking Says Gates can move</title>
-    <link>https://mods.vintagestory.at/show/mod/gatescanmove</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gatescanmove#12778</guid>
-    <pubDate>Fri, 23 Oct 2026 09:45:15 -0000</pubDate>
-    <description>Adds opening and closing animations to fence gates that don't have one</description>
+    <title>VHS Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/12439</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12439#12439</guid>
+    <pubDate>Fri, 23 Oct 2026 15:05:11 -0000</pubDate>
+    <description>Patches for the Vintage Hoarder's Society Server</description>
   </item>
   <item>
-    <title>简单语音聊天（Voice Chat Mod）</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Fri, 23 Oct 2026 09:21:47 -0000</pubDate>
-    <description>For Chinese community servers only（Voice Chat Mod）</description>
+    <title>Evenfall Server Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/12676</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12676#12676</guid>
+    <pubDate>Fri, 23 Oct 2026 14:58:33 -0000</pubDate>
+    <description>Compatibility and customization pack for the Evenfall server</description>
   </item>
   <item>
-    <title>机械锁和钥匙（Mechanical Locks &amp; Keys）</title>
-    <link>https://mods.vintagestory.at/show/mod/vsmechanicallocks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsmechanicallocks#12747</guid>
-    <pubDate>Fri, 23 Oct 2026 09:17:42 -0000</pubDate>
-    <description>For Chinese community servers only（Mechanical Locks &amp; Keys）</description>
+    <title>Wilderlands Rustbound</title>
+    <link>https://mods.vintagestory.at/show/mod/3004</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3004#3004</guid>
+    <pubDate>Fri, 23 Oct 2026 14:38:40 -0000</pubDate>
+    <description>Overhauls drifter canon, adds a slew of new Rust-related entities and challenges.</description>
   </item>
   <item>
-    <title>Shipwright</title>
-    <link>https://mods.vintagestory.at/show/mod/shipwright</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shipwright#8044</guid>
-    <pubDate>Fri, 23 Oct 2026 08:13:01 -0000</pubDate>
-    <description>Adds various sailed and rowed boats from all around the world.</description>
+    <title>Esoterica</title>
+    <link>https://mods.vintagestory.at/show/mod/6087</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6087#6087</guid>
+    <pubDate>Fri, 23 Oct 2026 14:38:30 -0000</pubDate>
+    <description>A sixth history community license mod merging the lore from Cultist Simulator with Vintage Story.</description>
   </item>
   <item>
-    <title>Grassroots Coca</title>
-    <link>https://mods.vintagestory.at/show/mod/grassrootscoca</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassrootscoca#10921</guid>
-    <pubDate>Fri, 23 Oct 2026 07:40:13 -0000</pubDate>
-    <description>Coca farming. Grow, dry, leech, refine, and recrystallize. Extract the purest product.</description>
+    <title>Vintage-DGLab</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagedglab</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagedglab#9574</guid>
+    <pubDate>Fri, 23 Oct 2026 14:29:45 -0000</pubDate>
+    <description>DG-LAB Coyote in-game GUI and health feedback. One ZIP supports Vintage Story 1.22.3–1.22.7.</description>
   </item>
   <item>
-    <title>Entity Radar</title>
-    <link>https://mods.vintagestory.at/show/mod/entityradar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/entityradar#12777</guid>
-    <pubDate>Fri, 23 Oct 2026 07:29:36 -0000</pubDate>
-    <description>Marks entities on the map, but only the ones in your line of sight.</description>
+    <title>EoS Pack 4</title>
+    <link>https://mods.vintagestory.at/show/mod/12782</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12782#12782</guid>
+    <pubDate>Fri, 23 Oct 2026 14:05:46 -0000</pubDate>
+    <description>A Small fix &amp; patch for Disorientation. For Server ownen, reactivate TP command </description>
   </item>
   <item>
-    <title>Grassroots</title>
-    <link>https://mods.vintagestory.at/show/mod/grassroots</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
-    <pubDate>Fri, 23 Oct 2026 07:29:25 -0000</pubDate>
-    <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
-  </item>
-  <item>
-    <title>EoS Pack 1</title>
-    <link>https://mods.vintagestory.at/show/mod/12776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12776#12776</guid>
-    <pubDate>Fri, 23 Oct 2026 06:58:29 -0000</pubDate>
-    <description>EoS - Custom Mod 1</description>
-  </item>
-  <item>
-    <title>NDL ExpandedGrowth (Flower Growth Module)</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthflowers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthflowers#5701</guid>
-    <pubDate>Fri, 23 Oct 2026 06:29:06 -0000</pubDate>
-    <description>Adds a method for growing/farming flowers!</description>
-  </item>
-  <item>
-    <title>Lucy's Stove</title>
-    <link>https://mods.vintagestory.at/show/mod/12775</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12775#12775</guid>
-    <pubDate>Fri, 23 Oct 2026 06:22:49 -0000</pubDate>
-    <description>A four-burner cast-iron cook stove made in loving memory of Grandma Lucy.</description>
-  </item>
-  <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Fri, 23 Oct 2026 06:04:00 -0000</pubDate>
-    <description>Lightweight mod where trees shed their leaves based on temperature. MAJOR 2.0 UPDATE!</description>
-  </item>
-  <item>
-    <title>Two New Fertilizers</title>
-    <link>https://mods.vintagestory.at/show/mod/twonewfertilizers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/twonewfertilizers#6106</guid>
-    <pubDate>Fri, 23 Oct 2026 05:50:11 -0000</pubDate>
-    <description>Adds two craftable fertilizers that mimic Potash's effect for Nitrogen and Phosphate</description>
-  </item>
-  <item>
-    <title>Auto Sort Chest</title>
-    <link>https://mods.vintagestory.at/show/mod/12189</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12189#12189</guid>
-    <pubDate>Fri, 23 Oct 2026 05:20:55 -0000</pubDate>
-    <description>Dump your items and it sends them to a storage</description>
-  </item>
-  <item>
-    <title>Crow Bros</title>
-    <link>https://mods.vintagestory.at/show/mod/12762</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12762#12762</guid>
-    <pubDate>Fri, 23 Oct 2026 05:03:57 -0000</pubDate>
-    <description>Adds realistic and reactive crows to the game</description>
-  </item>
-  <item>
-    <title>Newfies Server Essentials Suite</title>
-    <link>https://mods.vintagestory.at/show/mod/11556</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
-    <pubDate>Fri, 23 Oct 2026 05:00:50 -0000</pubDate>
-    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
-  </item>
-  <item>
-    <title>Handbook Optimizer</title>
-    <link>https://mods.vintagestory.at/show/mod/12745</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12745#12745</guid>
-    <pubDate>Fri, 23 Oct 2026 04:54:11 -0000</pubDate>
-    <description>Fix your handbook and crafting grid lag!</description>
-  </item>
-  <item>
-    <title>Claims Ward</title>
-    <link>https://mods.vintagestory.at/show/mod/12068</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12068#12068</guid>
-    <pubDate>Fri, 23 Oct 2026 04:48:09 -0000</pubDate>
-    <description>Keep hostile creatures off your claim area</description>
-  </item>
-  <item>
-    <title>Fur Capes</title>
-    <link>https://mods.vintagestory.at/show/mod/12752</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12752#12752</guid>
-    <pubDate>Fri, 23 Oct 2026 04:37:39 -0000</pubDate>
-    <description>Physics-driven cloaks of varying textures, with optional trims and snow/cold climate behavior. </description>
+    <title>EoS Pack 3</title>
+    <link>https://mods.vintagestory.at/show/mod/12780</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12780#12780</guid>
+    <pubDate>Fri, 23 Oct 2026 13:57:39 -0000</pubDate>
+    <description>EoS Pack 3 a Small patch for dev testing during early access</description>
   </item>
   <item>
     <title>VSCN 文明模拟主模组（Civilization Simulation）</title>
     <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
-    <pubDate>Fri, 23 Oct 2026 04:25:16 -0000</pubDate>
+    <pubDate>Fri, 23 Oct 2026 13:27:41 -0000</pubDate>
     <description>For Chinese community servers only（Civilization Simulation）</description>
-  </item>
-  <item>
-    <title>Rudiments</title>
-    <link>https://mods.vintagestory.at/show/mod/9305</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
-    <pubDate>Fri, 23 Oct 2026 01:47:15 -0000</pubDate>
-    <description>More realistic crafting of fibre. Also includes more realistic clayware.</description>
   </item>
 </channel>
 </rss>
