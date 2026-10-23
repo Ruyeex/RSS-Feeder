@@ -4,7 +4,126 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 23 Oct 2026 07:09:12 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 13:11:28 +0000</lastBuildDate>
+  <item>
+    <title>Rough Seas</title>
+    <link>https://mods.vintagestory.at/show/mod/roughseas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/roughseas#12633</guid>
+    <pubDate>Fri, 23 Oct 2026 13:07:05 -0000</pubDate>
+    <description>The sea gets weather: storms, surf, currents. And six new vessels that wear, swamp and break.</description>
+  </item>
+  <item>
+    <title>VSCN 服务器改进模组的模组（Mod Fix Mod）</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
+    <pubDate>Fri, 23 Oct 2026 12:43:22 -0000</pubDate>
+    <description>For Chinese community servers only（Mod Fix Mod）</description>
+  </item>
+  <item>
+    <title>NationSettlers</title>
+    <link>https://mods.vintagestory.at/show/mod/12757</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12757#12757</guid>
+    <pubDate>Fri, 23 Oct 2026 12:01:08 -0000</pubDate>
+    <description>Settler NPC`s to handle some key settlement jobs</description>
+  </item>
+  <item>
+    <title>Vintage First Aid</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagefirstaid</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagefirstaid#12739</guid>
+    <pubDate>Fri, 23 Oct 2026 11:48:21 -0000</pubDate>
+    <description>Limb specific health, injuries and treatment</description>
+  </item>
+  <item>
+    <title>eViSTool — Linux</title>
+    <link>https://mods.vintagestory.at/show/mod/evistoollinux</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoollinux#12414</guid>
+    <pubDate>Fri, 23 Oct 2026 11:48:08 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>eViSTool — Windows</title>
+    <link>https://mods.vintagestory.at/show/mod/evistoolwin</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoolwin#12228</guid>
+    <pubDate>Fri, 23 Oct 2026 11:47:47 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>EoS Pack 2</title>
+    <link>https://mods.vintagestory.at/show/mod/12779</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12779#12779</guid>
+    <pubDate>Fri, 23 Oct 2026 11:41:10 -0000</pubDate>
+    <description>Currently in Testing! Trait-based respawn redirection to the nearest configured medical bed.</description>
+  </item>
+  <item>
+    <title>StormvaldServerMod</title>
+    <link>https://mods.vintagestory.at/show/mod/11142</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11142#11142</guid>
+    <pubDate>Fri, 23 Oct 2026 11:40:34 -0000</pubDate>
+    <description>Servermod</description>
+  </item>
+  <item>
+    <title>Vintage Przygoda: Korony</title>
+    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
+    <pubDate>Fri, 23 Oct 2026 11:05:44 -0000</pubDate>
+    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Fri, 23 Oct 2026 10:40:30 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
+  <item>
+    <title>Lazzeking Says Gates can move</title>
+    <link>https://mods.vintagestory.at/show/mod/gatescanmove</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gatescanmove#12778</guid>
+    <pubDate>Fri, 23 Oct 2026 09:45:15 -0000</pubDate>
+    <description>Adds opening and closing animations to fence gates that don't have one</description>
+  </item>
+  <item>
+    <title>简单语音聊天（Voice Chat Mod）</title>
+    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
+    <pubDate>Fri, 23 Oct 2026 09:21:47 -0000</pubDate>
+    <description>For Chinese community servers only（Voice Chat Mod）</description>
+  </item>
+  <item>
+    <title>机械锁和钥匙（Mechanical Locks &amp; Keys）</title>
+    <link>https://mods.vintagestory.at/show/mod/vsmechanicallocks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsmechanicallocks#12747</guid>
+    <pubDate>Fri, 23 Oct 2026 09:17:42 -0000</pubDate>
+    <description>For Chinese community servers only（Mechanical Locks &amp; Keys）</description>
+  </item>
+  <item>
+    <title>Shipwright</title>
+    <link>https://mods.vintagestory.at/show/mod/shipwright</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shipwright#8044</guid>
+    <pubDate>Fri, 23 Oct 2026 08:13:01 -0000</pubDate>
+    <description>Adds various sailed and rowed boats from all around the world.</description>
+  </item>
+  <item>
+    <title>Grassroots Coca</title>
+    <link>https://mods.vintagestory.at/show/mod/grassrootscoca</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassrootscoca#10921</guid>
+    <pubDate>Fri, 23 Oct 2026 07:40:13 -0000</pubDate>
+    <description>Coca farming. Grow, dry, leech, refine, and recrystallize. Extract the purest product.</description>
+  </item>
+  <item>
+    <title>Entity Radar</title>
+    <link>https://mods.vintagestory.at/show/mod/entityradar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/entityradar#12777</guid>
+    <pubDate>Fri, 23 Oct 2026 07:29:36 -0000</pubDate>
+    <description>Marks entities on the map, but only the ones in your line of sight.</description>
+  </item>
+  <item>
+    <title>Grassroots</title>
+    <link>https://mods.vintagestory.at/show/mod/grassroots</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grassroots#8590</guid>
+    <pubDate>Fri, 23 Oct 2026 07:29:25 -0000</pubDate>
+    <description>Cannabis cultivation and hemp farming. Grow, dry, and cure a variety of strains. Enjoy your crop.</description>
+  </item>
   <item>
     <title>EoS Pack 1</title>
     <link>https://mods.vintagestory.at/show/mod/12776</link>
@@ -83,13 +202,6 @@
     <description>Physics-driven cloaks of varying textures, with optional trims and snow/cold climate behavior. </description>
   </item>
   <item>
-    <title>VSCN 服务器改进模组的模组（Mod Fix Mod）</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
-    <pubDate>Fri, 23 Oct 2026 04:28:13 -0000</pubDate>
-    <description>For Chinese community servers only（Mod Fix Mod）</description>
-  </item>
-  <item>
     <title>VSCN 文明模拟主模组（Civilization Simulation）</title>
     <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
@@ -102,118 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9305#9305</guid>
     <pubDate>Fri, 23 Oct 2026 01:47:15 -0000</pubDate>
     <description>More realistic crafting of fibre. Also includes more realistic clayware.</description>
-  </item>
-  <item>
-    <title>Wildgrass Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/wildgrassfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wildgrassfork#8650</guid>
-    <pubDate>Fri, 23 Oct 2026 00:25:01 -0000</pubDate>
-    <description>Wildgrass Fork for 1.22.2</description>
-  </item>
-  <item>
-    <title>Lumberjack Class</title>
-    <link>https://mods.vintagestory.at/show/mod/2826</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/2826#2826</guid>
-    <pubDate>Fri, 23 Oct 2026 00:21:29 -0000</pubDate>
-    <description>Adds a new Lumberjack player class</description>
-  </item>
-  <item>
-    <title>BATS!</title>
-    <link>https://mods.vintagestory.at/show/mod/bats</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bats#12425</guid>
-    <pubDate>Fri, 23 Oct 2026 00:14:13 -0000</pubDate>
-    <description>The original flying animal mod featuring BATS!  Also, renewable saltpeter. </description>
-  </item>
-  <item>
-    <title>Steinbrecher</title>
-    <link>https://mods.vintagestory.at/show/mod/9234</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9234#9234</guid>
-    <pubDate>Thu, 22 Oct 2026 23:43:51 -0000</pubDate>
-    <description>This lets you turn rocks into stones.</description>
-  </item>
-  <item>
-    <title>Andrea's Craftable Glass Variants</title>
-    <link>https://mods.vintagestory.at/show/mod/andreaglasscraft</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/andreaglasscraft#8054</guid>
-    <pubDate>Thu, 22 Oct 2026 23:43:28 -0000</pubDate>
-    <description>Lets you craft the uncraftable variants of colored glass in bloomeries</description>
-  </item>
-  <item>
-    <title>Aegis</title>
-    <link>https://mods.vintagestory.at/show/mod/aegis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aegis#12213</guid>
-    <pubDate>Thu, 22 Oct 2026 23:38:19 -0000</pubDate>
-    <description>The client mod for Aegis Networks servers</description>
-  </item>
-  <item>
-    <title>Classes of Eriador</title>
-    <link>https://mods.vintagestory.at/show/mod/eriadorclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eriadorclasses#9321</guid>
-    <pubDate>Thu, 22 Oct 2026 23:13:40 -0000</pubDate>
-    <description>A collection of custom classes for the Kingdom of Eriador Vintagestory server.</description>
-  </item>
-  <item>
-    <title>Vampirism without cannibalism fork</title>
-    <link>https://mods.vintagestory.at/show/mod/12024</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12024#12024</guid>
-    <pubDate>Thu, 22 Oct 2026 23:01:30 -0000</pubDate>
-    <description>port of vampirism to remove cannibalism as a dependency.</description>
-  </item>
-  <item>
-    <title>Vampirism</title>
-    <link>https://mods.vintagestory.at/show/mod/vampirism</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vampirism#10393</guid>
-    <pubDate>Thu, 22 Oct 2026 23:01:06 -0000</pubDate>
-    <description>Become a creature of the night, drink blood, see in the dark and never touch silver again</description>
-  </item>
-  <item>
-    <title>Hexxed Client</title>
-    <link>https://mods.vintagestory.at/show/mod/hexxed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexxed#10240</guid>
-    <pubDate>Thu, 22 Oct 2026 22:43:22 -0000</pubDate>
-    <description>Early client support for an upcoming Vintage Story multiplayer games network.</description>
-  </item>
-  <item>
-    <title>Questline</title>
-    <link>https://mods.vintagestory.at/show/mod/questline</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/questline#12495</guid>
-    <pubDate>Thu, 22 Oct 2026 22:29:47 -0000</pubDate>
-    <description>A quest book covering all of vanilla in 322 quests, with automatic task tracking and rewards</description>
-  </item>
-  <item>
-    <title>Opine Upon Dark Pine</title>
-    <link>https://mods.vintagestory.at/show/mod/opineupondarkpine</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/opineupondarkpine#12772</guid>
-    <pubDate>Thu, 22 Oct 2026 22:18:26 -0000</pubDate>
-    <description>Adds a Dark Pine tree to the worldgen using textures (with permission) from whomp's Opine Upon Pine </description>
-  </item>
-  <item>
-    <title>Extended Eye Colors</title>
-    <link>https://mods.vintagestory.at/show/mod/10402</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10402#10402</guid>
-    <pubDate>Thu, 22 Oct 2026 22:01:12 -0000</pubDate>
-    <description>Adds a hex scroller for more customisation!</description>
-  </item>
-  <item>
-    <title>Prosequor + Allclasses compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/allclassesprosequor</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/allclassesprosequor#12771</guid>
-    <pubDate>Thu, 22 Oct 2026 22:00:29 -0000</pubDate>
-    <description>Assigns stat values to the 13 classes added by Allclasses in the Prosequor mod.</description>
-  </item>
-  <item>
-    <title>Extended Skin Colors</title>
-    <link>https://mods.vintagestory.at/show/mod/10437</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10437#10437</guid>
-    <pubDate>Thu, 22 Oct 2026 22:00:18 -0000</pubDate>
-    <description>Adds a hex color scroller to most humanoid races!</description>
-  </item>
-  <item>
-    <title>NationSettlers</title>
-    <link>https://mods.vintagestory.at/show/mod/12757</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12757#12757</guid>
-    <pubDate>Thu, 22 Oct 2026 21:57:41 -0000</pubDate>
-    <description>Settler NPC`s to handle some key settlement jobs</description>
   </item>
 </channel>
 </rss>
