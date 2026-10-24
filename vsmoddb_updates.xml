@@ -4,7 +4,84 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 24 Oct 2026 05:30:37 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 10:31:20 +0000</lastBuildDate>
+  <item>
+    <title>Vintage First Aid</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagefirstaid</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagefirstaid#12739</guid>
+    <pubDate>Sat, 24 Oct 2026 10:23:10 -0000</pubDate>
+    <description>Limb specific health, injuries and treatment</description>
+  </item>
+  <item>
+    <title>More Buckets</title>
+    <link>https://mods.vintagestory.at/show/mod/morebuckets</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebuckets#11536</guid>
+    <pubDate>Sat, 24 Oct 2026 10:06:27 -0000</pubDate>
+    <description>Leave those exhausting trips to the spring behind and let the new buckets and tanks do the hard work</description>
+  </item>
+  <item>
+    <title>WoNH Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/wonhtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wonhtweaks#12081</guid>
+    <pubDate>Sat, 24 Oct 2026 09:56:49 -0000</pubDate>
+    <description>Mod tweaks and patches for the World of New Horizons server (https://wonh.online/)</description>
+  </item>
+  <item>
+    <title>Hearth &amp; Draught [Public Beta]</title>
+    <link>https://mods.vintagestory.at/show/mod/hearthanddraught</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hearthanddraught#11803</guid>
+    <pubDate>Sat, 24 Oct 2026 08:55:55 -0000</pubDate>
+    <description>Windows, chimneys, log burners and open fires, with room heating and ventilation.</description>
+  </item>
+  <item>
+    <title>Aldi's Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/aldiclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aldiclasses#5327</guid>
+    <pubDate>Sat, 24 Oct 2026 08:35:05 -0000</pubDate>
+    <description>An extremely stable, compatible, uninvasive and customizable classes mod!</description>
+  </item>
+  <item>
+    <title>C&amp;N Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/canclaims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canclaims#589</guid>
+    <pubDate>Sat, 24 Oct 2026 07:53:30 -0000</pubDate>
+    <description>Land protection mod.</description>
+  </item>
+  <item>
+    <title>Kith</title>
+    <link>https://mods.vintagestory.at/show/mod/kith</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kith#12793</guid>
+    <pubDate>Sat, 24 Oct 2026 07:14:58 -0000</pubDate>
+    <description>Host your world for friends, comes with an island hub, cosmetics, emotes, and chat.</description>
+  </item>
+  <item>
+    <title>Gourmand</title>
+    <link>https://mods.vintagestory.at/show/mod/2471</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/2471#2471</guid>
+    <pubDate>Sat, 24 Oct 2026 07:14:04 -0000</pubDate>
+    <description>Health buff for eating a greater variety of foods</description>
+  </item>
+  <item>
+    <title>GhostChunks</title>
+    <link>https://mods.vintagestory.at/show/mod/ghostchunks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ghostchunks#12113</guid>
+    <pubDate>Sat, 24 Oct 2026 07:02:16 -0000</pubDate>
+    <description>Highly performant distant terrain LOD renderer, capable of rendering at 200+ fps!</description>
+  </item>
+  <item>
+    <title>Hex's Mechworks x Boric Alchemy Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/hexsmechboriccompat</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexsmechboriccompat#12259</guid>
+    <pubDate>Sat, 24 Oct 2026 06:35:03 -0000</pubDate>
+    <description>Adds some missing BA compat to Hex's Mechworks.</description>
+  </item>
+  <item>
+    <title>NDL Utility Bags</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlutilitybags</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlutilitybags#12794</guid>
+    <pubDate>Sat, 24 Oct 2026 05:44:11 -0000</pubDate>
+    <description>Adds specialized inventory bags for specific items in the game</description>
+  </item>
   <item>
     <title>Split Flax Twine into Fibers</title>
     <link>https://mods.vintagestory.at/show/mod/fiberdecrafting</link>
@@ -137,83 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
     <pubDate>Sat, 24 Oct 2026 02:20:47 -0000</pubDate>
     <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
-  </item>
-  <item>
-    <title>WEREWOLF</title>
-    <link>https://mods.vintagestory.at/show/mod/12788</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12788#12788</guid>
-    <pubDate>Sat, 24 Oct 2026 01:23:36 -0000</pubDate>
-    <description>Only meat really fills you up</description>
-  </item>
-  <item>
-    <title>Jack's Butchering Add-on</title>
-    <link>https://mods.vintagestory.at/show/mod/31207</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/31207#5233</guid>
-    <pubDate>Sat, 24 Oct 2026 00:17:01 -0000</pubDate>
-    <description>Add-on mod for Butchering.  Replaces tables/hooks model and progression, plus other tweaks.</description>
-  </item>
-  <item>
-    <title>Coinage</title>
-    <link>https://mods.vintagestory.at/show/mod/coinage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/coinage#641</guid>
-    <pubDate>Fri, 23 Oct 2026 23:53:29 -0000</pubDate>
-    <description>Design and mint your own custom coins to trade with.</description>
-  </item>
-  <item>
-    <title>Mine Shaft Elevator </title>
-    <link>https://mods.vintagestory.at/show/mod/12746</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12746#12746</guid>
-    <pubDate>Fri, 23 Oct 2026 23:46:18 -0000</pubDate>
-    <description>A mine shaft Elevator</description>
-  </item>
-  <item>
-    <title>Newfies Server Essentials Suite</title>
-    <link>https://mods.vintagestory.at/show/mod/11556</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
-    <pubDate>Fri, 23 Oct 2026 23:34:13 -0000</pubDate>
-    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
-  </item>
-  <item>
-    <title>Lodestone</title>
-    <link>https://mods.vintagestory.at/show/mod/lodestone</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lodestone#12524</guid>
-    <pubDate>Fri, 23 Oct 2026 23:16:14 -0000</pubDate>
-    <description>Makes large modpacks faster, with the same results as vanilla</description>
-  </item>
-  <item>
-    <title>VSCN 文明模拟主模组（Civilization Simulation）</title>
-    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
-    <pubDate>Fri, 23 Oct 2026 23:14:46 -0000</pubDate>
-    <description>For Chinese community servers only（Civilization Simulation）</description>
-  </item>
-  <item>
-    <title>Seraphs Ledger</title>
-    <link>https://mods.vintagestory.at/show/mod/9783</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9783#9783</guid>
-    <pubDate>Fri, 23 Oct 2026 23:04:14 -0000</pubDate>
-    <description>Sort vessel contents by freshness &amp; an Animal Tally Board.</description>
-  </item>
-  <item>
-    <title>Antique History | Lore &amp; Ruins</title>
-    <link>https://mods.vintagestory.at/show/mod/12552</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12552#12552</guid>
-    <pubDate>Fri, 23 Oct 2026 22:54:43 -0000</pubDate>
-    <description>Explore emotional, dark yet heartfelt stories in the world of Vintage Story.</description>
-  </item>
-  <item>
-    <title>Amphorae</title>
-    <link>https://mods.vintagestory.at/show/mod/amphorae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/amphorae#9700</guid>
-    <pubDate>Fri, 23 Oct 2026 22:53:28 -0000</pubDate>
-    <description>Adds amphorae and several other vessels - and fixes all the poorly textured basegame ceramic items</description>
-  </item>
-  <item>
-    <title>Sounds of Nature</title>
-    <link>https://mods.vintagestory.at/show/mod/8818</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8818#8818</guid>
-    <pubDate>Fri, 23 Oct 2026 22:48:48 -0000</pubDate>
-    <description>Brings the world to life with realistic ambient wildlife audio that reacts to where you are.</description>
   </item>
 </channel>
 </rss>
