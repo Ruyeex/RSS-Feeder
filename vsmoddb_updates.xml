@@ -4,20 +4,118 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 24 Oct 2026 20:34:31 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 22:58:24 +0000</lastBuildDate>
+  <item>
+    <title>RFMechanics</title>
+    <link>https://mods.vintagestory.at/show/mod/rfmechanics</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rfmechanics#11578</guid>
+    <pubDate>Sat, 24 Oct 2026 22:55:36 -0000</pubDate>
+    <description>Race-specific abilities and survival mechanics. WIP but currently has climbing, growing orcs, etc</description>
+  </item>
+  <item>
+    <title>WoNH Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/wonhtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wonhtweaks#12081</guid>
+    <pubDate>Sat, 24 Oct 2026 22:46:44 -0000</pubDate>
+    <description>Mod tweaks and patches for the World of New Horizons server (https://wonh.online/)</description>
+  </item>
+  <item>
+    <title>Handbook &amp; Craft Optimizer.</title>
+    <link>https://mods.vintagestory.at/show/mod/handbookcraftoptimizer</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/handbookcraftoptimizer#12626</guid>
+    <pubDate>Sat, 24 Oct 2026 22:20:16 -0000</pubDate>
+    <description>A creation aid system with a mod filter and handbook heavy optimizations.</description>
+  </item>
+  <item>
+    <title>Valioso</title>
+    <link>https://mods.vintagestory.at/show/mod/11120</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11120#11120</guid>
+    <pubDate>Sat, 24 Oct 2026 22:11:35 -0000</pubDate>
+    <description>Valioso Mod</description>
+  </item>
+  <item>
+    <title>Sammiches</title>
+    <link>https://mods.vintagestory.at/show/mod/sammiches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sammiches#2501</guid>
+    <pubDate>Sat, 24 Oct 2026 22:04:54 -0000</pubDate>
+    <description>This mod adds sandwiches and several other bread products</description>
+  </item>
+  <item>
+    <title>The Almanac: Illuminated</title>
+    <link>https://mods.vintagestory.at/show/mod/almanacilluminated</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanacilluminated#10454</guid>
+    <pubDate>Sat, 24 Oct 2026 21:55:45 -0000</pubDate>
+    <description>A living questbook opened with Alt+J. Chapters appear only for the mods you have loaded.</description>
+  </item>
+  <item>
+    <title>The Almanac: Trades, Callings &amp; Mastery</title>
+    <link>https://mods.vintagestory.at/show/mod/almanactcm</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/almanactcm#10453</guid>
+    <pubDate>Sat, 24 Oct 2026 21:54:44 -0000</pubDate>
+    <description>Twenty-two trades, Novice to Grandmaster, earned by the work of your hands, not by grinding.</description>
+  </item>
+  <item>
+    <title>Leaf Litter</title>
+    <link>https://mods.vintagestory.at/show/mod/leaflitter</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/leaflitter#9984</guid>
+    <pubDate>Sat, 24 Oct 2026 21:45:53 -0000</pubDate>
+    <description>Adds dynamic leaf litter that can be raked, composted, and used as mulch.</description>
+  </item>
+  <item>
+    <title>Wilderlands Winter</title>
+    <link>https://mods.vintagestory.at/show/mod/12678</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12678#12678</guid>
+    <pubDate>Sat, 24 Oct 2026 21:30:49 -0000</pubDate>
+    <description>realistic snow, ice, skiing, snowshoes, snow goggles, blizzards, cold water shock</description>
+  </item>
+  <item>
+    <title>VS Ascending</title>
+    <link>https://mods.vintagestory.at/show/mod/vsascending</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsascending#12754</guid>
+    <pubDate>Sat, 24 Oct 2026 21:25:31 -0000</pubDate>
+    <description>Become a quartz wizard: grind quartz, breathe the dust, and cast spells from ten schools of magic.</description>
+  </item>
+  <item>
+    <title>Claims Ward</title>
+    <link>https://mods.vintagestory.at/show/mod/12068</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12068#12068</guid>
+    <pubDate>Sat, 24 Oct 2026 21:23:32 -0000</pubDate>
+    <description>Keep hostile creatures off your claim area</description>
+  </item>
+  <item>
+    <title>Better Pit Kiln Timer Continued</title>
+    <link>https://mods.vintagestory.at/show/mod/betterpitkilntimercontinued</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterpitkilntimercontinued#12812</guid>
+    <pubDate>Sat, 24 Oct 2026 21:17:00 -0000</pubDate>
+    <description>Client-only pit kiln countdown for 1.22.7, using server deadlines. No server installation needed.</description>
+  </item>
+  <item>
+    <title>Sturdy Bear Armor</title>
+    <link>https://mods.vintagestory.at/show/mod/sturdybeararmor</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sturdybeararmor#12807</guid>
+    <pubDate>Sat, 24 Oct 2026 21:11:36 -0000</pubDate>
+    <description>Adds Sturdy Bear Armor to the game, crafted by sewing sturdy leather onto Bear Hide Armor.</description>
+  </item>
+  <item>
+    <title>C&amp;N RPG Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/canrpgclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canrpgclasses#9965</guid>
+    <pubDate>Sat, 24 Oct 2026 20:40:35 -0000</pubDate>
+    <description>RPG classes for Vintage Story</description>
+  </item>
+  <item>
+    <title>Underwater Horrors</title>
+    <link>https://mods.vintagestory.at/show/mod/7281</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7281#7281</guid>
+    <pubDate>Sat, 24 Oct 2026 20:36:52 -0000</pubDate>
+    <description>Adds nightmare sea monsters to Vintage Story (Sea Serpents, Kraken)</description>
+  </item>
   <item>
     <title>C&amp;N Party</title>
     <link>https://mods.vintagestory.at/show/mod/9890</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9890#9890</guid>
     <pubDate>Sat, 24 Oct 2026 20:08:27 -0000</pubDate>
     <description>A standalone party system</description>
-  </item>
-  <item>
-    <title>Sturdy Bear Armor</title>
-    <link>https://mods.vintagestory.at/show/mod/sturdybeararmor</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sturdybeararmor#12807</guid>
-    <pubDate>Sat, 24 Oct 2026 20:08:16 -0000</pubDate>
-    <description>Adds Sturdy Bear Armor to the game, crafted by sewing sturdy leather onto Bear Hide Armor.</description>
   </item>
   <item>
     <title>Snoopy's Block Logger (Server-side)</title>
@@ -116,104 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12284#12284</guid>
     <pubDate>Sat, 24 Oct 2026 18:27:32 -0000</pubDate>
     <description>Adds cola and soda as well as a carbonation system to the game!</description>
-  </item>
-  <item>
-    <title>eViSTool — Linux</title>
-    <link>https://mods.vintagestory.at/show/mod/evistoollinux</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoollinux#12414</guid>
-    <pubDate>Sat, 24 Oct 2026 18:26:36 -0000</pubDate>
-    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
-  </item>
-  <item>
-    <title>eViSTool — Windows</title>
-    <link>https://mods.vintagestory.at/show/mod/evistoolwin</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoolwin#12228</guid>
-    <pubDate>Sat, 24 Oct 2026 18:26:25 -0000</pubDate>
-    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
-  </item>
-  <item>
-    <title>Syrup and CO2: Wildcraft Addon</title>
-    <link>https://mods.vintagestory.at/show/mod/12450</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12450#12450</guid>
-    <pubDate>Sat, 24 Oct 2026 18:25:31 -0000</pubDate>
-    <description>Brings soda to wildcraft.</description>
-  </item>
-  <item>
-    <title>Ventilation Dynamics</title>
-    <link>https://mods.vintagestory.at/show/mod/12710</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12710#12710</guid>
-    <pubDate>Sat, 24 Oct 2026 18:02:14 -0000</pubDate>
-    <description>Manage mine air to avoid chokedamp or firedamp. Use vents, heat, masks, or duct routes to survive.</description>
-  </item>
-  <item>
-    <title>Add Some Colour</title>
-    <link>https://mods.vintagestory.at/show/mod/addsomecolour</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/addsomecolour#11857</guid>
-    <pubDate>Sat, 24 Oct 2026 18:01:53 -0000</pubDate>
-    <description>Adds some coloured planks, wood blocks, fences, fence gates and trapdoors.</description>
-  </item>
-  <item>
-    <title>Crow Bros</title>
-    <link>https://mods.vintagestory.at/show/mod/12762</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12762#12762</guid>
-    <pubDate>Sat, 24 Oct 2026 17:52:02 -0000</pubDate>
-    <description>Adds realistic and reactive crows to the game</description>
-  </item>
-  <item>
-    <title>Advanced Tool Parts</title>
-    <link>https://mods.vintagestory.at/show/mod/advancedtoolparts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedtoolparts#11633</guid>
-    <pubDate>Sat, 24 Oct 2026 17:47:02 -0000</pubDate>
-    <description>Add handles and bindings to your tools to make them faster and last longer!</description>
-  </item>
-  <item>
-    <title>Jack's Butchering Add-on</title>
-    <link>https://mods.vintagestory.at/show/mod/31207</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/31207#5233</guid>
-    <pubDate>Sat, 24 Oct 2026 17:20:16 -0000</pubDate>
-    <description>Add-on mod for Butchering.  Replaces tables/hooks model and progression, plus other tweaks.</description>
-  </item>
-  <item>
-    <title>VSCN 服务器改进模组的模组（Mod Fix Mod）</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
-    <pubDate>Sat, 24 Oct 2026 17:00:45 -0000</pubDate>
-    <description>For Chinese community servers only（Mod Fix Mod）</description>
-  </item>
-  <item>
-    <title>KC &amp; Dexs Werewolves</title>
-    <link>https://mods.vintagestory.at/show/mod/werewolves</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/werewolves#12804</guid>
-    <pubDate>Sat, 24 Oct 2026 16:46:39 -0000</pubDate>
-    <description>Adds a werewolf player model</description>
-  </item>
-  <item>
-    <title>Quartermaster</title>
-    <link>https://mods.vintagestory.at/show/mod/9908</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9908#9908</guid>
-    <pubDate>Sat, 24 Oct 2026 16:39:34 -0000</pubDate>
-    <description>Manage local inventory stored in trunks, chests, vessels and crates from one desk.</description>
-  </item>
-  <item>
-    <title>Lodestone</title>
-    <link>https://mods.vintagestory.at/show/mod/lodestone</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lodestone#12524</guid>
-    <pubDate>Sat, 24 Oct 2026 16:27:01 -0000</pubDate>
-    <description>Makes large modpacks faster, with the same results as vanilla</description>
-  </item>
-  <item>
-    <title>Professions</title>
-    <link>https://mods.vintagestory.at/show/mod/professions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/professions#11198</guid>
-    <pubDate>Sat, 24 Oct 2026 16:25:01 -0000</pubDate>
-    <description>Pick a trade and master it. Eleven professions with deep talent trees, earned by doing the work —</description>
-  </item>
-  <item>
-    <title>简单语音聊天（Voice Chat Mod）</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Sat, 24 Oct 2026 16:17:29 -0000</pubDate>
-    <description>For Chinese community servers only（Voice Chat Mod）</description>
   </item>
 </channel>
 </rss>
