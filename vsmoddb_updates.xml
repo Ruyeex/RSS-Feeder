@@ -4,27 +4,160 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 24 Oct 2026 17:56:53 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 20:34:31 +0000</lastBuildDate>
   <item>
-    <title>Crow Bros</title>
-    <link>https://mods.vintagestory.at/show/mod/12762</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12762#12762</guid>
-    <pubDate>Sat, 24 Oct 2026 17:52:02 -0000</pubDate>
-    <description>Adds realistic and reactive crows to the game</description>
+    <title>C&amp;N Party</title>
+    <link>https://mods.vintagestory.at/show/mod/9890</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9890#9890</guid>
+    <pubDate>Sat, 24 Oct 2026 20:08:27 -0000</pubDate>
+    <description>A standalone party system</description>
+  </item>
+  <item>
+    <title>Sturdy Bear Armor</title>
+    <link>https://mods.vintagestory.at/show/mod/sturdybeararmor</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sturdybeararmor#12807</guid>
+    <pubDate>Sat, 24 Oct 2026 20:08:16 -0000</pubDate>
+    <description>Adds Sturdy Bear Armor to the game, crafted by sewing sturdy leather onto Bear Hide Armor.</description>
+  </item>
+  <item>
+    <title>Snoopy's Block Logger (Server-side)</title>
+    <link>https://mods.vintagestory.at/show/mod/9179</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9179#9179</guid>
+    <pubDate>Sat, 24 Oct 2026 19:53:00 -0000</pubDate>
+    <description>Server-side block logger - requires client side to view logs</description>
+  </item>
+  <item>
+    <title>Snoopy's Block Logger (Client-side)</title>
+    <link>https://mods.vintagestory.at/show/mod/9181</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9181#9181</guid>
+    <pubDate>Sat, 24 Oct 2026 19:52:04 -0000</pubDate>
+    <description>Used to query server logs obtained through the Snoopy's Block Logger (Server-side) mod</description>
+  </item>
+  <item>
+    <title>Map Click Teleport</title>
+    <link>https://mods.vintagestory.at/show/mod/mapclickteleport</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mapclickteleport#12140</guid>
+    <pubDate>Sat, 24 Oct 2026 19:50:01 -0000</pubDate>
+    <description>Allows you to "Shift + Left Click" on the world map to instantly teleport to that location.</description>
+  </item>
+  <item>
+    <title>VS save editor</title>
+    <link>https://mods.vintagestory.at/show/mod/12805</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12805#12805</guid>
+    <pubDate>Sat, 24 Oct 2026 19:49:40 -0000</pubDate>
+    <description>Save editor for vintage story, map export chunk managment and block/entity search.</description>
+  </item>
+  <item>
+    <title>Vintage First Aid</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagefirstaid</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagefirstaid#12739</guid>
+    <pubDate>Sat, 24 Oct 2026 19:40:13 -0000</pubDate>
+    <description>Limb specific health, injuries and treatment</description>
+  </item>
+  <item>
+    <title>VSA - Replica</title>
+    <link>https://mods.vintagestory.at/show/mod/9115</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
+    <pubDate>Sat, 24 Oct 2026 19:37:46 -0000</pubDate>
+    <description> (Valkyrian Skies for VS basically) Build block-made moving ships and structures</description>
+  </item>
+  <item>
+    <title>Kith</title>
+    <link>https://mods.vintagestory.at/show/mod/kith</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kith#12793</guid>
+    <pubDate>Sat, 24 Oct 2026 19:18:43 -0000</pubDate>
+    <description>Host your world for friends, comes with an island hub, cosmetics, emotes, and chat.</description>
+  </item>
+  <item>
+    <title>Newfies Server Essentials Suite</title>
+    <link>https://mods.vintagestory.at/show/mod/11556</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
+    <pubDate>Sat, 24 Oct 2026 18:48:52 -0000</pubDate>
+    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
+  </item>
+  <item>
+    <title>Esoterica</title>
+    <link>https://mods.vintagestory.at/show/mod/6087</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6087#6087</guid>
+    <pubDate>Sat, 24 Oct 2026 18:47:17 -0000</pubDate>
+    <description>A sixth history community license mod merging the lore from Cultist Simulator with Vintage Story.</description>
+  </item>
+  <item>
+    <title>WoNH Races</title>
+    <link>https://mods.vintagestory.at/show/mod/wonhraces</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wonhraces#12686</guid>
+    <pubDate>Sat, 24 Oct 2026 18:47:14 -0000</pubDate>
+    <description>This mod adds playable races for the World of New Horizons server.</description>
+  </item>
+  <item>
+    <title>VSA_API</title>
+    <link>https://mods.vintagestory.at/show/mod/9139</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9139#9139</guid>
+    <pubDate>Sat, 24 Oct 2026 18:45:15 -0000</pubDate>
+    <description>VSA API</description>
+  </item>
+  <item>
+    <title>Nileks Craftables</title>
+    <link>https://mods.vintagestory.at/show/mod/7639</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7639#7639</guid>
+    <pubDate>Sat, 24 Oct 2026 18:41:50 -0000</pubDate>
+    <description>Adds multiple ballenced recipes to craft items such as sticks and high fertility soil.</description>
+  </item>
+  <item>
+    <title>望远镜分支（Spyglass Fork）</title>
+    <link>https://mods.vintagestory.at/show/mod/spyglassfork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spyglassfork#12806</guid>
+    <pubDate>Sat, 24 Oct 2026 18:31:37 -0000</pubDate>
+    <description>For Chinese community servers only（Spyglass Fork）</description>
+  </item>
+  <item>
+    <title>Syrup and CO2</title>
+    <link>https://mods.vintagestory.at/show/mod/12284</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12284#12284</guid>
+    <pubDate>Sat, 24 Oct 2026 18:27:32 -0000</pubDate>
+    <description>Adds cola and soda as well as a carbonation system to the game!</description>
   </item>
   <item>
     <title>eViSTool — Linux</title>
     <link>https://mods.vintagestory.at/show/mod/evistoollinux</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoollinux#12414</guid>
-    <pubDate>Sat, 24 Oct 2026 17:48:19 -0000</pubDate>
+    <pubDate>Sat, 24 Oct 2026 18:26:36 -0000</pubDate>
     <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
   </item>
   <item>
     <title>eViSTool — Windows</title>
     <link>https://mods.vintagestory.at/show/mod/evistoolwin</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoolwin#12228</guid>
-    <pubDate>Sat, 24 Oct 2026 17:47:59 -0000</pubDate>
+    <pubDate>Sat, 24 Oct 2026 18:26:25 -0000</pubDate>
     <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>Syrup and CO2: Wildcraft Addon</title>
+    <link>https://mods.vintagestory.at/show/mod/12450</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12450#12450</guid>
+    <pubDate>Sat, 24 Oct 2026 18:25:31 -0000</pubDate>
+    <description>Brings soda to wildcraft.</description>
+  </item>
+  <item>
+    <title>Ventilation Dynamics</title>
+    <link>https://mods.vintagestory.at/show/mod/12710</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12710#12710</guid>
+    <pubDate>Sat, 24 Oct 2026 18:02:14 -0000</pubDate>
+    <description>Manage mine air to avoid chokedamp or firedamp. Use vents, heat, masks, or duct routes to survive.</description>
+  </item>
+  <item>
+    <title>Add Some Colour</title>
+    <link>https://mods.vintagestory.at/show/mod/addsomecolour</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/addsomecolour#11857</guid>
+    <pubDate>Sat, 24 Oct 2026 18:01:53 -0000</pubDate>
+    <description>Adds some coloured planks, wood blocks, fences, fence gates and trapdoors.</description>
+  </item>
+  <item>
+    <title>Crow Bros</title>
+    <link>https://mods.vintagestory.at/show/mod/12762</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12762#12762</guid>
+    <pubDate>Sat, 24 Oct 2026 17:52:02 -0000</pubDate>
+    <description>Adds realistic and reactive crows to the game</description>
   </item>
   <item>
     <title>Advanced Tool Parts</title>
@@ -81,139 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
     <pubDate>Sat, 24 Oct 2026 16:17:29 -0000</pubDate>
     <description>For Chinese community servers only（Voice Chat Mod）</description>
-  </item>
-  <item>
-    <title>PrimitiveTranslator</title>
-    <link>https://mods.vintagestory.at/show/mod/primitivetranslator</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/primitivetranslator#12180</guid>
-    <pubDate>Sat, 24 Oct 2026 15:47:34 -0000</pubDate>
-    <description>A utility for comparing and translating localization files of VintageStory mods.</description>
-  </item>
-  <item>
-    <title>Pattern Mining</title>
-    <link>https://mods.vintagestory.at/show/mod/9185</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9185#9185</guid>
-    <pubDate>Sat, 24 Oct 2026 15:38:10 -0000</pubDate>
-    <description>Mine in 5 distinct patterns using your pickaxe. Now includes shovels!!</description>
-  </item>
-  <item>
-    <title>Opttage Path</title>
-    <link>https://mods.vintagestory.at/show/mod/opttagepath</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/opttagepath#12395</guid>
-    <pubDate>Sat, 24 Oct 2026 15:28:06 -0000</pubDate>
-    <description>Lighter creatures for busy servers, and your PC too: same paths as the game, just faster.</description>
-  </item>
-  <item>
-    <title>Valioso</title>
-    <link>https://mods.vintagestory.at/show/mod/11120</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11120#11120</guid>
-    <pubDate>Sat, 24 Oct 2026 15:26:54 -0000</pubDate>
-    <description>Valioso Mod</description>
-  </item>
-  <item>
-    <title>Status HUD for Immersive Body Temperature</title>
-    <link>https://mods.vintagestory.at/show/mod/statushudibt</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/statushudibt#10464</guid>
-    <pubDate>Sat, 24 Oct 2026 14:53:48 -0000</pubDate>
-    <description>Adds StatusHUD custom elements for Immersive Body Temperature.</description>
-  </item>
-  <item>
-    <title>Immersive Body Temperature</title>
-    <link>https://mods.vintagestory.at/show/mod/immersivebodytemperature</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivebodytemperature#7966</guid>
-    <pubDate>Sat, 24 Oct 2026 14:42:30 -0000</pubDate>
-    <description>Prepare for summer! Makes hot climates as challenging as cold ones.</description>
-  </item>
-  <item>
-    <title>Warm Light</title>
-    <link>https://mods.vintagestory.at/show/mod/12801</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12801#12801</guid>
-    <pubDate>Sat, 24 Oct 2026 14:35:43 -0000</pubDate>
-    <description>Gives oil lamps, lanterns, candles and chandeliers a warm, torch-like light color.</description>
-  </item>
-  <item>
-    <title>Bookkeeper</title>
-    <link>https://mods.vintagestory.at/show/mod/7446</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7446#7446</guid>
-    <pubDate>Sat, 24 Oct 2026 14:13:53 -0000</pubDate>
-    <description>Know what you have. Know where it is.</description>
-  </item>
-  <item>
-    <title>Kith</title>
-    <link>https://mods.vintagestory.at/show/mod/kith</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kith#12793</guid>
-    <pubDate>Sat, 24 Oct 2026 14:11:15 -0000</pubDate>
-    <description>Host your world for friends, comes with an island hub, cosmetics, emotes, and chat.</description>
-  </item>
-  <item>
-    <title>Elevator</title>
-    <link>https://mods.vintagestory.at/show/mod/elevator</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elevator#12800</guid>
-    <pubDate>Sat, 24 Oct 2026 13:50:10 -0000</pubDate>
-    <description>Elevator mod, now standalone and ready for your builds.</description>
-  </item>
-  <item>
-    <title>Vintage Przygoda: Korony</title>
-    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
-    <pubDate>Sat, 24 Oct 2026 13:37:13 -0000</pubDate>
-    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
-  </item>
-  <item>
-    <title>Teapot's Giant Boar</title>
-    <link>https://mods.vintagestory.at/show/mod/teapotsgiantboar</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantboar#11742</guid>
-    <pubDate>Sat, 24 Oct 2026 13:32:47 -0000</pubDate>
-    <description>Chonky boys that can be your companions and mounts. In wild, they might trigger your bear traumas.</description>
-  </item>
-  <item>
-    <title>Room Climates [Beta]</title>
-    <link>https://mods.vintagestory.at/show/mod/roomclimates</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/roomclimates#11795</guid>
-    <pubDate>Sat, 24 Oct 2026 13:16:04 -0000</pubDate>
-    <description>Heat your house, cool your cellar and manage the temperature of your greenhouse.</description>
-  </item>
-  <item>
-    <title>BetterTraders</title>
-    <link>https://mods.vintagestory.at/show/mod/bettertraders</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettertraders#1183</guid>
-    <pubDate>Sat, 24 Oct 2026 13:07:04 -0000</pubDate>
-    <description>Replaces vanilla traders with new trader structures.</description>
-  </item>
-  <item>
-    <title>机械锁和钥匙（Mechanical Locks &amp; Keys）</title>
-    <link>https://mods.vintagestory.at/show/mod/vsmechanicallocks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsmechanicallocks#12747</guid>
-    <pubDate>Sat, 24 Oct 2026 12:26:56 -0000</pubDate>
-    <description>For Chinese community servers only（Mechanical Locks &amp; Keys）</description>
-  </item>
-  <item>
-    <title>4nric's Pickaxe Rhythm</title>
-    <link>https://mods.vintagestory.at/show/mod/12799</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12799#12799</guid>
-    <pubDate>Sat, 24 Oct 2026 12:12:17 -0000</pubDate>
-    <description>Plays one hit sound per swing, at the moment the pickaxe strikes</description>
-  </item>
-  <item>
-    <title>Taxidermy</title>
-    <link>https://mods.vintagestory.at/show/mod/taxidermy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taxidermy#11946</guid>
-    <pubDate>Sat, 24 Oct 2026 11:57:52 -0000</pubDate>
-    <description>Mount the animals you hunt - the whole animal in a pose of your choosing, or the head on the wall.</description>
-  </item>
-  <item>
-    <title>Grappling Hooks</title>
-    <link>https://mods.vintagestory.at/show/mod/grapplinghooks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grapplinghooks#7795</guid>
-    <pubDate>Sat, 24 Oct 2026 11:51:15 -0000</pubDate>
-    <description>You know you want a grappling hook, just download it already!</description>
-  </item>
-  <item>
-    <title>More Buckets</title>
-    <link>https://mods.vintagestory.at/show/mod/morebuckets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebuckets#11536</guid>
-    <pubDate>Sat, 24 Oct 2026 11:49:12 -0000</pubDate>
-    <description>Leave those exhausting trips to the spring behind and let the new buckets and tanks do the hard work</description>
   </item>
 </channel>
 </rss>
