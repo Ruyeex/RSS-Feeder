@@ -4,7 +4,56 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 24 Oct 2026 22:58:24 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 00:59:48 +0000</lastBuildDate>
+  <item>
+    <title>Bigger Bags</title>
+    <link>https://mods.vintagestory.at/show/mod/12816</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12816#12816</guid>
+    <pubDate>Sun, 25 Oct 2026 00:52:47 -0000</pubDate>
+    <description>Makes every bag 2x as big.</description>
+  </item>
+  <item>
+    <title>Firstaidkits</title>
+    <link>https://mods.vintagestory.at/show/mod/5980</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5980#5980</guid>
+    <pubDate>Sun, 25 Oct 2026 00:46:57 -0000</pubDate>
+    <description>Adds in functional first aid items &amp; firstaidkit bags to carry Healingitems + Alchemy</description>
+  </item>
+  <item>
+    <title>Kith</title>
+    <link>https://mods.vintagestory.at/show/mod/kith</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kith#12793</guid>
+    <pubDate>Sun, 25 Oct 2026 00:40:31 -0000</pubDate>
+    <description>Host your world for friends, comes with an island hub, cosmetics, emotes, and chat.</description>
+  </item>
+  <item>
+    <title>Rustworks</title>
+    <link>https://mods.vintagestory.at/show/mod/rustworks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustworks#12814</guid>
+    <pubDate>Sun, 25 Oct 2026 00:16:13 -0000</pubDate>
+    <description>Create metal scrap by sealing iron or steel in a barrel, and get some metal back afterwards.</description>
+  </item>
+  <item>
+    <title>Mine Shaft Elevator </title>
+    <link>https://mods.vintagestory.at/show/mod/12746</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12746#12746</guid>
+    <pubDate>Sat, 24 Oct 2026 23:52:05 -0000</pubDate>
+    <description>Connect your mine levels, workshops and towers with a working elevator.</description>
+  </item>
+  <item>
+    <title>Bigger Containers</title>
+    <link>https://mods.vintagestory.at/show/mod/12792</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12792#12792</guid>
+    <pubDate>Sat, 24 Oct 2026 23:49:36 -0000</pubDate>
+    <description>Makes every container twice as big</description>
+  </item>
+  <item>
+    <title>Valioso</title>
+    <link>https://mods.vintagestory.at/show/mod/11120</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11120#11120</guid>
+    <pubDate>Sat, 24 Oct 2026 23:48:04 -0000</pubDate>
+    <description>Valioso Mod</description>
+  </item>
   <item>
     <title>RFMechanics</title>
     <link>https://mods.vintagestory.at/show/mod/rfmechanics</link>
@@ -25,13 +74,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/handbookcraftoptimizer#12626</guid>
     <pubDate>Sat, 24 Oct 2026 22:20:16 -0000</pubDate>
     <description>A creation aid system with a mod filter and handbook heavy optimizations.</description>
-  </item>
-  <item>
-    <title>Valioso</title>
-    <link>https://mods.vintagestory.at/show/mod/11120</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11120#11120</guid>
-    <pubDate>Sat, 24 Oct 2026 22:11:35 -0000</pubDate>
-    <description>Valioso Mod</description>
   </item>
   <item>
     <title>Sammiches</title>
@@ -97,6 +139,20 @@
     <description>Adds Sturdy Bear Armor to the game, crafted by sewing sturdy leather onto Bear Hide Armor.</description>
   </item>
   <item>
+    <title>Ardyn Leveling</title>
+    <link>https://mods.vintagestory.at/show/mod/ardynleveling</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ardynleveling#12761</guid>
+    <pubDate>Sat, 24 Oct 2026 20:57:18 -0000</pubDate>
+    <description>Deep profession-based progression with customizable talent trees and hundreds of unique skills.</description>
+  </item>
+  <item>
+    <title>Gearless Homo Sapiens</title>
+    <link>https://mods.vintagestory.at/show/mod/gearlesshs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gearlesshs#12808</guid>
+    <pubDate>Sat, 24 Oct 2026 20:41:37 -0000</pubDate>
+    <description>Removes underground gears from Homo Sapiens mode.</description>
+  </item>
+  <item>
     <title>C&amp;N RPG Classes</title>
     <link>https://mods.vintagestory.at/show/mod/canrpgclasses</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canrpgclasses#9965</guid>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
     <pubDate>Sat, 24 Oct 2026 19:37:46 -0000</pubDate>
     <description> (Valkyrian Skies for VS basically) Build block-made moving ships and structures</description>
-  </item>
-  <item>
-    <title>Kith</title>
-    <link>https://mods.vintagestory.at/show/mod/kith</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kith#12793</guid>
-    <pubDate>Sat, 24 Oct 2026 19:18:43 -0000</pubDate>
-    <description>Host your world for friends, comes with an island hub, cosmetics, emotes, and chat.</description>
-  </item>
-  <item>
-    <title>Newfies Server Essentials Suite</title>
-    <link>https://mods.vintagestory.at/show/mod/11556</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
-    <pubDate>Sat, 24 Oct 2026 18:48:52 -0000</pubDate>
-    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
-  </item>
-  <item>
-    <title>Esoterica</title>
-    <link>https://mods.vintagestory.at/show/mod/6087</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6087#6087</guid>
-    <pubDate>Sat, 24 Oct 2026 18:47:17 -0000</pubDate>
-    <description>A sixth history community license mod merging the lore from Cultist Simulator with Vintage Story.</description>
-  </item>
-  <item>
-    <title>WoNH Races</title>
-    <link>https://mods.vintagestory.at/show/mod/wonhraces</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wonhraces#12686</guid>
-    <pubDate>Sat, 24 Oct 2026 18:47:14 -0000</pubDate>
-    <description>This mod adds playable races for the World of New Horizons server.</description>
-  </item>
-  <item>
-    <title>VSA_API</title>
-    <link>https://mods.vintagestory.at/show/mod/9139</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9139#9139</guid>
-    <pubDate>Sat, 24 Oct 2026 18:45:15 -0000</pubDate>
-    <description>VSA API</description>
-  </item>
-  <item>
-    <title>Nileks Craftables</title>
-    <link>https://mods.vintagestory.at/show/mod/7639</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7639#7639</guid>
-    <pubDate>Sat, 24 Oct 2026 18:41:50 -0000</pubDate>
-    <description>Adds multiple ballenced recipes to craft items such as sticks and high fertility soil.</description>
-  </item>
-  <item>
-    <title>望远镜分支（Spyglass Fork）</title>
-    <link>https://mods.vintagestory.at/show/mod/spyglassfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spyglassfork#12806</guid>
-    <pubDate>Sat, 24 Oct 2026 18:31:37 -0000</pubDate>
-    <description>For Chinese community servers only（Spyglass Fork）</description>
-  </item>
-  <item>
-    <title>Syrup and CO2</title>
-    <link>https://mods.vintagestory.at/show/mod/12284</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12284#12284</guid>
-    <pubDate>Sat, 24 Oct 2026 18:27:32 -0000</pubDate>
-    <description>Adds cola and soda as well as a carbonation system to the game!</description>
   </item>
 </channel>
 </rss>
