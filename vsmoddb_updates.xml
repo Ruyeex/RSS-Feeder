@@ -4,7 +4,140 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 25 Oct 2026 18:47:00 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 21:31:44 +0000</lastBuildDate>
+  <item>
+    <title>Ancient Armory Quenching</title>
+    <link>https://mods.vintagestory.at/show/mod/ancientarmoryquenching</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ancientarmoryquenching#12834</guid>
+    <pubDate>Sun, 25 Oct 2026 21:30:57 -0000</pubDate>
+    <description>Native quenching and tempering for Ancient Armory iron, meteoric iron and steel weapon parts.</description>
+  </item>
+  <item>
+    <title>Forager's Delight</title>
+    <link>https://mods.vintagestory.at/show/mod/8836</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8836#8836</guid>
+    <pubDate>Sun, 25 Oct 2026 21:28:34 -0000</pubDate>
+    <description>Tweaks and extra content to disable farming and survive on foraging alone.</description>
+  </item>
+  <item>
+    <title>Better Pit Kiln Timer Continued</title>
+    <link>https://mods.vintagestory.at/show/mod/betterpitkilntimercontinued</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterpitkilntimercontinued#12812</guid>
+    <pubDate>Sun, 25 Oct 2026 21:26:14 -0000</pubDate>
+    <description>Client-only countdowns for pit kilns, charcoal pits and bloomeries. No server installation needed.</description>
+  </item>
+  <item>
+    <title>Evenfall Server Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/12676</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12676#12676</guid>
+    <pubDate>Sun, 25 Oct 2026 21:21:28 -0000</pubDate>
+    <description>Compatibility and customization pack for the Evenfall server</description>
+  </item>
+  <item>
+    <title>Wilderlands No maxForest Crop Restriction</title>
+    <link>https://mods.vintagestory.at/show/mod/9078</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9078#9078</guid>
+    <pubDate>Sun, 25 Oct 2026 21:15:36 -0000</pubDate>
+    <description>This mod completely removes the maxForest worldgen restriction on crops and berry bushes.</description>
+  </item>
+  <item>
+    <title>Wilderlands Seventy Five Percent Forest Density Crop Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/9077</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9077#9077</guid>
+    <pubDate>Sun, 25 Oct 2026 21:15:15 -0000</pubDate>
+    <description>Adjusts maxForest values on crops and berry bushes to allow generation on +75% forested worlds.</description>
+  </item>
+  <item>
+    <title>Wilderlands Fifty Percent Forest Density Crop Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/9076</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9076#9076</guid>
+    <pubDate>Sun, 25 Oct 2026 21:14:50 -0000</pubDate>
+    <description>Adjusts maxForest value on crops and berry bushes to allow better generation on +50% forest worlds.</description>
+  </item>
+  <item>
+    <title>Aegis</title>
+    <link>https://mods.vintagestory.at/show/mod/aegis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aegis#12213</guid>
+    <pubDate>Sun, 25 Oct 2026 21:07:33 -0000</pubDate>
+    <description>The client mod for Aegis Networks servers</description>
+  </item>
+  <item>
+    <title>Portable Resonator</title>
+    <link>https://mods.vintagestory.at/show/mod/portableresonator</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/portableresonator#12813</guid>
+    <pubDate>Sun, 25 Oct 2026 21:00:32 -0000</pubDate>
+    <description>A portable version of the standard resonator. Can be placed on Elks.</description>
+  </item>
+  <item>
+    <title>Ground Works</title>
+    <link>https://mods.vintagestory.at/show/mod/vscngroundworks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscngroundworks#12787</guid>
+    <pubDate>Sun, 25 Oct 2026 21:00:21 -0000</pubDate>
+    <description>Soil compaction, loosening, path shaping, stone polishing, and wooden path building.</description>
+  </item>
+  <item>
+    <title>Teapot's Great Bighorn</title>
+    <link>https://mods.vintagestory.at/show/mod/teapotsgreatbighorn</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgreatbighorn#12407</guid>
+    <pubDate>Sun, 25 Oct 2026 20:50:35 -0000</pubDate>
+    <description>Big mounts with bigger horns! Run across the wilderness in style!</description>
+  </item>
+  <item>
+    <title>Better Jonas Devices Fixed with Patches!</title>
+    <link>https://mods.vintagestory.at/show/mod/12833</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12833#12833</guid>
+    <pubDate>Sun, 25 Oct 2026 20:45:25 -0000</pubDate>
+    <description>A patched tweaked version of Better Jonas Devices!</description>
+  </item>
+  <item>
+    <title>Rustworks</title>
+    <link>https://mods.vintagestory.at/show/mod/rustworks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustworks#12814</guid>
+    <pubDate>Sun, 25 Oct 2026 20:20:12 -0000</pubDate>
+    <description>Create metal scrap by sealing iron or steel in a barrel, and get some metal back afterwards.</description>
+  </item>
+  <item>
+    <title>Vintage Przygoda: Korony</title>
+    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
+    <pubDate>Sun, 25 Oct 2026 19:48:22 -0000</pubDate>
+    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
+  </item>
+  <item>
+    <title>Hearth &amp; Draught [Public Beta]</title>
+    <link>https://mods.vintagestory.at/show/mod/hearthanddraught</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hearthanddraught#11803</guid>
+    <pubDate>Sun, 25 Oct 2026 19:37:49 -0000</pubDate>
+    <description>Windows, chimneys, log burners and open fires, with room heating and ventilation.</description>
+  </item>
+  <item>
+    <title>Vanilla: Expanded</title>
+    <link>https://mods.vintagestory.at/show/mod/vanillaexpanded</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillaexpanded#6221</guid>
+    <pubDate>Sun, 25 Oct 2026 19:33:52 -0000</pubDate>
+    <description>Aims to add quality-of-life enhancements, missing functionality, and minor bug fixes</description>
+  </item>
+  <item>
+    <title>BlockRespawn</title>
+    <link>https://mods.vintagestory.at/show/mod/12784</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12784#12784</guid>
+    <pubDate>Sun, 25 Oct 2026 19:26:49 -0000</pubDate>
+    <description>Save areas of blocks and have broken blocks respawn after a set time. Admin tool for servers.</description>
+  </item>
+  <item>
+    <title>Item Tags</title>
+    <link>https://mods.vintagestory.at/show/mod/itemtags</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/itemtags#12152</guid>
+    <pubDate>Sun, 25 Oct 2026 19:06:20 -0000</pubDate>
+    <description>Assigns searchable tags to items. Define tags in your own mod.</description>
+  </item>
+  <item>
+    <title>Jonas Robots</title>
+    <link>https://mods.vintagestory.at/show/mod/12831</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12831#12831</guid>
+    <pubDate>Sun, 25 Oct 2026 18:51:40 -0000</pubDate>
+    <description>Play as a robot: five player races with classes, expressive faces and glowing eyes.</description>
+  </item>
   <item>
     <title>Easy Building</title>
     <link>https://mods.vintagestory.at/show/mod/3290</link>
@@ -81,139 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jonashorses#12689</guid>
     <pubDate>Sun, 25 Oct 2026 16:17:45 -0000</pubDate>
     <description>Robotic horses with temporal drive gears, personality keys and little robot pets for your base.</description>
-  </item>
-  <item>
-    <title>Panning Machine</title>
-    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
-    <pubDate>Sun, 25 Oct 2026 16:11:14 -0000</pubDate>
-    <description>Simple machine for panning, now with a heavy-duty Industrial Panning Machine ⚙️</description>
-  </item>
-  <item>
-    <title>Specialized Bags Revived</title>
-    <link>https://mods.vintagestory.at/show/mod/specializedbagsrevived</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/specializedbagsrevived#2920</guid>
-    <pubDate>Sun, 25 Oct 2026 15:59:17 -0000</pubDate>
-    <description>Specialty bags that only hold items related to their bag type.</description>
-  </item>
-  <item>
-    <title>Insulated Japanese Architecture</title>
-    <link>https://mods.vintagestory.at/show/mod/12413</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12413#12413</guid>
-    <pubDate>Sun, 25 Oct 2026 15:52:31 -0000</pubDate>
-    <description>The same Japanese Archictecture but with insolation and more wood types.</description>
-  </item>
-  <item>
-    <title>Alegacy: Foundation</title>
-    <link>https://mods.vintagestory.at/show/mod/albase</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/albase#6694</guid>
-    <pubDate>Sun, 25 Oct 2026 15:50:47 -0000</pubDate>
-    <description>Foundation quest pack for the Alegacy Server.</description>
-  </item>
-  <item>
-    <title>Alegacy Quest Framework</title>
-    <link>https://mods.vintagestory.at/show/mod/alegacyquestframework</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyquestframework#6609</guid>
-    <pubDate>Sun, 25 Oct 2026 15:49:44 -0000</pubDate>
-    <description>Alegacy Quest Framework is a full-featured quest and boss combat engine for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Aegis Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/classes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/classes#12698</guid>
-    <pubDate>Sun, 25 Oct 2026 15:42:16 -0000</pubDate>
-    <description>Custom character classes for Aegis Networks servers.</description>
-  </item>
-  <item>
-    <title>MX's BioChem</title>
-    <link>https://mods.vintagestory.at/show/mod/12829</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12829#12829</guid>
-    <pubDate>Sun, 25 Oct 2026 15:39:44 -0000</pubDate>
-    <description>MX's BioChem is a mod that allows players to find &amp; use the secret bacterial world around them</description>
-  </item>
-  <item>
-    <title>VSA - Replica</title>
-    <link>https://mods.vintagestory.at/show/mod/9115</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
-    <pubDate>Sun, 25 Oct 2026 15:34:44 -0000</pubDate>
-    <description> (Valkyrian Skies for VS basically) Build block-made moving ships and structures</description>
-  </item>
-  <item>
-    <title>Pisciculture</title>
-    <link>https://mods.vintagestory.at/show/mod/pisciculture</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pisciculture#12744</guid>
-    <pubDate>Sun, 25 Oct 2026 15:32:23 -0000</pubDate>
-    <description>Fish farming: feed, breed and domesticate fish, collect roe, carry them in buckets, spear-harvest.</description>
-  </item>
-  <item>
-    <title>Alegacy Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/alegacyclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyclaims#12279</guid>
-    <pubDate>Sun, 25 Oct 2026 15:16:12 -0000</pubDate>
-    <description>Chunk-aligned land claims managed on a world map: grant build and use access per player or group.</description>
-  </item>
-  <item>
-    <title>GamepadCompanionVS</title>
-    <link>https://mods.vintagestory.at/show/mod/8669</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8669#8669</guid>
-    <pubDate>Sun, 25 Oct 2026 14:44:59 -0000</pubDate>
-    <description>Native gamepad support for Vintage Story 1.22+ — 12-slot radial menu, virtual cursor for GUI, etc. </description>
-  </item>
-  <item>
-    <title>For Days to Come - Modpack</title>
-    <link>https://mods.vintagestory.at/show/mod/fordaystocomemodpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fordaystocomemodpack#12574</guid>
-    <pubDate>Sun, 25 Oct 2026 14:36:02 -0000</pubDate>
-    <description>A vanilla+ modpack for immersive survival, exploration, and medieval life.</description>
-  </item>
-  <item>
-    <title>Lanterns Re-Lit</title>
-    <link>https://mods.vintagestory.at/show/mod/lanternsrelit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lanternsrelit#12828</guid>
-    <pubDate>Sun, 25 Oct 2026 14:34:19 -0000</pubDate>
-    <description>Tweaks and visual improvements for lanterns and other light sources!</description>
-  </item>
-  <item>
-    <title>Haunford Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/11926</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11926#11926</guid>
-    <pubDate>Sun, 25 Oct 2026 14:29:14 -0000</pubDate>
-    <description>A collection of patches for Haunfords Private Server</description>
-  </item>
-  <item>
-    <title>Vintage Przygoda: Korony</title>
-    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
-    <pubDate>Sun, 25 Oct 2026 14:12:25 -0000</pubDate>
-    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
-  </item>
-  <item>
-    <title>Temporal Storm Time Check HUD</title>
-    <link>https://mods.vintagestory.at/show/mod/temporalstormtimecheckhud</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/temporalstormtimecheckhud#12827</guid>
-    <pubDate>Sun, 25 Oct 2026 14:06:44 -0000</pubDate>
-    <description>Shows how many days are left until the next temporal storm, right on your screen.</description>
-  </item>
-  <item>
-    <title>Prosequor Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/11726</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11726#11726</guid>
-    <pubDate>Sun, 25 Oct 2026 13:27:28 -0000</pubDate>
-    <description>Adds compatibility between popular Vintage Story mods and Prosequor.</description>
-  </item>
-  <item>
-    <title>Hybrasil Skies</title>
-    <link>https://mods.vintagestory.at/show/mod/12826</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12826#12826</guid>
-    <pubDate>Sun, 25 Oct 2026 12:53:44 -0000</pubDate>
-    <description>Changes the night sky to allow northern lights at lower temps</description>
-  </item>
-  <item>
-    <title>Critcher's Compacter</title>
-    <link>https://mods.vintagestory.at/show/mod/compacter</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/compacter#6577</guid>
-    <pubDate>Sun, 25 Oct 2026 12:47:01 -0000</pubDate>
-    <description>Any hammer can compact dirt into packed dirt and packed dirt into rammed earth and now makes paths</description>
   </item>
 </channel>
 </rss>
