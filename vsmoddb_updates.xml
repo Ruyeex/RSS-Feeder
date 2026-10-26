@@ -4,216 +4,216 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 26 Oct 2026 17:09:35 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 22:24:46 +0000</lastBuildDate>
   <item>
-    <title>Dogs Basegame Class Overhaul</title>
-    <link>https://mods.vintagestory.at/show/mod/dogsclassesbasegame</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dogsclassesbasegame#12482</guid>
-    <pubDate>Mon, 26 Oct 2026 17:06:45 -0000</pubDate>
-    <description>A class overhaul for the 6 vanilla classes, evening them out in power from early to lategame.</description>
+    <title>VHS Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/12439</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12439#12439</guid>
+    <pubDate>Mon, 26 Oct 2026 22:24:17 -0000</pubDate>
+    <description>Patches for the Vintage Hoarder's Society Server</description>
   </item>
   <item>
-    <title>Clothier SUCKS!</title>
-    <link>https://mods.vintagestory.at/show/mod/clothiersucks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clothiersucks#11997</guid>
-    <pubDate>Mon, 26 Oct 2026 16:56:34 -0000</pubDate>
-    <description>Makes the Clothier trait only necessary for Gambesons. All other clothing recipes are all-class.</description>
+    <title>vintageparkserver</title>
+    <link>https://mods.vintagestory.at/show/mod/12437</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12437#12437</guid>
+    <pubDate>Mon, 26 Oct 2026 22:23:38 -0000</pubDate>
+    <description>Bringing in trees and things for our private server. </description>
+  </item>
+  <item>
+    <title>Coal burn temperature adjustment</title>
+    <link>https://mods.vintagestory.at/show/mod/12866</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12866#12866</guid>
+    <pubDate>Mon, 26 Oct 2026 22:05:12 -0000</pubDate>
+    <description>Adjusts the burn temperatures of brown coal, black coal, charcoal, and coal coke</description>
+  </item>
+  <item>
+    <title>Yukari's misc alloy recipes</title>
+    <link>https://mods.vintagestory.at/show/mod/4918</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4918#4918</guid>
+    <pubDate>Mon, 26 Oct 2026 21:56:47 -0000</pubDate>
+    <description>Various alloy recipes for vanilla metals made for various reasons</description>
+  </item>
+  <item>
+    <title>Aegis</title>
+    <link>https://mods.vintagestory.at/show/mod/aegis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aegis#12213</guid>
+    <pubDate>Mon, 26 Oct 2026 21:52:54 -0000</pubDate>
+    <description>The client mod for Aegis Networks servers</description>
   </item>
   <item>
     <title>Vintage Przygoda: Korony</title>
     <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
-    <pubDate>Mon, 26 Oct 2026 16:54:00 -0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 21:43:02 -0000</pubDate>
     <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
   </item>
   <item>
-    <title>Tailor SUCKS!</title>
-    <link>https://mods.vintagestory.at/show/mod/tailorsucks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tailorsucks#11996</guid>
-    <pubDate>Mon, 26 Oct 2026 16:52:43 -0000</pubDate>
-    <description>Disables the Tailor class and makes all their recipes available to every class.</description>
+    <title>ChiselControl</title>
+    <link>https://mods.vintagestory.at/show/mod/chiselcontrol</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiselcontrol#12859</guid>
+    <pubDate>Mon, 26 Oct 2026 21:37:11 -0000</pubDate>
+    <description>Carve what you want, much faster, with profesional tools.</description>
+  </item>
+  <item>
+    <title>NDL Utility Bags</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlutilitybags</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlutilitybags#12794</guid>
+    <pubDate>Mon, 26 Oct 2026 21:32:57 -0000</pubDate>
+    <description>Adds specialized inventory bags for specific items in the game</description>
+  </item>
+  <item>
+    <title>Cosmetics for Lupines</title>
+    <link>https://mods.vintagestory.at/show/mod/12865</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12865#12865</guid>
+    <pubDate>Mon, 26 Oct 2026 21:23:28 -0000</pubDate>
+    <description>Adds more options for lupine player characters</description>
+  </item>
+  <item>
+    <title>Alchemical Refinement</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemicalrefinement</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemicalrefinement#3173</guid>
+    <pubDate>Mon, 26 Oct 2026 21:20:35 -0000</pubDate>
+    <description>A mod that lets you refine ore using the Alchemical Process</description>
+  </item>
+  <item>
+    <title>Ponyraces: Cultures of Equestria 1.1.1 [WIP]</title>
+    <link>https://mods.vintagestory.at/show/mod/mlpcultures</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mlpcultures#11519</guid>
+    <pubDate>Mon, 26 Oct 2026 21:19:00 -0000</pubDate>
+    <description>Custom ponyraces mod with a division by culture and race for my server Shards of Harmony</description>
+  </item>
+  <item>
+    <title>Walkable Entities</title>
+    <link>https://mods.vintagestory.at/show/mod/walkableentities</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/walkableentities#11704</guid>
+    <pubDate>Mon, 26 Oct 2026 21:12:54 -0000</pubDate>
+    <description>Walkable sailboat, shipwright, airships and trains - a framework to make your entities walkable</description>
+  </item>
+  <item>
+    <title>Industrial Press</title>
+    <link>https://mods.vintagestory.at/show/mod/12724</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12724#12724</guid>
+    <pubDate>Mon, 26 Oct 2026 21:01:51 -0000</pubDate>
+    <description>A mechanical industrial fruit press for automated juice production, with storage tanks and chutes.</description>
+  </item>
+  <item>
+    <title>Creature Footsteps Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/creaturefootstepspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/creaturefootstepspatch#12857</guid>
+    <pubDate>Mon, 26 Oct 2026 20:42:32 -0000</pubDate>
+    <description>Patches the original mod so that you can use it with ANY creature, even modded ones.</description>
+  </item>
+  <item>
+    <title>𝓦𝓻𝓲𝓽𝓽𝓮𝓷 𝓦𝓸𝓻𝓭 - parchment and book overhaul</title>
+    <link>https://mods.vintagestory.at/show/mod/writtenword</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/writtenword#12602</guid>
+    <pubDate>Mon, 26 Oct 2026 20:26:45 -0000</pubDate>
+    <description>Parchment and book overhaul. Parchments can be placed on walls, adds nickname-only signatures</description>
+  </item>
+  <item>
+    <title>Wood Ash Compatibility for Industrial Story and Soap and Lye</title>
+    <link>https://mods.vintagestory.at/show/mod/12862</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12862#12862</guid>
+    <pubDate>Mon, 26 Oct 2026 20:17:58 -0000</pubDate>
+    <description>Quick and dirty patch to convert between the wood ash in Industrial Story and the one in Soap and Ly</description>
+  </item>
+  <item>
+    <title>Étiquettes de caisses</title>
+    <link>https://mods.vintagestory.at/show/mod/12861</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12861#12861</guid>
+    <pubDate>Mon, 26 Oct 2026 20:17:56 -0000</pubDate>
+    <description>Affiche sur les caisses l’icône du premier objet rangé, sur une étiquette ancienne.</description>
+  </item>
+  <item>
+    <title>Vanilla Plus QoL</title>
+    <link>https://mods.vintagestory.at/show/mod/vanillaplusqol</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillaplusqol#12712</guid>
+    <pubDate>Mon, 26 Oct 2026 20:16:19 -0000</pubDate>
+    <description>Small quality-of-life improvements that preserve the vanilla Vintage Story experience.</description>
+  </item>
+  <item>
+    <title>Crown &amp; Coalition Chapter 2</title>
+    <link>https://mods.vintagestory.at/show/mod/11428</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
+    <pubDate>Mon, 26 Oct 2026 20:15:03 -0000</pubDate>
+    <description>Chapter 2 additions for C&amp;C.</description>
+  </item>
+  <item>
+    <title>Crown &amp; Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/11476</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
+    <pubDate>Mon, 26 Oct 2026 20:09:14 -0000</pubDate>
+    <description>For details on content, please contact me directly via Discord.</description>
+  </item>
+  <item>
+    <title>Eventide Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Mon, 26 Oct 2026 19:41:37 -0000</pubDate>
+    <description>Claim maps, settlements, and access permissions for the Eventide server.</description>
   </item>
   <item>
     <title>Sauce-a-lot</title>
     <link>https://mods.vintagestory.at/show/mod/5721</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5721#5721</guid>
-    <pubDate>Mon, 26 Oct 2026 16:37:38 -0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 19:09:41 -0000</pubDate>
     <description>This mod adds several sauces that can be used in meals and for slathering onto meats!</description>
   </item>
   <item>
-    <title>Evenfall Server Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/12676</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12676#12676</guid>
-    <pubDate>Mon, 26 Oct 2026 16:28:56 -0000</pubDate>
-    <description>Compatibility and customization pack for the Evenfall server</description>
+    <title>PrimitiveTranslator</title>
+    <link>https://mods.vintagestory.at/show/mod/primitivetranslator</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/primitivetranslator#12180</guid>
+    <pubDate>Mon, 26 Oct 2026 18:57:05 -0000</pubDate>
+    <description>A utility for comparing and translating localization files of VintageStory mods.</description>
   </item>
   <item>
-    <title>Westeros Map [Alpha]</title>
-    <link>https://mods.vintagestory.at/show/mod/12851</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12851#12851</guid>
-    <pubDate>Mon, 26 Oct 2026 16:13:24 -0000</pubDate>
-    <description>Westeros Map made using worldpainter</description>
+    <title>Volume Sliders</title>
+    <link>https://mods.vintagestory.at/show/mod/12854</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12854#12854</guid>
+    <pubDate>Mon, 26 Oct 2026 18:54:17 -0000</pubDate>
+    <description>Some sounds in Vintage Story you'll love for a hundred hours, and some will wear you down.</description>
   </item>
   <item>
-    <title>Easy Building</title>
-    <link>https://mods.vintagestory.at/show/mod/3290</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3290#3290</guid>
-    <pubDate>Mon, 26 Oct 2026 15:46:38 -0000</pubDate>
-    <description>A simple mod where you get a bit more blocks and items from crafting!</description>
-  </item>
-  <item>
-    <title>Bismut Studio Live Simulation (Draft)</title>
-    <link>https://mods.vintagestory.at/show/mod/bismutstudiolivesimulationdraft</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bismutstudiolivesimulationdraft#12848</guid>
-    <pubDate>Mon, 26 Oct 2026 15:17:18 -0000</pubDate>
-    <description>Live simulation draft for Bismut Studio. Not for public release.</description>
-  </item>
-  <item>
-    <title>Teapot's Undead Legion</title>
-    <link>https://mods.vintagestory.at/show/mod/teapotsundeadlegion</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsundeadlegion#12711</guid>
-    <pubDate>Mon, 26 Oct 2026 14:49:19 -0000</pubDate>
-    <description>Armed undead Revenants roam the night. Bind your own with a Temporal Core and lead them to battle!</description>
-  </item>
-  <item>
-    <title>Kyuubs</title>
-    <link>https://mods.vintagestory.at/show/mod/kyuubs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kyuubs#5106</guid>
-    <pubDate>Mon, 26 Oct 2026 13:38:22 -0000</pubDate>
-    <description>Blocks for your building and chiseling needs!</description>
-  </item>
-  <item>
-    <title>望远镜分支（Spyglass Fork）</title>
-    <link>https://mods.vintagestory.at/show/mod/spyglassfork</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spyglassfork#12806</guid>
-    <pubDate>Mon, 26 Oct 2026 13:27:03 -0000</pubDate>
-    <description>For Chinese community servers only（Spyglass Fork）</description>
-  </item>
-  <item>
-    <title>VSCN 服务器改进模组的模组（Mod Fix Mod）</title>
-    <link>https://mods.vintagestory.at/show/mod/vscnservermodfixmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnservermodfixmod#12040</guid>
-    <pubDate>Mon, 26 Oct 2026 13:14:33 -0000</pubDate>
-    <description>For Chinese community servers only（Mod Fix Mod）</description>
-  </item>
-  <item>
-    <title>Null Compass</title>
-    <link>https://mods.vintagestory.at/show/mod/nullcompass</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullcompass#11863</guid>
-    <pubDate>Mon, 26 Oct 2026 13:08:45 -0000</pubDate>
-    <description>Four compasses and a temporal beacon that can be attuned. Bearings, never positions.</description>
+    <title>4nric's Tool Rhythm</title>
+    <link>https://mods.vintagestory.at/show/mod/12799</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12799#12799</guid>
+    <pubDate>Mon, 26 Oct 2026 18:37:51 -0000</pubDate>
+    <description>Plays one hit sound per swing, right when the tool strikes: pickaxes, axes, shovels and more.</description>
   </item>
   <item>
     <title>Null Skills</title>
     <link>https://mods.vintagestory.at/show/mod/nullskills</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullskills#12660</guid>
-    <pubDate>Mon, 26 Oct 2026 13:08:42 -0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 18:20:01 -0000</pubDate>
     <description>A maintained fork of XLib and XSkills for 1.22: thirteen skill trees, 185 abilities.</description>
   </item>
   <item>
-    <title>libGUI</title>
-    <link>https://mods.vintagestory.at/show/mod/libgui</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/libgui#8556</guid>
-    <pubDate>Mon, 26 Oct 2026 13:08:12 -0000</pubDate>
-    <description>Skia based GUI library.</description>
+    <title>C&amp;N RPG Mobs</title>
+    <link>https://mods.vintagestory.at/show/mod/12853</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12853#12853</guid>
+    <pubDate>Mon, 26 Oct 2026 18:06:12 -0000</pubDate>
+    <description>NPC mobs (races, roles, bosses, factions, loot) that fight with C&amp;N RPG Classes spells.</description>
   </item>
   <item>
-    <title>Alegacy patches</title>
-    <link>https://mods.vintagestory.at/show/mod/6997</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6997#6997</guid>
-    <pubDate>Mon, 26 Oct 2026 12:51:45 -0000</pubDate>
-    <description>targeted patches for the Alegacy server setup</description>
+    <title>Wanderer's Sketchbook</title>
+    <link>https://mods.vintagestory.at/show/mod/7256</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7256#7256</guid>
+    <pubDate>Mon, 26 Oct 2026 17:43:32 -0000</pubDate>
+    <description>Adds a sketchbook in which you can draw and write</description>
   </item>
   <item>
-    <title>Alegacy: Foundation</title>
-    <link>https://mods.vintagestory.at/show/mod/albase</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/albase#6694</guid>
-    <pubDate>Mon, 26 Oct 2026 12:51:15 -0000</pubDate>
-    <description>Foundation quest pack for the Alegacy Server.</description>
+    <title>Dead</title>
+    <link>https://mods.vintagestory.at/show/mod/dead</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
+    <pubDate>Mon, 26 Oct 2026 17:42:09 -0000</pubDate>
+    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
   </item>
   <item>
-    <title>Alegacy Quest Framework</title>
-    <link>https://mods.vintagestory.at/show/mod/alegacyquestframework</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyquestframework#6609</guid>
-    <pubDate>Mon, 26 Oct 2026 12:50:53 -0000</pubDate>
-    <description>Alegacy Quest Framework is a full-featured quest and boss combat engine for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Jack's Butchering Add-on</title>
-    <link>https://mods.vintagestory.at/show/mod/31207</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/31207#5233</guid>
-    <pubDate>Mon, 26 Oct 2026 12:34:55 -0000</pubDate>
-    <description>Add-on mod for Butchering.  Replaces tables/hooks model and progression, plus other tweaks.</description>
-  </item>
-  <item>
-    <title>Compressed Coal</title>
-    <link>https://mods.vintagestory.at/show/mod/compressedcoal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/compressedcoal#12845</guid>
-    <pubDate>Mon, 26 Oct 2026 12:14:07 -0000</pubDate>
-    <description>Compressed coal. Dodaje Skompresowany węgiel który pali sie dłużej</description>
-  </item>
-  <item>
-    <title>Galeret Traits Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/galerettraits</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/galerettraits#10565</guid>
-    <pubDate>Mon, 26 Oct 2026 11:55:00 -0000</pubDate>
-    <description>A simple mod to add Trais to my Galeret race Mod</description>
-  </item>
-  <item>
-    <title>Galeret</title>
-    <link>https://mods.vintagestory.at/show/mod/galeret</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/galeret#9970</guid>
-    <pubDate>Mon, 26 Oct 2026 11:54:44 -0000</pubDate>
-    <description>A race of cat people based on kahjit</description>
-  </item>
-  <item>
-    <title>EoS Pack 2</title>
-    <link>https://mods.vintagestory.at/show/mod/12779</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12779#12779</guid>
-    <pubDate>Mon, 26 Oct 2026 11:48:23 -0000</pubDate>
-    <description>Currently in Testing! Trait-based respawn redirection to the nearest configured medical bed.</description>
-  </item>
-  <item>
-    <title>Threnkal</title>
-    <link>https://mods.vintagestory.at/show/mod/threnkal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/threnkal#10944</guid>
-    <pubDate>Mon, 26 Oct 2026 11:47:41 -0000</pubDate>
-    <description>A race of cow folks based on minotaurs and taurens from WoW.</description>
-  </item>
-  <item>
-    <title>Lucy's Stove</title>
-    <link>https://mods.vintagestory.at/show/mod/12775</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12775#12775</guid>
-    <pubDate>Mon, 26 Oct 2026 11:35:38 -0000</pubDate>
-    <description>A four-burner cast-iron cook stove made in loving memory of Grandma Lucy.</description>
-  </item>
-  <item>
-    <title>BetterChinese</title>
-    <link>https://mods.vintagestory.at/show/mod/betterchinese</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/betterchinese#2568</guid>
-    <pubDate>Mon, 26 Oct 2026 11:23:10 -0000</pubDate>
-    <description>更好的汉化</description>
-  </item>
-  <item>
-    <title>Pisciculture</title>
-    <link>https://mods.vintagestory.at/show/mod/pisciculture</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pisciculture#12744</guid>
-    <pubDate>Mon, 26 Oct 2026 11:03:48 -0000</pubDate>
-    <description>Fish farming: feed, breed and domesticate fish, collect roe, carry them in buckets, spear-harvest.</description>
-  </item>
-  <item>
-    <title>Chicken Feed</title>
-    <link>https://mods.vintagestory.at/show/mod/chickenfeed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chickenfeed#2012</guid>
-    <pubDate>Mon, 26 Oct 2026 10:55:09 -0000</pubDate>
-    <description>Got extra grain? Look no further than Chicken Feed! Adds recipes for more efficent chicken food.</description>
-  </item>
-  <item>
-    <title>Wildcraft x Expanded Foods Compatability</title>
-    <link>https://mods.vintagestory.at/show/mod/9738</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9738#9738</guid>
-    <pubDate>Mon, 26 Oct 2026 10:35:10 -0000</pubDate>
-    <description>A work-in-progress mod that aims to act as a bridge between Wildcraft: F&amp;N + Expanded Foods</description>
+    <title>Aldi's Classes [Races PATCH]</title>
+    <link>https://mods.vintagestory.at/show/mod/aldisraces</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aldisraces#6406</guid>
+    <pubDate>Mon, 26 Oct 2026 17:39:07 -0000</pubDate>
+    <description>Aldi's Classes Patch mod to include every goddamn race I could find</description>
   </item>
 </channel>
 </rss>
