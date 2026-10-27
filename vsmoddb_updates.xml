@@ -4,7 +4,112 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 27 Oct 2026 07:28:36 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 14:08:12 +0000</lastBuildDate>
+  <item>
+    <title>Armor Shift Click</title>
+    <link>https://mods.vintagestory.at/show/mod/armorshiftclick</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/armorshiftclick#10477</guid>
+    <pubDate>Tue, 27 Oct 2026 14:06:05 -0000</pubDate>
+    <description>Fixes various inventory quick transfer issues (including armor equiping with shift click)</description>
+  </item>
+  <item>
+    <title>Wildcraft x Expanded Foods Compatability</title>
+    <link>https://mods.vintagestory.at/show/mod/9738</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9738#9738</guid>
+    <pubDate>Tue, 27 Oct 2026 13:37:17 -0000</pubDate>
+    <description>A work-in-progress mod that aims to act as a bridge between Wildcraft: F&amp;N + Expanded Foods</description>
+  </item>
+  <item>
+    <title>BATS!</title>
+    <link>https://mods.vintagestory.at/show/mod/bats</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bats#12425</guid>
+    <pubDate>Tue, 27 Oct 2026 13:27:19 -0000</pubDate>
+    <description>The original flying animal mod featuring BATS!  Also, renewable saltpeter. </description>
+  </item>
+  <item>
+    <title>Vintage Przygoda: Korony</title>
+    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
+    <pubDate>Tue, 27 Oct 2026 12:03:40 -0000</pubDate>
+    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
+  </item>
+  <item>
+    <title>LTO Farming Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/ltofarmingplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ltofarmingplus#12605</guid>
+    <pubDate>Tue, 27 Oct 2026 11:58:04 -0000</pubDate>
+    <description>Mod sur l'agriculture</description>
+  </item>
+  <item>
+    <title>CartForce</title>
+    <link>https://mods.vintagestory.at/show/mod/12758</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12758#12758</guid>
+    <pubDate>Tue, 27 Oct 2026 11:53:03 -0000</pubDate>
+    <description>Let tamed horses, elk and oxen goats pull Cartwright's Caravan carts, sleds and stalls.</description>
+  </item>
+  <item>
+    <title>Russification For Mods</title>
+    <link>https://mods.vintagestory.at/show/mod/5312</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5312#5312</guid>
+    <pubDate>Tue, 27 Oct 2026 11:35:51 -0000</pubDate>
+    <description>Russian Translation Pack — a collection of Russian localizations for various Vintage Story mods.</description>
+  </item>
+  <item>
+    <title>VSCN 文明模拟主模组（Civilization Simulation）</title>
+    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
+    <pubDate>Tue, 27 Oct 2026 11:32:18 -0000</pubDate>
+    <description>For Chinese community servers only（Civilization Simulation）</description>
+  </item>
+  <item>
+    <title>Panning Machine</title>
+    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
+    <pubDate>Tue, 27 Oct 2026 11:30:04 -0000</pubDate>
+    <description>Simple machine for panning, now with a heavy-duty Industrial Panning Machine ⚙️</description>
+  </item>
+  <item>
+    <title>Easy Building</title>
+    <link>https://mods.vintagestory.at/show/mod/3290</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3290#3290</guid>
+    <pubDate>Tue, 27 Oct 2026 10:48:45 -0000</pubDate>
+    <description>A simple mod where you get a bit more blocks and items from crafting!</description>
+  </item>
+  <item>
+    <title>Polymorph</title>
+    <link>https://mods.vintagestory.at/show/mod/polymorph</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/polymorph#12593</guid>
+    <pubDate>Tue, 27 Oct 2026 10:29:54 -0000</pubDate>
+    <description>Choose which recipe the survival crafting grid uses when several match.</description>
+  </item>
+  <item>
+    <title>VSPT: Path Tracing</title>
+    <link>https://mods.vintagestory.at/show/mod/vspt</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vspt#12091</guid>
+    <pubDate>Tue, 27 Oct 2026 10:00:53 -0000</pubDate>
+    <description>A fully path traced HDR renderer for Vintage Story for NVIDIA GPUs</description>
+  </item>
+  <item>
+    <title>LTO Bed Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/ltobedplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ltobedplus#12871</guid>
+    <pubDate>Tue, 27 Oct 2026 09:30:55 -0000</pubDate>
+    <description>Lie in a bed without skipping the night: healing, temporal stability, SleepNeed compatible.</description>
+  </item>
+  <item>
+    <title>𝓦𝓻𝓲𝓽𝓽𝓮𝓷 𝓦𝓸𝓻𝓭 - parchment and book overhaul</title>
+    <link>https://mods.vintagestory.at/show/mod/writtenword</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/writtenword#12602</guid>
+    <pubDate>Tue, 27 Oct 2026 08:03:45 -0000</pubDate>
+    <description>Parchment and book overhaul. Parchments can be placed on walls, adds nickname-only signatures</description>
+  </item>
+  <item>
+    <title>Forager's Delight</title>
+    <link>https://mods.vintagestory.at/show/mod/8836</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8836#8836</guid>
+    <pubDate>Tue, 27 Oct 2026 07:28:58 -0000</pubDate>
+    <description>Tweaks and extra content to disable farming and survive on foraging alone.</description>
+  </item>
   <item>
     <title>Backrooms: Survival Story</title>
     <link>https://mods.vintagestory.at/show/mod/backrooms</link>
@@ -83,25 +188,11 @@
     <description>For Chinese community servers only（Mod Fix Mod）</description>
   </item>
   <item>
-    <title>VSCN 文明模拟主模组（Civilization Simulation）</title>
-    <link>https://mods.vintagestory.at/show/mod/vscncivilizationsimulation</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscncivilizationsimulation#12149</guid>
-    <pubDate>Tue, 27 Oct 2026 05:21:08 -0000</pubDate>
-    <description>For Chinese community servers only（Civilization Simulation）</description>
-  </item>
-  <item>
     <title>NDL Utility Bags</title>
     <link>https://mods.vintagestory.at/show/mod/ndlutilitybags</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlutilitybags#12794</guid>
     <pubDate>Tue, 27 Oct 2026 05:17:22 -0000</pubDate>
     <description>Adds specialized inventory bags for specific items in the game</description>
-  </item>
-  <item>
-    <title>LTO Farming Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/ltofarmingplus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ltofarmingplus#12605</guid>
-    <pubDate>Tue, 27 Oct 2026 04:46:07 -0000</pubDate>
-    <description>Mod sur l'agriculture</description>
   </item>
   <item>
     <title>KCs Dragon Player!</title>
@@ -123,97 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ltobsplus#11958</guid>
     <pubDate>Tue, 27 Oct 2026 04:15:55 -0000</pubDate>
     <description>Toolsmith + Smithing Plus + Weaponsmith and more — a full blacksmithing overhaul.</description>
-  </item>
-  <item>
-    <title>LTO Lib plus</title>
-    <link>https://mods.vintagestory.at/show/mod/ltolibplus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ltolibplus#12550</guid>
-    <pubDate>Tue, 27 Oct 2026 04:14:42 -0000</pubDate>
-    <description>Library for LTO mods</description>
-  </item>
-  <item>
-    <title>NDL Cartography</title>
-    <link>https://mods.vintagestory.at/show/mod/ndlcartography</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlcartography#12554</guid>
-    <pubDate>Tue, 27 Oct 2026 04:10:33 -0000</pubDate>
-    <description>Disables the world map and restricts it to a cartography table or a limited craft able map</description>
-  </item>
-  <item>
-    <title>Ardyn Leveling</title>
-    <link>https://mods.vintagestory.at/show/mod/ardynleveling</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ardynleveling#12761</guid>
-    <pubDate>Tue, 27 Oct 2026 03:57:58 -0000</pubDate>
-    <description>Deep profession-based progression with customizable talent trees and hundreds of unique skills.</description>
-  </item>
-  <item>
-    <title>CB Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/10778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
-    <pubDate>Tue, 27 Oct 2026 03:35:55 -0000</pubDate>
-    <description>Skill and class mod for the CB server</description>
-  </item>
-  <item>
-    <title>Astro's Handbook Loading Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/12869</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12869#12869</guid>
-    <pubDate>Tue, 27 Oct 2026 03:28:11 -0000</pubDate>
-    <description>stops the handbook from freezing your game</description>
-  </item>
-  <item>
-    <title>CB Nametags</title>
-    <link>https://mods.vintagestory.at/show/mod/10460</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10460#10460</guid>
-    <pubDate>Tue, 27 Oct 2026 03:18:43 -0000</pubDate>
-    <description>Nametag mod for more customization</description>
-  </item>
-  <item>
-    <title>Practical Electricity</title>
-    <link>https://mods.vintagestory.at/show/mod/practicalelectricity</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/practicalelectricity#12338</guid>
-    <pubDate>Tue, 27 Oct 2026 03:11:28 -0000</pubDate>
-    <description>Early-1800s DC electricity: real circuits from a vinegar cell to a coal-fired power station.</description>
-  </item>
-  <item>
-    <title>CB Factions</title>
-    <link>https://mods.vintagestory.at/show/mod/9586</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9586#9586</guid>
-    <pubDate>Tue, 27 Oct 2026 03:09:15 -0000</pubDate>
-    <description>Settlement and factions mod</description>
-  </item>
-  <item>
-    <title>CB Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Tue, 27 Oct 2026 03:06:05 -0000</pubDate>
-    <description>Harmony patches for compatibility.</description>
-  </item>
-  <item>
-    <title>CB Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Tue, 27 Oct 2026 02:48:37 -0000</pubDate>
-    <description>JSON content patches</description>
-  </item>
-  <item>
-    <title>Ram/particles Cleaner Collector</title>
-    <link>https://mods.vintagestory.at/show/mod/ramparticlescleaner</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ramparticlescleaner#12356</guid>
-    <pubDate>Tue, 27 Oct 2026 02:27:01 -0000</pubDate>
-    <description>RAM memory optimization and MORE..</description>
-  </item>
-  <item>
-    <title>SlowTox</title>
-    <link>https://mods.vintagestory.at/show/mod/slowtox</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slowtox#4443</guid>
-    <pubDate>Tue, 27 Oct 2026 02:13:05 -0000</pubDate>
-    <description>Makes alcohol useful and more realistic</description>
-  </item>
-  <item>
-    <title>Salary Coin</title>
-    <link>https://mods.vintagestory.at/show/mod/salarycoin</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/salarycoin#11804</guid>
-    <pubDate>Tue, 27 Oct 2026 02:09:13 -0000</pubDate>
-    <description>Automatically distributes AnyCoin tokens to all logged-in and active players,</description>
   </item>
 </channel>
 </rss>
