@@ -4,13 +4,181 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 28 Oct 2026 18:02:54 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 22:58:33 +0000</lastBuildDate>
   <item>
-    <title>Meat Trough Compatibility Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/butcherpatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/butcherpatch#12162</guid>
-    <pubDate>Wed, 28 Oct 2026 17:52:36 -0000</pubDate>
-    <description>Permite colocar carnes preparadas e charque do Butchering e Primitive Survival nos cochos</description>
+    <title>Throwable Ingots</title>
+    <link>https://mods.vintagestory.at/show/mod/12909</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12909#12909</guid>
+    <pubDate>Wed, 28 Oct 2026 22:43:29 -0000</pubDate>
+    <description>Throw ingots like stones, or drop them down a hole: the further they fall, the harder they hit.</description>
+  </item>
+  <item>
+    <title>Evenfall Server Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/12676</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12676#12676</guid>
+    <pubDate>Wed, 28 Oct 2026 22:20:44 -0000</pubDate>
+    <description>Compatibility and customization pack for the Evenfall server</description>
+  </item>
+  <item>
+    <title>Newfies Server Essentials Suite</title>
+    <link>https://mods.vintagestory.at/show/mod/11556</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
+    <pubDate>Wed, 28 Oct 2026 22:10:26 -0000</pubDate>
+    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
+  </item>
+  <item>
+    <title>ClientFix</title>
+    <link>https://mods.vintagestory.at/show/mod/12597</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12597#12597</guid>
+    <pubDate>Wed, 28 Oct 2026 21:53:18 -0000</pubDate>
+    <description>Fixes for SKUFEU server</description>
+  </item>
+  <item>
+    <title>The Monsterpack</title>
+    <link>https://mods.vintagestory.at/show/mod/9530</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9530#9530</guid>
+    <pubDate>Wed, 28 Oct 2026 21:43:08 -0000</pubDate>
+    <description>This pack adds a handful of monster to the game</description>
+  </item>
+  <item>
+    <title>Ardyn Leveling</title>
+    <link>https://mods.vintagestory.at/show/mod/ardynleveling</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ardynleveling#12761</guid>
+    <pubDate>Wed, 28 Oct 2026 21:34:42 -0000</pubDate>
+    <description>Deep profession-based progression with customizable talent trees and hundreds of unique skills.</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Greenwich style</title>
+    <link>https://mods.vintagestory.at/show/mod/4321</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4321#4321</guid>
+    <pubDate>Wed, 28 Oct 2026 21:14:18 -0000</pubDate>
+    <description>Mod adding multiple iron and beyond plate armor variations inspired by Greenwich blacksmiths style</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Gothic style</title>
+    <link>https://mods.vintagestory.at/show/mod/4326</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4326#4326</guid>
+    <pubDate>Wed, 28 Oct 2026 21:13:59 -0000</pubDate>
+    <description>Mod adding multiple iron and beyond plate armor variations inspired by Gothic style</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Varangian Style</title>
+    <link>https://mods.vintagestory.at/show/mod/6520</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6520#6520</guid>
+    <pubDate>Wed, 28 Oct 2026 21:13:31 -0000</pubDate>
+    <description>Mod adding multiple iron and steel plate and scale armor variations inspired by the Varangians</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Chinese Dynasties</title>
+    <link>https://mods.vintagestory.at/show/mod/5062</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5062#5062</guid>
+    <pubDate>Wed, 28 Oct 2026 21:13:16 -0000</pubDate>
+    <description>Mod adding multiple iron+ Scale armor variations in the style of Chinese Dynasties</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Viking Style</title>
+    <link>https://mods.vintagestory.at/show/mod/5754</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5754#5754</guid>
+    <pubDate>Wed, 28 Oct 2026 21:12:19 -0000</pubDate>
+    <description>Mod adding multiple iron and steel plate armor variations inspired by the Vikings</description>
+  </item>
+  <item>
+    <title>Wilderlands Geology</title>
+    <link>https://mods.vintagestory.at/show/mod/9332</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9332#9332</guid>
+    <pubDate>Wed, 28 Oct 2026 21:11:56 -0000</pubDate>
+    <description>Adjusts deposits, geologicalprovinces, and rockstrata values to create more interesting geology</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Hussar style</title>
+    <link>https://mods.vintagestory.at/show/mod/5283</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5283#5283</guid>
+    <pubDate>Wed, 28 Oct 2026 21:11:20 -0000</pubDate>
+    <description>Mod adding multiple iron and beyond plate and brigandine armor variations inspired by Hussars</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Wed, 28 Oct 2026 21:04:18 -0000</pubDate>
+    <description>Cumstomizable Small, Medium and Huge gondolas and structures</description>
+  </item>
+  <item>
+    <title>AdvancedGeology + W. Geology Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/12907</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12907#12907</guid>
+    <pubDate>Wed, 28 Oct 2026 20:53:05 -0000</pubDate>
+    <description>Advanced Geology + Wilderlands Geology compatibility patch</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Jousting style</title>
+    <link>https://mods.vintagestory.at/show/mod/7100</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7100#7100</guid>
+    <pubDate>Wed, 28 Oct 2026 20:49:17 -0000</pubDate>
+    <description>"Mod adding multiple iron and beyond plate armor variations inspired by Jousting armors"</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Core</title>
+    <link>https://mods.vintagestory.at/show/mod/11459</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11459#11459</guid>
+    <pubDate>Wed, 28 Oct 2026 20:47:47 -0000</pubDate>
+    <description>The Core mod for all the Forgotten armory mods</description>
+  </item>
+  <item>
+    <title>Wilderlands Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/7320</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7320#7320</guid>
+    <pubDate>Wed, 28 Oct 2026 20:16:48 -0000</pubDate>
+    <description>A repository for a number of configurable values to adjust base game and Wilderlands mods content.</description>
+  </item>
+  <item>
+    <title>Jakemon's server patches</title>
+    <link>https://mods.vintagestory.at/show/mod/jakemonpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jakemonpatches#12756</guid>
+    <pubDate>Wed, 28 Oct 2026 20:05:51 -0000</pubDate>
+    <description>Some simple json patching for balance changes and race traits on my server.</description>
+  </item>
+  <item>
+    <title>Wilderlands Winter</title>
+    <link>https://mods.vintagestory.at/show/mod/12678</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12678#12678</guid>
+    <pubDate>Wed, 28 Oct 2026 19:52:47 -0000</pubDate>
+    <description>realistic snow, ice, skiing, snowshoes, snow goggles, blizzards, cold water shock, icebergs, sea ice</description>
+  </item>
+  <item>
+    <title>Vara's Lingonberries</title>
+    <link>https://mods.vintagestory.at/show/mod/varaslingonberries</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varaslingonberries#12906</guid>
+    <pubDate>Wed, 28 Oct 2026 19:31:41 -0000</pubDate>
+    <description>Adds lingonberries to the colder regions of your world! The sweeter counterparts to cranberries!</description>
+  </item>
+  <item>
+    <title>Syrup and CO2</title>
+    <link>https://mods.vintagestory.at/show/mod/12284</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12284#12284</guid>
+    <pubDate>Wed, 28 Oct 2026 19:24:19 -0000</pubDate>
+    <description>Adds cola and soda as well as a carbonation system to the game!</description>
+  </item>
+  <item>
+    <title>neobit Vintage Server</title>
+    <link>https://mods.vintagestory.at/show/mod/5161</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5161#5161</guid>
+    <pubDate>Wed, 28 Oct 2026 19:03:02 -0000</pubDate>
+    <description>Collection of tweaks for the neobit server and playthrough.</description>
+  </item>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Wed, 28 Oct 2026 18:25:30 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
+  <item>
+    <title>xLib Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7618</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7618#7618</guid>
+    <pubDate>Wed, 28 Oct 2026 18:25:12 -0000</pubDate>
+    <description>XLib provides an interface to add skills, abilities and effects to the game.</description>
   </item>
   <item>
     <title>TaborServers</title>
@@ -46,174 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
     <pubDate>Wed, 28 Oct 2026 16:52:22 -0000</pubDate>
     <description> (Valkyrian Skies for VS basically) Build block-made moving ships and structures</description>
-  </item>
-  <item>
-    <title>JURAS</title>
-    <link>https://mods.vintagestory.at/show/mod/12905</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12905#12905</guid>
-    <pubDate>Wed, 28 Oct 2026 16:43:40 -0000</pubDate>
-    <description> BETA / PRE-RELEASE - This is the first public test version. It has not been played much yet, so exp</description>
-  </item>
-  <item>
-    <title>Vanilla Plus QoL</title>
-    <link>https://mods.vintagestory.at/show/mod/vanillaplusqol</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vanillaplusqol#12712</guid>
-    <pubDate>Wed, 28 Oct 2026 16:35:33 -0000</pubDate>
-    <description>Small quality-of-life improvements that preserve the vanilla Vintage Story experience.</description>
-  </item>
-  <item>
-    <title>Curio Catalogue</title>
-    <link>https://mods.vintagestory.at/show/mod/curiocatalogue</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/curiocatalogue#12904</guid>
-    <pubDate>Wed, 28 Oct 2026 16:31:58 -0000</pubDate>
-    <description>An album that knows what your collection still misses; ledgers, invoices and want lists for friends.</description>
-  </item>
-  <item>
-    <title>Undead Legion - Skeleton Truce</title>
-    <link>https://mods.vintagestory.at/show/mod/12839</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12839#12839</guid>
-    <pubDate>Wed, 28 Oct 2026 16:28:33 -0000</pubDate>
-    <description>Walk amongst your lost companions. But be wary of where you strike.</description>
-  </item>
-  <item>
-    <title>CB Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Wed, 28 Oct 2026 16:18:24 -0000</pubDate>
-    <description>JSON content patches</description>
-  </item>
-  <item>
-    <title>Dead</title>
-    <link>https://mods.vintagestory.at/show/mod/dead</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
-    <pubDate>Wed, 28 Oct 2026 16:07:46 -0000</pubDate>
-    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
-  </item>
-  <item>
-    <title>Polymorph</title>
-    <link>https://mods.vintagestory.at/show/mod/polymorph</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/polymorph#12593</guid>
-    <pubDate>Wed, 28 Oct 2026 16:05:14 -0000</pubDate>
-    <description>Choose which recipe the survival crafting grid uses when several match.</description>
-  </item>
-  <item>
-    <title>Modular/Immersive Backpack Fixes</title>
-    <link>https://mods.vintagestory.at/show/mod/12376</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12376#12376</guid>
-    <pubDate>Wed, 28 Oct 2026 16:01:04 -0000</pubDate>
-    <description>Fixes for Modular Backpacks + Immersive Backpacks.</description>
-  </item>
-  <item>
-    <title>Vara's Arctic Wolves</title>
-    <link>https://mods.vintagestory.at/show/mod/varasarcticwolves</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varasarcticwolves#12874</guid>
-    <pubDate>Wed, 28 Oct 2026 15:57:25 -0000</pubDate>
-    <description>Adds cute arctic wolves to the colder regions of your world! Nothing more and nothing less.</description>
-  </item>
-  <item>
-    <title>One More Quench!</title>
-    <link>https://mods.vintagestory.at/show/mod/11643</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11643#11643</guid>
-    <pubDate>Wed, 28 Oct 2026 15:52:24 -0000</pubDate>
-    <description>Replaces the vanilla risk/reward quench system with a push-your-luck system with soft failure</description>
-  </item>
-  <item>
-    <title>MeowSkills</title>
-    <link>https://mods.vintagestory.at/show/mod/meowskills</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/meowskills#12835</guid>
-    <pubDate>Wed, 28 Oct 2026 15:47:24 -0000</pubDate>
-    <description>MeowSkills</description>
-  </item>
-  <item>
-    <title>Joy of Painting (Optimized)</title>
-    <link>https://mods.vintagestory.at/show/mod/6967</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6967#6967</guid>
-    <pubDate>Wed, 28 Oct 2026 15:44:13 -0000</pubDate>
-    <description>An optimized version of Joy of Painting </description>
-  </item>
-  <item>
-    <title>Forager's Delight</title>
-    <link>https://mods.vintagestory.at/show/mod/8836</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8836#8836</guid>
-    <pubDate>Wed, 28 Oct 2026 15:03:46 -0000</pubDate>
-    <description>Tweaks and extra content to disable farming and survive on foraging alone.</description>
-  </item>
-  <item>
-    <title>Vintage Achievements</title>
-    <link>https://mods.vintagestory.at/show/mod/vintageachievements</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageachievements#10615</guid>
-    <pubDate>Wed, 28 Oct 2026 14:20:17 -0000</pubDate>
-    <description>Достижения игрока (Achievements)</description>
-  </item>
-  <item>
-    <title>Science Core</title>
-    <link>https://mods.vintagestory.at/show/mod/sciencecore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sciencecore#8580</guid>
-    <pubDate>Wed, 28 Oct 2026 14:10:52 -0000</pubDate>
-    <description>Мод для разработчиков, добавляющий древа исследований, блокирующий/разблокирующий крафты</description>
-  </item>
-  <item>
-    <title>Wilderlands Adjustments</title>
-    <link>https://mods.vintagestory.at/show/mod/7320</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7320#7320</guid>
-    <pubDate>Wed, 28 Oct 2026 13:59:21 -0000</pubDate>
-    <description>A repository for a number of configurable values to adjust base game and Wilderlands mods content.</description>
-  </item>
-  <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Wed, 28 Oct 2026 12:59:43 -0000</pubDate>
-    <description>Lightweight mod where trees shed their leaves based on temperature. MAJOR 2.0 UPDATE!</description>
-  </item>
-  <item>
-    <title>Wootsteel</title>
-    <link>https://mods.vintagestory.at/show/mod/8933</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8933#8933</guid>
-    <pubDate>Wed, 28 Oct 2026 12:50:39 -0000</pubDate>
-    <description>Rediscovering forgotten metallurgy techniques </description>
-  </item>
-  <item>
-    <title>Wilderlands Old World</title>
-    <link>https://mods.vintagestory.at/show/mod/12888</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12888#12888</guid>
-    <pubDate>Wed, 28 Oct 2026 12:26:53 -0000</pubDate>
-    <description>compat worldgen mod: sloped and stepped continents, oceans, deserts</description>
-  </item>
-  <item>
-    <title>Gentage</title>
-    <link>https://mods.vintagestory.at/show/mod/gentage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
-    <pubDate>Wed, 28 Oct 2026 11:44:08 -0000</pubDate>
-    <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
-  </item>
-  <item>
-    <title>Diagonal Fences</title>
-    <link>https://mods.vintagestory.at/show/mod/diagonalfences</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/diagonalfences#1326</guid>
-    <pubDate>Wed, 28 Oct 2026 10:25:00 -0000</pubDate>
-    <description>Adds diagonal fences to the game</description>
-  </item>
-  <item>
-    <title>Panning Machine</title>
-    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
-    <pubDate>Wed, 28 Oct 2026 10:06:43 -0000</pubDate>
-    <description>Simple machine for panning, now with a heavy-duty Industrial Panning Machine ⚙️</description>
-  </item>
-  <item>
-    <title>Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
-    <pubDate>Wed, 28 Oct 2026 10:04:30 -0000</pubDate>
-    <description>Potion mod that adds buffs to the player.</description>
-  </item>
-  <item>
-    <title>Effectlib</title>
-    <link>https://mods.vintagestory.at/show/mod/effectlib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/effectlib#11715</guid>
-    <pubDate>Wed, 28 Oct 2026 10:03:33 -0000</pubDate>
-    <description>A library for player effect handling given by items</description>
   </item>
 </channel>
 </rss>
