@@ -4,7 +4,147 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 28 Oct 2026 04:42:08 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 11:05:23 +0000</lastBuildDate>
+  <item>
+    <title>Diagonal Fences</title>
+    <link>https://mods.vintagestory.at/show/mod/diagonalfences</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/diagonalfences#1326</guid>
+    <pubDate>Wed, 28 Oct 2026 10:25:00 -0000</pubDate>
+    <description>Adds diagonal fences to the game</description>
+  </item>
+  <item>
+    <title>Vintage Przygoda: Korony</title>
+    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
+    <pubDate>Wed, 28 Oct 2026 10:21:46 -0000</pubDate>
+    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
+  </item>
+  <item>
+    <title>Panning Machine</title>
+    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
+    <pubDate>Wed, 28 Oct 2026 10:06:43 -0000</pubDate>
+    <description>Simple machine for panning, now with a heavy-duty Industrial Panning Machine ⚙️</description>
+  </item>
+  <item>
+    <title>Alchemy</title>
+    <link>https://mods.vintagestory.at/show/mod/alchemy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alchemy#175</guid>
+    <pubDate>Wed, 28 Oct 2026 10:04:30 -0000</pubDate>
+    <description>Potion mod that adds buffs to the player.</description>
+  </item>
+  <item>
+    <title>Effectlib</title>
+    <link>https://mods.vintagestory.at/show/mod/effectlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/effectlib#11715</guid>
+    <pubDate>Wed, 28 Oct 2026 10:03:33 -0000</pubDate>
+    <description>A library for player effect handling given by items</description>
+  </item>
+  <item>
+    <title>C&amp;N Jewelry</title>
+    <link>https://mods.vintagestory.at/show/mod/canjewelry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canjewelry#1074</guid>
+    <pubDate>Wed, 28 Oct 2026 09:45:09 -0000</pubDate>
+    <description>Rough/cut gems/jewelry and encrusting in the armor/tools with buffs</description>
+  </item>
+  <item>
+    <title>WoNH Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/wonhtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wonhtweaks#12081</guid>
+    <pubDate>Wed, 28 Oct 2026 09:37:53 -0000</pubDate>
+    <description>Mod tweaks and patches for the World of New Horizons server (https://wonh.online/)</description>
+  </item>
+  <item>
+    <title>Debarked</title>
+    <link>https://mods.vintagestory.at/show/mod/debarked</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/debarked#12895</guid>
+    <pubDate>Wed, 28 Oct 2026 09:37:01 -0000</pubDate>
+    <description>Intended to be used with Immersive Woodworking. Adds recipes that allows using debarked logs.</description>
+  </item>
+  <item>
+    <title>C&amp;N RPG Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/canrpgclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canrpgclasses#9965</guid>
+    <pubDate>Wed, 28 Oct 2026 09:30:40 -0000</pubDate>
+    <description>RPG classes for Vintage Story</description>
+  </item>
+  <item>
+    <title>C&amp;N Events</title>
+    <link>https://mods.vintagestory.at/show/mod/canevents</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
+    <pubDate>Wed, 28 Oct 2026 09:22:06 -0000</pubDate>
+    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
+  </item>
+  <item>
+    <title>𝓦𝓻𝓲𝓽𝓽𝓮𝓷 𝓦𝓸𝓻𝓭 - parchment and book overhaul</title>
+    <link>https://mods.vintagestory.at/show/mod/writtenword</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/writtenword#12602</guid>
+    <pubDate>Wed, 28 Oct 2026 08:59:24 -0000</pubDate>
+    <description>Parchment and book overhaul. Parchments can be placed on walls, adds nickname-only signatures</description>
+  </item>
+  <item>
+    <title>DonningTime</title>
+    <link>https://mods.vintagestory.at/show/mod/7472</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7472#7472</guid>
+    <pubDate>Wed, 28 Oct 2026 08:50:40 -0000</pubDate>
+    <description>Adds a configurable delay to the donning of armor (and optionally clothes)</description>
+  </item>
+  <item>
+    <title>Ardyn Leveling</title>
+    <link>https://mods.vintagestory.at/show/mod/ardynleveling</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ardynleveling#12761</guid>
+    <pubDate>Wed, 28 Oct 2026 08:50:14 -0000</pubDate>
+    <description>Deep profession-based progression with customizable talent trees and hundreds of unique skills.</description>
+  </item>
+  <item>
+    <title>Better Than Boats</title>
+    <link>https://mods.vintagestory.at/show/mod/11810</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11810#11810</guid>
+    <pubDate>Wed, 28 Oct 2026 07:51:29 -0000</pubDate>
+    <description>A Minecraft's Better Than Wolves reimagining inside Vintage Story.</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Wed, 28 Oct 2026 07:50:51 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Professions</title>
+    <link>https://mods.vintagestory.at/show/mod/professions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/professions#11198</guid>
+    <pubDate>Wed, 28 Oct 2026 07:40:12 -0000</pubDate>
+    <description>Pick a trade and master it. Eleven professions with deep talent trees, earned by doing the work —</description>
+  </item>
+  <item>
+    <title>Iron Bacteria</title>
+    <link>https://mods.vintagestory.at/show/mod/ironbacteria</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ironbacteria#12894</guid>
+    <pubDate>Wed, 28 Oct 2026 07:35:54 -0000</pubDate>
+    <description>Cultivate iron bacteria, harvest bog iron, and craft cast iron tools, weapons, and cookware.</description>
+  </item>
+  <item>
+    <title>Spiro Loading Screen</title>
+    <link>https://mods.vintagestory.at/show/mod/spiroloadingscreen</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spiroloadingscreen#11628</guid>
+    <pubDate>Wed, 28 Oct 2026 05:33:29 -0000</pubDate>
+    <description>Custom loading screen with server-side world preloading and chunk readiness checks.</description>
+  </item>
+  <item>
+    <title>The Rookery</title>
+    <link>https://mods.vintagestory.at/show/mod/12543</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12543#12543</guid>
+    <pubDate>Wed, 28 Oct 2026 05:32:15 -0000</pubDate>
+    <description>Real messenger birds that fly your letters across the world and can be shot down.</description>
+  </item>
+  <item>
+    <title>Eventide Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Wed, 28 Oct 2026 05:19:55 -0000</pubDate>
+    <description>Claim maps, settlements, and access permissions for the Eventide server.</description>
+  </item>
   <item>
     <title>Jonas Robots</title>
     <link>https://mods.vintagestory.at/show/mod/12831</link>
@@ -41,13 +181,6 @@
     <description>Simple chunk claiming made for servers</description>
   </item>
   <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Wed, 28 Oct 2026 04:05:07 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
     <title>Elk Adornments</title>
     <link>https://mods.vintagestory.at/show/mod/elkadornments</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elkadornments#8954</guid>
@@ -81,139 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedgeology#7167</guid>
     <pubDate>Wed, 28 Oct 2026 01:49:51 -0000</pubDate>
     <description>Total overhaul of vanilla oregen and adds many new rocks and minerals</description>
-  </item>
-  <item>
-    <title>BATS!</title>
-    <link>https://mods.vintagestory.at/show/mod/bats</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bats#12425</guid>
-    <pubDate>Wed, 28 Oct 2026 01:38:52 -0000</pubDate>
-    <description>The original flying animal mod featuring BATS!  Also, renewable saltpeter. </description>
-  </item>
-  <item>
-    <title>CB Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Wed, 28 Oct 2026 01:37:39 -0000</pubDate>
-    <description>Harmony patches for compatibility.</description>
-  </item>
-  <item>
-    <title>IndustrialStory</title>
-    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
-    <pubDate>Wed, 28 Oct 2026 01:36:52 -0000</pubDate>
-    <description>Overhauls metalworking, chemistry, and glassworking. </description>
-  </item>
-  <item>
-    <title>CB Quests</title>
-    <link>https://mods.vintagestory.at/show/mod/10819</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10819#10819</guid>
-    <pubDate>Wed, 28 Oct 2026 01:34:45 -0000</pubDate>
-    <description>Adds quests for the the CB server</description>
-  </item>
-  <item>
-    <title>Natural Accessories</title>
-    <link>https://mods.vintagestory.at/show/mod/naturalaccessories</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/naturalaccessories#11766</guid>
-    <pubDate>Wed, 28 Oct 2026 01:34:22 -0000</pubDate>
-    <description>Run into the woods and get leaves in your hair</description>
-  </item>
-  <item>
-    <title>Stranger's Vestments</title>
-    <link>https://mods.vintagestory.at/show/mod/12694</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12694#12694</guid>
-    <pubDate>Wed, 28 Oct 2026 01:31:52 -0000</pubDate>
-    <description>Clothing befitting mysterious strangers- hide your face, hide your identity</description>
-  </item>
-  <item>
-    <title>Backrooms: Survival Story</title>
-    <link>https://mods.vintagestory.at/show/mod/backrooms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/backrooms#12452</guid>
-    <pubDate>Wed, 28 Oct 2026 01:22:50 -0000</pubDate>
-    <description>You wake up in the Backrooms with nothing. Can you survive?</description>
-  </item>
-  <item>
-    <title>Gentage</title>
-    <link>https://mods.vintagestory.at/show/mod/gentage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
-    <pubDate>Wed, 28 Oct 2026 01:12:57 -0000</pubDate>
-    <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
-  </item>
-  <item>
-    <title>Pisciculture</title>
-    <link>https://mods.vintagestory.at/show/mod/pisciculture</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pisciculture#12744</guid>
-    <pubDate>Wed, 28 Oct 2026 00:40:40 -0000</pubDate>
-    <description>Fish farming: feed, breed and domesticate fish, collect roe, carry them in buckets, spear-harvest.</description>
-  </item>
-  <item>
-    <title>Just Edgings - More Roads &amp; Paths Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/justedgings</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/justedgings#12881</guid>
-    <pubDate>Tue, 27 Oct 2026 23:57:17 -0000</pubDate>
-    <description>Fork of the mod More Roads &amp; Paths that only includes the road/path edgings.</description>
-  </item>
-  <item>
-    <title>Newfies Server Essentials Suite</title>
-    <link>https://mods.vintagestory.at/show/mod/11556</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11556#11556</guid>
-    <pubDate>Tue, 27 Oct 2026 23:55:07 -0000</pubDate>
-    <description>Newfies Server Essentials Suite 🛡️ Protect 	🧾 Investigate 	⚡ Diagnose 	🛠️ Manage</description>
-  </item>
-  <item>
-    <title>CartForce</title>
-    <link>https://mods.vintagestory.at/show/mod/12758</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12758#12758</guid>
-    <pubDate>Tue, 27 Oct 2026 23:48:48 -0000</pubDate>
-    <description>Let tamed horses, elk and oxen goats pull Cartwright's Caravan carts, sleds and stalls.</description>
-  </item>
-  <item>
-    <title>Dar's Server Utilities</title>
-    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
-    <pubDate>Tue, 27 Oct 2026 23:47:56 -0000</pubDate>
-    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
-  </item>
-  <item>
-    <title>No Flintlocks Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/noflintlockpatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/noflintlockpatch#12880</guid>
-    <pubDate>Tue, 27 Oct 2026 22:44:13 -0000</pubDate>
-    <description>Removes flintlocks from the Firearms Fork mod</description>
-  </item>
-  <item>
-    <title>Astro's Recipe Lookup Fix</title>
-    <link>https://mods.vintagestory.at/show/mod/12879</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12879#12879</guid>
-    <pubDate>Tue, 27 Oct 2026 22:21:42 -0000</pubDate>
-    <description>stops crafting from freezing the server</description>
-  </item>
-  <item>
-    <title>xSkills Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7605</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
-    <pubDate>Tue, 27 Oct 2026 22:19:48 -0000</pubDate>
-    <description>RPG-style skill system with abilities, perks, and progression.</description>
-  </item>
-  <item>
-    <title>VSA - Replica</title>
-    <link>https://mods.vintagestory.at/show/mod/9115</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
-    <pubDate>Tue, 27 Oct 2026 22:14:12 -0000</pubDate>
-    <description> (Valkyrian Skies for VS basically) Build block-made moving ships and structures</description>
-  </item>
-  <item>
-    <title>Volume Sliders</title>
-    <link>https://mods.vintagestory.at/show/mod/12854</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12854#12854</guid>
-    <pubDate>Tue, 27 Oct 2026 22:13:37 -0000</pubDate>
-    <description>Some sounds in Vintage Story you'll love for a hundred hours, and some will wear you down.</description>
-  </item>
-  <item>
-    <title>C&amp;N Events</title>
-    <link>https://mods.vintagestory.at/show/mod/canevents</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canevents#8163</guid>
-    <pubDate>Tue, 27 Oct 2026 21:39:06 -0000</pubDate>
-    <description>Arena PvP events for Vintage Story: 1v1 duels, FFA, and Spleef...</description>
   </item>
 </channel>
 </rss>
