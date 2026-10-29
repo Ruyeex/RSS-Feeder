@@ -4,7 +4,91 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 28 Oct 2026 22:58:33 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 02:18:23 +0000</lastBuildDate>
+  <item>
+    <title>Gapalagalagas Server Collection</title>
+    <link>https://mods.vintagestory.at/show/mod/12915</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12915#12915</guid>
+    <pubDate>Thu, 29 Oct 2026 02:05:07 -0000</pubDate>
+    <description>Some small class tweaks for my server.</description>
+  </item>
+  <item>
+    <title>Ore Distance Scale</title>
+    <link>https://mods.vintagestory.at/show/mod/oredistancescale</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oredistancescale#12912</guid>
+    <pubDate>Thu, 29 Oct 2026 01:42:00 -0000</pubDate>
+    <description>Allows you to configure ores to generate only past a set distance from spawn.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
+    <pubDate>Thu, 29 Oct 2026 01:36:29 -0000</pubDate>
+    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
+  </item>
+  <item>
+    <title>Colonial Firearms Reload Animations</title>
+    <link>https://mods.vintagestory.at/show/mod/12618</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12618#12618</guid>
+    <pubDate>Thu, 29 Oct 2026 01:15:53 -0000</pubDate>
+    <description>Reload animations for double-barrel shotgun and webley revolver from Colonial Firearms.</description>
+  </item>
+  <item>
+    <title>Bears Climb Wood</title>
+    <link>https://mods.vintagestory.at/show/mod/12913</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12913#12913</guid>
+    <pubDate>Thu, 29 Oct 2026 01:03:37 -0000</pubDate>
+    <description>Makes bears climb wooden blocks and branchy leaves, and path up trees after you</description>
+  </item>
+  <item>
+    <title>In Combat State (previously NoInCombatHealing)</title>
+    <link>https://mods.vintagestory.at/show/mod/4357</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4357#4357</guid>
+    <pubDate>Thu, 29 Oct 2026 00:50:00 -0000</pubDate>
+    <description>Adds an in-combat state with a timer, optionally preventing healing and block placement</description>
+  </item>
+  <item>
+    <title>Dar's Admin Cosmetics</title>
+    <link>https://mods.vintagestory.at/show/mod/darsadmincosmetics</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darsadmincosmetics#12670</guid>
+    <pubDate>Thu, 29 Oct 2026 00:47:38 -0000</pubDate>
+    <description>Mod for Sundered Isles server</description>
+  </item>
+  <item>
+    <title>Backrooms: Survival Story</title>
+    <link>https://mods.vintagestory.at/show/mod/backrooms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/backrooms#12452</guid>
+    <pubDate>Thu, 29 Oct 2026 00:44:29 -0000</pubDate>
+    <description>You wake up in the Backrooms with nothing. Can you survive?</description>
+  </item>
+  <item>
+    <title>Dar's Server Utilities</title>
+    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
+    <pubDate>Thu, 29 Oct 2026 00:22:32 -0000</pubDate>
+    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
+  </item>
+  <item>
+    <title>Handbook &amp; Craft Optimizer.</title>
+    <link>https://mods.vintagestory.at/show/mod/handbookcraftoptimizer</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/handbookcraftoptimizer#12626</guid>
+    <pubDate>Thu, 29 Oct 2026 00:12:42 -0000</pubDate>
+    <description>Find recipes fast, discover what uses each ingredient, and reduce crafting-grid lag.</description>
+  </item>
+  <item>
+    <title>Jack's Butchering Add-on</title>
+    <link>https://mods.vintagestory.at/show/mod/31207</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/31207#5233</guid>
+    <pubDate>Wed, 28 Oct 2026 23:56:48 -0000</pubDate>
+    <description>Add-on mod for Butchering.  Replaces tables/hooks model and progression, plus other tweaks.</description>
+  </item>
+  <item>
+    <title>Ram/particles Cleaner Collector</title>
+    <link>https://mods.vintagestory.at/show/mod/ramparticlescleaner</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ramparticlescleaner#12356</guid>
+    <pubDate>Wed, 28 Oct 2026 23:40:19 -0000</pubDate>
+    <description>RAM memory optimization and MORE..</description>
+  </item>
   <item>
     <title>Throwable Ingots</title>
     <link>https://mods.vintagestory.at/show/mod/12909</link>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7320#7320</guid>
     <pubDate>Wed, 28 Oct 2026 20:16:48 -0000</pubDate>
     <description>A repository for a number of configurable values to adjust base game and Wilderlands mods content.</description>
-  </item>
-  <item>
-    <title>Jakemon's server patches</title>
-    <link>https://mods.vintagestory.at/show/mod/jakemonpatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jakemonpatches#12756</guid>
-    <pubDate>Wed, 28 Oct 2026 20:05:51 -0000</pubDate>
-    <description>Some simple json patching for balance changes and race traits on my server.</description>
-  </item>
-  <item>
-    <title>Wilderlands Winter</title>
-    <link>https://mods.vintagestory.at/show/mod/12678</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12678#12678</guid>
-    <pubDate>Wed, 28 Oct 2026 19:52:47 -0000</pubDate>
-    <description>realistic snow, ice, skiing, snowshoes, snow goggles, blizzards, cold water shock, icebergs, sea ice</description>
-  </item>
-  <item>
-    <title>Vara's Lingonberries</title>
-    <link>https://mods.vintagestory.at/show/mod/varaslingonberries</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varaslingonberries#12906</guid>
-    <pubDate>Wed, 28 Oct 2026 19:31:41 -0000</pubDate>
-    <description>Adds lingonberries to the colder regions of your world! The sweeter counterparts to cranberries!</description>
-  </item>
-  <item>
-    <title>Syrup and CO2</title>
-    <link>https://mods.vintagestory.at/show/mod/12284</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12284#12284</guid>
-    <pubDate>Wed, 28 Oct 2026 19:24:19 -0000</pubDate>
-    <description>Adds cola and soda as well as a carbonation system to the game!</description>
-  </item>
-  <item>
-    <title>neobit Vintage Server</title>
-    <link>https://mods.vintagestory.at/show/mod/5161</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5161#5161</guid>
-    <pubDate>Wed, 28 Oct 2026 19:03:02 -0000</pubDate>
-    <description>Collection of tweaks for the neobit server and playthrough.</description>
-  </item>
-  <item>
-    <title>xSkills Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7605</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
-    <pubDate>Wed, 28 Oct 2026 18:25:30 -0000</pubDate>
-    <description>RPG-style skill system with abilities, perks, and progression.</description>
-  </item>
-  <item>
-    <title>xLib Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7618</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7618#7618</guid>
-    <pubDate>Wed, 28 Oct 2026 18:25:12 -0000</pubDate>
-    <description>XLib provides an interface to add skills, abilities and effects to the game.</description>
-  </item>
-  <item>
-    <title>TaborServers</title>
-    <link>https://mods.vintagestory.at/show/mod/taborservers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taborservers#10491</guid>
-    <pubDate>Wed, 28 Oct 2026 17:29:37 -0000</pubDate>
-    <description>Patches fo most of Tabor servers</description>
-  </item>
-  <item>
-    <title>edible raw meat</title>
-    <link>https://mods.vintagestory.at/show/mod/12876</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12876#12876</guid>
-    <pubDate>Wed, 28 Oct 2026 17:14:36 -0000</pubDate>
-    <description>mod that makes raw meat edible</description>
-  </item>
-  <item>
-    <title>Sauce-a-lot</title>
-    <link>https://mods.vintagestory.at/show/mod/5721</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5721#5721</guid>
-    <pubDate>Wed, 28 Oct 2026 17:13:01 -0000</pubDate>
-    <description>This mod adds several sauces that can be used in meals and for slathering onto meats!</description>
-  </item>
-  <item>
-    <title>Vintage Przygoda: Korony</title>
-    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
-    <pubDate>Wed, 28 Oct 2026 16:58:20 -0000</pubDate>
-    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
-  </item>
-  <item>
-    <title>VSA - Replica</title>
-    <link>https://mods.vintagestory.at/show/mod/9115</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
-    <pubDate>Wed, 28 Oct 2026 16:52:22 -0000</pubDate>
-    <description> (Valkyrian Skies for VS basically) Build block-made moving ships and structures</description>
   </item>
 </channel>
 </rss>
