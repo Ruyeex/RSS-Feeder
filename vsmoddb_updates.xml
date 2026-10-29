@@ -4,216 +4,216 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 29 Oct 2026 09:34:31 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 16:43:20 +0000</lastBuildDate>
   <item>
-    <title>Solaria's Solace Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10706</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
-    <pubDate>Thu, 29 Oct 2026 09:14:13 -0000</pubDate>
-    <description>A bunch of fixes and additions for the server.</description>
+    <title>Minimally Invasive Performance Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/miptfc</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/miptfc#11962</guid>
+    <pubDate>Thu, 29 Oct 2026 16:23:50 -0000</pubDate>
+    <description>Client-side performance mod that should not break other mods.</description>
   </item>
   <item>
-    <title>More Buckets</title>
-    <link>https://mods.vintagestory.at/show/mod/morebuckets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morebuckets#11536</guid>
-    <pubDate>Thu, 29 Oct 2026 08:51:02 -0000</pubDate>
-    <description>Leave those exhausting trips to the spring behind and let the new buckets and tanks do the hard work</description>
+    <title>Advanced Tool Parts</title>
+    <link>https://mods.vintagestory.at/show/mod/advancedtoolparts</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedtoolparts#11633</guid>
+    <pubDate>Thu, 29 Oct 2026 16:05:32 -0000</pubDate>
+    <description>Add handles and bindings to your tools to make them faster and last longer!</description>
   </item>
   <item>
-    <title>Professions</title>
-    <link>https://mods.vintagestory.at/show/mod/professions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/professions#11198</guid>
-    <pubDate>Thu, 29 Oct 2026 08:44:57 -0000</pubDate>
-    <description>Pick a trade and master it. Eleven professions with deep talent trees, earned by doing the work —</description>
+    <title>Vintage Przygoda: Korony</title>
+    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
+    <pubDate>Thu, 29 Oct 2026 15:55:26 -0000</pubDate>
+    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
   </item>
   <item>
-    <title>Ardyn Leveling</title>
-    <link>https://mods.vintagestory.at/show/mod/ardynleveling</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ardynleveling#12761</guid>
-    <pubDate>Thu, 29 Oct 2026 08:35:37 -0000</pubDate>
-    <description>Deep profession-based progression with customizable talent trees and hundreds of unique skills.</description>
+    <title>ServerSideModRemover</title>
+    <link>https://mods.vintagestory.at/show/mod/6803</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6803#6803</guid>
+    <pubDate>Thu, 29 Oct 2026 15:43:40 -0000</pubDate>
+    <description>removes all blocks in a radius of the player. The blocks are defined by the ModID</description>
+  </item>
+  <item>
+    <title>eViSTool — Linux</title>
+    <link>https://mods.vintagestory.at/show/mod/evistoollinux</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoollinux#12414</guid>
+    <pubDate>Thu, 29 Oct 2026 15:18:46 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>eViSTool — Windows</title>
+    <link>https://mods.vintagestory.at/show/mod/evistoolwin</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoolwin#12228</guid>
+    <pubDate>Thu, 29 Oct 2026 15:18:19 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>Null Smithy</title>
+    <link>https://mods.vintagestory.at/show/mod/nullsmithy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullsmithy#12658</guid>
+    <pubDate>Thu, 29 Oct 2026 15:16:01 -0000</pubDate>
+    <description>Makes the smith load-bearing: every metal tool needs a seasoned haft and a forged rivet.</description>
+  </item>
+  <item>
+    <title>Null Skills</title>
+    <link>https://mods.vintagestory.at/show/mod/nullskills</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullskills#12660</guid>
+    <pubDate>Thu, 29 Oct 2026 15:15:58 -0000</pubDate>
+    <description>A maintained fork of XLib and XSkills for 1.22: thirteen skill trees, 185 abilities.</description>
+  </item>
+  <item>
+    <title>Ponder</title>
+    <link>https://mods.vintagestory.at/show/mod/ponder</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ponder#12924</guid>
+    <pubDate>Thu, 29 Oct 2026 14:33:17 -0000</pubDate>
+    <description>Hover an item and hold P to ponder it: animated 3D guides showing how it's used.</description>
+  </item>
+  <item>
+    <title>Remember It</title>
+    <link>https://mods.vintagestory.at/show/mod/rememberit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rememberit#12513</guid>
+    <pubDate>Thu, 29 Oct 2026 14:19:35 -0000</pubDate>
+    <description>Remembers where you have been and draws it onto your Frontier's Map, a little more each visit.</description>
+  </item>
+  <item>
+    <title>Combat Rework by Tomoyuki</title>
+    <link>https://mods.vintagestory.at/show/mod/combatrework</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/combatrework#5928</guid>
+    <pubDate>Thu, 29 Oct 2026 13:53:18 -0000</pubDate>
+    <description>Mod that changes the game's combat mechanics: adds weapons with combo attacks, weapon blocking syste</description>
   </item>
   <item>
     <title>𝓦𝓻𝓲𝓽𝓽𝓮𝓷 𝓦𝓸𝓻𝓭 - parchment and book overhaul</title>
     <link>https://mods.vintagestory.at/show/mod/writtenword</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/writtenword#12602</guid>
-    <pubDate>Thu, 29 Oct 2026 08:12:41 -0000</pubDate>
+    <pubDate>Thu, 29 Oct 2026 13:45:47 -0000</pubDate>
     <description>Parchment and book overhaul. Parchments can be placed on walls, adds nickname-only signatures</description>
   </item>
   <item>
-    <title>Lucy's Stove</title>
-    <link>https://mods.vintagestory.at/show/mod/12775</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12775#12775</guid>
-    <pubDate>Thu, 29 Oct 2026 07:56:07 -0000</pubDate>
-    <description>A four-burner cast-iron cook stove made in loving memory of Grandma Lucy.</description>
+    <title>Kith</title>
+    <link>https://mods.vintagestory.at/show/mod/kith</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kith#12793</guid>
+    <pubDate>Thu, 29 Oct 2026 13:41:00 -0000</pubDate>
+    <description>Host your world for friends, comes with an island hub, cosmetics, emotes, and chat.</description>
   </item>
   <item>
-    <title>Portcullis/Confession DanaTweak Compat</title>
-    <link>https://mods.vintagestory.at/show/mod/12921</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12921#12921</guid>
-    <pubDate>Thu, 29 Oct 2026 07:49:21 -0000</pubDate>
-    <description>Add compatibility with the Dana Tweaks door auto-close functionality to Portcullis and Confession.</description>
+    <title>AdvancedGeology + W. Geology Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/12907</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12907#12907</guid>
+    <pubDate>Thu, 29 Oct 2026 13:01:04 -0000</pubDate>
+    <description>Advanced Geology + Wilderlands Geology compatibility patch</description>
   </item>
   <item>
-    <title>Connected Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/connectedstorage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/connectedstorage#12920</guid>
-    <pubDate>Thu, 29 Oct 2026 07:06:03 -0000</pubDate>
-    <description>A Physical Storage Network</description>
+    <title>Teapot's Undead Legion</title>
+    <link>https://mods.vintagestory.at/show/mod/teapotsundeadlegion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsundeadlegion#12711</guid>
+    <pubDate>Thu, 29 Oct 2026 12:31:41 -0000</pubDate>
+    <description>Armed undead Revenants roam the night. Bind your own with a Temporal Core and lead them to battle!</description>
   </item>
   <item>
-    <title>Boric Alchemy (Halloween Treat Bag Event)</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Thu, 29 Oct 2026 06:01:00 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
+    <title>Monty Python Killer Rabbit</title>
+    <link>https://mods.vintagestory.at/show/mod/montypythonrabbit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/montypythonrabbit#12923</guid>
+    <pubDate>Thu, 29 Oct 2026 12:30:57 -0000</pubDate>
+    <description>adds the rabbit from the film "Monty Python and the Holy Grail" a rare easteregg mob in the game</description>
   </item>
   <item>
-    <title>Deciduous Trees</title>
-    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
-    <pubDate>Thu, 29 Oct 2026 05:35:34 -0000</pubDate>
-    <description>Lightweight mod where trees shed their leaves based on temperature. MAJOR 2.0 UPDATE!</description>
+    <title>For Days to Come - Modpack</title>
+    <link>https://mods.vintagestory.at/show/mod/fordaystocomemodpack</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fordaystocomemodpack#12574</guid>
+    <pubDate>Thu, 29 Oct 2026 12:18:11 -0000</pubDate>
+    <description>A vanilla+ modpack for immersive survival, exploration, and medieval life.</description>
   </item>
   <item>
-    <title>xLib Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7618</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7618#7618</guid>
-    <pubDate>Thu, 29 Oct 2026 05:02:58 -0000</pubDate>
-    <description>XLib provides an interface to add skills, abilities and effects to the game.</description>
+    <title>Galeret Traits Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/galerettraits</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/galerettraits#10565</guid>
+    <pubDate>Thu, 29 Oct 2026 12:12:20 -0000</pubDate>
+    <description>A simple mod to add Trais to my Galeret race Mod</description>
   </item>
   <item>
-    <title>xSkills Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/7605</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
-    <pubDate>Thu, 29 Oct 2026 05:02:00 -0000</pubDate>
-    <description>RPG-style skill system with abilities, perks, and progression.</description>
+    <title>Downed</title>
+    <link>https://mods.vintagestory.at/show/mod/downed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
+    <pubDate>Thu, 29 Oct 2026 11:59:22 -0000</pubDate>
+    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
   </item>
   <item>
-    <title>Ancient Armory fix 1.22.xx</title>
-    <link>https://mods.vintagestory.at/show/mod/12202</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12202#12202</guid>
-    <pubDate>Thu, 29 Oct 2026 04:50:16 -0000</pubDate>
-    <description>patched version </description>
+    <title>Threnkal</title>
+    <link>https://mods.vintagestory.at/show/mod/threnkal</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/threnkal#10944</guid>
+    <pubDate>Thu, 29 Oct 2026 11:52:36 -0000</pubDate>
+    <description>A race of cow folks based on minotaurs and taurens from WoW.</description>
   </item>
   <item>
-    <title>Flower Seeds</title>
-    <link>https://mods.vintagestory.at/show/mod/10407</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10407#10407</guid>
-    <pubDate>Thu, 29 Oct 2026 04:21:19 -0000</pubDate>
-    <description>Use a knife to turn flowers into seeds!</description>
-  </item>
-  <item>
-    <title>Edible Botanicals: Musaceae and Arecaceae (bananas and coconuts)</title>
-    <link>https://mods.vintagestory.at/show/mod/12518</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12518#12518</guid>
-    <pubDate>Thu, 29 Oct 2026 03:10:47 -0000</pubDate>
-    <description>Banana plants and coconut palms with staged growth, harvests and full fruit-recipe support.</description>
-  </item>
-  <item>
-    <title>Seraph Leveling ReClassed</title>
-    <link>https://mods.vintagestory.at/show/mod/11234</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11234#11234</guid>
-    <pubDate>Thu, 29 Oct 2026 02:45:47 -0000</pubDate>
-    <description>Level up and gain traits in a vanilla-friendly way, with additional mod support</description>
-  </item>
-  <item>
-    <title>traduccion de mods a español LA</title>
-    <link>https://mods.vintagestory.at/show/mod/traduccionesdemodsla</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traduccionesdemodsla#11988</guid>
-    <pubDate>Thu, 29 Oct 2026 02:18:45 -0000</pubDate>
-    <description>traduccion de mods a español LA</description>
-  </item>
-  <item>
-    <title>Gapalagalagas Server Collection</title>
-    <link>https://mods.vintagestory.at/show/mod/12915</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12915#12915</guid>
-    <pubDate>Thu, 29 Oct 2026 02:05:07 -0000</pubDate>
-    <description>Some small class tweaks for my server.</description>
-  </item>
-  <item>
-    <title>Ore Distance Scale</title>
-    <link>https://mods.vintagestory.at/show/mod/oredistancescale</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/oredistancescale#12912</guid>
-    <pubDate>Thu, 29 Oct 2026 01:42:00 -0000</pubDate>
-    <description>Allows you to configure ores to generate only past a set distance from spawn.</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
-    <pubDate>Thu, 29 Oct 2026 01:36:29 -0000</pubDate>
-    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
-  </item>
-  <item>
-    <title>Colonial Firearms Reload Animations</title>
-    <link>https://mods.vintagestory.at/show/mod/12618</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12618#12618</guid>
-    <pubDate>Thu, 29 Oct 2026 01:15:53 -0000</pubDate>
-    <description>Reload animations for double-barrel shotgun and webley revolver from Colonial Firearms.</description>
+    <title>Panning Machine</title>
+    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
+    <pubDate>Thu, 29 Oct 2026 11:44:07 -0000</pubDate>
+    <description>Simple machine for panning, now with a heavy-duty Industrial Panning Machine ⚙️</description>
   </item>
   <item>
     <title>Bears Climb Wood</title>
     <link>https://mods.vintagestory.at/show/mod/12913</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12913#12913</guid>
-    <pubDate>Thu, 29 Oct 2026 01:03:37 -0000</pubDate>
+    <pubDate>Thu, 29 Oct 2026 11:25:37 -0000</pubDate>
     <description>Makes bears climb wooden blocks and branchy leaves, and path up trees after you</description>
   </item>
   <item>
-    <title>In Combat State (previously NoInCombatHealing)</title>
-    <link>https://mods.vintagestory.at/show/mod/4357</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4357#4357</guid>
-    <pubDate>Thu, 29 Oct 2026 00:50:00 -0000</pubDate>
-    <description>Adds an in-combat state with a timer, optionally preventing healing and block placement</description>
+    <title>Not enough invertebrate</title>
+    <link>https://mods.vintagestory.at/show/mod/8678</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8678#8678</guid>
+    <pubDate>Thu, 29 Oct 2026 11:00:30 -0000</pubDate>
+    <description>Adds diversity to the invertebrate family (up to date : Katydids, Grasshoppers)</description>
   </item>
   <item>
-    <title>Dar's Admin Cosmetics</title>
-    <link>https://mods.vintagestory.at/show/mod/darsadmincosmetics</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darsadmincosmetics#12670</guid>
-    <pubDate>Thu, 29 Oct 2026 00:47:38 -0000</pubDate>
-    <description>Mod for Sundered Isles server</description>
+    <title>Evenfall Server Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/12676</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12676#12676</guid>
+    <pubDate>Thu, 29 Oct 2026 10:52:28 -0000</pubDate>
+    <description>Compatibility and customization pack for the Evenfall server</description>
   </item>
   <item>
-    <title>Backrooms: Survival Story</title>
-    <link>https://mods.vintagestory.at/show/mod/backrooms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/backrooms#12452</guid>
-    <pubDate>Thu, 29 Oct 2026 00:44:29 -0000</pubDate>
-    <description>You wake up in the Backrooms with nothing. Can you survive?</description>
+    <title>Cigarettes</title>
+    <link>https://mods.vintagestory.at/show/mod/12615</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12615#12615</guid>
+    <pubDate>Thu, 29 Oct 2026 10:50:44 -0000</pubDate>
+    <description>Grow tobacco, roll cigs, pack pipes, vape Juuls. The Seraph diet now has a fifth food group: smoke.</description>
   </item>
   <item>
-    <title>Dar's Server Utilities</title>
-    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
-    <pubDate>Thu, 29 Oct 2026 00:22:32 -0000</pubDate>
-    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
+    <title>VynilMod</title>
+    <link>https://mods.vintagestory.at/show/mod/vynilmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vynilmod#12815</guid>
+    <pubDate>Thu, 29 Oct 2026 10:34:42 -0000</pubDate>
+    <description>A framework that adds a gramophone, a lathe, and a vinyl record (does not include music)</description>
   </item>
   <item>
-    <title>Handbook &amp; Craft Optimizer.</title>
-    <link>https://mods.vintagestory.at/show/mod/handbookcraftoptimizer</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/handbookcraftoptimizer#12626</guid>
-    <pubDate>Thu, 29 Oct 2026 00:12:42 -0000</pubDate>
-    <description>Find recipes fast, discover what uses each ingredient, and reduce crafting-grid lag.</description>
+    <title>racialnpcs</title>
+    <link>https://mods.vintagestory.at/show/mod/10160</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10160#10160</guid>
+    <pubDate>Thu, 29 Oct 2026 10:04:00 -0000</pubDate>
+    <description>allows npcs of multiple races to be created</description>
   </item>
   <item>
-    <title>Jack's Butchering Add-on</title>
-    <link>https://mods.vintagestory.at/show/mod/31207</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/31207#5233</guid>
-    <pubDate>Wed, 28 Oct 2026 23:56:48 -0000</pubDate>
-    <description>Add-on mod for Butchering.  Replaces tables/hooks model and progression, plus other tweaks.</description>
+    <title>Null Lockdown</title>
+    <link>https://mods.vintagestory.at/show/mod/nulllockdown</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nulllockdown#11865</guid>
+    <pubDate>Thu, 29 Oct 2026 10:00:44 -0000</pubDate>
+    <description>Hardcore navigation: no world map, no coordinate readouts, and the server-side leaks closed too.</description>
   </item>
   <item>
-    <title>Ram/particles Cleaner Collector</title>
-    <link>https://mods.vintagestory.at/show/mod/ramparticlescleaner</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ramparticlescleaner#12356</guid>
-    <pubDate>Wed, 28 Oct 2026 23:40:19 -0000</pubDate>
-    <description>RAM memory optimization and MORE..</description>
+    <title>Null Compass</title>
+    <link>https://mods.vintagestory.at/show/mod/nullcompass</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullcompass#11863</guid>
+    <pubDate>Thu, 29 Oct 2026 10:00:41 -0000</pubDate>
+    <description>Four compasses and a temporal beacon that can be attuned. Bearings, never positions.</description>
   </item>
   <item>
-    <title>Throwable Ingots</title>
-    <link>https://mods.vintagestory.at/show/mod/12909</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12909#12909</guid>
-    <pubDate>Wed, 28 Oct 2026 22:43:29 -0000</pubDate>
-    <description>Throw ingots like stones, or drop them down a hole: the further they fall, the harder they hit.</description>
+    <title>Null Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/nullclaims</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nullclaims#11867</guid>
+    <pubDate>Thu, 29 Oct 2026 10:00:39 -0000</pubDate>
+    <description>Land claiming without commands: one hotkey opens a window that drives vanilla's own claim system.</description>
   </item>
 </channel>
 </rss>
