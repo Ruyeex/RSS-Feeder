@@ -4,12 +4,89 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 31 Oct 2026 22:18:31 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 01:57:48 +0000</lastBuildDate>
+  <item>
+    <title>Vintage Engineering</title>
+    <link>https://mods.vintagestory.at/show/mod/vintageengineering</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintageengineering#1978</guid>
+    <pubDate>Sun, 01 Nov 2026 01:55:14 -0000</pubDate>
+    <description>Late-game Tech and automation mod.</description>
+  </item>
+  <item>
+    <title>The Witching Way</title>
+    <link>https://mods.vintagestory.at/show/mod/thewitchingway</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thewitchingway#12917</guid>
+    <pubDate>Sun, 01 Nov 2026 01:37:47 -0000</pubDate>
+    <description>Bringing magical practice into Vintage Story through meaningful mechanics and subtle progression.</description>
+  </item>
+  <item>
+    <title>Grapple Swing</title>
+    <link>https://mods.vintagestory.at/show/mod/12789</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12789#12789</guid>
+    <pubDate>Sun, 01 Nov 2026 01:36:46 -0000</pubDate>
+    <description>Grappling and Hookshot gun</description>
+  </item>
+  <item>
+    <title>Aegis Terrain</title>
+    <link>https://mods.vintagestory.at/show/mod/terrain</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/terrain#13010</guid>
+    <pubDate>Sun, 01 Nov 2026 00:15:13 -0000</pubDate>
+    <description>Correct temperatures, latitude and world edge for Aegis Terrain worlds.</description>
+  </item>
+  <item>
+    <title>RKN Generic Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
+    <pubDate>Sat, 31 Oct 2026 23:56:36 -0000</pubDate>
+    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
+  </item>
+  <item>
+    <title>Essential HUD</title>
+    <link>https://mods.vintagestory.at/show/mod/12934</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12934#12934</guid>
+    <pubDate>Sat, 31 Oct 2026 23:36:44 -0000</pubDate>
+    <description>Local temperature, real-world clock, elevation/depth and distance to home in one HUD panel.</description>
+  </item>
+  <item>
+    <title>The Coils</title>
+    <link>https://mods.vintagestory.at/show/mod/13009</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13009#13009</guid>
+    <pubDate>Sat, 31 Oct 2026 23:11:05 -0000</pubDate>
+    <description>Adds 3 items from the Roblox Catalog: Speed Coil, Gravity Coil and Regen Coil</description>
+  </item>
+  <item>
+    <title>neobit Vintage Server</title>
+    <link>https://mods.vintagestory.at/show/mod/5161</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5161#5161</guid>
+    <pubDate>Sat, 31 Oct 2026 23:01:28 -0000</pubDate>
+    <description>Collection of tweaks for the neobit server and playthrough.</description>
+  </item>
+  <item>
+    <title>To Rule Them All: Combat Overhaul Fork patch</title>
+    <link>https://mods.vintagestory.at/show/mod/12809</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12809#12809</guid>
+    <pubDate>Sat, 31 Oct 2026 22:56:59 -0000</pubDate>
+    <description>Puts the armors in their appropriate layers. AI was used to make this</description>
+  </item>
+  <item>
+    <title>Vintage GMOs:Crops</title>
+    <link>https://mods.vintagestory.at/show/mod/12991</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12991#12991</guid>
+    <pubDate>Sat, 31 Oct 2026 22:56:43 -0000</pubDate>
+    <description>Introduces crop genetics, selective breeding, mutations, inheritable traits and genetic manipulation</description>
+  </item>
+  <item>
+    <title>MX's Bio Chemistry</title>
+    <link>https://mods.vintagestory.at/show/mod/12829</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12829#12829</guid>
+    <pubDate>Sat, 31 Oct 2026 22:52:49 -0000</pubDate>
+    <description>MX's BioChem is a mod that allows players to find &amp; use the secret bacterial world around them</description>
+  </item>
   <item>
     <title>Gondola Cable Car</title>
     <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
-    <pubDate>Sat, 31 Oct 2026 22:11:45 -0000</pubDate>
+    <pubDate>Sat, 31 Oct 2026 22:26:12 -0000</pubDate>
     <description>Cumstomizable Small, Medium and Huge gondolas and structures</description>
   </item>
   <item>
@@ -83,32 +160,11 @@
     <description>A craftable mask that outlines every nearby spot where monsters can spawn.</description>
   </item>
   <item>
-    <title>Arcadia Class Bridge</title>
-    <link>https://mods.vintagestory.at/show/mod/arcadiaclassbridge</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arcadiaclassbridge#12962</guid>
-    <pubDate>Sat, 31 Oct 2026 21:31:50 -0000</pubDate>
-    <description>Connects Working Classes with Prosequor, enabling secondary professions and class-based crafting.</description>
-  </item>
-  <item>
-    <title>The Working Classes - Arcadia Compatibility Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/arcadiaworkingclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arcadiaworkingclasses#12961</guid>
-    <pubDate>Sat, 31 Oct 2026 21:29:23 -0000</pubDate>
-    <description>Arcadia compatibility fork of The Working Classes supporting Prosequor and secondary professions.</description>
-  </item>
-  <item>
     <title>Solaria's Solace Server Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/10706</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
     <pubDate>Sat, 31 Oct 2026 21:19:04 -0000</pubDate>
     <description>A bunch of fixes and additions for the server.</description>
-  </item>
-  <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
-    <pubDate>Sat, 31 Oct 2026 20:49:39 -0000</pubDate>
-    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
   </item>
   <item>
     <title>CB Nametags</title>
@@ -158,62 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
     <pubDate>Sat, 31 Oct 2026 19:31:07 -0000</pubDate>
     <description>For details on content, please contact me directly via Discord.</description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Chapter 2</title>
-    <link>https://mods.vintagestory.at/show/mod/11428</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
-    <pubDate>Sat, 31 Oct 2026 19:30:52 -0000</pubDate>
-    <description>Chapter 2 additions for C&amp;C.</description>
-  </item>
-  <item>
-    <title>Vintage GMOs:Crops</title>
-    <link>https://mods.vintagestory.at/show/mod/12991</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12991#12991</guid>
-    <pubDate>Sat, 31 Oct 2026 19:24:56 -0000</pubDate>
-    <description>Introduces crop genetics, selective breeding, mutations, inheritable traits and genetic manipulation</description>
-  </item>
-  <item>
-    <title>Vintage GMOs: Library</title>
-    <link>https://mods.vintagestory.at/show/mod/12986</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12986#12986</guid>
-    <pubDate>Sat, 31 Oct 2026 19:23:35 -0000</pubDate>
-    <description>Core library providing shared systems and functionality for the Vintage GMOs mod series.</description>
-  </item>
-  <item>
-    <title>The Last Watch Zombies</title>
-    <link>https://mods.vintagestory.at/show/mod/12654</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12654#12654</guid>
-    <pubDate>Sat, 31 Oct 2026 19:09:31 -0000</pubDate>
-    <description>Added /zombieween admin command. adds 5 dormant zombies to every loaded zone. causing apocalypse</description>
-  </item>
-  <item>
-    <title>[Silver`s] Dice and Cards</title>
-    <link>https://mods.vintagestory.at/show/mod/12764</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12764#12764</guid>
-    <pubDate>Sat, 31 Oct 2026 19:00:38 -0000</pubDate>
-    <description>A simple mod that adds board games and cards for playing with friends. Poker, Dice, Chess, etc.</description>
-  </item>
-  <item>
-    <title>C&amp;N Claims</title>
-    <link>https://mods.vintagestory.at/show/mod/canclaims</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canclaims#589</guid>
-    <pubDate>Sat, 31 Oct 2026 19:00:27 -0000</pubDate>
-    <description>Land protection mod.</description>
-  </item>
-  <item>
-    <title>Curbs "B' voice</title>
-    <link>https://mods.vintagestory.at/show/mod/curbsbvoice</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/curbsbvoice#12992</guid>
-    <pubDate>Sat, 31 Oct 2026 18:55:32 -0000</pubDate>
-    <description>This will replace the oboe sound file with my "B" sound effect. </description>
-  </item>
-  <item>
-    <title>Vintage Fireworks</title>
-    <link>https://mods.vintagestory.at/show/mod/12993</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12993#12993</guid>
-    <pubDate>Sat, 31 Oct 2026 18:48:48 -0000</pubDate>
-    <description>Become a pyrotechnican in Vintage Story. Craft your own pyro show today.</description>
   </item>
 </channel>
 </rss>
