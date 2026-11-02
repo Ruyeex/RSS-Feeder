@@ -4,216 +4,216 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Mon, 02 Nov 2026 07:26:09 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 17:58:16 +0000</lastBuildDate>
   <item>
-    <title>Aldi's Classes [Races PATCH]</title>
-    <link>https://mods.vintagestory.at/show/mod/aldisraces</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aldisraces#6406</guid>
-    <pubDate>Mon, 02 Nov 2026 06:58:32 -0000</pubDate>
-    <description>Aldi's Classes Patch mod to include every goddamn race I could find</description>
+    <title>Pelican's Rebalanced Skeletons</title>
+    <link>https://mods.vintagestory.at/show/mod/pelicanrebalancedskeletons</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pelicanrebalancedskeletons#13050</guid>
+    <pubDate>Mon, 02 Nov 2026 17:56:59 -0000</pubDate>
+    <description>This mod is a fork of Maltiez's mod "Skeletons". My aim was to tweak the traits to my own vision.</description>
   </item>
   <item>
-    <title>MoonshotCore</title>
-    <link>https://mods.vintagestory.at/show/mod/moonshotcore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonshotcore#13045</guid>
-    <pubDate>Mon, 02 Nov 2026 06:47:58 -0000</pubDate>
-    <description>A WIP Performance mod for my heavy mod pack of 180+ mods xD uploading so friends have easy download</description>
+    <title>C&amp;N RPG Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/canrpgclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/canrpgclasses#9965</guid>
+    <pubDate>Mon, 02 Nov 2026 16:46:08 -0000</pubDate>
+    <description>RPG classes for Vintage Story</description>
   </item>
   <item>
-    <title>Interesting Mining &amp; Extraction</title>
-    <link>https://mods.vintagestory.at/show/mod/interestingme</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/interestingme#7819</guid>
-    <pubDate>Mon, 02 Nov 2026 06:46:42 -0000</pubDate>
-    <description>2.0.0 is OUT NOW! Built to encourage mine infrastructure and big piles of tailings!</description>
+    <title>Rust Bound Magic skill bonus for Meow skills</title>
+    <link>https://mods.vintagestory.at/show/mod/13059</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13059#13059</guid>
+    <pubDate>Mon, 02 Nov 2026 16:39:13 -0000</pubDate>
+    <description>xp bonuses for meow skills for the Rust Bound Magic class</description>
   </item>
   <item>
-    <title>Don't eat my crops!</title>
-    <link>https://mods.vintagestory.at/show/mod/13048</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13048#13048</guid>
-    <pubDate>Mon, 02 Nov 2026 06:46:34 -0000</pubDate>
-    <description>Vanilla and modded animals will no longer eat crops or berry bushes.</description>
+    <title>Livestock Welfare</title>
+    <link>https://mods.vintagestory.at/show/mod/livestockwelfare</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/livestockwelfare#12988</guid>
+    <pubDate>Mon, 02 Nov 2026 16:31:11 -0000</pubDate>
+    <description>Animals that age, get dirty and sick, and need shelter and water. Groom, pet and care for them.</description>
   </item>
   <item>
-    <title>SparkVS</title>
-    <link>https://mods.vintagestory.at/show/mod/sparkvs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sparkvs#13046</guid>
-    <pubDate>Mon, 02 Nov 2026 06:43:55 -0000</pubDate>
-    <description>The idea of Spark being made for VS slowly...</description>
+    <title>eViSTool — Linux</title>
+    <link>https://mods.vintagestory.at/show/mod/evistoollinux</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoollinux#12414</guid>
+    <pubDate>Mon, 02 Nov 2026 16:18:17 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>eViSTool — Windows</title>
+    <link>https://mods.vintagestory.at/show/mod/evistoolwin</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoolwin#12228</guid>
+    <pubDate>Mon, 02 Nov 2026 16:17:55 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>Evenfall Server Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/12676</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12676#12676</guid>
+    <pubDate>Mon, 02 Nov 2026 16:14:48 -0000</pubDate>
+    <description>Compatibility and customization pack for the Evenfall server</description>
+  </item>
+  <item>
+    <title>Configure More Everything</title>
+    <link>https://mods.vintagestory.at/show/mod/cme</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cme#12755</guid>
+    <pubDate>Mon, 02 Nov 2026 15:53:01 -0000</pubDate>
+    <description>Override tool tiers, stack sizes, nutrition, durability, block resistance and more via config files.</description>
+  </item>
+  <item>
+    <title>Vara's Crowberries</title>
+    <link>https://mods.vintagestory.at/show/mod/13033</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13033#13033</guid>
+    <pubDate>Mon, 02 Nov 2026 15:45:53 -0000</pubDate>
+    <description>Adds crowberries to the colder regions of your world! That's all.</description>
+  </item>
+  <item>
+    <title>Vara's Lingonberries</title>
+    <link>https://mods.vintagestory.at/show/mod/varaslingonberries</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varaslingonberries#12906</guid>
+    <pubDate>Mon, 02 Nov 2026 15:44:17 -0000</pubDate>
+    <description>Adds lingonberries to the colder regions of your world! The sweeter counterparts to cranberries!</description>
+  </item>
+  <item>
+    <title>EoS Pack 1</title>
+    <link>https://mods.vintagestory.at/show/mod/12776</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12776#12776</guid>
+    <pubDate>Mon, 02 Nov 2026 15:30:02 -0000</pubDate>
+    <description>EoS - Custom Mod 1</description>
+  </item>
+  <item>
+    <title>Snoopy's Block Logger (Server-side)</title>
+    <link>https://mods.vintagestory.at/show/mod/9179</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9179#9179</guid>
+    <pubDate>Mon, 02 Nov 2026 15:28:21 -0000</pubDate>
+    <description>Server-side block logger - requires client side to view logs</description>
+  </item>
+  <item>
+    <title>Easyplace fix for rustmaticafix</title>
+    <link>https://mods.vintagestory.at/show/mod/13057</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13057#13057</guid>
+    <pubDate>Mon, 02 Nov 2026 15:24:49 -0000</pubDate>
+    <description>patch for easyplace for my rustmaticafix</description>
+  </item>
+  <item>
+    <title>Serverside rustmatica tweak</title>
+    <link>https://mods.vintagestory.at/show/mod/13056</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13056#13056</guid>
+    <pubDate>Mon, 02 Nov 2026 15:21:54 -0000</pubDate>
+    <description>This is a tiny fork of rustmatica made to fix a specific autodownload issue.</description>
+  </item>
+  <item>
+    <title>Helianthus</title>
+    <link>https://mods.vintagestory.at/show/mod/10781</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10781#10781</guid>
+    <pubDate>Mon, 02 Nov 2026 15:10:59 -0000</pubDate>
+    <description>Adds plants in the sunflower tribe</description>
+  </item>
+  <item>
+    <title>CozyPot</title>
+    <link>https://mods.vintagestory.at/show/mod/cozypot</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cozypot#13055</guid>
+    <pubDate>Mon, 02 Nov 2026 13:11:28 -0000</pubDate>
+    <description>Lowers the food level in the cooking pot by servings amount</description>
+  </item>
+  <item>
+    <title>Cooler Rift Ward Sounds</title>
+    <link>https://mods.vintagestory.at/show/mod/11330</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11330#11330</guid>
+    <pubDate>Mon, 02 Nov 2026 13:01:58 -0000</pubDate>
+    <description>Makes Rift Wards sound (subjectively) cooler.</description>
+  </item>
+  <item>
+    <title>Configurable Reinforcement</title>
+    <link>https://mods.vintagestory.at/show/mod/configurablereinforcement</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/configurablereinforcement#13053</guid>
+    <pubDate>Mon, 02 Nov 2026 12:33:57 -0000</pubDate>
+    <description>Configure reinforcement strength per item, including modded items. Server-side only</description>
+  </item>
+  <item>
+    <title>homesteadmods</title>
+    <link>https://mods.vintagestory.at/show/mod/11819</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11819#11819</guid>
+    <pubDate>Mon, 02 Nov 2026 12:09:46 -0000</pubDate>
+    <description>Homestead Server Tweaks</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Mon, 02 Nov 2026 11:57:22 -0000</pubDate>
+    <description>TopGs Community Mod</description>
   </item>
   <item>
     <title>Ardyn Leveling</title>
     <link>https://mods.vintagestory.at/show/mod/ardynleveling</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ardynleveling#12761</guid>
-    <pubDate>Mon, 02 Nov 2026 05:38:45 -0000</pubDate>
+    <pubDate>Mon, 02 Nov 2026 10:58:53 -0000</pubDate>
     <description>Deep profession-based progression with customizable talent trees and hundreds of unique skills.</description>
   </item>
   <item>
-    <title>Animal Kinship</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinship</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinship#9647</guid>
-    <pubDate>Mon, 02 Nov 2026 05:30:28 -0000</pubDate>
-    <description>Animals recognize their feral kin, with simple taming for supported wildlife.</description>
+    <title>Drag Chisel Mode</title>
+    <link>https://mods.vintagestory.at/show/mod/9528</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9528#9528</guid>
+    <pubDate>Mon, 02 Nov 2026 10:26:40 -0000</pubDate>
+    <description>Adds drag removal/adding to the chisel tool</description>
   </item>
   <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Mon, 02 Nov 2026 05:30:18 -0000</pubDate>
-    <description>Gives tamed animals personalities, backpacks, duties, talents, breeding, and expeditions.</description>
+    <title>Panning Machine</title>
+    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
+    <pubDate>Mon, 02 Nov 2026 10:21:12 -0000</pubDate>
+    <description>Simple machine for panning, now with a heavy-duty Industrial Panning Machine ⚙️</description>
   </item>
   <item>
-    <title>Jonas Horses</title>
-    <link>https://mods.vintagestory.at/show/mod/jonashorses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jonashorses#12689</guid>
-    <pubDate>Mon, 02 Nov 2026 04:41:44 -0000</pubDate>
-    <description>Robotic horses with temporal drive gears and personality keys.</description>
+    <title>Tech of sorcery</title>
+    <link>https://mods.vintagestory.at/show/mod/techofsorcery</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/techofsorcery#12968</guid>
+    <pubDate>Mon, 02 Nov 2026 10:02:11 -0000</pubDate>
+    <description>a simple magic and technology mod with machines that can produce mana and use it for your purpose</description>
   </item>
   <item>
-    <title>Eternal Seraph: Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
-    <pubDate>Mon, 02 Nov 2026 04:40:09 -0000</pubDate>
-    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
+    <title>RunicMagic</title>
+    <link>https://mods.vintagestory.at/show/mod/runicmagic</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/runicmagic#11486</guid>
+    <pubDate>Mon, 02 Nov 2026 10:01:47 -0000</pubDate>
+    <description>Discover a world specific runic language, research its words, and write your own spells.</description>
   </item>
   <item>
-    <title>Vintage GMOs:Crops</title>
-    <link>https://mods.vintagestory.at/show/mod/12991</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12991#12991</guid>
-    <pubDate>Mon, 02 Nov 2026 04:29:01 -0000</pubDate>
-    <description>Introduces crop genetics, selective breeding, mutations, inheritable traits and genetic manipulation</description>
+    <title>Vintage Fireworks</title>
+    <link>https://mods.vintagestory.at/show/mod/12993</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12993#12993</guid>
+    <pubDate>Mon, 02 Nov 2026 09:33:31 -0000</pubDate>
+    <description>Become a pyrotechnican in Vintage Story. Craft your own pyro show today.</description>
   </item>
   <item>
-    <title>Jonas Critters</title>
-    <link>https://mods.vintagestory.at/show/mod/13043</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13043#13043</guid>
-    <pubDate>Mon, 02 Nov 2026 04:27:31 -0000</pubDate>
-    <description>A tiny robot horse and three little robots: they wander your base, follow you and sleep at night.</description>
+    <title>NPC Economy</title>
+    <link>https://mods.vintagestory.at/show/mod/npceconomy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/npceconomy#8154</guid>
+    <pubDate>Mon, 02 Nov 2026 09:27:24 -0000</pubDate>
+    <description>NPC Economy revises trader tables for survival and profit.</description>
   </item>
   <item>
-    <title>Rustbound Magic: Craditz’s Crooked Codex</title>
-    <link>https://mods.vintagestory.at/show/mod/craditzscrookedcodex</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/craditzscrookedcodex#12628</guid>
-    <pubDate>Mon, 02 Nov 2026 04:03:03 -0000</pubDate>
-    <description>Adds 71 spells to Rustbound Magic, including chain lightning, portals, and stone sentries.</description>
+    <title>𝓦𝓻𝓲𝓽𝓽𝓮𝓷 𝓦𝓸𝓻𝓭 - parchment and book overhaul</title>
+    <link>https://mods.vintagestory.at/show/mod/writtenword</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/writtenword#12602</guid>
+    <pubDate>Mon, 02 Nov 2026 08:56:34 -0000</pubDate>
+    <description>Parchment and book overhaul. Parchments can be placed on walls, adds nickname-only signatures</description>
   </item>
   <item>
-    <title>Antique History | Lore &amp; Ruins</title>
-    <link>https://mods.vintagestory.at/show/mod/12552</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12552#12552</guid>
-    <pubDate>Mon, 02 Nov 2026 03:47:10 -0000</pubDate>
-    <description>Explore emotional, dark yet heartfelt stories in the world of Vintage Story.</description>
+    <title>Racial Equality (Visual)</title>
+    <link>https://mods.vintagestory.at/show/mod/racialequality</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/racialequality#4616</guid>
+    <pubDate>Mon, 02 Nov 2026 08:34:58 -0000</pubDate>
+    <description>Mod adding 5 fantasy races (Dwarf, Elf, Goblin, Human, Ork)</description>
   </item>
   <item>
-    <title>OffhandHungerTool</title>
-    <link>https://mods.vintagestory.at/show/mod/11812</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11812#11812</guid>
-    <pubDate>Mon, 02 Nov 2026 03:40:06 -0000</pubDate>
-    <description>A simple hunger Tool </description>
-  </item>
-  <item>
-    <title>Professions</title>
-    <link>https://mods.vintagestory.at/show/mod/professions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/professions#11198</guid>
-    <pubDate>Mon, 02 Nov 2026 03:19:04 -0000</pubDate>
-    <description>Pick a trade and master it. Eleven professions with deep talent trees, earned by doing the work —</description>
-  </item>
-  <item>
-    <title>Craftsmanship</title>
-    <link>https://mods.vintagestory.at/show/mod/11590</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11590#11590</guid>
-    <pubDate>Mon, 02 Nov 2026 02:32:06 -0000</pubDate>
-    <description>Over 1,000 new items, creatures and weapons added. Cannabis system, monster loot system and more,</description>
-  </item>
-  <item>
-    <title>Sigils</title>
-    <link>https://mods.vintagestory.at/show/mod/sigils</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sigils#13042</guid>
-    <pubDate>Mon, 02 Nov 2026 02:30:00 -0000</pubDate>
-    <description>Ancient glyphs, inlaid in metal, hold back the dark. Learn them, carve them, feed them.</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Mon, 02 Nov 2026 02:29:12 -0000</pubDate>
-    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
-  </item>
-  <item>
-    <title>Edible Botanicals: Musaceae and Arecaceae (bananas and coconuts)</title>
-    <link>https://mods.vintagestory.at/show/mod/12518</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12518#12518</guid>
-    <pubDate>Mon, 02 Nov 2026 02:28:32 -0000</pubDate>
-    <description>Banana plants and coconut palms with staged growth, harvests and full fruit-recipe support.</description>
-  </item>
-  <item>
-    <title>Backrooms: Survival Story</title>
-    <link>https://mods.vintagestory.at/show/mod/backrooms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/backrooms#12452</guid>
-    <pubDate>Mon, 02 Nov 2026 02:09:35 -0000</pubDate>
-    <description>You wake up in the Backrooms with nothing. Can you survive?</description>
-  </item>
-  <item>
-    <title>Spec's Specialized Bags Revived</title>
-    <link>https://mods.vintagestory.at/show/mod/specializedbagsrevived</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/specializedbagsrevived#2920</guid>
-    <pubDate>Mon, 02 Nov 2026 01:58:45 -0000</pubDate>
-    <description>Specialty bags and pouches that only hold items related to their category.</description>
-  </item>
-  <item>
-    <title>Diwan's Tools</title>
-    <link>https://mods.vintagestory.at/show/mod/diwanstools</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/diwanstools#13038</guid>
-    <pubDate>Mon, 02 Nov 2026 01:52:03 -0000</pubDate>
-    <description>A mod that adds a delivery register, wax and clay seals for vessels and trunks.</description>
-  </item>
-  <item>
-    <title>Just Enough Slurpage</title>
-    <link>https://mods.vintagestory.at/show/mod/13040</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13040#13040</guid>
-    <pubDate>Mon, 02 Nov 2026 01:28:25 -0000</pubDate>
-    <description>Only drink the amount you need.</description>
-  </item>
-  <item>
-    <title>BetterRuins Retrogen</title>
-    <link>https://mods.vintagestory.at/show/mod/13039</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13039#13039</guid>
-    <pubDate>Mon, 02 Nov 2026 01:20:57 -0000</pubDate>
-    <description>Adds BetterRuins ruins and villages to chunks you already explored, so old worlds get them too.</description>
-  </item>
-  <item>
-    <title>To Rule Them All: Combat Overhaul Fork patch</title>
-    <link>https://mods.vintagestory.at/show/mod/12809</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12809#12809</guid>
-    <pubDate>Mon, 02 Nov 2026 00:56:52 -0000</pubDate>
-    <description>Puts the armors in their appropriate layers. AI was used to make this</description>
-  </item>
-  <item>
-    <title>Vintage Fantasy</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagefantasy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagefantasy#12418</guid>
-    <pubDate>Mon, 02 Nov 2026 00:45:33 -0000</pubDate>
-    <description>Whole buncha random shit to make the 194+ mods of the server not murder each other in their sleep</description>
-  </item>
-  <item>
-    <title>Seraph Leveling ReClassed</title>
-    <link>https://mods.vintagestory.at/show/mod/11234</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11234#11234</guid>
-    <pubDate>Mon, 02 Nov 2026 00:17:45 -0000</pubDate>
-    <description>Level up and gain traits in a vanilla-friendly way, with additional mod support</description>
-  </item>
-  <item>
-    <title>Angler's Art of Fishing</title>
-    <link>https://mods.vintagestory.at/show/mod/artoffishing</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/artoffishing#12893</guid>
-    <pubDate>Mon, 02 Nov 2026 00:02:27 -0000</pubDate>
-    <description>Fishing mechanics and tools to enhance the art of fishing</description>
-  </item>
-  <item>
-    <title>Vanilla Metal Tool Remodel</title>
-    <link>https://mods.vintagestory.at/show/mod/3936</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3936#3936</guid>
-    <pubDate>Mon, 02 Nov 2026 00:00:39 -0000</pubDate>
-    <description>Makes metal tools less primitive-looking.</description>
+    <title>Crown &amp; Coalition Chapter 2</title>
+    <link>https://mods.vintagestory.at/show/mod/11428</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
+    <pubDate>Mon, 02 Nov 2026 08:12:48 -0000</pubDate>
+    <description>Chapter 2 additions for C&amp;C.</description>
   </item>
 </channel>
 </rss>
