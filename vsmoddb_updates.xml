@@ -4,27 +4,160 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 01 Nov 2026 20:59:09 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 00:33:15 +0000</lastBuildDate>
+  <item>
+    <title>Seraph Leveling ReClassed</title>
+    <link>https://mods.vintagestory.at/show/mod/11234</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11234#11234</guid>
+    <pubDate>Mon, 02 Nov 2026 00:17:45 -0000</pubDate>
+    <description>Level up and gain traits in a vanilla-friendly way, with additional mod support</description>
+  </item>
+  <item>
+    <title>Angler's Art of Fishing</title>
+    <link>https://mods.vintagestory.at/show/mod/artoffishing</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/artoffishing#12893</guid>
+    <pubDate>Mon, 02 Nov 2026 00:02:27 -0000</pubDate>
+    <description>Fishing mechanics and tools to enhance the art of fishing</description>
+  </item>
+  <item>
+    <title>Vanilla Metal Tool Remodel</title>
+    <link>https://mods.vintagestory.at/show/mod/3936</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3936#3936</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:39 -0000</pubDate>
+    <description>Makes metal tools less primitive-looking.</description>
+  </item>
+  <item>
+    <title>VSA - Replica</title>
+    <link>https://mods.vintagestory.at/show/mod/9115</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
+    <pubDate>Sun, 01 Nov 2026 23:51:42 -0000</pubDate>
+    <description> (Valkyrian Skies for VS basically) Build block-made moving ships and structures</description>
+  </item>
+  <item>
+    <title>VSA - Balistic</title>
+    <link>https://mods.vintagestory.at/show/mod/11645</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11645#11645</guid>
+    <pubDate>Sun, 01 Nov 2026 23:49:39 -0000</pubDate>
+    <description>Canons &amp; the framework for the entire balistic system for the future</description>
+  </item>
+  <item>
+    <title>VSA_API</title>
+    <link>https://mods.vintagestory.at/show/mod/9139</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9139#9139</guid>
+    <pubDate>Sun, 01 Nov 2026 23:48:59 -0000</pubDate>
+    <description>VSA API</description>
+  </item>
+  <item>
+    <title>CB Harmony Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/8811</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
+    <pubDate>Sun, 01 Nov 2026 23:45:06 -0000</pubDate>
+    <description>Harmony patches for compatibility.</description>
+  </item>
+  <item>
+    <title>Age of Seraphs Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
+    <pubDate>Sun, 01 Nov 2026 23:36:32 -0000</pubDate>
+    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
+  </item>
+  <item>
+    <title>Blood Trail</title>
+    <link>https://mods.vintagestory.at/show/mod/bloodtrail</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bloodtrail#5069</guid>
+    <pubDate>Sun, 01 Nov 2026 22:50:20 -0000</pubDate>
+    <description>Animals leave blood trails when wounded by a player.</description>
+  </item>
+  <item>
+    <title>Footprints</title>
+    <link>https://mods.vintagestory.at/show/mod/footprints</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/footprints#5625</guid>
+    <pubDate>Sun, 01 Nov 2026 22:50:11 -0000</pubDate>
+    <description>Animals and Players leave footprints when moving.</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Sun, 01 Nov 2026 22:21:43 -0000</pubDate>
+    <description>Cumstomizable Small, Medium and Huge gondolas and structures</description>
+  </item>
+  <item>
+    <title>Evenfall Server Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/12676</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12676#12676</guid>
+    <pubDate>Sun, 01 Nov 2026 22:21:26 -0000</pubDate>
+    <description>Compatibility and customization pack for the Evenfall server</description>
+  </item>
+  <item>
+    <title>SheyderMod</title>
+    <link>https://mods.vintagestory.at/show/mod/sheydermod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sheydermod#10021</guid>
+    <pubDate>Sun, 01 Nov 2026 22:16:35 -0000</pubDate>
+    <description>A simple SheyderMod that supports the original artstyle of the game.</description>
+  </item>
+  <item>
+    <title>WoNH Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/wonhtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wonhtweaks#12081</guid>
+    <pubDate>Sun, 01 Nov 2026 22:14:49 -0000</pubDate>
+    <description>Mod tweaks and patches for the World of New Horizons server (https://wonh.online/)</description>
+  </item>
+  <item>
+    <title>Djinland Essentials</title>
+    <link>https://mods.vintagestory.at/show/mod/919</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/919#919</guid>
+    <pubDate>Sun, 01 Nov 2026 22:04:53 -0000</pubDate>
+    <description>An essentials for our server Djinland.cz</description>
+  </item>
+  <item>
+    <title>Yolk Story Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/yolkstorytweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yolkstorytweaks#12165</guid>
+    <pubDate>Sun, 01 Nov 2026 21:59:45 -0000</pubDate>
+    <description>Server specific mod compatibility mod #25415</description>
+  </item>
+  <item>
+    <title>Hearthward Portcullis Addon</title>
+    <link>https://mods.vintagestory.at/show/mod/hearthwardportcullisaddon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hearthwardportcullisaddon#13034</guid>
+    <pubDate>Sun, 01 Nov 2026 21:55:19 -0000</pubDate>
+    <description>Adds reinforced 3×5 wooden gates with metal bands to Portcullis. Requires Portcullis.</description>
+  </item>
+  <item>
+    <title>Solaria's Solace Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10706</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10706#10706</guid>
+    <pubDate>Sun, 01 Nov 2026 21:38:42 -0000</pubDate>
+    <description>A bunch of fixes and additions for the server.</description>
+  </item>
+  <item>
+    <title>Eternal Seraph: Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
+    <pubDate>Sun, 01 Nov 2026 21:14:36 -0000</pubDate>
+    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
+  </item>
+  <item>
+    <title>NavarlioClasses</title>
+    <link>https://mods.vintagestory.at/show/mod/navarlioclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/navarlioclasses#1595</guid>
+    <pubDate>Sun, 01 Nov 2026 21:13:56 -0000</pubDate>
+    <description>Modification of the MoreClasses mod for the Navarlio Server.</description>
+  </item>
+  <item>
+    <title>Vara's Crowberries</title>
+    <link>https://mods.vintagestory.at/show/mod/13033</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13033#13033</guid>
+    <pubDate>Sun, 01 Nov 2026 21:06:20 -0000</pubDate>
+    <description>Adds crowberries to the colder regions of your world! That's all.</description>
+  </item>
   <item>
     <title>Classes of Eriador</title>
     <link>https://mods.vintagestory.at/show/mod/eriadorclasses</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eriadorclasses#9321</guid>
     <pubDate>Sun, 01 Nov 2026 20:53:26 -0000</pubDate>
     <description>A collection of custom classes for the Kingdom of Eriador Vintagestory server.</description>
-  </item>
-  <item>
-    <title>Footprints</title>
-    <link>https://mods.vintagestory.at/show/mod/footprints</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/footprints#5625</guid>
-    <pubDate>Sun, 01 Nov 2026 20:49:13 -0000</pubDate>
-    <description>Animals and Players leave footprints when moving.</description>
-  </item>
-  <item>
-    <title>Blood Trail</title>
-    <link>https://mods.vintagestory.at/show/mod/bloodtrail</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bloodtrail#5069</guid>
-    <pubDate>Sun, 01 Nov 2026 20:49:09 -0000</pubDate>
-    <description>Animals leave blood trails when wounded by a player.</description>
   </item>
   <item>
     <title>VS save editor</title>
@@ -39,27 +172,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lingamspanningtweak#13031</guid>
     <pubDate>Sun, 01 Nov 2026 20:39:06 -0000</pubDate>
     <description>Pan beneath solid blocks and collect from the top of stacked sand, gravel, and bony soil.</description>
-  </item>
-  <item>
-    <title>VSA - Balistic</title>
-    <link>https://mods.vintagestory.at/show/mod/11645</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11645#11645</guid>
-    <pubDate>Sun, 01 Nov 2026 20:33:14 -0000</pubDate>
-    <description>Canons &amp; the framework for the entire balistic system for the future</description>
-  </item>
-  <item>
-    <title>VSA_API</title>
-    <link>https://mods.vintagestory.at/show/mod/9139</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9139#9139</guid>
-    <pubDate>Sun, 01 Nov 2026 20:32:45 -0000</pubDate>
-    <description>VSA API</description>
-  </item>
-  <item>
-    <title>VSA - Replica</title>
-    <link>https://mods.vintagestory.at/show/mod/9115</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
-    <pubDate>Sun, 01 Nov 2026 20:32:30 -0000</pubDate>
-    <description> (Valkyrian Skies for VS basically) Build block-made moving ships and structures</description>
   </item>
   <item>
     <title>Mais Praticidade</title>
@@ -102,118 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/backpackloss#13029</guid>
     <pubDate>Sun, 01 Nov 2026 20:07:28 -0000</pubDate>
     <description>Adds a chance per Backpack for them to get deleted when you die. </description>
-  </item>
-  <item>
-    <title>BlindfoldBlinds</title>
-    <link>https://mods.vintagestory.at/show/mod/10545</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10545#10545</guid>
-    <pubDate>Sun, 01 Nov 2026 20:03:45 -0000</pubDate>
-    <description>Makes the blindfold actually blind you</description>
-  </item>
-  <item>
-    <title>Komet - Performance Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/komet</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/komet#11423</guid>
-    <pubDate>Sun, 01 Nov 2026 20:02:59 -0000</pubDate>
-    <description>Komet is an awesome performance mod!</description>
-  </item>
-  <item>
-    <title>Fork extremeweather</title>
-    <link>https://mods.vintagestory.at/show/mod/13028</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13028#13028</guid>
-    <pubDate>Sun, 01 Nov 2026 19:37:36 -0000</pubDate>
-    <description>Fork extremeweather</description>
-  </item>
-  <item>
-    <title>Fork ZhammerZ</title>
-    <link>https://mods.vintagestory.at/show/mod/13027</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13027#13027</guid>
-    <pubDate>Sun, 01 Nov 2026 19:34:13 -0000</pubDate>
-    <description>fork of mod</description>
-  </item>
-  <item>
-    <title>Electrical Progressive: QOL</title>
-    <link>https://mods.vintagestory.at/show/mod/electricalprogressiveqol</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/electricalprogressiveqol#3693</guid>
-    <pubDate>Sun, 01 Nov 2026 19:33:57 -0000</pubDate>
-    <description>Additional electrical devices</description>
-  </item>
-  <item>
-    <title>Electrical Progressive: Basics</title>
-    <link>https://mods.vintagestory.at/show/mod/electricalprogressivebasics</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/electricalprogressivebasics#3692</guid>
-    <pubDate>Sun, 01 Nov 2026 19:30:33 -0000</pubDate>
-    <description>Basic electrical devices</description>
-  </item>
-  <item>
-    <title>Electrical Progressive: Core</title>
-    <link>https://mods.vintagestory.at/show/mod/electricalprogressivecore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/electricalprogressivecore#3691</guid>
-    <pubDate>Sun, 01 Nov 2026 19:26:57 -0000</pubDate>
-    <description>Electrical logic library</description>
-  </item>
-  <item>
-    <title>Ships</title>
-    <link>https://mods.vintagestory.at/show/mod/ships</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ships#12979</guid>
-    <pubDate>Sun, 01 Nov 2026 19:23:22 -0000</pubDate>
-    <description>Sail, explore and make a home aboard an ocean-going ship.</description>
-  </item>
-  <item>
-    <title>Purposeful Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/purposefulstorage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/purposefulstorage#4286</guid>
-    <pubDate>Sun, 01 Nov 2026 19:10:53 -0000</pubDate>
-    <description>Adds a variety of storage blocks designed for both aesthetic appeal and functional item organization</description>
-  </item>
-  <item>
-    <title>Trader Claim</title>
-    <link>https://mods.vintagestory.at/show/mod/traderclaim</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traderclaim#12972</guid>
-    <pubDate>Sun, 01 Nov 2026 19:02:02 -0000</pubDate>
-    <description>Buy trader claims with rusty gears or release them after harvesting traders.</description>
-  </item>
-  <item>
-    <title>Gift Wrapping Table</title>
-    <link>https://mods.vintagestory.at/show/mod/presents</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/presents#13026</guid>
-    <pubDate>Sun, 01 Nov 2026 18:58:29 -0000</pubDate>
-    <description>A holiday gift wrapping table that produces real gifts.</description>
-  </item>
-  <item>
-    <title>LTO BlackSmith Plus</title>
-    <link>https://mods.vintagestory.at/show/mod/ltobsplus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ltobsplus#11958</guid>
-    <pubDate>Sun, 01 Nov 2026 18:45:51 -0000</pubDate>
-    <description>Toolsmith + Smithing Plus + Weaponsmith and more — a full blacksmithing overhaul.</description>
-  </item>
-  <item>
-    <title>Overlord's Stamp Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/13025</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13025#13025</guid>
-    <pubDate>Sun, 01 Nov 2026 18:40:09 -0000</pubDate>
-    <description>Eight hand-drawn ruin, castle, tower and trader symbols for Frontier's Map stamps.</description>
-  </item>
-  <item>
-    <title>Ardyn Leveling</title>
-    <link>https://mods.vintagestory.at/show/mod/ardynleveling</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ardynleveling#12761</guid>
-    <pubDate>Sun, 01 Nov 2026 18:25:09 -0000</pubDate>
-    <description>Deep profession-based progression with customizable talent trees and hundreds of unique skills.</description>
-  </item>
-  <item>
-    <title>CB Harmony Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8811</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Sun, 01 Nov 2026 18:25:07 -0000</pubDate>
-    <description>Harmony patches for compatibility.</description>
-  </item>
-  <item>
-    <title>The Witching Way</title>
-    <link>https://mods.vintagestory.at/show/mod/thewitchingway</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thewitchingway#12917</guid>
-    <pubDate>Sun, 01 Nov 2026 18:22:27 -0000</pubDate>
-    <description>Bringing magical practice into Vintage Story through meaningful mechanics and subtle progression.</description>
   </item>
 </channel>
 </rss>
