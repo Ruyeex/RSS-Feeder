@@ -4,7 +4,119 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 05 Nov 2026 05:43:49 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 14:15:15 +0000</lastBuildDate>
+  <item>
+    <title>Meadows Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10662</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10662#10662</guid>
+    <pubDate>Thu, 05 Nov 2026 14:04:52 -0000</pubDate>
+    <description>Nothing fancy, just server-specific adjustments</description>
+  </item>
+  <item>
+    <title>Meadows Server Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/11855</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11855#11855</guid>
+    <pubDate>Thu, 05 Nov 2026 14:00:34 -0000</pubDate>
+    <description>Tweaks for a server</description>
+  </item>
+  <item>
+    <title>Good Hunting</title>
+    <link>https://mods.vintagestory.at/show/mod/4050</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4050#4050</guid>
+    <pubDate>Thu, 05 Nov 2026 13:45:51 -0000</pubDate>
+    <description>Buffed and varied vanilla drops for animals for realism.</description>
+  </item>
+  <item>
+    <title>NenaBlock - Browser Model Editor</title>
+    <link>https://mods.vintagestory.at/show/mod/nenablock</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nenablock#13146</guid>
+    <pubDate>Thu, 05 Nov 2026 13:35:17 -0000</pubDate>
+    <description>Model, texture and animate Vintage Story assets in your browser. No install. Early Access.</description>
+  </item>
+  <item>
+    <title>True Anvil Sound Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/13148</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13148#13148</guid>
+    <pubDate>Thu, 05 Nov 2026 13:32:58 -0000</pubDate>
+    <description>Reduces the high frequency spikes in the anvil hit sound effects. No code.</description>
+  </item>
+  <item>
+    <title>Vigor &amp; CO Compatibility</title>
+    <link>https://mods.vintagestory.at/show/mod/12940</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12940#12940</guid>
+    <pubDate>Thu, 05 Nov 2026 13:20:52 -0000</pubDate>
+    <description>Makes Combat Overhaul actions cost Vigor stamina</description>
+  </item>
+  <item>
+    <title>Open Inventory Command</title>
+    <link>https://mods.vintagestory.at/show/mod/openinventorycommand</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/openinventorycommand#13130</guid>
+    <pubDate>Thu, 05 Nov 2026 12:53:26 -0000</pubDate>
+    <description>Adds client-side commands to toggle inventory. Allows opening the survival inventory in creative.</description>
+  </item>
+  <item>
+    <title>Evenfall Server Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/12676</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12676#12676</guid>
+    <pubDate>Thu, 05 Nov 2026 12:11:54 -0000</pubDate>
+    <description>Compatibility and customization pack for the Evenfall server</description>
+  </item>
+  <item>
+    <title>Lutrin &amp; Pupitre</title>
+    <link>https://mods.vintagestory.at/show/mod/13145</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13145#13145</guid>
+    <pubDate>Thu, 05 Nov 2026 11:19:30 -0000</pubDate>
+    <description>Reading lectern and stand in every wood: lay your own book open, read it in place.</description>
+  </item>
+  <item>
+    <title>Panning Machine</title>
+    <link>https://mods.vintagestory.at/show/mod/panningmachine</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/panningmachine#5672</guid>
+    <pubDate>Thu, 05 Nov 2026 10:30:59 -0000</pubDate>
+    <description>Simple machine for panning, now with a heavy-duty Industrial Panning Machine ⚙️</description>
+  </item>
+  <item>
+    <title>One More Quench!</title>
+    <link>https://mods.vintagestory.at/show/mod/11643</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11643#11643</guid>
+    <pubDate>Thu, 05 Nov 2026 10:23:35 -0000</pubDate>
+    <description>Replaces quenching mechanics with a vanilla friendly push-your-luck system with soft failure</description>
+  </item>
+  <item>
+    <title>Rust Arrival</title>
+    <link>https://mods.vintagestory.at/show/mod/rustarrival</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustarrival#13143</guid>
+    <pubDate>Thu, 05 Nov 2026 09:11:55 -0000</pubDate>
+    <description>Rust creatures now spawn with a special visual effect. Purely cosmetic, configurable.</description>
+  </item>
+  <item>
+    <title>Diwan's Tools</title>
+    <link>https://mods.vintagestory.at/show/mod/diwanstools</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/diwanstools#13038</guid>
+    <pubDate>Thu, 05 Nov 2026 08:29:13 -0000</pubDate>
+    <description>A mod that adds a delivery register, wax and clay seals for vessels and trunks.</description>
+  </item>
+  <item>
+    <title>combatreworkforkmagnezia</title>
+    <link>https://mods.vintagestory.at/show/mod/13144</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13144#13144</guid>
+    <pubDate>Thu, 05 Nov 2026 07:55:54 -0000</pubDate>
+    <description>Combat Rework by Tomoyuki FORK MAGNEZIA</description>
+  </item>
+  <item>
+    <title>Modular/Immersive Backpack Fixes</title>
+    <link>https://mods.vintagestory.at/show/mod/12376</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12376#12376</guid>
+    <pubDate>Thu, 05 Nov 2026 06:52:26 -0000</pubDate>
+    <description>Fixes for Modular Backpacks and Immersive Backpacks.</description>
+  </item>
+  <item>
+    <title>Vintage E</title>
+    <link>https://mods.vintagestory.at/show/mod/12625</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12625#12625</guid>
+    <pubDate>Thu, 05 Nov 2026 06:17:48 -0000</pubDate>
+    <description>Project E for vintage story</description>
+  </item>
   <item>
     <title>Bark Canoe</title>
     <link>https://mods.vintagestory.at/show/mod/barkcanoe</link>
@@ -97,123 +209,11 @@
     <description>Allows firewood to be used in sod roofing recipes. Early game friendly.</description>
   </item>
   <item>
-    <title>Meadows Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10662</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10662#10662</guid>
-    <pubDate>Thu, 05 Nov 2026 04:21:04 -0000</pubDate>
-    <description>Nothing fancy, just server-specific adjustments</description>
-  </item>
-  <item>
     <title>Wilderlands Rustbound</title>
     <link>https://mods.vintagestory.at/show/mod/3004</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3004#3004</guid>
     <pubDate>Thu, 05 Nov 2026 03:33:23 -0000</pubDate>
     <description>Overhauls drifter canon, adds a slew of new Rust-related entities and challenges.</description>
-  </item>
-  <item>
-    <title>Gatbata's Sawians</title>
-    <link>https://mods.vintagestory.at/show/mod/customplayermodelsaw</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/customplayermodelsaw#10351</guid>
-    <pubDate>Thu, 05 Nov 2026 02:38:41 -0000</pubDate>
-    <description>Adds some of the Sawians from Gunsaw and Casualties: Unknown (expies and the like)</description>
-  </item>
-  <item>
-    <title>Dar's Admin Cosmetics</title>
-    <link>https://mods.vintagestory.at/show/mod/darsadmincosmetics</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darsadmincosmetics#12670</guid>
-    <pubDate>Thu, 05 Nov 2026 02:05:56 -0000</pubDate>
-    <description>Mod for Sundered Isles server</description>
-  </item>
-  <item>
-    <title>Dar's Server Utilities</title>
-    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
-    <pubDate>Thu, 05 Nov 2026 02:05:54 -0000</pubDate>
-    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
-  </item>
-  <item>
-    <title>Shivers CAN Climb (Patched for 1.22.7)</title>
-    <link>https://mods.vintagestory.at/show/mod/13142</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13142#13142</guid>
-    <pubDate>Thu, 05 Nov 2026 02:00:28 -0000</pubDate>
-    <description>Patched fork: shivers can climb like locusts on 1.22.7.</description>
-  </item>
-  <item>
-    <title>Feed or Fallow</title>
-    <link>https://mods.vintagestory.at/show/mod/11297</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11297#11297</guid>
-    <pubDate>Thu, 05 Nov 2026 01:45:31 -0000</pubDate>
-    <description>Your livestock get hungry now. (call for testers)</description>
-  </item>
-  <item>
-    <title>BATS!</title>
-    <link>https://mods.vintagestory.at/show/mod/bats</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bats#12425</guid>
-    <pubDate>Thu, 05 Nov 2026 01:36:46 -0000</pubDate>
-    <description>The original flying animal mod featuring BATS!  Also, renewable saltpeter. </description>
-  </item>
-  <item>
-    <title>WoNH Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/wonhtweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wonhtweaks#12081</guid>
-    <pubDate>Thu, 05 Nov 2026 01:27:11 -0000</pubDate>
-    <description>Mod tweaks and patches for the World of New Horizons server (https://wonh.online/)</description>
-  </item>
-  <item>
-    <title>Frontier's Map - KMA Stamps Pack</title>
-    <link>https://mods.vintagestory.at/show/mod/13140</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13140#13140</guid>
-    <pubDate>Thu, 05 Nov 2026 01:26:04 -0000</pubDate>
-    <description>More stamps and map fonts for Frontier's Map, from K. M. Alexander's free #NoBadMaps assets</description>
-  </item>
-  <item>
-    <title>Vintage GMOs:Crops</title>
-    <link>https://mods.vintagestory.at/show/mod/12991</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12991#12991</guid>
-    <pubDate>Thu, 05 Nov 2026 01:04:13 -0000</pubDate>
-    <description>Introduces crop genetics, selective breeding, mutations, inheritable traits and genetic manipulation</description>
-  </item>
-  <item>
-    <title>Evenfall Server Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/12676</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12676#12676</guid>
-    <pubDate>Thu, 05 Nov 2026 00:52:05 -0000</pubDate>
-    <description>Compatibility and customization pack for the Evenfall server</description>
-  </item>
-  <item>
-    <title>Complex Grafting</title>
-    <link>https://mods.vintagestory.at/show/mod/complexgrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/complexgrafting#12878</guid>
-    <pubDate>Thu, 05 Nov 2026 00:50:35 -0000</pubDate>
-    <description>Allows crafting berry bush cuttings to combine traits.</description>
-  </item>
-  <item>
-    <title>The Monsterpack</title>
-    <link>https://mods.vintagestory.at/show/mod/9530</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9530#9530</guid>
-    <pubDate>Thu, 05 Nov 2026 00:39:46 -0000</pubDate>
-    <description>This pack adds a handful of monster to the game</description>
-  </item>
-  <item>
-    <title>Vintage E</title>
-    <link>https://mods.vintagestory.at/show/mod/12625</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12625#12625</guid>
-    <pubDate>Thu, 05 Nov 2026 00:14:12 -0000</pubDate>
-    <description>Project E for vintage story</description>
-  </item>
-  <item>
-    <title>Sauce-a-lot</title>
-    <link>https://mods.vintagestory.at/show/mod/5721</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5721#5721</guid>
-    <pubDate>Thu, 05 Nov 2026 00:11:47 -0000</pubDate>
-    <description>This mod adds several sauces that can be used in meals and for slathering onto meats!</description>
-  </item>
-  <item>
-    <title>Professions</title>
-    <link>https://mods.vintagestory.at/show/mod/professions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/professions#11198</guid>
-    <pubDate>Wed, 04 Nov 2026 23:40:46 -0000</pubDate>
-    <description>Pick a trade and master it. Eleven professions with deep talent trees, earned by doing the work —</description>
   </item>
 </channel>
 </rss>
