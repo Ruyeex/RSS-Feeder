@@ -4,20 +4,160 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 05 Nov 2026 21:21:58 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 02:03:15 +0000</lastBuildDate>
+  <item>
+    <title>Crown &amp; Coalition Chapter 2</title>
+    <link>https://mods.vintagestory.at/show/mod/11428</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
+    <pubDate>Fri, 06 Nov 2026 02:03:02 -0000</pubDate>
+    <description>Chapter 2 additions for C&amp;C.</description>
+  </item>
+  <item>
+    <title>Crown &amp; Coalition Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/11476</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
+    <pubDate>Fri, 06 Nov 2026 02:02:48 -0000</pubDate>
+    <description>For details on content, please contact me directly via Discord.</description>
+  </item>
+  <item>
+    <title>Increased Storage Capacity</title>
+    <link>https://mods.vintagestory.at/show/mod/3184</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3184#3184</guid>
+    <pubDate>Fri, 06 Nov 2026 01:41:27 -0000</pubDate>
+    <description>Increases reed chest, clay storage vessel, wooden chest and wooden trunk capacity.</description>
+  </item>
+  <item>
+    <title>Translocator Relocator +Configurator</title>
+    <link>https://mods.vintagestory.at/show/mod/translocatorconfigurator</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/translocatorconfigurator#12838</guid>
+    <pubDate>Fri, 06 Nov 2026 01:40:06 -0000</pubDate>
+    <description>Move and link translocators with Home destinations, travel modes, and network-wide renaming.</description>
+  </item>
+  <item>
+    <title>Fauna of the Stone Age: Bovinae</title>
+    <link>https://mods.vintagestory.at/show/mod/bovinae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bovinae#3103</guid>
+    <pubDate>Fri, 06 Nov 2026 01:38:44 -0000</pubDate>
+    <description>A collection of antelopes, bison, buffalo and cattle from the Holocene.</description>
+  </item>
+  <item>
+    <title>xSkills Fork</title>
+    <link>https://mods.vintagestory.at/show/mod/7605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7605#7605</guid>
+    <pubDate>Fri, 06 Nov 2026 01:21:05 -0000</pubDate>
+    <description>RPG-style skill system with abilities, perks, and progression.</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Fri, 06 Nov 2026 01:08:03 -0000</pubDate>
+    <description>Cumstomizable Small, Medium and Huge gondolas and structures</description>
+  </item>
+  <item>
+    <title>language traits</title>
+    <link>https://mods.vintagestory.at/show/mod/languagetraits</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/languagetraits#13151</guid>
+    <pubDate>Fri, 06 Nov 2026 01:06:58 -0000</pubDate>
+    <description>adds traits for yangs to assign</description>
+  </item>
+  <item>
+    <title>Sigils</title>
+    <link>https://mods.vintagestory.at/show/mod/sigils</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sigils#13042</guid>
+    <pubDate>Fri, 06 Nov 2026 00:50:20 -0000</pubDate>
+    <description>Ancient glyphs, inlaid in metal, hold back the dark. Learn them, carve them, feed them.</description>
+  </item>
+  <item>
+    <title>Projectiles In Entities</title>
+    <link>https://mods.vintagestory.at/show/mod/13155</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13155#13155</guid>
+    <pubDate>Thu, 05 Nov 2026 23:54:31 -0000</pubDate>
+    <description>Makes arrows, bolts, javelins, and spears stick into the entities they hit</description>
+  </item>
+  <item>
+    <title>Rise And Shine</title>
+    <link>https://mods.vintagestory.at/show/mod/riseandshine</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/riseandshine#13123</guid>
+    <pubDate>Thu, 05 Nov 2026 23:35:05 -0000</pubDate>
+    <description>Sleep and wake up automatically after a set amount of time.</description>
+  </item>
+  <item>
+    <title>VS Mod Profiler</title>
+    <link>https://mods.vintagestory.at/show/mod/vsmodprofiler</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsmodprofiler#12963</guid>
+    <pubDate>Thu, 05 Nov 2026 23:33:15 -0000</pubDate>
+    <description>A lightweight executable that organizes your mods into selectable and loadable profiles</description>
+  </item>
+  <item>
+    <title>Licantropomorphia</title>
+    <link>https://mods.vintagestory.at/show/mod/13179</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13179#13179</guid>
+    <pubDate>Thu, 05 Nov 2026 23:27:15 -0000</pubDate>
+    <description>This implements the werewolf curse into the game, bringing with it transformation, lore, and level </description>
+  </item>
+  <item>
+    <title>Offline Bodies</title>
+    <link>https://mods.vintagestory.at/show/mod/offlinebodies</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/offlinebodies#13072</guid>
+    <pubDate>Thu, 05 Nov 2026 23:08:04 -0000</pubDate>
+    <description>Logged out players leave a sleeping body others can loot and drag. They wake in it when they return.</description>
+  </item>
+  <item>
+    <title>Correct fruit trees [Pre-release]</title>
+    <link>https://mods.vintagestory.at/show/mod/correctfruittrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/correctfruittrees#13067</guid>
+    <pubDate>Thu, 05 Nov 2026 23:02:07 -0000</pubDate>
+    <description>Improves fruit tree world generation with proper seasonal states</description>
+  </item>
+  <item>
+    <title>aikostweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/aikostweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aikostweaks#12375</guid>
+    <pubDate>Thu, 05 Nov 2026 22:52:12 -0000</pubDate>
+    <description>Personal mod for my friend server</description>
+  </item>
+  <item>
+    <title>Vintage Canvas</title>
+    <link>https://mods.vintagestory.at/show/mod/vintagecanvas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagecanvas#9406</guid>
+    <pubDate>Thu, 05 Nov 2026 21:57:30 -0000</pubDate>
+    <description>Craft canvases, mix paint, and use brushes to decorate your world!</description>
+  </item>
+  <item>
+    <title>Rust Arrival</title>
+    <link>https://mods.vintagestory.at/show/mod/rustarrival</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustarrival#13143</guid>
+    <pubDate>Thu, 05 Nov 2026 21:44:10 -0000</pubDate>
+    <description>Rust creatures now spawn with a special effect. Purely cosmetic, configurable.</description>
+  </item>
+  <item>
+    <title>Diwan's Tools</title>
+    <link>https://mods.vintagestory.at/show/mod/diwanstools</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/diwanstools#13038</guid>
+    <pubDate>Thu, 05 Nov 2026 21:35:27 -0000</pubDate>
+    <description>A mod that adds a delivery register, wax and clay seals for vessels and trunks.</description>
+  </item>
+  <item>
+    <title>ArcadiaAdmin</title>
+    <link>https://mods.vintagestory.at/show/mod/13070</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13070#13070</guid>
+    <pubDate>Thu, 05 Nov 2026 21:28:47 -0000</pubDate>
+    <description>A powerful collection of management tools for administration purposes</description>
+  </item>
+  <item>
+    <title>Vintage Przygoda: Korony</title>
+    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
+    <pubDate>Thu, 05 Nov 2026 21:22:44 -0000</pubDate>
+    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
+  </item>
   <item>
     <title>StuckParryFix</title>
     <link>https://mods.vintagestory.at/show/mod/13178</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13178#13178</guid>
     <pubDate>Thu, 05 Nov 2026 21:07:49 -0000</pubDate>
     <description>Fixes Combat Overhaul parries staying on forever when the client fails to send the parry stop packet</description>
-  </item>
-  <item>
-    <title>Vintage Przygoda: Korony</title>
-    <link>https://mods.vintagestory.at/show/mod/vpkorony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vpkorony#12069</guid>
-    <pubDate>Thu, 05 Nov 2026 20:48:16 -0000</pubDate>
-    <description>Mod serwera Vintage Przygoda: Korony. Potrzebny tylko do gry na tym serwerze.</description>
   </item>
   <item>
     <title>Revoke Elk Ownership</title>
@@ -55,13 +195,6 @@
     <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
   </item>
   <item>
-    <title>Projectiles In Entities</title>
-    <link>https://mods.vintagestory.at/show/mod/13155</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13155#13155</guid>
-    <pubDate>Thu, 05 Nov 2026 19:57:56 -0000</pubDate>
-    <description>Makes arrows, bolts, javelins, and spears stick into the entities they hit</description>
-  </item>
-  <item>
     <title>VSA - Balistic</title>
     <link>https://mods.vintagestory.at/show/mod/11645</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11645#11645</guid>
@@ -81,139 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
     <pubDate>Thu, 05 Nov 2026 19:41:15 -0000</pubDate>
     <description> (Valkyrian Skies for VS basically) Build block-made moving ships and structures</description>
-  </item>
-  <item>
-    <title>Livestock Welfare</title>
-    <link>https://mods.vintagestory.at/show/mod/livestockwelfare</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/livestockwelfare#12988</guid>
-    <pubDate>Thu, 05 Nov 2026 19:26:18 -0000</pubDate>
-    <description>Animals that age, get dirty and sick, and need shelter and water. Groom, pet and care for them.</description>
-  </item>
-  <item>
-    <title>Robo-Seraph Playermodel</title>
-    <link>https://mods.vintagestory.at/show/mod/mechaseraph</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mechaseraph#5596</guid>
-    <pubDate>Thu, 05 Nov 2026 19:10:42 -0000</pubDate>
-    <description>Adds a robotic seraph character model.</description>
-  </item>
-  <item>
-    <title>Rough Seas</title>
-    <link>https://mods.vintagestory.at/show/mod/roughseas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/roughseas#12633</guid>
-    <pubDate>Thu, 05 Nov 2026 18:53:59 -0000</pubDate>
-    <description>The sea gets weather: storms, surf, currents. And six new vessels that wear, swamp and break.</description>
-  </item>
-  <item>
-    <title>Bark Canoe</title>
-    <link>https://mods.vintagestory.at/show/mod/barkcanoe</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/barkcanoe#5976</guid>
-    <pubDate>Thu, 05 Nov 2026 18:45:51 -0000</pubDate>
-    <description>The Bark Canoe Mod is a feature-rich, modernized fork of the original Canoe Mod</description>
-  </item>
-  <item>
-    <title>Wilderlands Adjustments</title>
-    <link>https://mods.vintagestory.at/show/mod/7320</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7320#7320</guid>
-    <pubDate>Thu, 05 Nov 2026 17:51:26 -0000</pubDate>
-    <description>A repository for a number of configurable values to adjust base game and Wilderlands mods content.</description>
-  </item>
-  <item>
-    <title>Aegis</title>
-    <link>https://mods.vintagestory.at/show/mod/aegis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aegis#12213</guid>
-    <pubDate>Thu, 05 Nov 2026 17:46:51 -0000</pubDate>
-    <description>The client mod for Aegis Networks servers</description>
-  </item>
-  <item>
-    <title>Pee-Mail</title>
-    <link>https://mods.vintagestory.at/show/mod/peemail</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/peemail#12359</guid>
-    <pubDate>Thu, 05 Nov 2026 17:42:36 -0000</pubDate>
-    <description>Make Your Mark! New Scent-messaging system for use with Animalica</description>
-  </item>
-  <item>
-    <title>Animalica Scent Rework</title>
-    <link>https://mods.vintagestory.at/show/mod/12364</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12364#12364</guid>
-    <pubDate>Thu, 05 Nov 2026 17:39:47 -0000</pubDate>
-    <description>Color-coded scent trails for Animalica. Requires compatible species.</description>
-  </item>
-  <item>
-    <title>QP Chisel Tools Exploit Fixes</title>
-    <link>https://mods.vintagestory.at/show/mod/13154</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13154#13154</guid>
-    <pubDate>Thu, 05 Nov 2026 17:35:08 -0000</pubDate>
-    <description>Fixes material dupes and copy protection bypasses in QP's Chisel Tools</description>
-  </item>
-  <item>
-    <title>VS Director</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#13153</guid>
-    <pubDate>Thu, 05 Nov 2026 17:17:59 -0000</pubDate>
-    <description>Director workspace with camera paths, replay timeline elements, follow cameras, and video export.</description>
-  </item>
-  <item>
-    <title>Vara's Crabapples</title>
-    <link>https://mods.vintagestory.at/show/mod/varascrabapples</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varascrabapples#13147</guid>
-    <pubDate>Thu, 05 Nov 2026 16:51:04 -0000</pubDate>
-    <description>Little crabapples populating the north. Less satiety but extremely cold-hardy!</description>
-  </item>
-  <item>
-    <title>Vara's Arctic Wolves</title>
-    <link>https://mods.vintagestory.at/show/mod/varasarcticwolves</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varasarcticwolves#12874</guid>
-    <pubDate>Thu, 05 Nov 2026 15:51:20 -0000</pubDate>
-    <description>Adds cute arctic wolves to the colder regions of your world! Nothing more and nothing less.</description>
-  </item>
-  <item>
-    <title>Vara's Lingonberries</title>
-    <link>https://mods.vintagestory.at/show/mod/varaslingonberries</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varaslingonberries#12906</guid>
-    <pubDate>Thu, 05 Nov 2026 15:50:31 -0000</pubDate>
-    <description>Adds lingonberries to the colder regions of your world! The sweeter counterparts to cranberries!</description>
-  </item>
-  <item>
-    <title>Vara's Green Apples</title>
-    <link>https://mods.vintagestory.at/show/mod/varasgreenapples</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varasgreenapples#12955</guid>
-    <pubDate>Thu, 05 Nov 2026 15:49:36 -0000</pubDate>
-    <description>Adds the tastiest type of apple to your world! Growable in the north! That's about it.</description>
-  </item>
-  <item>
-    <title>Vara's Northern Birches</title>
-    <link>https://mods.vintagestory.at/show/mod/varasnorthernbirches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varasnorthernbirches#12958</guid>
-    <pubDate>Thu, 05 Nov 2026 15:48:36 -0000</pubDate>
-    <description>Makes birch trees generate in the far north as they do in real life! That's all.</description>
-  </item>
-  <item>
-    <title>Vara's Paper Birches</title>
-    <link>https://mods.vintagestory.at/show/mod/varaspaperbirches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varaspaperbirches#12987</guid>
-    <pubDate>Thu, 05 Nov 2026 15:48:14 -0000</pubDate>
-    <description>Adds paper birches to the colder regions of your world. They occasionally form large forests!</description>
-  </item>
-  <item>
-    <title>Vara's Crowberries</title>
-    <link>https://mods.vintagestory.at/show/mod/13033</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13033#13033</guid>
-    <pubDate>Thu, 05 Nov 2026 15:47:21 -0000</pubDate>
-    <description>Adds crowberries to the colder regions of your world! That's all.</description>
-  </item>
-  <item>
-    <title>Vara's Spruces</title>
-    <link>https://mods.vintagestory.at/show/mod/varasspruces</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varasspruces#13063</guid>
-    <pubDate>Thu, 05 Nov 2026 15:46:51 -0000</pubDate>
-    <description>Adds spruce trees, boasting a new wood type, to the colder parts of your world!</description>
-  </item>
-  <item>
-    <title>Vara's Boreal Lichens</title>
-    <link>https://mods.vintagestory.at/show/mod/varasboreallichens</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varasboreallichens#13124</guid>
-    <pubDate>Thu, 05 Nov 2026 15:44:39 -0000</pubDate>
-    <description>Adds lichens to the northern ecosystems! So far just reindeer lichen.</description>
   </item>
 </channel>
 </rss>
