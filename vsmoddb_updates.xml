@@ -4,7 +4,112 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 06 Nov 2026 22:50:40 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 02:35:45 +0000</lastBuildDate>
+  <item>
+    <title>LoP-Core</title>
+    <link>https://mods.vintagestory.at/show/mod/lopcore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lopcore#13204</guid>
+    <pubDate>Sat, 07 Nov 2026 02:31:19 -0000</pubDate>
+    <description>Shared core for laughinggas's Legacy of the Phanerozoic series. Required by every LoP pack.</description>
+  </item>
+  <item>
+    <title>Cottage Industry</title>
+    <link>https://mods.vintagestory.at/show/mod/cottageindustry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cottageindustry#12903</guid>
+    <pubDate>Sat, 07 Nov 2026 02:28:24 -0000</pubDate>
+    <description>Highly immersive medieval production infrastructure. Featuring: ROLLABLE BARRELS</description>
+  </item>
+  <item>
+    <title>Remember It</title>
+    <link>https://mods.vintagestory.at/show/mod/rememberit</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rememberit#12513</guid>
+    <pubDate>Sat, 07 Nov 2026 02:28:09 -0000</pubDate>
+    <description>Remembers where you have been and draws it onto your Frontier's Map, a little more each visit.</description>
+  </item>
+  <item>
+    <title>Jakemon's server patches</title>
+    <link>https://mods.vintagestory.at/show/mod/jakemonpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jakemonpatches#12756</guid>
+    <pubDate>Sat, 07 Nov 2026 02:09:57 -0000</pubDate>
+    <description>Some simple json patching for balance changes and race traits on my server.</description>
+  </item>
+  <item>
+    <title>Petroleum Age: Iron &amp; Refining Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/13200</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13200#13200</guid>
+    <pubDate>Sat, 07 Nov 2026 01:35:46 -0000</pubDate>
+    <description>Petroleum Age: Iron &amp; Refining Patch adds iron-friendly recipes, crude oil → bitumen → coke cooking,</description>
+  </item>
+  <item>
+    <title>PreGen Chunk</title>
+    <link>https://mods.vintagestory.at/show/mod/pregenchunk</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pregenchunk#13126</guid>
+    <pubDate>Sat, 07 Nov 2026 01:31:50 -0000</pubDate>
+    <description>Generate chunks ahead of time, useful for servers.</description>
+  </item>
+  <item>
+    <title>TheKingdoms: Draconic Races</title>
+    <link>https://mods.vintagestory.at/show/mod/thekingdomsdraconicraces</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thekingdomsdraconicraces#12086</guid>
+    <pubDate>Sat, 07 Nov 2026 01:27:51 -0000</pubDate>
+    <description>A dragon race mod for TheKindomsVS</description>
+  </item>
+  <item>
+    <title>Licantropomorphia</title>
+    <link>https://mods.vintagestory.at/show/mod/13179</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13179#13179</guid>
+    <pubDate>Sat, 07 Nov 2026 00:40:08 -0000</pubDate>
+    <description>This implements the werewolf curse into the game, bringing with it transformation, lore, and level </description>
+  </item>
+  <item>
+    <title>Offline Bodies</title>
+    <link>https://mods.vintagestory.at/show/mod/offlinebodies</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/offlinebodies#13072</guid>
+    <pubDate>Sat, 07 Nov 2026 00:24:59 -0000</pubDate>
+    <description>Logged out players leave a sleeping body others can loot and drag. They wake in it when they return.</description>
+  </item>
+  <item>
+    <title>Wardrobe</title>
+    <link>https://mods.vintagestory.at/show/mod/wardrobe</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wardrobe#13202</guid>
+    <pubDate>Sat, 07 Nov 2026 00:22:38 -0000</pubDate>
+    <description>Browse every clothing, armor and bag item, filter by slot, class or craftability, and try it on.</description>
+  </item>
+  <item>
+    <title>VSA_API</title>
+    <link>https://mods.vintagestory.at/show/mod/9139</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9139#9139</guid>
+    <pubDate>Sat, 07 Nov 2026 00:10:36 -0000</pubDate>
+    <description>VSA API</description>
+  </item>
+  <item>
+    <title>Gondola Cable Car</title>
+    <link>https://mods.vintagestory.at/show/mod/gondolacablecar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gondolacablecar#10934</guid>
+    <pubDate>Fri, 06 Nov 2026 23:45:33 -0000</pubDate>
+    <description>Cumstomizable Small, Medium and Huge gondolas and structures</description>
+  </item>
+  <item>
+    <title>Vara's Plums</title>
+    <link>https://mods.vintagestory.at/show/mod/varasplums</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varasplums#13192</guid>
+    <pubDate>Fri, 06 Nov 2026 23:35:21 -0000</pubDate>
+    <description>Three varieties of tasty plums across your world!</description>
+  </item>
+  <item>
+    <title>Brain Freeze</title>
+    <link>https://mods.vintagestory.at/show/mod/brainfreeze</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/brainfreeze#2925</guid>
+    <pubDate>Fri, 06 Nov 2026 23:23:52 -0000</pubDate>
+    <description>The frozen world reimagined</description>
+  </item>
+  <item>
+    <title>Insanity Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/insanitylib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/insanitylib#3966</guid>
+    <pubDate>Fri, 06 Nov 2026 23:21:22 -0000</pubDate>
+    <description>A library mod with modding utilities</description>
+  </item>
   <item>
     <title>Animalica - Compatibility Pack 3 (Dinosaurs)</title>
     <link>https://mods.vintagestory.at/show/mod/animalicadinos</link>
@@ -32,20 +137,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustarrival#13143</guid>
     <pubDate>Fri, 06 Nov 2026 22:47:14 -0000</pubDate>
     <description>Rust creatures now spawn with a special effect. Purely cosmetic, configurable.</description>
-  </item>
-  <item>
-    <title>Petroleum Age: Iron &amp; Refining Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/13200</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13200#13200</guid>
-    <pubDate>Fri, 06 Nov 2026 22:31:32 -0000</pubDate>
-    <description>Petroleum Age: Iron &amp; Refining Patch adds iron-friendly recipes, crude oil → bitumen → coke cooking,</description>
-  </item>
-  <item>
-    <title>Remember It</title>
-    <link>https://mods.vintagestory.at/show/mod/rememberit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rememberit#12513</guid>
-    <pubDate>Fri, 06 Nov 2026 22:27:11 -0000</pubDate>
-    <description>Remembers where you have been and draws it onto your Frontier's Map, a little more each visit.</description>
   </item>
   <item>
     <title>Sharpening &amp; Whetstones</title>
@@ -90,13 +181,6 @@
     <description>Cargo pants, overalls, pockets, tool belts, sheaths and waxed clothes that keep the rain off.</description>
   </item>
   <item>
-    <title>Offline Bodies</title>
-    <link>https://mods.vintagestory.at/show/mod/offlinebodies</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/offlinebodies#13072</guid>
-    <pubDate>Fri, 06 Nov 2026 22:13:43 -0000</pubDate>
-    <description>Logged out players leave a sleeping body others can loot and drag. They wake in it when they return.</description>
-  </item>
-  <item>
     <title>Fauna of the Stone Age: Bovinae</title>
     <link>https://mods.vintagestory.at/show/mod/bovinae</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bovinae#3103</guid>
@@ -130,90 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caeloriacontent#9063</guid>
     <pubDate>Fri, 06 Nov 2026 20:35:05 -0000</pubDate>
     <description>Content pack for Caeloria: Reborn. Doesn't include any code mods, those are different mods.</description>
-  </item>
-  <item>
-    <title>Teapot's Giant Redriver</title>
-    <link>https://mods.vintagestory.at/show/mod/teapotsgiantredriver</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantredriver#12947</guid>
-    <pubDate>Fri, 06 Nov 2026 20:08:29 -0000</pubDate>
-    <description>The redhead chonkers are at your service on your adventures down south!</description>
-  </item>
-  <item>
-    <title>VSA - Replica</title>
-    <link>https://mods.vintagestory.at/show/mod/9115</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
-    <pubDate>Fri, 06 Nov 2026 20:07:56 -0000</pubDate>
-    <description> (Valkyrian Skies for VS basically) Build block-made moving ships and structures</description>
-  </item>
-  <item>
-    <title>aikostweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aikostweaks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aikostweaks#12375</guid>
-    <pubDate>Fri, 06 Nov 2026 19:17:36 -0000</pubDate>
-    <description>Personal mod for my friend server</description>
-  </item>
-  <item>
-    <title>Vara's Crabapples</title>
-    <link>https://mods.vintagestory.at/show/mod/varascrabapples</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varascrabapples#13147</guid>
-    <pubDate>Fri, 06 Nov 2026 19:16:14 -0000</pubDate>
-    <description>Little crabapples populating the north. Less satiety but extremely cold-hardy!</description>
-  </item>
-  <item>
-    <title>Vara's Tree Line</title>
-    <link>https://mods.vintagestory.at/show/mod/varastreeline</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varastreeline#13197</guid>
-    <pubDate>Fri, 06 Nov 2026 19:08:06 -0000</pubDate>
-    <description>Better tree line simulation! Trees are sparser past the arctic circle.</description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Chapter 2</title>
-    <link>https://mods.vintagestory.at/show/mod/11428</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
-    <pubDate>Fri, 06 Nov 2026 19:01:01 -0000</pubDate>
-    <description>Chapter 2 additions for C&amp;C.</description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/11476</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11476#11476</guid>
-    <pubDate>Fri, 06 Nov 2026 19:00:45 -0000</pubDate>
-    <description>For details on content, please contact me directly via Discord.</description>
-  </item>
-  <item>
-    <title>Rough Seas</title>
-    <link>https://mods.vintagestory.at/show/mod/roughseas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/roughseas#12633</guid>
-    <pubDate>Fri, 06 Nov 2026 18:58:29 -0000</pubDate>
-    <description>The sea gets weather: storms, surf, currents. And six new vessels that wear, swamp and break.</description>
-  </item>
-  <item>
-    <title>The Mad Crow Attacks</title>
-    <link>https://mods.vintagestory.at/show/mod/themadcrowattacks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/themadcrowattacks#13186</guid>
-    <pubDate>Fri, 06 Nov 2026 18:47:05 -0000</pubDate>
-    <description>The Mad Crow Attacks at night. Run, hide, fight, mount. Choose what you can do to escape/fight back.</description>
-  </item>
-  <item>
-    <title>Boric Alchemy</title>
-    <link>https://mods.vintagestory.at/show/mod/5577</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5577#5577</guid>
-    <pubDate>Fri, 06 Nov 2026 18:43:06 -0000</pubDate>
-    <description>Welcome to the alchemists' guild &lt;3 </description>
-  </item>
-  <item>
-    <title>Nature's Call REMADE</title>
-    <link>https://mods.vintagestory.at/show/mod/naturescallremade</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/naturescallremade#13132</guid>
-    <pubDate>Fri, 06 Nov 2026 18:13:04 -0000</pubDate>
-    <description>A rewrite of the legendary mod Nature's Call. No longer crashes the game when you pee on a friend</description>
-  </item>
-  <item>
-    <title>Terra Incognita: True Value</title>
-    <link>https://mods.vintagestory.at/show/mod/terraincognitatruevalue</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/terraincognitatruevalue#12911</guid>
-    <pubDate>Fri, 06 Nov 2026 15:55:17 -0000</pubDate>
-    <description>Granular metallurgy: salvage items into bits, inline gear &amp; cookware, and manage metal toxicity.</description>
   </item>
 </channel>
 </rss>
