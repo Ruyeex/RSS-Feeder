@@ -4,7 +4,196 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sat, 07 Nov 2026 16:09:34 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 20:42:28 +0000</lastBuildDate>
+  <item>
+    <title>VSProfiler</title>
+    <link>https://mods.vintagestory.at/show/mod/13239</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13239#13239</guid>
+    <pubDate>Sat, 07 Nov 2026 20:31:28 -0000</pubDate>
+    <description>A mod that's been created to profile and see all the servers cost, along with player fps.</description>
+  </item>
+  <item>
+    <title>Rust Arrival</title>
+    <link>https://mods.vintagestory.at/show/mod/rustarrival</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustarrival#13143</guid>
+    <pubDate>Sat, 07 Nov 2026 20:28:28 -0000</pubDate>
+    <description>Rust creatures now spawn with a special effect. Purely cosmetic, configurable.</description>
+  </item>
+  <item>
+    <title>Wilderlands Caves</title>
+    <link>https://mods.vintagestory.at/show/mod/5356</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5356#5356</guid>
+    <pubDate>Sat, 07 Nov 2026 20:27:37 -0000</pubDate>
+    <description>Fundamentally overhauls cave generation, while keeping vanilla caves at configurable rates.</description>
+  </item>
+  <item>
+    <title>BDTree Logging Expanded Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/bdtreelogexpfix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bdtreelogexpfix#13238</guid>
+    <pubDate>Sat, 07 Nov 2026 20:10:17 -0000</pubDate>
+    <description>Adds texture compatibility for BDTrees when using Logging Expanded</description>
+  </item>
+  <item>
+    <title>Djuradj's Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/12424</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12424#12424</guid>
+    <pubDate>Sat, 07 Nov 2026 20:04:16 -0000</pubDate>
+    <description>Small batch of tweaks and patches specifically intended for my private server. </description>
+  </item>
+  <item>
+    <title>Livestock Welfare</title>
+    <link>https://mods.vintagestory.at/show/mod/livestockwelfare</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/livestockwelfare#12988</guid>
+    <pubDate>Sat, 07 Nov 2026 20:00:24 -0000</pubDate>
+    <description>Animals that age, get dirty and sick, and need shelter and water. Groom, pet and care for them.</description>
+  </item>
+  <item>
+    <title>Vara's Alders</title>
+    <link>https://mods.vintagestory.at/show/mod/varasalders</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varasalders#13225</guid>
+    <pubDate>Sat, 07 Nov 2026 19:54:09 -0000</pubDate>
+    <description>Adds alders to your world, bringing with them a new type of wood!</description>
+  </item>
+  <item>
+    <title>Rusisficator Animalica for Dragonia </title>
+    <link>https://mods.vintagestory.at/show/mod/13237</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13237#13237</guid>
+    <pubDate>Sat, 07 Nov 2026 19:17:54 -0000</pubDate>
+    <description>Русификатор </description>
+  </item>
+  <item>
+    <title>Elder Scrolls Calendar</title>
+    <link>https://mods.vintagestory.at/show/mod/elderscrollscalendar</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/elderscrollscalendar#8823</guid>
+    <pubDate>Sat, 07 Nov 2026 19:15:30 -0000</pubDate>
+    <description>Replaces the regular calendar months with the Elder Scrolls ones.</description>
+  </item>
+  <item>
+    <title>Dragonia Translations</title>
+    <link>https://mods.vintagestory.at/show/mod/10016</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10016#10016</guid>
+    <pubDate>Sat, 07 Nov 2026 19:06:54 -0000</pubDate>
+    <description>Переводы и отредактированные переводы под стиль сервера. </description>
+  </item>
+  <item>
+    <title>NPC Economy</title>
+    <link>https://mods.vintagestory.at/show/mod/npceconomy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/npceconomy#8154</guid>
+    <pubDate>Sat, 07 Nov 2026 19:03:15 -0000</pubDate>
+    <description>NPC Economy revises trader tables for survival and profit.</description>
+  </item>
+  <item>
+    <title>Jonas Critters</title>
+    <link>https://mods.vintagestory.at/show/mod/13043</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13043#13043</guid>
+    <pubDate>Sat, 07 Nov 2026 18:58:43 -0000</pubDate>
+    <description>A tiny robot horse and three little robots: they wander your base, follow you and sleep at night.</description>
+  </item>
+  <item>
+    <title>Cottage Industry</title>
+    <link>https://mods.vintagestory.at/show/mod/cottageindustry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cottageindustry#12903</guid>
+    <pubDate>Sat, 07 Nov 2026 18:51:36 -0000</pubDate>
+    <description>Highly immersive medieval production infrastructure. Featuring: ROLLABLE BARRELS</description>
+  </item>
+  <item>
+    <title>Incredible Edibles: The Mighty Walnut</title>
+    <link>https://mods.vintagestory.at/show/mod/mightywalnut</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mightywalnut#6337</guid>
+    <pubDate>Sat, 07 Nov 2026 18:41:54 -0000</pubDate>
+    <description>Adding walnuts as a food source and slightly worse alternative to peanuts</description>
+  </item>
+  <item>
+    <title>Incredible Edibles: The Incredible Gourd</title>
+    <link>https://mods.vintagestory.at/show/mod/incrediblegourd</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/incrediblegourd#13133</guid>
+    <pubDate>Sat, 07 Nov 2026 18:40:37 -0000</pubDate>
+    <description>A long deserved boost to pumpkins (And other modded gourds, when they appear).</description>
+  </item>
+  <item>
+    <title>Levitating Display</title>
+    <link>https://mods.vintagestory.at/show/mod/levitatingdisplay</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/levitatingdisplay#12864</guid>
+    <pubDate>Sat, 07 Nov 2026 17:43:59 -0000</pubDate>
+    <description>A levitating display. Uses the Universal Display Lib</description>
+  </item>
+  <item>
+    <title>MeowSkills</title>
+    <link>https://mods.vintagestory.at/show/mod/meowskills</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/meowskills#12835</guid>
+    <pubDate>Sat, 07 Nov 2026 17:38:27 -0000</pubDate>
+    <description>MeowSkills</description>
+  </item>
+  <item>
+    <title>Window Display - Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/windowdisplaypatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplaypatches#10532</guid>
+    <pubDate>Sat, 07 Nov 2026 17:38:07 -0000</pubDate>
+    <description>Used to add custom transforms and to enable the particles of items on display</description>
+  </item>
+  <item>
+    <title>Window Display</title>
+    <link>https://mods.vintagestory.at/show/mod/windowdisplay</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/windowdisplay#10488</guid>
+    <pubDate>Sat, 07 Nov 2026 17:36:44 -0000</pubDate>
+    <description>Adds various styles of windows and allows items to be placed on them</description>
+  </item>
+  <item>
+    <title>Universal Display Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/universaldisplaylib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/universaldisplaylib#10487</guid>
+    <pubDate>Sat, 07 Nov 2026 17:33:43 -0000</pubDate>
+    <description>The Lib has changed to be more than just windows so other modders can use it</description>
+  </item>
+  <item>
+    <title>Caeloria: Content</title>
+    <link>https://mods.vintagestory.at/show/mod/caeloriacontent</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caeloriacontent#9063</guid>
+    <pubDate>Sat, 07 Nov 2026 16:56:22 -0000</pubDate>
+    <description>Content pack for Caeloria: Reborn. Doesn't include any code mods, those are different mods.</description>
+  </item>
+  <item>
+    <title>Taxidermy</title>
+    <link>https://mods.vintagestory.at/show/mod/taxidermy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/taxidermy#11946</guid>
+    <pubDate>Sat, 07 Nov 2026 16:39:44 -0000</pubDate>
+    <description>Mount the animals you hunt - the whole animal in a pose of your choosing, or the head on the wall.</description>
+  </item>
+  <item>
+    <title>Clothes Have Pockets</title>
+    <link>https://mods.vintagestory.at/show/mod/clotheshavepockets</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/clotheshavepockets#10218</guid>
+    <pubDate>Sat, 07 Nov 2026 16:35:25 -0000</pubDate>
+    <description>Adds pockets (inventory slots) to various clothing items</description>
+  </item>
+  <item>
+    <title>CoB Client Files [2]</title>
+    <link>https://mods.vintagestory.at/show/mod/cobexclusivestwo</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cobexclusivestwo#1885</guid>
+    <pubDate>Sat, 07 Nov 2026 16:34:41 -0000</pubDate>
+    <description>Required to join the awesome Conquest of Blocks (aka 'CoB') multiplayer realm.</description>
+  </item>
+  <item>
+    <title>Petroleum Age: Iron &amp; Refining Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/13200</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13200#13200</guid>
+    <pubDate>Sat, 07 Nov 2026 16:33:46 -0000</pubDate>
+    <description>Petroleum Age: Iron &amp; Refining Patch adds iron-friendly recipes, crude oil → bitumen → coke cooking,</description>
+  </item>
+  <item>
+    <title>CoB Client Files [1]</title>
+    <link>https://mods.vintagestory.at/show/mod/cobexclusives</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cobexclusives#360</guid>
+    <pubDate>Sat, 07 Nov 2026 16:33:41 -0000</pubDate>
+    <description>Required to join the awesome Conquest of Blocks (aka 'CoB') multiplayer realm.</description>
+  </item>
+  <item>
+    <title>Rough Seas</title>
+    <link>https://mods.vintagestory.at/show/mod/roughseas</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/roughseas#12633</guid>
+    <pubDate>Sat, 07 Nov 2026 16:21:23 -0000</pubDate>
+    <description>The sea gets weather: storms, surf, currents. And six new vessels that wear, swamp and break.</description>
+  </item>
   <item>
     <title>The Mad Crow Attacks</title>
     <link>https://mods.vintagestory.at/show/mod/themadcrowattacks</link>
@@ -25,195 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12694#12694</guid>
     <pubDate>Sat, 07 Nov 2026 15:23:24 -0000</pubDate>
     <description>Clothing befitting mysterious strangers- hide your face, hide your identity</description>
-  </item>
-  <item>
-    <title>Cooler Rift Ward Sounds</title>
-    <link>https://mods.vintagestory.at/show/mod/11330</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11330#11330</guid>
-    <pubDate>Sat, 07 Nov 2026 15:12:34 -0000</pubDate>
-    <description>Makes Rift Wards sound (subjectively) cooler.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Scythe Claws</title>
-    <link>https://mods.vintagestory.at/show/mod/therizinosauridae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therizinosauridae#13113</guid>
-    <pubDate>Sat, 07 Nov 2026 15:08:26 -0000</pubDate>
-    <description>Therizinosaurs, the long-clawed feathered herbivores. 10 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Plated Back</title>
-    <link>https://mods.vintagestory.at/show/mod/stegosauria</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stegosauria#13108</guid>
-    <pubDate>Sat, 07 Nov 2026 15:04:59 -0000</pubDate>
-    <description>Stegosaurs, the plated dinosaurs. 12 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Sailed Spine</title>
-    <link>https://mods.vintagestory.at/show/mod/spinosauridae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/spinosauridae#13112</guid>
-    <pubDate>Sat, 07 Nov 2026 14:57:01 -0000</pubDate>
-    <description>Spinosaurids, the sail-backed fish-eaters. 6 species.</description>
-  </item>
-  <item>
-    <title>Purposeful Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/purposefulstorage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/purposefulstorage#4286</guid>
-    <pubDate>Sat, 07 Nov 2026 14:56:05 -0000</pubDate>
-    <description>Adds a variety of storage blocks designed for both aesthetic appeal and functional item organization</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Storm Wing</title>
-    <link>https://mods.vintagestory.at/show/mod/loppterosauria</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/loppterosauria#13111</guid>
-    <pubDate>Sat, 07 Nov 2026 14:53:52 -0000</pubDate>
-    <description>Pterosaurs, the flying reptiles. 8 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Sea Serpent</title>
-    <link>https://mods.vintagestory.at/show/mod/lopplesiosauria</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lopplesiosauria#13110</guid>
-    <pubDate>Sat, 07 Nov 2026 14:47:42 -0000</pubDate>
-    <description>Plesiosaurs and pliosaurs, marine reptiles. Fully aquatic. 3 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Domed Head</title>
-    <link>https://mods.vintagestory.at/show/mod/pachycephalosauria</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pachycephalosauria#13098</guid>
-    <pubDate>Sat, 07 Nov 2026 14:44:54 -0000</pubDate>
-    <description>Pachycephalosaurs, the dome-headed dinosaurs. 16 species.</description>
-  </item>
-  <item>
-    <title>Cave Surveyor</title>
-    <link>https://mods.vintagestory.at/show/mod/cavesurveyor</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cavesurveyor#13207</guid>
-    <pubDate>Sat, 07 Nov 2026 14:43:42 -0000</pubDate>
-    <description>Maps the caves you walk as cavers do: plan, profile, sections, finds. Shift+M unfolds the map.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Egg Thief</title>
-    <link>https://mods.vintagestory.at/show/mod/lopoviraptorosauria</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lopoviraptorosauria#13107</guid>
-    <pubDate>Sat, 07 Nov 2026 14:41:28 -0000</pubDate>
-    <description>Oviraptorosaurs, beaked and feathered theropods. 4 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Ocean Tyrant</title>
-    <link>https://mods.vintagestory.at/show/mod/mosasauridae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mosasauridae#13106</guid>
-    <pubDate>Sat, 07 Nov 2026 14:39:23 -0000</pubDate>
-    <description>Mosasaurs, giant marine lizards. Fully aquatic apex predators. 10 species.</description>
-  </item>
-  <item>
-    <title>Kyuubs</title>
-    <link>https://mods.vintagestory.at/show/mod/kyuubs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kyuubs#5106</guid>
-    <pubDate>Sat, 07 Nov 2026 14:26:59 -0000</pubDate>
-    <description>Blocks for your building and chiseling needs!</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Thumb Spike</title>
-    <link>https://mods.vintagestory.at/show/mod/lopiguanodontia</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lopiguanodontia#13103</guid>
-    <pubDate>Sat, 07 Nov 2026 14:26:47 -0000</pubDate>
-    <description>Iguanodontians, the thumb-spiked ornithopods. 3 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Whip Tail</title>
-    <link>https://mods.vintagestory.at/show/mod/lopdiplodocoidea</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lopdiplodocoidea#13097</guid>
-    <pubDate>Sat, 07 Nov 2026 14:25:27 -0000</pubDate>
-    <description>Diplodocoid sauropods, the long-necked whip-tails. 5 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Horned Crown</title>
-    <link>https://mods.vintagestory.at/show/mod/ceratopsidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ceratopsidae#13190</guid>
-    <pubDate>Sat, 07 Nov 2026 14:21:34 -0000</pubDate>
-    <description>Legacy of the Phanerozoic: Horned Crown</description>
-  </item>
-  <item>
-    <title>Receding Pine-line</title>
-    <link>https://mods.vintagestory.at/show/mod/11980</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11980#11980</guid>
-    <pubDate>Sat, 07 Nov 2026 14:18:40 -0000</pubDate>
-    <description>Deserts have less pine and shrubs.</description>
-  </item>
-  <item>
-    <title>VScolonies</title>
-    <link>https://mods.vintagestory.at/show/mod/vscolonies</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscolonies#13061</guid>
-    <pubDate>Sat, 07 Nov 2026 14:13:30 -0000</pubDate>
-    <description>Build ur own colone with villagers who harvest resources, mine and build town!</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Sharp Tooth</title>
-    <link>https://mods.vintagestory.at/show/mod/carcharodontosauridae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carcharodontosauridae#13114</guid>
-    <pubDate>Sat, 07 Nov 2026 14:07:48 -0000</pubDate>
-    <description>Carcharodontosaurids, giant shark-toothed theropods. 13 species.</description>
-  </item>
-  <item>
-    <title>Vara's Tree Line</title>
-    <link>https://mods.vintagestory.at/show/mod/varastreeline</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varastreeline#13197</guid>
-    <pubDate>Sat, 07 Nov 2026 14:01:31 -0000</pubDate>
-    <description>Better tree line simulation! Trees are sparser past the arctic circle.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Jurassic Giants (Allosauridae)</title>
-    <link>https://mods.vintagestory.at/show/mod/lopallosauridae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lopallosauridae#13104</guid>
-    <pubDate>Sat, 07 Nov 2026 13:50:11 -0000</pubDate>
-    <description>Allosaurids and their kin, the big Jurassic predators. 4 species.</description>
-  </item>
-  <item>
-    <title>Vara's Spruces</title>
-    <link>https://mods.vintagestory.at/show/mod/varasspruces</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varasspruces#13063</guid>
-    <pubDate>Sat, 07 Nov 2026 13:34:59 -0000</pubDate>
-    <description>Adds spruce trees, boasting a new wood type, to the north! Now featuring the blue spruce!</description>
-  </item>
-  <item>
-    <title>Valley of Ashes</title>
-    <link>https://mods.vintagestory.at/show/mod/valleyofashes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/valleyofashes#2288</guid>
-    <pubDate>Sat, 07 Nov 2026 13:23:50 -0000</pubDate>
-    <description>Craft wood and plant ash, ash sludge and optional potash.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Horrible Hands</title>
-    <link>https://mods.vintagestory.at/show/mod/ornithomimosauria</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ornithomimosauria#13101</guid>
-    <pubDate>Sat, 07 Nov 2026 13:07:55 -0000</pubDate>
-    <description>Ornithomimosaurs, the ostrich dinosaurs. 14 species.</description>
-  </item>
-  <item>
-    <title>LoP-Core</title>
-    <link>https://mods.vintagestory.at/show/mod/lopcore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lopcore#13204</guid>
-    <pubDate>Sat, 07 Nov 2026 12:59:13 -0000</pubDate>
-    <description>Shared core for laughinggas's Legacy of the Phanerozoic series. Required by every LoP pack.</description>
-  </item>
-  <item>
-    <title>Kith</title>
-    <link>https://mods.vintagestory.at/show/mod/kith</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kith#12793</guid>
-    <pubDate>Sat, 07 Nov 2026 12:38:01 -0000</pubDate>
-    <description>Host your world for friends, comes with an island hub, cosmetics, emotes, and chat.</description>
-  </item>
-  <item>
-    <title>Downed</title>
-    <link>https://mods.vintagestory.at/show/mod/downed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
-    <pubDate>Sat, 07 Nov 2026 11:26:45 -0000</pubDate>
-    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
-  </item>
-  <item>
-    <title>Rough Seas</title>
-    <link>https://mods.vintagestory.at/show/mod/roughseas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/roughseas#12633</guid>
-    <pubDate>Sat, 07 Nov 2026 10:41:11 -0000</pubDate>
-    <description>The sea gets weather: storms, surf, currents. And six new vessels that wear, swamp and break.</description>
   </item>
 </channel>
 </rss>
