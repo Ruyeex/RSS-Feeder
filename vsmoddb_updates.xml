@@ -4,216 +4,216 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 08 Nov 2026 14:14:13 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 19:24:20 +0000</lastBuildDate>
   <item>
-    <title>VS Restraints</title>
-    <link>https://mods.vintagestory.at/show/mod/vsrestraints</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsrestraints#13275</guid>
-    <pubDate>Sun, 08 Nov 2026 13:42:41 -0000</pubDate>
-    <description>Extends restraint gameplay and tools.</description>
+    <title>Prosequor - Skills, Levels, Trees and Stats</title>
+    <link>https://mods.vintagestory.at/show/mod/11674</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11674#11674</guid>
+    <pubDate>Sun, 08 Nov 2026 19:23:27 -0000</pubDate>
+    <description>Adds a full-throated, first-class skill, levelling and attributes system to Vintage Story.</description>
   </item>
   <item>
-    <title>Clockmaker Has Glasses</title>
-    <link>https://mods.vintagestory.at/show/mod/13273</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13273#13273</guid>
-    <pubDate>Sun, 08 Nov 2026 13:38:21 -0000</pubDate>
-    <description>Makes Clockmaker start with their glasses.</description>
+    <title>[Silver`s] Dice and Cards</title>
+    <link>https://mods.vintagestory.at/show/mod/12764</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12764#12764</guid>
+    <pubDate>Sun, 08 Nov 2026 19:20:50 -0000</pubDate>
+    <description>A simple mod that adds board games and cards for playing with friends. Poker, Dice, Chess, etc.</description>
+  </item>
+  <item>
+    <title>Crown &amp; Coalition Chapter 2</title>
+    <link>https://mods.vintagestory.at/show/mod/11428</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
+    <pubDate>Sun, 08 Nov 2026 18:54:16 -0000</pubDate>
+    <description>Chapter 2 additions for C&amp;C.</description>
+  </item>
+  <item>
+    <title>Evocation</title>
+    <link>https://mods.vintagestory.at/show/mod/12641</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12641#12641</guid>
+    <pubDate>Sun, 08 Nov 2026 18:44:12 -0000</pubDate>
+    <description>Evocation, the power to summon spirits from the underworld and enchant items</description>
+  </item>
+  <item>
+    <title>AdvancedGeology + W. Geology Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/12907</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12907#12907</guid>
+    <pubDate>Sun, 08 Nov 2026 18:37:32 -0000</pubDate>
+    <description>Advanced Geology + Wilderlands Geology compatibility patch</description>
+  </item>
+  <item>
+    <title>CharSel Await</title>
+    <link>https://mods.vintagestory.at/show/mod/13286</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13286#13286</guid>
+    <pubDate>Sun, 08 Nov 2026 18:23:37 -0000</pubDate>
+    <description>Delays charsel from opening until the player has only one PlayerModelLib model to pick</description>
+  </item>
+  <item>
+    <title>VS Director</title>
+    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#13153</guid>
+    <pubDate>Sun, 08 Nov 2026 18:14:49 -0000</pubDate>
+    <description>Director workspace with camera paths, replay timeline elements, follow cameras, and video export.</description>
+  </item>
+  <item>
+    <title>Big Boards Billboards signs</title>
+    <link>https://mods.vintagestory.at/show/mod/bigboards</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bigboards#2796</guid>
+    <pubDate>Sun, 08 Nov 2026 17:54:34 -0000</pubDate>
+    <description>Just simple mod to add billboard 3x5, bigboard 3x3 and 3x2 to the game</description>
+  </item>
+  <item>
+    <title>fStability</title>
+    <link>https://mods.vintagestory.at/show/mod/13268</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13268#13268</guid>
+    <pubDate>Sun, 08 Nov 2026 17:34:05 -0000</pubDate>
+    <description>Temporal Stability effect overwrite for FragmentsRP.</description>
+  </item>
+  <item>
+    <title>Auto Bellows Fork: Now with less cheating</title>
+    <link>https://mods.vintagestory.at/show/mod/kingautobellows</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kingautobellows#13284</guid>
+    <pubDate>Sun, 08 Nov 2026 17:20:26 -0000</pubDate>
+    <description>Fork of prescko's Auto Bellows mod, limited to a range of 5 and removed auto pouring</description>
+  </item>
+  <item>
+    <title>Jonas Horses</title>
+    <link>https://mods.vintagestory.at/show/mod/jonashorses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/jonashorses#12689</guid>
+    <pubDate>Sun, 08 Nov 2026 17:17:07 -0000</pubDate>
+    <description>Robotic horses with temporal drive gears and personality keys.</description>
+  </item>
+  <item>
+    <title>Scarecrow</title>
+    <link>https://mods.vintagestory.at/show/mod/scarecrow</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scarecrow#1049</guid>
+    <pubDate>Sun, 08 Nov 2026 17:08:15 -0000</pubDate>
+    <description>With the scarecrow you get an effective solution to a plague of hares and raccoons in your garden.</description>
+  </item>
+  <item>
+    <title>Immersive Hideworking</title>
+    <link>https://mods.vintagestory.at/show/mod/immersivehideworking</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/immersivehideworking#13285</guid>
+    <pubDate>Sun, 08 Nov 2026 17:07:38 -0000</pubDate>
+    <description>Immersive tanning racks for realistic hide processing, scraping, salting, oiling, and curing.</description>
+  </item>
+  <item>
+    <title>Vara's Alders</title>
+    <link>https://mods.vintagestory.at/show/mod/varasalders</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varasalders#13225</guid>
+    <pubDate>Sun, 08 Nov 2026 17:07:24 -0000</pubDate>
+    <description>Adds alders to your world, bringing with them a new type of wood!</description>
+  </item>
+  <item>
+    <title>The Sundered</title>
+    <link>https://mods.vintagestory.at/show/mod/sundered</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sundered#11618</guid>
+    <pubDate>Sun, 08 Nov 2026 16:54:26 -0000</pubDate>
+    <description>Adds the Sundered, 5 differently mutated humanoid character origins with extensive customisation</description>
+  </item>
+  <item>
+    <title>VinconomyTellerFix</title>
+    <link>https://mods.vintagestory.at/show/mod/13282</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13282#13282</guid>
+    <pubDate>Sun, 08 Nov 2026 16:50:32 -0000</pubDate>
+    <description>Fixes Vinconomy auto tellers crashing on chunk load and being impossible to break</description>
+  </item>
+  <item>
+    <title>Loretime</title>
+    <link>https://mods.vintagestory.at/show/mod/loretimeexploadesyou</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/loretimeexploadesyou#13258</guid>
+    <pubDate>Sun, 08 Nov 2026 16:41:00 -0000</pubDate>
+    <description>Loretime.</description>
+  </item>
+  <item>
+    <title>Window Display Mod Fix – Inward Fallback</title>
+    <link>https://mods.vintagestory.at/show/mod/13276</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13276#13276</guid>
+    <pubDate>Sun, 08 Nov 2026 16:32:24 -0000</pubDate>
+    <description>Edge-mounted classic windows from Window Display swing inward into their own block when the outward </description>
+  </item>
+  <item>
+    <title>Frontier's Map</title>
+    <link>https://mods.vintagestory.at/show/mod/9227</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9227#9227</guid>
+    <pubDate>Sun, 08 Nov 2026 16:31:58 -0000</pubDate>
+    <description>Adds a physical map with built-in map maker system, drawing tools and over 130 hand drawn stamps</description>
+  </item>
+  <item>
+    <title>RiverWheel</title>
+    <link>https://mods.vintagestory.at/show/mod/11522</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11522#11522</guid>
+    <pubDate>Sun, 08 Nov 2026 16:29:16 -0000</pubDate>
+    <description>Configurable water wheels for the Rivers mod</description>
   </item>
   <item>
     <title>Unofficial Draconis Drakes Extension</title>
     <link>https://mods.vintagestory.at/show/mod/drakeextension</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/drakeextension#6979</guid>
-    <pubDate>Sun, 08 Nov 2026 13:35:11 -0000</pubDate>
+    <pubDate>Sun, 08 Nov 2026 16:19:36 -0000</pubDate>
     <description>There be drakes... Now in modded sands!</description>
   </item>
   <item>
-    <title>Caeloria: Content</title>
-    <link>https://mods.vintagestory.at/show/mod/caeloriacontent</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/caeloriacontent#9063</guid>
-    <pubDate>Sun, 08 Nov 2026 13:33:11 -0000</pubDate>
-    <description>Content pack for Caeloria: Reborn. Doesn't include any code mods, those are different mods.</description>
-  </item>
-  <item>
-    <title>Vara's Spruces</title>
-    <link>https://mods.vintagestory.at/show/mod/varasspruces</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varasspruces#13063</guid>
-    <pubDate>Sun, 08 Nov 2026 13:25:10 -0000</pubDate>
-    <description>Adds spruce trees, boasting a new wood type, to the north! Now featuring the blue spruce!</description>
-  </item>
-  <item>
-    <title>Footprints</title>
-    <link>https://mods.vintagestory.at/show/mod/footprints</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/footprints#5625</guid>
-    <pubDate>Sun, 08 Nov 2026 12:46:06 -0000</pubDate>
-    <description>Animals and Players leave footprints when moving.</description>
-  </item>
-  <item>
-    <title>VScolonies</title>
-    <link>https://mods.vintagestory.at/show/mod/vscolonies</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscolonies#13061</guid>
-    <pubDate>Sun, 08 Nov 2026 12:44:19 -0000</pubDate>
-    <description>Build your own colony with villagers who harvest resources, mine and build the town!</description>
-  </item>
-  <item>
-    <title>SparkX</title>
-    <link>https://mods.vintagestory.at/show/mod/sparkx</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sparkx#13272</guid>
-    <pubDate>Sun, 08 Nov 2026 12:41:13 -0000</pubDate>
-    <description>Per-mod memory snapshots and watch runs for Vintage Story, measured from outside the game.</description>
-  </item>
-  <item>
-    <title>FPGAutowhitelister</title>
-    <link>https://mods.vintagestory.at/show/mod/12265</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12265#12265</guid>
-    <pubDate>Sun, 08 Nov 2026 12:30:36 -0000</pubDate>
-    <description>Whitelists every non-serverside mod from the server mod folders in FairPlayGuardian on launch</description>
-  </item>
-  <item>
-    <title>Simple Tent</title>
-    <link>https://mods.vintagestory.at/show/mod/simpletent</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simpletent#13264</guid>
-    <pubDate>Sun, 08 Nov 2026 12:23:05 -0000</pubDate>
-    <description>Simple Tent for all your role playing needs</description>
-  </item>
-  <item>
-    <title>SparkVS</title>
-    <link>https://mods.vintagestory.at/show/mod/sparkvs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sparkvs#13046</guid>
-    <pubDate>Sun, 08 Nov 2026 12:19:21 -0000</pubDate>
-    <description>The idea of Spark being made for VS slowly...</description>
-  </item>
-  <item>
-    <title>Yang's Transport Tycoon</title>
-    <link>https://mods.vintagestory.at/show/mod/yangtransport</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/yangtransport#6871</guid>
-    <pubDate>Sun, 08 Nov 2026 12:17:16 -0000</pubDate>
-    <description>Construct and operate industrial transport machinery.</description>
-  </item>
-  <item>
-    <title>Integrated Mod Manager</title>
-    <link>https://mods.vintagestory.at/show/mod/imm</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/imm#11458</guid>
-    <pubDate>Sun, 08 Nov 2026 12:15:32 -0000</pubDate>
-    <description>Configure your mods, fetch dependencies, and resolve conflicts entirely in-game!</description>
-  </item>
-  <item>
-    <title>Vintage E</title>
-    <link>https://mods.vintagestory.at/show/mod/12625</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12625#12625</guid>
-    <pubDate>Sun, 08 Nov 2026 11:39:21 -0000</pubDate>
-    <description>Project E for vintage story</description>
-  </item>
-  <item>
-    <title>Moonwater</title>
-    <link>https://mods.vintagestory.at/show/mod/moonwater</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moonwater#13263</guid>
-    <pubDate>Sun, 08 Nov 2026 11:27:41 -0000</pubDate>
-    <description>Use the power of the moon, to create an exotic substance.</description>
+    <title>TreeGenerator</title>
+    <link>https://mods.vintagestory.at/show/mod/13281</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13281#13281</guid>
+    <pubDate>Sun, 08 Nov 2026 16:02:16 -0000</pubDate>
+    <description>Generator tool for glass and other block trees.</description>
   </item>
   <item>
     <title>Dragonia Translations</title>
     <link>https://mods.vintagestory.at/show/mod/10016</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10016#10016</guid>
-    <pubDate>Sun, 08 Nov 2026 11:18:14 -0000</pubDate>
+    <pubDate>Sun, 08 Nov 2026 15:56:17 -0000</pubDate>
     <description>Переводы и отредактированные переводы под стиль сервера. </description>
   </item>
   <item>
-    <title>Stamina</title>
-    <link>https://mods.vintagestory.at/show/mod/stamina</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stamina#13249</guid>
-    <pubDate>Sun, 08 Nov 2026 11:10:01 -0000</pubDate>
-    <description>Adds a stamina bar, making sprinting, swimming, jumping and Combat Overhaul actions cost stamina</description>
+    <title>Temperature monitor</title>
+    <link>https://mods.vintagestory.at/show/mod/3605</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3605#3605</guid>
+    <pubDate>Sun, 08 Nov 2026 15:50:40 -0000</pubDate>
+    <description>Automatically monitors and records minimum and maximum temperatures in the game world.</description>
   </item>
   <item>
-    <title>Crow Bros</title>
-    <link>https://mods.vintagestory.at/show/mod/12762</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12762#12762</guid>
-    <pubDate>Sun, 08 Nov 2026 11:09:49 -0000</pubDate>
-    <description>Adds realistic and reactive crows to the game</description>
+    <title>Ardyn Leveling</title>
+    <link>https://mods.vintagestory.at/show/mod/ardynleveling</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ardynleveling#12761</guid>
+    <pubDate>Sun, 08 Nov 2026 15:43:40 -0000</pubDate>
+    <description>Deep profession-based progression with customizable talent trees and hundreds of unique skills.</description>
   </item>
   <item>
-    <title>Resin Grove</title>
-    <link>https://mods.vintagestory.at/show/mod/13262</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13262#13262</guid>
-    <pubDate>Sun, 08 Nov 2026 11:05:39 -0000</pubDate>
-    <description>Farm resin by tapping living pine and acacia trees</description>
+    <title>LTO Essential Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/ltoessentialplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ltoessentialplus#13227</guid>
+    <pubDate>Sun, 08 Nov 2026 15:43:15 -0000</pubDate>
+    <description>A QoL mod enhancing survival with useful tools and improved convenience.</description>
   </item>
   <item>
-    <title>Correct fruit trees</title>
-    <link>https://mods.vintagestory.at/show/mod/correctfruittrees</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/correctfruittrees#13067</guid>
-    <pubDate>Sun, 08 Nov 2026 11:05:36 -0000</pubDate>
-    <description>Improves fruit tree world generation with proper seasonal states</description>
+    <title>LTO Stamina Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/ltostaminaplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ltostaminaplus#13232</guid>
+    <pubDate>Sun, 08 Nov 2026 15:43:12 -0000</pubDate>
+    <description>An immersive survival mod introducing fatigue, energy, and thirst management.</description>
   </item>
   <item>
-    <title>Rusisficator Animalica for Dragonia </title>
-    <link>https://mods.vintagestory.at/show/mod/13237</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13237#13237</guid>
-    <pubDate>Sun, 08 Nov 2026 11:00:14 -0000</pubDate>
-    <description>Русификатор </description>
+    <title>LTO Immersive Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/ltoimmersiveplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ltoimmersiveplus#13235</guid>
+    <pubDate>Sun, 08 Nov 2026 15:43:07 -0000</pubDate>
+    <description>An immersive mod adding visual block damage and realistic tree-falling mechanics.</description>
   </item>
   <item>
-    <title>Legacy of the Phanerozoic: Long Neck (Part 3)</title>
-    <link>https://mods.vintagestory.at/show/mod/macronariapart3</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/macronariapart3#13261</guid>
-    <pubDate>Sun, 08 Nov 2026 10:53:01 -0000</pubDate>
-    <description>Part 3 of 3 for Long Neck. Required, installs automatically.</description>
+    <title>LTO Lib plus</title>
+    <link>https://mods.vintagestory.at/show/mod/ltolibplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ltolibplus#12550</guid>
+    <pubDate>Sun, 08 Nov 2026 15:43:00 -0000</pubDate>
+    <description>Library for LTO mods</description>
   </item>
   <item>
-    <title>Rough Seas</title>
-    <link>https://mods.vintagestory.at/show/mod/roughseas</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/roughseas#12633</guid>
-    <pubDate>Sun, 08 Nov 2026 10:42:04 -0000</pubDate>
-    <description>The sea gets weather: storms, surf, currents. And six new vessels that wear, swamp and break.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Shovel Mouth (Part 2)</title>
-    <link>https://mods.vintagestory.at/show/mod/hadrosauroideapart2</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hadrosauroideapart2#13215</guid>
-    <pubDate>Sun, 08 Nov 2026 10:36:38 -0000</pubDate>
-    <description>Part 2 of 2 for Shovel Mouth. Required with Part 1, installs automatically.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Long Neck (Part 2)</title>
-    <link>https://mods.vintagestory.at/show/mod/macronariapart2</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/macronariapart2#13219</guid>
-    <pubDate>Sun, 08 Nov 2026 10:35:09 -0000</pubDate>
-    <description>Part 2 of 3 for Long Neck. Required with Part 1, installs automatically.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Elegant Jaw</title>
-    <link>https://mods.vintagestory.at/show/mod/lopcompsognathidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lopcompsognathidae#13213</guid>
-    <pubDate>Sun, 08 Nov 2026 10:28:51 -0000</pubDate>
-    <description>Elegant Jaw: compsognathid dinosaurs for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Carnivorous Bull</title>
-    <link>https://mods.vintagestory.at/show/mod/abelisauridae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/abelisauridae#13209</guid>
-    <pubDate>Sun, 08 Nov 2026 10:28:03 -0000</pubDate>
-    <description>Carnivorous Bull: abelisaurid dinosaurs for Vintage Story, patched build.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Fused Body</title>
-    <link>https://mods.vintagestory.at/show/mod/ankylosauria</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ankylosauria#13211</guid>
-    <pubDate>Sun, 08 Nov 2026 10:26:48 -0000</pubDate>
-    <description>Fused Body: ankylosaur dinosaurs for Vintage Story, patched build.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Birds of Prey</title>
-    <link>https://mods.vintagestory.at/show/mod/dromaeosauridae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dromaeosauridae#13212</guid>
-    <pubDate>Sun, 08 Nov 2026 10:25:53 -0000</pubDate>
-    <description>Birds of Prey: dromaeosaurid dinosaurs for Vintage Story, patched build.</description>
-  </item>
-  <item>
-    <title>LoP-Core</title>
-    <link>https://mods.vintagestory.at/show/mod/lopcore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lopcore#13204</guid>
-    <pubDate>Sun, 08 Nov 2026 10:23:58 -0000</pubDate>
-    <description>Shared core for laughinggas's Legacy of the Phanerozoic series. Required by every LoP pack.</description>
+    <title>LTO Farming Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/ltofarmingplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ltofarmingplus#12605</guid>
+    <pubDate>Sun, 08 Nov 2026 15:42:56 -0000</pubDate>
+    <description>Farming mod ...</description>
   </item>
 </channel>
 </rss>
