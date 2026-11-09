@@ -4,216 +4,216 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 08 Nov 2026 23:28:22 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 05:17:08 +0000</lastBuildDate>
   <item>
-    <title>VS Director: Replay and Cameras</title>
-    <link>https://mods.vintagestory.at/show/mod/vsdirector</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vsdirector#13153</guid>
-    <pubDate>Sun, 08 Nov 2026 23:26:25 -0000</pubDate>
-    <description>Director workspace with camera paths, replay timeline elements, follow cameras, and video export.</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Specialized Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/aosspecializedclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aosspecializedclasses#8501</guid>
-    <pubDate>Sun, 08 Nov 2026 23:15:14 -0000</pubDate>
-    <description>Age of Seraphs Specialized Classes Fork</description>
-  </item>
-  <item>
-    <title>Age of Seraphs Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Sun, 08 Nov 2026 23:14:11 -0000</pubDate>
-    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
+    <title>collapsestorage patch</title>
+    <link>https://mods.vintagestory.at/show/mod/13295</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13295#13295</guid>
+    <pubDate>Mon, 09 Nov 2026 05:12:22 -0000</pubDate>
+    <description>Allows you to place scrollracks and bookshelves on top of each other with collapse story.</description>
   </item>
   <item>
     <title>Cave Surveyor</title>
     <link>https://mods.vintagestory.at/show/mod/cavesurveyor</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cavesurveyor#13207</guid>
-    <pubDate>Sun, 08 Nov 2026 23:06:09 -0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 05:09:25 -0000</pubDate>
     <description>Maps the caves you walk as cavers do: plan, profile, sections, finds. Shift+M unfolds the map.</description>
   </item>
   <item>
-    <title>Aegis Horizons</title>
-    <link>https://mods.vintagestory.at/show/mod/horizon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/horizon#13181</guid>
-    <pubDate>Sun, 08 Nov 2026 22:56:40 -0000</pubDate>
-    <description>Distant terrain for Aegis Terrain worlds.</description>
+    <title>vintageparkserver</title>
+    <link>https://mods.vintagestory.at/show/mod/12437</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12437#12437</guid>
+    <pubDate>Mon, 09 Nov 2026 05:08:49 -0000</pubDate>
+    <description>Bringing in trees and things for our private server. </description>
   </item>
   <item>
-    <title>Crown &amp; Coalition Chapter 2</title>
-    <link>https://mods.vintagestory.at/show/mod/11428</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
-    <pubDate>Sun, 08 Nov 2026 22:26:44 -0000</pubDate>
-    <description>Chapter 2 additions for C&amp;C.</description>
+    <title>VHS Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/12439</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12439#12439</guid>
+    <pubDate>Mon, 09 Nov 2026 05:07:18 -0000</pubDate>
+    <description>Patches for the Vintage Hoarder's Society Server</description>
   </item>
   <item>
-    <title>fStats</title>
-    <link>https://mods.vintagestory.at/show/mod/fstats</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fstats#13230</guid>
-    <pubDate>Sun, 08 Nov 2026 22:22:44 -0000</pubDate>
-    <description>A stat library for use with fClasses and fSkills.</description>
+    <title>Become a Shadow</title>
+    <link>https://mods.vintagestory.at/show/mod/becomeashadow</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/becomeashadow#13257</guid>
+    <pubDate>Mon, 09 Nov 2026 04:30:19 -0000</pubDate>
+    <description>The only thing they see is your shadow.</description>
   </item>
   <item>
-    <title>Angler's Catch</title>
-    <link>https://mods.vintagestory.at/show/mod/anglerscatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/anglerscatch#10809</guid>
-    <pubDate>Sun, 08 Nov 2026 21:58:23 -0000</pubDate>
-    <description>Adds length and size to the vanilla fish, fish in the top 20% get a Trophy Tag</description>
+    <title>GhostChunks</title>
+    <link>https://mods.vintagestory.at/show/mod/ghostchunks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ghostchunks#12113</guid>
+    <pubDate>Mon, 09 Nov 2026 04:08:44 -0000</pubDate>
+    <description>Highly performant distant terrain LOD renderer, capable of rendering at 200+ fps!</description>
   </item>
   <item>
-    <title>A Culinary Artillery 2.0.0-dev.29</title>
-    <link>https://mods.vintagestory.at/show/mod/aculinaryartillery</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aculinaryartillery#843</guid>
-    <pubDate>Sun, 08 Nov 2026 21:54:55 -0000</pubDate>
-    <description>Adds an arsenal of tools to enhance the culinary experience.</description>
+    <title>Nature's Call REMADE</title>
+    <link>https://mods.vintagestory.at/show/mod/naturescallremade</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/naturescallremade#13132</guid>
+    <pubDate>Mon, 09 Nov 2026 03:54:05 -0000</pubDate>
+    <description>A rewrite of the legendary mod Nature's Call. No longer crashes the game when you pee on a friend</description>
   </item>
   <item>
-    <title>Splitting Maul</title>
-    <link>https://mods.vintagestory.at/show/mod/13289</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13289#13289</guid>
-    <pubDate>Sun, 08 Nov 2026 21:48:01 -0000</pubDate>
-    <description>The right tool for the job.</description>
+    <title>fSkills</title>
+    <link>https://mods.vintagestory.at/show/mod/fskills</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fskills#13229</guid>
+    <pubDate>Mon, 09 Nov 2026 03:49:02 -0000</pubDate>
+    <description>A skill and XP mod to support fClasses for Fragments RP.</description>
   </item>
   <item>
-    <title>Alegacy Curiosities</title>
-    <link>https://mods.vintagestory.at/show/mod/alegacycuriosities</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacycuriosities#13291</guid>
-    <pubDate>Sun, 08 Nov 2026 21:42:07 -0000</pubDate>
-    <description>Working furniture, doors, lights, baths and storage, plus a design bench for your own rugs and art.</description>
+    <title>Aegis</title>
+    <link>https://mods.vintagestory.at/show/mod/aegis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aegis#12213</guid>
+    <pubDate>Mon, 09 Nov 2026 03:43:23 -0000</pubDate>
+    <description>The client mod for Aegis Networks servers</description>
   </item>
   <item>
-    <title>CoB Client Files [1]</title>
-    <link>https://mods.vintagestory.at/show/mod/cobexclusives</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cobexclusives#360</guid>
-    <pubDate>Sun, 08 Nov 2026 21:39:59 -0000</pubDate>
-    <description>Required to join the awesome Conquest of Blocks (aka 'CoB') multiplayer realm.</description>
+    <title>Wilderlands Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/7320</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7320#7320</guid>
+    <pubDate>Mon, 09 Nov 2026 03:32:08 -0000</pubDate>
+    <description>A repository for a number of configurable values to adjust base game and Wilderlands mods content.</description>
   </item>
   <item>
-    <title>Hydrate or Diedrate</title>
-    <link>https://mods.vintagestory.at/show/mod/hydrateordiedrate</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hydrateordiedrate#2282</guid>
-    <pubDate>Sun, 08 Nov 2026 21:34:04 -0000</pubDate>
-    <description>A mod that adds thirst and hydration mechanics as well as hot weather survival.</description>
+    <title>The Sundered</title>
+    <link>https://mods.vintagestory.at/show/mod/sundered</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/sundered#11618</guid>
+    <pubDate>Mon, 09 Nov 2026 03:27:38 -0000</pubDate>
+    <description>Adds the Sundered, 5 differently mutated humanoid character origins with extensive customisation</description>
   </item>
   <item>
-    <title>Remember It</title>
-    <link>https://mods.vintagestory.at/show/mod/rememberit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rememberit#12513</guid>
-    <pubDate>Sun, 08 Nov 2026 21:32:58 -0000</pubDate>
-    <description>Remembers where you have been and draws it onto your Frontier's Map, a little more each visit.</description>
+    <title>VS Siding Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/vssiding</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vssiding#12036</guid>
+    <pubDate>Mon, 09 Nov 2026 03:25:21 -0000</pubDate>
+    <description>Layered wall building: framing, infill, and finish materials for thinner, more realistic walls</description>
   </item>
   <item>
-    <title>Better Pyrolysis</title>
-    <link>https://mods.vintagestory.at/show/mod/10228</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10228#10228</guid>
-    <pubDate>Sun, 08 Nov 2026 21:32:57 -0000</pubDate>
-    <description>Adds several new features regarding pyrolyzing different fuels in coke ovens.</description>
-  </item>
-  <item>
-    <title>Ashen Legacy: Zenith</title>
-    <link>https://mods.vintagestory.at/show/mod/alzenith</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alzenith#13290</guid>
-    <pubDate>Sun, 08 Nov 2026 21:31:49 -0000</pubDate>
-    <description>Alegacy server quest pack</description>
-  </item>
-  <item>
-    <title>Alegacy Attire</title>
-    <link>https://mods.vintagestory.at/show/mod/alegacyattire</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyattire#12278</guid>
-    <pubDate>Sun, 08 Nov 2026 21:28:54 -0000</pubDate>
-    <description>Hundreds of medieval and horror-themed clothing pieces, sewn on a tailoring loom from pattern sets</description>
-  </item>
-  <item>
-    <title>Alegacy Quest Framework</title>
-    <link>https://mods.vintagestory.at/show/mod/alegacyquestframework</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyquestframework#6609</guid>
-    <pubDate>Sun, 08 Nov 2026 21:16:41 -0000</pubDate>
-    <description>Alegacy Quest Framework is a full-featured quest and boss combat engine for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Alegacy: Foundation</title>
-    <link>https://mods.vintagestory.at/show/mod/albase</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/albase#6694</guid>
-    <pubDate>Sun, 08 Nov 2026 21:12:57 -0000</pubDate>
-    <description>Foundation quest pack for the Alegacy Server.</description>
-  </item>
-  <item>
-    <title>Alegacy patches</title>
-    <link>https://mods.vintagestory.at/show/mod/6997</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6997#6997</guid>
-    <pubDate>Sun, 08 Nov 2026 21:12:41 -0000</pubDate>
-    <description>targeted patches for the Alegacy server setup</description>
-  </item>
-  <item>
-    <title>Arcanum Lib</title>
-    <link>https://mods.vintagestory.at/show/mod/arcanumlib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arcanumlib#11325</guid>
-    <pubDate>Sun, 08 Nov 2026 21:12:02 -0000</pubDate>
-    <description>A shared utility library for Vintage Story: HUD, particles, effects, persistence, and more.</description>
-  </item>
-  <item>
-    <title>No Bears.  Really!</title>
-    <link>https://mods.vintagestory.at/show/mod/1073</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/1073#1073</guid>
-    <pubDate>Sun, 08 Nov 2026 20:56:41 -0000</pubDate>
-    <description>This mod prevents any new bear spawns in your game.</description>
-  </item>
-  <item>
-    <title>Rust Arrival</title>
-    <link>https://mods.vintagestory.at/show/mod/rustarrival</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustarrival#13143</guid>
-    <pubDate>Sun, 08 Nov 2026 20:52:28 -0000</pubDate>
-    <description>Rust creatures now spawn with a special effect. Purely cosmetic, configurable.</description>
-  </item>
-  <item>
-    <title>Ardyn Leveling</title>
-    <link>https://mods.vintagestory.at/show/mod/ardynleveling</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ardynleveling#12761</guid>
-    <pubDate>Sun, 08 Nov 2026 20:39:59 -0000</pubDate>
-    <description>Deep profession-based progression with customizable talent trees and hundreds of unique skills.</description>
-  </item>
-  <item>
-    <title>No Monsters. Really!</title>
-    <link>https://mods.vintagestory.at/show/mod/1090</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/1090#1090</guid>
-    <pubDate>Sun, 08 Nov 2026 20:04:34 -0000</pubDate>
-    <description>Removes bells, drifters and locusts (and their nests) from the game. Wildlife is NOT affected.</description>
-  </item>
-  <item>
-    <title>Vara's Gravel-Less</title>
-    <link>https://mods.vintagestory.at/show/mod/varasgravelless</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/varasgravelless#13287</guid>
-    <pubDate>Sun, 08 Nov 2026 20:01:01 -0000</pubDate>
-    <description>Less gravel! Replaces gravel deserts with barren soil!</description>
+    <title>Messenger Pigeons</title>
+    <link>https://mods.vintagestory.at/show/mod/10423</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10423#10423</guid>
+    <pubDate>Mon, 09 Nov 2026 03:24:22 -0000</pubDate>
+    <description>Send mail across the world using distance based messenger pigeons with secure pigeon boxes.</description>
   </item>
   <item>
     <title>Prosequor - Skills, Levels, Trees and Stats</title>
     <link>https://mods.vintagestory.at/show/mod/11674</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11674#11674</guid>
-    <pubDate>Sun, 08 Nov 2026 20:00:05 -0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 03:14:56 -0000</pubDate>
     <description>Adds a full-throated, first-class skill, levelling and attributes system to Vintage Story.</description>
   </item>
   <item>
-    <title>FragmentsGlassmaking</title>
-    <link>https://mods.vintagestory.at/show/mod/13080</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13080#13080</guid>
-    <pubDate>Sun, 08 Nov 2026 19:57:34 -0000</pubDate>
-    <description>Server modifications to the Glassmaking mod</description>
+    <title>Ardyn Leveling</title>
+    <link>https://mods.vintagestory.at/show/mod/ardynleveling</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ardynleveling#12761</guid>
+    <pubDate>Mon, 09 Nov 2026 02:26:00 -0000</pubDate>
+    <description>Deep profession-based progression with customizable talent trees and hundreds of unique skills.</description>
   </item>
   <item>
-    <title>CB Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/10778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10778#10778</guid>
-    <pubDate>Sun, 08 Nov 2026 19:45:47 -0000</pubDate>
-    <description>Skill and class mod for the CB server</description>
+    <title>Sauce-a-lot</title>
+    <link>https://mods.vintagestory.at/show/mod/5721</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5721#5721</guid>
+    <pubDate>Mon, 09 Nov 2026 02:13:25 -0000</pubDate>
+    <description>This mod adds several sauces that can be used in meals and for slathering onto meats!</description>
   </item>
   <item>
-    <title>Aegis Voice</title>
-    <link>https://mods.vintagestory.at/show/mod/voice</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/voice#13247</guid>
-    <pubDate>Sun, 08 Nov 2026 19:35:01 -0000</pubDate>
-    <description>In-game proximity voice for Vintage Story, powered by the Discord Social SDK.</description>
+    <title>WoNH Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/wonhtweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/wonhtweaks#12081</guid>
+    <pubDate>Mon, 09 Nov 2026 01:49:47 -0000</pubDate>
+    <description>Mod tweaks and patches for the World of New Horizons server (https://wonh.online/)</description>
+  </item>
+  <item>
+    <title>VS save editor</title>
+    <link>https://mods.vintagestory.at/show/mod/12805</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12805#12805</guid>
+    <pubDate>Mon, 09 Nov 2026 01:30:21 -0000</pubDate>
+    <description>Save editor for vintage story, map export chunk managment and block/entity search.</description>
+  </item>
+  <item>
+    <title>Petroleum Age: Iron &amp; Refining Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/13200</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13200#13200</guid>
+    <pubDate>Mon, 09 Nov 2026 01:13:33 -0000</pubDate>
+    <description>Petroleum Age: Iron &amp; Refining Patch adds iron-friendly recipes, crude oil → bitumen → coke cooking,</description>
+  </item>
+  <item>
+    <title>Licantropomorphia</title>
+    <link>https://mods.vintagestory.at/show/mod/13179</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13179#13179</guid>
+    <pubDate>Mon, 09 Nov 2026 01:12:13 -0000</pubDate>
+    <description>This implements the werewolf curse into the game, bringing with it transformation, lore, and level </description>
+  </item>
+  <item>
+    <title>Quality Ores</title>
+    <link>https://mods.vintagestory.at/show/mod/8925</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8925#8925</guid>
+    <pubDate>Mon, 09 Nov 2026 01:10:51 -0000</pubDate>
+    <description>Adds textures for the different grades of ores</description>
+  </item>
+  <item>
+    <title>Ground Works</title>
+    <link>https://mods.vintagestory.at/show/mod/vscngroundworks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscngroundworks#12787</guid>
+    <pubDate>Mon, 09 Nov 2026 00:45:20 -0000</pubDate>
+    <description>Soil compaction, loosening, path shaping, stone polishing, and wooden path building.</description>
+  </item>
+  <item>
+    <title>Block Overlay</title>
+    <link>https://mods.vintagestory.at/show/mod/xray</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/xray#1186</guid>
+    <pubDate>Mon, 09 Nov 2026 00:42:30 -0000</pubDate>
+    <description>The best x-ray mod so far 🎉</description>
+  </item>
+  <item>
+    <title>Better Pyrolysis</title>
+    <link>https://mods.vintagestory.at/show/mod/10228</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10228#10228</guid>
+    <pubDate>Mon, 09 Nov 2026 00:42:21 -0000</pubDate>
+    <description>Adds several new features regarding pyrolyzing different fuels in coke ovens.</description>
+  </item>
+  <item>
+    <title>Veshk</title>
+    <link>https://mods.vintagestory.at/show/mod/veshk</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/veshk#13036</guid>
+    <pubDate>Mon, 09 Nov 2026 00:16:26 -0000</pubDate>
+    <description>Large predatory leech-like creatures which feed on blood</description>
+  </item>
+  <item>
+    <title>Aegis Horizons</title>
+    <link>https://mods.vintagestory.at/show/mod/horizon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/horizon#13181</guid>
+    <pubDate>Mon, 09 Nov 2026 00:12:52 -0000</pubDate>
+    <description>Distant terrain for Aegis Terrain worlds.</description>
+  </item>
+  <item>
+    <title>Syrup and CO2</title>
+    <link>https://mods.vintagestory.at/show/mod/12284</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12284#12284</guid>
+    <pubDate>Mon, 09 Nov 2026 00:02:25 -0000</pubDate>
+    <description>Adds cola and soda as well as a carbonation system to the game!</description>
+  </item>
+  <item>
+    <title>Syrup and CO2: Wildcraft Addon</title>
+    <link>https://mods.vintagestory.at/show/mod/12450</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12450#12450</guid>
+    <pubDate>Mon, 09 Nov 2026 00:01:56 -0000</pubDate>
+    <description>Brings soda to wildcraft.</description>
+  </item>
+  <item>
+    <title>OST Pitch Shifter</title>
+    <link>https://mods.vintagestory.at/show/mod/13293</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13293#13293</guid>
+    <pubDate>Sun, 08 Nov 2026 23:53:28 -0000</pubDate>
+    <description>Randomly shifts the pitch of background music tracks whenever a new OST starts playing.</description>
+  </item>
+  <item>
+    <title>NDL ExpandedGrowth (Flower Growth Module)</title>
+    <link>https://mods.vintagestory.at/show/mod/ndlexpandedgrowthflowers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndlexpandedgrowthflowers#5701</guid>
+    <pubDate>Sun, 08 Nov 2026 23:48:50 -0000</pubDate>
+    <description>Adds a method for growing/farming flowers!</description>
   </item>
 </channel>
 </rss>
