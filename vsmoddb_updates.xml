@@ -4,216 +4,216 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Tue, 10 Nov 2026 16:13:17 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 22:11:27 +0000</lastBuildDate>
+  <item>
+    <title>Ardyn Leveling</title>
+    <link>https://mods.vintagestory.at/show/mod/ardynleveling</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ardynleveling#12761</guid>
+    <pubDate>Tue, 10 Nov 2026 22:01:42 -0000</pubDate>
+    <description>Deep profession-based progression with customizable talent trees and hundreds of unique skills.</description>
+  </item>
+  <item>
+    <title>Jonas Weaponry</title>
+    <link>https://mods.vintagestory.at/show/mod/13334</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13334#13334</guid>
+    <pubDate>Tue, 10 Nov 2026 21:44:43 -0000</pubDate>
+    <description>Clockwork firearms, ammo, magazines and a sentry turret, built around aiming down sights.</description>
+  </item>
+  <item>
+    <title>noticeboardcrashfix</title>
+    <link>https://mods.vintagestory.at/show/mod/13333</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13333#13333</guid>
+    <pubDate>Tue, 10 Nov 2026 21:42:48 -0000</pubDate>
+    <description>Fixes the noticeboard asset/data crash</description>
+  </item>
+  <item>
+    <title>Nature's Call REMADE</title>
+    <link>https://mods.vintagestory.at/show/mod/naturescallremade</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/naturescallremade#13132</guid>
+    <pubDate>Tue, 10 Nov 2026 21:40:19 -0000</pubDate>
+    <description>A rewrite of the legendary mod Nature's Call. No longer crashes the game when you pee on a friend</description>
+  </item>
+  <item>
+    <title>Aegis</title>
+    <link>https://mods.vintagestory.at/show/mod/aegis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aegis#12213</guid>
+    <pubDate>Tue, 10 Nov 2026 21:35:28 -0000</pubDate>
+    <description>The client mod for Aegis Networks servers</description>
+  </item>
+  <item>
+    <title>Aegis Horizons</title>
+    <link>https://mods.vintagestory.at/show/mod/horizon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/horizon#13181</guid>
+    <pubDate>Tue, 10 Nov 2026 21:32:54 -0000</pubDate>
+    <description>Distant terrain for Aegis Terrain worlds.</description>
+  </item>
+  <item>
+    <title>More Storage CompatibFIX</title>
+    <link>https://mods.vintagestory.at/show/mod/morestoragecompatibfix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/morestoragecompatibfix#13329</guid>
+    <pubDate>Tue, 10 Nov 2026 21:32:19 -0000</pubDate>
+    <description>Compatibility for MoreInventorys and Upgradable Storage.</description>
+  </item>
+  <item>
+    <title>fSkills</title>
+    <link>https://mods.vintagestory.at/show/mod/fskills</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fskills#13229</guid>
+    <pubDate>Tue, 10 Nov 2026 21:31:57 -0000</pubDate>
+    <description>A skill and XP mod to support fClasses for Fragments RP.</description>
+  </item>
+  <item>
+    <title>Aegis Voice</title>
+    <link>https://mods.vintagestory.at/show/mod/voice</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/voice#13247</guid>
+    <pubDate>Tue, 10 Nov 2026 21:23:17 -0000</pubDate>
+    <description>In-game proximity voice for Vintage Story, powered by the Discord Social SDK.</description>
+  </item>
+  <item>
+    <title>fClasses</title>
+    <link>https://mods.vintagestory.at/show/mod/fclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fclasses#13228</guid>
+    <pubDate>Tue, 10 Nov 2026 21:21:58 -0000</pubDate>
+    <description>A complete class overhaul for Fragments RP</description>
+  </item>
+  <item>
+    <title>fStats</title>
+    <link>https://mods.vintagestory.at/show/mod/fstats</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fstats#13230</guid>
+    <pubDate>Tue, 10 Nov 2026 21:21:22 -0000</pubDate>
+    <description>A stat library for use with fClasses and fSkills.</description>
+  </item>
+  <item>
+    <title>Ilona's Displayables</title>
+    <link>https://mods.vintagestory.at/show/mod/13330</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13330#13330</guid>
+    <pubDate>Tue, 10 Nov 2026 21:04:55 -0000</pubDate>
+    <description>Adds the displayable attribute to various common items</description>
+  </item>
+  <item>
+    <title>eViSTool — Linux</title>
+    <link>https://mods.vintagestory.at/show/mod/evistoollinux</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoollinux#12414</guid>
+    <pubDate>Tue, 10 Nov 2026 20:46:48 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>Attribute Rendering Library</title>
+    <link>https://mods.vintagestory.at/show/mod/attributerenderinglibrary</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/attributerenderinglibrary#4517</guid>
+    <pubDate>Tue, 10 Nov 2026 20:46:33 -0000</pubDate>
+    <description>Implements highly optimized attribute-based variant system for rendering things</description>
+  </item>
+  <item>
+    <title>eViSTool — Windows</title>
+    <link>https://mods.vintagestory.at/show/mod/evistoolwin</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/evistoolwin#12228</guid>
+    <pubDate>Tue, 10 Nov 2026 20:46:20 -0000</pubDate>
+    <description>Mod manager and dedicated server tool: updates, rollback, ModDB catalog, backups, remote control</description>
+  </item>
+  <item>
+    <title>Ilona's Weaponized Toolsmith</title>
+    <link>https://mods.vintagestory.at/show/mod/13332</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13332#13332</guid>
+    <pubDate>Tue, 10 Nov 2026 20:37:05 -0000</pubDate>
+    <description>Adds Toolsmith's magic to spears.</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Jousting style</title>
+    <link>https://mods.vintagestory.at/show/mod/7100</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7100#7100</guid>
+    <pubDate>Tue, 10 Nov 2026 20:33:00 -0000</pubDate>
+    <description>"Mod adding multiple iron and beyond plate armor variations inspired by Jousting armors"</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Varangian Style</title>
+    <link>https://mods.vintagestory.at/show/mod/6520</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6520#6520</guid>
+    <pubDate>Tue, 10 Nov 2026 20:32:38 -0000</pubDate>
+    <description>Mod adding multiple iron and steel plate and scale armor variations inspired by the Varangians</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Viking Style</title>
+    <link>https://mods.vintagestory.at/show/mod/5754</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5754#5754</guid>
+    <pubDate>Tue, 10 Nov 2026 20:32:08 -0000</pubDate>
+    <description>Mod adding multiple iron and steel plate armor variations inspired by the Vikings</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Hussar style</title>
+    <link>https://mods.vintagestory.at/show/mod/5283</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5283#5283</guid>
+    <pubDate>Tue, 10 Nov 2026 20:31:42 -0000</pubDate>
+    <description>Mod adding multiple iron and beyond plate and brigandine armor variations inspired by Hussars</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Chinese Dynasties</title>
+    <link>https://mods.vintagestory.at/show/mod/5062</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5062#5062</guid>
+    <pubDate>Tue, 10 Nov 2026 20:31:08 -0000</pubDate>
+    <description>Mod adding multiple iron+ Scale armor variations in the style of Chinese Dynasties</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Gothic style</title>
+    <link>https://mods.vintagestory.at/show/mod/4326</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4326#4326</guid>
+    <pubDate>Tue, 10 Nov 2026 20:30:41 -0000</pubDate>
+    <description>Mod adding multiple iron and beyond plate armor variations inspired by Gothic style</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Greenwich style</title>
+    <link>https://mods.vintagestory.at/show/mod/4321</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4321#4321</guid>
+    <pubDate>Tue, 10 Nov 2026 20:30:13 -0000</pubDate>
+    <description>Mod adding multiple iron and beyond plate armor variations inspired by Greenwich blacksmiths style</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Templar Style</title>
+    <link>https://mods.vintagestory.at/show/mod/4415</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4415#4415</guid>
+    <pubDate>Tue, 10 Nov 2026 20:29:22 -0000</pubDate>
+    <description>Mod adding multiple iron plus armor variations in the style of Crusades</description>
+  </item>
+  <item>
+    <title>Forgotten Armory: Core</title>
+    <link>https://mods.vintagestory.at/show/mod/11459</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11459#11459</guid>
+    <pubDate>Tue, 10 Nov 2026 20:28:43 -0000</pubDate>
+    <description>The Core mod for all the Forgotten armory mods</description>
+  </item>
+  <item>
+    <title>Laboro's Multi-Tools</title>
+    <link>https://mods.vintagestory.at/show/mod/9999</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9999#9999</guid>
+    <pubDate>Tue, 10 Nov 2026 19:56:45 -0000</pubDate>
+    <description>2 Multitools and 2 craft tools for all your desires</description>
+  </item>
+  <item>
+    <title>Downed</title>
+    <link>https://mods.vintagestory.at/show/mod/downed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
+    <pubDate>Tue, 10 Nov 2026 19:56:05 -0000</pubDate>
+    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
+  </item>
   <item>
     <title>Evenfall Server Patches</title>
     <link>https://mods.vintagestory.at/show/mod/12676</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12676#12676</guid>
-    <pubDate>Tue, 10 Nov 2026 16:05:27 -0000</pubDate>
+    <pubDate>Tue, 10 Nov 2026 19:51:05 -0000</pubDate>
     <description>Compatibility and customization pack for the Evenfall server</description>
   </item>
   <item>
-    <title>Eternal Seraph: Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
-    <pubDate>Tue, 10 Nov 2026 15:54:24 -0000</pubDate>
-    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
+    <title>Eventide Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Tue, 10 Nov 2026 19:37:02 -0000</pubDate>
+    <description>Claim maps, settlements, and access permissions for the Eventide server.</description>
   </item>
   <item>
-    <title>FoodShelves - IronPrawatt Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/13314</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13314#13314</guid>
-    <pubDate>Tue, 10 Nov 2026 15:24:40 -0000</pubDate>
-    <description>Patch Addon for FoodShelves to fix some bugs</description>
-  </item>
-  <item>
-    <title>For Days to Come - Modpack</title>
-    <link>https://mods.vintagestory.at/show/mod/fordaystocomemodpack</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fordaystocomemodpack#12574</guid>
-    <pubDate>Tue, 10 Nov 2026 14:48:16 -0000</pubDate>
-    <description>A vanilla+ modpack for immersive survival, exploration, and medieval life.</description>
-  </item>
-  <item>
-    <title>Origins Unbound</title>
-    <link>https://mods.vintagestory.at/show/mod/originsunbound</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/originsunbound#13313</guid>
-    <pubDate>Tue, 10 Nov 2026 14:43:39 -0000</pubDate>
-    <description>Create and edit character classes and traits from an in-game menu, in singleplayer or multiplayer.</description>
-  </item>
-  <item>
-    <title>Vintage E</title>
-    <link>https://mods.vintagestory.at/show/mod/12625</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12625#12625</guid>
-    <pubDate>Tue, 10 Nov 2026 14:18:41 -0000</pubDate>
-    <description>Project E for vintage story</description>
-  </item>
-  <item>
-    <title>Lanterns Are Lighters</title>
-    <link>https://mods.vintagestory.at/show/mod/3716</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3716#3716</guid>
-    <pubDate>Tue, 10 Nov 2026 14:15:52 -0000</pubDate>
-    <description>Lantern is lighter, it just is.</description>
-  </item>
-  <item>
-    <title>Creative Rotor Craftable</title>
-    <link>https://mods.vintagestory.at/show/mod/creativerotorcraftable</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/creativerotorcraftable#13324</guid>
-    <pubDate>Tue, 10 Nov 2026 13:59:57 -0000</pubDate>
-    <description>Craft the Creative Auto Rotor in survival using steel, temporal gears and Jonas technology!</description>
-  </item>
-  <item>
-    <title>Head Count</title>
-    <link>https://mods.vintagestory.at/show/mod/headcount</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/headcount#13323</guid>
-    <pubDate>Tue, 10 Nov 2026 13:22:40 -0000</pubDate>
-    <description>See whos online your server with a player list, shows their faces too.</description>
-  </item>
-  <item>
-    <title>LoP-Core</title>
-    <link>https://mods.vintagestory.at/show/mod/lopcore</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lopcore#13204</guid>
-    <pubDate>Tue, 10 Nov 2026 13:20:04 -0000</pubDate>
-    <description>Shared core for laughinggas's Legacy of the Phanerozoic series. Required by every LoP pack.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Tyrant King</title>
-    <link>https://mods.vintagestory.at/show/mod/tyrannosauridae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tyrannosauridae#13116</guid>
-    <pubDate>Tue, 10 Nov 2026 13:19:40 -0000</pubDate>
-    <description>Tyrannosaurids, the tyrant lizards. 12 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Scythe Claws</title>
-    <link>https://mods.vintagestory.at/show/mod/therizinosauridae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therizinosauridae#13113</guid>
-    <pubDate>Tue, 10 Nov 2026 13:19:06 -0000</pubDate>
-    <description>Therizinosaurs, the long-clawed feathered herbivores. 10 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Plated Back</title>
-    <link>https://mods.vintagestory.at/show/mod/stegosauria</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stegosauria#13108</guid>
-    <pubDate>Tue, 10 Nov 2026 13:18:41 -0000</pubDate>
-    <description>Stegosaurs, the plated dinosaurs. 12 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Storm Wing</title>
-    <link>https://mods.vintagestory.at/show/mod/loppterosauria</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/loppterosauria#13111</guid>
-    <pubDate>Tue, 10 Nov 2026 13:18:08 -0000</pubDate>
-    <description>Pterosaurs, the flying reptiles. 8 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Sea Serpent</title>
-    <link>https://mods.vintagestory.at/show/mod/lopplesiosauria</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lopplesiosauria#13110</guid>
-    <pubDate>Tue, 10 Nov 2026 13:17:43 -0000</pubDate>
-    <description>Plesiosaurs and pliosaurs, marine reptiles. Fully aquatic. 3 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Domed Head</title>
-    <link>https://mods.vintagestory.at/show/mod/pachycephalosauria</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pachycephalosauria#13098</guid>
-    <pubDate>Tue, 10 Nov 2026 13:17:20 -0000</pubDate>
-    <description>Pachycephalosaurs, the dome-headed dinosaurs. 16 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Egg Thief</title>
-    <link>https://mods.vintagestory.at/show/mod/lopoviraptorosauria</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lopoviraptorosauria#13107</guid>
-    <pubDate>Tue, 10 Nov 2026 13:16:56 -0000</pubDate>
-    <description>Oviraptorosaurs, beaked and feathered theropods. 4 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Horrible Hands</title>
-    <link>https://mods.vintagestory.at/show/mod/ornithomimosauria</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ornithomimosauria#13101</guid>
-    <pubDate>Tue, 10 Nov 2026 13:16:34 -0000</pubDate>
-    <description>Ornithomimosaurs, the ostrich dinosaurs. 14 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Ocean Tyrant</title>
-    <link>https://mods.vintagestory.at/show/mod/mosasauridae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mosasauridae#13106</guid>
-    <pubDate>Tue, 10 Nov 2026 13:16:06 -0000</pubDate>
-    <description>Mosasaurs, giant marine lizards. Fully aquatic apex predators. 10 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Long Neck</title>
-    <link>https://mods.vintagestory.at/show/mod/macronaria</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/macronaria#13218</guid>
-    <pubDate>Tue, 10 Nov 2026 13:15:33 -0000</pubDate>
-    <description>Long Neck: macronarian sauropod dinosaurs for Vintage Story. Three-part download.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Thumb Spike</title>
-    <link>https://mods.vintagestory.at/show/mod/lopiguanodontia</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lopiguanodontia#13103</guid>
-    <pubDate>Tue, 10 Nov 2026 13:14:49 -0000</pubDate>
-    <description>Iguanodontians, the thumb-spiked ornithopods. 3 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Shovel Mouth</title>
-    <link>https://mods.vintagestory.at/show/mod/hadrosauroidea</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hadrosauroidea#13214</guid>
-    <pubDate>Tue, 10 Nov 2026 13:14:20 -0000</pubDate>
-    <description>Shovel Mouth: hadrosauroid dinosaurs for Vintage Story. Two-part download.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Birds of Prey</title>
-    <link>https://mods.vintagestory.at/show/mod/dromaeosauridae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dromaeosauridae#13212</guid>
-    <pubDate>Tue, 10 Nov 2026 13:13:48 -0000</pubDate>
-    <description>Birds of Prey: dromaeosaurid dinosaurs for Vintage Story, patched build.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Whip Tail</title>
-    <link>https://mods.vintagestory.at/show/mod/lopdiplodocoidea</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lopdiplodocoidea#13097</guid>
-    <pubDate>Tue, 10 Nov 2026 13:13:21 -0000</pubDate>
-    <description>Diplodocoid sauropods, the long-necked whip-tails. 5 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Elegant Jaw</title>
-    <link>https://mods.vintagestory.at/show/mod/lopcompsognathidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lopcompsognathidae#13213</guid>
-    <pubDate>Tue, 10 Nov 2026 13:09:06 -0000</pubDate>
-    <description>Elegant Jaw: compsognathid dinosaurs for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Horned Crown</title>
-    <link>https://mods.vintagestory.at/show/mod/ceratopsidae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ceratopsidae#13190</guid>
-    <pubDate>Tue, 10 Nov 2026 13:08:43 -0000</pubDate>
-    <description>Legacy of the Phanerozoic: Horned Crown</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Sharp Tooth</title>
-    <link>https://mods.vintagestory.at/show/mod/carcharodontosauridae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/carcharodontosauridae#13114</guid>
-    <pubDate>Tue, 10 Nov 2026 13:08:07 -0000</pubDate>
-    <description>Carcharodontosaurids, giant shark-toothed theropods. 13 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Fused Body</title>
-    <link>https://mods.vintagestory.at/show/mod/ankylosauria</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ankylosauria#13211</guid>
-    <pubDate>Tue, 10 Nov 2026 13:07:33 -0000</pubDate>
-    <description>Fused Body: ankylosaur dinosaurs for Vintage Story, patched build.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Jurassic Giants (Allosauridae)</title>
-    <link>https://mods.vintagestory.at/show/mod/lopallosauridae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lopallosauridae#13104</guid>
-    <pubDate>Tue, 10 Nov 2026 13:07:07 -0000</pubDate>
-    <description>Allosaurids and their kin, the big Jurassic predators. 4 species.</description>
-  </item>
-  <item>
-    <title>Legacy of the Phanerozoic: Carnivorous Bull</title>
-    <link>https://mods.vintagestory.at/show/mod/abelisauridae</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/abelisauridae#13209</guid>
-    <pubDate>Tue, 10 Nov 2026 13:06:40 -0000</pubDate>
-    <description>Carnivorous Bull: abelisaurid dinosaurs for Vintage Story, patched build.</description>
+    <title>Dead</title>
+    <link>https://mods.vintagestory.at/show/mod/dead</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
+    <pubDate>Tue, 10 Nov 2026 19:17:18 -0000</pubDate>
+    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
   </item>
 </channel>
 </rss>
