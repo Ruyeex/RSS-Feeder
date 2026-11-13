@@ -4,27 +4,174 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 12 Nov 2026 23:28:45 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 05:41:21 +0000</lastBuildDate>
+  <item>
+    <title>LocalRUAddon</title>
+    <link>https://mods.vintagestory.at/show/mod/localruaddon</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/localruaddon#13221</guid>
+    <pubDate>Fri, 13 Nov 2026 05:29:12 -0000</pubDate>
+    <description>Русские переводы модов Vintage Story для игры с друзьями</description>
+  </item>
+  <item>
+    <title>Ungreened Maple</title>
+    <link>https://mods.vintagestory.at/show/mod/13298</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13298#13298</guid>
+    <pubDate>Fri, 13 Nov 2026 05:25:57 -0000</pubDate>
+    <description>Ungreens maple!</description>
+  </item>
+  <item>
+    <title>MoreCider</title>
+    <link>https://mods.vintagestory.at/show/mod/13419</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13419#13419</guid>
+    <pubDate>Fri, 13 Nov 2026 05:09:44 -0000</pubDate>
+    <description>Makes the ale recipe give more</description>
+  </item>
+  <item>
+    <title>kris-bronze-additions</title>
+    <link>https://mods.vintagestory.at/show/mod/krisbronzeadditions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krisbronzeadditions#12577</guid>
+    <pubDate>Fri, 13 Nov 2026 04:06:06 -0000</pubDate>
+    <description>Addition to 8 different bronzes for more variations in building</description>
+  </item>
+  <item>
+    <title>kris-copper-additions</title>
+    <link>https://mods.vintagestory.at/show/mod/kriscopperadditions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kriscopperadditions#11951</guid>
+    <pubDate>Fri, 13 Nov 2026 04:05:25 -0000</pubDate>
+    <description>Module adds 8 different types of Copper that can be found in the world</description>
+  </item>
+  <item>
+    <title>Zomb's Purposeful Storage Weapon Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/6142</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6142#6142</guid>
+    <pubDate>Fri, 13 Nov 2026 03:34:16 -0000</pubDate>
+    <description>Unofficial patches to make several weapon mods work with Purposeful Storage.</description>
+  </item>
+  <item>
+    <title>Age of Seraphs Specialized Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/aosspecializedclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aosspecializedclasses#8501</guid>
+    <pubDate>Fri, 13 Nov 2026 03:07:44 -0000</pubDate>
+    <description>Age of Seraphs Specialized Classes Fork</description>
+  </item>
+  <item>
+    <title>Age of Seraphs Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
+    <pubDate>Fri, 13 Nov 2026 02:44:21 -0000</pubDate>
+    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
+  </item>
+  <item>
+    <title>SheatheOrDrop</title>
+    <link>https://mods.vintagestory.at/show/mod/12948</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12948#12948</guid>
+    <pubDate>Fri, 13 Nov 2026 02:29:39 -0000</pubDate>
+    <description>Makes it so weapons may only be carried in the active hotbar slot, the offhand, or a sheath.</description>
+  </item>
+  <item>
+    <title>Real Darkness Forked</title>
+    <link>https://mods.vintagestory.at/show/mod/12727</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12727#12727</guid>
+    <pubDate>Fri, 13 Nov 2026 02:28:46 -0000</pubDate>
+    <description>Removes the fake light in caves and at night</description>
+  </item>
+  <item>
+    <title>Sickle</title>
+    <link>https://mods.vintagestory.at/show/mod/13407</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13407#13407</guid>
+    <pubDate>Fri, 13 Nov 2026 02:21:46 -0000</pubDate>
+    <description>The right tool for the job.</description>
+  </item>
+  <item>
+    <title>fSkills</title>
+    <link>https://mods.vintagestory.at/show/mod/fskills</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fskills#13229</guid>
+    <pubDate>Fri, 13 Nov 2026 02:12:40 -0000</pubDate>
+    <description>A skill and XP mod to support fClasses for Fragments RP.</description>
+  </item>
+  <item>
+    <title>fStats</title>
+    <link>https://mods.vintagestory.at/show/mod/fstats</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fstats#13230</guid>
+    <pubDate>Fri, 13 Nov 2026 02:11:51 -0000</pubDate>
+    <description>A stat library for use with fClasses and fSkills.</description>
+  </item>
+  <item>
+    <title>P1nks Stack Sizes</title>
+    <link>https://mods.vintagestory.at/show/mod/p1nksstacksizes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/p1nksstacksizes#6553</guid>
+    <pubDate>Fri, 13 Nov 2026 02:06:32 -0000</pubDate>
+    <description>Configurable Stack Sizes</description>
+  </item>
+  <item>
+    <title>Seasonal Flowers</title>
+    <link>https://mods.vintagestory.at/show/mod/seasonalflowers</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seasonalflowers#9785</guid>
+    <pubDate>Fri, 13 Nov 2026 01:54:50 -0000</pubDate>
+    <description>Flowers now have a visual lifecycle without adding a single block.</description>
+  </item>
+  <item>
+    <title>Meteoric Iron Blooms</title>
+    <link>https://mods.vintagestory.at/show/mod/meteoricironblooms</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/meteoricironblooms#13416</guid>
+    <pubDate>Fri, 13 Nov 2026 01:53:07 -0000</pubDate>
+    <description>Mine and Smith meteoric iron ore in the Bronze Age</description>
+  </item>
+  <item>
+    <title>Quicksand</title>
+    <link>https://mods.vintagestory.at/show/mod/quicksand</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/quicksand#13244</guid>
+    <pubDate>Fri, 13 Nov 2026 01:11:27 -0000</pubDate>
+    <description>Adds a block that you can sink your teeth, and the rest of you, into.</description>
+  </item>
+  <item>
+    <title>Spec's Specialized Bags Revived</title>
+    <link>https://mods.vintagestory.at/show/mod/specializedbagsrevived</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/specializedbagsrevived#2920</guid>
+    <pubDate>Fri, 13 Nov 2026 00:32:21 -0000</pubDate>
+    <description>Specialty bags and pouches that only hold items related to their category.</description>
+  </item>
+  <item>
+    <title>The Witching Way</title>
+    <link>https://mods.vintagestory.at/show/mod/thewitchingway</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thewitchingway#12917</guid>
+    <pubDate>Fri, 13 Nov 2026 00:23:44 -0000</pubDate>
+    <description>Bringing magical practice into Vintage Story through meaningful mechanics and subtle progression.</description>
+  </item>
+  <item>
+    <title>Licantropomorphia</title>
+    <link>https://mods.vintagestory.at/show/mod/13179</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13179#13179</guid>
+    <pubDate>Fri, 13 Nov 2026 00:17:36 -0000</pubDate>
+    <description>This implements the werewolf curse into the game, bringing with it transformation, lore, and level </description>
+  </item>
+  <item>
+    <title>Nature’s Call – Player Opt-out (Patch)</title>
+    <link>https://mods.vintagestory.at/show/mod/13415</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13415#13415</guid>
+    <pubDate>Fri, 13 Nov 2026 00:10:59 -0000</pubDate>
+    <description>Add-on for Nature’s Call REMADE: players can opt out with /naturescall off (empty bladder, no walkin</description>
+  </item>
+  <item>
+    <title>Just Poop It – Any Liquid Barrels (Patch)</title>
+    <link>https://mods.vintagestory.at/show/mod/13410</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13410#13410</guid>
+    <pubDate>Thu, 12 Nov 2026 23:51:03 -0000</pubDate>
+    <description>Add-on for Just Poop It: barrels that already hold a liquid now accept deposits.</description>
+  </item>
+  <item>
+    <title>Angler's Art of Fishing</title>
+    <link>https://mods.vintagestory.at/show/mod/artoffishing</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/artoffishing#12893</guid>
+    <pubDate>Thu, 12 Nov 2026 23:35:18 -0000</pubDate>
+    <description>Fishing mechanics and tools to enhance the art of fishing</description>
+  </item>
   <item>
     <title>Rustbound Magic Drop Boost</title>
     <link>https://mods.vintagestory.at/show/mod/13413</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13413#13413</guid>
     <pubDate>Thu, 12 Nov 2026 23:25:38 -0000</pubDate>
     <description>Raises sentry and riftbloom drops and adds rust crystal recipes for rusty dust and shifting fibers.</description>
-  </item>
-  <item>
-    <title>fSkills</title>
-    <link>https://mods.vintagestory.at/show/mod/fskills</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fskills#13229</guid>
-    <pubDate>Thu, 12 Nov 2026 23:05:40 -0000</pubDate>
-    <description>A skill and XP mod to support fClasses for Fragments RP.</description>
-  </item>
-  <item>
-    <title>LocalRUAddon</title>
-    <link>https://mods.vintagestory.at/show/mod/localruaddon</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/localruaddon#13221</guid>
-    <pubDate>Thu, 12 Nov 2026 23:02:26 -0000</pubDate>
-    <description>Русские переводы модов Vintage Story для игры с друзьями</description>
   </item>
   <item>
     <title>NoForwardDodge</title>
@@ -67,153 +214,6 @@
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13200#13200</guid>
     <pubDate>Thu, 12 Nov 2026 22:01:13 -0000</pubDate>
     <description>Petroleum Age: Iron &amp; Refining Patch adds iron-friendly recipes, crude oil → bitumen → coke cooking,</description>
-  </item>
-  <item>
-    <title>Sickle</title>
-    <link>https://mods.vintagestory.at/show/mod/13407</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13407#13407</guid>
-    <pubDate>Thu, 12 Nov 2026 21:45:48 -0000</pubDate>
-    <description>The right tool for the job.</description>
-  </item>
-  <item>
-    <title>NDL TreeHollows</title>
-    <link>https://mods.vintagestory.at/show/mod/ndltreehollows</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ndltreehollows#7149</guid>
-    <pubDate>Thu, 12 Nov 2026 20:52:53 -0000</pubDate>
-    <description>Add lootable tree hollows that generate throughout your world!</description>
-  </item>
-  <item>
-    <title>Debarked</title>
-    <link>https://mods.vintagestory.at/show/mod/debarked</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/debarked#12895</guid>
-    <pubDate>Thu, 12 Nov 2026 20:51:59 -0000</pubDate>
-    <description>Intended to be used with Immersive Woodworking. Adds recipes that allows using debarked logs.</description>
-  </item>
-  <item>
-    <title>VSA - uireworked</title>
-    <link>https://mods.vintagestory.at/show/mod/13309</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13309#13309</guid>
-    <pubDate>Thu, 12 Nov 2026 20:50:23 -0000</pubDate>
-    <description>A UI library that other VSA mods build on. It adds nothing to the game by itself.</description>
-  </item>
-  <item>
-    <title>Admin Storage</title>
-    <link>https://mods.vintagestory.at/show/mod/adminstorage</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/adminstorage#13402</guid>
-    <pubDate>Thu, 12 Nov 2026 20:45:12 -0000</pubDate>
-    <description>A simple mod that adds a /adminstorage command for a server-synced storage to be used by admins.</description>
-  </item>
-  <item>
-    <title>After Dusk</title>
-    <link>https://mods.vintagestory.at/show/mod/12925</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12925#12925</guid>
-    <pubDate>Thu, 12 Nov 2026 20:37:43 -0000</pubDate>
-    <description>Adds randomized hauntings during the night.</description>
-  </item>
-  <item>
-    <title>Head Count</title>
-    <link>https://mods.vintagestory.at/show/mod/headcount</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/headcount#13323</guid>
-    <pubDate>Thu, 12 Nov 2026 20:23:30 -0000</pubDate>
-    <description>See whos online your server with a player list, shows their faces too.</description>
-  </item>
-  <item>
-    <title> Auto Map Markers (Client-Side Only)</title>
-    <link>https://mods.vintagestory.at/show/mod/automapmarkersclientside</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/automapmarkersclientside#11048</guid>
-    <pubDate>Thu, 12 Nov 2026 19:57:00 -0000</pubDate>
-    <description>Fork of Auto Map Markers — works with no server-side install required.</description>
-  </item>
-  <item>
-    <title>Diwan's Tools</title>
-    <link>https://mods.vintagestory.at/show/mod/diwanstools</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/diwanstools#13038</guid>
-    <pubDate>Thu, 12 Nov 2026 19:29:27 -0000</pubDate>
-    <description>A mod that adds a delivery register, wax and clay seals for vessels and trunks.</description>
-  </item>
-  <item>
-    <title>Mobs Radar Redux</title>
-    <link>https://mods.vintagestory.at/show/mod/mobsradarredux</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mobsradarredux#13404</guid>
-    <pubDate>Thu, 12 Nov 2026 19:21:31 -0000</pubDate>
-    <description>Fork of Mobs Radar with 30+ new creature icons and color-coded markers for every 1.22 mob and breed.</description>
-  </item>
-  <item>
-    <title>Evenfall Server Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/12676</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12676#12676</guid>
-    <pubDate>Thu, 12 Nov 2026 19:20:20 -0000</pubDate>
-    <description>Compatibility and customization pack for the Evenfall server</description>
-  </item>
-  <item>
-    <title>VSProfiler</title>
-    <link>https://mods.vintagestory.at/show/mod/13239</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13239#13239</guid>
-    <pubDate>Thu, 12 Nov 2026 19:19:22 -0000</pubDate>
-    <description>A mod that's been created to profile and see all the servers cost, along with player fps.</description>
-  </item>
-  <item>
-    <title>Recipebook - Trait-locked recipes tab</title>
-    <link>https://mods.vintagestory.at/show/mod/11047</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11047#11047</guid>
-    <pubDate>Thu, 12 Nov 2026 19:02:11 -0000</pubDate>
-    <description>Adds a Recipes tab to the survival handbook, listing every trait-locked recipe grouped by trait.</description>
-  </item>
-  <item>
-    <title>Player Model NPCs </title>
-    <link>https://mods.vintagestory.at/show/mod/playermodelnpcs</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playermodelnpcs#11158</guid>
-    <pubDate>Thu, 12 Nov 2026 18:49:11 -0000</pubDate>
-    <description>Placeable NPCs that can use any PlayerModelLib model, plus in-game activity and dialogue editor</description>
-  </item>
-  <item>
-    <title>WOO Fantasy Additions</title>
-    <link>https://mods.vintagestory.at/show/mod/woofantasy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/woofantasy#9259</guid>
-    <pubDate>Thu, 12 Nov 2026 18:49:10 -0000</pubDate>
-    <description>A mod focused on bringing the lore of the Oldwood into Vintage Story.</description>
-  </item>
-  <item>
-    <title>Balanced High Fertility Soil Recipe</title>
-    <link>https://mods.vintagestory.at/show/mod/balancedhighfertcraft</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/balancedhighfertcraft#13406</guid>
-    <pubDate>Thu, 12 Nov 2026 18:37:30 -0000</pubDate>
-    <description>Adds a balanced recipe to high fertility soil.</description>
-  </item>
-  <item>
-    <title>OmniPan - Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/13405</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13405#13405</guid>
-    <pubDate>Thu, 12 Nov 2026 18:32:14 -0000</pubDate>
-    <description>This mod adds a chance for the pan to drop any item in the game</description>
-  </item>
-  <item>
-    <title>High View</title>
-    <link>https://mods.vintagestory.at/show/mod/13349</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13349#13349</guid>
-    <pubDate>Thu, 12 Nov 2026 18:23:51 -0000</pubDate>
-    <description>Fly high and see were you are!</description>
-  </item>
-  <item>
-    <title>Evil Ruins</title>
-    <link>https://mods.vintagestory.at/show/mod/11872</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11872#11872</guid>
-    <pubDate>Thu, 12 Nov 2026 18:21:32 -0000</pubDate>
-    <description>Adds more menacing and industrial looking ruins.</description>
-  </item>
-  <item>
-    <title>Dead</title>
-    <link>https://mods.vintagestory.at/show/mod/dead</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/dead#10011</guid>
-    <pubDate>Thu, 12 Nov 2026 18:19:06 -0000</pubDate>
-    <description>Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot</description>
-  </item>
-  <item>
-    <title>fragTweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/13269</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13269#13269</guid>
-    <pubDate>Thu, 12 Nov 2026 17:59:08 -0000</pubDate>
-    <description>various mod tweaks and overwrites utilized on Fragments RP</description>
   </item>
 </channel>
 </rss>
