@@ -4,216 +4,216 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 13 Nov 2026 05:41:21 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 14:10:02 +0000</lastBuildDate>
+  <item>
+    <title>TraderTweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10569</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10569#10569</guid>
+    <pubDate>Fri, 13 Nov 2026 14:07:49 -0000</pubDate>
+    <description>Allow to manage traders</description>
+  </item>
+  <item>
+    <title>DarkGirlStuff</title>
+    <link>https://mods.vintagestory.at/show/mod/11165</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11165#11165</guid>
+    <pubDate>Fri, 13 Nov 2026 14:06:08 -0000</pubDate>
+    <description>ADD some stuff, items, cloths for an server</description>
+  </item>
+  <item>
+    <title>Raw log beams</title>
+    <link>https://mods.vintagestory.at/show/mod/rawlogbeams</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rawlogbeams#13426</guid>
+    <pubDate>Fri, 13 Nov 2026 14:00:33 -0000</pubDate>
+    <description>Adds a beam texture from 1/2 of every quarter logs texture, with the same beam sizes from More Beams</description>
+  </item>
+  <item>
+    <title>Add Some Shingles</title>
+    <link>https://mods.vintagestory.at/show/mod/addsomeshingles</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/addsomeshingles#12741</guid>
+    <pubDate>Fri, 13 Nov 2026 13:56:19 -0000</pubDate>
+    <description>Adds full chiselable blocks for the old clay shingles and the new wood shingles.</description>
+  </item>
+  <item>
+    <title>Deciduous Trees</title>
+    <link>https://mods.vintagestory.at/show/mod/deciduoustrees</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deciduoustrees#9431</guid>
+    <pubDate>Fri, 13 Nov 2026 13:43:37 -0000</pubDate>
+    <description>Lightweight mod where trees shed their leaves based on temperature. MAJOR 2.0 UPDATE!</description>
+  </item>
+  <item>
+    <title>Downed</title>
+    <link>https://mods.vintagestory.at/show/mod/downed</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/downed#9939</guid>
+    <pubDate>Fri, 13 Nov 2026 13:19:53 -0000</pubDate>
+    <description>Replaces the vanilla downed state with a survivable, invulnerable downed state. Quite bloody.</description>
+  </item>
+  <item>
+    <title>PreGen Chunk</title>
+    <link>https://mods.vintagestory.at/show/mod/pregenchunk</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/pregenchunk#13126</guid>
+    <pubDate>Fri, 13 Nov 2026 13:15:06 -0000</pubDate>
+    <description>Generate chunks ahead of time, useful for servers.</description>
+  </item>
+  <item>
+    <title>Recipebook - Trait-locked recipes tab</title>
+    <link>https://mods.vintagestory.at/show/mod/11047</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11047#11047</guid>
+    <pubDate>Fri, 13 Nov 2026 13:14:47 -0000</pubDate>
+    <description>Adds a Recipes tab to the survival handbook, listing every trait-locked recipe grouped by trait.</description>
+  </item>
+  <item>
+    <title>BuildWright</title>
+    <link>https://mods.vintagestory.at/show/mod/buildwright</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/buildwright#12767</guid>
+    <pubDate>Fri, 13 Nov 2026 13:11:30 -0000</pubDate>
+    <description>Client-side blueprints, ghost projections and build progress tools.</description>
+  </item>
+  <item>
+    <title>VSRP Bridge Client</title>
+    <link>https://mods.vintagestory.at/show/mod/12877</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12877#12877</guid>
+    <pubDate>Fri, 13 Nov 2026 13:08:11 -0000</pubDate>
+    <description>A companion mod for the VSRP Bridge mod.</description>
+  </item>
+  <item>
+    <title>Cottage Industry</title>
+    <link>https://mods.vintagestory.at/show/mod/cottageindustry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cottageindustry#12903</guid>
+    <pubDate>Fri, 13 Nov 2026 13:05:26 -0000</pubDate>
+    <description>Highly immersive medieval production infrastructure. Featuring: ROLLABLE BARRELS</description>
+  </item>
+  <item>
+    <title>Character Creator Statis</title>
+    <link>https://mods.vintagestory.at/show/mod/charcreatorstatis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/charcreatorstatis#13430</guid>
+    <pubDate>Fri, 13 Nov 2026 13:04:30 -0000</pubDate>
+    <description>Stops hunger and thirst while a player is in the character selection screen.</description>
+  </item>
   <item>
     <title>LocalRUAddon</title>
     <link>https://mods.vintagestory.at/show/mod/localruaddon</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/localruaddon#13221</guid>
-    <pubDate>Fri, 13 Nov 2026 05:29:12 -0000</pubDate>
+    <pubDate>Fri, 13 Nov 2026 12:37:27 -0000</pubDate>
     <description>Русские переводы модов Vintage Story для игры с друзьями</description>
   </item>
   <item>
-    <title>Ungreened Maple</title>
-    <link>https://mods.vintagestory.at/show/mod/13298</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13298#13298</guid>
-    <pubDate>Fri, 13 Nov 2026 05:25:57 -0000</pubDate>
-    <description>Ungreens maple!</description>
+    <title>Mobs Radar Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/mobsradarredux</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mobsradarredux#13404</guid>
+    <pubDate>Fri, 13 Nov 2026 12:13:14 -0000</pubDate>
+    <description>Tracks animals, hostiles, riftborns, items and other entities on the minimap.</description>
   </item>
   <item>
-    <title>MoreCider</title>
-    <link>https://mods.vintagestory.at/show/mod/13419</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13419#13419</guid>
-    <pubDate>Fri, 13 Nov 2026 05:09:44 -0000</pubDate>
-    <description>Makes the ale recipe give more</description>
+    <title>Old Mod Cleanup</title>
+    <link>https://mods.vintagestory.at/show/mod/13429</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13429#13429</guid>
+    <pubDate>Fri, 13 Nov 2026 12:07:57 -0000</pubDate>
+    <description>Deletes old versions of server-downloaded mods when joining a server</description>
   </item>
   <item>
-    <title>kris-bronze-additions</title>
-    <link>https://mods.vintagestory.at/show/mod/krisbronzeadditions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krisbronzeadditions#12577</guid>
-    <pubDate>Fri, 13 Nov 2026 04:06:06 -0000</pubDate>
-    <description>Addition to 8 different bronzes for more variations in building</description>
+    <title>VSCN Language Pack Updater</title>
+    <link>https://mods.vintagestory.at/show/mod/vscnlangpackupdater</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vscnlangpackupdater#10107</guid>
+    <pubDate>Fri, 13 Nov 2026 11:50:12 -0000</pubDate>
+    <description>VintageStory-Chinese-Language-Package Updater</description>
   </item>
   <item>
-    <title>kris-copper-additions</title>
-    <link>https://mods.vintagestory.at/show/mod/kriscopperadditions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kriscopperadditions#11951</guid>
-    <pubDate>Fri, 13 Nov 2026 04:05:25 -0000</pubDate>
-    <description>Module adds 8 different types of Copper that can be found in the world</description>
+    <title>Neko's Grass Rope</title>
+    <link>https://mods.vintagestory.at/show/mod/13427</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13427#13427</guid>
+    <pubDate>Fri, 13 Nov 2026 11:22:18 -0000</pubDate>
+    <description>A simple recipe mod that gives your rope from dried grass.</description>
   </item>
   <item>
-    <title>Zomb's Purposeful Storage Weapon Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/6142</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6142#6142</guid>
-    <pubDate>Fri, 13 Nov 2026 03:34:16 -0000</pubDate>
-    <description>Unofficial patches to make several weapon mods work with Purposeful Storage.</description>
+    <title>SimpleNetwork</title>
+    <link>https://mods.vintagestory.at/show/mod/simplenetwork</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplenetwork#13424</guid>
+    <pubDate>Fri, 13 Nov 2026 10:40:05 -0000</pubDate>
+    <description>Link chests into one storage network: search, craft, go wireless, and automate with import/export.</description>
   </item>
   <item>
-    <title>Age of Seraphs Specialized Classes</title>
-    <link>https://mods.vintagestory.at/show/mod/aosspecializedclasses</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aosspecializedclasses#8501</guid>
-    <pubDate>Fri, 13 Nov 2026 03:07:44 -0000</pubDate>
-    <description>Age of Seraphs Specialized Classes Fork</description>
+    <title>AntiXray Immune</title>
+    <link>https://mods.vintagestory.at/show/mod/antixrayimmune</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antixrayimmune#13425</guid>
+    <pubDate>Fri, 13 Nov 2026 10:38:19 -0000</pubDate>
+    <description>This is a server-side only mod, meaning players do not need to install anything on their clients.</description>
   </item>
   <item>
-    <title>Age of Seraphs Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
-    <pubDate>Fri, 13 Nov 2026 02:44:21 -0000</pubDate>
-    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
+    <title>LoP-Core</title>
+    <link>https://mods.vintagestory.at/show/mod/lopcore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lopcore#13204</guid>
+    <pubDate>Fri, 13 Nov 2026 10:35:51 -0000</pubDate>
+    <description>Shared core for laughinggas's Legacy of the Phanerozoic series. Required by every LoP pack.</description>
   </item>
   <item>
-    <title>SheatheOrDrop</title>
-    <link>https://mods.vintagestory.at/show/mod/12948</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12948#12948</guid>
-    <pubDate>Fri, 13 Nov 2026 02:29:39 -0000</pubDate>
-    <description>Makes it so weapons may only be carried in the active hotbar slot, the offhand, or a sheath.</description>
+    <title>Eternal Seraph: Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
+    <pubDate>Fri, 13 Nov 2026 10:29:13 -0000</pubDate>
+    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
   </item>
   <item>
-    <title>Real Darkness Forked</title>
-    <link>https://mods.vintagestory.at/show/mod/12727</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12727#12727</guid>
-    <pubDate>Fri, 13 Nov 2026 02:28:46 -0000</pubDate>
-    <description>Removes the fake light in caves and at night</description>
+    <title>Legacy of the Phanerozoic: Tyrant King</title>
+    <link>https://mods.vintagestory.at/show/mod/tyrannosauridae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tyrannosauridae#13116</guid>
+    <pubDate>Fri, 13 Nov 2026 10:29:06 -0000</pubDate>
+    <description>Tyrannosaurids, the tyrant lizards. 12 species.</description>
   </item>
   <item>
-    <title>Sickle</title>
-    <link>https://mods.vintagestory.at/show/mod/13407</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13407#13407</guid>
-    <pubDate>Fri, 13 Nov 2026 02:21:46 -0000</pubDate>
-    <description>The right tool for the job.</description>
+    <title>Legacy of the Phanerozoic: Plated Back</title>
+    <link>https://mods.vintagestory.at/show/mod/stegosauria</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stegosauria#13108</guid>
+    <pubDate>Fri, 13 Nov 2026 10:23:48 -0000</pubDate>
+    <description>Stegosaurs, the plated dinosaurs. 12 species.</description>
   </item>
   <item>
-    <title>fSkills</title>
-    <link>https://mods.vintagestory.at/show/mod/fskills</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fskills#13229</guid>
-    <pubDate>Fri, 13 Nov 2026 02:12:40 -0000</pubDate>
-    <description>A skill and XP mod to support fClasses for Fragments RP.</description>
+    <title>Legacy of the Phanerozoic: Ocean Tyrant</title>
+    <link>https://mods.vintagestory.at/show/mod/mosasauridae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mosasauridae#13106</guid>
+    <pubDate>Fri, 13 Nov 2026 10:18:43 -0000</pubDate>
+    <description>Mosasaurs, giant marine lizards. Fully aquatic apex predators. 10 species.</description>
   </item>
   <item>
-    <title>fStats</title>
-    <link>https://mods.vintagestory.at/show/mod/fstats</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fstats#13230</guid>
-    <pubDate>Fri, 13 Nov 2026 02:11:51 -0000</pubDate>
-    <description>A stat library for use with fClasses and fSkills.</description>
+    <title>Legacy of the Phanerozoic: Long Neck (Part 3)</title>
+    <link>https://mods.vintagestory.at/show/mod/macronariapart3</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/macronariapart3#13261</guid>
+    <pubDate>Fri, 13 Nov 2026 10:14:33 -0000</pubDate>
+    <description>Part 3 of 3 for Long Neck. Required, installs automatically.</description>
   </item>
   <item>
-    <title>P1nks Stack Sizes</title>
-    <link>https://mods.vintagestory.at/show/mod/p1nksstacksizes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/p1nksstacksizes#6553</guid>
-    <pubDate>Fri, 13 Nov 2026 02:06:32 -0000</pubDate>
-    <description>Configurable Stack Sizes</description>
+    <title>Legacy of the Phanerozoic: Long Neck (Part 2)</title>
+    <link>https://mods.vintagestory.at/show/mod/macronariapart2</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/macronariapart2#13219</guid>
+    <pubDate>Fri, 13 Nov 2026 10:10:02 -0000</pubDate>
+    <description>Part 2 of 3 for Long Neck. Required with Part 1, installs automatically.</description>
   </item>
   <item>
-    <title>Seasonal Flowers</title>
-    <link>https://mods.vintagestory.at/show/mod/seasonalflowers</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seasonalflowers#9785</guid>
-    <pubDate>Fri, 13 Nov 2026 01:54:50 -0000</pubDate>
-    <description>Flowers now have a visual lifecycle without adding a single block.</description>
+    <title>Legacy of the Phanerozoic: Long Neck</title>
+    <link>https://mods.vintagestory.at/show/mod/macronaria</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/macronaria#13218</guid>
+    <pubDate>Fri, 13 Nov 2026 10:05:34 -0000</pubDate>
+    <description>Long Neck: macronarian sauropod dinosaurs for Vintage Story. Three-part download.</description>
   </item>
   <item>
-    <title>Meteoric Iron Blooms</title>
-    <link>https://mods.vintagestory.at/show/mod/meteoricironblooms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/meteoricironblooms#13416</guid>
-    <pubDate>Fri, 13 Nov 2026 01:53:07 -0000</pubDate>
-    <description>Mine and Smith meteoric iron ore in the Bronze Age</description>
+    <title>Legacy of the Phanerozoic: Shovel Mouth</title>
+    <link>https://mods.vintagestory.at/show/mod/hadrosauroidea</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hadrosauroidea#13214</guid>
+    <pubDate>Fri, 13 Nov 2026 10:01:53 -0000</pubDate>
+    <description>Shovel Mouth: hadrosauroid dinosaurs for Vintage Story. Two-part download.</description>
   </item>
   <item>
-    <title>Quicksand</title>
-    <link>https://mods.vintagestory.at/show/mod/quicksand</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/quicksand#13244</guid>
-    <pubDate>Fri, 13 Nov 2026 01:11:27 -0000</pubDate>
-    <description>Adds a block that you can sink your teeth, and the rest of you, into.</description>
+    <title>Legacy of the Phanerozoic: Whip Tail</title>
+    <link>https://mods.vintagestory.at/show/mod/lopdiplodocoidea</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lopdiplodocoidea#13097</guid>
+    <pubDate>Fri, 13 Nov 2026 09:56:49 -0000</pubDate>
+    <description>Diplodocoid sauropods, the long-necked whip-tails. 5 species.</description>
   </item>
   <item>
-    <title>Spec's Specialized Bags Revived</title>
-    <link>https://mods.vintagestory.at/show/mod/specializedbagsrevived</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/specializedbagsrevived#2920</guid>
-    <pubDate>Fri, 13 Nov 2026 00:32:21 -0000</pubDate>
-    <description>Specialty bags and pouches that only hold items related to their category.</description>
-  </item>
-  <item>
-    <title>The Witching Way</title>
-    <link>https://mods.vintagestory.at/show/mod/thewitchingway</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/thewitchingway#12917</guid>
-    <pubDate>Fri, 13 Nov 2026 00:23:44 -0000</pubDate>
-    <description>Bringing magical practice into Vintage Story through meaningful mechanics and subtle progression.</description>
-  </item>
-  <item>
-    <title>Licantropomorphia</title>
-    <link>https://mods.vintagestory.at/show/mod/13179</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13179#13179</guid>
-    <pubDate>Fri, 13 Nov 2026 00:17:36 -0000</pubDate>
-    <description>This implements the werewolf curse into the game, bringing with it transformation, lore, and level </description>
-  </item>
-  <item>
-    <title>Nature’s Call – Player Opt-out (Patch)</title>
-    <link>https://mods.vintagestory.at/show/mod/13415</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13415#13415</guid>
-    <pubDate>Fri, 13 Nov 2026 00:10:59 -0000</pubDate>
-    <description>Add-on for Nature’s Call REMADE: players can opt out with /naturescall off (empty bladder, no walkin</description>
-  </item>
-  <item>
-    <title>Just Poop It – Any Liquid Barrels (Patch)</title>
-    <link>https://mods.vintagestory.at/show/mod/13410</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13410#13410</guid>
-    <pubDate>Thu, 12 Nov 2026 23:51:03 -0000</pubDate>
-    <description>Add-on for Just Poop It: barrels that already hold a liquid now accept deposits.</description>
-  </item>
-  <item>
-    <title>Angler's Art of Fishing</title>
-    <link>https://mods.vintagestory.at/show/mod/artoffishing</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/artoffishing#12893</guid>
-    <pubDate>Thu, 12 Nov 2026 23:35:18 -0000</pubDate>
-    <description>Fishing mechanics and tools to enhance the art of fishing</description>
-  </item>
-  <item>
-    <title>Rustbound Magic Drop Boost</title>
-    <link>https://mods.vintagestory.at/show/mod/13413</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13413#13413</guid>
-    <pubDate>Thu, 12 Nov 2026 23:25:38 -0000</pubDate>
-    <description>Raises sentry and riftbloom drops and adds rust crystal recipes for rusty dust and shifting fibers.</description>
-  </item>
-  <item>
-    <title>NoForwardDodge</title>
-    <link>https://mods.vintagestory.at/show/mod/13411</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13411#13411</guid>
-    <pubDate>Thu, 12 Nov 2026 22:59:37 -0000</pubDate>
-    <description>Disables the forward dodge of Dodge Master, leaving only the side and back dodges</description>
-  </item>
-  <item>
-    <title>Insulated Japanese Architecture</title>
-    <link>https://mods.vintagestory.at/show/mod/12413</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12413#12413</guid>
-    <pubDate>Thu, 12 Nov 2026 22:53:30 -0000</pubDate>
-    <description>The same Japanese Archictecture but with insolation and more wood types.</description>
-  </item>
-  <item>
-    <title>Stamina</title>
-    <link>https://mods.vintagestory.at/show/mod/stamina</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/stamina#13249</guid>
-    <pubDate>Thu, 12 Nov 2026 22:48:09 -0000</pubDate>
-    <description>Adds a stamina bar, making sprinting, swimming, jumping and Combat Overhaul actions cost stamina</description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Chapter 2</title>
-    <link>https://mods.vintagestory.at/show/mod/11428</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
-    <pubDate>Thu, 12 Nov 2026 22:14:20 -0000</pubDate>
-    <description>Chapter 2 additions for C&amp;C.</description>
-  </item>
-  <item>
-    <title>Navarlio Customs</title>
-    <link>https://mods.vintagestory.at/show/mod/navarliocustoms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/navarliocustoms#1522</guid>
-    <pubDate>Thu, 12 Nov 2026 22:07:55 -0000</pubDate>
-    <description>Custom crafts for the Navarlio server.</description>
-  </item>
-  <item>
-    <title>Petroleum Age: Iron &amp; Refining Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/13200</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13200#13200</guid>
-    <pubDate>Thu, 12 Nov 2026 22:01:13 -0000</pubDate>
-    <description>Petroleum Age: Iron &amp; Refining Patch adds iron-friendly recipes, crude oil → bitumen → coke cooking,</description>
+    <title>Legacy of the Phanerozoic: Horned Crown</title>
+    <link>https://mods.vintagestory.at/show/mod/ceratopsidae</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ceratopsidae#13190</guid>
+    <pubDate>Fri, 13 Nov 2026 09:52:07 -0000</pubDate>
+    <description>Legacy of the Phanerozoic: Horned Crown</description>
   </item>
 </channel>
 </rss>
