@@ -4,216 +4,216 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Fri, 20 Nov 2026 02:05:06 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 11:01:24 +0000</lastBuildDate>
   <item>
-    <title>The Revived Lands [PATCHES]</title>
-    <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
-    <pubDate>Fri, 20 Nov 2026 01:58:44 -0000</pubDate>
-    <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
+    <title>fSkills</title>
+    <link>https://mods.vintagestory.at/show/mod/fskills</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fskills#13229</guid>
+    <pubDate>Fri, 20 Nov 2026 10:49:48 -0000</pubDate>
+    <description>A skill and XP mod to support fClasses for Fragments RP.</description>
   </item>
   <item>
-    <title>Diverse Diets</title>
-    <link>https://mods.vintagestory.at/show/mod/diversediets</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/diversediets#4006</guid>
-    <pubDate>Fri, 20 Nov 2026 01:46:32 -0000</pubDate>
-    <description>Allows base game foods to be used for feeding animals and placed in troughs</description>
+    <title>Seraph Civilization Patches</title>
+    <link>https://mods.vintagestory.at/show/mod/scpmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scpmod#13634</guid>
+    <pubDate>Fri, 20 Nov 2026 10:04:32 -0000</pubDate>
+    <description>A compatibility fixes mod</description>
   </item>
   <item>
     <title>Seraph Civilization Simulation</title>
     <link>https://mods.vintagestory.at/show/mod/scsmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scsmod#13513</guid>
-    <pubDate>Fri, 20 Nov 2026 01:44:40 -0000</pubDate>
-    <description>A dedicated mod for Seraph Civilization Simulation.</description>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/scsmod#13633</guid>
+    <pubDate>Fri, 20 Nov 2026 10:02:41 -0000</pubDate>
+    <description>A dedicated mod for Seraph Civilization Simulation</description>
   </item>
   <item>
     <title>Seraph Living Survival Simulation</title>
     <link>https://mods.vintagestory.at/show/mod/slssmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slssmod#13512</guid>
-    <pubDate>Fri, 20 Nov 2026 01:44:16 -0000</pubDate>
-    <description>A survival simulation Mod</description>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/slssmod#13632</guid>
+    <pubDate>Fri, 20 Nov 2026 09:59:20 -0000</pubDate>
+    <description>A simple survival simulation mod</description>
   </item>
   <item>
-    <title>Artisan Tools</title>
-    <link>https://mods.vintagestory.at/show/mod/artisantools</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/artisantools#13417</guid>
-    <pubDate>Fri, 20 Nov 2026 01:43:16 -0000</pubDate>
-    <description>Customisable tools built with tool heads, handles and grips</description>
+    <title>Story Forge</title>
+    <link>https://mods.vintagestory.at/show/mod/storyforge</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/storyforge#5894</guid>
+    <pubDate>Fri, 20 Nov 2026 09:55:51 -0000</pubDate>
+    <description>Story Forge: Vintage Story launcher optimized for Windows, macOS and Linux (even Steam Deck)</description>
   </item>
   <item>
-    <title>CB Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/8781</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8781#8781</guid>
-    <pubDate>Fri, 20 Nov 2026 01:42:17 -0000</pubDate>
-    <description>JSON content patches</description>
+    <title>Partial Block Light Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/13630</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13630#13630</guid>
+    <pubDate>Fri, 20 Nov 2026 09:34:19 -0000</pubDate>
+    <description>Fixes small animals and dropped items turning black on paths, and animals despawning there</description>
   </item>
   <item>
-    <title>servertickfixes</title>
-    <link>https://mods.vintagestory.at/show/mod/13446</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13446#13446</guid>
-    <pubDate>Fri, 20 Nov 2026 01:42:10 -0000</pubDate>
-    <description>Custom mod for fixing Fragments server side</description>
+    <title>Teapot's Giant Scorpion</title>
+    <link>https://mods.vintagestory.at/show/mod/teapotsgiantscorpion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantscorpion#13440</guid>
+    <pubDate>Fri, 20 Nov 2026 08:30:57 -0000</pubDate>
+    <description>Giant scorpions with charging attacks and long-lasting poison, spawning where ores run rich.</description>
+  </item>
+  <item>
+    <title>The Revived Lands [PATCHES]</title>
+    <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
+    <pubDate>Fri, 20 Nov 2026 08:29:20 -0000</pubDate>
+    <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
+  </item>
+  <item>
+    <title>Skillscapes.BETA 5.3.9</title>
+    <link>https://mods.vintagestory.at/show/mod/13568</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13568#13568</guid>
+    <pubDate>Fri, 20 Nov 2026 08:22:40 -0000</pubDate>
+    <description>Skillscapes.BETA</description>
+  </item>
+  <item>
+    <title>Art of Adornments</title>
+    <link>https://mods.vintagestory.at/show/mod/artofadornments</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/artofadornments#12105</guid>
+    <pubDate>Fri, 20 Nov 2026 08:21:32 -0000</pubDate>
+    <description>The ultimate medieval-fantasy-inspired Vintage Story clothing &amp; accessory mod.</description>
+  </item>
+  <item>
+    <title>Realistic Animal Behavior</title>
+    <link>https://mods.vintagestory.at/show/mod/realisticanimalbehavior</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticanimalbehavior#13472</guid>
+    <pubDate>Fri, 20 Nov 2026 08:20:11 -0000</pubDate>
+    <description>Animals avoid water and cliffs, predators fear fire.</description>
+  </item>
+  <item>
+    <title>GGBC's Repair</title>
+    <link>https://mods.vintagestory.at/show/mod/ggbcsrepair</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ggbcsrepair#6561</guid>
+    <pubDate>Fri, 20 Nov 2026 08:16:09 -0000</pubDate>
+    <description>A very lightweight mod for balanced item repair. Compatible with ItemRarity, xSkills, and others</description>
+  </item>
+  <item>
+    <title>Art of Anatomy</title>
+    <link>https://mods.vintagestory.at/show/mod/artofanatomy</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/artofanatomy#12188</guid>
+    <pubDate>Fri, 20 Nov 2026 08:15:46 -0000</pubDate>
+    <description>Body adornment additions &amp; mod support. Ears for all races &amp; eyelashes.</description>
+  </item>
+  <item>
+    <title>GGBC's Model Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ggbcsmodeltweaks#10440</guid>
+    <pubDate>Fri, 20 Nov 2026 08:15:29 -0000</pubDate>
+    <description>Optimizes Models without notable visual difference. Fixes Z-fighting.</description>
+  </item>
+  <item>
+    <title>fCombatBalance</title>
+    <link>https://mods.vintagestory.at/show/mod/13266</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13266#13266</guid>
+    <pubDate>Fri, 20 Nov 2026 06:45:59 -0000</pubDate>
+    <description>Combat and Item Balance for Fragments RP.</description>
+  </item>
+  <item>
+    <title>kris-bronze-additions</title>
+    <link>https://mods.vintagestory.at/show/mod/krisbronzeadditions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/krisbronzeadditions#12577</guid>
+    <pubDate>Fri, 20 Nov 2026 06:39:36 -0000</pubDate>
+    <description>Addition to 8 different bronzes for more variations in building</description>
+  </item>
+  <item>
+    <title>kris-copper-additions</title>
+    <link>https://mods.vintagestory.at/show/mod/kriscopperadditions</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/kriscopperadditions#11951</guid>
+    <pubDate>Fri, 20 Nov 2026 06:38:51 -0000</pubDate>
+    <description>Module adds 8 different types of Copper that can be found in the world</description>
+  </item>
+  <item>
+    <title>Ben's Texture Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/6591</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6591#6591</guid>
+    <pubDate>Fri, 20 Nov 2026 06:25:02 -0000</pubDate>
+    <description>A few texture tweaks for my server.</description>
+  </item>
+  <item>
+    <title>LamellarPlus</title>
+    <link>https://mods.vintagestory.at/show/mod/lamellarplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lamellarplus#13259</guid>
+    <pubDate>Fri, 20 Nov 2026 06:11:22 -0000</pubDate>
+    <description>Adds high tier lamellar armor and remodels all lamellar. CO support included.</description>
   </item>
   <item>
     <title>CB Harmony Patches</title>
     <link>https://mods.vintagestory.at/show/mod/8811</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8811#8811</guid>
-    <pubDate>Fri, 20 Nov 2026 01:41:19 -0000</pubDate>
+    <pubDate>Fri, 20 Nov 2026 05:57:50 -0000</pubDate>
     <description>Harmony patches for compatibility.</description>
   </item>
   <item>
-    <title>Meadows Server Tweaks</title>
-    <link>https://mods.vintagestory.at/show/mod/10662</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10662#10662</guid>
-    <pubDate>Fri, 20 Nov 2026 01:10:37 -0000</pubDate>
-    <description>Nothing fancy, just server-specific adjustments</description>
+    <title>Better Pyrolysis</title>
+    <link>https://mods.vintagestory.at/show/mod/10228</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10228#10228</guid>
+    <pubDate>Fri, 20 Nov 2026 05:33:50 -0000</pubDate>
+    <description>Adds several new features regarding pyrolyzing different fuels in coke ovens.</description>
   </item>
   <item>
-    <title>Vow of the Unvanquished Class Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/vowunvanquishedclassmod</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vowunvanquishedclassmod#10848</guid>
-    <pubDate>Fri, 20 Nov 2026 01:00:54 -0000</pubDate>
-    <description>A class mod specific to the upcoming Vow of the Unvanquished Roleplay Server</description>
+    <title>Player Corpse (Azu Modded)</title>
+    <link>https://mods.vintagestory.at/show/mod/playercorpseforkedazu</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/playercorpseforkedazu#9221</guid>
+    <pubDate>Fri, 20 Nov 2026 05:26:21 -0000</pubDate>
+    <description>Creates a corpse with the player's inventory after death (1.22+)</description>
+  </item>
+  <item>
+    <title>Better Bars</title>
+    <link>https://mods.vintagestory.at/show/mod/13594</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13594#13594</guid>
+    <pubDate>Fri, 20 Nov 2026 05:17:51 -0000</pubDate>
+    <description>Better Bars</description>
+  </item>
+  <item>
+    <title>Saguaro</title>
+    <link>https://mods.vintagestory.at/show/mod/saguaro</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/saguaro#12339</guid>
+    <pubDate>Fri, 20 Nov 2026 05:16:29 -0000</pubDate>
+    <description>Makes Saguaro Cacti actually grow</description>
+  </item>
+  <item>
+    <title>VS Siding Mod</title>
+    <link>https://mods.vintagestory.at/show/mod/vssiding</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vssiding#12036</guid>
+    <pubDate>Fri, 20 Nov 2026 05:15:35 -0000</pubDate>
+    <description>Layered wall building: framing, infill, and finish materials for thinner, more realistic walls</description>
+  </item>
+  <item>
+    <title>Status HUD skins - yayo1</title>
+    <link>https://mods.vintagestory.at/show/mod/13628</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13628#13628</guid>
+    <pubDate>Fri, 20 Nov 2026 05:12:36 -0000</pubDate>
+    <description>skins for statushud you need both to work</description>
   </item>
   <item>
     <title>Shroudhaven Tweaks</title>
     <link>https://mods.vintagestory.at/show/mod/shroudhaventweaks</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shroudhaventweaks#13626</guid>
-    <pubDate>Fri, 20 Nov 2026 00:59:17 -0000</pubDate>
+    <pubDate>Fri, 20 Nov 2026 05:11:34 -0000</pubDate>
     <description>Some tweaks for the Vow of the Unvanquished: Shroudhaven server.</description>
   </item>
   <item>
-    <title>Blood Fennel Compatibility</title>
-    <link>https://mods.vintagestory.at/show/mod/11296</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11296#11296</guid>
-    <pubDate>Fri, 20 Nov 2026 00:52:10 -0000</pubDate>
-    <description>Bridges my two mods, "More Blood Thingies," and "Fennel Swag."</description>
+    <title>fStats</title>
+    <link>https://mods.vintagestory.at/show/mod/fstats</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fstats#13230</guid>
+    <pubDate>Fri, 20 Nov 2026 05:00:30 -0000</pubDate>
+    <description>A stat library for use with fClasses and fSkills.</description>
   </item>
   <item>
-    <title>More Blood Thingies!</title>
-    <link>https://mods.vintagestory.at/show/mod/10959</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10959#10959</guid>
-    <pubDate>Fri, 20 Nov 2026 00:48:06 -0000</pubDate>
-    <description>Adds all the features for bloodbread that should have been.</description>
+    <title>Lunchbox</title>
+    <link>https://mods.vintagestory.at/show/mod/lunchbox</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lunchbox#6518</guid>
+    <pubDate>Fri, 20 Nov 2026 04:52:52 -0000</pubDate>
+    <description>Adds storage containers which automatically feeds the player when hungry</description>
   </item>
   <item>
-    <title>Fennel Swag</title>
-    <link>https://mods.vintagestory.at/show/mod/11294</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11294#11294</guid>
-    <pubDate>Fri, 20 Nov 2026 00:46:32 -0000</pubDate>
-    <description>Adds some features for fennel because it isn't any good</description>
-  </item>
-  <item>
-    <title>Hide Unknown Trait Recipes</title>
-    <link>https://mods.vintagestory.at/show/mod/hideunknowntraitrecipes</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hideunknowntraitrecipes#13615</guid>
-    <pubDate>Fri, 20 Nov 2026 00:38:47 -0000</pubDate>
-    <description>Hides recipes in the handbook that require traits that aren't in your class.</description>
-  </item>
-  <item>
-    <title>Volume Balancer for Antique Harmony</title>
-    <link>https://mods.vintagestory.at/show/mod/musictrim</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/musictrim#12168</guid>
-    <pubDate>Fri, 20 Nov 2026 00:35:55 -0000</pubDate>
-    <description>Makes Vanilla music's average volume match Antique Harmony's</description>
-  </item>
-  <item>
-    <title>Quartermaster</title>
-    <link>https://mods.vintagestory.at/show/mod/9908</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9908#9908</guid>
-    <pubDate>Fri, 20 Nov 2026 00:25:41 -0000</pubDate>
-    <description>Manage local inventory stored in trunks, chests, vessels and crates from one desk.</description>
-  </item>
-  <item>
-    <title>Evil Ruins</title>
-    <link>https://mods.vintagestory.at/show/mod/11872</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11872#11872</guid>
-    <pubDate>Fri, 20 Nov 2026 00:06:15 -0000</pubDate>
-    <description>Adds more menacing and industrial looking ruins.</description>
-  </item>
-  <item>
-    <title>Variations on a Meal - Revaried</title>
-    <link>https://mods.vintagestory.at/show/mod/mealrevariation</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mealrevariation#8569</guid>
-    <pubDate>Thu, 19 Nov 2026 23:51:00 -0000</pubDate>
-    <description>Adds more ingredient options to cooking for vanilla meals and pies. Forked for 1.22.</description>
-  </item>
-  <item>
-    <title>I-S-T Chests</title>
-    <link>https://mods.vintagestory.at/show/mod/3231</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3231#3231</guid>
-    <pubDate>Thu, 19 Nov 2026 23:50:28 -0000</pubDate>
-    <description>Adds ice, salt and temporal chests that preserve food exceptionally well.</description>
-  </item>
-  <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Thu, 19 Nov 2026 23:50:14 -0000</pubDate>
-    <description>Gives tamed animals personalities, backpacks, duties, talents, breeding, and expeditions.</description>
-  </item>
-  <item>
-    <title>Prosequor - Skills, Levels, Trees and Stats</title>
-    <link>https://mods.vintagestory.at/show/mod/11674</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11674#11674</guid>
-    <pubDate>Thu, 19 Nov 2026 23:49:20 -0000</pubDate>
-    <description>Adds a full-throated, first-class skill, levelling and attributes system to Vintage Story.</description>
-  </item>
-  <item>
-    <title>Komet - Performance Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/komet</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/komet#11423</guid>
-    <pubDate>Thu, 19 Nov 2026 23:29:54 -0000</pubDate>
-    <description>Komet is an awesome performance mod!</description>
-  </item>
-  <item>
-    <title>Skaven/Rat Player Race</title>
-    <link>https://mods.vintagestory.at/show/mod/skavenratplayermodel</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/skavenratplayermodel#5322</guid>
-    <pubDate>Thu, 19 Nov 2026 23:20:14 -0000</pubDate>
-    <description>Adds a Skaven/Rat Player Race to the game, it uses Player Model Lib!</description>
-  </item>
-  <item>
-    <title>Alegacy SteamWorks</title>
-    <link>https://mods.vintagestory.at/show/mod/alegacysteamworks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacysteamworks#13423</guid>
-    <pubDate>Thu, 19 Nov 2026 23:12:55 -0000</pubDate>
-    <description>Steam machines from blueprints: trains, boats, drill mole, pipes, mining, radio. Best with an ocean.</description>
-  </item>
-  <item>
-    <title>Ashen Legacy: Zenith</title>
-    <link>https://mods.vintagestory.at/show/mod/alzenith</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alzenith#13290</guid>
-    <pubDate>Thu, 19 Nov 2026 23:09:48 -0000</pubDate>
-    <description>Alegacy server quest pack</description>
-  </item>
-  <item>
-    <title>Alegacy Server: Patches</title>
-    <link>https://mods.vintagestory.at/show/mod/6997</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6997#6997</guid>
-    <pubDate>Thu, 19 Nov 2026 23:09:36 -0000</pubDate>
-    <description>targeted patches for the Alegacy server setup</description>
-  </item>
-  <item>
-    <title>Alegacy: Foundation</title>
-    <link>https://mods.vintagestory.at/show/mod/albase</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/albase#6694</guid>
-    <pubDate>Thu, 19 Nov 2026 23:09:08 -0000</pubDate>
-    <description>Foundation quest pack for the Alegacy Server.</description>
-  </item>
-  <item>
-    <title>Alegacy Quest Framework</title>
-    <link>https://mods.vintagestory.at/show/mod/alegacyquestframework</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/alegacyquestframework#6609</guid>
-    <pubDate>Thu, 19 Nov 2026 23:08:42 -0000</pubDate>
-    <description>Alegacy Quest Framework is a full-featured quest and boss combat engine for Vintage Story.</description>
-  </item>
-  <item>
-    <title>Arcanum Lib</title>
-    <link>https://mods.vintagestory.at/show/mod/arcanumlib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/arcanumlib#11325</guid>
-    <pubDate>Thu, 19 Nov 2026 23:07:16 -0000</pubDate>
-    <description>A shared utility library for Vintage Story: HUD, particles, effects, persistence, and more.</description>
+    <title>Meadows Server Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/11855</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11855#11855</guid>
+    <pubDate>Fri, 20 Nov 2026 04:49:00 -0000</pubDate>
+    <description>Tweaks for a server</description>
   </item>
 </channel>
 </rss>
