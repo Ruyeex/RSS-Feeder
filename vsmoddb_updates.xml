@@ -4,216 +4,216 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Sun, 22 Nov 2026 10:51:55 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 18:18:34 +0000</lastBuildDate>
   <item>
-    <title>RKN Generic Crafting</title>
-    <link>https://mods.vintagestory.at/show/mod/rkncrafting</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rkncrafting#10162</guid>
-    <pubDate>Sun, 22 Nov 2026 10:25:37 -0000</pubDate>
-    <description>Generic crafting system that completely replaces the UI grid with a more immersive mechanic</description>
+    <title>GhostChunks</title>
+    <link>https://mods.vintagestory.at/show/mod/ghostchunks</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ghostchunks#12113</guid>
+    <pubDate>Sun, 22 Nov 2026 18:17:59 -0000</pubDate>
+    <description>Highly performant distant terrain LOD renderer, capable of rendering at 200+ fps! Now w/Komet Compat</description>
   </item>
   <item>
-    <title>Feral Kinship: Companions</title>
-    <link>https://mods.vintagestory.at/show/mod/animalkinshipc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalkinshipc#10925</guid>
-    <pubDate>Sun, 22 Nov 2026 10:06:19 -0000</pubDate>
-    <description>Gives tamed animals personalities, backpacks, duties, talents, breeding, and expeditions.</description>
+    <title>Seraph QoL</title>
+    <link>https://mods.vintagestory.at/show/mod/seraphqol</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphqol#13656</guid>
+    <pubDate>Sun, 22 Nov 2026 18:01:54 -0000</pubDate>
+    <description>Modular Quality-of-Life suite for Vintage Story: inventory sorting &amp; protection ...</description>
   </item>
   <item>
-    <title>VSA - Replica</title>
-    <link>https://mods.vintagestory.at/show/mod/9115</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9115#9115</guid>
-    <pubDate>Sun, 22 Nov 2026 09:59:06 -0000</pubDate>
-    <description> (Valkyrian Skies for VS basically) Build block-made moving ships and structures</description>
+    <title>ClothingAnySlot</title>
+    <link>https://mods.vintagestory.at/show/mod/8681</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/8681#8681</guid>
+    <pubDate>Sun, 22 Nov 2026 18:01:03 -0000</pubDate>
+    <description>Allows any piece of clothing to be equipped in any slot.</description>
   </item>
   <item>
-    <title>Realistic Animal Behavior</title>
-    <link>https://mods.vintagestory.at/show/mod/realisticanimalbehavior</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/realisticanimalbehavior#13472</guid>
-    <pubDate>Sun, 22 Nov 2026 09:58:24 -0000</pubDate>
-    <description>Animals avoid water and cliffs, predators fear fire.</description>
+    <title>Seraph UI</title>
+    <link>https://mods.vintagestory.at/show/mod/seraphui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphui#13653</guid>
+    <pubDate>Sun, 22 Nov 2026 18:00:56 -0000</pubDate>
+    <description>Shared client-side UI framework and reusable component library built to match Vintage Story's native</description>
   </item>
   <item>
-    <title>VSA_API</title>
-    <link>https://mods.vintagestory.at/show/mod/9139</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9139#9139</guid>
-    <pubDate>Sun, 22 Nov 2026 09:58:03 -0000</pubDate>
-    <description>VSA API</description>
+    <title>Traders Overhaul</title>
+    <link>https://mods.vintagestory.at/show/mod/tradersoverhaul</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tradersoverhaul#13657</guid>
+    <pubDate>Sun, 22 Nov 2026 18:00:17 -0000</pubDate>
+    <description>A living trader economy for Vintage Story: universal selling, archetype affinities, daily wanted...</description>
   </item>
   <item>
-    <title>Forager's Gamble</title>
-    <link>https://mods.vintagestory.at/show/mod/foragersgamble</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/foragersgamble#4891</guid>
-    <pubDate>Sun, 22 Nov 2026 09:55:20 -0000</pubDate>
-    <description>Masks food information names until after eaten. Also introduces a toxin onset feature.</description>
+    <title>Edge Of Lineage: Core</title>
+    <link>https://mods.vintagestory.at/show/mod/eolcore</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eolcore#12195</guid>
+    <pubDate>Sun, 22 Nov 2026 17:57:58 -0000</pubDate>
+    <description>Core module of Edge of Lineage suite that introduces new weapons and crafting mechanics</description>
   </item>
   <item>
-    <title>Alchemy Trader updated</title>
-    <link>https://mods.vintagestory.at/show/mod/13678</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13678#13678</guid>
-    <pubDate>Sun, 22 Nov 2026 09:54:46 -0000</pubDate>
-    <description>An alchemy trader that sells flowers and mushrooms. Compatible with alchemy mod.</description>
+    <title>Toggle for Hand Catch for Mira Server</title>
+    <link>https://mods.vintagestory.at/show/mod/13703</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13703#13703</guid>
+    <pubDate>Sun, 22 Nov 2026 17:56:12 -0000</pubDate>
+    <description>Toggle for Hand Catch for Mira Server</description>
   </item>
   <item>
-    <title>Rustfall</title>
-    <link>https://mods.vintagestory.at/show/mod/rustfall</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustfall#13686</guid>
-    <pubDate>Sun, 22 Nov 2026 09:49:14 -0000</pubDate>
-    <description>A huge overhaul mod that adds new custom lore and worldtype. The core of the Rustfall modpack</description>
+    <title>Seraph Atelier - Player Model Lib</title>
+    <link>https://mods.vintagestory.at/show/mod/seraphatelier</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seraphatelier#10276</guid>
+    <pubDate>Sun, 22 Nov 2026 17:15:34 -0000</pubDate>
+    <description>Look cute while you do pottery, starve, and get hunted by horrors beyond comprehension!</description>
   </item>
   <item>
-    <title>Hot Spring Comfort Fork (no hardcore winter) </title>
-    <link>https://mods.vintagestory.at/show/mod/13700</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13700#13700</guid>
-    <pubDate>Sun, 22 Nov 2026 08:25:11 -0000</pubDate>
-    <description>Hot spring bathing, herbal buffs, room warmth. No Hardcore Winter required.</description>
+    <title>Mira Wood Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/13704</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13704#13704</guid>
+    <pubDate>Sun, 22 Nov 2026 17:14:34 -0000</pubDate>
+    <description>Mira Wood Compat</description>
   </item>
   <item>
-    <title>Antique Harmony | Additional/Alternative Music Soundtrack</title>
-    <link>https://mods.vintagestory.at/show/mod/antiqueharmony</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/antiqueharmony#7141</guid>
-    <pubDate>Sun, 22 Nov 2026 07:54:48 -0000</pubDate>
-    <description>Adds to/replaces music with an originally composed orchestral soundtrack.</description>
-  </item>
-  <item>
-    <title>Simple Voice Chat Mod</title>
+    <title>Simple Voice Chat</title>
     <link>https://mods.vintagestory.at/show/mod/simplevoicechat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#9570</guid>
-    <pubDate>Sun, 22 Nov 2026 06:41:17 -0000</pubDate>
-    <description>For Chinese community servers only（Voice Chat Mod）</description>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechat#13706</guid>
+    <pubDate>Sun, 22 Nov 2026 17:07:32 -0000</pubDate>
+    <description>Proximity voice chat and player channels for Vintage Story.</description>
   </item>
   <item>
-    <title>Simple Voice Chat: DeepFilterNet3</title>
-    <link>https://mods.vintagestory.at/show/mod/simplevoicechatdeepfilternet3</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/simplevoicechatdeepfilternet3#13698</guid>
-    <pubDate>Sun, 22 Nov 2026 06:39:20 -0000</pubDate>
-    <description>Simple Voice Chat: DeepFilterNet3</description>
+    <title>Mira Instrument tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/13690</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13690#13690</guid>
+    <pubDate>Sun, 22 Nov 2026 16:59:25 -0000</pubDate>
+    <description>patches for instruments</description>
   </item>
   <item>
-    <title>fCombatBalance</title>
-    <link>https://mods.vintagestory.at/show/mod/13266</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13266#13266</guid>
-    <pubDate>Sun, 22 Nov 2026 06:38:13 -0000</pubDate>
-    <description>Combat and Item Balance for Fragments RP.</description>
+    <title>Algernon's Watersheds</title>
+    <link>https://mods.vintagestory.at/show/mod/algernonswatersheds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/algernonswatersheds#7286</guid>
+    <pubDate>Sun, 22 Nov 2026 16:56:47 -0000</pubDate>
+    <description>Worldgen revamp using a Watershed model. Adds meandering streams, groundwater, and erosion</description>
   </item>
   <item>
-    <title>Anvil Metal Recovery Revived (Revived)</title>
-    <link>https://mods.vintagestory.at/show/mod/9615</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/9615#9615</guid>
-    <pubDate>Sun, 22 Nov 2026 06:37:22 -0000</pubDate>
-    <description>this is getting out of hand! Anvil Metal Recovery for Vintage Story 1.22</description>
+    <title>Flowerbed compat for Miraserver</title>
+    <link>https://mods.vintagestory.at/show/mod/13705</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13705#13705</guid>
+    <pubDate>Sun, 22 Nov 2026 16:38:06 -0000</pubDate>
+    <description>Flowerbed compat for Miraserver</description>
+  </item>
+  <item>
+    <title>Tree Tap Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/treetapredux</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/treetapredux#6989</guid>
+    <pubDate>Sun, 22 Nov 2026 16:24:52 -0000</pubDate>
+    <description>Tap leaking acacia and pine logs to generate resin quicker</description>
+  </item>
+  <item>
+    <title>Better Moisture Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/4871</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4871#4871</guid>
+    <pubDate>Sun, 22 Nov 2026 16:22:48 -0000</pubDate>
+    <description>Improvements to farmland moisture</description>
+  </item>
+  <item>
+    <title>BetterEr Prospecting</title>
+    <link>https://mods.vintagestory.at/show/mod/bettererprospecting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettererprospecting#4916</guid>
+    <pubDate>Sun, 22 Nov 2026 16:11:33 -0000</pubDate>
+    <description>Altered prospecting experience with focus on reducing randomness</description>
+  </item>
+  <item>
+    <title>Cottage Industry</title>
+    <link>https://mods.vintagestory.at/show/mod/cottageindustry</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cottageindustry#12903</guid>
+    <pubDate>Sun, 22 Nov 2026 16:11:06 -0000</pubDate>
+    <description>Highly immersive medieval production infrastructure. Featuring: ROLLABLE BARRELS</description>
+  </item>
+  <item>
+    <title>C&amp;N Trader</title>
+    <link>https://mods.vintagestory.at/show/mod/cantrader</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cantrader#669</guid>
+    <pubDate>Sun, 22 Nov 2026 15:43:29 -0000</pubDate>
+    <description>Custom trader for server</description>
   </item>
   <item>
     <title>inaNis' Weapons</title>
     <link>https://mods.vintagestory.at/show/mod/inapons</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/inapons#13021</guid>
-    <pubDate>Sun, 22 Nov 2026 06:36:41 -0000</pubDate>
+    <pubDate>Sun, 22 Nov 2026 15:34:38 -0000</pubDate>
     <description>Adds new weapons to be used with CO. New models and fixed implementation for Armory weapons.</description>
   </item>
   <item>
-    <title>Mollusc Weaponry</title>
-    <link>https://mods.vintagestory.at/show/mod/13555</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13555#13555</guid>
-    <pubDate>Sun, 22 Nov 2026 06:32:43 -0000</pubDate>
-    <description>Smithable medieval weapons, throwing daggers, two new metals and a deeper quenching system.</description>
+    <title>Eventide Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/frontierclaimsmap</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frontierclaimsmap#10850</guid>
+    <pubDate>Sun, 22 Nov 2026 15:32:44 -0000</pubDate>
+    <description>Claim maps, settlements, and access permissions for the Eventide server.</description>
   </item>
   <item>
-    <title>Geoscope</title>
-    <link>https://mods.vintagestory.at/show/mod/geoscope</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/geoscope#13697</guid>
-    <pubDate>Sun, 22 Nov 2026 06:32:17 -0000</pubDate>
-    <description>Real-ore prospecting: one-strike density at 3 ranges, ore &amp; rock core samples. Built for IOG.</description>
+    <title>fCombatBalance</title>
+    <link>https://mods.vintagestory.at/show/mod/13266</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13266#13266</guid>
+    <pubDate>Sun, 22 Nov 2026 15:27:14 -0000</pubDate>
+    <description>Combat and Item Balance for Fragments RP.</description>
+  </item>
+  <item>
+    <title>Aegis</title>
+    <link>https://mods.vintagestory.at/show/mod/aegis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aegis#12213</guid>
+    <pubDate>Sun, 22 Nov 2026 15:26:39 -0000</pubDate>
+    <description>The client mod for Aegis Networks servers</description>
+  </item>
+  <item>
+    <title>Landships: Type95 &amp; Grosstraktor</title>
+    <link>https://mods.vintagestory.at/show/mod/13246</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13246#13246</guid>
+    <pubDate>Sun, 22 Nov 2026 15:23:42 -0000</pubDate>
+    <description>Ands a drivable, functional Char 2C super-heavy tank to the game.</description>
+  </item>
+  <item>
+    <title>Earth Rustbound compat for mira's server</title>
+    <link>https://mods.vintagestory.at/show/mod/13639</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13639#13639</guid>
+    <pubDate>Sun, 22 Nov 2026 15:21:49 -0000</pubDate>
+    <description>A quick compat mod for RBM and my earth server</description>
+  </item>
+  <item>
+    <title>Hot Spring Comfort Fork (no hardcore winter) </title>
+    <link>https://mods.vintagestory.at/show/mod/13700</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13700#13700</guid>
+    <pubDate>Sun, 22 Nov 2026 15:14:29 -0000</pubDate>
+    <description>Hot spring bathing, herbal buffs, room warmth. No Hardcore Winter required.</description>
+  </item>
+  <item>
+    <title>Singing Fish</title>
+    <link>https://mods.vintagestory.at/show/mod/singingfish</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/singingfish#13292</guid>
+    <pubDate>Sun, 22 Nov 2026 15:00:41 -0000</pubDate>
+    <description>Allows songs to be played on taxidermy fish mounted to the antler mounts</description>
+  </item>
+  <item>
+    <title>Waxlight Launcher</title>
+    <link>https://mods.vintagestory.at/show/mod/waxlightlauncher</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waxlightlauncher#10744</guid>
+    <pubDate>Sun, 22 Nov 2026 14:48:33 -0000</pubDate>
+    <description>Manage Vintage Story instances, mods, versions and accounts from one modern launcher</description>
   </item>
   <item>
     <title>Jonas Robots</title>
     <link>https://mods.vintagestory.at/show/mod/12831</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12831#12831</guid>
-    <pubDate>Sun, 22 Nov 2026 06:20:19 -0000</pubDate>
+    <pubDate>Sun, 22 Nov 2026 14:42:56 -0000</pubDate>
     <description>Play as a robot: five player races with classes, expressive faces and glowing eyes.</description>
   </item>
   <item>
-    <title>Vintage Fantasy</title>
-    <link>https://mods.vintagestory.at/show/mod/vintagefantasy</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vintagefantasy#12418</guid>
-    <pubDate>Sun, 22 Nov 2026 06:18:14 -0000</pubDate>
-    <description>Whole buncha random shit to make the 194+ mods of the server not murder each other in their sleep</description>
+    <title>Vintage E</title>
+    <link>https://mods.vintagestory.at/show/mod/12625</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12625#12625</guid>
+    <pubDate>Sun, 22 Nov 2026 14:37:14 -0000</pubDate>
+    <description>Project E for vintage story</description>
   </item>
   <item>
-    <title>Rust and rot continued</title>
-    <link>https://mods.vintagestory.at/show/mod/12369</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12369#12369</guid>
-    <pubDate>Sun, 22 Nov 2026 05:50:27 -0000</pubDate>
-    <description>more creatures and features than the original. with less bugs too.</description>
-  </item>
-  <item>
-    <title>Volume Sliders</title>
-    <link>https://mods.vintagestory.at/show/mod/12854</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12854#12854</guid>
-    <pubDate>Sun, 22 Nov 2026 05:47:31 -0000</pubDate>
-    <description>Some sounds in Vintage Story you'll love for a hundred hours, and some will wear you down.</description>
-  </item>
-  <item>
-    <title>Client-side Entity AI API Library</title>
-    <link>https://mods.vintagestory.at/show/mod/cliententityailib</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cliententityailib#11624</guid>
-    <pubDate>Sun, 22 Nov 2026 05:18:27 -0000</pubDate>
-    <description>Client-only Entity AI API library. Contains function for spawning entities and moving them.</description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Chapter 2</title>
-    <link>https://mods.vintagestory.at/show/mod/11428</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
-    <pubDate>Sun, 22 Nov 2026 04:52:59 -0000</pubDate>
-    <description>Chapter 2 additions for C&amp;C.</description>
-  </item>
-  <item>
-    <title>Seamarks -- Beacons &amp; Lighthouses</title>
-    <link>https://mods.vintagestory.at/show/mod/seamarks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/seamarks#10124</guid>
-    <pubDate>Sun, 22 Nov 2026 04:05:06 -0000</pubDate>
-    <description>Build lighthouses and fire beacons to help navigate the world and its oceans.</description>
-  </item>
-  <item>
-    <title>Resource Map</title>
-    <link>https://mods.vintagestory.at/show/mod/resourcemap</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/resourcemap#13695</guid>
-    <pubDate>Sun, 22 Nov 2026 04:03:33 -0000</pubDate>
-    <description>Shows clay, peat, fertile soil and ores on your world map and minimap, each in its own colour.</description>
-  </item>
-  <item>
-    <title>VSPT: Path Tracing</title>
-    <link>https://mods.vintagestory.at/show/mod/vspt</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vspt#12091</guid>
-    <pubDate>Sun, 22 Nov 2026 04:02:31 -0000</pubDate>
-    <description>A fully path traced HDR renderer for Vintage Story for NVIDIA GPUs</description>
-  </item>
-  <item>
-    <title>fSkills</title>
-    <link>https://mods.vintagestory.at/show/mod/fskills</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fskills#13229</guid>
-    <pubDate>Sun, 22 Nov 2026 03:38:24 -0000</pubDate>
-    <description>A skill and XP mod to support fClasses for Fragments RP.</description>
-  </item>
-  <item>
-    <title>fStats</title>
-    <link>https://mods.vintagestory.at/show/mod/fstats</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fstats#13230</guid>
-    <pubDate>Sun, 22 Nov 2026 03:38:11 -0000</pubDate>
-    <description>A stat library for use with fClasses and fSkills.</description>
-  </item>
-  <item>
-    <title>Art of Rustic Cookery</title>
-    <link>https://mods.vintagestory.at/show/mod/aorc</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aorc#13694</guid>
-    <pubDate>Sun, 22 Nov 2026 03:25:31 -0000</pubDate>
-    <description>A really small patch that makes it so you can use Rustic Cookery's roasting with AoG firepits.</description>
-  </item>
-  <item>
-    <title>chonkyvesselstweak</title>
-    <link>https://mods.vintagestory.at/show/mod/13693</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13693#13693</guid>
-    <pubDate>Sun, 22 Nov 2026 03:03:40 -0000</pubDate>
-    <description>Some tweaks to the chonkyvessels mod</description>
+    <title>Crow Bros</title>
+    <link>https://mods.vintagestory.at/show/mod/12762</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12762#12762</guid>
+    <pubDate>Sun, 22 Nov 2026 14:16:49 -0000</pubDate>
+    <description>Adds realistic and reactive crows to the game</description>
   </item>
 </channel>
 </rss>
