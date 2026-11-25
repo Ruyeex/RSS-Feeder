@@ -4,216 +4,216 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Wed, 25 Nov 2026 01:59:36 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 11:08:57 +0000</lastBuildDate>
   <item>
-    <title>fSkills</title>
-    <link>https://mods.vintagestory.at/show/mod/fskills</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fskills#13229</guid>
-    <pubDate>Wed, 25 Nov 2026 01:50:06 -0000</pubDate>
-    <description>A skill and XP mod to support fClasses for Fragments RP.</description>
-  </item>
-  <item>
-    <title>𝓦𝓻𝓲𝓽𝓽𝓮𝓷 𝓦𝓸𝓻𝓭 - parchment and book overhaul</title>
-    <link>https://mods.vintagestory.at/show/mod/writtenword</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/writtenword#12602</guid>
-    <pubDate>Wed, 25 Nov 2026 01:48:54 -0000</pubDate>
-    <description>Parchment and book overhaul. Parchments can be placed on walls, adds nickname-only signatures</description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Chapter 2</title>
-    <link>https://mods.vintagestory.at/show/mod/11428</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
-    <pubDate>Wed, 25 Nov 2026 01:45:05 -0000</pubDate>
-    <description>Chapter 2 additions for C&amp;C.</description>
-  </item>
-  <item>
-    <title>Trait Forge Restrictions</title>
-    <link>https://mods.vintagestory.at/show/mod/traitforgerestrictions</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/traitforgerestrictions#10823</guid>
-    <pubDate>Wed, 25 Nov 2026 01:37:54 -0000</pubDate>
-    <description>Server-controlled smithing recipe visibility and validation based on player traits</description>
-  </item>
-  <item>
-    <title>Steamwright</title>
-    <link>https://mods.vintagestory.at/show/mod/13585</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13585#13585</guid>
-    <pubDate>Wed, 25 Nov 2026 00:47:23 -0000</pubDate>
-    <description>The Steam Age Has Begun</description>
-  </item>
-  <item>
-    <title>Invisible Admin Blade</title>
-    <link>https://mods.vintagestory.at/show/mod/13778</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13778#13778</guid>
-    <pubDate>Wed, 25 Nov 2026 00:44:22 -0000</pubDate>
-    <description>"With great power comes great responsibility"</description>
-  </item>
-  <item>
-    <title>Practice Makes Perfect</title>
-    <link>https://mods.vintagestory.at/show/mod/practicemakesperfect</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/practicemakesperfect#13462</guid>
-    <pubDate>Wed, 25 Nov 2026 00:43:59 -0000</pubDate>
-    <description>Makes songs need practice before they sound right, and makes cheap instruments sound cheap</description>
-  </item>
-  <item>
-    <title>Eternal Seraph: Patch</title>
-    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
-    <pubDate>Wed, 25 Nov 2026 00:18:28 -0000</pubDate>
-    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
-  </item>
-  <item>
-    <title>Artisan Tools</title>
-    <link>https://mods.vintagestory.at/show/mod/artisantools</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/artisantools#13417</guid>
-    <pubDate>Wed, 25 Nov 2026 00:08:50 -0000</pubDate>
-    <description>Customisable tools built with tool heads, handles and grips</description>
-  </item>
-  <item>
-    <title>VS save editor</title>
-    <link>https://mods.vintagestory.at/show/mod/12805</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12805#12805</guid>
-    <pubDate>Tue, 24 Nov 2026 23:52:46 -0000</pubDate>
-    <description>Save editor for vintage story, map export chunk managment and block/entity search.</description>
-  </item>
-  <item>
-    <title>Chest Tracker</title>
-    <link>https://mods.vintagestory.at/show/mod/13776</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13776#13776</guid>
-    <pubDate>Tue, 24 Nov 2026 23:37:01 -0000</pubDate>
-    <description>Client-side chest search, storage types, one-key sorting and auto-distribution.</description>
-  </item>
-  <item>
-    <title>Extended Survival</title>
-    <link>https://mods.vintagestory.at/show/mod/13687</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13687#13687</guid>
-    <pubDate>Tue, 24 Nov 2026 23:28:46 -0000</pubDate>
-    <description>30-Day months, Immersive crafting, Designed for Long-Term Servers</description>
-  </item>
-  <item>
-    <title>Collectible Metadata Editor</title>
-    <link>https://mods.vintagestory.at/show/mod/collectiblemetadataeditor</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/collectiblemetadataeditor#12097</guid>
-    <pubDate>Tue, 24 Nov 2026 23:22:28 -0000</pubDate>
-    <description>Edit tags, stats and recipes of any item or block from an ingame admin menu</description>
-  </item>
-  <item>
-    <title>Navarlio Customs</title>
-    <link>https://mods.vintagestory.at/show/mod/navarliocustoms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/navarliocustoms#1522</guid>
-    <pubDate>Tue, 24 Nov 2026 22:52:50 -0000</pubDate>
-    <description>Custom crafts for the Navarlio server.</description>
-  </item>
-  <item>
-    <title>configkit</title>
-    <link>https://mods.vintagestory.at/show/mod/configkit</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/configkit#11506</guid>
-    <pubDate>Tue, 24 Nov 2026 22:50:11 -0000</pubDate>
-    <description>In-game settings for your mods, without ImGui (alternative to configlib).</description>
-  </item>
-  <item>
-    <title>Animalica - Hooved Animals</title>
-    <link>https://mods.vintagestory.at/show/mod/animalicah</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicah#9797</guid>
-    <pubDate>Tue, 24 Nov 2026 22:41:44 -0000</pubDate>
-    <description>Adds all the hooved animals as playable models!</description>
-  </item>
-  <item>
-    <title>Vintage E</title>
-    <link>https://mods.vintagestory.at/show/mod/12625</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12625#12625</guid>
-    <pubDate>Tue, 24 Nov 2026 22:23:40 -0000</pubDate>
-    <description>Project E for vintage story</description>
-  </item>
-  <item>
-    <title>Passive Storms</title>
-    <link>https://mods.vintagestory.at/show/mod/psvstrms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/psvstrms#9011</guid>
-    <pubDate>Tue, 24 Nov 2026 20:58:32 -0000</pubDate>
-    <description>A calmer Vintage Story experience: peaceful days, dangerous nights, caves, and storms.</description>
-  </item>
-  <item>
-    <title>Chat Notifications</title>
-    <link>https://mods.vintagestory.at/show/mod/chatnotifications</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chatnotifications#13763</guid>
-    <pubDate>Tue, 24 Nov 2026 20:55:20 -0000</pubDate>
-    <description>A mod to auto switch to the chat tab when a player sends a message (when in another tab)</description>
-  </item>
-  <item>
-    <title>ProjectL Blocks</title>
-    <link>https://mods.vintagestory.at/show/mod/projectlblocks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/projectlblocks#9948</guid>
-    <pubDate>Tue, 24 Nov 2026 20:51:54 -0000</pubDate>
-    <description>Blocks made for ProjectL. Mainly indestructible version of vanilla blocks.</description>
-  </item>
-  <item>
-    <title>ProjectL Ice World</title>
-    <link>https://mods.vintagestory.at/show/mod/12617</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12617#12617</guid>
-    <pubDate>Tue, 24 Nov 2026 20:49:36 -0000</pubDate>
-    <description>Stuff for a custom map in an ice world</description>
-  </item>
-  <item>
-    <title>ShipWright: Additions and Configurations</title>
-    <link>https://mods.vintagestory.at/show/mod/13773</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13773#13773</guid>
-    <pubDate>Tue, 24 Nov 2026 20:48:00 -0000</pubDate>
-    <description>Features and Compatibility mod to Shipwright</description>
-  </item>
-  <item>
-    <title>ProjectL Interactables</title>
-    <link>https://mods.vintagestory.at/show/mod/projectlinteractables</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/projectlinteractables#9972</guid>
-    <pubDate>Tue, 24 Nov 2026 20:42:06 -0000</pubDate>
-    <description>Door, Keys, Trap everything to make a good labyrinth</description>
+    <title>Bandit Raids</title>
+    <link>https://mods.vintagestory.at/show/mod/13785</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13785#13785</guid>
+    <pubDate>Wed, 25 Nov 2026 10:53:27 -0000</pubDate>
+    <description>Bandits that raid your base, loot your chests, set fire to your lands</description>
   </item>
   <item>
     <title>Aegis</title>
     <link>https://mods.vintagestory.at/show/mod/aegis</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aegis#12213</guid>
-    <pubDate>Tue, 24 Nov 2026 20:35:01 -0000</pubDate>
+    <pubDate>Wed, 25 Nov 2026 09:48:41 -0000</pubDate>
     <description>The client mod for Aegis Networks servers</description>
   </item>
   <item>
-    <title>Doden's Landscapes</title>
-    <link>https://mods.vintagestory.at/show/mod/12718</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12718#12718</guid>
-    <pubDate>Tue, 24 Nov 2026 20:32:43 -0000</pubDate>
-    <description>Pushing the envelope on LOD terrain.</description>
+    <title>Meadows Server Additions</title>
+    <link>https://mods.vintagestory.at/show/mod/11855</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11855#11855</guid>
+    <pubDate>Wed, 25 Nov 2026 09:26:12 -0000</pubDate>
+    <description>Tweaks for a server</description>
   </item>
   <item>
-    <title>Equus: Medieval Horses</title>
-    <link>https://mods.vintagestory.at/show/mod/equusdestrier</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/equusdestrier#9959</guid>
-    <pubDate>Tue, 24 Nov 2026 20:27:05 -0000</pubDate>
-    <description>Adds a medieval warhorse to the game that can be purchased from a new horse trader</description>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Wed, 25 Nov 2026 08:58:51 -0000</pubDate>
+    <description>TopGs Community Mod</description>
   </item>
   <item>
-    <title>Celeritas Pack: Visus</title>
-    <link>https://mods.vintagestory.at/show/mod/visus</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/visus#13771</guid>
-    <pubDate>Tue, 24 Nov 2026 20:18:37 -0000</pubDate>
-    <description>Client FPS: entity culling, lighter animations, wind fade, smoother chunk load. Part of Celeritas.</description>
+    <title>Feverstone Wilds</title>
+    <link>https://mods.vintagestory.at/show/mod/feverstonewilds</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/feverstonewilds#967</guid>
+    <pubDate>Wed, 25 Nov 2026 08:13:08 -0000</pubDate>
+    <description>Feverstone Wilds is a fantasy mod mixed with realism that can help you or challenge you.</description>
+  </item>
+  <item>
+    <title>VS Chunk Manager</title>
+    <link>https://mods.vintagestory.at/show/mod/7128</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7128#7128</guid>
+    <pubDate>Wed, 25 Nov 2026 08:05:07 -0000</pubDate>
+    <description>A world management tool for selecting, regenerating and deleting chunks from the map.</description>
+  </item>
+  <item>
+    <title>Wilderlands Rustbound</title>
+    <link>https://mods.vintagestory.at/show/mod/3004</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3004#3004</guid>
+    <pubDate>Wed, 25 Nov 2026 08:03:45 -0000</pubDate>
+    <description>Overhauls drifter canon, adds a slew of new Rust-related entities and challenges.</description>
+  </item>
+  <item>
+    <title>Medieval Architecture</title>
+    <link>https://mods.vintagestory.at/show/mod/5310</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/5310#5310</guid>
+    <pubDate>Wed, 25 Nov 2026 07:54:23 -0000</pubDate>
+    <description>Archways, Drawbridges, trapdoors to satisfy your medieval urge.</description>
+  </item>
+  <item>
+    <title>QP's Chisel Tools Shadow Fix</title>
+    <link>https://mods.vintagestory.at/show/mod/chiseltoolsshadowfix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chiseltoolsshadowfix#13764</guid>
+    <pubDate>Wed, 25 Nov 2026 07:07:19 -0000</pubDate>
+    <description>Fix for the pantograph/multigraph shadow bug in Quentin's Chiseling Tools.</description>
+  </item>
+  <item>
+    <title>Flee Exhaustion</title>
+    <link>https://mods.vintagestory.at/show/mod/3739</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3739#3739</guid>
+    <pubDate>Wed, 25 Nov 2026 07:06:24 -0000</pubDate>
+    <description>Entities run at slower speeds when they are hurt.</description>
+  </item>
+  <item>
+    <title>Teapot's Giant Scorpion</title>
+    <link>https://mods.vintagestory.at/show/mod/teapotsgiantscorpion</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/teapotsgiantscorpion#13440</guid>
+    <pubDate>Wed, 25 Nov 2026 07:02:11 -0000</pubDate>
+    <description>Giant scorpions with charging attacks and long-lasting poison, spawning where ores run rich.</description>
+  </item>
+  <item>
+    <title>Undead Legion - Skeleton Truce</title>
+    <link>https://mods.vintagestory.at/show/mod/12839</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12839#12839</guid>
+    <pubDate>Wed, 25 Nov 2026 06:24:59 -0000</pubDate>
+    <description>Walk amongst your lost companions. But be wary of where you strike.</description>
+  </item>
+  <item>
+    <title>Crown &amp; Coalition Chapter 2</title>
+    <link>https://mods.vintagestory.at/show/mod/11428</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
+    <pubDate>Wed, 25 Nov 2026 05:59:15 -0000</pubDate>
+    <description>Chapter 2 additions for C&amp;C.</description>
+  </item>
+  <item>
+    <title>Steamwright</title>
+    <link>https://mods.vintagestory.at/show/mod/13585</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13585#13585</guid>
+    <pubDate>Wed, 25 Nov 2026 05:55:45 -0000</pubDate>
+    <description>The Steam Age Has Begun</description>
   </item>
   <item>
     <title>Celeritas Pack: Grex</title>
     <link>https://mods.vintagestory.at/show/mod/grex</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grex#13770</guid>
-    <pubDate>Tue, 24 Nov 2026 20:16:07 -0000</pubDate>
+    <pubDate>Wed, 25 Nov 2026 05:32:03 -0000</pubDate>
     <description>Lighter creature AI, faster pathfinding and server stutter fixes. Server only. Part of Celeritas.</description>
   </item>
   <item>
     <title>Celeritas Pack: Artifex</title>
     <link>https://mods.vintagestory.at/show/mod/artifex</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/artifex#13768</guid>
-    <pubDate>Tue, 24 Nov 2026 20:13:16 -0000</pubDate>
+    <pubDate>Wed, 25 Nov 2026 05:31:21 -0000</pubDate>
     <description>Faster crafting grid, creative and handbook search, barrels for big modpacks. Part of Celeritas.</description>
   </item>
   <item>
-    <title>fStats</title>
-    <link>https://mods.vintagestory.at/show/mod/fstats</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fstats#13230</guid>
-    <pubDate>Tue, 24 Nov 2026 20:12:52 -0000</pubDate>
-    <description>A stat library for use with fClasses and fSkills.</description>
+    <title>Celeritas Pack: Visus</title>
+    <link>https://mods.vintagestory.at/show/mod/visus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/visus#13771</guid>
+    <pubDate>Wed, 25 Nov 2026 05:26:00 -0000</pubDate>
+    <description>Client FPS: entity culling, lighter animations, wind fade, smoother chunk load. Part of Celeritas.</description>
+  </item>
+  <item>
+    <title>Usable Slabs</title>
+    <link>https://mods.vintagestory.at/show/mod/usableslabs</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/usableslabs#13784</guid>
+    <pubDate>Wed, 25 Nov 2026 05:06:18 -0000</pubDate>
+    <description>A mod that lets you place the slabs like you want not like how the game thinks you want</description>
+  </item>
+  <item>
+    <title>Age of Seraphs Specialized Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/aosspecializedclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aosspecializedclasses#8501</guid>
+    <pubDate>Wed, 25 Nov 2026 04:50:00 -0000</pubDate>
+    <description>Age of Seraphs Specialized Classes Fork</description>
+  </item>
+  <item>
+    <title>Age of Seraphs Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/aostweaksnew</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aostweaksnew#4539</guid>
+    <pubDate>Wed, 25 Nov 2026 04:49:11 -0000</pubDate>
+    <description>Tweaks for the Age of Seraphs server that were too small to make into their own mods</description>
+  </item>
+  <item>
+    <title>Meadows Server Tweaks</title>
+    <link>https://mods.vintagestory.at/show/mod/10662</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10662#10662</guid>
+    <pubDate>Wed, 25 Nov 2026 04:42:02 -0000</pubDate>
+    <description>Nothing fancy, just server-specific adjustments</description>
+  </item>
+  <item>
+    <title>VS Hex Casting </title>
+    <link>https://mods.vintagestory.at/show/mod/hexcasting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexcasting#7271</guid>
+    <pubDate>Wed, 25 Nov 2026 04:30:44 -0000</pubDate>
+    <description>A port of Hexcasting from Minecraft to Vintagestory</description>
+  </item>
+  <item>
+    <title>BetterMods</title>
+    <link>https://mods.vintagestory.at/show/mod/bettermods</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/bettermods#13756</guid>
+    <pubDate>Wed, 25 Nov 2026 03:47:13 -0000</pubDate>
+    <description>Mod profiles, a version picker, mod DB updates and saved world playstyles for the Mods screen.</description>
+  </item>
+  <item>
+    <title>Cook UI</title>
+    <link>https://mods.vintagestory.at/show/mod/cookui</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/cookui#13644</guid>
+    <pubDate>Wed, 25 Nov 2026 02:32:40 -0000</pubDate>
+    <description>Adds a new UI that shows available cooking recipes with the ingredients, their result saturation</description>
+  </item>
+  <item>
+    <title>LTO Cooking Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/ltocookingplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ltocookingplus#12606</guid>
+    <pubDate>Wed, 25 Nov 2026 02:27:09 -0000</pubDate>
+    <description>+32 vegetables, +11 fruit trees, +7 shrubs, and a real kitchen to cook them all.</description>
+  </item>
+  <item>
+    <title>LTO Breeding Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/ltobreedingplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ltobreedingplus#12609</guid>
+    <pubDate>Wed, 25 Nov 2026 02:26:11 -0000</pubDate>
+    <description>Animal husbandry: breeding bale zones, hearts, milk, manure and a rideable elk.</description>
+  </item>
+  <item>
+    <title>LTO Stamina Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/ltostaminaplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ltostaminaplus#13232</guid>
+    <pubDate>Wed, 25 Nov 2026 02:25:08 -0000</pubDate>
+    <description>An immersive survival mod introducing fatigue, energy, and thirst management.</description>
+  </item>
+  <item>
+    <title>LTO Immersive Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/ltoimmersiveplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ltoimmersiveplus#13235</guid>
+    <pubDate>Wed, 25 Nov 2026 02:24:11 -0000</pubDate>
+    <description>An immersive mod adding visual block damage and realistic tree-falling mechanics.</description>
+  </item>
+  <item>
+    <title>LTO Essential Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/ltoessentialplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ltoessentialplus#13227</guid>
+    <pubDate>Wed, 25 Nov 2026 02:22:47 -0000</pubDate>
+    <description>A QoL mod enhancing survival with useful tools and improved convenience.</description>
+  </item>
+  <item>
+    <title>LTO Farming Plus</title>
+    <link>https://mods.vintagestory.at/show/mod/ltofarmingplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/ltofarmingplus#12605</guid>
+    <pubDate>Wed, 25 Nov 2026 02:21:41 -0000</pubDate>
+    <description>Farming with a plan: seed genetics, crossbreeding, irrigation, flax, bees and scarecrows.</description>
   </item>
 </channel>
 </rss>
