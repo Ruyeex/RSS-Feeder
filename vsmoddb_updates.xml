@@ -4,7 +4,161 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 26 Nov 2026 03:59:54 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 13:46:13 +0000</lastBuildDate>
+  <item>
+    <title>Serverfixes for Miraserver</title>
+    <link>https://mods.vintagestory.at/show/mod/12127</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12127#12127</guid>
+    <pubDate>Thu, 26 Nov 2026 13:15:34 -0000</pubDate>
+    <description>My personal server fixes for small issues and errors</description>
+  </item>
+  <item>
+    <title>Forge and Feast</title>
+    <link>https://mods.vintagestory.at/show/mod/forgeandfeast</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/forgeandfeast#13759</guid>
+    <pubDate>Thu, 26 Nov 2026 12:53:16 -0000</pubDate>
+    <description>Ranges, kilns, retorts, potbelly stoves and smokers in four metal tiers, with smoke and stovepipes.</description>
+  </item>
+  <item>
+    <title>Emotes</title>
+    <link>https://mods.vintagestory.at/show/mod/emotes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/emotes#8235</guid>
+    <pubDate>Thu, 26 Nov 2026 11:47:31 -0000</pubDate>
+    <description>Adds more custom emotes to the game.</description>
+  </item>
+  <item>
+    <title>Gentage</title>
+    <link>https://mods.vintagestory.at/show/mod/gentage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/gentage#12156</guid>
+    <pubDate>Thu, 26 Nov 2026 10:57:38 -0000</pubDate>
+    <description>Heritable genetics for vanilla animals: traits improve or worsen each generation</description>
+  </item>
+  <item>
+    <title>Donut's Salty Crawl&amp;Dive Fixes</title>
+    <link>https://mods.vintagestory.at/show/mod/donutssaltycrawldivefixes</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/donutssaltycrawldivefixes#13819</guid>
+    <pubDate>Thu, 26 Nov 2026 10:44:45 -0000</pubDate>
+    <description>Allows crawling from sneaking and fixes stand up detection for non standard character sizes.</description>
+  </item>
+  <item>
+    <title>BetterRuins – Botania Tools Compat</title>
+    <link>https://mods.vintagestory.at/show/mod/13434</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13434#13434</guid>
+    <pubDate>Thu, 26 Nov 2026 10:36:46 -0000</pubDate>
+    <description>Lets BotaniaStory tools (hammer, chisel, saw, pickaxe, axe, shovel, knife) work in BetterRuins bluep</description>
+  </item>
+  <item>
+    <title>Veshk</title>
+    <link>https://mods.vintagestory.at/show/mod/veshk</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/veshk#13036</guid>
+    <pubDate>Thu, 26 Nov 2026 10:23:01 -0000</pubDate>
+    <description>Large predatory leech-like creatures which feed on blood</description>
+  </item>
+  <item>
+    <title>Bandit Raids</title>
+    <link>https://mods.vintagestory.at/show/mod/13785</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13785#13785</guid>
+    <pubDate>Thu, 26 Nov 2026 09:39:00 -0000</pubDate>
+    <description>Bandits that raid your base, loot your chests, set fire to your lands</description>
+  </item>
+  <item>
+    <title>Catch and Release LIB</title>
+    <link>https://mods.vintagestory.at/show/mod/crlib</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/crlib#7509</guid>
+    <pubDate>Thu, 26 Nov 2026 09:23:47 -0000</pubDate>
+    <description>Shared library for Catch and Release mods.</description>
+  </item>
+  <item>
+    <title>Esoterica</title>
+    <link>https://mods.vintagestory.at/show/mod/6087</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6087#6087</guid>
+    <pubDate>Thu, 26 Nov 2026 09:23:15 -0000</pubDate>
+    <description>A sixth history community license mod merging the lore from Cultist Simulator with Vintage Story.</description>
+  </item>
+  <item>
+    <title>Opttage Visual</title>
+    <link>https://mods.vintagestory.at/show/mod/opttagevisual</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/opttagevisual#13683</guid>
+    <pubDate>Thu, 26 Nov 2026 09:12:05 -0000</pubDate>
+    <description>Terrain appears sooner: faster chunk loading on the client, optional smarter chunk sending on server</description>
+  </item>
+  <item>
+    <title>topgsmod</title>
+    <link>https://mods.vintagestory.at/show/mod/topgsmod</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/topgsmod#6190</guid>
+    <pubDate>Thu, 26 Nov 2026 09:08:01 -0000</pubDate>
+    <description>TopGs Community Mod</description>
+  </item>
+  <item>
+    <title>VSPT: Path Tracing</title>
+    <link>https://mods.vintagestory.at/show/mod/vspt</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/vspt#12091</guid>
+    <pubDate>Thu, 26 Nov 2026 07:34:02 -0000</pubDate>
+    <description>A fully path traced HDR renderer for Vintage Story</description>
+  </item>
+  <item>
+    <title>Animalica - Foxes, Wolves &amp; Hyenas</title>
+    <link>https://mods.vintagestory.at/show/mod/animalicafwh</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/animalicafwh#9794</guid>
+    <pubDate>Thu, 26 Nov 2026 07:33:07 -0000</pubDate>
+    <description>Adds Foxes, Wolves, and Hyenas as player choices!</description>
+  </item>
+  <item>
+    <title>Lush Grass</title>
+    <link>https://mods.vintagestory.at/show/mod/13754</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13754#13754</guid>
+    <pubDate>Thu, 26 Nov 2026 07:11:11 -0000</pubDate>
+    <description>Makes grass... Grassier!</description>
+  </item>
+  <item>
+    <title>Aegis Claims</title>
+    <link>https://mods.vintagestory.at/show/mod/claim</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/claim#12740</guid>
+    <pubDate>Thu, 26 Nov 2026 06:29:25 -0000</pubDate>
+    <description>Chunk claims for civilization servers, with nations, player towns, capitals and an admin painter on </description>
+  </item>
+  <item>
+    <title>Crown &amp; Coalition Chapter 2</title>
+    <link>https://mods.vintagestory.at/show/mod/11428</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
+    <pubDate>Thu, 26 Nov 2026 06:04:35 -0000</pubDate>
+    <description>Chapter 2 additions for C&amp;C.</description>
+  </item>
+  <item>
+    <title>Prosequor Classes</title>
+    <link>https://mods.vintagestory.at/show/mod/prosequorclasses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/prosequorclasses#13755</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:46 -0000</pubDate>
+    <description>Adds classes and revises some existing ones. Made for Prosequor.</description>
+  </item>
+  <item>
+    <title>Aegis</title>
+    <link>https://mods.vintagestory.at/show/mod/aegis</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aegis#12213</guid>
+    <pubDate>Thu, 26 Nov 2026 05:52:51 -0000</pubDate>
+    <description>The client mod for Aegis Networks servers</description>
+  </item>
+  <item>
+    <title>RucksackGlowFix</title>
+    <link>https://mods.vintagestory.at/show/mod/rucksackglowfix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rucksackglowfix#13817</guid>
+    <pubDate>Thu, 26 Nov 2026 05:39:40 -0000</pubDate>
+    <description>Aldi's Classes Rucksack is borked for lighting in ver 2.0.0, this mod patches it to correct it</description>
+  </item>
+  <item>
+    <title>Steamwright</title>
+    <link>https://mods.vintagestory.at/show/mod/13585</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13585#13585</guid>
+    <pubDate>Thu, 26 Nov 2026 05:09:07 -0000</pubDate>
+    <description>The Steam Age Has Begun</description>
+  </item>
+  <item>
+    <title>Knitting - Wool 🙵 More New Clothes Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/12819</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12819#12819</guid>
+    <pubDate>Thu, 26 Nov 2026 04:43:23 -0000</pubDate>
+    <description>A (hopefully) temporary patch for Knitting x Wool 🙵 More mod that stops crashes</description>
+  </item>
   <item>
     <title>Handbook &amp; Craft Optimizer.</title>
     <link>https://mods.vintagestory.at/show/mod/handbookcraftoptimizer</link>
@@ -48,13 +202,6 @@
     <description>Skillscapes.BETA</description>
   </item>
   <item>
-    <title>Opttage Visual</title>
-    <link>https://mods.vintagestory.at/show/mod/opttagevisual</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/opttagevisual#13683</guid>
-    <pubDate>Thu, 26 Nov 2026 02:47:26 -0000</pubDate>
-    <description>Terrain appears sooner: faster chunk loading on the client, optional smarter chunk sending on server</description>
-  </item>
-  <item>
     <title>Tabacaria: Pipes &amp; Snuff</title>
     <link>https://mods.vintagestory.at/show/mod/tabacaria</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tabacaria#13814</guid>
@@ -62,158 +209,11 @@
     <description>A cozy tobacco shop: grow tobacco, smoke pipes in your mouth and enjoy flavoured snuff.</description>
   </item>
   <item>
-    <title>Bandit Raids</title>
-    <link>https://mods.vintagestory.at/show/mod/13785</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13785#13785</guid>
-    <pubDate>Thu, 26 Nov 2026 02:34:23 -0000</pubDate>
-    <description>Bandits that raid your base, loot your chests, set fire to your lands</description>
-  </item>
-  <item>
     <title>Finally! Linen Backpacks - Modular Backpacks Version</title>
     <link>https://mods.vintagestory.at/show/mod/modularlinenbackpacks</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modularlinenbackpacks#13813</guid>
     <pubDate>Thu, 26 Nov 2026 02:06:14 -0000</pubDate>
     <description>Modular version of Finally! Linen Backpacks to go alongside Modular Backpacks by Niikelion</description>
-  </item>
-  <item>
-    <title>Vintage E</title>
-    <link>https://mods.vintagestory.at/show/mod/12625</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12625#12625</guid>
-    <pubDate>Thu, 26 Nov 2026 01:41:46 -0000</pubDate>
-    <description>Project E for vintage story</description>
-  </item>
-  <item>
-    <title>Frigid Attire</title>
-    <link>https://mods.vintagestory.at/show/mod/frigidattire</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/frigidattire#13310</guid>
-    <pubDate>Thu, 26 Nov 2026 01:35:48 -0000</pubDate>
-    <description>Tempestarii Rp Clothing</description>
-  </item>
-  <item>
-    <title>Crown &amp; Coalition Chapter 2</title>
-    <link>https://mods.vintagestory.at/show/mod/11428</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11428#11428</guid>
-    <pubDate>Thu, 26 Nov 2026 01:11:37 -0000</pubDate>
-    <description>Chapter 2 additions for C&amp;C.</description>
-  </item>
-  <item>
-    <title>Hexxed Client</title>
-    <link>https://mods.vintagestory.at/show/mod/hexxed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/hexxed#10240</guid>
-    <pubDate>Thu, 26 Nov 2026 00:54:08 -0000</pubDate>
-    <description>Early client support for an upcoming Vintage Story multiplayer games network.</description>
-  </item>
-  <item>
-    <title>Brewmaster</title>
-    <link>https://mods.vintagestory.at/show/mod/13812</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13812#13812</guid>
-    <pubDate>Thu, 26 Nov 2026 00:53:41 -0000</pubDate>
-    <description>Bulk brewing, distilling and aging: a big vat, still, squeezer and liquid pipes for automated drinks</description>
-  </item>
-  <item>
-    <title>Extended Survival</title>
-    <link>https://mods.vintagestory.at/show/mod/13687</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13687#13687</guid>
-    <pubDate>Thu, 26 Nov 2026 00:47:25 -0000</pubDate>
-    <description>30-Day months, Immersive crafting, Designed for Long-Term Servers</description>
-  </item>
-  <item>
-    <title>Dead + C&amp;N Events Compatibility Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/deadeventscompat</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/deadeventscompat#13811</guid>
-    <pubDate>Thu, 26 Nov 2026 00:39:22 -0000</pubDate>
-    <description>Server fix for Dead + C&amp;N Events: arena deaths no longer leave players invisible and unhittable.</description>
-  </item>
-  <item>
-    <title>Steelworks</title>
-    <link>https://mods.vintagestory.at/show/mod/steelworks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/steelworks#13799</guid>
-    <pubDate>Thu, 26 Nov 2026 00:33:31 -0000</pubDate>
-    <description>Advanced metallurgy, multiblock steelmaking, specialty alloys, expanded equipment progression</description>
-  </item>
-  <item>
-    <title>TSearch</title>
-    <link>https://mods.vintagestory.at/show/mod/tsearch</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/tsearch#10450</guid>
-    <pubDate>Thu, 26 Nov 2026 00:18:55 -0000</pubDate>
-    <description>Press T on any item in your inventory or handbook to highlight nearby containers holding it.</description>
-  </item>
-  <item>
-    <title>Journeyman Skills</title>
-    <link>https://mods.vintagestory.at/show/mod/13444</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13444#13444</guid>
-    <pubDate>Thu, 26 Nov 2026 00:18:15 -0000</pubDate>
-    <description>Level 20 skills as you play, spend perk points, and specialize. Lighter, balanced XSkills-style</description>
-  </item>
-  <item>
-    <title>Green Thumb</title>
-    <link>https://mods.vintagestory.at/show/mod/13562</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13562#13562</guid>
-    <pubDate>Thu, 26 Nov 2026 00:08:10 -0000</pubDate>
-    <description>Seeds from any plant, AgriCraft-style crop breeding, compost, mushrooms and fruit tree grafting.</description>
-  </item>
-  <item>
-    <title>Hive And Honey</title>
-    <link>https://mods.vintagestory.at/show/mod/13724</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13724#13724</guid>
-    <pubDate>Thu, 26 Nov 2026 00:07:09 -0000</pubDate>
-    <description>Seven wild bee species, a big 3x3 apiary, woven basket hives, and a Beekeeper class.</description>
-  </item>
-  <item>
-    <title>Rustfall</title>
-    <link>https://mods.vintagestory.at/show/mod/rustfall</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustfall#13686</guid>
-    <pubDate>Thu, 26 Nov 2026 00:04:18 -0000</pubDate>
-    <description>A huge overhaul mod that adds new custom lore and worldtype. The core of the Rustfall modpack</description>
-  </item>
-  <item>
-    <title>Squeeze Salve - For the Larger Folk</title>
-    <link>https://mods.vintagestory.at/show/mod/squeezesalve</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/squeezesalve#13810</guid>
-    <pubDate>Wed, 25 Nov 2026 23:54:13 -0000</pubDate>
-    <description>Rub on salve to squeeze through tight doorways at full size. Three craftable tiers.</description>
-  </item>
-  <item>
-    <title>Mira Wood Compat</title>
-    <link>https://mods.vintagestory.at/show/mod/13704</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13704#13704</guid>
-    <pubDate>Wed, 25 Nov 2026 23:45:29 -0000</pubDate>
-    <description>Mira Wood Compat</description>
-  </item>
-  <item>
-    <title>Innovations Tester for Miraserver</title>
-    <link>https://mods.vintagestory.at/show/mod/13637</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13637#13637</guid>
-    <pubDate>Wed, 25 Nov 2026 23:44:26 -0000</pubDate>
-    <description>testing a system</description>
-  </item>
-  <item>
-    <title>Settlement Raids</title>
-    <link>https://mods.vintagestory.at/show/mod/13805</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13805#13805</guid>
-    <pubDate>Wed, 25 Nov 2026 23:24:10 -0000</pubDate>
-    <description>Role playing mod to allow players to attack each others claims</description>
-  </item>
-  <item>
-    <title>Shelf Obsessed</title>
-    <link>https://mods.vintagestory.at/show/mod/shelfobsessed</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/shelfobsessed#4313</guid>
-    <pubDate>Wed, 25 Nov 2026 23:12:27 -0000</pubDate>
-    <description>Put more things on bookshelves and more. When in doubt, put it on the shelf! </description>
-  </item>
-  <item>
-    <title>The Revived Lands [PATCHES]</title>
-    <link>https://mods.vintagestory.at/show/mod/therevivedpatches</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/therevivedpatches#10677</guid>
-    <pubDate>Wed, 25 Nov 2026 23:04:41 -0000</pubDate>
-    <description>Assets pack for The Revived Lands Vintage Story mod set.</description>
-  </item>
-  <item>
-    <title>Dynamic Seasonal Temperature</title>
-    <link>https://mods.vintagestory.at/show/mod/11883</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/11883#11883</guid>
-    <pubDate>Wed, 25 Nov 2026 23:00:55 -0000</pubDate>
-    <description>Adds long-term climate variability - some years mild, some brutally cold or scorching hot.</description>
   </item>
 </channel>
 </rss>
