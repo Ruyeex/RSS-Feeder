@@ -4,216 +4,216 @@
   <title>Vintage Story Mod DB - Latest Updates</title>
   <link>https://mods.vintagestory.at/</link>
   <description>Newest mod releases and updates from the Vintage Story Mod DB</description>
-  <lastBuildDate>Thu, 26 Nov 2026 22:52:17 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 04:51:03 +0000</lastBuildDate>
   <item>
-    <title>PlayerModelLibTesselateCrashFix</title>
-    <link>https://mods.vintagestory.at/show/mod/13838</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13838#13838</guid>
-    <pubDate>Thu, 26 Nov 2026 22:48:05 -0000</pubDate>
-    <description>Fixes PlayerModelLib crashing the client while tesselating your own player model</description>
+    <title>Celeritas Pack: Improv. Launch</title>
+    <link>https://mods.vintagestory.at/show/mod/celeritasimprovedlaunch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/celeritasimprovedlaunch#13850</guid>
+    <pubDate>Fri, 27 Nov 2026 04:48:44 -0000</pubDate>
+    <description>Optional launch files for fewer multi-second freezes. Not a mod: keep it out of the Mods folder.</description>
   </item>
   <item>
-    <title>Rustbound Magic: Craditz’s Crooked Codex</title>
-    <link>https://mods.vintagestory.at/show/mod/craditzscrookedcodex</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/craditzscrookedcodex#12628</guid>
-    <pubDate>Thu, 26 Nov 2026 22:47:58 -0000</pubDate>
-    <description>Adds 71 spells to Rustbound Magic, including chain lightning, portals, and stone sentries.</description>
+    <title>Celeritas Pack: Visus</title>
+    <link>https://mods.vintagestory.at/show/mod/visus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/visus#13771</guid>
+    <pubDate>Fri, 27 Nov 2026 04:46:32 -0000</pubDate>
+    <description>Client FPS: entity culling, lighter animations, wind fade, smoother chunk loading. Celeritas.</description>
   </item>
   <item>
-    <title>Advanced Tool Parts</title>
-    <link>https://mods.vintagestory.at/show/mod/advancedtoolparts</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/advancedtoolparts#11633</guid>
-    <pubDate>Thu, 26 Nov 2026 22:46:28 -0000</pubDate>
-    <description>Add handles and bindings to your tools to make them faster and last longer!</description>
+    <title>Celeritas Pack: Grex</title>
+    <link>https://mods.vintagestory.at/show/mod/grex</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/grex#13770</guid>
+    <pubDate>Fri, 27 Nov 2026 04:45:18 -0000</pubDate>
+    <description>Lighter creature AI, faster pathfinding and fewer server freezes. Server side. Part of Celeritas.</description>
   </item>
   <item>
-    <title>Raptor race</title>
-    <link>https://mods.vintagestory.at/show/mod/raptorrace</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/raptorrace#13136</guid>
-    <pubDate>Thu, 26 Nov 2026 22:45:24 -0000</pubDate>
-    <description>This mod adds playable a race of humanoid raptors called Reliquiaeraptor.</description>
+    <title>Celeritas Pack: Artifex</title>
+    <link>https://mods.vintagestory.at/show/mod/artifex</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/artifex#13768</guid>
+    <pubDate>Fri, 27 Nov 2026 04:44:20 -0000</pubDate>
+    <description>Faster crafting grid, creative and handbook search, barrels for big modpacks. Part of Celeritas.</description>
   </item>
   <item>
-    <title>Squeeze Salve - For the Larger Folk</title>
-    <link>https://mods.vintagestory.at/show/mod/squeezesalve</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/squeezesalve#13810</guid>
-    <pubDate>Thu, 26 Nov 2026 22:39:55 -0000</pubDate>
-    <description>Rub on salve to squeeze through tight doorways at full size. Three craftable tiers.</description>
+    <title>Eternal Seraph: Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/eternalspatch</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/eternalspatch#2455</guid>
+    <pubDate>Fri, 27 Nov 2026 04:42:16 -0000</pubDate>
+    <description>Патч для серверу Вічний Серафим. Patch for the server Eternal Seraph.</description>
   </item>
   <item>
-    <title>Coal Piles</title>
-    <link>https://mods.vintagestory.at/show/mod/13718</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13718#13718</guid>
-    <pubDate>Thu, 26 Nov 2026 22:37:39 -0000</pubDate>
-    <description>Stack charcoal, brown coal, lignite, coke and contaminated coal on ground piles max 128 items</description>
+    <title>Tanning Redux</title>
+    <link>https://mods.vintagestory.at/show/mod/3434</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3434#3434</guid>
+    <pubDate>Fri, 27 Nov 2026 04:39:01 -0000</pubDate>
+    <description>Simple mod for refactoring tanning numbers and processes to eliminate leftover liquids</description>
   </item>
   <item>
-    <title>Esoterica</title>
-    <link>https://mods.vintagestory.at/show/mod/6087</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/6087#6087</guid>
-    <pubDate>Thu, 26 Nov 2026 22:30:52 -0000</pubDate>
-    <description>A sixth history community license mod merging the lore from Cultist Simulator with Vintage Story.</description>
+    <title>Molds+</title>
+    <link>https://mods.vintagestory.at/show/mod/moldsplus</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/moldsplus#4705</guid>
+    <pubDate>Fri, 27 Nov 2026 04:14:58 -0000</pubDate>
+    <description>Multi-tiered molds to cast more items at once!</description>
   </item>
   <item>
-    <title>Serverfixes for Miraserver</title>
-    <link>https://mods.vintagestory.at/show/mod/12127</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12127#12127</guid>
-    <pubDate>Thu, 26 Nov 2026 22:30:22 -0000</pubDate>
-    <description>My personal server fixes for small issues and errors</description>
+    <title>Advanced Backpack Construction System REDUX [Now With Lantern Bags!]</title>
+    <link>https://mods.vintagestory.at/show/mod/3193</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3193#3193</guid>
+    <pubDate>Fri, 27 Nov 2026 03:38:25 -0000</pubDate>
+    <description>ABCS Redux and rebalance with new Lantern Bags</description>
   </item>
   <item>
-    <title>Innovations Tester for Miraserver</title>
-    <link>https://mods.vintagestory.at/show/mod/13637</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13637#13637</guid>
-    <pubDate>Thu, 26 Nov 2026 22:26:02 -0000</pubDate>
-    <description>testing a system</description>
+    <title>Wilderlands Adjustments</title>
+    <link>https://mods.vintagestory.at/show/mod/7320</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/7320#7320</guid>
+    <pubDate>Fri, 27 Nov 2026 03:35:22 -0000</pubDate>
+    <description>A repository for a number of configurable values to adjust base game and Wilderlands mods content.</description>
   </item>
   <item>
-    <title>Helve Hammer Stencils</title>
-    <link>https://mods.vintagestory.at/show/mod/helvehammerstencils</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/helvehammerstencils#13835</guid>
-    <pubDate>Thu, 26 Nov 2026 21:58:17 -0000</pubDate>
-    <description>An arrowhead helve hammer that forges hot ingots into arrowheads on its own.</description>
+    <title>RucksackGlowFix</title>
+    <link>https://mods.vintagestory.at/show/mod/rucksackglowfix</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rucksackglowfix#13817</guid>
+    <pubDate>Fri, 27 Nov 2026 03:22:31 -0000</pubDate>
+    <description>Aldi's Classes Rucksack is borked for lighting in ver 2.0.0, this mod patches it to correct it</description>
   </item>
   <item>
-    <title>Timewood Tree</title>
-    <link>https://mods.vintagestory.at/show/mod/10633</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/10633#10633</guid>
-    <pubDate>Thu, 26 Nov 2026 21:56:26 -0000</pubDate>
-    <description>A mod that adds a rare tree and block that accelerates crop growth in a radius around it</description>
-  </item>
-  <item>
-    <title>Rustfall</title>
-    <link>https://mods.vintagestory.at/show/mod/rustfall</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustfall#13686</guid>
-    <pubDate>Thu, 26 Nov 2026 21:55:52 -0000</pubDate>
-    <description>A huge overhaul mod that adds new custom lore and worldtype. The core of the Rustfall modpack</description>
-  </item>
-  <item>
-    <title>Correct rock hardness</title>
-    <link>https://mods.vintagestory.at/show/mod/correctrockhardness</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/correctrockhardness#13564</guid>
-    <pubDate>Thu, 26 Nov 2026 21:48:54 -0000</pubDate>
-    <description>Adjusts extraction speed for different rock types to enhance realism</description>
-  </item>
-  <item>
-    <title>Shiver Fent Lean Mod</title>
-    <link>https://mods.vintagestory.at/show/mod/13823</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13823#13823</guid>
-    <pubDate>Thu, 26 Nov 2026 21:39:59 -0000</pubDate>
-    <description>The shiver horde is coming... </description>
-  </item>
-  <item>
-    <title>Easy Building</title>
-    <link>https://mods.vintagestory.at/show/mod/3290</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/3290#3290</guid>
-    <pubDate>Thu, 26 Nov 2026 21:34:33 -0000</pubDate>
-    <description>A simple mod where you get a bit more blocks and items from crafting!</description>
-  </item>
-  <item>
-    <title>Extended Survival</title>
-    <link>https://mods.vintagestory.at/show/mod/13687</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13687#13687</guid>
-    <pubDate>Thu, 26 Nov 2026 21:17:59 -0000</pubDate>
-    <description>30-Day months, Immersive crafting, Designed for Long-Term Servers</description>
-  </item>
-  <item>
-    <title>Food Preservation &amp; Display</title>
-    <link>https://mods.vintagestory.at/show/mod/foodpreserve</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/foodpreserve#12135</guid>
-    <pubDate>Thu, 26 Nov 2026 21:07:25 -0000</pubDate>
-    <description>Taxidermy, but for food.</description>
-  </item>
-  <item>
-    <title>Aegis</title>
-    <link>https://mods.vintagestory.at/show/mod/aegis</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/aegis#12213</guid>
-    <pubDate>Thu, 26 Nov 2026 21:05:10 -0000</pubDate>
-    <description>The client mod for Aegis Networks servers</description>
-  </item>
-  <item>
-    <title>Backrooms: Survival Story</title>
-    <link>https://mods.vintagestory.at/show/mod/backrooms</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/backrooms#12452</guid>
-    <pubDate>Thu, 26 Nov 2026 20:57:50 -0000</pubDate>
-    <description>Wake in the Backrooms with nothing. Scavenge, build a home. Make a life. 30+ levels, 35+ entities. </description>
-  </item>
-  <item>
-    <title>Modern Arsenal</title>
-    <link>https://mods.vintagestory.at/show/mod/modernarsenal</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/modernarsenal#13699</guid>
-    <pubDate>Thu, 26 Nov 2026 20:55:47 -0000</pubDate>
-    <description>Forge your rifle, cast your bullets, reload your brass. Every round simulated in flight.</description>
-  </item>
-  <item>
-    <title>Lingam's Panning Tweak</title>
-    <link>https://mods.vintagestory.at/show/mod/lingamspanningtweak</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/lingamspanningtweak#13031</guid>
-    <pubDate>Thu, 26 Nov 2026 20:41:53 -0000</pubDate>
-    <description>Pan beneath solid blocks and collect from the top of stacked sand, gravel, and bony soil.</description>
-  </item>
-  <item>
-    <title>IndustrialStory</title>
-    <link>https://mods.vintagestory.at/show/mod/industrialstory</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/industrialstory#9209</guid>
-    <pubDate>Thu, 26 Nov 2026 20:38:42 -0000</pubDate>
-    <description>Overhauls metalworking, chemistry, and glassworking. </description>
+    <title>Plate Armor Recipes</title>
+    <link>https://mods.vintagestory.at/show/mod/13849</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13849#13849</guid>
+    <pubDate>Fri, 27 Nov 2026 01:46:22 -0000</pubDate>
+    <description>Janky mod to craft the plate armor parts.</description>
   </item>
   <item>
     <title>Opttage Visual</title>
     <link>https://mods.vintagestory.at/show/mod/opttagevisual</link>
     <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/opttagevisual#13683</guid>
-    <pubDate>Thu, 26 Nov 2026 20:37:50 -0000</pubDate>
+    <pubDate>Fri, 27 Nov 2026 01:12:14 -0000</pubDate>
     <description>Smoother play: terrain appears sooner, no memory freezes, busy chat no longer stalls the game</description>
   </item>
   <item>
-    <title>Mixed Fruit Juice</title>
-    <link>https://mods.vintagestory.at/show/mod/mixedfruitjuice</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/mixedfruitjuice#13834</guid>
-    <pubDate>Thu, 26 Nov 2026 20:26:58 -0000</pubDate>
-    <description>Press or blend mixed fruit juice, ferment wine, and bake fruit granola or berry leather.</description>
+    <title>Rustfall</title>
+    <link>https://mods.vintagestory.at/show/mod/rustfall</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/rustfall#13686</guid>
+    <pubDate>Fri, 27 Nov 2026 01:10:31 -0000</pubDate>
+    <description>A huge overhaul mod that adds new custom lore and worldtype. The core of the Rustfall modpack</description>
   </item>
   <item>
-    <title>HeadTrackCam</title>
-    <link>https://mods.vintagestory.at/show/mod/headtrackcam</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/headtrackcam#13822</guid>
-    <pubDate>Thu, 26 Nov 2026 19:54:59 -0000</pubDate>
-    <description>Look around with your head (OpenTrack) - aim stays with the mouse. Adds an over-the-shoulder camera.</description>
+    <title>Serverfixes for Miraserver</title>
+    <link>https://mods.vintagestory.at/show/mod/12127</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/12127#12127</guid>
+    <pubDate>Fri, 27 Nov 2026 01:08:03 -0000</pubDate>
+    <description>My personal server fixes for small issues and errors</description>
   </item>
   <item>
-    <title>NQ Lands</title>
-    <link>https://mods.vintagestory.at/show/mod/nqland</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/nqland#13602</guid>
-    <pubDate>Thu, 26 Nov 2026 19:34:37 -0000</pubDate>
-    <description>Cities, plots and land protection for Vintage Story servers, paid in Digital Gears.</description>
+    <title>Dar's Server Utilities</title>
+    <link>https://mods.vintagestory.at/show/mod/darlemsserverutilities</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/darlemsserverutilities#9433</guid>
+    <pubDate>Fri, 27 Nov 2026 01:05:32 -0000</pubDate>
+    <description>Combines my mods with the intent to be used specifically on Sundered Isles Server</description>
   </item>
   <item>
-    <title>Tweaks for Ghosting for Mira server</title>
-    <link>https://mods.vintagestory.at/show/mod/13691</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13691#13691</guid>
-    <pubDate>Thu, 26 Nov 2026 19:34:07 -0000</pubDate>
-    <description>just some tweaks involving ghosting</description>
+    <title>Chronicle Woodworking</title>
+    <link>https://mods.vintagestory.at/show/mod/chroniclewoodworking</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chroniclewoodworking#13848</guid>
+    <pubDate>Fri, 27 Nov 2026 01:00:00 -0000</pubDate>
+    <description>Chop logs where they lie, saw boards on sawhorses with a pit saw, and strip bark for tanning.</description>
   </item>
   <item>
-    <title>Rusty Shell Fork</title>
-    <link>https://mods.vintagestory.at/show/mod/4609</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/4609#4609</guid>
-    <pubDate>Thu, 26 Nov 2026 19:31:11 -0000</pubDate>
-    <description>A mod that aims to add industrial warfare to Vintage Story.</description>
+    <title>Chronicle Village</title>
+    <link>https://mods.vintagestory.at/show/mod/chroniclevillage</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chroniclevillage#13847</guid>
+    <pubDate>Fri, 27 Nov 2026 00:59:17 -0000</pubDate>
+    <description>A hermit and other townsfolk who come to your camp, teach Chronicle chapters and can settle in lean-</description>
   </item>
   <item>
-    <title>C&amp;N Towable</title>
-    <link>https://mods.vintagestory.at/show/mod/13832</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13832#13832</guid>
-    <pubDate>Thu, 26 Nov 2026 19:28:49 -0000</pubDate>
-    <description>A support mod for carts and heavy weapons.</description>
+    <title>Chronicle Stitchcraft</title>
+    <link>https://mods.vintagestory.at/show/mod/chroniclestitchcraft</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chroniclestitchcraft#13846</guid>
+    <pubDate>Fri, 27 Nov 2026 00:58:28 -0000</pubDate>
+    <description>Spin, weave, cut and sew your own clothes: cloth pieces cut on the tailor's table and sewn with a ne</description>
   </item>
   <item>
-    <title>Faster Chunks</title>
-    <link>https://mods.vintagestory.at/show/mod/fastchunks</link>
-    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/fastchunks#13829</guid>
-    <pubDate>Thu, 26 Nov 2026 19:26:47 -0000</pubDate>
-    <description>Speeds up chunk reception, decoding, and common mesh work on the client.</description>
+    <title>Chronicle Geology</title>
+    <link>https://mods.vintagestory.at/show/mod/chroniclegeology</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chroniclegeology#13845</guid>
+    <pubDate>Fri, 27 Nov 2026 00:57:33 -0000</pubDate>
+    <description>Ore comes in bodies with real shapes, with signs at the surface and a cave-in warning underground.</description>
+  </item>
+  <item>
+    <title>Extended Survival</title>
+    <link>https://mods.vintagestory.at/show/mod/13687</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13687#13687</guid>
+    <pubDate>Fri, 27 Nov 2026 00:57:30 -0000</pubDate>
+    <description>30-Day months, Immersive crafting, Designed for Long-Term Servers</description>
+  </item>
+  <item>
+    <title>Petroleum Age: Iron &amp; Refining Patch</title>
+    <link>https://mods.vintagestory.at/show/mod/13200</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13200#13200</guid>
+    <pubDate>Fri, 27 Nov 2026 00:56:57 -0000</pubDate>
+    <description>Petroleum Age: Iron &amp; Refining Patch adds iron-friendly recipes, crude oil → bitumen → coke cooking,</description>
+  </item>
+  <item>
+    <title>Innovations Tester for Miraserver</title>
+    <link>https://mods.vintagestory.at/show/mod/13637</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/13637#13637</guid>
+    <pubDate>Fri, 27 Nov 2026 00:54:06 -0000</pubDate>
+    <description>testing a system</description>
+  </item>
+  <item>
+    <title>Chronicle Fishing</title>
+    <link>https://mods.vintagestory.at/show/mod/chroniclefishing</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chroniclefishing#13844</guid>
+    <pubDate>Fri, 27 Nov 2026 00:53:35 -0000</pubDate>
+    <description>Catch and release: live fish you can carry in a bucket of water, put back, or watch die out of water</description>
+  </item>
+  <item>
+    <title>Chronicle Empty Hand</title>
+    <link>https://mods.vintagestory.at/show/mod/chronicleemptyhand</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chronicleemptyhand#13843</guid>
+    <pubDate>Fri, 27 Nov 2026 00:52:25 -0000</pubDate>
+    <description>A permanent empty-hand slot left of the hotbar, so you can always put your hands free.</description>
+  </item>
+  <item>
+    <title>Chronicle Crafting</title>
+    <link>https://mods.vintagestory.at/show/mod/chroniclecrafting</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chroniclecrafting#13842</guid>
+    <pubDate>Fri, 27 Nov 2026 00:49:40 -0000</pubDate>
+    <description>Craft in the world instead of the grid: pile ingredients on any surface and make the recipe with the</description>
+  </item>
+  <item>
+    <title>Chronicle Corpses</title>
+    <link>https://mods.vintagestory.at/show/mod/chroniclecorpses</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chroniclecorpses#13841</guid>
+    <pubDate>Fri, 27 Nov 2026 00:48:11 -0000</pubDate>
+    <description>Dead animals stay in the world: carry, drag and put them down, and they rot over time.</description>
+  </item>
+  <item>
+    <title>Chronicle Butchering</title>
+    <link>https://mods.vintagestory.at/show/mod/chroniclebutchering</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chroniclebutchering#13840</guid>
+    <pubDate>Fri, 27 Nov 2026 00:46:39 -0000</pubDate>
+    <description>Hang, bleed, skin and butcher animals on hooks and tables, and make trophy heads and full mounts.</description>
+  </item>
+  <item>
+    <title>Chronicle</title>
+    <link>https://mods.vintagestory.at/show/mod/chronicle</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/chronicle#13839</guid>
+    <pubDate>Fri, 27 Nov 2026 00:40:57 -0000</pubDate>
+    <description>A lesson book that walks you through Vintage Story, chapter by chapter, from sticks and flint onward</description>
+  </item>
+  <item>
+    <title>Waypoint Compass</title>
+    <link>https://mods.vintagestory.at/show/mod/waypointcompass</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/waypointcompass#12079</guid>
+    <pubDate>Fri, 27 Nov 2026 00:33:37 -0000</pubDate>
+    <description>Copper, bronze or steel compass watch: HUD compass with cardinals, waypoints and players.</description>
+  </item>
+  <item>
+    <title>Smart TV Darcade</title>
+    <link>https://mods.vintagestory.at/show/mod/smarttvdarcade</link>
+    <guid isPermaLink="false">https://mods.vintagestory.at/show/mod/smarttvdarcade#12477</guid>
+    <pubDate>Thu, 26 Nov 2026 23:41:59 -0000</pubDate>
+    <description>An arcade add-on for Smart TV.</description>
   </item>
 </channel>
 </rss>
